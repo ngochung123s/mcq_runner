@@ -10,7 +10,7 @@
 - **Giải thích từng đáp án:** nếu câu hỏi có `option_explanations` (mảng, mỗi phần tử ứng với một phương án), chế độ Tutor và trang Kết quả hiện lời giải ngay dưới từng phương án (đáp án đúng màu xanh, phương án sai bạn chọn màu đỏ, còn lại màu xám), kèm `explanation` tổng quát. Bộ đề cũ không có trường này vẫn chạy như trước.
 - **Trường tùy chọn mới của câu hỏi:** `type` (`vignette` = Ca lâm sàng, `concept` = Khái niệm), `topic`, `difficulty` (1 Dễ, 2 Vừa, 3 Khó), `bloom`, `source`. Trang Kết quả có thêm bảng kết quả theo `topic`. Dấu xuống dòng `\n` trong `text` được giữ nguyên; dòng cuối được in đậm làm câu hỏi chính, các dòng trên là ca lâm sàng.
 - **4 đến 6 phương án (A–F):** phím `1`–`6` hoặc `A`–`F` để chọn. Với câu 6 phương án, phím `F` chọn phương án F và gắn cờ chuyển thành `Shift`+`F`.
-- **Thư viện đề (thay cho `bundled_banks.js`):** xem mục "Thư viện đề & quy trình nhập nhanh" bên dưới.
+- **Thư viện đề:** xem mục "Thư viện đề & quy trình nhập nhanh" bên dưới.
 - **Xuất TXT:** mỗi bộ đề có thêm nút xuất `.txt` theo mẫu `Câu N:` / `A.` / `Đáp án:` / `Giải thích:` (TXT không chứa giải thích từng đáp án, topic, độ khó; dùng JSON để giữ đủ). Nhập file JSON một bộ đề có trường mới sẽ giữ nguyên các trường đó khi lưu.
 
 ## Thư viện đề & quy trình nhập nhanh
