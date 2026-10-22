@@ -1,0 +1,968 @@
+{
+  "id": "bank_ped51_thap_tim",
+  "title": "PED-51: Thấp tim ở trẻ em (40 câu ca lâm sàng)",
+  "description": "Bệnh sinh, tiêu chuẩn Jones 2015, viêm tim, biểu hiện ngoài tim, điều trị đợt cấp, phòng thấp cấp I và II. Một đáp án đúng nhất; có giải thích cho từng phương án.",
+  "updated": "2026-10-22T12:06:44Z",
+  "questions": [
+    {
+      "id": "PED51-A01",
+      "type": "vignette",
+      "topic": "Bệnh sinh",
+      "subtopic": "Cơ chế miễn dịch theo cơ quan: não",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "PED-51 §2.4",
+      "text": "Bé gái 10 tuổi, 3 tuần nay chữ viết xấu đi, hay đánh rơi đồ, tay chân có cử động múa may biên độ lớn không nhịp nhàng, tăng khi lo lắng và hết khi ngủ. Ba tháng trước bé đau họng 3 ngày rồi tự khỏi. Khớp không sưng, nghe tim bình thường, siêu âm tim Doppler bình thường, ASLO 150 Todd.\nCơ chế bệnh sinh nào giải thích tốt nhất các cử động bất thường của bé?",
+      "options": [
+        "Kháng thể chống liên cầu phản ứng chéo với lysoganglioside ở nhân đuôi và nhân bèo",
+        "Kháng thể chống protein M phản ứng chéo với myosin và laminin ở cơ tim và van tim",
+        "Phức hợp miễn dịch chứa kháng nguyên liên cầu lắng đọng ở màng đáy cầu thận, hoạt hóa bổ thể",
+        "Phức hợp miễn dịch lưu hành lắng đọng thoáng qua ở màng hoạt dịch khớp và mao mạch dưới da"
+      ],
+      "correct": 0,
+      "explanation": "Cử động múa vờn khởi phát muộn sau viêm họng, tăng khi xúc động và hết khi ngủ là múa vờn Sydenham. Cơ chế là <b>kháng thể chống liên cầu phản ứng chéo với lysoganglioside ở nhân đuôi và nhân bèo của hạch nền</b>. Giáo trình giải thích mỗi cơ quan bằng một cơ chế khác nhau: tim do protein M giống myosin và laminin, khớp và da do phức hợp miễn dịch, cầu thận (hậu nhiễm liên cầu) do phức hợp miễn dịch ở màng đáy.",
+      "option_explanations": [
+        "Đúng — kháng thể chống liên cầu gắn với lysoganglioside ở hạch nền gây cử động múa vờn của Sydenham.",
+        "Sai — đây là cơ chế bắt chước phân tử gây viêm tim (đúng cho trẻ có thổi mới, hở van trên siêu âm); bé này nghe tim và siêu âm tim bình thường.",
+        "Sai — đây là cơ chế của viêm cầu thận cấp hậu nhiễm liên cầu (đúng cho trẻ phù, đái máu, C3 giảm); bé này không có biểu hiện thận.",
+        "Sai — đây là cơ chế giáo trình nêu cho viêm khớp và hồng ban vòng (đúng cho trẻ sưng khớp, ban); bé này khớp không sưng, da bình thường."
+      ]
+    },
+    {
+      "id": "PED51-A02",
+      "type": "vignette",
+      "topic": "Bệnh sinh",
+      "subtopic": "Nhiễm liên cầu da so với họng: biến chứng miễn dịch",
+      "bloom": "phân tích",
+      "difficulty": 2,
+      "source": "PED-51 §1.3, §2.3",
+      "text": "Bé trai 6 tuổi nhập viện vì phù mi mắt và nước tiểu màu nâu đỏ 2 ngày. Ba tuần trước bé có các mảng chốc lở đóng vảy vàng ở cẳng chân, chưa được điều trị; cấy dịch tổn thương mọc liên cầu β tan huyết nhóm A. Khám: huyết áp 125/80 mmHg, không sốt, không sưng khớp, tim phổi bình thường. Nước tiểu có hồng cầu và trụ hồng cầu, protein niệu 1+, C3 huyết thanh giảm, anti-DNase B tăng.\nBiến chứng miễn dịch nào sau nhiễm liên cầu nhóm A phù hợp nhất với bệnh cảnh này?",
+      "options": [
+        "Viêm cầu thận cấp hậu nhiễm liên cầu",
+        "Thấp tim đợt đầu với viêm tim là biểu hiện chính",
+        "Hội chứng thận hư tổn thương tối thiểu khởi phát sau nhiễm khuẩn",
+        "Viêm khớp phản ứng sau nhiễm liên cầu họng"
+      ],
+      "correct": 0,
+      "explanation": "Bé có hội chứng thận viêm (phù, đái máu, tăng huyết áp, C3 giảm) 3 tuần sau nhiễm liên cầu da: đúng với viêm cầu thận cấp hậu nhiễm liên cầu. Thấp tim đi kèm nhiễm liên cầu họng và biểu hiện bằng viêm tim, khớp, múa vờn, ban, hạt; ở bé này không có biểu hiện nào trong số đó. Khi nhiễm liên cầu da, hãy nghĩ đến viêm cầu thận trước.",
+      "option_explanations": [
+        "Đúng — C3 giảm, đái máu và tăng huyết áp sau nhiễm liên cầu da 3 tuần là viêm cầu thận cấp hậu nhiễm liên cầu.",
+        "Sai — đúng cho trẻ có viêm họng liên cầu rồi viêm khớp di chuyển hoặc thổi tim mới; bé này không có biểu hiện tim, khớp nào.",
+        "Sai — đúng cho trẻ phù, protein niệu nhiều, không đái máu, C3 bình thường; bé này có đái máu, trụ hồng cầu, tăng huyết áp và C3 giảm.",
+        "Sai — đúng cho trẻ viêm khớp dai dẳng ngay sau viêm họng liên cầu, đáp ứng kém NSAID; bé này không sưng khớp."
+      ]
+    },
+    {
+      "id": "PED51-A03",
+      "type": "concept",
+      "topic": "Bệnh sinh",
+      "subtopic": "Giải phẫu bệnh: sùi hạt kê trên van",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "PED-51 §3",
+      "text": "Giải phẫu tử thiết một trẻ tử vong do viêm tim thấp nặng, 5 tuần sau viêm họng: ở mặt nhĩ của van hai lá có một dải nốt nhỏ li ti xếp đều thành hàng sát mép van; mô học thấy lớp tế bào phủ bề mặt bị bong, không có vi khuẩn.\nĐây là tổn thương mô bệnh học nào của thấp tim?",
+      "options": [
+        "Thoái hóa dạng tơ huyết và phù collagen của giai đoạn viêm xuất tiết sớm",
+        "Sẹo xơ co rút van tạo hình miệng cá mè của giai đoạn xơ hóa",
+        "Hạt Aschoff quanh mạch máu nhỏ ở cơ tim, đặc trưng của giai đoạn tạo u hạt",
+        "Sùi hạt kê do tiểu cầu và fibrin bám trên nội mô bong dọc đường khép của lá van"
+      ],
+      "correct": 3,
+      "explanation": "Dải nốt nhỏ li ti xếp đều sát mép van, trên nền lớp phủ bề mặt bong và không có vi khuẩn, là sùi hạt kê (verrucae) do tiểu cầu và fibrin bám vào; đây là tổn thương bề mặt van trong đợt viêm cấp. Hạt Aschoff nằm ở cơ tim, quanh mạch máu nhỏ; thoái hóa tơ huyết là tổn thương vi thể sớm; xơ hóa co rút van là giai đoạn muộn sau nhiều năm.",
+      "option_explanations": [
+        "Sai — đây là tổn thương vi thể của những tuần đầu, ở chất nền mô liên kết (đúng cho trẻ mổ tử thiết sớm với collagen phù nề); ca này thấy nốt nhìn được bằng mắt thường trên mép van.",
+        "Sai — xơ hóa co rút van là giai đoạn cuối sau nhiều tháng đến nhiều năm; ca này mới 5 tuần.",
+        "Sai — hạt Aschoff là ổ u hạt ở cơ tim quanh mạch máu nhỏ (đúng cho trẻ có sinh thiết cơ tim với tế bào Anitschkow); tổn thương ở ca này nằm trên bề mặt van.",
+        "Đúng — dải nốt li ti thành hàng sát mép van trên bề mặt bong, không vi khuẩn, là sùi hạt kê của viêm van thấp cấp."
+      ]
+    },
+    {
+      "id": "PED51-A04",
+      "type": "vignette",
+      "topic": "Viêm tim",
+      "subtopic": "Tiếng thổi giữa tâm trương ở mỏm: hẹp hai lá hậu thấp so với Carey Coombs",
+      "bloom": "phân tích",
+      "difficulty": 3,
+      "source": "PED-51 §4.2",
+      "text": "Bé gái 14 tuổi có thấp tim năm 8 tuổi, gia đình bỏ tiêm phòng từ 3 năm nay, đến khám vì mệt khi chạy nhảy. Không sốt, không đau khớp, ESR 10 mm/h, CRP âm tính, ASLO 150 Todd. Khám: T1 vang, tiếng thổi giữa tâm trương rền ở mỏm có tiếng clắc mở van, không có thổi tâm thu, không có thổi ở đáy tim. Siêu âm tim: lá van hai lá dày, mép van dính, hạn chế mở dạng vòm, diện tích lỗ van 1,2 cm², không có luồng thông bất thường.\nTiếng thổi giữa tâm trương ở mỏm của bé được giải thích bởi cơ chế nào?",
+      "options": [
+        "Hẹp thực sự lỗ van hai lá do mép van dính và dây chằng co rút sau nhiều năm",
+        "Dòng hở chủ phụt ngược vào lá trước van hai lá làm van rung ở thì tâm trương",
+        "Tăng lưu lượng qua van hai lá do luồng thông trái–phải lớn qua ống động mạch còn tồn tại",
+        "Hẹp tương đối do tăng lưu lượng máu qua lá van hai lá đang phù nề vì viêm cấp"
+      ],
+      "correct": 0,
+      "explanation": "Bé không có dấu hiệu viêm (ESR, CRP, ASLO bình thường) nhưng có van hai lá dày, mép dính, hạn chế mở dạng vòm, diện tích lỗ van 1,2 cm² và tiếng clắc mở van: đây là hẹp hai lá thật, di chứng muộn của bệnh tim hậu thấp. Tiếng thổi Carey Coombs xuất hiện trong đợt viêm van cấp khi lỗ van còn bình thường và biến mất khi hết đợt cấp.",
+      "option_explanations": [
+        "Đúng — van dày, mép dính, hạn chế mở, diện tích 1,2 cm² và clắc mở van là hẹp hai lá thật do xơ hóa sau nhiều năm.",
+        "Sai — tiếng Austin Flint đúng cho bệnh nhân hở chủ nặng; bé này không có thổi ở đáy tim.",
+        "Sai — thổi giữa tâm trương do tăng lưu lượng qua shunt đúng cho trẻ còn ống động mạch lớn; siêu âm của bé không có luồng thông nào.",
+        "Sai — Carey Coombs là hẹp tương đối trong đợt viêm van hai lá cấp, lỗ van bình thường (đúng cho trẻ đang sốt, ASLO tăng, thổi tâm thu mới); bé này không còn viêm và lỗ van đã hẹp."
+      ]
+    },
+    {
+      "id": "PED51-A05",
+      "type": "vignette",
+      "topic": "Viêm tim",
+      "subtopic": "Phân độ viêm tim theo giáo trình: thể nhẹ",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "PED-51 §4.2; PEDYTB §5.2",
+      "text": "Bé trai 9 tuổi nhập viện vì sưng đau gối rồi cổ chân, di chuyển trong 5 ngày, sốt 38,4°C, 2 tuần sau viêm họng. Khám: mạch 100 lần/phút, thở 22 lần/phút, thổi toàn tâm thu 2/6 ở mỏm, không lan, gan không to, không phù. X-quang ngực: chỉ số tim–ngực 0,48. Siêu âm tim: hở hai lá nhẹ, chức năng thất trái bình thường. ASLO 800 Todd.\nTheo cách phân độ của giáo trình Nhi khoa, mức độ viêm tim của bé là gì?",
+      "options": [
+        "Viêm tim dưới lâm sàng: không có tiếng thổi, chỉ thấy hở van bệnh lý trên siêu âm Doppler",
+        "Viêm tim nhẹ: tim không to, không suy tim, thổi dưới 3/6 và thường hết sau đợt cấp",
+        "Viêm tim nặng: tim to, suy tim, nhiều van tổn thương và thường để lại di chứng van sau đợt cấp",
+        "Viêm tim trung bình: không suy tim, tiếng thổi rõ hơn và thường còn tồn tại sau đợt cấp"
+      ],
+      "correct": 1,
+      "explanation": "Bé có tiếng thổi 2/6 (dưới 3/6), tim không to (chỉ số tim–ngực 0,48), không suy tim và chỉ hở hai lá nhẹ: đây là viêm tim nhẹ. Viêm tim trung bình có tiếng thổi rõ hơn, thường còn sau đợt cấp; viêm tim nặng có tim to, suy tim; viêm tim dưới lâm sàng không có tiếng thổi.",
+      "option_explanations": [
+        "Sai — đúng cho trẻ không nghe được thổi nhưng siêu âm có hở van bệnh lý; bé này có thổi 2/6 nghe được.",
+        "Đúng — thổi dưới 3/6, tim không to, không suy tim xếp bệnh nhân vào viêm tim nhẹ.",
+        "Sai — đúng cho trẻ tim to, suy tim, thổi lớn, tổn thương nhiều van; bé này không có dấu hiệu suy tim, tim không to.",
+        "Sai — đúng cho trẻ có tiếng thổi rõ (từ 3/6) và tổn thương van thường còn tồn tại sau đợt cấp; bé này chỉ thổi 2/6 và hở nhẹ."
+      ]
+    },
+    {
+      "id": "PED51-A06",
+      "type": "vignette",
+      "topic": "Viêm tim",
+      "subtopic": "Hở van động mạch chủ trong viêm van cấp",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "PED-51 §4.2",
+      "text": "Bé gái 10 tuổi sưng đau cổ tay và khuỷu tay di chuyển 5 ngày, sốt 38,3°C, ba tuần sau một đợt viêm họng. Khám khi cho bé ngồi cúi ra trước và thở ra hết rồi nín thở: nghe tiếng thổi tâm trương êm, giảm dần ngay sau T2, rõ nhất ở khoang liên sườn 3 bờ trái xương ức; không nghe thổi tâm thu ở mỏm. Huyết áp 110/40 mmHg, mạch nảy mạnh và chìm nhanh.\nTổn thương van nào giải thích bệnh cảnh này?",
+      "options": [
+        "Hở van động mạch chủ",
+        "Hở van hai lá",
+        "Hẹp van hai lá",
+        "Hẹp van động mạch chủ"
+      ],
+      "correct": 0,
+      "explanation": "Thổi tâm trương êm, giảm dần ngay sau T2, nghe rõ ở khoang liên sườn 3 bờ trái xương ức khi ngồi cúi ra trước, kèm áp lực mạch rộng (110/40) và mạch Corrigan, là hở van động mạch chủ. Viêm van trong thấp tim thường ở van hai lá, nhưng van động mạch chủ là van thứ hai hay bị.",
+      "option_explanations": [
+        "Đúng — thổi tâm trương giảm dần ngay sau T2 và áp lực mạch rộng là hở chủ do viêm van.",
+        "Sai — hở hai lá cho thổi toàn tâm thu ở mỏm lan ra nách; bé này không nghe thổi tâm thu.",
+        "Sai — hẹp hai lá cho thổi giữa tâm trương ở mỏm với T1 vang, không có áp lực mạch rộng.",
+        "Sai — hẹp chủ cho thổi tâm thu tống máu lan lên cổ, không phải thổi tâm trương và không làm tăng áp lực mạch."
+      ]
+    },
+    {
+      "id": "PED51-A07",
+      "type": "vignette",
+      "topic": "Viêm tim",
+      "subtopic": "Viêm màng ngoài tim: điện tâm đồ",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "PED-51 §4.2, §5.3",
+      "text": "Bé trai 13 tuổi nhập viện vì đau ngực sau xương ức 3 ngày, tăng khi nằm ngửa và khi ho, đỡ khi ngồi cúi ra trước, kèm sốt 38,4°C và viêm họng cách đây 3 tuần. Khám: nghe tiếng cọ thô ráp ở vùng trước tim, tiếng tim hơi mờ, không có tiếng thổi mới. ASLO 700 Todd, CRP 8 mg/dL.\nBiến đổi điện tâm đồ nào phù hợp nhất với tổn thương tim của bé?",
+      "options": [
+        "PR kéo dài kèm block nhĩ thất độ I",
+        "Sóng T dẹt hoặc đảo kèm ngoại tâm thu thất",
+        "Block nhĩ thất độ III với nhịp thoát",
+        "ST chênh lên lõm đồng hướng ở nhiều chuyển đạo"
+      ],
+      "correct": 3,
+      "explanation": "Đau ngực giảm khi ngồi cúi ra trước, có tiếng cọ màng ngoài tim: viêm màng ngoài tim, biểu hiện điện tâm đồ là ST chênh lên lõm đồng hướng ở nhiều chuyển đạo. PR kéo dài, biến đổi sóng T với ngoại tâm thu thất hay block nhĩ thất gặp khi viêm cơ tim, ảnh hưởng hệ dẫn truyền.",
+      "option_explanations": [
+        "Sai — PR kéo dài phản ánh viêm lan tới nút nhĩ thất, là tiêu chuẩn phụ ở trẻ không có viêm tim; bé này có đau ngực kiểu màng ngoài tim.",
+        "Sai — sóng T dẹt, ngoại tâm thu thất gợi ý viêm cơ tim (đúng cho trẻ mệt, nhịp nhanh không tương xứng sốt, tiếng ngựa phi).",
+        "Sai — block độ III là biến chứng nặng của viêm cơ tim, đúng cho trẻ ngất hoặc nhịp chậm; bé này không có biểu hiện dẫn truyền.",
+        "Đúng — ST chênh lên lõm đồng hướng nhiều chuyển đạo là dấu hiệu điện tâm đồ của viêm màng ngoài tim."
+      ]
+    },
+    {
+      "id": "PED51-A08",
+      "type": "vignette",
+      "topic": "Tiêu chuẩn Jones",
+      "subtopic": "Quần thể nguy cơ trung bình–cao: viêm một khớp",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "PED-51 §6.1",
+      "text": "Bé trai 8 tuổi sống ở vùng có tỷ lệ thấp tim lưu hành cao (quần thể nguy cơ trung bình–cao), nhập viện vì sưng nóng đau gối phải 4 ngày. Hai tuần trước bé đau họng. Nhiệt độ 38,3°C. Chọc dịch khớp: dịch vàng nhạt, bạch cầu 8.000/mm³, cấy vô khuẩn. Không nghe thổi tim; siêu âm tim Doppler và điện tâm đồ bình thường; không múa vờn, không ban, không hạt dưới da. ESR 42 mm/h, ASLO 700 Todd (tăng).\nTheo tiêu chuẩn Jones sửa đổi AHA 2015, kết luận nào đúng?",
+      "options": [
+        "Đủ chẩn đoán: viêm một khớp vô khuẩn là tiêu chuẩn chính, sốt và VS tăng là hai tiêu chuẩn phụ, kèm bằng chứng liên cầu",
+        "Chưa đủ chẩn đoán: viêm khớp chỉ được tính tiêu chuẩn chính khi có từ hai khớp trở lên, nên bé mới có hai tiêu chuẩn phụ, chưa có tiêu chuẩn chính",
+        "Đủ chẩn đoán: có hai tiêu chuẩn chính là viêm khớp và bằng chứng nhiễm liên cầu mới",
+        "Chưa đủ chẩn đoán: sốt và VS của bé chưa đạt ngưỡng tiêu chuẩn phụ, nên mới có một tiêu chuẩn chính"
+      ],
+      "correct": 0,
+      "explanation": "Ở quần thể nguy cơ trung bình–cao, viêm một khớp vô khuẩn được tính là tiêu chuẩn chính; sốt ≥ 38,0°C (38,3°C) và VS ≥ 30 mm/h (42 mm/h) là hai tiêu chuẩn phụ. Công thức 1 chính + 2 phụ cùng bằng chứng liên cầu mới (ASLO tăng) đủ chẩn đoán thấp tim đợt đầu. Bằng chứng liên cầu là điều kiện đi kèm, không phải một tiêu chuẩn chính.",
+      "option_explanations": [
+        "Đúng — ở nhóm nguy cơ trung bình–cao, viêm một khớp vô khuẩn là tiêu chuẩn chính; sốt và VS đạt ngưỡng phụ; ASLO tăng là bằng chứng liên cầu.",
+        "Sai — đúng ở quần thể nguy cơ thấp, nơi chỉ viêm đa khớp mới là tiêu chuẩn chính; ở quần thể của bé, viêm một khớp cũng được tính.",
+        "Sai — bằng chứng nhiễm liên cầu là điều kiện bắt buộc đi kèm công thức, không đếm là tiêu chuẩn chính.",
+        "Sai — đúng cho bệnh nhân ở quần thể nguy cơ thấp (sốt ≥ 38,5°C, VS ≥ 60 mm/h); ở quần thể nguy cơ trung bình–cao ngưỡng là 38,0°C và 30 mm/h, bé đã đạt."
+      ]
+    },
+    {
+      "id": "PED51-A09",
+      "type": "vignette",
+      "topic": "Tiêu chuẩn Jones",
+      "subtopic": "Quần thể nguy cơ thấp: đau đa khớp",
+      "bloom": "phân tích",
+      "difficulty": 3,
+      "source": "PED-51 §6.1",
+      "text": "Tại một quốc gia có tỷ lệ thấp tim mới mắc không quá 2/100.000 trẻ trong độ tuổi đi học mỗi năm (quần thể nguy cơ thấp), bé gái 10 tuổi nhập viện vì đau nhiều khớp gối, cổ chân, cổ tay 5 ngày, không sưng nóng đỏ. Sốt 38,7°C, ESR 65 mm/h, CRP 4,2 mg/dL, ASLO 650 Todd (tăng). Nghe tim bình thường; siêu âm tim Doppler và điện tâm đồ bình thường; không múa vờn, không ban, không hạt.\nTheo tiêu chuẩn Jones sửa đổi AHA 2015, kết luận nào đúng?",
+      "options": [
+        "Chưa đủ: theo ngưỡng quần thể nguy cơ thấp, đau đa khớp chỉ là tiêu chuẩn phụ nên bé chưa có tiêu chuẩn chính nào",
+        "Đủ chẩn đoán: theo ngưỡng quần thể nguy cơ trung bình–cao, đau đa khớp là tiêu chuẩn chính, sốt và VS tăng là hai tiêu chuẩn phụ",
+        "Đủ chẩn đoán: theo ngưỡng quần thể nguy cơ thấp, ba tiêu chuẩn phụ cùng bằng chứng liên cầu mới là đủ cho đợt đầu",
+        "Chưa đủ: theo ngưỡng quần thể nguy cơ thấp, sốt và VS của bé chưa đạt ngưỡng của tiêu chuẩn phụ"
+      ],
+      "correct": 0,
+      "explanation": "Bé ở quần thể nguy cơ thấp, nơi chỉ viêm đa khớp mới là tiêu chuẩn chính; đau đa khớp chỉ là tiêu chuẩn phụ. Bé có ba tiêu chuẩn phụ (đau đa khớp, sốt 38,7°C ≥ 38,5°C, VS 65 ≥ 60 mm/h hoặc CRP ≥ 3,0 mg/dL) nhưng không có tiêu chuẩn chính; đợt đầu cần 2 chính hoặc 1 chính + 2 phụ. Cùng bệnh nhân này ở quần thể nguy cơ trung bình–cao thì đau đa khớp là tiêu chuẩn chính và đủ chẩn đoán.",
+      "option_explanations": [
+        "Đúng — ở nguy cơ thấp đau đa khớp chỉ là tiêu chuẩn phụ; ba tiêu chuẩn phụ không có tiêu chuẩn chính không đủ cho đợt thấp tim đầu tiên.",
+        "Sai — đúng nếu bé ở quần thể nguy cơ trung bình–cao, nơi đau đa khớp được tính là tiêu chuẩn chính; bé này ở quần thể nguy cơ thấp.",
+        "Sai — ba tiêu chuẩn phụ mà không có tiêu chuẩn chính không đủ cho đợt đầu tiên; ngưỡng thấp hơn chỉ dành cho đợt tái phát ở bệnh nhân đã có thấp tim hoặc bệnh tim hậu thấp.",
+        "Sai — đúng cho trẻ sốt 38,2°C hoặc VS 40 mm/h ở quần thể nguy cơ thấp; bé này sốt 38,7°C và VS 65 mm/h đã vượt ngưỡng."
+      ]
+    },
+    {
+      "id": "PED51-A10",
+      "type": "vignette",
+      "topic": "Tiêu chuẩn Jones",
+      "subtopic": "Múa vờn Sydenham đơn độc",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "PED-51 §6.3",
+      "text": "Bé gái 11 tuổi, 4 tháng nay chữ viết xấu dần, hay đánh rơi thìa, nhăn mặt vô cớ; gần đây tay chân múa may ngoài ý muốn, tăng khi lo lắng và hết khi ngủ. Không sốt, không đau khớp, không ban. Nghe tim bình thường; siêu âm tim Doppler bình thường. ESR 8 mm/h, CRP âm tính, ASLO 160 Todd, cấy họng âm tính. MRI sọ, ceruloplasmin huyết thanh và kháng thể kháng nhân đều bình thường.\nTheo tiêu chuẩn Jones sửa đổi AHA 2015, nguyên tắc chẩn đoán nào áp dụng cho bé?",
+      "options": [
+        "Đợt tái phát ở người đã có bệnh tim hậu thấp có thể chẩn đoán bằng các tiêu chuẩn phụ kèm bằng chứng liên cầu mới",
+        "Viêm tim âm thầm tiến triển chậm là đủ chẩn đoán, không cần bằng chứng liên cầu hay tiêu chuẩn khác",
+        "Đợt đầu cần hai tiêu chuẩn chính hoặc một chính cộng hai phụ, kèm bằng chứng nhiễm liên cầu mới",
+        "Múa vờn điển hình đã loại trừ nguyên nhân khác là đủ chẩn đoán, không cần bằng chứng liên cầu hay tiêu chuẩn khác"
+      ],
+      "correct": 3,
+      "explanation": "Múa vờn Sydenham xuất hiện muộn, 2–6 tháng sau viêm họng, khi kháng thể kháng liên cầu và các chỉ số viêm đã trở về bình thường. Vì vậy múa vờn điển hình, đã loại trừ nguyên nhân thần kinh khác (MRI, bệnh Wilson, lupus), là ngoại lệ: tự nó đủ chẩn đoán thấp tim mà không cần bằng chứng liên cầu hay tiêu chuẩn khác. Hai tình huống đặc biệt còn lại của Jones là viêm tim âm thầm (cũng không cần bằng chứng liên cầu) và đợt tái phát (ngưỡng thấp hơn nhưng vẫn cần bằng chứng liên cầu mới).",
+      "option_explanations": [
+        "Sai — đúng cho bệnh nhân đã có bệnh tim hậu thấp nay sốt, đau khớp sau viêm họng; bé này chưa có tiền sử thấp tim.",
+        "Sai — đúng cho bệnh nhân đến vì bệnh van hậu thấp hình thành âm thầm, không có đợt cấp rầm rộ; bé này có múa vờn.",
+        "Sai — đó là công thức của đợt đầu khi biểu hiện chính là khớp, tim, ban hay hạt; múa vờn là ngoại lệ không cần công thức này.",
+        "Đúng — múa vờn Sydenham đơn độc (đến muộn, kháng thể đã giảm, đã loại trừ nguyên nhân khác) là ngoại lệ, tự nó đủ chẩn đoán."
+      ]
+    },
+    {
+      "id": "PED51-A11",
+      "type": "vignette",
+      "topic": "Tiêu chuẩn Jones",
+      "subtopic": "Không đếm trùng: viêm tim và PR kéo dài",
+      "bloom": "phân tích",
+      "difficulty": 3,
+      "source": "PED-51 §6.3",
+      "text": "Bé trai 9 tuổi sống ở vùng nguy cơ trung bình–cao, nhập viện vì mệt và khó thở khi gắng sức, 3 tuần sau viêm họng. Nhiệt độ 38,2°C. Nghe thổi toàn tâm thu 3/6 ở mỏm lan ra nách, mới xuất hiện; siêu âm tim Doppler xác nhận hở hai lá bệnh lý. Điện tâm đồ: PR 0,24 giây (kéo dài so với tuổi). ESR 18 mm/h, CRP 0,5 mg/dL, ASLO 720 Todd (tăng). Không đau khớp, múa vờn, ban, hạt dưới da.\nTheo tiêu chuẩn Jones sửa đổi AHA 2015, kết luận nào đúng cho đợt thấp tim đầu tiên?",
+      "options": [
+        "Đủ chẩn đoán: 1 tiêu chuẩn chính (viêm tim) và 2 tiêu chuẩn phụ (sốt, PR kéo dài), kèm bằng chứng liên cầu",
+        "Chưa đủ: 1 tiêu chuẩn chính (viêm tim) và 1 tiêu chuẩn phụ (sốt), vì PR kéo dài không được tính thêm",
+        "Đủ chẩn đoán: 2 tiêu chuẩn chính (thổi lâm sàng, hở van bệnh lý trên siêu âm), kèm bằng chứng liên cầu",
+        "Chưa đủ: chỉ có 1 tiêu chuẩn chính (viêm tim), vì sốt 38,2°C chưa đạt ngưỡng của tiêu chuẩn phụ"
+      ],
+      "correct": 1,
+      "explanation": "Viêm tim (thổi hở hai lá mới, xác nhận trên siêu âm) là một tiêu chuẩn chính duy nhất; thổi lâm sàng và siêu âm là cùng một biểu hiện. Khi viêm tim đã là tiêu chuẩn chính thì PR kéo dài không được tính là tiêu chuẩn phụ; ESR và CRP không đạt ngưỡng, sốt 38,2°C đạt ngưỡng ≥ 38,0°C của quần thể nguy cơ trung bình–cao: còn 1 chính + 1 phụ, chưa đủ cho đợt đầu.",
+      "option_explanations": [
+        "Sai — đây là lỗi đếm trùng: lấy PR kéo dài làm tiêu chuẩn phụ khi viêm tim đã là tiêu chuẩn chính.",
+        "Đúng — PR kéo dài không được đếm khi viêm tim là tiêu chuẩn chính; sốt là tiêu chuẩn phụ duy nhất nên chỉ có 1 chính + 1 phụ, chưa đủ đợt đầu.",
+        "Sai — thổi lâm sàng và hở bệnh lý trên siêu âm đều là viêm tim, chỉ tính một tiêu chuẩn chính.",
+        "Sai — ngưỡng sốt 38,5°C chỉ áp dụng cho quần thể nguy cơ thấp; bé ở quần thể nguy cơ trung bình–cao nên sốt 38,2°C đã đạt ngưỡng ≥ 38,0°C."
+      ]
+    },
+    {
+      "id": "PED51-A12",
+      "type": "vignette",
+      "topic": "Tiêu chuẩn Jones",
+      "subtopic": "Ngưỡng chẩn đoán đợt tái phát (AHA 2015)",
+      "bloom": "vận dụng",
+      "difficulty": 3,
+      "source": "PED-51 §6.3; PEDYTB §7.1",
+      "text": "Bé gái 14 tuổi ở Thái Bình (quần thể nguy cơ trung bình–cao) có tiền sử thấp tim năm 9 tuổi, còn hở hai lá nhẹ, gia đình ngừng tiêm benzathine penicillin từ 8 tháng nay. Hai tuần trước bé viêm họng; nay ASLO 900 Todd (lần khám trước 250 Todd). Bác sĩ đang cân nhắc chẩn đoán đợt thấp tim tái phát.\nTheo tiêu chuẩn Jones sửa đổi AHA 2015, nếu bé có tổ hợp biểu hiện nào dưới đây thì đủ chẩn đoán đợt tái phát?",
+      "options": [
+        "Viêm tim mới trên siêu âm, PR 0,24 giây, sốt 38,5°C",
+        "Đau một khớp gối, VS 40 mm/giờ, CRP 4,5 mg/dL",
+        "Viêm đa khớp di chuyển, sốt 38,5°C, CRP 4,5 mg/dL",
+        "Viêm đa khớp di chuyển, đau khớp gối, sốt 38,5°C"
+      ],
+      "correct": 2,
+      "explanation": "Ở người đã có thấp tim hoặc bệnh tim hậu thấp, có bằng chứng nhiễm liên cầu mới, AHA 2015 cho phép chẩn đoán đợt tái phát khi có <b>2 tiêu chuẩn chính, hoặc 1 chính + 2 phụ, hoặc 3 phụ</b>. Viêm đa khớp (chính) + sốt ≥ 38°C (phụ) + CRP ≥ 3 mg/dL (phụ) là 1 chính + 2 phụ nên đủ. Lưu ý hai quy tắc đếm: PR kéo dài không được tính là tiêu chuẩn phụ khi viêm tim đã là tiêu chuẩn chính, và biểu hiện khớp chỉ được tính một lần (hoặc chính, hoặc phụ); VS và CRP tăng chỉ tính chung là một tiêu chuẩn phụ.",
+      "option_explanations": [
+        "Sai — Viêm tim là tiêu chuẩn chính nên PR kéo dài không được tính thêm; chỉ còn 1 chính + 1 phụ (sốt), chưa đủ ngưỡng tái phát.",
+        "Sai — Đau một khớp là tiêu chuẩn phụ ở quần thể nguy cơ trung bình–cao, còn VS và CRP tăng chỉ tính chung một tiêu chuẩn phụ: tổng cộng 2 phụ, chưa đủ (cần 3 phụ).",
+        "Đúng — 1 tiêu chuẩn chính (viêm đa khớp) + 2 tiêu chuẩn phụ (sốt, CRP tăng) kèm bằng chứng liên cầu mới: đủ chẩn đoán đợt tái phát.",
+        "Sai — Biểu hiện khớp chỉ được tính một lần; viêm đa khớp đã là tiêu chuẩn chính nên đau khớp gối không được tính thêm, còn lại 1 chính + 1 phụ."
+      ]
+    },
+    {
+      "id": "PED51-A13",
+      "type": "vignette",
+      "topic": "Tiêu chuẩn Jones",
+      "subtopic": "Chẩn đoán phân biệt: viêm khớp phản ứng sau liên cầu",
+      "bloom": "phân tích",
+      "difficulty": 3,
+      "source": "PED-51 §6.4; AHA 2015",
+      "text": "Bé trai 7 tuổi nhập viện vì sưng đau cổ chân hai bên và gối phải 7 ngày, không di chuyển, tăng khi vận động, cứng khớp buổi sáng ngắn; aspirin liều chuẩn 3 ngày không đỡ. Cách đây 2 tuần bé có viêm họng liên cầu (test nhanh dương tính). Không sốt, không tiêu chảy. Tim phổi bình thường, siêu âm tim Doppler bình thường, điện tâm đồ bình thường. ESR 28 mm/h, ASLO 560 Todd. Không múa vờn, không ban, không hạt dưới da.\nTheo tiêu chuẩn Jones sửa đổi AHA 2015, chẩn đoán phù hợp nhất là gì?",
+      "options": [
+        "Viêm khớp tự phát thiếu niên thể đa khớp",
+        "Thấp tim đợt đầu thể viêm khớp đơn thuần",
+        "Thấp tim đợt đầu có viêm tim dưới lâm sàng",
+        "Viêm khớp phản ứng sau nhiễm liên cầu"
+      ],
+      "correct": 3,
+      "explanation": "Viêm khớp khởi phát sớm (7–10 ngày) sau viêm họng liên cầu, dai dẳng, không di chuyển, đáp ứng kém NSAID, không có viêm tim và không đủ tiêu chuẩn Jones (không sốt, VS dưới 30 mm/h) là viêm khớp phản ứng sau liên cầu. Thấp tim thường khởi phát 2–4 tuần sau viêm họng, khớp di chuyển và đáp ứng nhanh aspirin; viêm khớp tự phát thiếu niên cần trên 6 tuần.",
+      "option_explanations": [
+        "Sai — viêm khớp tự phát thiếu niên cần viêm khớp trên 6 tuần; bé mới 7 ngày và có viêm họng liên cầu gần đây.",
+        "Sai — thấp tim thường khởi phát 2–4 tuần sau viêm họng, khớp di chuyển, đáp ứng nhanh aspirin và phải đủ tiêu chuẩn Jones; bé này khớp không di chuyển, không sốt, VS dưới 30 mm/giờ nên chưa đủ.",
+        "Sai — thể này đúng cho trẻ có hở van bệnh lý trên Doppler (tiêu chuẩn chính thứ hai); siêu âm tim Doppler của bé hoàn toàn bình thường.",
+        "Đúng — khởi phát sớm sau liên cầu, khớp dai dẳng không di chuyển, đáp ứng kém NSAID và không đủ Jones."
+      ]
+    },
+    {
+      "id": "PED51-A14",
+      "type": "vignette",
+      "topic": "Tiêu chuẩn Jones",
+      "subtopic": "Chẩn đoán phân biệt: viêm khớp tự phát thiếu niên thể hệ thống",
+      "bloom": "phân tích",
+      "difficulty": 3,
+      "source": "PED-51 §6.4",
+      "text": "Bé gái 5 tuổi sốt 39–40°C từng cơn mỗi ngày trong 8 tuần, hết sốt giữa các cơn. Ban màu hồng cá hồi xuất hiện khi sốt và mất khi hết sốt. Sưng đau gối, cổ tay, cổ chân kéo dài, không di chuyển. Gan lách to nhẹ, tim phổi bình thường. Bạch cầu 22.000/mm³, đa nhân trung tính chiếm ưu thế, tiểu cầu 450.000/mm³, không thấy blast trên tiêu bản máu; ESR 100 mm/h, ferritin tăng, cấy máu nhiều lần âm tính, ASLO 150 Todd, siêu âm tim bình thường. Aspirin 3 ngày không giảm triệu chứng.\nChẩn đoán phù hợp nhất là gì?",
+      "options": [
+        "Thấp tim đợt đầu với viêm khớp, sốt và ban",
+        "Viêm khớp tự phát thiếu niên thể hệ thống (bệnh Still)",
+        "Bệnh bạch cầu cấp thể đau xương khớp",
+        "Lupus ban đỏ hệ thống khởi phát ở trẻ nhỏ"
+      ],
+      "correct": 1,
+      "explanation": "Sốt hàng ngày kéo dài trên 2 tuần kèm ban màu cá hồi xuất hiện khi sốt, viêm khớp kéo dài không di chuyển, gan lách to, bạch cầu, tiểu cầu và ferritin tăng cao là viêm khớp tự phát thiếu niên thể hệ thống. Thấp tim có khớp di chuyển, khỏi trong vài tuần và đáp ứng nhanh aspirin; bạch cầu cấp có blast hoặc giảm các dòng tế bào máu.",
+      "option_explanations": [
+        "Sai — thấp tim có viêm khớp di chuyển, tự khỏi sau vài tuần, đáp ứng nhanh aspirin và ASLO tăng; bé này sốt 8 tuần, khớp cố định, ASLO bình thường.",
+        "Đúng — sốt quotidian, ban cá hồi theo cơn sốt, viêm khớp kéo dài và ferritin tăng điển hình cho bệnh Still.",
+        "Sai — bạch cầu cấp gây đau xương khớp kèm thiếu máu, giảm tiểu cầu và blast trên tiêu bản máu; bé này tiểu cầu tăng và không có blast.",
+        "Sai — lupus thường có kháng thể kháng nhân, giảm tế bào máu, tổn thương cơ quan; không có ở bé này, và bạch cầu, tiểu cầu của bé tăng."
+      ]
+    },
+    {
+      "id": "PED51-A15",
+      "type": "vignette",
+      "topic": "Tiêu chuẩn Jones",
+      "subtopic": "Chẩn đoán phân biệt: viêm nội tâm mạc nhiễm khuẩn trên van hậu thấp",
+      "bloom": "phân tích",
+      "difficulty": 3,
+      "source": "PED-51 §6.4",
+      "text": "Bé gái 13 tuổi có hở hai lá do thấp tim, không tiêm phòng đều. Sốt 38–39°C kéo dài 3 tuần, mệt, sút 2 kg. Khám: da xanh, lách to 3 cm, vệt xuất huyết dưới móng tay, nốt nhỏ đau ở đầu ngón tay, thổi toàn tâm thu ở mỏm 3/6 mạnh hơn trước. Hb 8 g/dL, ESR 70 mm/h, ASLO 200 Todd. Siêu âm tim: khối sùi di động 8 mm trên lá van hai lá. Cấy máu ba mẫu cùng mọc Streptococcus viridans.\nChẩn đoán phù hợp nhất là gì?",
+      "options": [
+        "Thấp tim tái phát trên nền bệnh van hậu thấp",
+        "Viêm nội tâm mạc nhiễm khuẩn trên van hậu thấp",
+        "Viêm cơ tim cấp do virus kèm suy tim",
+        "Lupus ban đỏ hệ thống có sùi Libman–Sacks"
+      ],
+      "correct": 1,
+      "explanation": "Sốt kéo dài, lách to, xuất huyết dưới móng, nốt Osler, sùi di động trên van và cấy máu ba mẫu cùng mọc Streptococcus viridans trên nền van hậu thấp là viêm nội tâm mạc nhiễm khuẩn. Thấp tim tái phát không có sùi nhiễm khuẩn và cấy máu âm tính; viêm cơ tim virus không có tổn thương van.",
+      "option_explanations": [
+        "Sai — thấp tim tái phát có ASLO tăng, cấy máu âm tính, không có sùi; ở bé này ASLO không tăng và cấy máu dương tính.",
+        "Đúng — sùi di động trên van hậu thấp, dấu hiệu ngoại biên và cấy máu dương tính kéo dài là viêm nội tâm mạc nhiễm khuẩn.",
+        "Sai — viêm cơ tim virus gây suy tim cấp, men tim tăng, không có tổn thương van mới, không có sùi, không cấy máu dương tính.",
+        "Sai — lupus có thể gây sùi vô khuẩn (Libman–Sacks) nhưng kèm kháng thể kháng nhân và cấy máu âm tính; ở bé này cấy máu dương tính ba mẫu."
+      ]
+    },
+    {
+      "id": "PED51-A16",
+      "type": "vignette",
+      "topic": "Biểu hiện ngoài tim",
+      "subtopic": "Nhận diện viêm khớp di chuyển trong số các tiêu chuẩn chính",
+      "bloom": "phân tích",
+      "difficulty": 2,
+      "source": "PED-51 §4.3, §6.4",
+      "text": "Bé trai 8 tuổi, 2 tuần sau viêm họng, sưng nóng đau khớp gối phải 3 ngày; khi gối đỡ thì khớp cổ chân trái rồi khuỷu tay phải sưng đau. Sốt 38,6°C. Chọc dịch gối: vàng nhạt, cấy vô khuẩn. Tim phổi bình thường, siêu âm tim Doppler bình thường, không ban, không sờ thấy hạt dưới da, không có cử động bất thường. ASLO 750 Todd.\nBiểu hiện nổi bật của bé tương ứng với tiêu chuẩn chính nào của Jones?",
+      "options": [
+        "Viêm tim dưới lâm sàng (qua siêu âm)",
+        "Hạt dưới da Meynet (hạt thấp)",
+        "Viêm khớp di chuyển (viêm đa khớp)",
+        "Múa vờn Sydenham (chorea minor)"
+      ],
+      "correct": 2,
+      "explanation": "Sưng nóng đau lần lượt gối phải, cổ chân trái, khuỷu tay phải, khớp cũ đỡ khi khớp mới viêm, dịch khớp vô khuẩn là viêm khớp di chuyển (viêm đa khớp), tiêu chuẩn chính phổ biến nhất của thấp tim. Tim, da, hạt dưới da và thần kinh của bé bình thường nên không có các tiêu chuẩn chính còn lại.",
+      "option_explanations": [
+        "Sai — viêm tim dưới lâm sàng chỉ thấy trên Doppler (đúng cho trẻ có hở van bệnh lý khi chưa nghe thổi); siêu âm tim của bé bình thường.",
+        "Sai — hạt Meynet là hạt cứng không đau ở nơi xương nhô (đúng cho trẻ sờ thấy hạt); bé này không có hạt.",
+        "Đúng — sưng nóng đau các khớp lớn lần lượt, khớp cũ đỡ khi khớp mới viêm, dịch vô khuẩn là viêm khớp di chuyển.",
+        "Sai — múa vờn là cử động bất thường ngoài ý muốn khởi phát muộn sau viêm họng (đúng cho trẻ có cử động múa may); bé này không có cử động bất thường."
+      ]
+    },
+    {
+      "id": "PED51-A17",
+      "type": "vignette",
+      "topic": "Biểu hiện ngoài tim",
+      "subtopic": "Nhận diện hồng ban vòng trong số các tiêu chuẩn chính",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "PED-51 §4.5",
+      "text": "Bé gái 9 tuổi, 3 tuần sau viêm họng, đến khám vì sốt nhẹ và mệt. Trên da ngực, bụng và đùi có các ban hồng nhạt hình vòng, viền đỏ rõ, trung tâm nhạt màu, kích thước 1–3 cm; ban đổi hình dạng trong vài giờ, nổi rõ hơn sau khi tắm nước ấm, bé không thấy ngứa, mặt không có ban. Khớp không sưng, không có cử động bất thường, không sờ thấy hạt dưới da.\nBiểu hiện này tương ứng với tiêu chuẩn chính nào của Jones?",
+      "options": [
+        "Hồng ban vòng (erythema marginatum)",
+        "Hạt dưới da Meynet (hạt thấp)",
+        "Múa vờn Sydenham (chorea minor)",
+        "Viêm khớp di chuyển (viêm đa khớp)"
+      ],
+      "correct": 0,
+      "explanation": "Ban hình vòng viền đỏ, trung tâm nhạt, ở thân và gốc chi, đổi hình nhanh, rõ hơn khi nóng, không ngứa và không ở mặt là hồng ban vòng, một tiêu chuẩn chính của Jones. Ban dị ứng thường ngứa và có thể ở mặt; ban cá hồi của bệnh Still gắn với cơn sốt; ban cánh bướm của lupus nằm ở má.",
+      "option_explanations": [
+        "Đúng — ban vòng không ngứa, ở thân và gốc chi, tránh mặt, đổi hình nhanh là hồng ban vòng.",
+        "Sai — hạt Meynet là hạt cứng, không đau, ở nơi xương nhô (đúng cho trẻ sờ thấy hạt); bé này không có hạt dưới da.",
+        "Sai — múa vờn là cử động bất thường ngoài ý muốn khởi phát muộn sau viêm họng 2–6 tháng (đúng cho trẻ có cử động múa may); bé này không có cử động bất thường.",
+        "Sai — viêm khớp di chuyển là sưng nóng đau các khớp lớn lần lượt (đúng cho trẻ có khớp sưng); bé này khớp không sưng."
+      ]
+    },
+    {
+      "id": "PED51-A18",
+      "type": "vignette",
+      "topic": "Biểu hiện ngoài tim",
+      "subtopic": "Nhận diện hạt Meynet trong số các tiêu chuẩn chính",
+      "bloom": "phân tích",
+      "difficulty": 2,
+      "source": "PED-51 §4.4",
+      "text": "Bé gái 12 tuổi, 3 tuần sau viêm họng, đến khám vì mệt. Sờ thấy 4 hạt tròn, cứng, đường kính 1–1,5 cm, không đau, di động dưới lớp da bình thường, ở ụ chẩm và mặt duỗi khuỷu tay. Khớp không sưng đau, không ban, nghe tim bình thường, siêu âm tim Doppler bình thường, ASLO 800 Todd.\nPhát hiện này tương ứng với tiêu chuẩn chính nào của Jones?",
+      "options": [
+        "Hạt dưới da Meynet (hạt thấp)",
+        "Viêm tim dưới lâm sàng (qua siêu âm)",
+        "Viêm khớp di chuyển (viêm đa khớp)",
+        "Hồng ban vòng (erythema marginatum)"
+      ],
+      "correct": 0,
+      "explanation": "Hạt tròn, cứng, không đau, di động dưới da bình thường, ở ụ chẩm và mặt duỗi khuỷu là hạt Meynet, một tiêu chuẩn chính của Jones; hiếm gặp (khoảng 1%) và thường đi kèm viêm tim (có thể xuất hiện muộn hơn), nên cần siêu âm tim theo dõi. Nốt Osler của viêm nội tâm mạc nhỏ và đau ở đầu ngón; hồng ban nút đau ở cẳng chân; hạt dạng thấp của viêm khớp thiếu niên gặp trong bệnh khớp kéo dài.",
+      "option_explanations": [
+        "Đúng — hạt cứng không đau ở ụ chẩm, khuỷu là hạt Meynet.",
+        "Sai — viêm tim dưới lâm sàng là hở van bệnh lý chỉ thấy trên Doppler (đúng cho trẻ có tổn thương trên siêu âm); siêu âm của bé bình thường.",
+        "Sai — viêm khớp di chuyển là sưng nóng đau các khớp lớn lần lượt (đúng cho trẻ có khớp sưng); khớp của bé không sưng đau.",
+        "Sai — hồng ban vòng là ban hình nhẫn thoáng qua ở thân (đúng cho trẻ có ban); bé này không có ban."
+      ]
+    },
+    {
+      "id": "PED51-A19",
+      "type": "vignette",
+      "topic": "Cận lâm sàng",
+      "subtopic": "Tìm bằng chứng nhiễm liên cầu khi ASLO thấp",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "PED-51 §5.1",
+      "text": "Bé gái 9 tuổi sống ở vùng nguy cơ cao nhập viện vì sưng đau gối và cổ chân di chuyển 6 ngày, sốt 38,5°C; đau họng cách đây 3 tuần. Cấy dịch ngoáy họng âm tính. ASLO 220 Todd (ngưỡng ≥ 333 Todd ở trẻ em). Siêu âm tim Doppler bình thường, ESR 55 mm/h. Để áp dụng tiêu chuẩn Jones, bé còn thiếu bằng chứng nhiễm liên cầu gần đây.\nXét nghiệm nào nên làm tiếp theo?",
+      "options": [
+        "Định lượng anti-DNase B và làm lại ASLO sau hai tuần",
+        "Test nhanh kháng nguyên liên cầu nhóm A để quyết định dùng kháng sinh",
+        "Siêu âm tim Doppler lặp lại để tìm viêm tim dưới lâm sàng",
+        "Lặp lại cấy dịch ngoáy họng, lấy sâu ở amidan và thành sau họng"
+      ],
+      "correct": 0,
+      "explanation": "Thấp tim khởi phát 1–3 tuần sau viêm họng, lúc này họng thường đã sạch liên cầu nên cấy họng và test nhanh có tỷ lệ dương tính thấp. ASLO có thể chưa tăng hoặc tăng chưa đủ ngưỡng; khi đó đo anti-DNase B và làm lại ASLO sau 2 tuần để chứng minh hiệu giá kháng thể tăng giúp xác nhận nhiễm liên cầu gần đây. Siêu âm tim của bé đã bình thường nên không cần lặp lại để tìm bằng chứng liên cầu.",
+      "option_explanations": [
+        "Đúng — kháng thể kháng liên cầu (anti-DNase B và ASLO làm lại) là cách tìm bằng chứng nhiễm liên cầu khi cấy họng âm tính và ASLO chưa đạt ngưỡng.",
+        "Sai — test nhanh kháng nguyên đúng cho trẻ đang viêm họng cấp để quyết định kháng sinh; bé này đã qua giai đoạn họng cấp 3 tuần.",
+        "Sai — siêu âm lặp lại đúng cho trẻ có thổi mới hoặc diễn tiến suy tim nghi viêm tim; nó không chứng minh nhiễm liên cầu và siêu âm của bé đã bình thường.",
+        "Sai — lặp lại cấy họng đúng cho trẻ đang đau họng hiện tại; ở bé này họng đã sạch và cấy dương tính chỉ khoảng 20%."
+      ]
+    },
+    {
+      "id": "PED51-A20",
+      "type": "vignette",
+      "topic": "Cận lâm sàng",
+      "subtopic": "Siêu âm tim Doppler: phân biệt hở van sinh lý",
+      "bloom": "phân tích",
+      "difficulty": 2,
+      "source": "PED-51 §5.4",
+      "text": "Bé trai 10 tuổi sống ở vùng nguy cơ cao, sốt 38,4°C, sưng đau gối rồi cổ chân di chuyển 5 ngày, ASLO 700 Todd. Nghe tim nhiều lần không có tiếng thổi. Siêu âm tim Doppler: dòng hở hai lá nhỏ, chỉ thấy ở mặt cắt bốn buồng từ mỏm, dài 0,8 cm, vận tốc đỉnh 1,8 m/s, chỉ ở đầu thì tâm thu; lá van mở bình thường, không dày, chức năng thất trái bình thường.\nPhát hiện siêu âm này được xếp loại và tính như thế nào theo tiêu chuẩn Jones sửa đổi AHA 2015?",
+      "options": [
+        "Viêm tim lâm sàng: nghe được thổi mới kèm hở van trên Doppler, tính là tiêu chuẩn chính",
+        "Bệnh van hậu thấp mạn tính: van dày, mép dính, hạn chế mở, là di chứng của các đợt thấp trước",
+        "Viêm tim dưới lâm sàng: hở van bệnh lý trên Doppler khi chưa có thổi, tính là tiêu chuẩn chính",
+        "Hở van sinh lý: dòng hở dưới ngưỡng bệnh lý về độ dài, vận tốc và thời gian, không tính vào tiêu chuẩn nào"
+      ],
+      "correct": 3,
+      "explanation": "Dòng hở nhỏ, ngắn (0,8 cm), chỉ ở một mặt cắt, vận tốc thấp và chỉ đầu tâm thu là hở van sinh lý, không đạt tiêu chí bệnh lý nên không tính là viêm tim dưới lâm sàng. Bé vẫn có viêm đa khớp (tiêu chuẩn chính) và sốt nhưng không có tiêu chuẩn chính thứ hai từ tim; cần xét các tiêu chuẩn phụ để kết luận.",
+      "option_explanations": [
+        "Sai — viêm tim lâm sàng đúng cho trẻ nghe được thổi mới; bé này nghe tim nhiều lần không có tiếng thổi và dòng hở không đạt tiêu chí bệnh lý.",
+        "Sai — bệnh van hậu thấp mạn tính đúng cho trẻ có tiền sử nhiều đợt thấp với van dày, hạn chế mở; van của bé mở bình thường, không dày.",
+        "Sai — viêm tim dưới lâm sàng đúng cho trẻ có dòng hở dài, tốc độ cao, toàn tâm thu ở hai mặt cắt; dòng hở của bé ngắn, chậm và chỉ ở đầu tâm thu.",
+        "Đúng — dòng hở ngắn, chậm, một mặt cắt, chỉ đầu tâm thu là hở sinh lý, không tính vào tiêu chuẩn Jones."
+      ]
+    },
+    {
+      "id": "PED51-B01",
+      "type": "vignette",
+      "topic": "Điều trị đợt cấp",
+      "subtopic": "Phác đồ viêm khớp đơn thuần",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "PED-51 §7; PEDYTB §8",
+      "text": "Bé trai 8 tuổi, nặng 20 kg, vào viện vì sưng đau khớp 4 ngày: khớp cổ chân trái sưng đau 2 ngày rồi đỡ, sau đó khớp gối phải sưng nóng đau. Hai tuần trước bé đau họng, sốt nhẹ 3 ngày rồi tự khỏi. Khám: sốt 38,3°C, mạch 100 lần/phút, tim không nghe tiếng thổi, không to tim. ASLO 620 đơn vị Todd, VS 58 mm/giờ đầu, CRP 42 mg/L, ECG và siêu âm tim Doppler bình thường. Bé được chẩn đoán thấp tim đợt đầu, thể viêm khớp đơn thuần.\nTheo giáo trình Nhi khoa Đại học Y Dược Thái Bình, phác đồ điều trị đợt cấp phù hợp nhất cho bé là gì?",
+      "options": [
+        "Nghỉ giường đến khi hết suy tim; benzathin penicillin 600.000 UI tiêm bắp 1 liều; prednisolon 2 mg/kg/ngày rồi gối aspirin",
+        "Không cần nghỉ giường; penicillin V 250 mg × 2 lần/ngày × 10 ngày; không dùng thuốc chống viêm",
+        "Nghỉ phòng yên tĩnh; benzathin penicillin 600.000 UI tiêm bắp 1 liều; haloperidol 0,01–0,03 mg/kg/ngày",
+        "Nghỉ giường 2 tuần; benzathin penicillin 600.000 UI tiêm bắp 1 liều; aspirin 100 mg/kg/ngày"
+      ],
+      "correct": 3,
+      "explanation": "Bé có viêm khớp di chuyển đơn thuần, tim bình thường trên lâm sàng, ECG và siêu âm: thể nhẹ nhất, chỉ cần nghỉ giường ngắn (2 tuần), tiệt căn liên cầu bằng benzathin penicillin theo cân nặng (20 kg → 600.000 UI) và aspirin liều cao vì viêm khớp đáp ứng tốt với salicylat. <b>Corticoid dành cho viêm tim nặng có suy tim, haloperidol cho múa giật.</b>",
+      "option_explanations": [
+        "Sai — đây là kế hoạch đúng cho trẻ viêm tim nặng có suy tim; bé này tim bình thường nên không cần nghỉ lâu và không có chỉ định corticoid.",
+        "Sai — đây là xử trí viêm họng liên cầu đơn thuần (phòng thấp cấp I); bé đã bị thấp tim thật sự nên cần tiệt căn bằng benzathin penicillin, nghỉ giường và thuốc chống viêm.",
+        "Sai — đúng cho trẻ thấp tim thể múa giật Sydenham (cần phòng yên tĩnh và thuốc chống múa giật); bé này không có cử động bất thường.",
+        "Đúng — đủ ba trụ cột cho thể viêm khớp đơn thuần: nghỉ ngắn, tiệt căn liên cầu, aspirin; liều BPG theo 20 kg."
+      ]
+    },
+    {
+      "id": "PED51-B02",
+      "type": "vignette",
+      "topic": "Điều trị đợt cấp",
+      "subtopic": "Chống viêm theo thể: viêm tim nặng",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "PED-51 §7.3; PEDYTB §8.3",
+      "text": "Bé gái 10 tuổi, nặng 32 kg, vào viện vì khó thở khi nằm, phù mi mắt và đau tức ngực 5 ngày; 3 tuần trước bé có đau họng. Khám: sốt 38,5°C, thở 40 lần/phút, mạch 130 lần/phút, ran ẩm hai đáy phổi, tiếng thổi tâm thu 4/6 ở mỏm lan ra nách, tiếng thổi tâm trương nhẹ ở đáy tim, gan to 4 cm dưới bờ sườn. X-quang tim to (chỉ số tim–ngực 0,65). VS 95 mm/giờ đầu, ASLO 800 đơn vị Todd. Chẩn đoán: thấp tim, viêm tim nặng có suy tim.\nChọn phác đồ thuốc chống viêm phù hợp nhất cho bé?",
+      "options": [
+        "Aspirin 100 mg/kg/ngày chia 4 lần trong 1–2 tuần đầu, sau đó giảm xuống 75 mg/kg/ngày duy trì",
+        "Valproate 15–20 mg/kg/ngày, duy trì cho đến khi hết các cử động bất thường",
+        "Prednisolon 2 mg/kg/ngày × 3 tuần, sau đó giảm liều dần theo đáp ứng lâm sàng và VS",
+        "Paracetamol hạ sốt, hoãn mọi thuốc chống viêm cho đến khi chẩn đoán được khẳng định"
+      ],
+      "correct": 2,
+      "explanation": "Tim to, suy tim, tổn thương van nặng là viêm tim nặng: aspirin đơn độc không đủ khống chế viêm cơ tim nên phải dùng corticoid (prednisolon 2 mg/kg/ngày × 3 tuần) rồi giảm liều dần. <b>Aspirin đơn độc chỉ dùng cho viêm khớp đơn thuần.</b>",
+      "option_explanations": [
+        "Sai — đúng cho trẻ viêm khớp đơn thuần, không có viêm tim; với suy tim và tim to aspirin không đủ.",
+        "Sai — valproate là thuốc điều trị múa giật Sydenham, không có tác dụng chống viêm cơ tim.",
+        "Đúng — viêm tim nặng có suy tim: corticoid liều tấn công 2 mg/kg/ngày × 3 tuần rồi giảm dần.",
+        "Sai — đúng cho trẻ mới có đau khớp, chưa đủ tiêu chuẩn chẩn đoán (giữ nguyên dấu hiệu Jones); bé này đã có chẩn đoán và đang suy tim nên không được trì hoãn."
+      ]
+    },
+    {
+      "id": "PED51-B03",
+      "type": "vignette",
+      "topic": "Điều trị đợt cấp",
+      "subtopic": "Chế độ nghỉ ngơi theo mức độ viêm tim",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "PEDYTB §8.1; PED-51 §7.1",
+      "text": "Bé gái 9 tuổi đang nằm viện vì thấp tim thể viêm tim nhẹ: nghe tiếng thổi tâm thu 2/6 ở mỏm, siêu âm tim Doppler thấy hở hai lá nhẹ, tim không to, không có dấu hiệu suy tim. Bé đã được tiêm benzathin penicillin và bắt đầu dùng thuốc chống viêm.\nTheo giáo trình Nhi khoa Đại học Y Dược Thái Bình, chế độ nghỉ ngơi phù hợp nhất cho bé là gì?",
+      "options": [
+        "Nghỉ tại giường 6 tuần, sau đó đi lại nhẹ nhàng 6–8 tuần",
+        "Nghỉ tại giường 2 tuần, sau đó đi lại nhẹ nhàng 2–4 tuần",
+        "Nghỉ tại giường đến hết suy tim, sau đó đi lại nhẹ nhàng 3 tháng",
+        "Nghỉ tại giường 4 tuần, sau đó đi lại nhẹ nhàng 4–6 tuần"
+      ],
+      "correct": 3,
+      "explanation": "Giáo trình chia nghỉ ngơi theo bốn mức: viêm khớp đơn thuần 2 tuần, viêm tim nhẹ 4 tuần, viêm tim vừa 6 tuần, viêm tim nặng đến hết suy tim; mỗi mức theo sau bởi giai đoạn đi lại nhẹ nhàng. Bé có hở hai lá nhẹ, tim không to, không suy tim là viêm tim nhẹ.",
+      "option_explanations": [
+        "Sai — đúng cho viêm tim vừa (tiếng thổi lớn, còn tồn tại sau đợt cấp); bé này chỉ là thể nhẹ.",
+        "Sai — đúng cho trẻ viêm khớp đơn thuần không viêm tim; bé này đã có viêm van nên cần nghỉ lâu hơn.",
+        "Sai — đúng cho viêm tim nặng có tim to và suy tim; bé này không suy tim.",
+        "Đúng — viêm tim nhẹ: nghỉ giường 4 tuần rồi đi lại nhẹ nhàng 4–6 tuần."
+      ]
+    },
+    {
+      "id": "PED51-B04",
+      "type": "vignette",
+      "topic": "Điều trị đợt cấp",
+      "subtopic": "Thời điểm giảm corticoid, gối aspirin",
+      "bloom": "vận dụng",
+      "difficulty": 3,
+      "source": "PED-51 §7.3; PEDYTB §8.3",
+      "text": "Bé trai 9 tuổi, nặng 28 kg, thấp tim thể viêm tim nặng có suy tim, đã uống prednisolon 2 mg/kg/ngày được 10 ngày. Hiện bé còn khó thở khi gắng sức, gan to 2 cm dưới bờ sườn, tiếng thổi tâm thu 4/6 ở mỏm chưa giảm, VS còn 85 mm/giờ đầu (lúc vào viện 110). Bác sĩ cân nhắc bắt đầu giảm liều prednisolon.\nXử trí phù hợp nhất lúc này là gì?",
+      "options": [
+        "Bắt đầu giảm prednisolon 20–25% liều mỗi tuần từ hôm nay, thêm aspirin 75 mg/kg/ngày từ 1 tuần trước khi ngừng, duy trì 6 tuần",
+        "Giữ nguyên prednisolon 2 mg/kg/ngày đủ 3 tuần và đến khi suy tim ổn định, tiếng thổi giảm, VS giảm rõ rồi mới giảm dần liều",
+        "Giữ nguyên prednisolon 2 mg/kg/ngày đủ 3 tuần rồi ngừng hẳn, không cần giảm dần",
+        "Hạ prednisolon xuống 1 mg/kg/ngày cho đủ 2 tuần điều trị như viêm tim vừa, rồi giảm dần kèm aspirin gối đầu"
+      ],
+      "correct": 1,
+      "explanation": "Liều tấn công prednisolon 2 mg/kg/ngày ở viêm tim nặng kéo dài khoảng 3 tuần, và chỉ bắt đầu giảm khi suy tim đã ổn định, tiếng thổi giảm và VS giảm rõ. Bé mới 10 ngày, còn suy tim và VS vẫn cao nên chưa được giảm liều. Khi đến lúc giảm, phải giảm dần (20–25% liều mỗi tuần) và gối aspirin 75 mg/kg/ngày từ khoảng 1 tuần trước khi ngừng, duy trì 6 tuần để chặn viêm dội ngược.",
+      "option_explanations": [
+        "Sai — đúng trình tự khi đến lúc giảm liều (giảm dần, gối aspirin trước khi ngừng, 6 tuần) nhưng quá sớm: bé mới 10 ngày, còn suy tim và VS cao.",
+        "Đúng — duy trì liều tấn công đủ 3 tuần và chỉ giảm dần khi suy tim ổn định, tiếng thổi giảm, VS giảm rõ.",
+        "Sai — giữ liều tấn công đủ 3 tuần là đúng, nhưng ngừng hẳn không giảm dần dễ gây viêm dội ngược và thiếu aspirin gối đầu.",
+        "Sai — đúng cho trẻ viêm tim vừa (không suy tim, tim không to) theo phác đồ 1–2 mg/kg × 2 tuần; bé này viêm tim nặng có suy tim nên cần liều tấn công đủ 3 tuần."
+      ]
+    },
+    {
+      "id": "PED51-B05",
+      "type": "vignette",
+      "topic": "Điều trị đợt cấp",
+      "subtopic": "Múa giật Sydenham nặng",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "PED-51 §7.4; PEDYTB §8.4",
+      "text": "Bé gái 11 tuổi, vào viện vì 5 tuần nay các cử động vặn vẹo không chủ ý ở tay, chân và mặt tăng dần; hiện bé không tự cầm thìa, đi loạng choạng, nói khó và đã nhiều lần ngã. Ba tháng trước bé có đau họng. Khám: tim không có tiếng thổi, siêu âm tim bình thường, VS 10 mm/giờ đầu, ASLO 160 đơn vị Todd, anti-DNase B 480 đơn vị. Chẩn đoán: thấp tim thể múa giật Sydenham nặng, ảnh hưởng sinh hoạt.\nXử trí phù hợp nhất là gì?",
+      "options": [
+        "Phòng yên tĩnh, benzathin penicillin tiêm bắp 1 liều, aspirin 100 mg/kg/ngày × 1 tuần",
+        "Phòng yên tĩnh, benzathin penicillin tiêm bắp 1 liều, không dùng thuốc chống múa giật",
+        "Phòng yên tĩnh, benzathin penicillin tiêm bắp 1 liều, furosemid và captopril",
+        "Phòng yên tĩnh, benzathin penicillin tiêm bắp 1 liều, valproate 15–20 mg/kg/ngày"
+      ],
+      "correct": 3,
+      "explanation": "Múa giật Sydenham là biểu hiện của viêm thần kinh, không cải thiện với aspirin như viêm khớp; khi múa giật nặng làm trẻ không sinh hoạt được thì ngoài môi trường yên tĩnh và tiệt căn liên cầu cần thuốc chống múa giật (valproate, carbamazepine; haloperidol, phenobarbital theo giáo trình). Siêu âm tim bình thường nên không có chỉ định thuốc điều trị suy tim.",
+      "option_explanations": [
+        "Sai — aspirin chống viêm cho viêm khớp, không cải thiện múa giật; đúng cho trẻ viêm khớp đơn thuần.",
+        "Sai — chỉ phù hợp múa giật nhẹ, trẻ vẫn tự sinh hoạt được; bé này không ăn, không đi được nên cần thuốc.",
+        "Sai — đúng cho trẻ viêm tim nặng có suy tim; bé này tim bình thường trên siêu âm.",
+        "Đúng — múa giật nặng: yên tĩnh, tiệt căn liên cầu và thuốc chống múa giật (valproate)."
+      ]
+    },
+    {
+      "id": "PED51-B06",
+      "type": "vignette",
+      "topic": "Điều trị đợt cấp",
+      "subtopic": "Tính liều aspirin tấn công",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "PED-51 §7.3; PEDYTB §8.3",
+      "text": "Bé trai 9 tuổi, nặng 24 kg, được chẩn đoán thấp tim thể viêm khớp đơn thuần, không có viêm tim. Bác sĩ chỉ định aspirin liều tấn công 100 mg/kg/ngày chia 4 lần uống sau ăn theo giáo trình Nhi khoa Đại học Y Dược Thái Bình.\nMỗi lần uống, bé cần dùng bao nhiêu aspirin?",
+      "options": [
+        "450 mg",
+        "600 mg",
+        "800 mg",
+        "1200 mg"
+      ],
+      "correct": 1,
+      "explanation": "100 mg/kg/ngày × 24 kg = 2.400 mg/ngày; chia 4 lần = 600 mg mỗi lần, uống sau ăn no để giảm kích ứng dạ dày. Phác đồ này dùng cho viêm khớp đơn thuần; liều duy trì sau đó giảm còn 75 mg/kg/ngày.",
+      "option_explanations": [
+        "Sai — 450 mg là liều mỗi lần khi dùng liều duy trì 75 mg/kg/ngày chia 4 lần, không phải liều tấn công.",
+        "Đúng — 2.400 mg/ngày chia 4 lần = 600 mg/lần.",
+        "Sai — 800 mg là kết quả khi chia liều 100 mg/kg/ngày thành 3 lần thay vì 4 lần.",
+        "Sai — 1200 mg là kết quả khi chia thành 2 lần; phác đồ chia 4 lần/ngày."
+      ]
+    },
+    {
+      "id": "PED51-B07",
+      "type": "vignette",
+      "topic": "Điều trị đợt cấp",
+      "subtopic": "Tránh che lấp chẩn đoán bằng thuốc chống viêm",
+      "bloom": "phân tích",
+      "difficulty": 3,
+      "source": "PED-51 §7.3; PED-51 (bản 2) bẫy chống viêm sớm",
+      "text": "Bé gái 11 tuổi đến cấp cứu vì đau khớp gối phải 1 ngày, sau đó chuyển sang khớp cổ chân trái; hai tuần trước bé có đau họng. Khám: sốt 38,2°C, hai khớp hơi nóng, đau khi vận động, tim không nghe tiếng thổi. Mẹ xin thuốc vì bé khóc nhiều. ASLO, VS, CRP, ECG và siêu âm tim chưa làm; hiện chưa đủ tiêu chuẩn kết luận thấp tim.\nXử trí phù hợp nhất ở thời điểm này là gì?",
+      "options": [
+        "Cho aspirin 100 mg/kg/ngày chia 4 lần, nhập viện làm xét nghiệm và đánh giá tim ngay",
+        "Cho paracetamol, nhập viện làm xét nghiệm và đánh giá tim ngay, chưa dùng thuốc chống viêm",
+        "Cho paracetamol, cho về nhà, hẹn làm xét nghiệm và đánh giá tim sau 1 tuần, chưa dùng thuốc chống viêm",
+        "Cho aspirin 100 mg/kg/ngày chia 4 lần, cho về nhà, hẹn làm xét nghiệm và đánh giá tim sau 1 tuần"
+      ],
+      "correct": 1,
+      "explanation": "Bé có viêm khớp di chuyển sau viêm họng nhưng chưa đủ dữ liệu để kết luận thấp tim. Thuốc chống viêm sớm (aspirin/NSAID, corticoid) làm mất tính di chuyển của viêm khớp, hạ sốt và hạ VS nên che lấp tiêu chuẩn Jones; vì vậy giảm đau bằng paracetamol. Đồng thời phải hoàn tất xét nghiệm và đánh giá tim ngay, không trì hoãn, vì viêm tim có thể âm thầm.",
+      "option_explanations": [
+        "Sai — aspirin liều cao đúng cho trẻ đã xác định viêm khớp đơn thuần; dùng khi chưa chẩn đoán sẽ làm mờ dấu hiệu, dù nhập viện làm xét nghiệm.",
+        "Đúng — paracetamol không che lấp dấu hiệu Jones; làm xét nghiệm và đánh giá tim ngay để xác định chẩn đoán.",
+        "Sai — thuốc đúng nhưng trì hoãn đánh giá tim 1 tuần; bé có thể có viêm tim âm thầm cần phát hiện sớm.",
+        "Sai — vừa dùng aspirin sớm che lấp triệu chứng vừa hoãn đánh giá tim."
+      ]
+    },
+    {
+      "id": "PED51-B08",
+      "type": "vignette",
+      "topic": "Điều trị đợt cấp",
+      "subtopic": "Theo dõi đáp ứng thuốc chống viêm",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "PED-51 §8.1; PEDYTB §8.3",
+      "text": "Bé trai 8 tuổi, đang điều trị thấp tim thể viêm khớp đơn thuần bằng aspirin, ngày thứ 8: hết sốt, các khớp hết sưng đau. Bác sĩ muốn giảm aspirin từ liều tấn công xuống liều duy trì. ASLO lúc vào viện là 600 đơn vị Todd.\nXét nghiệm nào phù hợp nhất để theo dõi mức độ viêm và chỉnh liều thuốc chống viêm?",
+      "options": [
+        "Định lượng anti-DNase B sau 2 tuần",
+        "Nhắc lại VS và CRP sau 1–2 tuần",
+        "Cấy dịch họng tìm liên cầu nhóm A",
+        "Siêu âm tim Doppler màu lặp lại"
+      ],
+      "correct": 1,
+      "explanation": "VS và CRP phản ánh mức độ viêm đang hoạt động, được kiểm tra mỗi 1–2 tuần để quyết định giảm hay tăng liều thuốc chống viêm. ASLO chỉ chứng tỏ đã nhiễm liên cầu và tồn tại nhiều tuần-tháng, không phản ánh viêm đang hoạt động.",
+      "option_explanations": [
+        "Sai — anti-DNase B (cũng như ASLO) chỉ là bằng chứng nhiễm liên cầu, hạ chậm sau nhiều tuần; không dùng để chỉnh thuốc chống viêm.",
+        "Đúng — VS và CRP là chỉ số viêm dùng để chỉnh liều.",
+        "Sai — cấy họng để tìm liên cầu còn sót (tỷ lệ dương tính thấp); không đánh giá mức độ viêm.",
+        "Sai — siêu âm tim theo dõi tổn thương van theo lịch (1, 3, 6 tháng); không dùng để chỉnh liều aspirin hàng tuần."
+      ]
+    },
+    {
+      "id": "PED51-B09",
+      "type": "vignette",
+      "topic": "Điều trị đợt cấp",
+      "subtopic": "Tiệt căn liên cầu dù cấy họng âm tính",
+      "bloom": "phân tích",
+      "difficulty": 2,
+      "source": "PED-51 §7.2; PEDYTB §8.2",
+      "text": "Bé trai 10 tuổi, nặng 34 kg, không dị ứng penicillin, vào viện vì viêm đa khớp di chuyển và viêm tim, chẩn đoán thấp tim đợt đầu. Bé hết đau họng từ 1 tuần nay; cấy dịch họng âm tính, ASLO 700 đơn vị Todd; chưa dùng kháng sinh.\nXử trí kháng sinh phù hợp nhất lúc này là gì?",
+      "options": [
+        "Chỉ tiêm benzathin penicillin 600.000 UI một liều nếu cấy họng lặp lại cho kết quả dương tính",
+        "Tiêm benzathin penicillin 600.000 UI một liều ngay hôm nay, không cần chờ cấy họng dương tính",
+        "Tiêm benzathin penicillin 1.200.000 UI một liều ngay hôm nay, không cần chờ cấy họng lặp lại dương tính",
+        "Chỉ tiêm benzathin penicillin 1.200.000 UI một liều nếu cấy họng lặp lại cho kết quả dương tính"
+      ],
+      "correct": 2,
+      "explanation": "Khi thấp tim biểu hiện thì liên cầu thường đã mất khỏi họng nên cấy âm tính không loại trừ; bé vẫn phải được tiệt căn ngay bằng một liều benzathin penicillin theo cân nặng. Bé nặng 34 kg (trên 27–30 kg) nên liều là 1.200.000 UI; sau đó mới chuyển sang phòng thấp cấp II.",
+      "option_explanations": [
+        "Sai — sai cả liều theo cân nặng và điều kiện chờ cấy họng dương tính.",
+        "Sai — thời điểm đúng nhưng liều 600.000 UI chỉ dành cho trẻ dưới khoảng 27–30 kg; bé nặng 34 kg.",
+        "Đúng — tiệt căn ngay, không phụ thuộc kết quả cấy họng, liều 1.200.000 UI cho trẻ trên 27–30 kg.",
+        "Sai — liều đúng nhưng chờ cấy họng lặp lại dương tính là sai, vì cấy thường âm tính khi thấp tim đã biểu hiện; điều kiện này đúng với viêm họng đơn thuần chưa chắc do liên cầu."
+      ]
+    },
+    {
+      "id": "PED51-B10",
+      "type": "vignette",
+      "topic": "Điều trị đợt cấp",
+      "subtopic": "Điều trị suy tim trong viêm tim thấp",
+      "bloom": "vận dụng",
+      "difficulty": 3,
+      "source": "PED-51 §7.4; PEDYTB §8.4",
+      "text": "Bé gái 9 tuổi, nặng 28 kg, thấp tim thể viêm tim nặng đang dùng prednisolon 2 mg/kg/ngày và nghỉ giường. Sau 3 ngày, bé khó thở khi nằm, thở 36 lần/phút, SpO2 93%, ran ẩm hai đáy phổi, gan to 3 cm dưới bờ sườn, phù nhẹ mi mắt, huyết áp 100/60 mmHg. ECG: nhịp xoang 120 lần/phút, PR 0,22 giây, không loạn nhịp.\nPhác đồ thuốc điều trị suy tim phù hợp nhất cho bé là gì?",
+      "options": [
+        "Furosemid tĩnh mạch và truyền dobutamin 5–10 µg/kg/phút",
+        "Furosemid tĩnh mạch và digoxin liều nạp nhanh trong 24 giờ",
+        "Captopril liều thấp tăng dần đơn độc, chưa dùng lợi tiểu",
+        "Furosemid tĩnh mạch và captopril liều thấp tăng dần"
+      ],
+      "correct": 3,
+      "explanation": "Suy tim do viêm cơ tim thấp có ứ huyết phổi và gan to cần lợi tiểu quai để giảm tiền gánh và ức chế men chuyển (liều thấp tăng dần) để giảm hậu gánh, kèm nằm đầu cao, hạn chế muối và nước. Cơ tim trong viêm tim thấp rất nhạy với digitalis, dễ loạn nhịp/block nhĩ thất (bé đã có PR kéo dài) nên không nạp digoxin nhanh.",
+      "option_explanations": [
+        "Sai — dobutamin dành cho sốc tim (tụt huyết áp, tưới máu kém); bé này huyết áp bình thường.",
+        "Sai — nạp digoxin nhanh là cách dùng cho suy tim ở bệnh tim bẩm sinh (ví dụ thông liên thất lớn); trong viêm cơ tim thấp dễ gây loạn nhịp và block nhĩ thất.",
+        "Sai — bé đã có ran ẩm, gan to, SpO2 93% nên cần lợi tiểu quai để giảm ứ huyết; huyết áp 100/60 mmHg còn bình thường, không phải lý do hoãn lợi tiểu. Captopril đơn độc chỉ hợp cho suy tim nhẹ chưa ứ huyết rõ.",
+        "Đúng — lợi tiểu quai giảm tiền gánh, ức chế men chuyển giảm hậu gánh."
+      ]
+    },
+    {
+      "id": "PED51-B11",
+      "type": "vignette",
+      "topic": "Phòng thấp",
+      "subtopic": "Phòng thấp cấp I: chọn kháng sinh theo cân nặng và tuân thủ",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "PED-51 §8.2; PEDYTB §9.1",
+      "text": "Bé trai 7 tuổi, nặng 24 kg, đến trạm y tế vì sốt 38,8°C và đau họng dữ dội 2 ngày, không ho, không chảy mũi. Khám: amidan sưng đỏ có chấm mủ trắng, hạch góc hàm sưng đau; test nhanh liên cầu nhóm A dương tính. Bé không dị ứng thuốc, chưa từng bị thấp tim. Gia đình ở xa trạm y tế và lần trước đã tự ngưng thuốc kháng sinh sau 3 ngày khi con hết sốt.\nPhác đồ phòng thấp cấp I phù hợp nhất cho bé là gì?",
+      "options": [
+        "Benzathin penicillin 1.200.000 UI tiêm bắp 1 liều",
+        "Benzathin penicillin 600.000 UI tiêm bắp 1 liều",
+        "Penicillin V 250 mg × 2 lần/ngày × 10 ngày",
+        "Penicillin V 500 mg × 2 lần/ngày × 10 ngày"
+      ],
+      "correct": 1,
+      "explanation": "Viêm họng liên cầu cần tiệt căn đủ liệu trình để phòng thấp. Với gia đình khó tuân thủ liệu trình uống 10 ngày, benzathin penicillin tiêm bắp một liều đảm bảo đủ thuốc; liều theo cân nặng (24 kg, dưới 27–30 kg) là 600.000 UI.",
+      "option_explanations": [
+        "Sai — liều 1.200.000 UI dành cho trẻ từ 27 kg (hoặc trên 30 kg theo giáo trình); bé 24 kg dùng liều này là thừa liều.",
+        "Đúng — một liều tiêm bắp, liều theo cân nặng dưới 27–30 kg, không phụ thuộc tuân thủ uống thuốc.",
+        "Sai — đúng liều theo cân nặng nhưng phải uống đủ 10 ngày; gia đình này đã bỏ thuốc sớm lần trước nên nguy cơ tiệt căn thất bại.",
+        "Sai — liều uống phù hợp trẻ trên 30 kg và đòi hỏi uống đủ 10 ngày, điều mà gia đình này không bảo đảm được."
+      ]
+    },
+    {
+      "id": "PED51-B12",
+      "type": "vignette",
+      "topic": "Phòng thấp",
+      "subtopic": "Phòng thấp cấp I: dị ứng penicillin",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "PED-51 §7.2, §8.2; PEDYTB §8.2",
+      "text": "Bé gái 6 tuổi, nặng 18 kg, sốt 38,5°C và đau họng 2 ngày, amidan có mủ, hạch góc hàm đau; test nhanh liên cầu nhóm A dương tính. Một năm trước bé có sốc phản vệ (nổi mề đay toàn thân, khó thở, tụt huyết áp) sau khi uống amoxicillin. Bé chưa từng bị thấp tim.\nChọn kháng sinh phù hợp nhất để tiệt căn liên cầu và phòng thấp cấp I?",
+      "options": [
+        "Sulfadiazine 500 mg uống 1 lần/ngày × 10 ngày",
+        "Erythromycin 40 mg/kg/ngày × 10 ngày",
+        "Penicillin V 250 mg × 2 lần/ngày × 10 ngày",
+        "Benzathin penicillin 600.000 UI tiêm bắp 1 liều"
+      ],
+      "correct": 1,
+      "explanation": "Bé có tiền sử phản vệ với penicillin nên phải tránh mọi penicillin (kể cả benzathin) và dùng macrolide; erythromycin 40 mg/kg/ngày × 10 ngày là lựa chọn theo giáo trình. Sulfonamide không tiệt căn được liên cầu khỏi họng nên chỉ dùng cho phòng thấp cấp II.",
+      "option_explanations": [
+        "Sai — sulfadiazine dùng để phòng thấp cấp II cho người dị ứng penicillin; không có hiệu quả tiệt căn liên cầu trong viêm họng cấp.",
+        "Đúng — macrolide 10 ngày cho trẻ dị ứng penicillin.",
+        "Sai — penicillin V cùng nhóm penicillin, chống chỉ định khi đã phản vệ; đúng cho trẻ không dị ứng muốn dùng đường uống.",
+        "Sai — là lựa chọn hàng đầu cho trẻ 18 kg không dị ứng, nhưng bé này đã phản vệ với penicillin."
+      ]
+    },
+    {
+      "id": "PED51-B13",
+      "type": "vignette",
+      "topic": "Phòng thấp",
+      "subtopic": "Phòng thấp cấp II: khoảng cách tiêm theo mức độ bệnh van",
+      "bloom": "phân tích",
+      "difficulty": 3,
+      "source": "PED-51 §8.3; PEDYTB §9.2",
+      "text": "Bé gái 13 tuổi, nặng 42 kg, có bệnh van hai lá hậu thấp nặng (hở hai lá nặng và hẹp hai lá), đang tiêm benzathin penicillin 1.200.000 UI mỗi 4 tuần. Dù tiêm đúng hẹn, trong năm qua bé có 2 đợt thấp tim tái phát. Gia đình sống ở vùng có tỷ lệ nhiễm liên cầu cao.\nTheo khuyến cáo AHA 2009, phác đồ phòng thấp cấp II phù hợp nhất cho bé hiện nay là gì?",
+      "options": [
+        "Benzathin penicillin 600.000 UI tiêm bắp mỗi 4 tuần",
+        "Benzathin penicillin 1.200.000 UI tiêm bắp mỗi 4 tuần",
+        "Benzathin penicillin 1.200.000 UI tiêm bắp mỗi 3 tuần",
+        "Benzathin penicillin 600.000 UI tiêm bắp mỗi 3 tuần"
+      ],
+      "correct": 2,
+      "explanation": "Benzathin penicillin thường tiêm mỗi 4 tuần, nhưng ở bệnh nhân nguy cơ cao (bệnh van nặng, tái phát dù đã tiêm 4 tuần, vùng nhiễm liên cầu cao) khuyến cáo rút ngắn còn mỗi 3 tuần vì nồng độ thuốc bảo vệ giảm nhanh sau tuần thứ 3. Bé nặng 42 kg (trên 27–30 kg) nên liều vẫn là 1.200.000 UI.",
+      "option_explanations": [
+        "Sai — liều 600.000 UI dành cho trẻ dưới 27–30 kg và lịch 4 tuần là lịch đã thất bại ở bé này.",
+        "Sai — là phác đồ chuẩn cho đa số bệnh nhân, nhưng bé đã tái phát 2 lần dù tiêm đúng hẹn mỗi 4 tuần.",
+        "Đúng — liều theo cân nặng trên 27–30 kg và rút ngắn khoảng cách xuống 3 tuần ở bệnh nhân nguy cơ cao.",
+        "Sai — khoảng cách đúng nhưng liều 600.000 UI chỉ dành cho trẻ dưới 27–30 kg; bé nặng 42 kg."
+      ]
+    },
+    {
+      "id": "PED51-B14",
+      "type": "vignette",
+      "topic": "Phòng thấp",
+      "subtopic": "Phòng thấp cấp II: dị ứng penicillin",
+      "bloom": "vận dụng",
+      "difficulty": 3,
+      "source": "PED-51 §8.3; AHA 2009",
+      "text": "Bé trai 10 tuổi, nặng 36 kg, thấp tim có hở hai lá nhẹ, cần phòng thấp cấp II. Sau mũi benzathin penicillin đầu tiên, bé bị phù mạch và nổi mề đay toàn thân nên bác sĩ kết luận bé dị ứng penicillin. Bé không dị ứng sulfonamide.\nTheo khuyến cáo AHA 2009, thuốc phòng thấp cấp II phù hợp nhất cho bé là gì?",
+      "options": [
+        "Erythromycin 250 mg uống 2 lần/ngày, dùng liên tục",
+        "Penicillin V 250 mg uống 2 lần/ngày, dùng liên tục",
+        "Sulfadiazine 1.000 mg uống 1 lần/ngày, dùng liên tục",
+        "Benzathin penicillin 1.200.000 UI tiêm bắp mỗi 4 tuần"
+      ],
+      "correct": 2,
+      "explanation": "Ở người dị ứng penicillin, thuốc phòng thấp cấp II ưu tiên là sulfadiazine (1.000 mg/ngày cho trẻ từ 27 kg). Macrolide (erythromycin) chỉ dành cho người dị ứng cả penicillin và sulfonamide.",
+      "option_explanations": [
+        "Sai — là lựa chọn cho người dị ứng cả penicillin và sulfonamide; bé này dùng được sulfadiazine.",
+        "Sai — penicillin V đường uống cùng nhóm penicillin, chống chỉ định ở bé này; dùng thay thế cho trẻ không dị ứng từ chối tiêm.",
+        "Đúng — dị ứng penicillin nhưng không dị ứng sulfonamide: sulfadiazine 1.000 mg/ngày cho trẻ ≥ 27 kg.",
+        "Sai — lựa chọn chuẩn cho người không dị ứng; bé đã phù mạch và mề đay sau benzathin penicillin."
+      ]
+    },
+    {
+      "id": "PED51-B15",
+      "type": "vignette",
+      "topic": "Phòng thấp",
+      "subtopic": "Thời gian phòng thấp: viêm tim không để lại di chứng van",
+      "bloom": "vận dụng",
+      "difficulty": 3,
+      "source": "PED-51 §8.4; AHA 2009",
+      "text": "Bé gái 15 tuổi vừa kết thúc điều trị đợt cấp thấp tim thể viêm tim nhẹ (hở hai lá nhẹ). Sau điều trị, nghe tim không còn tiếng thổi, siêu âm tim Doppler hoàn toàn bình thường, không còn hở van. Bé đang bắt đầu tiêm benzathin penicillin mỗi 4 tuần.\nTheo khuyến cáo AHA 2009 (tính từ đợt thấp cuối cùng), phòng thấp cấp II phải kéo dài ít nhất đến khi bé bao nhiêu tuổi?",
+      "options": [
+        "Đến 20 tuổi",
+        "Đến 21 tuổi",
+        "Đến 25 tuổi",
+        "Đến 40 tuổi"
+      ],
+      "correct": 2,
+      "explanation": "Theo AHA 2009, thời gian phòng thấp theo nhóm: không viêm tim 5 năm hoặc đến 21 tuổi; có viêm tim nhưng không còn bệnh van 10 năm hoặc đến 21 tuổi; có bệnh van tồn tại 10 năm hoặc đến 40 tuổi — luôn lấy mốc dài hơn. Bé thuộc nhóm viêm tim không di chứng nên 10 năm từ tuổi 15 = 25 tuổi, dài hơn mốc 21 tuổi.",
+      "option_explanations": [
+        "Sai — là mốc 5 năm (15 + 5), áp dụng cho nhóm không viêm tim; bé này có viêm tim nên thời gian dài hơn.",
+        "Sai — mốc tuổi tối thiểu của nhóm không viêm tim; với viêm tim vẫn phải kéo dài 10 năm từ đợt cuối.",
+        "Đúng — nhóm viêm tim không di chứng: 10 năm (15 + 10 = 25 tuổi), dài hơn mốc 21 tuổi.",
+        "Sai — mốc 40 tuổi dành cho nhóm còn bệnh van tim hậu thấp tồn tại; siêu âm của bé đã bình thường."
+      ]
+    },
+    {
+      "id": "PED51-B16",
+      "type": "vignette",
+      "topic": "Phòng thấp",
+      "subtopic": "Thời gian phòng thấp: bệnh van hậu thấp tồn tại",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "PED-51 §8.4; AHA 2009",
+      "text": "Bé trai 14 tuổi, 6 tháng sau đợt thấp tim thể viêm tim vừa, siêu âm tim Doppler vẫn còn hở hai lá vừa kèm dày van hai lá. Bé đang tiêm benzathin penicillin mỗi 4 tuần và thắc mắc khi nào được ngừng.\nTheo khuyến cáo AHA 2009 (tính từ đợt thấp cuối cùng), phòng thấp cấp II ở bé phải kéo dài ít nhất đến bao nhiêu tuổi?",
+      "options": [
+        "Ít nhất đến 19 tuổi",
+        "Ít nhất đến 21 tuổi",
+        "Ít nhất đến 24 tuổi",
+        "Ít nhất đến 40 tuổi"
+      ],
+      "correct": 3,
+      "explanation": "Bé còn bệnh van tim hậu thấp tồn tại trên siêu âm nên thuộc nhóm nguy cơ cao nhất: phòng thấp 10 năm kể từ đợt cuối hoặc đến 40 tuổi (mốc dài hơn), và nhiều trường hợp phải kéo dài suốt đời.",
+      "option_explanations": [
+        "Sai — mốc 5 năm (14 + 5) của nhóm không viêm tim; bé này đã để lại di chứng van.",
+        "Sai — mốc tuổi tối thiểu chỉ dành cho trẻ không viêm tim hoặc viêm tim hồi phục hoàn toàn.",
+        "Sai — mốc 10 năm (14 + 10) của nhóm viêm tim nhưng van đã bình thường trở lại; bé này còn hở van.",
+        "Đúng — bệnh van tồn tại: ít nhất 10 năm hoặc đến 40 tuổi, thường kéo dài suốt đời."
+      ]
+    },
+    {
+      "id": "PED51-B17",
+      "type": "vignette",
+      "topic": "Phòng thấp",
+      "subtopic": "Tuân thủ: nhỡ mũi tiêm phòng thấp",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "PEDYTB §9.2; PED-51 §5.4 (bản 2)",
+      "text": "Bé gái 12 tuổi, thấp tim có hở hai lá nhẹ, tiêm benzathin penicillin mỗi 4 tuần. Lần tiêm gần nhất cách đây 6 tuần vì gia đình bận việc. Hôm nay bé đến khám vì mẹ nhớ ra: bé khỏe, không sốt, không đau họng, không đau khớp, nghe tim như lần trước.\nXử trí phù hợp nhất là gì?",
+      "options": [
+        "Tiêm benzathin penicillin ngay hôm nay, rồi tính lịch tiêm 4 tuần tiếp theo từ ngày này",
+        "Chưa tiêm, chờ kết quả ASLO và chỉ tiêm nếu hiệu giá tăng so với lần trước",
+        "Uống penicillin V 250 mg × 2 lần/ngày đến lần hẹn kế tiếp, rồi tiêm lại theo lịch",
+        "Tiêm benzathin penicillin ngay hôm nay, rồi tiêm thêm một mũi sau 2 tuần để bù"
+      ],
+      "correct": 0,
+      "explanation": "Mỗi mũi nhỡ tạo khoảng trống bảo vệ: bé cần được tiêm bù sớm nhất có thể (hôm nay, khi bé đang có mặt) rồi quay lại lịch đều đặn 4 tuần tính từ mũi này. Không chờ triệu chứng hoặc xét nghiệm vì tái phát có thể âm thầm làm hỏng van, và không cần mũi tiêm thêm hay tiệt căn lại vì bé không có đợt cấp.",
+      "option_explanations": [
+        "Đúng — tiêm bù ngay hôm nay rồi tiếp tục lịch 4 tuần.",
+        "Sai — ASLO không quyết định việc phòng thấp; bệnh nhân trong chương trình phòng thấp phải tiêm đều bất kể ASLO.",
+        "Sai — thuốc uống chỉ là giải pháp tạm khi chưa thể tiêm; bé đang có mặt và có thể tiêm ngay hôm nay.",
+        "Sai — không có cơ sở tiêm thêm mũi bù; một mũi tiêm hôm nay đã khôi phục bảo vệ, tiêm dày hơn chỉ cần ở bệnh nhân nguy cơ cao tái phát (lịch 3 tuần)."
+      ]
+    },
+    {
+      "id": "PED51-B18",
+      "type": "vignette",
+      "topic": "Phòng thấp",
+      "subtopic": "Viêm họng liên cầu trong khi đang phòng thấp cấp II",
+      "bloom": "phân tích",
+      "difficulty": 3,
+      "source": "PED-51 §5.2, §8.3; PED-51 (bản 2) viêm họng GAS khi đang phòng thấp",
+      "text": "Bé trai 11 tuổi, nặng 38 kg, thấp tim có hở hai lá hậu thấp, đang uống penicillin V 250 mg × 2 lần/ngày để phòng thấp cấp II (gia đình chọn đường uống), uống đều đặn. Hôm nay bé sốt 38,9°C, đau họng, amidan có mủ, hạch góc hàm đau; test nhanh liên cầu nhóm A dương tính. Không có đau khớp, tim không nghe thêm tiếng thổi mới, không có dị ứng.\nXử trí phù hợp nhất là gì?",
+      "options": [
+        "Nhập viện điều trị như đợt thấp tim tái phát: nghỉ giường và aspirin 100 mg/kg/ngày",
+        "Ngừng penicillin V và đổi sang sulfadiazine 1.000 mg/ngày vì penicillin đã thất bại",
+        "Tiêm benzathin penicillin 1.200.000 UI một liều để tiệt căn, sau đó tiếp tục phòng thấp như cũ",
+        "Tiếp tục penicillin V 250 mg × 2 lần/ngày như cũ, không thêm kháng sinh vì bé đang phòng thấp"
+      ],
+      "correct": 2,
+      "explanation": "Liều phòng thấp thấp hơn nhiều so với liều điều trị nên không đủ tiệt căn liên cầu khi bé bị viêm họng. Bé phải được điều trị tiệt căn đầy đủ bằng một mũi benzathin penicillin theo cân nặng (đảm bảo đủ thuốc, không phụ thuộc việc uống), rồi tiếp tục chương trình phòng thấp; hiện chưa có dấu hiệu đợt thấp tim mới.",
+      "option_explanations": [
+        "Sai — đúng nếu có viêm khớp hoặc viêm tim mới; bé này chỉ có viêm họng, không có dấu hiệu đợt thấp tim mới.",
+        "Sai — GAS chưa từng kháng penicillin; sulfadiazine không tiệt căn được liên cầu họng, chỉ dùng phòng thấp khi dị ứng penicillin.",
+        "Đúng — tiệt căn đủ liều trong một mũi (bé 38 kg → 1.200.000 UI) rồi tiếp tục phòng thấp.",
+        "Sai — liều phòng thấp không đủ tiệt căn; mọi đợt viêm họng liên cầu đều phải điều trị đầy đủ kể cả khi đang phòng thấp."
+      ]
+    },
+    {
+      "id": "PED51-B19",
+      "type": "vignette",
+      "topic": "Phòng thấp",
+      "subtopic": "Thời gian phòng thấp: không viêm tim",
+      "bloom": "vận dụng",
+      "difficulty": 3,
+      "source": "PED-51 §8.4; AHA 2009",
+      "text": "Bé trai 8 tuổi, vào viện vì thấp tim đợt đầu thể múa giật Sydenham đơn độc, không có viêm khớp. Nghe tim bình thường, siêu âm tim Doppler bình thường, không có viêm tim. Bé đã được tiệt căn liên cầu và bắt đầu tiêm benzathin penicillin mỗi 4 tuần.\nTheo khuyến cáo AHA 2009, phòng thấp cấp II kéo dài tối thiểu 5 năm kể từ đợt cuối hoặc đến một độ tuổi (lấy mốc dài hơn). Bé cần phòng thấp ít nhất đến bao nhiêu tuổi?",
+      "options": [
+        "Đến 13 tuổi",
+        "Đến 18 tuổi",
+        "Đến 21 tuổi",
+        "Đến 40 tuổi"
+      ],
+      "correct": 2,
+      "explanation": "Với thấp tim không viêm tim (kể cả múa giật đơn độc), AHA 2009 khuyến cáo 5 năm hoặc đến 21 tuổi, lấy mốc dài hơn. Bé 8 tuổi: 5 năm chỉ đến 13 tuổi nên mốc 21 tuổi quyết định.",
+      "option_explanations": [
+        "Sai — mốc 8 + 5 = 13 tuổi, ngắn hơn mốc tuổi tối thiểu nên không dùng.",
+        "Sai — mốc 18 tuổi là yêu cầu của giáo trình trong nhóm chưa di chứng van; theo AHA 2009 mốc tuổi là 21.",
+        "Đúng — không viêm tim: 5 năm hoặc đến 21 tuổi, lấy mốc dài hơn.",
+        "Sai — mốc 40 tuổi dành cho bệnh van hậu thấp tồn tại; bé này siêu âm tim bình thường."
+      ]
+    },
+    {
+      "id": "PED51-B20",
+      "type": "vignette",
+      "topic": "Phòng thấp",
+      "subtopic": "Phòng thấp cấp I: viêm họng liên cầu điều trị muộn",
+      "bloom": "phân tích",
+      "difficulty": 3,
+      "source": "PED-51 §8.2",
+      "text": "Bé gái 9 tuổi, nặng 22 kg, đau họng và sốt dao động 38–39°C đã 7 ngày, tự mua thuốc hạ sốt. Khám: amidan sưng to có mủ, hạch góc hàm đau, không ho, không chảy mũi; test nhanh liên cầu nhóm A dương tính. Bé chưa từng dùng kháng sinh và chưa bị thấp tim. Bố mẹ cho rằng đã quá muộn để dùng kháng sinh.\nXử trí phù hợp nhất là gì?",
+      "options": [
+        "Tiêm benzathin penicillin 600.000 UI một liều khi có cấy họng sau 2–3 ngày",
+        "Tiêm benzathin penicillin 1.200.000 UI một liều ngay hôm nay",
+        "Tiêm benzathin penicillin 600.000 UI một liều ngay hôm nay",
+        "Tiêm benzathin penicillin 1.200.000 UI một liều khi có cấy họng sau 2–3 ngày"
+      ],
+      "correct": 2,
+      "explanation": "Kháng sinh vẫn ngăn được thấp tim nếu bắt đầu trong vòng 9 ngày sau khởi phát viêm họng. Bé mới 7 ngày và test nhanh đã dương tính nên không cần chờ cấy họng: chờ thêm 2–3 ngày sẽ vượt mốc 9 ngày. Liều theo cân nặng 22 kg (dưới 27–30 kg) là 600.000 UI.",
+      "option_explanations": [
+        "Sai — liều đúng nhưng chờ cấy họng 2–3 ngày đẩy việc điều trị qua ngày thứ 9 và không cần thiết khi test nhanh đã dương tính.",
+        "Sai — thời điểm đúng nhưng 1.200.000 UI là liều cho trẻ từ 27–30 kg trở lên; bé nặng 22 kg.",
+        "Đúng — tiêm ngay trong cửa sổ 9 ngày, liều 600.000 UI cho trẻ 22 kg.",
+        "Sai — sai liều theo cân nặng và chờ cấy họng không cần thiết, vượt cửa sổ 9 ngày."
+      ]
+    }
+  ]
+}

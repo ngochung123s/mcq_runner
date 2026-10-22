@@ -1,0 +1,359 @@
+Câu 1: Trẻ sơ sinh 2 ngày tuổi, đủ tháng, ối vỡ sớm 30 giờ, sốt 38,5°C, thở nhanh 70 lần/phút, rút lõm lồng ngực, rên rỉ, tím quanh môi. Nghe tim không có tiếng thổi, mạch bẹn bắt rõ. SpO2 84% ở cả tay phải và chân. X-quang ngực: bóng tim bình thường, thâm nhiễm lan tỏa hai phế trường. Cho thở oxy 100% qua mặt nạ kín 10 phút, khí máu động mạch có PaO2 280 mmHg (trước khi thở oxy là 45 mmHg).
+Bước xử trí tiếp theo phù hợp nhất sau kết quả này là gì?
+A. Siêu âm tim Doppler khẩn và chuẩn bị truyền Prostaglandin E1
+B. Thở CPAP, hút đờm, kháng sinh tĩnh mạch theo kinh nghiệm
+C. Đặt tư thế ngực gối, thở oxy mặt nạ và tiêm morphin
+D. Cho Ibuprofen đóng ống động mạch rồi siêu âm kiểm tra lại
+Đáp án: B
+Giải thích: PaO2 tăng vọt (45 lên 280 mmHg) khi thở oxy 100% cho thấy tím do bệnh nhu mô phổi (viêm phổi sơ sinh nghi nhiễm khuẩn từ ối vỡ sớm), không phải shunt phải–trái cố định trong tim. Xử trí hướng vào phổi: hỗ trợ hô hấp, làm sạch đường thở và kháng sinh; chưa có chỉ định Prostaglandin E1.
+
+Câu 2: Bé trai 5 ngày tuổi, đủ tháng, cân nặng lúc sinh 3,2 kg, bú tốt, thở êm 42 lần/phút, không tím, SpO2 98% ở tay và chân, gan không to. Nghe thổi tâm thu 3/6 ở bờ trái xương ức. Siêu âm tim: thông liên thất quanh màng 9 mm, shunt trái–phải. Bố mẹ hỏi nếu chưa được mổ thì khi nào trẻ có thể xuất hiện triệu chứng suy tim.
+Triệu chứng suy tim do tổn thương này nhiều khả năng xuất hiện vào thời điểm nào?
+A. Sau 3–4 thập kỷ, kèm loạn nhịp nhĩ và mất bù khi gắng sức
+B. Sau tuổi 2, khi mạch máu phổi bắt đầu tắc nghẽn
+C. Trong vài ngày tới, khi ống động mạch đóng lại
+D. Khoảng tuần thứ 6–8, khi sức cản mạch phổi đã giảm
+Đáp án: D
+Giải thích: Ngay sau sinh sức cản mạch phổi còn cao nên shunt qua lỗ thông còn ít và trẻ khỏe. Khi sức cản mạch phổi giảm vào khoảng 6–8 tuần, tỉ lệ sức cản hệ thống/phổi tăng và dòng trái–phải qua lỗ thông lớn tăng mạnh gây ngập lụt phổi, thở nhanh, bú kém, gan to.
+
+Câu 3: Bé gái 5 tháng tuổi, hay ho và viêm phổi tái diễn, bú chậm, thở nhanh 55 lần/phút, không tím, SpO2 97% ở tay và chân, tăng cân chỉ 400 g trong 2 tháng qua. Khám: mỏm tim lệch ra ngoài, thổi tâm thu thô ráp 3/6 ở khoang liên sườn 4 bờ trái xương ức, T2 mạnh ở ổ van động mạch phổi, mạch bẹn bắt rõ hai bên. X-quang ngực: bóng tim to, quai động mạch phổi phồng, rốn phổi đậm, tăng mạch máu phổi. Điện tâm đồ: dày cả hai thất.
+Chẩn đoán phù hợp nhất là gì?
+A. Thông liên nhĩ lỗ thứ phát lớn
+B. Thông liên thất lớn
+C. Còn ống động mạch lớn
+D. Tứ chứng Fallot thể hồng
+Đáp án: B
+Giải thích: Thổi tâm thu thô ráp ở bờ trái xương ức thấp, dày cả hai thất và tăng tuần hoàn phổi gợi thông liên thất lớn. ASD thường có thổi tâm thu ở liên sườn 2 với T2 tách đôi cố định, trục phải; PDA có thổi liên tục dưới đòn trái; Fallot thể hồng có tuần hoàn phổi giảm.
+
+Câu 4: Bé trai 4 tuổi đến khám sức khỏe trước khi vào mẫu giáo. Trẻ phát triển bình thường (cân nặng và chiều cao ở bách phân vị 50), không bao giờ khó thở hay vã mồ hôi khi bú hoặc chơi. Khám: thổi tâm thu thô ráp 4/6 kèm rung miu ở khoang liên sườn 3–4 bờ trái xương ức, T2 bình thường, không có rung tâm trương ở mỏm. X-quang ngực và điện tâm đồ bình thường. Siêu âm tim: thông liên thất quanh màng 3 mm, shunt trái–phải nhỏ, áp lực động mạch phổi bình thường.
+Xử trí phù hợp nhất là gì?
+A. Theo dõi lâm sàng, tái khám định kỳ; chưa cần đóng lỗ thông
+B. Điều trị nội khoa suy tim, hẹn vá lỗ thông khi trẻ 6–9 tháng tuổi
+C. Cho nghỉ thể dục, hạn chế gắng sức cho đến khi lỗ thông tự đóng
+D. Phẫu thuật vá lỗ thông sớm vì suy tim không đáp ứng thuốc
+Đáp án: A
+Giải thích: Đây là thông liên thất lỗ nhỏ (bệnh Roger): thổi to, rung miu nhưng trẻ phát triển bình thường, buồng tim và áp lực phổi bình thường. Lỗ nhỏ không làm tăng lưu lượng máu lên phổi nên không cần đóng lỗ thông; chỉ theo dõi và tái khám định kỳ, cho sinh hoạt bình thường. Cường độ tiếng thổi không phản ánh mức độ nặng.
+
+Câu 5: Bé gái 7 tuổi đã biết thông liên thất phần phễu, sát van động mạch chủ, lỗ 6 mm, theo dõi từ nhỏ không triệu chứng. Lần khám này nghe thêm tiếng thổi tâm trương êm, giảm dần ở khoang liên sườn 3 bờ trái xương ức; huyết áp 110/40 mmHg, mạch nảy mạnh. Siêu âm tim: hở van động mạch chủ mức độ vừa.
+Cơ chế nào giải thích đúng nhất tiếng thổi tâm trương mới xuất hiện này?
+A. Tăng lưu lượng qua van hai lá do shunt lớn, gây hẹp hai lá tương đối
+B. Sùi viêm nội tâm mạc làm thủng lá van động mạch chủ, gây hở van
+C. Lá van động mạch chủ sa vào lỗ thông do hiệu ứng Venturi, gây hở van
+D. Tăng áp lực động mạch phổi làm giãn vòng van, gây hở van động mạch phổi
+Đáp án: C
+Giải thích: VSD phần phễu nằm sát van động mạch chủ; dòng shunt tốc độ cao tạo áp lực âm (hiệu ứng Venturi) hút lá vành phải sa vào lỗ thông, gây hở van động mạch chủ tiến triển. Tiếng thổi tâm trương êm giảm dần, huyết áp chênh lệch rộng là biểu hiện của hở chủ này.
+
+Câu 6: Bé trai 3 tháng tuổi, hội chứng Down, thở nhanh 50 lần/phút, bú kém, tăng cân chậm. Khám: thổi tâm thu ở bờ trái xương ức và thổi tâm thu ở mỏm do hở van nhĩ thất. Điện tâm đồ: trục trái (−40°). Siêu âm tim: thông liên thất 7 mm nằm ở phần buồng nhận, ngay dưới các van nhĩ thất. Bố mẹ hỏi lỗ thông có thể tự đóng không.
+Lời tư vấn nào là phù hợp nhất?
+A. Không thể tự đóng, cần phẫu thuật sửa chữa sớm trong những tháng đầu đời
+B. Thường tự đóng trước 2 tuổi nhờ cơ tim phát triển che lấp các lỗ
+C. Có thể tự đóng nhờ mô van ba lá bọc lấy lỗ thông, cần theo dõi hằng năm
+D. Hiếm khi tự đóng vì nằm sát van động mạch chủ, kèm nguy cơ sa lá van gây hở chủ
+Đáp án: A
+Giải thích: Lỗ thông ở phần buồng nhận, trục trái trên ECG, hở van nhĩ thất và Down gợi bệnh cảnh kênh nhĩ thất. VSD buồng nhận không có cơ chế tự đóng nên phải tư vấn phẫu thuật sửa chữa sớm. Khả năng tự đóng chỉ có ở phần cơ và quanh màng.
+
+Câu 7: Bé gái 8 tuần tuổi, đủ tháng, bú mỗi cữ 10 phút rồi mệt, vã mồ hôi trán, thở nhanh 65 lần/phút kèm rút lõm nhẹ, gan to 3 cm dưới bờ sườn, cân nặng 4,1 kg (lúc sinh 3,4 kg). Không tím, SpO2 98% ở tay và chân. Thổi tâm thu 3/6 bờ trái xương ức, rung tâm trương ở mỏm. Siêu âm tim: thông liên thất quanh màng 9 mm, shunt trái–phải lớn.
+Phác đồ nội khoa khởi đầu nào phù hợp nhất cho trẻ này trong khi chờ quyết định phẫu thuật?
+A. Ibuprofen đường uống trong 3 ngày để đóng ống động mạch, kèm siêu âm kiểm tra lại
+B. Prostaglandin E1 truyền tĩnh mạch liên tục để giữ ống mở, kèm chuẩn bị can thiệp
+C. Propranolol uống chia 3–4 lần mỗi ngày, bù đủ dịch và hạn chế để trẻ quấy khóc kéo dài
+D. Furosemid, spironolacton và Captopril uống, kèm sữa tăng đậm độ năng lượng
+Đáp án: D
+Giải thích: Trẻ có suy tim sung huyết do shunt trái–phải lớn. Điều trị nội khoa nhằm giảm ứ huyết phổi và giảm hậu gánh: lợi tiểu, ức chế men chuyển và chế độ ăn đậm độ năng lượng cao. Các thuốc còn lại thuộc về bệnh khác trong bài.
+
+Câu 8: Bé gái 6 tuổi ở vùng sâu, từ nhỏ hay viêm phổi, bú chậm nhưng chưa từng được mổ. Hai năm nay trẻ ít viêm phổi hơn nhưng tím môi khi chơi, nay tím cả khi nghỉ, ngón tay ngón chân dùi trống. SpO2 82% ở cả tay và chân. Khám: T2 mạnh, đơn ở ổ van động mạch phổi; tiếng thổi tâm thu ở bờ trái xương ức trước đây 4/6 nay chỉ còn 1/6. Siêu âm tim: thông liên thất quanh màng lớn, shunt hai chiều ưu thế phải–trái, áp lực động mạch phổi bằng áp lực hệ thống.
+Quyết định nào về lỗ thông liên thất là phù hợp nhất?
+A. Không can thiệp gì thêm vì lỗ thông nhỏ, chỉ tái khám mỗi năm một lần
+B. Không đóng lỗ thông vì tăng áp phổi cố định, dùng thuốc giãn mạch phổi
+C. Tiếp tục nội khoa suy tim và hẹn vá lỗ thông khi trẻ được 6–9 tháng tuổi
+D. Phẫu thuật vá lỗ thông sớm vì suy tim nặng không đáp ứng thuốc nội khoa
+Đáp án: B
+Giải thích: Tím xuất hiện muộn sau giai đoạn suy tim, tiếng thổi giảm, T2 mạnh đơn và shunt đảo chiều phải–trái là hội chứng Eisenmenger cố định. Lúc này lỗ thông là đường giải áp cho thất phải nên đóng lỗ thông (phẫu thuật hay bít dù) bị chống chỉ định; chỉ điều trị nội khoa chuyên biệt.
+
+Câu 9: Bé trai 10 tuần tuổi, thông liên thất quanh màng 10 mm, shunt trái–phải lớn. Đã điều trị Furosemid, spironolacton và Captopril đủ liều 4 tuần cùng sữa tăng năng lượng nhưng vẫn thở nhanh 70 lần/phút, bú phải hỗ trợ qua ống thông dạ dày, cân nặng giảm từ 4,3 kg xuống 4,1 kg, gan to 4 cm. Siêu âm tim: áp lực động mạch phổi bằng 85% áp lực hệ thống.
+Kế hoạch nào phù hợp nhất cho trẻ này?
+A. Phẫu thuật đóng thông liên thất trong đợt nằm viện này
+B. Bít thông liên thất bằng dụng cụ qua da ngay trong tuần này
+C. Theo dõi đến 2 tuổi vì lỗ thông có thể tự đóng nhờ mô van ba lá che phủ
+D. Tiếp tục điều trị nội khoa và hẹn phẫu thuật khi trẻ 6–9 tháng tuổi
+Đáp án: A
+Giải thích: Suy tim không đáp ứng nội khoa đủ liều, sụt cân và áp lực động mạch phổi cao là chỉ định phẫu thuật sớm, không chờ đến 6–9 tháng tuổi (giáo trình: mổ lúc 1–4 tháng khi tăng lưu lượng phổi nhiều và không lên cân). Chờ đến 6–9 tháng chỉ áp dụng khi nội khoa kiểm soát được triệu chứng.
+
+Câu 10: Bé gái 14 tháng tuổi, thông liên thất quanh màng 11 mm chưa được mổ, hay viêm phổi, chậm tăng cân (cân nặng dưới bách phân vị 3). Hiện thở nhanh nhẹ khi bú, không tím lúc nghỉ, SpO2 94% khi khóc. Khám: T2 mạnh ở ổ van động mạch phổi, thổi tâm thu bờ trái xương ức 2/6. Siêu âm tim: shunt hai chiều, áp lực động mạch phổi ước tính bằng áp lực hệ thống. Cần quyết định còn đóng được lỗ thông hay không.
+Thăm dò nào có giá trị nhất để quyết định?
+A. Nghiệm pháp thở oxy nồng độ cao rồi đo khí máu động mạch để tìm shunt phải–trái
+B. Thông tim đo sức cản mạch phổi và thử đáp ứng với thuốc giãn mạch phổi
+C. Siêu âm tim Doppler màu qua thành ngực để xác định vị trí và kích thước lỗ thông
+D. Chụp cắt lớp vi tính mạch máu để đánh giá quai động mạch chủ và tĩnh mạch phổi
+Đáp án: B
+Giải thích: Quyết định còn đóng lỗ thông hay không phụ thuộc mạch phổi còn đáp ứng hay đã tắc nghẽn cố định. Siêu âm đã xác định giải phẫu và chỉ ước tính áp lực; thông tim đo trực tiếp sức cản mạch phổi và thử giãn mạch mới cho dữ liệu quyết định.
+
+Câu 11: Bé gái 6 tuổi, khám vì hay mệt khi chạy so với bạn và hay viêm đường hô hấp trên; phát triển thể chất bình thường, không tím. Khám: thổi tâm thu tống máu 2/6 ở khoang liên sườn 2 bờ trái xương ức, T2 tách đôi rộng và không thay đổi khi hít vào hay thở ra, không có tiếng click tống máu. Điện tâm đồ: trục phải, dạng rSR' ở V1 (block nhánh phải không hoàn toàn). X-quang: nhĩ phải giãn, cung động mạch phổi phồng, tăng mạch máu phổi.
+Chẩn đoán phù hợp nhất là gì?
+A. Thông liên nhĩ lỗ thứ phát
+B. Hẹp van động mạch phổi vừa
+C. Thông liên thất nhỏ phần cơ
+D. Còn ống động mạch nhỏ
+Đáp án: A
+Giải thích: T2 tách đôi rộng cố định, thổi tâm thu ở liên sườn 2 do tăng lưu lượng qua van động mạch phổi, block nhánh phải không hoàn toàn, nhĩ phải giãn và tăng tuần hoàn phổi là bộ ba của thông liên nhĩ lỗ thứ phát. Hẹp van ĐMP cũng thổi tâm thu ở vị trí này nhưng có click tống máu, T2 tách đôi thay đổi theo hô hấp và phổi không tăng tưới máu.
+
+Câu 12: Bé gái 6 tuổi khám sức khỏe định kỳ, không triệu chứng. Nghe tim: thổi tâm thu 2/6 ở khoang liên sườn 2 bờ trái xương ức; T2 tách đôi rộng, khoảng cách giữa A2 và P2 không đổi khi hít vào hay thở ra. Siêu âm tim: thông liên nhĩ lỗ thứ phát 12 mm, nhĩ phải và thất phải giãn, áp lực động mạch phổi bình thường.
+Điện tâm đồ của trẻ này nhiều khả năng cho thấy điều gì?
+A. Dạng rSR' ở V1 do block nhánh phải không hoàn toàn, kèm trục phải
+B. Gần như bình thường, như thường gặp ở lỗ thông nhỏ chưa giãn buồng tim phải
+C. Trục trái, khử cực thất ngược chiều kim đồng hồ, kèm block nhĩ thất độ I
+D. Trục phải, dày thất phải với sóng R cao ở V1 và sóng T đảo ngược ở V1–V3
+Đáp án: A
+Giải thích: Thông liên nhĩ lỗ thứ phát gây quá tải thể tích thất phải: thể tích tống máu thất phải dư thừa, ổn định nên T2 tách đôi rộng cố định, trên ECG là trục phải và block nhánh phải không hoàn toàn (rSR' ở V1). Dấu tăng gánh áp lực (R cao, T đảo ngược ở V1–V3) không có vì áp lực động mạch phổi bình thường; trục trái và khử cực ngược chiều kim đồng hồ chỉ có ở lỗ tiên phát.
+
+Câu 13: Bé gái 4 tuổi, hay viêm phổi tái diễn, thở nhanh khi gắng sức. Khám: T2 tách đôi cố định, thổi tâm thu 3/6 ở khoang liên sườn 2 bờ trái xương ức, thổi tâm thu ở mỏm do hở van hai lá. Điện tâm đồ: trục trái (−45°), khử cực thất ngược chiều kim đồng hồ, block nhĩ thất độ I. X-quang: tim to, tăng tuần hoàn phổi. Siêu âm tim xác nhận khuyết vách liên nhĩ.
+Vị trí khuyết vách liên nhĩ nhiều khả năng nhất là loại nào?
+A. Lỗ thứ phát, nằm ở vùng hố bầu dục giữa vách liên nhĩ
+B. Thể xoang tĩnh mạch, nằm ở chỗ tĩnh mạch chủ trên đổ vào nhĩ phải
+C. Thể khuyết nóc xoang vành, thông giữa xoang vành và nhĩ trái
+D. Lỗ tiên phát, nằm thấp ở vách liên nhĩ sát các van nhĩ thất
+Đáp án: D
+Giải thích: Trục trái và khử cực ngược chiều kim đồng hồ kèm hở van hai lá cho thấy tổn thương nằm trong bệnh cảnh khuyết gối nội tâm mạc: ASD lỗ tiên phát. Các thể còn lại có trục phải hoặc điện tâm đồ gần bình thường.
+
+Câu 14: Bé trai 4 tuổi, không triệu chứng, được phát hiện T2 tách đôi cố định khi khám tuyển sinh. Siêu âm tim qua thành ngực: thông liên nhĩ lỗ thứ phát 13 mm ở vùng hố bầu dục, các gờ mô xung quanh đủ rộng, nhĩ phải và thất phải giãn nhẹ, các tĩnh mạch phổi đổ bình thường vào nhĩ trái, áp lực động mạch phổi bình thường.
+Theo hướng dẫn hiện hành, phương án nào được ưu tiên hàng đầu cho trẻ này?
+A. Phẫu thuật tim hở vá lỗ vì lỗ 13 mm quá lớn để đặt dụng cụ
+B. Theo dõi siêu âm vì lỗ thứ phát nhỏ ở nhũ nhi có thể tự đóng
+C. Đóng bằng dụng cụ qua da trong độ tuổi 3–5, trước khi trẻ đi học
+D. Phẫu thuật tim hở đưa tĩnh mạch phổi về nhĩ trái cho thể xoang tĩnh mạch
+Đáp án: C
+Giải thích: ASD lỗ thứ phát 13 mm có gờ mô đủ, thất phải giãn nhẹ và áp lực phổi bình thường: đóng bằng dụng cụ qua da là lựa chọn ưu tiên, thời điểm lý tưởng 3–5 tuổi trước khi đi học. Phẫu thuật dành cho thể tiên phát, thể xoang tĩnh mạch hoặc lỗ thứ phát quá lớn thiếu gờ.
+
+Câu 15: Bé gái sinh non ở tuổi thai 29 tuần, cân nặng 1.200 g, hiện 18 ngày tuổi, đang thở máy. Đã hạn chế dịch, dùng lợi tiểu, hai đợt ibuprofen và một đợt indomethacin đủ liều nhưng nhu cầu oxy vẫn cao, không cai được máy thở. Khám: mạch quay nảy mạnh, huyết áp 60/22 mmHg, thổi tâm thu 2/6 ở khoang liên sườn 2 bờ trái xương ức, mỏm tim đập mạnh. X-quang: tim to, phổi mờ lan tỏa. Siêu âm tim lặp lại: ống động mạch 3 mm vẫn thông, shunt trái–phải lớn, nhĩ trái giãn, không có dị tật tim khác.
+Xử trí nào là phù hợp nhất?
+A. Dùng thêm một đợt thuốc ức chế cyclooxygenase như ibuprofen
+B. Đặt coil hoặc dù qua da khi trẻ đủ cân nặng và rời hồi sức
+C. Tiếp tục hạn chế dịch và lợi tiểu, theo dõi chờ ống tự đóng
+D. Thắt ống động mạch bằng phẫu thuật qua đường mở ngực bên trái
+Đáp án: D
+Giải thích: Ống động mạch còn gây ảnh hưởng huyết động ở trẻ sinh non đã thất bại với bảo tồn và các đợt thuốc ức chế cyclooxygenase (ibuprofen, indomethacin): chuyển phẫu thuật thắt ống. Thuốc chỉ có hiệu quả ở trẻ non trong những tuần đầu và đã được dùng đủ.
+
+Câu 16: Bé trai 18 tháng, đủ tháng, hay viêm phổi, tăng cân chậm, thở nhanh khi bú. Khám: huyết áp 95/30 mmHg, mạch quay và mạch bẹn nảy mạnh chìm sâu, không tím. Nghe tim: tiếng thổi liên tục mạnh nhất ở khoang liên sườn 2 dưới xương đòn trái, lan ra sau lưng. X-quang: tim to, tăng tuần hoàn phổi, quai động mạch chủ phồng.
+Chẩn đoán phù hợp nhất là gì?
+A. Thông liên nhĩ lỗ thứ phát lớn
+B. Thông liên thất phễu kèm hở van động mạch chủ
+C. Còn ống động mạch lớn
+D. Thông liên thất quanh màng lớn
+Đáp án: C
+Giải thích: Huyết áp chênh lệch rộng với mạch nảy mạnh chìm sâu cộng tiếng thổi liên tục dưới đòn trái là PDA lớn: áp lực động mạch chủ cao hơn động mạch phổi ở cả tâm thu và tâm trương. VSD phễu kèm hở chủ cũng có huyết áp chênh lệch rộng nhưng thổi tâm thu và tâm trương riêng biệt, không phải liên tục.
+
+Câu 17: Bé gái 9 tuổi, nhà ở vùng núi, từ nhỏ có tiếng thổi tim chưa được điều trị. Hai năm nay khó thở khi gắng sức, nay thỉnh thoảng thấy ngón chân tím. Khám: môi và ngón tay hồng, ngón chân tím và dùi trống. SpO2 tay phải 96%, chân 80%. T2 mạnh ở ổ van động mạch phổi; tiếng thổi liên tục trước đây nay chỉ còn thổi tâm thu ngắn.
+Cơ chế nào giải thích đúng nhất tình trạng tím chọn lọc ở nửa dưới cơ thể?
+A. Chân yếu mạch, huyết áp thấp hơn tay do hẹp eo động mạch chủ, SpO2 hai chi không chênh lệch nhau
+B. Đầu chi tím lạnh do co mạch, niêm mạc hồng và SpO2 bình thường, gặp trong tím ngoại vi
+C. Tay phải tím hơn chân do chuyển gốc động mạch kèm tăng áp phổi, ống đưa máu giàu oxy vào động mạch chủ xuống
+D. Chân tím hơn tay do shunt phải–trái qua ống đổ vào động mạch chủ xuống sau chỗ ra của động mạch dưới đòn trái
+Đáp án: D
+Giải thích: Tăng áp phổi nặng đã đảo chiều shunt qua ống: máu nghèo oxy từ động mạch phổi đổ vào động mạch chủ xuống, sau chỗ xuất phát của động mạch dưới đòn trái, nên chân tím hơn tay (SpO2 chân 80%, tay phải 96%). Đây là Eisenmenger của PDA.
+
+Câu 18: Trẻ sinh non 28 tuần, 10 ngày tuổi, cân nặng 1.050 g, đang thở máy. Sau khi tăng lượng sữa qua ống thông dạ dày, trẻ chướng bụng, nôn dịch mật, đi ngoài phân có máu. Huyết áp 58/22 mmHg, mạch nảy mạnh. Siêu âm tim: ống động mạch 3,5 mm, shunt trái–phải lớn, dòng chảy ngược tâm trương ở động mạch chủ bụng. X-quang bụng: hơi trong thành ruột.
+Cơ chế nào giải thích đúng nhất tổn thương ruột ở trẻ này?
+A. Máu thoát liên tục qua ống vào động mạch phổi làm tụt áp động mạch chủ, giảm tưới mạc treo
+B. Shunt phải–trái qua ống gây thiếu oxy máu nửa dưới cơ thể làm tổn thương thành ruột
+C. Ống đưa quá nhiều máu lên động mạch phổi làm ngập lụt phổi, gây phù phổi và suy hô hấp nặng
+D. Hai vòng tuần hoàn song song khiến máu nghèo oxy quay vòng nên mô ruột thiếu oxy toàn thân
+Đáp án: A
+Giải thích: PDA lớn ở trẻ non cho dòng máu chảy từ động mạch chủ sang động mạch phổi cả trong tâm trương; áp lực tâm trương thấp và dòng ngược tâm trương ở động mạch chủ bụng làm giảm tưới máu mạc treo, dễ hoại tử ruột.
+
+Câu 19: Bé gái 4 tuổi, đủ tháng, được phát hiện tiếng thổi liên tục dưới đòn trái, hay mệt và thở nhanh khi chạy. Siêu âm tim: ống động mạch 4,5 mm nối eo động mạch chủ với động mạch phổi trái, shunt trái–phải, nhĩ trái và thất trái giãn, áp lực động mạch phổi bình thường, không có dị tật tim khác.
+Biện pháp đóng ống nào phù hợp nhất?
+A. Đóng ống bằng coil hoặc dù qua da vì ống gây giãn buồng tim trái
+B. Phẫu thuật tim hở thắt ống vì giải phẫu không phù hợp bít dù
+C. Ibuprofen hoặc indomethacin cho trẻ non tháng trong những tuần đầu đời
+D. Theo dõi lâm sàng, siêu âm định kỳ vì ống nhỏ không triệu chứng
+Đáp án: A
+Giải thích: Ở trẻ lớn, thuốc ức chế cyclooxygenase không còn hiệu quả; ống 4,5 mm có triệu chứng và giãn nhĩ trái, thất trái cần đóng chủ động. Đóng bằng coil hoặc dụng cụ qua da là tiêu chuẩn thường quy với tỷ lệ thành công cao.
+
+Câu 20: Trẻ sinh non 30 tuần, 3 ngày tuổi, thở máy, nghe thổi tâm thu 2/6 ở khoang liên sườn 2 bờ trái xương ức, không có thổi tâm trương; mạch nảy mạnh. Siêu âm tim: ống động mạch 2,5 mm với shunt trái–phải chủ yếu ở thì tâm thu, áp lực động mạch phổi ước tính bằng 70% áp lực hệ thống, không có thông liên thất.
+Nếu ống vẫn còn mở và sức cản mạch phổi giảm dần trong những tuần tới, âm thổi sẽ thay đổi thế nào?
+A. Chuyển thành thổi tâm thu thô ráp kèm rung miu ở bờ trái xương ức
+B. Có thêm tiếng rung tâm trương ở mỏm khi lưu lượng qua van hai lá tăng
+C. Chuyển thành thổi liên tục dưới đòn trái khi chênh áp tâm trương xuất hiện
+D. Giảm dần rồi mất, khi shunt đảo chiều phải–trái do tăng áp phổi cố định
+Đáp án: C
+Giải thích: Ở trẻ non những ngày đầu, sức cản mạch phổi còn cao nên chênh áp tâm trương giữa động mạch chủ và động mạch phổi nhỏ, chỉ nghe thổi tâm thu. Khi sức cản mạch phổi giảm, dòng chảy qua ống kéo dài sang cả tâm trương và âm thổi trở thành liên tục ở dưới đòn trái.
+
+Câu 21: Trẻ trai 3 ngày tuổi, đủ tháng, tím nhẹ khi khóc, SpO2 88% ở cả tay và chân, thở nhanh nhẹ. Khám: thổi tâm thu ở bờ dưới trái xương ức, tiếng ngựa phi nhĩ, T1 và T2 tách đôi rộng. Điện tâm đồ: sóng P cao ở DII, block nhánh phải, có sóng delta (hội chứng Wolff-Parkinson-White).
+Hình ảnh X-quang ngực nào có nhiều khả năng nhất ở trẻ này?
+A. Bóng tim to hình người tuyết, tĩnh mạch vô danh giãn, phổi ứ huyết
+B. Bóng tim to khổng lồ hình bình nước do nhĩ phải giãn, phổi sáng
+C. Bóng tim hình chiếc ủng, mỏm hếch lên, cung ĐMP lõm, phổi sáng
+D. Bóng tim hình quả trứng nằm ngang, cuống mạch hẹp, tăng tưới máu phổi
+Đáp án: B
+Giải thích: Tím nhẹ sơ sinh, ngựa phi nhĩ, T1-T2 tách đôi rộng, sóng P cao, block nhánh phải và WPW là bệnh Ebstein (van ba lá bám thấp, nhĩ phải giãn lớn); X-quang điển hình là tim to khổng lồ hình bình nước với phổi sáng. Ba hình ảnh còn lại là dấu X-quang của d-TGA, TAPVC thể trên tim và tứ chứng Fallot.
+
+Câu 22: Bé gái 10 tháng tuổi đã được chẩn đoán tứ chứng Fallot, đang chờ phẫu thuật; hằng ngày nghe tiếng thổi tâm thu tống máu 3/6 ở khoang liên sườn 2 bờ trái ức. Sáng nay sau khi khóc thét đòi bú, bé thở nhanh sâu, tím đen toàn thân, lơ mơ, nhịp tim 190 lần/phút.
+Khi nghe tim lúc này, bác sĩ nhiều khả năng ghi nhận thay đổi nào so với thường ngày?
+A. Tiếng thổi mờ đi vì lỗ thông liên thất đang tự đóng nhờ mô van ba lá bọc lại
+B. Tiếng thổi mờ đi vì sức cản mạch phổi tăng cố định làm cân bằng áp lực hai thất
+C. Tiếng thổi mờ đi vì phễu thất phải co thắt làm lưu lượng qua đường ra thất phải giảm mạnh
+D. Tiếng thổi mờ đi vì ống động mạch đã đóng lại sau những ngày đầu sau sinh
+Đáp án: C
+Giải thích: Thổi của Fallot là thổi tống máu qua chỗ hẹp đường ra thất phải, không phải thổi qua VSD. Khi catecholamine làm phễu co thắt, lưu lượng qua chỗ hẹp giảm gần như hoàn toàn nên tiếng thổi nhỏ đi hoặc biến mất trong khi tím tăng — đây là dấu hiệu nặng, không phải dấu hiệu đỡ.
+
+Câu 23: Bé trai 18 tháng tuổi mắc tứ chứng Fallot chưa phẫu thuật. Mẹ kể mỗi khi chơi hoặc đi bộ một đoạn ngắn, bé tự dừng lại, ngồi xổm vài phút rồi đứng dậy chơi tiếp. Khi bé ngồi xổm, SpO2 tăng từ 75% lên 88%.
+Cơ chế chính giúp tư thế ngồi xổm cải thiện tím ở trẻ này là gì?
+A. Đa hồng cầu thứ phát làm tăng độ nhớt máu, tăng nguy cơ tắc mạch não
+B. Thiếu oxy mạn kích thích tăng sinh mô liên kết đầu chi, gây ngón tay dùi trống
+C. Gập động mạch đùi làm tăng sức cản mạch hệ thống, giảm shunt phải-trái qua VSD
+D. Catecholamine tăng kích thích co thắt phễu thất phải, cắt đứt dòng máu lên phổi
+Đáp án: C
+Giải thích: Ngồi xổm hoặc gối-ngực gập các động mạch đùi, làm tăng hậu gánh hệ thống; máu thất phải ưu tiên đi lên ĐMP thay vì sang ĐMC qua VSD nên shunt phải-trái giảm và SpO2 tăng. Ba cơ chế còn lại cũng gặp ở Fallot nhưng giải thích cơn tím, ngón dùi trống và biến chứng tắc mạch, không giải thích lợi ích của tư thế.
+
+Câu 24: Bé trai 9 tháng tuổi mắc tứ chứng Fallot lên cơn tím sau 2 ngày sốt và bú kém: SpO2 55%, thở nhanh sâu, lơ mơ, nhịp tim 195 lần/phút, niêm mạc khô, huyết áp 90/55 mmHg, khí máu pH 7,36 và HCO3 21 mmol/L. Trẻ đã được đặt tư thế gối-ngực, thở oxy qua mặt nạ có túi dự trữ, tiêm dưới da morphin và vừa đặt được đường truyền tĩnh mạch; sau 10 phút SpO2 chỉ lên 60%. Trẻ đã có monitor.
+Bước xử trí tiếp theo thích hợp nhất là gì?
+A. Tiêm tĩnh mạch chậm propranolol, theo dõi monitor điện tim
+B. Truyền phenylephrin duy trì để nâng sức cản mạch hệ thống
+C. Truyền nhanh bolus NaCl 0,9% để bù thể tích và chống cô đặc máu
+D. Tiêm tĩnh mạch chậm natri bicarbonat để chỉnh toan chuyển hóa nặng
+Đáp án: C
+Giải thích: Theo thứ tự lưu đồ cơn tím: tư thế gối-ngực, oxy, morphin, rồi bù dịch trước khi dùng thuốc nhóm chẹn beta/phenylephrin; trẻ này mất nước sau sốt và bú kém nên cần tăng tiền gánh thất phải và chống cô đặc máu. Bicarbonat chỉ khi toan nặng (pH ở đây gần bình thường).
+
+Câu 25: Bé gái 12 tháng tuổi mắc tứ chứng Fallot nhập viện vì cơn tím kéo dài. SpO2 58% dù đã đặt tư thế gối-ngực, thở oxy, tiêm dưới da morphin, bù dịch NaCl 0,9% và chỉnh toan bằng natri bicarbonat; trẻ lơ mơ, huyết áp tụt còn 66/30 mmHg, nhịp tim 165 lần/phút.
+Theo hướng dẫn xử trí cơn tím (Nelson), thuốc nào phù hợp nhất để dùng tiếp theo?
+A. Furosemid tiêm tĩnh mạch để giảm ứ huyết phổi do shunt
+B. Prostaglandin E1 truyền tĩnh mạch để giữ ống động mạch mở
+C. Phenylephrin pha truyền duy trì để nâng sức cản mạch hệ thống
+D. Dobutamin truyền tĩnh mạch liên tục để tăng cung lượng tim
+Đáp án: C
+Giải thích: Cơn tím kháng trị với các bước đầu kèm huyết áp tụt cần tăng sức cản mạch hệ thống bằng thuốc co mạch alpha (phenylephrin): giảm shunt phải–trái và đẩy máu lên phổi. Thuốc tăng co bóp như dobutamin làm co thắt phễu nặng thêm; lợi tiểu và PGE1 không có chỗ trong cơn tím ở trẻ 12 tháng.
+
+Câu 26: Bé gái 9 tuổi mắc tứ chứng Fallot chưa phẫu thuật, tím mạn tính, ngón tay dùi trống, nhổ răng sâu cách đây 3 tuần không dùng kháng sinh dự phòng. Nay sốt 38,5°C kéo dài 3 tuần, mệt, xanh xao, ra mồ hôi đêm. Khám: nốt đau ở đầu ngón tay, xuất huyết dạng tia dưới móng, lách to 2 cm, tiếng thổi tâm thu thay đổi so với trước; không đau đầu, không dấu thần kinh khu trú. Hb 9 g/dL, tốc độ máu lắng tăng, cấy máu 3 mẫu dương tính Streptococcus viridans.
+Chẩn đoán phù hợp nhất là gì?
+A. Nhồi máu não do huyết khối trên nền đa hồng cầu cô đặc máu
+B. Viêm màng não mủ biến chứng sau nhổ răng ở trẻ tim có tím
+C. Áp xe não do thuyên tắc nhiễm khuẩn qua shunt phải-trái
+D. Viêm nội tâm mạc nhiễm khuẩn bán cấp sau nhiễm khuẩn huyết từ răng
+Đáp án: D
+Giải thích: Fallot chưa mổ sau nhổ răng không dự phòng, sốt kéo dài, thiếu máu, nốt Osler, xuất huyết dưới móng, lách to và cấy máu nhiều mẫu dương tính S. viridans là viêm nội tâm mạc nhiễm khuẩn bán cấp. Áp xe não, nhồi máu não và viêm màng não là biến chứng khác của tim có tím nhưng cần dấu thần kinh, mà trẻ này không có.
+
+Câu 27: Bé trai 14 tháng tuổi mắc tứ chứng Fallot chưa mổ, tiêu chảy 3 ngày, bú kém, ít nước tiểu. Sáng nay đột ngột yếu nửa người phải và co giật cục bộ 1 phút. Không sốt, không cứng gáy; niêm mạc khô; Hct 70%. CT sọ: nhồi máu vùng ĐM não giữa trái, không chảy máu, không ổ áp xe.
+Xử trí ban đầu thích hợp nhất là gì?
+A. Truyền khối hồng cầu lắng để tăng vận chuyển oxy lên não
+B. Đặt tư thế gối-ngực, thở oxy và tiêm dưới da morphin sulfat
+C. Dùng kháng sinh tĩnh mạch phổ rộng kèm dẫn lưu ổ mủ qua mở sọ não
+D. Truyền dịch đẳng trương tĩnh mạch để bù nước, giảm độ nhớt máu
+Đáp án: D
+Giải thích: Mất nước làm Hct vốn đã cao tăng thêm, tăng độ nhớt máu và gây huyết khối mạch não ở trẻ Fallot. Xử trí cốt lõi là bù dịch tĩnh mạch đẳng trương; truyền hồng cầu làm cô đặc máu hơn. Kháng sinh/dẫn lưu thuộc về áp xe não và gối-ngực/oxy/morphin là bậc đầu của cơn tím, đều không phải tình huống này.
+
+Câu 28: Bé trai 9 tháng tuổi mắc tứ chứng Fallot đang chờ phẫu thuật, ăn dặm tốt, SpO2 nền 82%, không cơn tím, không dấu hiệu mất nước, không đau đầu hay quấy khóc bất thường. Công thức máu: Hb 17,3 g/dL, Hct 51%, MCV 78 fL, ferritin 45 ng/mL (bình thường).
+Xử trí thích hợp nhất ở thời điểm này là gì?
+A. Theo dõi công thức máu và Hct mỗi 3 tháng, chưa cần can thiệp thêm
+B. Tháo máu thay thế bằng dịch đẳng trương để hạ Hct xuống dưới 45%
+C. Truyền dịch tĩnh mạch kéo dài để làm loãng máu và hạ Hct
+D. Cho sắt uống dự phòng và kiểm tra công thức máu lại sau 3 tháng
+Đáp án: A
+Giải thích: Hb 17,3 g/dL, Hct 51%, MCV và ferritin bình thường ở trẻ tím SpO2 82% là mức bù trừ phù hợp, không có thiếu sắt, không có dấu hiệu tăng độ nhớt có triệu chứng và không mất nước, nên chỉ cần theo dõi định kỳ chờ phẫu thuật. Bổ sung sắt chỉ khi có thiếu sắt (MCV và ferritin thấp); tháo máu chỉ khi Hct rất cao kèm triệu chứng; bù dịch khi mất nước.
+
+Câu 29: Bé gái 3 tuần tuổi, đủ tháng, cân nặng 3,0 kg, tím tăng dần từ ngày thứ 5, SpO2 nền 68%. Siêu âm tim: tứ chứng Fallot, hẹp phễu nặng, hai nhánh ĐMP rất nhỏ (Z-score −3), không phụ thuộc ống động mạch. Trẻ đã vài lần SpO2 tụt xuống 60% khi khóc dù xử trí nội khoa tối ưu.
+Phương pháp phẫu thuật nào thích hợp nhất cho trẻ này?
+A. Phẫu thuật Norwood tái tạo quai động mạch chủ kèm cầu nối động mạch phổi
+B. Sửa chữa toàn bộ: vá thông liên thất và mở rộng đường ra thất phải
+C. Cầu nối Blalock-Taussig cải tiến giữa động mạch dưới đòn và động mạch phổi
+D. Phẫu thuật chuyển gốc động mạch (Jatene) trong vòng một tuần sau sinh
+Đáp án: C
+Giải thích: Khi nhánh ĐMP quá nhỏ và trẻ còn quá nhỏ, giải phẫu chưa đủ điều kiện sửa chữa toàn bộ; cầu nối Blalock-Taussig cải tiến làm tăng lưu lượng phổi và là cầu nối trước sửa chữa triệt để. Jatene và Norwood là phẫu thuật của TGA và HLHS, không dành cho Fallot.
+
+Câu 30: Bé trai 2 ngày tuổi, đủ tháng, tím tăng dần từ giờ thứ 12, SpO2 70% và không cải thiện khi thở oxy 100%. Không nghe thổi rõ; X-quang phổi sáng, bóng tim hình chiếc ủng. Đã được truyền PGE1 nên SpO2 duy trì 80%; khi thử giảm liều SpO2 tụt xuống 60%. Siêu âm tim: VSD lớn, ĐMC cưỡi ngựa trên vách liên thất, không có dòng máu đi từ thất phải lên ĐMP qua van, hai nhánh ĐMP được cấp máu từ ống động mạch.
+Chẩn đoán giải phẫu phù hợp nhất là gì?
+A. Tứ chứng Fallot hẹp phễu mức độ vừa, còn dòng máu xuôi lên ĐMP
+B. Tứ chứng Fallot thể teo tịt van ĐMP kèm thông liên thất lớn
+C. Chuyển gốc đại động mạch kèm thông liên thất và hẹp van ĐMP
+D. Teo tịt van ĐMP với vách liên thất nguyên vẹn, thất phải thiểu sản
+Đáp án: B
+Giải thích: VSD lớn, ĐMC cưỡi ngựa và hoàn toàn không có dòng máu xuôi lên ĐMP, máu phổi phụ thuộc ống động mạch là teo tịt van ĐMP kèm VSD (thể nặng nhất của Fallot); đó là lý do SpO2 phụ thuộc PGE1. Fallot hẹp vừa vẫn còn dòng xuôi lên phổi, PA-IVS không có VSD, TGA có ĐMC xuất phát hoàn toàn từ thất phải.
+
+Câu 31: Bé gái 6 ngày tuổi, đủ tháng, bú kém, thở nhanh, da nhợt lạnh nổi vân, mạch ở cả tay và bẹn đều yếu, gan to 3 cm dưới bờ sườn, nước tiểu ít. Nghe tim: thổi tâm thu tống máu 2/6 ở khoang liên sườn 2 bờ phải ức và tiếng click tống máu; điện tâm đồ dày thất trái. Siêu âm tim: van động mạch chủ dày, mở hạn chế dạng vòm, thất trái giãn và giảm co bóp, ống động mạch còn mở với shunt hai chiều. PGE1 đã được truyền nhưng huyết động chỉ cải thiện tạm thời.
+Can thiệp cấp cứu thích hợp nhất là gì?
+A. Nong bóng kèm đặt stent đoạn eo động mạch chủ
+B. Đặt stent ống động mạch bằng ống thông
+C. Nong van động mạch chủ bằng bóng qua da
+D. Xé rộng vách liên nhĩ bằng ống thông bóng
+Đáp án: C
+Giải thích: Hẹp van ĐMC nguy kịch ở sơ sinh gây giảm cung lượng tim nặng, sốc tim; tuần hoàn hệ thống phụ thuộc ống nên PGE1 chỉ là cầu nối. Điều trị cấp cứu là nong van ĐMC bằng bóng qua da. Các can thiệp còn lại ứng với TGA (xé vách liên nhĩ), teo ĐMP/Fallot nặng (stent ống) và hẹp eo ĐMC (nong/stent).
+
+Câu 32: Bé gái 3 tuần tuổi mắc chuyển gốc đại động mạch kèm thông liên thất lớn, SpO2 85%, thở nhanh, bú kém, suy tim sung huyết; thất trái vẫn chịu áp lực hệ thống nhờ VSD. Gia đình muốn hoãn mổ đến khi bé 1 tuổi cho "lớn hơn". Bác sĩ tim mạch giải thích cần mổ chuyển gốc động mạch kèm đóng VSD trong vài tháng đầu.
+Lý do chính của việc mổ sớm là gì?
+A. Thất phải gánh tuần hoàn hệ thống lâu dài sẽ suy dần chức năng khi trẻ trưởng thành
+B. Mạch máu phổi chịu lưu lượng cao kéo dài có thể xơ hóa cố định ngay trong năm đầu đời
+C. Thiếu oxy mạn tính sẽ gây đa hồng cầu, tăng độ nhớt máu và nguy cơ huyết khối mạch não
+D. Sức cản phổi giảm nên thất trái, vốn bơm vào phổi, thoái triển, không chịu nổi gánh hệ thống
+Đáp án: B
+Giải thích: Ở TGA kèm VSD lớn, thất trái được "huấn luyện" nhờ thông thương với thất phải, nên thoái triển không phải vấn đề chính; shunt trái-phải lớn qua VSD làm phổi chịu lưu lượng và áp lực cao, dẫn tới bệnh mạch máu phổi tắc nghẽn cố định sau vài tháng, nên cần mổ sớm. Lý do thất trái thoái triển áp dụng cho TGA vách liên thất nguyên vẹn.
+
+Câu 33: Bé trai 4 ngày tuổi, đủ tháng, sinh ra hồng hào, bú tốt 2 ngày đầu. Từ sáng nay bú kém, thở nhanh, da nhợt lạnh nổi vân, không bắt được mạch bẹn, vô niệu 8 giờ; SpO2 88% ở tay phải; khí máu pH 7,05, lactat 12 mmol/L. Siêu âm tim: thất trái rất nhỏ, van hai lá và van động mạch chủ teo, thất phải giãn, động mạch chủ lên rất nhỏ.
+Cơ chế chính gây suy sụp huyết động ở trẻ này là gì?
+A. Lỗ bầu dục đóng lại nên máu giàu oxy và nghèo oxy không còn pha trộn với nhau
+B. Ống động mạch đóng nên thất phải không còn đường bơm máu nuôi cơ thể
+C. Co thắt phễu thất phải làm cắt đứt lưu lượng máu lên phổi và gây tím nặng
+D. Tắc nghẽn đường về của tĩnh mạch phổi gây tăng áp phổi ác tính và phù phổi
+Đáp án: B
+Giải thích: Ở HLHS tưới máu hệ thống phụ thuộc hoàn toàn vào thất phải bơm qua ống động mạch xuống ĐMC rồi chảy ngược nuôi não, vành. Khi ống đóng, bệnh nhân sốc tim, mất mạch bẹn, toan chuyển hóa nặng; cần PGE1 khẩn cấp rồi phẫu thuật Norwood.
+
+Câu 34: Bé trai 12 tuổi đi khám vì đau đầu, tình cờ phát hiện huyết áp cao. Huyết áp tay phải 150/90 mmHg, huyết áp chân 100/60 mmHg; mạch bẹn yếu và đến chậm hơn mạch quay; nghe tiếng thổi tâm thu ở khoang liên sườn 2 bờ trái ức lan ra sau lưng. Điện tâm đồ: dày thất trái. X-quang ngực: khuyết bờ dưới các xương sườn.
+Chẩn đoán phù hợp nhất là gì?
+A. Hẹp eo động mạch chủ
+B. Hẹp van động mạch phổi
+C. Hẹp van động mạch chủ
+D. Còn ống động mạch lớn
+Đáp án: A
+Giải thích: Huyết áp chi trên cao hơn chi dưới trên 20 mmHg, mạch bẹn yếu và trễ so với mạch quay, khuyết bờ dưới xương sườn do tuần hoàn bàng hệ liên sườn là biểu hiện của hẹp eo động mạch chủ. Chỗ hẹp nằm dưới nguyên ủy ĐM dưới đòn trái nên chi trên nhận máu trước chỗ hẹp với áp lực cao.
+
+Câu 35: Bé trai 1 ngày tuổi, đủ tháng, tím trung ương, thở nhanh 90 lần/phút, rút lõm ngực nặng, SpO2 60% và không cải thiện với oxy 100%. Không nghe tiếng thổi. X-quang ngực: bóng tim nhỏ đến bình thường, hai phổi mờ lan tỏa dạng lưới ứ huyết. Siêu âm tim sơ bộ: thất phải giãn nhẹ, ĐMC xuất phát từ thất trái, có thông liên nhĩ với shunt phải-trái, không thấy tĩnh mạch phổi đổ vào nhĩ trái.
+Chẩn đoán phù hợp nhất là gì?
+A. Tứ chứng Fallot kèm teo tịt van động mạch phổi và VSD
+B. Hội chứng thiểu sản thất trái giai đoạn ống động mạch đóng
+C. Chuyển gốc đại động mạch kèm vách liên nhĩ nguyên vẹn, ống nhỏ
+D. Bất thường hồi lưu tĩnh mạch phổi hoàn toàn thể dưới tim có tắc nghẽn
+Đáp án: D
+Giải thích: Tím nặng sơ sinh, phổi ứ huyết lan tỏa trên bóng tim nhỏ, không có thổi và tim trái bình thường gợi TAPVC có tắc nghẽn (thể dưới tim điển hình): máu tĩnh mạch phổi bị tắc trên đường về nên phù phổi và tăng áp phổi ác tính, cần phẫu thuật cấp cứu. TGA có ĐMC xuất phát từ thất phải; HLHS có thất trái thiểu sản; Fallot có phổi sáng.
+
+Câu 36: Bé trai 5 tuổi lùn, cổ ngắn có nếp da thừa hai bên, sụp mi, hai mắt cách xa nhau, tai thấp xoay ra sau, lõm ức, tinh hoàn ẩn. Khám: thổi tâm thu tống máu 3/6 ở khoang liên sườn 2 bờ trái ức, click tống máu nhỏ đi khi hít vào. Siêu âm tim: hẹp van động mạch phổi do van loạn sản dày.
+Xét nghiệm di truyền nên chỉ định tiếp theo là gì?
+A. FISH tìm mất đoạn 7q11.23 chứa gen elastin
+B. Nhiễm sắc thể đồ tìm kiểu nhân 45,X
+C. Nhiễm sắc thể đồ tìm tam nhiễm sắc thể 21
+D. Giải trình tự gen PTPN11 tìm đột biến
+Đáp án: D
+Giải thích: Hẹp van ĐMP do van loạn sản kèm lùn, cổ ngắn có nếp da, sụp mi, mắt cách xa, tai thấp xoay sau, lõm ức, tinh hoàn ẩn ở bé trai là hội chứng Noonan, thường do đột biến PTPN11. Các xét nghiệm còn lại ứng với tim bẩm sinh khác: Down (thông sàn nhĩ thất), Turner (hẹp eo ĐMC, ở bé gái), Williams (hẹp trên van ĐMC).
+
+Câu 37: Bé trai 6 tuổi được phát hiện thổi tâm thu tống máu 4/6 ở khoang liên sườn 2 bờ trái ức lan ra sau lưng, click tống máu nhỏ đi khi hít vào, T2 tách đôi rộng với P2 mờ. Điện tâm đồ: trục phải, R cao ở V1. Siêu âm tim: hẹp van ĐMP dạng vòm, chênh áp đỉnh 75 mmHg, van ba lá bình thường, không có shunt. Bé hơi mệt khi gắng sức.
+Biện pháp điều trị thích hợp nhất là gì?
+A. Nong van động mạch phổi bằng bóng qua da
+B. Đóng ống động mạch bằng coil qua da
+C. Phẫu thuật tạo hình van ba lá theo kỹ thuật Cone
+D. Đóng lỗ thông liên nhĩ bằng dụng cụ (dù) qua da
+Đáp án: A
+Giải thích: Hẹp van ĐMP dạng vòm có chênh áp đỉnh 75 mmHg và triệu chứng gắng sức là chỉ định can thiệp; nong van ĐMP bằng bóng qua da là lựa chọn hàng đầu, an toàn và cho kết quả lâu dài tốt. Ba can thiệp còn lại là điều trị của thông liên nhĩ, còn ống động mạch và bệnh Ebstein.
+
+Câu 38: Một nha sĩ nhi nhận bốn trẻ tim bẩm sinh đến nhổ răng sâu trong cùng buổi sáng.
+Theo khuyến cáo của AHA, trẻ nào cần dùng kháng sinh dự phòng viêm nội tâm mạc nhiễm khuẩn trước thủ thuật?
+A. Bé 5 tuổi thông liên thất lỗ nhỏ quanh màng chưa can thiệp, siêu âm không giãn buồng tim
+B. Bé 6 tuổi đã vá thông liên thất bằng miếng nhân tạo cách đây 3 tháng, không còn shunt tồn lưu
+C. Bé 8 tuổi đã bít thông liên nhĩ thứ phát bằng dù cách đây 3 năm, không còn shunt tồn lưu
+D. Bé 4 tuổi đã sửa chữa toàn bộ tứ chứng Fallot cách đây 2 năm, không còn shunt tồn lưu
+Đáp án: B
+Giải thích: Dự phòng viêm nội tâm mạc chỉ dành cho nhóm nguy cơ cao: tim bẩm sinh có tím chưa sửa, vật liệu nhân tạo trong 6 tháng đầu sau sửa chữa, tồn lưu shunt cạnh vật liệu nhân tạo, hoặc tiền sử viêm nội tâm mạc. Thông liên thất nhỏ chưa can thiệp và các tổn thương đã sửa chữa trên 6 tháng không còn shunt tồn lưu thì không cần kháng sinh dự phòng.
+
+Câu 39: Bé trai 4 tháng tuổi, tứ chứng Fallot, cân nặng 5,6 kg, giải phẫu thuận lợi trên siêu âm (nhánh ĐMP đủ lớn, Z-score −0,5, VSD đơn độc, động mạch vành bình thường). Trong 3 tuần qua có 4 cơn tím phải nhập viện cấp cứu dù đã uống propranolol đủ liều, SpO2 nền 82%.
+Hướng điều trị thích hợp nhất tiếp theo là gì?
+A. Sửa chữa toàn bộ chọn lọc khi đủ 6 tháng tuổi, tiếp tục propranolol trong lúc chờ
+B. Làm cầu nối Blalock-Taussig cải tiến trước, sửa chữa toàn bộ khi trẻ khoảng 1 tuổi
+C. Sửa chữa toàn bộ lúc 2–3 tuổi khi trẻ nặng cân hơn, vẫn dùng propranolol
+D. Sửa chữa toàn bộ sớm trong vài ngày tới, vẫn duy trì propranolol đến lúc mổ
+Đáp án: D
+Giải thích: Cơn tím tái diễn dù đã dùng propranolol là chỉ định phẫu thuật không trì hoãn; khi giải phẫu thuận lợi (nhánh ĐMP đủ lớn) thì sửa chữa toàn bộ (vá VSD và mở rộng đường ra thất phải) sớm, không cần chờ đúng mốc 6 tháng. Chờ mổ chọn lọc dành cho trẻ ổn định ít cơn; cầu nối Blalock-Taussig dành cho nhánh ĐMP quá nhỏ hoặc giải phẫu chưa thuận lợi.
+
+Câu 40: Bé gái 5 ngày tuổi, tím trung ương từ ngày đầu, SpO2 78%, không suy tim; nghe tiếng thổi tâm thu 2/6 ở bờ trái ức, T2 đơn độc. X-quang ngực: bóng tim không to, hai phế trường sáng. Điện tâm đồ: trục QRS −60° (trục trái), dày thất trái, không dày thất phải.
+Chẩn đoán phù hợp nhất là gì?
+A. Hẹp van ĐMP nguy kịch, vách thất nguyên vẹn
+B. Teo van ba lá kèm VSD và hẹp ĐMP
+C. Tứ chứng Fallot kèm hẹp phễu nặng
+D. Bệnh Ebstein kèm thông liên nhĩ, tim to
+Đáp án: B
+Giải thích: Phần lớn tim bẩm sinh có tím cho trục phải và dày thất phải; trục trái kèm dày thất trái ở trẻ tím có phổi sáng là dấu hiệu gợi ý teo van ba lá (thất phải thiểu sản, thất trái gánh toàn bộ). Fallot và hẹp van ĐMP nặng dày thất phải; Ebstein có tim phải to khổng lồ.

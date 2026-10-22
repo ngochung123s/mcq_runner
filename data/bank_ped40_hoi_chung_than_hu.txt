@@ -1,0 +1,359 @@
+Câu 1: Bé gái 12 tuổi, phù mặt và hai chân 4 tuần, nước tiểu không đỏ, không sốt, không đau khớp, không ban. Khám: huyết áp 135/88 mmHg (trên bách phân vị 95), phù ấn lõm, báng bụng vừa, tim phổi bình thường. Xét nghiệm: Up/Ucr 8,2 mg/mg; albumin 15 g/L; hồng cầu niệu 15/vi trường; creatinin 82 µmol/L (cao hơn bình thường theo tuổi); C3, C4 bình thường; ASO bình thường; ANA và HBsAg âm tính.
+Mô bệnh học nào sau đây nhiều khả năng nhất khi sinh thiết thận?
+A. Xơ chai cầu thận khu trú từng phần
+B. Viêm thận lupus (lupus ban đỏ hệ thống)
+C. Bệnh cầu thận tổn thương tối thiểu
+D. Viêm cầu thận tăng sinh nội mao mạch
+Đáp án: A
+Giải thích: Hội chứng thận hư ở trẻ 12 tuổi kèm tăng huyết áp, đái máu vi thể và creatinin tăng, trong khi C3, C4, ASO, ANA, HBsAg đều bình thường/âm tính, loại trừ các nguyên nhân thứ phát và hậu nhiễm. Đây là bệnh cảnh của FSGS (10–15% HCTH nguyên phát, hay gặp hơn ở trẻ lớn, thường kháng steroid). MCD vẫn có thể gặp ở tuổi này nhưng ít khả năng hơn khi có các yếu tố không điển hình; những yếu tố đó cũng là lý do cần sinh thiết thay vì thử steroid mù.
+
+Câu 2: Bé gái 7 tuổi, nhập viện vì phù mặt và nước tiểu màu nâu đỏ 2 ngày. Ba tuần trước trẻ bị chốc lở ở cẳng chân. Khám: huyết áp 140/95 mmHg, phù mi mắt và mu chân nhẹ, không báng bụng. Xét nghiệm: nước tiểu hồng cầu 3+, protein 2+, có trụ hồng cầu; Up/Ucr 1,1 mg/mg; albumin 33 g/L; creatinin 88 µmol/L; C3 0,30 g/L, C4 bình thường; ASO 800 IU/mL.
+Chẩn đoán nào sau đây phù hợp nhất?
+A. Hội chứng thận hư do bệnh tổn thương tối thiểu
+B. Bệnh thận IgA khởi phát sau nhiễm khuẩn hô hấp
+C. Viêm cầu thận cấp hậu nhiễm liên cầu khuẩn
+D. Viêm thận lupus (lupus ban đỏ hệ thống)
+Đáp án: C
+Giải thích: Đái máu đại thể, trụ hồng cầu, tăng huyết áp, creatinin tăng, C3 giảm 3 tuần sau nhiễm trùng da cùng ASO tăng là hội chứng viêm thận cấp hậu nhiễm liên cầu. Protein niệu chưa đạt ngưỡng thận hư (Up/Ucr 1,1) và albumin chỉ giảm nhẹ nên không phải HCTH.
+
+Câu 3: Bé gái 5 tuần tuổi, sinh non 36 tuần, nhau thai to (chiếm khoảng 30% cân nặng sơ sinh), bố mẹ là anh em họ. Phù toàn thân từ ngày thứ 10 sau sinh. Khám: cân nặng 3,6 kg, phù nhiều, báng bụng, huyết áp bình thường. Xét nghiệm: Up/Ucr 18 mg/mg; albumin 9 g/L; creatinin bình thường; C3 bình thường; huyết thanh chẩn đoán nhiễm trùng bẩm sinh (TORCH, giang mai) âm tính. Đã truyền albumin nhiều lần ở tuyến trước nhưng phù tái xuất hiện nhanh.
+Gen nào có khả năng bị đột biến nhất ở trẻ này?
+A. Gen CD2AP, mã hóa protein adaptor
+B. Gen TRPC6, mã hóa kênh cation
+C. Gen NPHS2, mã hóa podocin
+D. Gen NPHS1, mã hóa nephrin
+Đáp án: D
+Giải thích: Phù xuất hiện trước 3 tháng tuổi, nhau to, protein niệu rất lớn kèm albumin cực thấp, huyết thanh nhiễm trùng bẩm sinh âm tính và bố mẹ cùng huyết thống là bộ dấu hiệu của HCTH bẩm sinh kiểu Phần Lan do đột biến NPHS1 (nephrin – protein xuyên màng của màng ngăn có chân). Trẻ mắc HCTH dưới 1 tuổi cần xét nghiệm gen sớm để chẩn đoán, không nên thử steroid kéo dài.
+
+Câu 4: Bé trai 8 tuổi, nhập viện vì phù toàn thân 6 ngày, nước tiểu sẫm màu. Không có nhiễm khuẩn da hay họng gần đây. Ngày thứ 3 nằm viện, sau khi đã bù dịch (mạch 95 lần/phút, CRT 1,5 giây, chi ấm, nước tiểu 1,2 mL/kg/giờ): huyết áp 135/90 mmHg đo 3 lần, trên bách phân vị 99. Xét nghiệm: Up/Ucr 5,8 mg/mg; albumin 17 g/L; hồng cầu niệu 3+; creatinin 135 µmol/L (hôm nhập viện 140 µmol/L); C3 0,30 g/L, C4 bình thường.
+Xử trí nào sau đây phù hợp nhất ở thời điểm này?
+A. Sinh thiết thận qua da dưới hướng dẫn siêu âm trước khi dùng thuốc ức chế miễn dịch
+B. Truyền albumin 20% 1 g/kg rồi tiêm furosemid tĩnh mạch, tiếp tục theo dõi
+C. Hạn chế dịch và muối, theo dõi creatinin 48 giờ, hoãn điều trị đặc hiệu
+D. Bắt đầu prednisolone 60 mg/m²/ngày một lần buổi sáng, đánh giá đáp ứng sau 4 tuần
+Đáp án: A
+Giải thích: Tăng huyết áp kéo dài, creatinin không cải thiện dù thể tích đã ổn và giảm C3 là ba dấu hiệu không điển hình cho MCD, gợi ý bệnh cầu thận khác (tăng sinh màng, lupus…). Những trường hợp này cần mô bệnh học trước khi quyết định điều trị đặc hiệu, khác với trẻ HCTH điển hình được điều trị thử steroid không cần sinh thiết.
+
+Câu 5: Bé gái 13 tuổi, sốt nhẹ kéo dài 3 tuần, đau và sưng khớp cổ tay, khớp gối hai bên, loét miệng, ban đỏ hai gò má. Hai tuần nay phù mặt và chân. Khám: huyết áp 125/85 mmHg, phù ấn lõm, báng bụng ít. Xét nghiệm: Up/Ucr 4,8 mg/mg; albumin 19 g/L; hồng cầu niệu 20/vi trường; Hb 9,8 g/dL; bạch cầu 3,2 G/L.
+Nhóm xét nghiệm nào có giá trị nhất để xác định nguyên nhân?
+A. ANA, anti-dsDNA, C3 và C4
+B. ASO, anti-DNase B, C3 và C4
+C. IgA huyết thanh, C3, C4 và sinh thiết da
+D. HBsAg, anti-HCV, anti-HIV và ALT
+Đáp án: A
+Giải thích: Ban gò má, loét miệng, viêm khớp, giảm hai dòng tế bào máu và đái máu vi thể ở bé gái 13 tuổi có HCTH là bệnh cảnh lupus thứ phát. ANA, anti-dsDNA và C3/C4 là bộ xét nghiệm cần thiết; những dấu hiệu ngoài thận như thế cũng là chỉ định sinh thiết thận để phân loại viêm thận lupus.
+
+Câu 6: Bé trai 20 tháng ở vùng nông thôn, cai sữa mẹ từ 4 tháng, chế độ ăn chủ yếu cháo loãng và nước đường. Phù mặt và hai chân 2 tuần, tóc thưa đổi màu, da bong vảy từng mảng, kém linh hoạt. Khám: cân nặng 8,5 kg (dưới -2SD), gan to mềm 3 cm, lách không sờ thấy, tim đều không âm thổi, SpO2 99%. Xét nghiệm: que thử nước tiểu protein âm tính, Up/Ucr 0,12 mg/mg; albumin 18 g/L; cholesterol 2,8 mmol/L; AST, ALT và creatinin bình thường.
+Chẩn đoán nào sau đây phù hợp nhất?
+A. Suy dinh dưỡng thể phù (kwashiorkor)
+B. Hội chứng thận hư tổn thương tối thiểu
+C. Xơ gan mất bù với tăng áp tĩnh mạch cửa
+D. Suy tim sung huyết do bệnh tim bẩm sinh
+Đáp án: A
+Giải thích: Phù và albumin 18 g/L nhưng protein niệu âm tính (Up/Ucr 0,12) loại trừ HCTH, vì chẩn đoán HCTH đòi hỏi protein niệu ngưỡng thận hư; cholesterol 2,8 mmol/L (không tăng) cũng không phù hợp. Bối cảnh thiếu đạm kéo dài, tóc và da thay đổi cùng gan to mềm do thâm nhiễm mỡ là suy dinh dưỡng thể phù. Đây là lý do lưu đồ yêu cầu tìm nguyên nhân khác khi protein niệu âm tính hoặc 1+.
+
+Câu 7: Bé trai 8 tuổi, hội chứng thận hư lần đầu, phù toàn thân. Sau 3 ngày bù dịch, huyết động đã ổn định. Chiều cao 120 cm; creatinin huyết thanh 1,2 mg/dL (106 µmol/L).
+eGFR theo công thức Schwartz tại giường (0,413 × chiều cao [cm] ÷ creatinin [mg/dL]) của trẻ là bao nhiêu mL/phút/1,73 m²?
+A. 41
+B. 100
+C. 242
+D. 413
+Đáp án: A
+Giải thích: eGFR = 0,413 × 120 ÷ 1,2 ≈ 41 mL/phút/1,73 m², thấp hơn rõ rệt giá trị bình thường (khoảng 90–120) và không hồi phục sau khi đã bù thể tích. Đây là cơ sở để xem xét suy giảm chức năng thận thực tổn, một trong các yếu tố không điển hình có thể dẫn đến chỉ định sinh thiết thận.
+
+Câu 8: Bé trai 4 tuổi, ăn kém và tiêu chảy kéo dài 3 tuần, nay phù mi mắt và hai chân. Không sốt, không đái máu, huyết áp bình thường. Xét nghiệm: que thử nước tiểu protein 2+; Up/Ucr sáng sớm 1,4 mg/mg; albumin huyết thanh 17 g/L; creatinin bình thường.
+Kết luận nào sau đây phù hợp nhất về mặt tiêu chuẩn chẩn đoán hội chứng thận hư?
+A. Hội chứng thận hư, đủ cả protein niệu ngưỡng thận hư và giảm albumin máu
+B. Protein niệu và albumin máu đều chưa đạt tiêu chuẩn chẩn đoán
+C. Protein niệu ngưỡng thận hư đơn độc, albumin máu chưa giảm đủ tiêu chuẩn
+D. Giảm albumin máu đơn độc, protein niệu chưa tới ngưỡng thận hư
+Đáp án: D
+Giải thích: Chẩn đoán hội chứng thận hư cần đồng thời protein niệu ngưỡng thận hư (Up/Ucr ≥ 2 mg/mg hoặc dipstick ≥ 3+) và giảm albumin máu (< 30 g/L theo IPNA 2023). Trẻ này có albumin 17 g/L nhưng Up/Ucr 1,4 mg/mg và dipstick 2+ chưa tới ngưỡng, nên chưa đủ chẩn đoán; cần tìm nguyên nhân giảm albumin khác (suy dinh dưỡng, mất protein qua đường ruột) thay vì khởi động steroid.
+
+Câu 9: Bé trai 7 tuổi, nhập viện vì phù mi mắt và nước tiểu màu nâu đỏ 3 ngày; 2 tuần trước bị viêm họng. Khám: tỉnh, phù mi mắt và mu chân, huyết áp 145/95 mmHg, mạch 100 lần/phút, CRT 1 giây, chi ấm, tĩnh mạch cổ nổi nhẹ, nước tiểu 0,5 mL/kg/giờ. Xét nghiệm: Up/Ucr 1,0 mg/mg; albumin 34 g/L; creatinin 105 µmol/L; C3 0,25 g/L; renin huyết tương thấp.
+Cơ chế nào sau đây giải thích chủ yếu tình trạng phù ở trẻ này?
+A. Tăng áp lực thủy tĩnh tĩnh mạch do suy tim ứ huyết làm dịch thoát ra khoang kẽ, kèm gan to
+B. Giảm mức lọc cầu thận, tăng giữ natri ở ống thận làm tăng thể tích máu, ức chế renin
+C. Giảm áp lực keo do mất albumin nặng, thể tích hiệu dụng giảm và hệ RAAS hoạt hóa bù trừ
+D. Giảm tổng hợp albumin ở gan do thiếu đạm kéo dài làm giảm áp lực keo huyết tương
+Đáp án: B
+Giải thích: Huyết áp cao, tĩnh mạch cổ nổi, chi ấm, albumin gần bình thường và renin thấp cho thấy thể tích tuần hoàn tăng (overfill), không phải giảm thể tích. Trong viêm cầu thận cấp, mức lọc giảm và tái hấp thu natri tăng ở ống thận gây giữ muối nước nguyên phát; renin bị ức chế. Cơ chế giảm áp lực keo (underfill) thuộc về hội chứng thận hư tổn thương tối thiểu có albumin rất thấp.
+
+Câu 10: Bé gái 12 tuổi, phù 4 tuần, Up/Ucr 8 mg/mg, albumin 15 g/L, huyết áp 130/85 mmHg. Điện di protein niệu: albumin chỉ chiếm 52%, phần còn lại là các globulin và protein trọng lượng phân tử lớn.
+Cơ chế nào sau đây giải thích tốt nhất kiểu protein niệu này?
+A. Giảm tái hấp thu protein phân tử nhỏ ở ống lượn gần do tổn thương tế bào ống thận
+B. Mất điện tích âm của màng lọc và podocyte nên albumin tích điện âm không bị đẩy lùi
+C. Tăng áp lực mao mạch cầu thận làm tăng lọc protein qua màng lọc còn nguyên vẹn
+D. Đứt gãy khe lọc làm mất rào cản kích thước nên IgG, transferrin và α2-macroglobulin lọt qua
+Đáp án: D
+Giải thích: Khi nhiều protein phân tử lớn (IgG, transferrin…) xuất hiện trong nước tiểu, rào cản kích thước của màng lọc đã bị phá vỡ: khe lọc giữa các chân podocyte bị phá vỡ nên mất rào cản kích thước, gặp ở FSGS hoặc bệnh thận màng. Chỉ mất điện tích âm (như MCD) mới tạo protein niệu chọn lọc cao với albumin chiếm gần hết.
+
+Câu 11: Bé trai 13 tuổi, hội chứng thận hư tái phát, albumin 14 g/L, nằm viện 9 ngày ít vận động. Đột ngột đau hông lưng trái, đái máu đại thể; siêu âm thận trái to, Doppler không thấy dòng chảy trong tĩnh mạch thận trái. Xét nghiệm: hematocrit 49%, tiểu cầu 640 G/L, fibrinogen 8,1 g/L.
+Cơ chế bệnh sinh nào sau đây giải thích nền tảng của biến chứng này?
+A. Giảm thể tích hiệu dụng hoạt hóa hệ renin–angiotensin–aldosterone, giữ natri và nước thứ phát
+B. Gan tăng tổng hợp lipoprotein để bù áp lực keo thấp, làm tăng cholesterol và triglyceride toàn phần
+C. Mất IgG và bổ thể (yếu tố B, D) qua nước tiểu làm giảm opsonin hóa vi khuẩn có vỏ, nhất là phế cầu
+D. Mất antithrombin III qua nước tiểu, gan tăng tổng hợp các yếu tố đông máu, kèm máu cô đặc do giảm thể tích nội mạch
+Đáp án: D
+Giải thích: Tắc tĩnh mạch thận ở trẻ trên 12 tuổi có albumin thấp, hematocrit cao và fibrinogen > 6 g/L phản ánh tình trạng tăng đông của HCTH: mất antithrombin III, gan tăng sản xuất yếu tố đông máu và fibrinogen, cô đặc máu, tăng kết tập tiểu cầu. Trẻ lớn, albumin < 20 g/L và bất động là nhóm nguy cơ cao.
+
+Câu 12: Bé gái 6 tuổi, hội chứng thận hư, huyết thanh lấy buổi sáng đục như sữa. Xét nghiệm: cholesterol 11,4 mmol/L; triglyceride 5,9 mmol/L; albumin 12 g/L. Mẹ thắc mắc vì bé ăn ít mỡ.
+Cơ chế nào sau đây giải thích đúng nhất tình trạng mỡ máu cao?
+A. Mất IgG và bổ thể qua nước tiểu làm giảm khả năng opsonin hóa vi khuẩn có vỏ
+B. Gan tăng sản xuất VLDL và LDL để bù giảm áp lực keo, đồng thời thải trừ chậm
+C. Giảm thể tích hiệu dụng hoạt hóa hệ renin–angiotensin–aldosterone thứ phát
+D. Mất antithrombin III qua nước tiểu kèm tăng tổng hợp fibrinogen ở gan
+Đáp án: B
+Giải thích: Giảm albumin và áp lực keo kích thích gan tăng tổng hợp lipoprotein (VLDL, LDL), đồng thời giảm thanh thải lipid, nên cholesterol và triglyceride tăng bất kể chế độ ăn. Mỡ máu cao là hệ quả của giảm albumin, không phải lỗi ăn uống, và tự trở về bình thường khi lui bệnh.
+
+Câu 13: Bé gái 11 tuổi, hội chứng thận hư kháng steroid, sinh thiết xơ chai cầu thận khu trú từng phần, phù toàn thân 3 tuần. Khám: huyết áp 150/100 mmHg (trên bách phân vị 99), tĩnh mạch cổ nổi, tiếng tim T3 ngựa phi, ran ẩm hai đáy phổi, gan to 3 cm; chi ấm, CRT 1 giây, mạch 100 lần/phút. Xét nghiệm: albumin 22 g/L; renin huyết tương thấp.
+Xử trí phù nào sau đây phù hợp nhất ở thời điểm này?
+A. Natri clorid 0,9% 20 mL/kg truyền nhanh trong 30–60 phút
+B. Albumin 20% 1 g/kg truyền trong 2–4 giờ rồi mới dùng furosemid
+C. Furosemid đường tiêm, theo dõi điện giải, cân nặng và lượng nước tiểu
+D. Chỉ hạn chế muối và nước, chưa dùng lợi tiểu, theo dõi sát
+Đáp án: C
+Giải thích: Huyết áp cao, tĩnh mạch cổ nổi, gallop T3, ran ẩm, gan to, chi ấm và renin thấp là tăng thể tích hiệu dụng (overfill): thể tích nội mạch dư, nên đáp ứng tốt với lợi tiểu quai. Trường hợp này khác hẳn trẻ underfill (mạch nhanh nhỏ, CRT kéo dài) vốn phải bù albumin trước khi dùng furosemid.
+
+Câu 14: Bé gái 4 tuổi, phù mi mắt và bụng 5 ngày, lần đầu. Không đái máu đại thể, huyết áp 90/58 mmHg (bách phân vị 50), mạch 100 lần/phút, CRT 1,5 giây. Xét nghiệm: Up/Ucr 5,3 mg/mg; albumin 16 g/L; creatinin 35 µmol/L; C3, C4 bình thường; ANA âm tính; hồng cầu niệu 12/vi trường ở lần đầu, còn 2/vi trường khi lặp lại sau 3 ngày. Chưa dùng thuốc.
+Xử trí nào sau đây phù hợp nhất?
+A. Truyền albumin rồi tiêm furosemid, vì phù nhiều kèm báng bụng
+B. Prednisolone 60 mg/m²/ngày, vì khởi phát điển hình tuổi 1–10
+C. Sinh thiết thận trước khi dùng thuốc, vì có đái máu vi thể
+D. Lặp lại nước tiểu sau 24–48 giờ, vì hồng cầu niệu dao động
+Đáp án: B
+Giải thích: Trẻ 4 tuổi, HCTH điển hình: huyết áp, creatinin, C3 bình thường, đái máu vi thể thoáng qua (gặp khoảng 20% MCD) không phải chỉ định sinh thiết. Sinh thiết không được làm thường quy khi khởi phát; điều trị thử prednisolone 60 mg/m²/ngày (tối đa 60 mg) và đánh giá đáp ứng sau 4 tuần.
+
+Câu 15: Bé gái 20 tháng, còn dùng tã, phù mi mắt 3 ngày. Mẫu nước tiểu sáng sớm lấy bằng túi hứng cho kết quả protein 540 mg/dL và creatinin 90 mg/dL.
+Tỷ số Up/Ucr của mẫu này là bao nhiêu (mg/mg)?
+A. 0,17
+B. 0,6
+C. 6,0
+D. 60
+Đáp án: C
+Giải thích: Up/Ucr = 540 ÷ 90 = 6,0 mg/mg, cao hơn ngưỡng thận hư (≥ 2 mg/mg) và gấp hơn 10 lần giá trị bình thường ở trẻ dưới 2 tuổi (< 0,5). Protein và creatinin cùng đơn vị mg/dL nên không cần quy đổi.
+
+Câu 16: Bé trai 8 tuổi, 10 ngày nay xuất hiện ban xuất huyết nổi gờ ở cẳng chân và mông, đau bụng quặn từng cơn, đau sưng hai cổ chân. Tuần này phù mặt và chân, nước tiểu sẫm màu. Khám: huyết áp 120/80 mmHg, ban xuất huyết sờ thấy ở cẳng chân, phù nhẹ. Xét nghiệm: Up/Ucr 3,8 mg/mg; albumin 22 g/L; hồng cầu niệu 3+; C3 bình thường; tiểu cầu 310 G/L; creatinin 62 µmol/L.
+Chẩn đoán nào sau đây phù hợp nhất?
+A. Hội chứng thận hư do bệnh tổn thương tối thiểu
+B. Viêm cầu thận cấp hậu nhiễm liên cầu khuẩn
+C. Viêm thận lupus (lupus ban đỏ hệ thống)
+D. Viêm thận trong bệnh Schönlein–Henoch
+Đáp án: D
+Giải thích: Ban xuất huyết nổi gờ ở chi dưới, đau bụng, viêm khớp rồi tổn thương thận với protein niệu ngưỡng thận hư và đái máu ở trẻ 8 tuổi, tiểu cầu bình thường, C3 bình thường là viêm thận Schönlein–Henoch (IgA vasculitis). Các biểu hiện ngoài thận như ban xuất huyết là dấu hiệu của bệnh cầu thận thứ phát chứ không phải HCTH nguyên phát, và là một chỉ định cân nhắc sinh thiết thận.
+
+Câu 17: Bé trai 6 tuổi, hội chứng thận hư tái phát, nhập viện vì phù tăng 5 ngày, tăng cân 3 kg. Khám: tỉnh, phù toàn thân, phù bìu, báng bụng vừa, mạch 98 lần/phút, huyết áp 100/65 mmHg, CRT 1,5 giây, chi ấm, nước tiểu 1,2 mL/kg/giờ; không đau bụng, không khó thở, tĩnh mạch cổ không nổi, phổi trong. Xét nghiệm: albumin 17 g/L; hematocrit 38%.
+Đánh giá nào sau đây về thể tích tuần hoàn của trẻ là phù hợp nhất?
+A. Giảm thể tích tuần hoàn hiệu dụng, cần bù albumin trước khi nghĩ đến lợi tiểu
+B. Quá tải thể tích tuần hoàn, cần lợi tiểu và theo dõi biến chứng tim phổi
+C. Thể tích tuần hoàn bình thường, chưa có chỉ định bù albumin hay dùng lợi tiểu lúc này
+D. Sốc giảm thể tích đang mất bù, cần hồi sức bằng dịch tinh thể ngay
+Đáp án: C
+Giải thích: Mạch, huyết áp, CRT, nhiệt độ chi, nước tiểu và hematocrit đều bình thường, không đau bụng, không sung huyết phổi hay tĩnh mạch cổ nổi: thể tích tuần hoàn của trẻ chưa rối loạn dù phù nặng và albumin 17 g/L. Mức phù và albumin máu không phản ánh thể tích nội mạch; chỉ các dấu hiệu tưới máu kém (underfill) hoặc sung huyết, tăng huyết áp (overfill) mới cho biết thể tích tuần hoàn đã lệch. Khi thể tích bình thường, giảm muối và điều trị đợt tái phát là đủ, không bù albumin hay lợi tiểu.
+
+Câu 18: Bé trai 6 tuổi, hội chứng thận hư không lui bệnh sau 4 tuần prednisolone 60 mg/m²/ngày, được sinh thiết thận trước khi dùng thuốc ức chế calcineurin. Kính hiển vi quang học: 14 cầu thận, 4 cầu thận có xơ hóa một phần búi mao mạch, các cầu thận còn lại bình thường. Miễn dịch huỳnh quang: IgM và C3 dương tính khu trú ở vùng xơ hóa, IgG và IgA âm tính. Kính hiển vi điện tử: xóa chân lồi podocyte lan tỏa.
+Chẩn đoán mô bệnh học nào sau đây phù hợp nhất?
+A. Bệnh thận màng (viêm cầu thận màng)
+B. Viêm cầu thận tăng sinh màng
+C. Xơ chai cầu thận khu trú từng phần
+D. Bệnh cầu thận tổn thương tối thiểu
+Đáp án: C
+Giải thích: Xơ hóa từng phần ở một số cầu thận với IgM/C3 khu trú tại vùng xơ và xóa chân lồi là FSGS, nguyên nhân mô học thường gặp ở trẻ kháng steroid. Sinh thiết trước khi dùng thuốc ức chế miễn dịch bậc hai để xác định mô bệnh học và hướng điều trị.
+
+Câu 19: Bé gái 12 tuổi, phù mặt và chân 3 tuần. Không có tiền sử nhiễm khuẩn gần đây, không sốt, không đau khớp, không có ban. Huyết áp 130/85 mmHg. Xét nghiệm: Up/Ucr 4,2 mg/mg; albumin 19 g/L; hồng cầu niệu 2+; creatinin 85 µmol/L; C3 0,28 g/L, vẫn thấp khi xét nghiệm lại sau 12 tuần; ANA, anti-dsDNA, ASO bình thường; HBsAg âm tính.
+Mô bệnh học nào sau đây nhiều khả năng nhất sẽ được thấy khi sinh thiết thận?
+A. Viêm cầu thận tăng sinh màng
+B. Bệnh cầu thận tổn thương tối thiểu
+C. Xơ chai cầu thận khu trú từng phần
+D. Viêm cầu thận tăng sinh nội mao mạch lan tỏa
+Đáp án: A
+Giải thích: HCTH kèm tăng huyết áp, đái máu, creatinin tăng và C3 giảm kéo dài trên 12 tuần (loại trừ lupus, hậu nhiễm liên cầu và HBV) gợi ý viêm cầu thận tăng sinh màng hoặc bệnh lý C3. C3 giảm là một chỉ định sinh thiết thận, vì MCD thường có C3 bình thường.
+
+Câu 20: Bé trai 4 tuổi mới chẩn đoán hội chứng thận hư lần đầu (phù, Up/Ucr 5,0 mg/mg, albumin 15 g/L), huyết động ổn định, không sốt, không ho. Ông nội sống cùng nhà đang điều trị lao phổi AFB dương tính được 2 tháng. Bác sĩ dự định khởi động prednisolone 60 mg/m²/ngày trong 4–6 tuần.
+Việc nào sau đây cần làm trước khi bắt đầu thuốc?
+A. Siêu âm Doppler tĩnh mạch thận hai bên
+B. Chọc dò dịch báng, cấy dịch và cấy máu
+C. ANA, anti-dsDNA kèm bổ thể C3, C4
+D. Mantoux hoặc IGRA, X-quang ngực
+Đáp án: D
+Giải thích: Corticoid liều cao kéo dài ức chế miễn dịch có thể làm bùng phát lao tiềm ẩn, nên cần loại trừ lao (Mantoux hoặc IGRA, X-quang ngực) trước khi khởi động, nhất là khi có tiếp xúc nguồn lây. Các xét nghiệm khác đúng cho tình huống có triệu chứng tương ứng.
+
+Câu 21: Bé gái 5 tuổi, nặng 18 kg, nhập viện vì phù mặt và hai chân 5 ngày. Khám: huyết áp 95/60 mmHg, mạch 100 lần/phút, CRT 2 giây, phù mềm toàn thân, không báng căng. Que thử nước tiểu protein 4+, không có máu. Albumin máu 17 g/L, creatinin và C3 bình thường. Chẩn đoán hội chứng thận hư nguyên phát khởi phát lần đầu, đã loại trừ nhiễm trùng, tầm soát lao âm tính.
+Theo hướng dẫn IPNA 2023, phác đồ prednisolone nào phù hợp nhất cho đợt điều trị đầu tiên của bé?
+A. Prednisolone 2 mg/kg/ngày (tối đa 60 mg) một lần buổi sáng trong 6 tuần, sau đó giảm dần liều cách ngày để kết thúc ở tháng thứ 6
+B. Prednisolone 60 mg/m²/ngày (tối đa 80 mg) một lần buổi sáng trong 4 tuần, sau đó 40 mg/m² uống 3 ngày liên tiếp mỗi tuần trong 4 tuần
+C. Prednisolone 2 mg/kg/ngày (tối đa 60 mg) một lần buổi sáng trong 4–6 tuần, sau đó 1,5 mg/kg cách ngày (tối đa 40 mg) trong 4–6 tuần
+D. Prednisolone 2 mg/kg/ngày (tối đa 60 mg) một lần buổi sáng đến khi que thử âm tính 3 ngày liên tiếp, sau đó 1,5 mg/kg cách ngày (tối đa 40 mg) trong 4 tuần
+Đáp án: C
+Giải thích: Đợt khởi phát của hội chứng thận hư nhạy cảm steroid được điều trị bằng prednisolone hằng ngày 4–6 tuần, nối tiếp 4–6 tuần cách ngày, tổng 8–12 tuần. Trẻ này là đợt đầu, không biến chứng nên áp dụng đúng phác đồ khởi phát; phác đồ rút gọn (đợt tái phát) và phác đồ kéo dài 6 tháng đều không phù hợp.
+
+Câu 22: Bé gái 5 tuổi, nặng 18 kg, diện tích da 0,72 m², khởi phát hội chứng thận hư lần đầu. Trẻ đã uống prednisolone hằng ngày 4 tuần, lui bệnh từ ngày thứ 8, hiện không phù, huyết áp bình thường, không nhiễm trùng. Hôm nay chuyển sang giai đoạn prednisolone cách ngày theo IPNA 2023.
+Khi tính theo cân nặng, liều mỗi lần uống thích hợp nhất cho bé là bao nhiêu?
+A. 18 mg mỗi lần, uống cách ngày vào buổi sáng
+B. 27 mg mỗi lần, uống cách ngày vào buổi sáng
+C. 36 mg mỗi lần, uống cách ngày vào buổi sáng
+D. 40 mg mỗi lần, uống cách ngày vào buổi sáng
+Đáp án: B
+Giải thích: Giai đoạn cách ngày dùng prednisolone 1,5 mg/kg (hoặc 40 mg/m²), tối đa 40 mg mỗi lần. Với bé 18 kg, liều là 27 mg, thấp hơn trần 40 mg. Không giữ nguyên liều tấn công 2 mg/kg khi chuyển sang cách ngày.
+
+Câu 23: Bé trai 7 tuổi, nặng 24 kg, khởi phát hội chứng thận hư lần đầu và đang uống prednisolone 48 mg một lần mỗi sáng (2 mg/kg/ngày). Que thử nước tiểu buổi sáng âm tính vào ngày thứ 9, 10 và 11 của điều trị. Hôm nay là ngày thứ 12: trẻ hết phù, ăn uống tốt, huyết áp 95/60 mmHg, không nhiễm trùng.
+Xử trí phù hợp nhất về prednisolone cho trẻ hôm nay là gì?
+A. Chuyển ngay sang 1,5 mg/kg cách ngày vì đã lui bệnh đủ 3 ngày liên tiếp
+B. Giảm xuống 0,5 mg/kg mỗi ngày trong 5–7 ngày rồi ngừng
+C. Ngừng prednisolone, theo dõi que thử nước tiểu tại nhà mỗi sáng
+D. Giữ liều hằng ngày cho đủ ít nhất 4 tuần rồi mới chuyển sang cách ngày
+Đáp án: D
+Giải thích: Lui bệnh hoàn toàn được xác định khi que thử âm tính hoặc vết trong 3 ngày liên tiếp, nhưng điều đó không làm thay đổi thời gian tấn công của đợt khởi phát. Trẻ này mới ngày thứ 12 nên tiếp tục liều hằng ngày đủ ít nhất 4 tuần.
+
+Câu 24: Bé trai 6 tuổi, hội chứng thận hư nhạy cảm steroid, điều trị đợt khởi phát: lui bệnh sau 10 ngày, uống prednisolone 2 mg/kg/ngày trong 6 tuần rồi 1,5 mg/kg cách ngày trong 6 tuần. Hôm nay là tuần thứ 12, que thử nước tiểu âm tính ba sáng liên tiếp, không phù, huyết áp bình thường. Người mẹ sợ con tái phát nên xin dùng prednisolone thêm vài tháng "cho an tâm".
+Hướng xử trí phù hợp nhất cho trẻ là gì?
+A. Thay prednisolone bằng levamisole 2,5 mg/kg cách ngày để dự phòng tái phát
+B. Giảm dần 0,25 mg/kg mỗi 2 tuần, kéo dài tổng thời gian điều trị đến 6 tháng
+C. Ngừng prednisolone và chỉ theo dõi định kỳ ngoại trú
+D. Tiếp tục 1,5 mg/kg cách ngày thêm 4 tuần nữa rồi ngừng
+Đáp án: C
+Giải thích: Cochrane 2020 cho thấy khi chỉ xét các thử nghiệm nguy cơ sai lệch thấp, kéo dài steroid đợt đầu quá 2–3 tháng không giảm nguy cơ tái phát nhưng tăng độc tính (béo phì, Cushing, chậm lớn, tăng huyết áp). Trẻ đã hoàn tất 12 tuần và đang lui bệnh nên ngừng thuốc theo kế hoạch.
+
+Câu 25: Bé gái 7 tuổi, hội chứng thận hư nhạy cảm steroid, đã ngừng prednisolone 4 tháng sau đợt khởi phát. Mẹ thử nước tiểu đầu tiên buổi sáng tại nhà: protein 3+ trong 3 ngày liên tiếp. Hôm nay trẻ phù mi mắt, nặng 22 kg, huyết áp 95/60 mmHg, không sốt, không ho, không nhiễm trùng; albumin máu 21 g/L. Đây là lần tái phát đầu tiên.
+Theo IPNA 2023, phác đồ prednisolone nào phù hợp nhất cho đợt tái phát này?
+A. Prednisolone 2 mg/kg/ngày trong 4–6 tuần, sau đó 1,5 mg/kg cách ngày trong 4–6 tuần như đợt khởi phát
+B. Prednisolone 1,5 mg/kg cách ngày giảm dần 0,25 mg/kg mỗi 4 tuần xuống liều ngưỡng, duy trì 6–12 tháng
+C. Prednisolone 0,5 mg/kg/ngày trong 5–7 ngày rồi ngừng, không cần chờ que thử âm tính
+D. Prednisolone 2 mg/kg/ngày đến khi que thử âm tính 3 ngày liên tiếp, sau đó 1,5 mg/kg cách ngày trong 4 tuần
+Đáp án: D
+Giải thích: Tái phát được xác định khi que thử ≥ 3+ trong 3 ngày liên tiếp (hoặc Up/Ucr ≥ 2 mg/mg). Điều trị bằng prednisolone 2 mg/kg (60 mg/m²) hằng ngày đến khi lui bệnh 3 ngày, tiếp theo 1,5 mg/kg cách ngày 4 tuần. Trẻ này là tái phát thưa, đã ngừng thuốc nên áp dụng đúng phác đồ tái phát.
+
+Câu 26: Bé trai 8 tuổi, hội chứng thận hư lần đầu lui bệnh sau 9 ngày prednisolone, hoàn tất phác đồ 12 tuần rồi ngừng thuốc. Sau đó trẻ lần lượt có ba đợt phù kèm protein niệu 3+ vào tháng thứ 4, 7 và 10 tính từ lúc lui bệnh. Mỗi đợt đều lui bệnh sau 5–7 ngày prednisolone 2 mg/kg/ngày và hoàn tất 4 tuần cách ngày rồi ngừng; cả ba đợt đều xuất hiện sau khi đã ngừng thuốc hơn 4 tuần. Hiện trẻ đang lui bệnh, không dùng thuốc.
+Phân loại bệnh phù hợp nhất cho trẻ là gì?
+A. Hội chứng thận hư kháng steroid muộn (SRNS muộn)
+B. Hội chứng thận hư tái phát thường xuyên (FRNS)
+C. Hội chứng thận hư phụ thuộc steroid (SDNS)
+D. Hội chứng thận hư tái phát thưa (IRNS)
+Đáp án: B
+Giải thích: Ba đợt tái phát trong 12 tháng (tháng 4, 7, 10), mỗi đợt đều đáp ứng nhanh với steroid, thỏa tiêu chuẩn FRNS của IPNA 2023 (≥ 3 đợt trong bất kỳ 12 tháng nào). Điểm phân biệt với SDNS là thời điểm tái phát: SDNS tái phát khi đang dùng liều chuẩn hoặc trong vòng 14 ngày sau ngừng, còn ở trẻ này mọi đợt đều xuất hiện sau ngừng thuốc hơn 4 tuần.
+
+Câu 27: Bé trai 4 tuổi, nặng 16 kg, hội chứng thận hư khởi phát lần đầu, đang uống prednisolone 2 mg/kg/ngày một lần buổi sáng, mẹ cho uống đều và tuân thủ tốt. Hôm nay là ngày thứ 14: phù giảm một phần, que thử nước tiểu vẫn protein 3+, albumin máu 19 g/L, creatinin bình thường, huyết áp 90/55 mmHg, không sốt, đã loại trừ nhiễm trùng.
+Xử trí phù hợp nhất hiện nay là gì?
+A. Tiếp tục prednisolone hằng ngày, đánh giá lại đáp ứng khi đủ 4 tuần điều trị
+B. Tiếp tục prednisolone hằng ngày, đánh giá lại khi đủ 8 tuần điều trị rồi mới kết luận kháng steroid
+C. Chuyển sang prednisolone 1,5 mg/kg cách ngày vì phù đã giảm
+D. Kết luận kháng steroid, làm sinh thiết thận và xét nghiệm gen trước khi dùng thuốc ức chế miễn dịch
+Đáp án: A
+Giải thích: Mốc xác định kháng steroid theo IPNA 2020 là 4 tuần prednisolone hằng ngày 60 mg/m² hoặc 2 mg/kg mà protein niệu chưa lui hoàn toàn. Ở ngày thứ 14, protein niệu 3+ vẫn nằm trong thời gian đáp ứng chậm có thể xảy ra, nên tiếp tục thuốc và đánh giá lại.
+
+Câu 28: Bé gái 7 tuổi, hội chứng thận hư, sau 4 tuần prednisolone 60 mg/m²/ngày vẫn protein niệu 3+ liên tục, albumin máu 18 g/L, Up/Ucr 7 mg/mg, creatinin và C3 bình thường, tuân thủ điều trị tốt, không nhiễm trùng. Sinh thiết thận cho kết quả xơ hóa cầu thận khu trú từng phần (FSGS); xét nghiệm gen podocyte (NPHS2, WT1 và các gen khác) không phát hiện biến thể gây bệnh.
+Thuốc ức chế miễn dịch nào là lựa chọn đầu tay phù hợp nhất cho trẻ?
+A. Mycophenolate mofetil 30 mg/kg/ngày chia hai lần, theo dõi công thức máu và men gan
+B. Levamisole 2,5 mg/kg uống cách ngày trong 12 tháng, theo dõi bạch cầu hạt và ANCA
+C. Cyclophosphamide 2 mg/kg/ngày uống buổi sáng trong 12 tuần, theo dõi công thức máu mỗi 2 tuần
+D. Tacrolimus 0,1 mg/kg/ngày chia hai lần, theo dõi nồng độ đáy
+Đáp án: D
+Giải thích: Trẻ đã đủ tiêu chuẩn SRNS (4 tuần liều chuẩn không lui bệnh), đã sinh thiết và xét nghiệm gen âm tính. IPNA 2020 khuyến cáo thuốc ức chế calcineurin là điều trị ức chế miễn dịch đầu tay. Ba thuốc còn lại là thuốc tiết kiệm steroid cho thể nhạy cảm (FRNS/SDNS).
+
+Câu 29: Bé trai 11 tuổi, hội chứng thận hư phụ thuộc steroid từ lúc 2 tuổi, tái phát mỗi khi giảm prednisolone cách ngày dưới 0,5 mg/kg; hiện mặt tròn kiểu Cushing, rạn da bụng, chiều cao tụt từ bách phân vị 50 xuống 10. Trẻ đã dậy thì (Tanner 3, thể tích tinh hoàn 8 mL). Đã dùng levamisole 12 tháng (vẫn phụ thuộc), sau đó cyclosporin A 3 năm giúp giảm được steroid nhưng creatinin tăng 35% và sinh thiết thấy xơ hóa ống kẽ dạng vệt do độc thận. Trẻ còn bị tiêu chảy mạn tính do viêm ruột, đang được tiêu hóa theo dõi và không cải thiện khi đổi chế độ ăn. Hiện trẻ đang lui bệnh, chưa có nhiễm trùng, IgG huyết thanh bình thường.
+Bước điều trị tiếp theo phù hợp nhất là gì?
+A. Mycophenolate mofetil 1200 mg/m²/ngày chia hai lần, theo dõi công thức máu và men gan
+B. Cyclophosphamide 2 mg/kg/ngày uống buổi sáng trong 12 tuần, tổng liều tích lũy không quá 168 mg/kg
+C. Tacrolimus 0,1 mg/kg/ngày chia hai lần, nồng độ đáy mục tiêu 5–8 ng/mL
+D. Rituximab 375 mg/m² truyền tĩnh mạch 1–4 liều cách nhau 1 tuần, theo dõi tế bào B (CD19)
+Đáp án: D
+Giải thích: SDNS khởi phát sớm với độc tính steroid nặng và độc thận do thuốc ức chế calcineurin cần thuốc không độc thận và không ảnh hưởng tuyến sinh dục: rituximab 375 mg/m² (1–4 liều, theo dõi CD19). Ba lựa chọn còn lại bị loại bởi dữ kiện lâm sàng: tacrolimus cùng nhóm CNI đã gây xơ hóa ống kẽ, cyclophosphamide ít hiệu quả bền vững khi bệnh khởi phát sớm (dưới khoảng 3–4 tuổi) và có nguy cơ độc tính tuyến sinh dục ở bé trai đã dậy thì, MMF gây tiêu chảy nên không phù hợp khi đã có tiêu chảy mạn.
+
+Câu 30: Bé gái 10 tuổi, hội chứng thận hư phụ thuộc steroid, bắt đầu một thuốc ức chế miễn dịch tiết kiệm steroid cách đây 6 tháng. Hiện lui bệnh và giảm được prednisolone. Lần tái khám này: nướu phì đại, lông mọc nhiều ở tay và lưng, huyết áp 128/84 mmHg (trên bách phân vị 95), creatinin huyết thanh tăng từ 45 lên 62 µmol/L; công thức máu và men gan bình thường, không tiêu chảy.
+Thuốc nào nhiều khả năng nhất đang được dùng?
+A. Cyclophosphamide 2 mg/kg/ngày uống trong 12 tuần
+B. Levamisole 2,5 mg/kg uống cách ngày
+C. Cyclosporin A 4–5 mg/kg/ngày chia hai lần
+D. Mycophenolate mofetil 1200 mg/m²/ngày chia hai lần
+Đáp án: C
+Giải thích: Nướu phì đại, rậm lông, tăng huyết áp và creatinin tăng chỉ đi cùng cyclosporin A trong nhóm thuốc này (tacrolimus ít gây phì đại nướu và rậm lông). Công thức máu bình thường và không tiêu chảy loại trừ levamisole, cyclophosphamide và MMF.
+
+Câu 31: Bé trai 6 tuổi, hội chứng thận hư tái phát thường xuyên, đang dùng một thuốc tiết kiệm steroid được 8 tháng và hiện lui bệnh. Lần khám này: sốt nhẹ 38 °C, đau họng, ban tím dạng viêm mạch ở vành tai và hai má; bạch cầu 3,2 G/L, bạch cầu đa nhân trung tính 0,7 G/L; creatinin và huyết áp bình thường, nướu bình thường, không tiêu chảy.
+Thuốc nào nhiều khả năng nhất là nguyên nhân?
+A. Mycophenolate mofetil 1200 mg/m²/ngày chia hai lần
+B. Levamisole 2,5 mg/kg uống cách ngày
+C. Cyclosporin A 4–5 mg/kg/ngày chia hai lần
+D. Tacrolimus 0,1 mg/kg/ngày chia hai lần
+Đáp án: B
+Giải thích: Giảm bạch cầu hạt phối hợp với ban tím dạng viêm mạch ở vành tai và má gợi ý levamisole. Theo dõi công thức máu định kỳ và ngừng thuốc khi giảm bạch cầu trung tính. Nướu, huyết áp, creatinin bình thường và không tiêu chảy loại trừ các thuốc còn lại.
+
+Câu 32: Bé trai 4 tuổi, nặng 16 kg, hội chứng thận hư khởi phát, phù toàn thân 4 ngày, tiểu ít (khoảng 150 mL/24 giờ), than đau bụng quanh rốn, khát nước, mệt lả. Khám: lơ mơ nhẹ, mạch nhanh nhỏ 145 lần/phút, huyết áp 85/55 mmHg, CRT 4 giây, đầu chi lạnh, da nổi vân tím nhẹ, báng bụng, phổi không ran. Hematocrit 46%, albumin 14 g/L, creatinin 78 µmol/L (cao hơn mức bình thường theo tuổi), Na 132 mmol/L. Tuyến trước đã chuẩn bị tiêm furosemid 20 mg tĩnh mạch.
+Xử trí phù hợp nhất lúc này là gì?
+A. Furosemid uống 2 mg/kg/ngày chia hai lần phối hợp spironolacton, tăng liều nếu cân nặng không giảm sau 48 giờ
+B. Albumin 20% 0,5–1 g/kg truyền tĩnh mạch, chỉ cân nhắc furosemid khi thể tích đã hồi phục
+C. Hạn chế dịch còn 400 mL/m²/ngày và ăn nhạt, thêm lợi tiểu nếu cân nặng không giảm sau 24 giờ
+D. Furosemid 1–2 mg/kg tĩnh mạch ngay, nhắc lại sau 6 giờ nếu nước tiểu dưới 1 mL/kg/giờ
+Đáp án: B
+Giải thích: Trẻ có dấu giảm thể tích tuần hoàn hiệu dụng: mạch nhanh nhỏ, CRT kéo dài, chi lạnh, hematocrit tăng, albumin rất thấp, thiểu niệu và đau bụng. Thiểu niệu ở đây là phản ứng giữ dịch của thận, nên lợi tiểu quai đơn độc làm nặng thêm tình trạng cạn thể tích. Theo IPNA 2023, bù albumin 20% trước; chỉ cân nhắc furosemid khi thể tích đã hồi phục mà nước tiểu vẫn ít.
+
+Câu 33: Bé gái 6 tuổi, hội chứng thận hư nhạy cảm steroid đang giảm liều prednisolone cách ngày, nhập viện vì sốt 39,2 °C, rét run và đau bụng khắp ổ bụng tăng dần 1 ngày, nôn 2 lần, không tiêu chảy. Khám: mạch 125 lần/phút, huyết áp 100/65 mmHg, CRT 2 giây; bụng chướng vừa, gõ đục vùng thấp, ấn đau khắp bụng, đề kháng nhẹ quanh rốn, nhu động ruột giảm. Bạch cầu 21.500/µL (đa nhân trung tính 86%), CRP 96 mg/L. Siêu âm: dịch ổ bụng lượng vừa có vách fibrin, không thấy ruột thừa viêm, không có khí tự do dưới hoành.
+Xử trí phù hợp nhất tiếp theo là gì?
+A. Cấy máu, hội chẩn phẫu thuật mở bụng thăm dò khẩn cấp, dùng kháng sinh sau mổ
+B. Cấy máu, chọc dò dịch màng bụng làm tế bào và nuôi cấy, dùng ngay ceftriaxone tĩnh mạch
+C. Cấy máu, chụp CT bụng có cản quang, chỉ dùng kháng sinh nếu thấy ổ nhiễm trùng khu trú
+D. Cấy máu, giảm đau và nhịn ăn theo dõi 24 giờ, chọc dịch báng và kháng sinh nếu còn sốt
+Đáp án: B
+Giải thích: Mất IgG và bổ thể qua nước tiểu cộng với steroid khiến trẻ thận hư dễ viêm phúc mạc tiên phát do phế cầu. Siêu âm không thấy ruột thừa viêm hay khí tự do nên không có chỉ định mổ. Cần cấy máu, chọc dò dịch báng và dùng ceftriaxone tĩnh mạch ngay, không dừng corticoid đột ngột.
+
+Câu 34: Bé gái 13 tuổi, hội chứng thận hư tái phát nặng, phù toàn thân 2 tuần, nằm nhiều ngày; albumin máu 15 g/L, fibrinogen 7,2 g/L, hematocrit 47%. Sáng nay đột ngột đau vùng hông lưng trái dữ dội, tiểu máu đại thể, sờ thấy thận trái to và đau; mạch 100 lần/phút, SpO2 98% khí phòng, không khó thở, không đau ngực, hai chân không sưng đau, không đau đầu hay co giật; creatinin tăng từ 55 lên 95 µmol/L.
+Thăm dò hình ảnh nào nên được chỉ định đầu tiên?
+A. Siêu âm Doppler tĩnh mạch thận hai bên
+B. Chụp CT mạch máu phổi có thuốc cản quang
+C. Chụp MRI sọ não kèm MRV tĩnh mạch não
+D. Siêu âm Doppler tĩnh mạch sâu hai chi dưới
+Đáp án: A
+Giải thích: Tăng đông ở thận hư (mất antithrombin III, tăng fibrinogen, cô đặc máu, tuổi trên 12, albumin dưới 20 g/L) gây huyết khối; vị trí được gợi ý bởi triệu chứng. Ở đây là bộ ba hông lưng – tiểu máu – thận to nên siêu âm Doppler tĩnh mạch thận là thăm dò đầu tiên.
+
+Câu 35: Bé trai 6 tuổi, hội chứng thận hư lần đầu, đã uống prednisolone 2 mg/kg/ngày trong 5 tuần và lui bệnh. Cách đây 2 ngày gia đình tự ngừng thuốc vì thấy con mặt tròn, tăng cân. Hôm nay trẻ mệt lả, nôn nhiều, đau bụng, chóng mặt khi đứng. Khám: không sốt, không phù, bụng mềm không báng, mạch 130 lần/phút, huyết áp 72/40 mmHg, CRT 3 giây; que thử nước tiểu protein âm tính. Albumin máu 31 g/L, đường huyết 2,4 mmol/L, Na 126 mmol/L, K 4,2 mmol/L.
+Chẩn đoán nào phù hợp nhất?
+A. Suy thượng thận cấp do ngừng corticoid đột ngột
+B. Hạ natri máu pha loãng do ứ nước ngoại bào
+C. Viêm phúc mạc tiên phát do phế cầu
+D. Giảm thể tích tuần hoàn hiệu dụng do tái phát thận hư
+Đáp án: A
+Giải thích: Sau điều trị prednisolone liều cao kéo dài, trục hạ đồi – tuyến yên – thượng thận bị ức chế; ngừng đột ngột gây suy thượng thận cấp với trụy mạch, hạ đường huyết và hạ natri. Kali thường bình thường vì trục renin–aldosterone còn nguyên (suy thượng thận thứ phát). Không phù, không báng, protein niệu âm tính và albumin 31 g/L loại trừ tái phát và underfill. Phải hoàn tất phác đồ theo kế hoạch của bác sĩ, không tự ngừng giữa chừng.
+
+Câu 36: Bé trai 5 tuổi, hội chứng thận hư tái phát, được cho uống furosemid 2 mg/kg/ngày trong 5 ngày ở tuyến dưới và ibuprofen 3 ngày vì sốt. Nhập viện vì tiểu rất ít (0,3 mL/kg/giờ), khát nước, mệt. Khám: mạch 135 lần/phút, huyết áp 88/52 mmHg, CRT 4 giây, chi lạnh, phù toàn thân, báng bụng vừa, không đau hông lưng. Albumin máu 17 g/L, creatinin tăng từ 38 lên 112 µmol/L; nước tiểu protein 4+, không hồng cầu; siêu âm hai thận kích thước bình thường, không giãn đài bể thận.
+Xử trí phù hợp nhất là gì?
+A. Chuẩn bị lọc màng bụng cấp cứu vì thiểu niệu kéo dài kèm creatinin tăng nhanh
+B. Ngừng ibuprofen, hạn chế dịch 400 mL/m²/ngày vì thiểu niệu, xét nghiệm lại sau 48 giờ
+C. Truyền albumin 20% bù thể tích, ngừng furosemid và ibuprofen cho đến khi creatinin hồi phục
+D. Siêu âm Doppler tĩnh mạch thận, bắt đầu heparin trọng lượng phân tử thấp
+Đáp án: C
+Giải thích: Thiểu niệu, mạch nhanh, CRT kéo dài và creatinin tăng gần gấp ba sau khi dùng furosemid và ibuprofen, không có tiểu máu hay ứ nước đường tiểu, là tổn thương thận cấp trước thận. Xử trí là ngừng thuốc gây hại và bù thể tích bằng albumin 20%; không dùng thêm lợi tiểu cho đến khi tưới máu cải thiện.
+
+Câu 37: Bé gái 8 tuổi, hội chứng thận hư nhạy cảm steroid, đã ngừng prednisolone 5 tháng và đang lui bệnh. Mẹ thử nước tiểu đầu tiên buổi sáng mỗi ngày và ghi sổ: thứ Hai âm tính, thứ Ba vết (trace), thứ Tư 3+, thứ Năm 3+, thứ Sáu 3+. Sáng thứ Sáu trẻ phù nhẹ mi mắt, không sốt, không ho, tiểu bình thường, nước tiểu không có máu.
+Xử trí phù hợp nhất lúc này là gì?
+A. Đủ tiêu chuẩn tái phát; hẹn khám sau 1 tuần để làm Up/Ucr rồi mới quyết định điều trị
+B. Chưa đủ tiêu chuẩn tái phát; tiếp tục thử nước tiểu thêm 3 ngày rồi mới báo bác sĩ
+C. Đủ tiêu chuẩn tái phát; liên hệ bác sĩ thận nhi để bắt đầu prednisolone liều tái phát
+D. Đủ tiêu chuẩn tái phát; đưa đi truyền albumin để giảm phù, chưa dùng prednisolone
+Đáp án: C
+Giải thích: Theo IPNA 2023, tái phát là que thử ≥ 3+ (hoặc Up/Ucr ≥ 2 mg/mg) trong 3 ngày liên tiếp ở trẻ đã lui bệnh, có hoặc không kèm phù. Chuỗi thứ Tư – thứ Sáu thỏa tiêu chuẩn này. Trẻ cần được bác sĩ thận nhi bắt đầu prednisolone liều tái phát; phù nhẹ, tưới máu tốt không có chỉ định truyền albumin.
+
+Câu 38: Bé trai 5 tuổi, hội chứng thận hư khởi phát lần đầu, đang ở ngày thứ 20 của prednisolone 2 mg/kg/ngày và đã lui bệnh. Sổ tiêm chủng còn thiếu vắc xin phế cầu cộng hợp (PCV13) và mũi nhắc sởi – quai bị – rubella (MMR). Hôm nay trẻ không sốt, khám bình thường, mẹ muốn tiêm bù ngay.
+Kế hoạch tiêm chủng phù hợp nhất hôm nay là gì?
+A. Tiêm cả MMR và PCV13 hôm nay vì trẻ đã lui bệnh
+B. Tiêm PCV13 hôm nay; hoãn MMR đến khi ngừng prednisolone liều cao
+C. Tiêm MMR hôm nay; hoãn PCV13 đến khi ngừng prednisolone
+D. Hoãn cả MMR và PCV13 đến khi ngừng prednisolone liều cao
+Đáp án: B
+Giải thích: Trẻ thận hư mất IgG và bổ thể nên nguy cơ nhiễm phế cầu cao; vắc xin phế cầu cộng hợp (bất hoạt) nên tiêm sớm kể cả khi đang dùng steroid. Vắc xin sống giảm độc lực (MMR, thủy đậu) nên tránh khi đang dùng prednisolone liều cao hoặc thuốc ức chế miễn dịch, và chỉ tiêm sau khi ngừng steroid liều cao.
+
+Câu 39: Bé gái 4 tuổi, nặng 15 kg, tái phát hội chứng thận hư, đang uống prednisolone 2 mg/kg/ngày; phù chân và mi mắt mức vừa, huyết áp 95/60 mmHg, tưới máu tốt. Natri máu 137 mmol/L, creatinin bình thường, albumin máu 20 g/L. Mẹ đang cho con ăn nhiều nước mắm, mì ăn liền, xúc xích và hỏi nên điều chỉnh chế độ ăn thế nào.
+Lời khuyên dinh dưỡng phù hợp nhất là gì?
+A. Ăn uống bình thường theo tuổi, không hạn chế muối, nước hay đạm vì trẻ đã lui bệnh
+B. Giảm muối, đạm đủ theo nhu cầu lứa tuổi, không cần hạn chế nước uống
+C. Ăn rất nhạt suốt đợt điều trị, hạn chế đạm xuống 0,8 g/kg/ngày để giảm gánh nặng cho thận
+D. Giảm muối và hạn chế nước uống theo lượng nước tiểu hôm trước, đạm đủ nhu cầu lứa tuổi
+Đáp án: B
+Giải thích: Theo IPNA 2023, khi phù vừa hoặc nặng trong đợt tái phát cần giảm muối (tránh nước mắm, mì ăn liền, xúc xích); đạm theo nhu cầu như trẻ bình thường, vì kiêng đạm gây suy dinh dưỡng và ăn thêm đạm không nâng được albumin. Chỉ hạn chế nước khi hạ natri máu (< 130 mmol/L) hoặc phù rất nặng nằm viện; natri 137 mmol/L và phù vừa nên không cần.
+
+Câu 40: Bé trai 9 tuổi, hội chứng thận hư phụ thuộc steroid, đã dùng prednisolone cách ngày liên tục gần 2 năm (1–1,5 mg/kg); mặt tròn, rạn da bụng, chiều cao tụt từ bách phân vị 50 xuống 15. Gần 3 tháng nay trẻ than chói mắt khi ra nắng và nhìn mờ khi đọc sách; không đau đầu, không nôn, không đau mắt đỏ. Huyết áp 105/65 mmHg, soi đáy mắt sơ bộ không thấy phù gai thị.
+Thăm khám nhãn khoa nào phù hợp nhất để tìm nguyên nhân do thuốc?
+A. Khám bằng đèn khe kèm đo nhãn áp hai mắt
+B. Chụp OCT hoàng điểm tìm bệnh võng mạc thanh dịch trung tâm
+C. Chụp OCT đĩa thị giác tìm phù gai thị
+D. Đo khúc xạ khách quan và cấp kính điều chỉnh
+Đáp án: A
+Giải thích: Dùng steroid nhiều năm có thể gây đục thủy tinh thể dưới bao sau và tăng nhãn áp, biểu hiện bằng chói mắt và nhìn mờ khi đọc; đây là tác dụng phụ cần theo dõi định kỳ ở trẻ thận hư dùng steroid kéo dài. Đèn khe và đo nhãn áp là bước phù hợp; không có dấu hiệu tăng áp lực nội sọ nên OCT đĩa thị giác không ưu tiên.
