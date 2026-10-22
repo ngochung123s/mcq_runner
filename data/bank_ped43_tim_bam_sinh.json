@@ -2,7 +2,7 @@
   "id": "bank_ped43_tim_bam_sinh",
   "title": "PED-43: Bệnh tim bẩm sinh thường gặp & tứ chứng Fallot (40 câu ca lâm sàng)",
   "description": "VSD, ASD, PDA, tứ chứng Fallot và cơn tím, tim bẩm sinh phức tạp, phụ thuộc ống, thời điểm can thiệp. Một đáp án đúng nhất; có giải thích cho từng phương án.",
-  "updated": "2026-10-22T12:06:44Z",
+  "updated": "2026-10-22T12:10:05Z",
   "questions": [
     {
       "id": "PED43-A01",
@@ -280,15 +280,15 @@
       "options": [
         "Dạng rSR' ở V1 do block nhánh phải không hoàn toàn, kèm trục phải",
         "Gần như bình thường, như thường gặp ở lỗ thông nhỏ chưa giãn buồng tim phải",
-        "Trục trái, khử cực thất ngược chiều kim đồng hồ, kèm block nhĩ thất độ I",
+        "Trục trái, dày thất trái với sóng Q sâu và R cao ở V5–V6",
         "Trục phải, dày thất phải với sóng R cao ở V1 và sóng T đảo ngược ở V1–V3"
       ],
       "correct": 0,
-      "explanation": "Thông liên nhĩ lỗ thứ phát gây quá tải thể tích thất phải: thể tích tống máu thất phải dư thừa, ổn định nên T2 tách đôi rộng cố định, trên ECG là <b>trục phải và block nhánh phải không hoàn toàn (rSR' ở V1)</b>. Dấu tăng gánh áp lực (R cao, T đảo ngược ở V1–V3) không có vì áp lực động mạch phổi bình thường; trục trái và khử cực ngược chiều kim đồng hồ chỉ có ở lỗ tiên phát.",
+      "explanation": "Thông liên nhĩ lỗ thứ phát gây quá tải thể tích thất phải: thể tích tống máu thất phải dư thừa, ổn định nên T2 tách đôi rộng cố định, trên ECG là <b>trục phải và block nhánh phải không hoàn toàn (rSR' ở V1)</b>. Dấu tăng gánh áp lực (R cao, T đảo ngược ở V1–V3) không có vì áp lực động mạch phổi bình thường; dày thất trái kiểu quá tải thể tích là của shunt sau van ba lá (còn ống động mạch, thông liên thất lớn).",
       "option_explanations": [
         "Đúng — quá tải thể tích thất phải do ASD lỗ thứ phát cho trục phải và block nhánh phải không hoàn toàn (rSR' ở V1).",
         "Sai — ECG có thể gần như bình thường ở ASD nhỏ chưa giãn buồng tim phải; trẻ này là lỗ thứ phát 12 mm với nhĩ phải và thất phải đã giãn nên ECG đã có dấu quá tải thể tích.",
-        "Sai — trục trái và khử cực ngược chiều kim đồng hồ đặc trưng cho ASD lỗ tiên phát/kênh nhĩ thất; trẻ này là lỗ thứ phát.",
+        "Sai — dày thất trái kiểu quá tải thể tích (Q sâu, R cao ở V5–V6) gặp ở còn ống động mạch hoặc thông liên thất lớn; thông liên nhĩ gây quá tải thất phải, không phải thất trái.",
         "Sai — dày thất phải kiểu tăng gánh áp lực (R cao ở V1, T đảo ngược) gặp ở hẹp van động mạch phổi hoặc Fallot; ASD lỗ thứ phát gây quá tải thể tích, không phải áp lực."
       ]
     },
@@ -728,24 +728,24 @@
       "id": "PED43-B11",
       "type": "vignette",
       "topic": "Tim bẩm sinh phức tạp",
-      "subtopic": "Hẹp van ĐMC nguy kịch sơ sinh: can thiệp cấp cứu",
+      "subtopic": "d-TGA không thông liên thất, lỗ bầu dục hạn chế: thủ thuật Rashkind",
       "bloom": "vận dụng",
       "difficulty": 2,
-      "source": "PED-43 §1.2; PEDYTB §3.15",
-      "text": "Bé gái 6 ngày tuổi, đủ tháng, bú kém, thở nhanh, da nhợt lạnh nổi vân, mạch ở cả tay và bẹn đều yếu, gan to 3 cm dưới bờ sườn, nước tiểu ít. Nghe tim: thổi tâm thu tống máu 2/6 ở khoang liên sườn 2 bờ phải ức và tiếng click tống máu; điện tâm đồ dày thất trái. Siêu âm tim: van động mạch chủ dày, mở hạn chế dạng vòm, thất trái giãn và giảm co bóp, ống động mạch còn mở với shunt hai chiều. PGE1 đã được truyền nhưng huyết động chỉ cải thiện tạm thời.\nCan thiệp cấp cứu thích hợp nhất là gì?",
+      "source": "PED-43 §8; PEDYTB (chuyển gốc động mạch)",
+      "text": "Bé trai 2 ngày tuổi, đủ tháng, tím toàn thân từ sau sinh, SpO2 tay phải 58% và chân 60% dù thở oxy. Trẻ thở nhanh nhưng không co kéo, phổi trong, T2 mạnh đơn, không có tiếng thổi; mạch tay và bẹn đều rõ. Siêu âm tim: động mạch chủ xuất phát từ thất phải, động mạch phổi từ thất trái, không có thông liên thất, van động mạch chủ và eo động mạch chủ bình thường, lỗ bầu dục chỉ hé nhỏ với dòng chảy hạn chế. Đã truyền PGE1 2 giờ, ống động mạch mở rộng nhưng SpO2 chỉ lên 62% và lactat tăng dần.\nCan thiệp cấp cứu thích hợp nhất tiếp theo là gì?",
       "options": [
         "Nong bóng kèm đặt stent đoạn eo động mạch chủ",
         "Đặt stent ống động mạch bằng ống thông",
-        "Nong van động mạch chủ bằng bóng qua da",
-        "Xé rộng vách liên nhĩ bằng ống thông bóng"
+        "Xé rộng vách liên nhĩ bằng ống thông bóng",
+        "Nong van động mạch chủ bằng bóng qua da"
       ],
       "correct": 2,
-      "explanation": "Hẹp van ĐMC nguy kịch ở sơ sinh gây giảm cung lượng tim nặng, sốc tim; tuần hoàn hệ thống phụ thuộc ống nên PGE1 chỉ là cầu nối. Điều trị cấp cứu là <b>nong van ĐMC bằng bóng qua da</b>. Các can thiệp còn lại ứng với TGA (xé vách liên nhĩ), teo ĐMP/Fallot nặng (stent ống) và hẹp eo ĐMC (nong/stent).",
+      "explanation": "Tím nặng ngay sau sinh, không thổi, phổi trong, siêu âm là d-TGA không thông liên thất: hai vòng tuần hoàn song song chỉ pha trộn được qua lỗ bầu dục và ống động mạch. PGE1 đã mở ống nhưng lỗ bầu dục hạn chế nên SpO2 vẫn thấp và toan lactic tăng: cần <b>xé rộng vách liên nhĩ bằng bóng (thủ thuật Rashkind)</b> cấp cứu, sau đó phẫu thuật chuyển gốc động mạch (Jatene) sớm. Ba can thiệp còn lại dành cho hẹp eo động mạch chủ, teo động mạch phổi/Fallot nặng phụ thuộc ống và hẹp van động mạch chủ nguy kịch.",
       "option_explanations": [
-        "Sai — nong/stent eo ĐMC dành cho hẹp eo động mạch chủ, bệnh có chênh huyết áp tay-chân; ở đây van ĐMC hẹp.",
-        "Sai — stent ống động mạch duy trì lưu lượng phổi trong teo ĐMP/Fallot nặng phụ thuộc ống; ở đây vấn đề là tuần hoàn hệ thống.",
-        "Đúng — nong van ĐMC bằng bóng giải phóng tắc nghẽn đường ra thất trái, là điều trị cấp cứu hẹp van ĐMC nguy kịch.",
-        "Sai — xé vách liên nhĩ (Rashkind) là cấp cứu của d-TGA có vách nguyên vẹn để tăng pha trộn máu; trẻ này có tắc nghẽn đường ra thất trái, không phải hai vòng tuần hoàn song song."
+        "Sai — nong/stent eo động mạch chủ dành cho hẹp eo có chênh huyết áp và mạch tay–chân; trẻ này mạch bẹn rõ, eo động mạch chủ bình thường.",
+        "Sai — ống động mạch đã mở rộng nhờ PGE1 mà SpO2 vẫn thấp, nên vấn đề là pha trộn ở tầng nhĩ; stent ống dùng cho teo động mạch phổi/Fallot nặng phụ thuộc ống.",
+        "Đúng — d-TGA không thông liên thất với lỗ bầu dục hạn chế cần xé rộng vách liên nhĩ (Rashkind) để tăng pha trộn máu, làm cầu nối tới phẫu thuật chuyển gốc.",
+        "Sai — nong van động mạch chủ bằng bóng là cấp cứu hẹp van động mạch chủ nguy kịch sơ sinh (sốc, thất trái giảm co bóp); van động mạch chủ ở trẻ này bình thường."
       ]
     },
     {

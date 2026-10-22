@@ -101,10 +101,10 @@ Câu 12: Bé gái 6 tuổi khám sức khỏe định kỳ, không triệu chứ
 Điện tâm đồ của trẻ này nhiều khả năng cho thấy điều gì?
 A. Dạng rSR' ở V1 do block nhánh phải không hoàn toàn, kèm trục phải
 B. Gần như bình thường, như thường gặp ở lỗ thông nhỏ chưa giãn buồng tim phải
-C. Trục trái, khử cực thất ngược chiều kim đồng hồ, kèm block nhĩ thất độ I
+C. Trục trái, dày thất trái với sóng Q sâu và R cao ở V5–V6
 D. Trục phải, dày thất phải với sóng R cao ở V1 và sóng T đảo ngược ở V1–V3
 Đáp án: A
-Giải thích: Thông liên nhĩ lỗ thứ phát gây quá tải thể tích thất phải: thể tích tống máu thất phải dư thừa, ổn định nên T2 tách đôi rộng cố định, trên ECG là trục phải và block nhánh phải không hoàn toàn (rSR' ở V1). Dấu tăng gánh áp lực (R cao, T đảo ngược ở V1–V3) không có vì áp lực động mạch phổi bình thường; trục trái và khử cực ngược chiều kim đồng hồ chỉ có ở lỗ tiên phát.
+Giải thích: Thông liên nhĩ lỗ thứ phát gây quá tải thể tích thất phải: thể tích tống máu thất phải dư thừa, ổn định nên T2 tách đôi rộng cố định, trên ECG là trục phải và block nhánh phải không hoàn toàn (rSR' ở V1). Dấu tăng gánh áp lực (R cao, T đảo ngược ở V1–V3) không có vì áp lực động mạch phổi bình thường; dày thất trái kiểu quá tải thể tích là của shunt sau van ba lá (còn ống động mạch, thông liên thất lớn).
 
 Câu 13: Bé gái 4 tuổi, hay viêm phổi tái diễn, thở nhanh khi gắng sức. Khám: T2 tách đôi cố định, thổi tâm thu 3/6 ở khoang liên sườn 2 bờ trái xương ức, thổi tâm thu ở mỏm do hở van hai lá. Điện tâm đồ: trục trái (−45°), khử cực thất ngược chiều kim đồng hồ, block nhĩ thất độ I. X-quang: tim to, tăng tuần hoàn phổi. Siêu âm tim xác nhận khuyết vách liên nhĩ.
 Vị trí khuyết vách liên nhĩ nhiều khả năng nhất là loại nào?
@@ -268,14 +268,14 @@ D. Teo tịt van ĐMP với vách liên thất nguyên vẹn, thất phải thi�
 Đáp án: B
 Giải thích: VSD lớn, ĐMC cưỡi ngựa và hoàn toàn không có dòng máu xuôi lên ĐMP, máu phổi phụ thuộc ống động mạch là teo tịt van ĐMP kèm VSD (thể nặng nhất của Fallot); đó là lý do SpO2 phụ thuộc PGE1. Fallot hẹp vừa vẫn còn dòng xuôi lên phổi, PA-IVS không có VSD, TGA có ĐMC xuất phát hoàn toàn từ thất phải.
 
-Câu 31: Bé gái 6 ngày tuổi, đủ tháng, bú kém, thở nhanh, da nhợt lạnh nổi vân, mạch ở cả tay và bẹn đều yếu, gan to 3 cm dưới bờ sườn, nước tiểu ít. Nghe tim: thổi tâm thu tống máu 2/6 ở khoang liên sườn 2 bờ phải ức và tiếng click tống máu; điện tâm đồ dày thất trái. Siêu âm tim: van động mạch chủ dày, mở hạn chế dạng vòm, thất trái giãn và giảm co bóp, ống động mạch còn mở với shunt hai chiều. PGE1 đã được truyền nhưng huyết động chỉ cải thiện tạm thời.
-Can thiệp cấp cứu thích hợp nhất là gì?
+Câu 31: Bé trai 2 ngày tuổi, đủ tháng, tím toàn thân từ sau sinh, SpO2 tay phải 58% và chân 60% dù thở oxy. Trẻ thở nhanh nhưng không co kéo, phổi trong, T2 mạnh đơn, không có tiếng thổi; mạch tay và bẹn đều rõ. Siêu âm tim: động mạch chủ xuất phát từ thất phải, động mạch phổi từ thất trái, không có thông liên thất, van động mạch chủ và eo động mạch chủ bình thường, lỗ bầu dục chỉ hé nhỏ với dòng chảy hạn chế. Đã truyền PGE1 2 giờ, ống động mạch mở rộng nhưng SpO2 chỉ lên 62% và lactat tăng dần.
+Can thiệp cấp cứu thích hợp nhất tiếp theo là gì?
 A. Nong bóng kèm đặt stent đoạn eo động mạch chủ
 B. Đặt stent ống động mạch bằng ống thông
-C. Nong van động mạch chủ bằng bóng qua da
-D. Xé rộng vách liên nhĩ bằng ống thông bóng
+C. Xé rộng vách liên nhĩ bằng ống thông bóng
+D. Nong van động mạch chủ bằng bóng qua da
 Đáp án: C
-Giải thích: Hẹp van ĐMC nguy kịch ở sơ sinh gây giảm cung lượng tim nặng, sốc tim; tuần hoàn hệ thống phụ thuộc ống nên PGE1 chỉ là cầu nối. Điều trị cấp cứu là nong van ĐMC bằng bóng qua da. Các can thiệp còn lại ứng với TGA (xé vách liên nhĩ), teo ĐMP/Fallot nặng (stent ống) và hẹp eo ĐMC (nong/stent).
+Giải thích: Tím nặng ngay sau sinh, không thổi, phổi trong, siêu âm là d-TGA không thông liên thất: hai vòng tuần hoàn song song chỉ pha trộn được qua lỗ bầu dục và ống động mạch. PGE1 đã mở ống nhưng lỗ bầu dục hạn chế nên SpO2 vẫn thấp và toan lactic tăng: cần xé rộng vách liên nhĩ bằng bóng (thủ thuật Rashkind) cấp cứu, sau đó phẫu thuật chuyển gốc động mạch (Jatene) sớm. Ba can thiệp còn lại dành cho hẹp eo động mạch chủ, teo động mạch phổi/Fallot nặng phụ thuộc ống và hẹp van động mạch chủ nguy kịch.
 
 Câu 32: Bé gái 3 tuần tuổi mắc chuyển gốc đại động mạch kèm thông liên thất lớn, SpO2 85%, thở nhanh, bú kém, suy tim sung huyết; thất trái vẫn chịu áp lực hệ thống nhờ VSD. Gia đình muốn hoãn mổ đến khi bé 1 tuổi cho "lớn hơn". Bác sĩ tim mạch giải thích cần mổ chuyển gốc động mạch kèm đóng VSD trong vài tháng đầu.
 Lý do chính của việc mổ sớm là gì?
