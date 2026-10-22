@@ -10,8 +10,26 @@
 - **Giải thích từng đáp án:** nếu câu hỏi có `option_explanations` (mảng, mỗi phần tử ứng với một phương án), chế độ Tutor và trang Kết quả hiện lời giải ngay dưới từng phương án (đáp án đúng màu xanh, phương án sai bạn chọn màu đỏ, còn lại màu xám), kèm `explanation` tổng quát. Bộ đề cũ không có trường này vẫn chạy như trước.
 - **Trường tùy chọn mới của câu hỏi:** `type` (`vignette` = Ca lâm sàng, `concept` = Khái niệm), `topic`, `difficulty` (1 Dễ, 2 Vừa, 3 Khó), `bloom`, `source`. Trang Kết quả có thêm bảng kết quả theo `topic`. Dấu xuống dòng `\n` trong `text` được giữ nguyên; dòng cuối được in đậm làm câu hỏi chính, các dòng trên là ca lâm sàng.
 - **4 đến 6 phương án (A–F):** phím `1`–`6` hoặc `A`–`F` để chọn. Với câu 6 phương án, phím `F` chọn phương án F và gắn cờ chuyển thành `Shift`+`F`.
-- **Bộ đề đi kèm:** file `data/bundled_banks.js` định nghĩa `window.MCQ_BUNDLED_BANKS = [bank, ...]`. Mỗi lần mở app, bộ đề chưa có (theo `id`) được thêm vào thư viện; bộ đề đã có sẽ được thay `title`, `description`, `questions`, `updated` khi bản đi kèm có `updated` mới hơn. Lịch sử làm bài không bị đụng tới. Thiếu file này app vẫn chạy bình thường.
+- **Thư viện đề (thay cho `bundled_banks.js`):** xem mục "Thư viện đề & quy trình nhập nhanh" bên dưới.
 - **Xuất TXT:** mỗi bộ đề có thêm nút xuất `.txt` theo mẫu `Câu N:` / `A.` / `Đáp án:` / `Giải thích:` (TXT không chứa giải thích từng đáp án, topic, độ khó; dùng JSON để giữ đủ). Nhập file JSON một bộ đề có trường mới sẽ giữ nguyên các trường đó khi lưu.
+
+## Thư viện đề & quy trình nhập nhanh
+
+**Thêm đề mới (không cần mở app):**
+1. Thả file JSON bộ đề vào thư mục `data/` (mỗi file là một bộ đề `{id, title, description, updated, lesson, group, questions}` hoặc file gộp có `banks`).
+2. Nhấp đúp `CAP_NHAT.bat`: nó chạy `tools/build_library.py` để dựng lại `data/library.js` rồi sao lưu (git commit + push) lên GitHub.
+3. Mở `index.html`: bộ đề mới tự xuất hiện. Thư viện nằm trong bộ nhớ, chỉ đọc, **không** sao chép vào LocalStorage nên không tốn dung lượng. Thiếu `data/library.js` app vẫn chạy (chỉ còn đề tự nhập).
+
+**Trong app:**
+- **Ngân hàng đề theo chuyên khoa:** các bộ đề gom thành mục có thể thu gọn (Nhi khoa, Nội khoa, Sản phụ khoa, Ngoại khoa, Khác, Đề tự nhập), sắp theo mã bài (IM-7b < IM-12 < IM-53b). Mỗi thẻ hiện mã bài, số câu, điểm và ngày lần làm gần nhất. Tìm kiếm có phím tắt `/`; bộ lọc: Tất cả / Chưa làm / Đang làm dở / Có câu sai.
+- **Làm ngay 1 cú bấm:** nút **Luyện** (tutor) và **Thi** (exam) bắt đầu liền theo tùy chọn đã nhớ (`medmcq_prefs_v1`: xáo câu, xáo đáp án, số câu). Biểu tượng bánh răng mở bảng tùy chọn, có thêm mục **Số câu** (Tất cả / 10 / 20 / 40 / tự nhập).
+- **Tiếp tục bài đang làm dở:** mỗi thao tác (chọn đáp án, gạch đáp án, gắn cờ, chuyển câu) tự lưu vào `medmcq_session_v1` (chỉ lưu mã câu + thứ tự đáp án + câu trả lời, vài KB). Mở lại app sẽ có thanh "Đang làm dở: … — câu x/y" với **Tiếp tục** / **Bỏ**; đồng hồ chạy tiếp từ thời gian đã làm. Nộp bài hoặc bấm nút thoát trong bài thì xóa phiên đã lưu. Nếu đề đã đổi và không còn câu nào đó, phiên bị bỏ kèm thông báo.
+- **Ôn câu sai:** với mỗi câu, kết quả lần làm gần nhất (kể cả trong bài ôn/trộn) quyết định có "cần ôn" không (sai hoặc bỏ trống). Thẻ bộ đề hiện **Ôn n câu sai**; đầu trang có **Ôn tất cả câu sai (N)** gom câu của mọi bộ. Làm đúng thì câu rời khỏi danh sách ôn.
+- **Trộn đề:** mỗi mục chuyên khoa có nút **Trộn 20 câu** (thi thử 20 câu ngẫu nhiên của nhóm). Nút **Chọn nhiều để trộn** cho tick nhiều bộ rồi bấm "Trộn n bộ — X câu" để chọn số câu và chế độ. Lịch sử hiện các bài này với tên "Trộn …" / "Ôn câu sai", và **Làm lại** chạy đúng bộ câu đó.
+- **Nhập đề không cần bấm gì:** kéo thả file `.json` / `.txt` vào cửa sổ (đủ dạng: một bộ, mảng bộ, file sao lưu `{banks}`; TXT theo mẫu `Câu N:`) hoặc dán (`Ctrl+V`) nội dung câu hỏi khi đang ở tab Ngân hàng đề, rồi đặt tên và lưu. Có thông báo "Đã nhập n bộ (m câu)" kèm **Hoàn tác**. Bộ nhập có `id` trùng với đề thư viện sẽ được cấp `id` mới. Tab "Tạo / Nhập đề" vẫn dùng để soạn tay.
+- **Xóa = ẩn với đề thư viện:** biểu tượng mắt gạch trên thẻ thư viện ẩn bộ đề khỏi danh sách; nút **Đã ẩn (n)** để hiện lại. Bộ ẩn chỉ tự hiện lại khi thư viện có bản `updated` mới hơn. Đề tự nhập thì xóa hẳn như trước.
+- **Sao lưu / đồng bộ file** chỉ ghi đề tự nhập + lịch sử (đề thư viện đã nằm trong `data/` và Git). Khi một bộ vừa có trong thư viện vừa có bản tự nhập, app hiện bản có `updated` mới hơn (bằng nhau thì ưu tiên thư viện); bản lưu cũ trùng mã tự bị dọn khỏi LocalStorage ở lần mở đầu tiên.
+- **Lưu ý dung lượng:** mỗi lần nộp bài, lịch sử lưu nguyên các câu hỏi của lần đó (bộ 60 câu có giải thích từng đáp án ≈ 90 KB). LocalStorage giới hạn ~5 MB, khi đầy app báo lỗi và không ghi được lịch sử mới; hãy xuất rồi xóa bớt lịch sử cũ.
 
 ## 🌟 Tính Năng Nổi Bật
 
@@ -74,4 +92,4 @@
 
 1. Nhấp đúp chuột vào file `index.html` trong thư mục `open_deep_research/mcq_runner/` để mở trên trình duyệt.
 2. Hoặc kéo file `index.html` thả vào trình duyệt Chrome/Edge.
-3. Ứng dụng đã được nạp sẵn bộ đề mẫu **Bệnh Addison & Tuyến Thượng Thận**. Bấm **"Làm bài"** để trải nghiệm ngay!
+3. Bộ đề mẫu **Bệnh Addison & Tuyến Thượng Thận** (nhóm "Khác") có sẵn trong thư viện. Bấm **"Luyện"** để làm ngay!

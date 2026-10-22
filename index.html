@@ -317,27 +317,71 @@
     /* ==========================================================
        BANK LIBRARY
        ========================================================== */
-    .list-toolbar { display: flex; align-items: center; gap: 14px; margin-bottom: 16px; flex-wrap: wrap; }
-    .search { position: relative; flex: 1 1 260px; max-width: 420px; }
+    .list-toolbar { display: flex; align-items: center; gap: 10px 14px; margin-bottom: 16px; flex-wrap: wrap; }
+    .search { position: relative; flex: 1 1 240px; min-width: min(100%, 230px); max-width: 360px; }
     .search .ic { position: absolute; left: 12px; top: 50%; transform: translateY(-50%); color: var(--text-3); pointer-events: none; }
     .search input { padding-left: 38px; }
-    .list-count { font-size: 13px; color: var(--text-3); }
+    .list-count { margin-left: auto; font-size: 13px; color: var(--text-3); }
+    .seg.seg-wrap { flex-wrap: wrap; max-width: 100%; }
+    .seg .num { margin-left: 3px; font-weight: 500; opacity: .6; font-variant-numeric: tabular-nums; }
+    .toolbar-btn[aria-pressed="true"] { background: var(--accent-soft); border-color: var(--accent); color: var(--accent-ink); }
 
-    .bank-grid { display: grid; gap: 16px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 330px), 1fr)); }
+    .resume-bar {
+      display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px 16px;
+      margin-bottom: 16px; padding: 12px 16px; border: 1px solid var(--line); border-left: 4px solid var(--accent);
+      border-radius: var(--r); background: var(--accent-soft);
+    }
+    .resume-text { display: flex; align-items: center; gap: 10px; min-width: 0; font-size: 14px; color: var(--accent-ink); overflow-wrap: anywhere; }
+    .resume-actions { display: flex; gap: 8px; }
+
+    .paste-panel {
+      display: flex; flex-wrap: wrap; align-items: center; gap: 10px 12px; margin-bottom: 16px; padding: 12px 16px;
+      border: 1px solid var(--accent); border-radius: var(--r); background: var(--surface);
+    }
+    .paste-info { display: inline-flex; align-items: center; gap: 8px; font-size: 14px; }
+    .paste-panel .input { flex: 1 1 240px; min-height: 38px; }
+
+    .hidden-panel { display: grid; gap: 8px; margin-bottom: 16px; padding: 12px 16px; border: 1px dashed var(--line-strong); border-radius: var(--r); background: var(--surface); }
+    .hidden-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+    .hidden-row-title { display: flex; align-items: center; gap: 8px; min-width: 0; font-size: 14px; }
+
+    .lib-group + .lib-group { margin-top: 28px; }
+    .lib-group-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 12px; }
+    .lib-group-toggle { display: inline-flex; align-items: center; gap: 8px; min-width: 0; padding: 4px 8px 4px 0; background: none; border: 0; border-radius: var(--r-sm); color: var(--text); text-align: left; }
+    .lib-group-toggle h2 { font-size: 18px; font-weight: 700; letter-spacing: -0.02em; }
+    .lib-group-toggle .ic { color: var(--text-3); transition: transform .2s; }
+    .lib-group.is-collapsed .lib-group-toggle .ic { transform: rotate(-90deg); }
+    .lib-group.is-collapsed .bank-grid { display: none; }
+    .lib-group.is-collapsed .lib-group-head { margin-bottom: 0; }
+    .lib-group-count { font-size: 13px; font-weight: 500; color: var(--text-3); white-space: nowrap; }
+
+    .bank-grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); }
     .bank-card {
-      display: flex; flex-direction: column; gap: 14px; padding: 20px;
+      display: flex; flex-direction: column; gap: 10px; padding: 16px 18px;
       background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-lg);
-      transition: border-color .2s, transform .2s;
-      animation: rise .45s cubic-bezier(.16, 1, .3, 1) both; animation-delay: calc(min(var(--i, 0), 10) * 35ms);
+      transition: border-color .2s;
     }
     .bank-card:hover { border-color: var(--line-strong); }
-    .bank-card-body { display: flex; flex-direction: column; gap: 8px; flex: 1; }
-    .bank-title { font-size: 17px; font-weight: 600; line-height: 1.35; letter-spacing: -0.01em; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
-    .bank-desc { font-size: 13.5px; color: var(--text-2); line-height: 1.55; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
-    .bank-foot { display: flex; align-items: center; justify-content: space-between; gap: 10px; padding-top: 14px; border-top: 1px solid var(--line); }
-    .bank-foot-meta { font-size: 12.5px; color: var(--text-3); min-width: 0; }
-    .bank-foot-meta b { color: var(--text-2); font-weight: 600; }
-    .bank-actions { display: flex; gap: 2px; margin: -6px -8px 0 0; }
+    .bank-card.is-selectable { cursor: pointer; }
+    .bank-card.is-selected { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); background: var(--accent-soft); }
+    .bank-card-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 10px; }
+    .bank-card-top .chips { align-items: center; }
+    .sel-check { width: 18px; height: 18px; margin: 0 4px 0 0; accent-color: var(--accent); flex: none; cursor: pointer; }
+    .bank-actions { display: flex; gap: 0; margin: -6px -8px 0 0; }
+    .bank-actions .icon-btn { width: 32px; height: 32px; }
+    .bank-title { font-size: 16px; font-weight: 600; line-height: 1.35; letter-spacing: -0.01em; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+    .bank-desc { font-size: 13px; color: var(--text-2); line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+    .bank-meta { margin-top: auto; font-size: 12.5px; color: var(--text-3); }
+    .bank-meta b { color: var(--text-2); font-weight: 600; }
+    .review-pill {
+      align-self: flex-start; display: inline-flex; align-items: center; gap: 6px; height: 28px; padding: 0 10px;
+      border: 1px solid var(--bad-line); border-radius: var(--r-sm); background: var(--bad-soft); color: var(--bad);
+      font-size: 12.5px; font-weight: 600; transition: filter .15s;
+    }
+    .review-pill:hover { filter: brightness(.96); }
+    .bank-foot { display: flex; align-items: center; gap: 8px; padding-top: 12px; border-top: 1px solid var(--line); }
+    .bank-foot .spacer { flex: 1; }
+    .bank-foot .btn { min-width: 76px; }
 
     .empty {
       grid-column: 1 / -1; display: flex; flex-direction: column; align-items: flex-start; gap: 10px;
@@ -684,6 +728,19 @@
     html[data-theme="dark"] .toast.is-err .ic { color: var(--bad); }
     html[data-theme="dark"] .toast.is-ok .ic, html[data-theme="dark"] .toast.is-err .ic { filter: brightness(.6); }
     .toast.is-leaving { opacity: 0; transform: translateY(8px); transition: opacity .25s, transform .25s; }
+    .toast-action { flex: none; margin: 0 0 0 6px; padding: 0 2px; background: none; border: 0; color: inherit; font-weight: 700; text-decoration: underline; text-underline-offset: 3px; }
+    .toast-action:hover { opacity: .8; }
+
+    .drop-overlay { position: fixed; inset: 0; z-index: var(--z-toast); display: none; align-items: center; justify-content: center; padding: 24px; background: var(--backdrop); pointer-events: none; }
+    .drop-overlay.is-on { display: flex; }
+    .drop-box { display: grid; justify-items: center; gap: 8px; padding: 42px 56px; border: 2.5px dashed var(--accent); border-radius: var(--r-lg); background: var(--surface); box-shadow: var(--shadow-pop); text-align: center; color: var(--accent-ink); }
+    .drop-box h3 { font-size: 20px; font-weight: 700; color: var(--text); }
+    .drop-box p { color: var(--text-2); font-size: 14px; }
+
+    .select-bar { position: fixed; z-index: var(--z-sticky); left: 0; right: 0; bottom: 20px; margin: 0 auto; width: max-content; max-width: calc(100% - 28px); display: flex; align-items: center; gap: 10px; padding: 9px 10px 9px 18px; background: var(--text); color: var(--bg); border-radius: var(--r-lg); box-shadow: var(--shadow-pop); font-size: 14px; font-weight: 600; animation: pop .22s cubic-bezier(.16, 1, .3, 1); }
+    .select-bar > span { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .select-bar .btn-ghost { color: inherit; }
+    .select-bar .btn-ghost:hover:not(:disabled) { background: rgba(127, 127, 127, .25); color: inherit; }
 
     .app-footer { padding: 22px 0 28px; border-top: 1px solid var(--line); text-align: center; font-size: 12.5px; color: var(--text-3); }
 
@@ -724,6 +781,10 @@
       <symbol id="i-eye" viewBox="0 0 24 24"><path d="M2.5 12S6 5.5 12 5.5 21.5 12 21.5 12 18 18.5 12 18.5 2.5 12 2.5 12z"/><circle cx="12" cy="12" r="2.6"/></symbol>
       <symbol id="i-undo" viewBox="0 0 24 24"><path d="M8 5L4 9l4 4M4 9h10a5 5 0 0 1 0 10H8"/></symbol>
       <symbol id="i-alert" viewBox="0 0 24 24"><path d="M12 4L2.8 19.5h18.4zM12 10v4.5M12 17v.01"/></symbol>
+      <symbol id="i-gear" viewBox="0 0 24 24"><path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"/><circle cx="12" cy="12" r="3"/></symbol>
+      <symbol id="i-chevron" viewBox="0 0 24 24"><path d="M6 9l6 6 6-6"/></symbol>
+      <symbol id="i-shuffle" viewBox="0 0 24 24"><path d="M16 3h5v5M4 20L21 3M21 16v5h-5M15 15l6 6M4 4l5 5"/></symbol>
+      <symbol id="i-eye-off" viewBox="0 0 24 24"><path d="M3 3l18 18M10.6 6.1A9.8 9.8 0 0 1 12 6c6 0 9.5 6 9.5 6a16 16 0 0 1-3.2 3.8M6.4 7.6A15.7 15.7 0 0 0 2.5 12S6 18 12 18a9.6 9.6 0 0 0 3.6-.7M9.9 9.9a3 3 0 0 0 4.2 4.2"/></symbol>
     </defs>
   </svg>
 
@@ -764,31 +825,45 @@
 
   <main id="main" class="container">
 
-    <!-- ================= TAB: NGÂN HÀNG ĐỀ ================= -->
     <section id="tab-banks" class="tab-panel" aria-labelledby="banks-title">
       <div class="page-head">
         <div>
           <h1 id="banks-title" class="page-title">Ngân hàng đề</h1>
-          <p class="page-sub">Chọn một bộ câu hỏi để luyện tập (Tutor) hoặc thi thử (Exam).</p>
+          <p class="page-sub">Bấm <b>Luyện</b> để làm ngay (hiện đáp án sau mỗi câu) hoặc <b>Thi</b> để thi thử. Kéo thả file .json / .txt vào cửa sổ, hoặc dán (Ctrl+V) câu hỏi để nhập đề.</p>
         </div>
         <div class="page-actions">
-          <button type="button" class="btn btn-secondary" onclick="app.exportAllBanks()" title="Tải về toàn bộ ngân hàng câu hỏi (JSON)">
-            <svg class="ic" aria-hidden="true"><use href="#i-download"/></svg>Sao lưu tất cả
+          <button id="btn-review-all" type="button" class="btn btn-secondary hidden" onclick="app.startReviewAll()" title="Làm lại mọi câu mà lần gần nhất bạn trả lời sai hoặc bỏ trống">
+            <svg class="ic" aria-hidden="true"><use href="#i-refresh"/></svg><span>Ôn tất cả câu sai (<span id="review-all-count">0</span>)</span>
+          </button>
+          <button type="button" class="btn btn-secondary" onclick="app.exportAllBanks()" title="Tải về toàn bộ đề tự nhập (JSON)">
+            <svg class="ic" aria-hidden="true"><use href="#i-download"/></svg>Sao lưu đề tự nhập
           </button>
           <button type="button" class="btn btn-primary" onclick="app.showTab('create')">
             <svg class="ic" aria-hidden="true"><use href="#i-plus"/></svg>Nhập đề mới
           </button>
         </div>
       </div>
+
+      <div id="resume-bar" class="resume-bar hidden" role="region" aria-label="Bài đang làm dở"></div>
+      <div id="paste-panel" class="paste-panel hidden" role="region" aria-label="Nhập từ nội dung vừa dán" aria-live="polite"></div>
+
       <div class="list-toolbar">
         <label class="search">
           <span class="sr-only">Tìm bộ đề</span>
           <svg class="ic" aria-hidden="true"><use href="#i-search"/></svg>
-          <input id="bank-search" class="input" type="search" placeholder="Tìm theo tên hoặc mô tả" autocomplete="off" oninput="app.setBankFilter(this.value)">
+          <input id="bank-search" class="input" type="search" placeholder="Tìm theo tên, mã bài (nhấn /)" autocomplete="off" oninput="app.setBankFilter(this.value)">
         </label>
+        <div id="bank-filters" class="seg seg-wrap" role="group" aria-label="Lọc bộ đề"></div>
+        <button id="btn-select-mode" type="button" class="btn btn-secondary btn-sm toolbar-btn" aria-pressed="false" onclick="app.toggleSelectMode()">
+          <svg class="ic sm" aria-hidden="true"><use href="#i-shuffle"/></svg><span>Chọn nhiều để trộn</span>
+        </button>
+        <button id="btn-hidden" type="button" class="btn btn-ghost btn-sm hidden" aria-expanded="false" onclick="app.toggleHiddenPanel()">
+          <svg class="ic sm" aria-hidden="true"><use href="#i-eye-off"/></svg><span>Đã ẩn (<span id="hidden-count">0</span>)</span>
+        </button>
         <span id="bank-count" class="list-count" aria-live="polite"></span>
       </div>
-      <div id="bank-list" class="bank-grid"></div>
+      <div id="hidden-panel" class="hidden-panel hidden"></div>
+      <div id="bank-list" class="lib"></div>
     </section>
 
     <!-- ================= TAB: TẠO / NHẬP ĐỀ ================= -->
@@ -1003,6 +1078,19 @@ Câu 2: ..."></textarea>
       </div>
 
       <div class="dialog-section">
+        <span class="label" id="limit-label">Số câu</span>
+        <div id="cfg-limit" class="seg seg-wrap" role="group" aria-labelledby="limit-label">
+          <button type="button" data-limit="0" aria-pressed="true">Tất cả</button>
+          <button type="button" data-limit="10" aria-pressed="false">10</button>
+          <button type="button" data-limit="20" aria-pressed="false">20</button>
+          <button type="button" data-limit="40" aria-pressed="false">40</button>
+          <button type="button" data-limit="custom" aria-pressed="false">Khác</button>
+        </div>
+        <input id="cfg-limit-custom" class="input hidden" type="number" min="1" step="1" inputmode="numeric" placeholder="Nhập số câu" aria-label="Số câu tùy chọn" style="margin-top:10px;max-width:180px">
+        <p id="cfg-limit-hint" class="dialog-desc"></p>
+      </div>
+
+      <div class="dialog-section">
         <label class="check"><input type="checkbox" id="cfg-shuffle-questions" checked><span>Xáo trộn thứ tự câu hỏi</span></label>
         <label class="check"><input type="checkbox" id="cfg-shuffle-options" checked><span>Xáo trộn thứ tự các phương án</span></label>
       </div>
@@ -1028,121 +1116,27 @@ Câu 2: ..."></textarea>
 
   <div id="toast-region" class="toast-region" role="status" aria-live="polite"></div>
 
-  <!-- Ngân hàng đề đi kèm (không bắt buộc – thiếu file vẫn chạy bình thường) -->
-  <script src="data/bundled_banks.js"></script>
+  <!-- Thanh trộn nhiều bộ đề (chế độ chọn nhiều) -->
+  <div id="select-bar" class="select-bar hidden" role="region" aria-label="Trộn nhiều bộ đề">
+    <span id="select-bar-label">Tick vào các bộ đề cần trộn</span>
+    <button type="button" class="btn btn-ghost btn-sm" onclick="app.exitSelectMode()">Hủy</button>
+    <button id="select-bar-go" type="button" class="btn btn-secondary btn-sm" onclick="app.startMixSelected()" disabled>Trộn đề</button>
+  </div>
+
+  <!-- Lớp phủ khi kéo thả file vào cửa sổ -->
+  <div id="drop-overlay" class="drop-overlay" aria-hidden="true">
+    <div class="drop-box">
+      <svg class="ic lg" aria-hidden="true"><use href="#i-upload"/></svg>
+      <h3>Thả file để nhập đề</h3>
+      <p>.json hoặc .txt · nhập ngay, có thể hoàn tác</p>
+    </div>
+  </div>
+
+  <!-- Thư viện đề (data/library.js do tools/build_library.py sinh ra; thiếu file vẫn chạy bình thường) -->
+  <script src="data/library.js"></script>
 
   <!-- JAVASCRIPT APPLICATION LOGIC -->
   <script>
-    /* ==========================================================
-       SAMPLE BANKS DATA (PRELOADED)
-       ========================================================== */
-    const DEFAULT_BANKS = [
-      {
-        id: "bank_addison_001",
-        title: "Bệnh Addison & Tuyến Thượng Thận",
-        description: "Bộ 8 câu hỏi chuyên sâu về suy vỏ thượng thận nguyên phát, chẩn đoán, phác đồ phối hợp thuốc và cơ chế bệnh sinh.",
-        createdAt: "2026-09-04T12:00:00.000Z",
-        questions: [
-          {
-            id: "q1",
-            text: "Bệnh nhân mắc bệnh Addison (suy vỏ thượng thận nguyên phát) có chỉ định điều trị thay thế hormone mạn tính tiêu chuẩn nào sau đây?",
-            options: [
-              "Chỉ cần dùng Hydrocortisone đơn độc",
-              "Hydrocortisone phối hợp với Fludrocortisone (Florinef)",
-              "Chỉ dùng Fludrocortisone đơn độc",
-              "Dexamethasone phối hợp với Spironolactone"
-            ],
-            correct: 1,
-            explanation: "Trong bệnh Addison, toàn bộ vỏ thượng thận bị phá hủy dẫn đến thiếu đồng thời cả Cortisol (lớp bó) và Aldosterone (lớp cầu). Ở liều sinh lý hàng ngày (15-25 mg), Hydrocortisone không đủ hoạt tính giữ muối nước để bù cho lượng Aldosterone thiếu hụt, do đó bắt buộc phải phối hợp Hydrocortisone + Fludrocortisone (Florinef 0.05 - 0.2 mg/ngày)."
-          },
-          {
-            id: "q2",
-            text: "Hiện tượng tụt huyết áp tư thế ở bệnh nhân Addison xuất hiện chủ yếu do cơ chế phối hợp nào?",
-            options: [
-              "Tăng nồng độ ACTH và giãn mạch toàn thân",
-              "Thiếu Aldosterone gây giảm thể tích tuần hoàn và thiếu Cortisol làm trơ thụ thể alpha-1 với catecholamine",
-              "Cường phó giao cảm và tăng tiết acetylcholine tại thụ thể muscarinic",
-              "Tăng canxi máu gây rối loạn dẫn truyền cơ tim và ức chế co bóp thất trái"
-            ],
-            correct: 1,
-            explanation: "Tụt huyết áp tư thế trong bệnh Addison là do 2 cơ chế chính: (1) Thiếu Aldosterone dẫn đến mất muối và nước qua nước tiểu, gây giảm thể tích nội mạch mạn tính; (2) Thiếu Cortisol làm mất tính nhạy cảm đồng vận (permissive effect) của thụ thể alpha-1 adrenergic mạch máu với catecholamine, khiến mạch máu không co lại hiệu quả khi đứng dậy."
-          },
-          {
-            id: "q3",
-            text: "Triệu chứng sạm da (hyperpigmentation) đặc trưng trong bệnh Addison thường xuất hiện nhiều nhất ở các vị trí nào?",
-            options: [
-              "Chỉ xuất hiện ở vùng da ít tiếp xúc với ánh nắng như nách và bẹn",
-              "Vùng tiếp xúc ánh nắng, nếp gấp bàn tay, niêm mạc má và vết sẹo mới",
-              "Khắp bề mặt móng tay và tóc",
-              "Vùng da quanh mắt dạng kính râm đơn độc"
-            ],
-            correct: 1,
-            explanation: "Do cortisol máu giảm thấp, tuyến yên tăng tiết ồ ạt tiền chất POMC. Quá trình phân giải POMC tạo ra cả ACTH và MSH, kích thích tế bào hắc tố sản sinh melanin. Sạm da rõ nhất ở vùng hở tiếp xúc ánh sáng, nếp gấp chỉ tay, khớp ngón, sẹo mới và đặc biệt là niêm mạc má/khoang miệng."
-          },
-          {
-            id: "q4",
-            text: "Trong cấp cứu Cơn suy thượng thận cấp (Adrenal Crisis), lựa chọn glucocorticoid đầu tay và cách xử trí ban đầu đúng là:",
-            options: [
-              "Hydrocortisone 100 mg tiêm tĩnh mạch ngay lập tức kèm bù dịch NaCl 0.9%",
-              "Prednisolone 5 mg uống kèm dung dịch Dextrose 5%",
-              "Dexamethasone 0.5 mg uống buổi tối",
-              "Florinef 0.1 mg uống ngay kèm kali clorid truyền tĩnh mạch"
-            ],
-            correct: 0,
-            explanation: "Cơn suy thượng thận cấp là cấp cứu đe dọa tính mạng. Xử trí khẩn cấp gồm: Bolus ngay 100 mg Hydrocortisone IV, sau đó 200 mg/24h, đồng thời bù dịch tích cực bằng NaCl 0.9% và Dextrose nếu có hạ đường huyết. Ở liều cao này, Hydrocortisone đã bão hòa thụ thể mineralocorticoid nên không cần dùng Fludrocortisone giai đoạn cấp."
-          },
-          {
-            id: "q5",
-            text: "Rối loạn điện giải đồ điển hình nào thường gặp nhất ở bệnh nhân mắc bệnh Addison chưa được điều trị?",
-            options: [
-              "Tăng Natri máu, Hạ Kali máu",
-              "Hạ Natri máu, Tăng Kali máu, Toan chuyển hóa nhẹ",
-              "Hạ Natri máu, Hạ Kali máu, Kiềm chuyển hóa",
-              "Tăng Natri máu, Tăng Kali máu, Canxi máu bình thường"
-            ],
-            correct: 1,
-            explanation: "Thiếu Aldosterone dẫn đến giảm tái hấp thu Na+ và giảm thải K+, H+ ở ống thận xa -> dẫn đến mất Na+ qua nước tiểu gây Hạ Natri máu, ứ trệ K+ gây Tăng Kali máu và giữ H+ gây Toan chuyển hóa nhẹ."
-          },
-          {
-            id: "q6",
-            text: "Điểm khác biệt then chốt giữa Suy thượng thận nguyên phát (bệnh Addison) và Suy thượng thận thứ phát (do tuyến yên hoặc lạm dụng corticoid) là:",
-            options: [
-              "Suy thượng thận thứ phát luôn có tăng kali máu nặng nề hơn",
-              "Suy thượng thận thứ phát không có sạm da và hệ Aldosterone thường vẫn được bảo tồn",
-              "Bệnh Addison có nồng độ ACTH máu giảm rất thấp",
-              "Suy thượng thận thứ phát bắt buộc phải dùng Fludrocortisone liều cao"
-            ],
-            correct: 1,
-            explanation: "Trong suy thượng thận thứ phát, ACTH giảm (không có sạm da). Trục RAAS được điều hòa chủ yếu bởi thể tích tuần hoàn và nồng độ Kali máu chứ không phụ thuộc nhiều vào ACTH, nên lớp cầu vẫn tiết được Aldosterone -> bệnh nhân thứ phát hiếm khi bị tăng kali máu và KHÔNG cần bổ sung Fludrocortisone."
-          },
-          {
-            id: "q7",
-            text: "Quy tắc 'Sick-day rules' cho bệnh nhân Addison khi bị sốt, nhiễm trùng đường hô hấp hoặc căng thẳng vừa phải khuyến cáo:",
-            options: [
-              "Ngừng toàn bộ thuốc để gan thận nghỉ ngơi",
-              "Giảm một nửa liều Hydrocortisone hàng ngày",
-              "Gấp đôi hoặc gấp ba liều Hydrocortisone đường uống thông thường",
-              "Chỉ tăng liều Florinef lên 5 lần, giữ nguyên Hydrocortisone"
-            ],
-            correct: 2,
-            explanation: "Bệnh nhân Addison không thể tự tăng tiết cortisol khi sốt/stress, do đó để phòng ngừa cơn suy thượng thận cấp (adrenal crisis), bệnh nhân cần tăng gấp đôi (double) hoặc gấp ba (triple) liều Hydrocortisone đường uống cho đến khi tình trạng nhiễm trùng/sốt thoái lui."
-          },
-          {
-            id: "q8",
-            text: "Tiêu chuẩn chẩn đoán xác định suy vỏ thượng thận bằng nghiệm pháp kích thích Synacthen liều chuẩn (Short Synacthen Test 250 mcg ACTH) thường dựa vào nồng độ Cortisol đỉnh sau 30-60 phút đạt ngưỡng nào?",
-            options: [
-              "Cortisol đỉnh < 5 mcg/dL",
-              "Cortisol đỉnh < 18 mcg/dL (khoảng 500 nmol/L)",
-              "Cortisol đỉnh > 30 mcg/dL",
-              "Chỉ dựa vào nồng độ Renin máu sau tiêm"
-            ],
-            correct: 1,
-            explanation: "Ở người bình thường, tiêm 250 mcg Synacthen sẽ kích thích vỏ thượng thận sản xuất cortisol mạnh mẽ, đạt đỉnh >= 18 mcg/dL (hoặc >= 500 nmol/L). Nếu nồng độ Cortisol đỉnh sau 30 hoặc 60 phút < 18 mcg/dL thì khẳng định có suy tuyến thượng thận."
-          }
-        ]
-      }
-    ];
-
     /* ==========================================================
        SHARED HELPERS
        ========================================================== */
@@ -1189,6 +1183,250 @@ Câu 2: ..."></textarea>
 
     function safeFileName(s) {
       return String(s || 'bank').toLowerCase().replace(/[\\/:*?"<>|]/g, '').replace(/\s+/g, '_').slice(0, 80) || 'bank';
+    }
+
+    /* ==========================================================
+       LIBRARY, CATALOG, STATS, SESSION, PREFS
+       ========================================================== */
+    const PREFS_KEY = 'medmcq_prefs_v1';
+    const SESSION_KEY = 'medmcq_session_v1';
+    const UI_KEY = 'medmcq_ui_v1';
+    const USER_GROUP = 'Đề tự nhập';
+    const GROUP_ORDER = ['Nhi khoa', 'Nội khoa', 'Sản phụ khoa', 'Ngoại khoa', 'Khác'];
+    const LIB_FILTERS = [
+      ['all', 'Tất cả', 'Mọi bộ đề'],
+      ['new', 'Chưa làm', 'Chưa làm câu nào'],
+      ['doing', 'Đang làm dở', 'Có bài đang lưu dở hoặc mới làm một phần số câu của bộ'],
+      ['wrong', 'Có câu sai', 'Còn câu mà lần làm gần nhất sai hoặc bỏ trống']
+    ];
+    const collator = new Intl.Collator('vi', { numeric: true, sensitivity: 'base' });
+
+    function readJSON(key, fallback) {
+      try {
+        const raw = localStorage.getItem(key);
+        return raw ? JSON.parse(raw) : fallback;
+      } catch (e) {
+        return fallback;
+      }
+    }
+
+    function writeJSON(key, value) {
+      try { localStorage.setItem(key, JSON.stringify(value)); return true; } catch (e) { return false; }
+    }
+
+    /** a strictly newer than b (ISO strings; falls back to string compare). */
+    function isNewer(a, b) {
+      if (!a) return false;
+      if (!b) return true;
+      const ta = Date.parse(a);
+      const tb = Date.parse(b);
+      if (!Number.isNaN(ta) && !Number.isNaN(tb)) return ta > tb;
+      return String(a) > String(b);
+    }
+
+    function isVirtualId(id) { return /^virtual_/.test(String(id || '')); }
+    function qKey(bankId, qid) { return `${bankId}::${qid}`; }
+    function splitKey(key) {
+      const i = String(key).indexOf('::');
+      return { bankId: String(key).slice(0, i), qid: String(key).slice(i + 2) };
+    }
+    function slugify(s) { return normalizeSearch(s).replace(/[^a-z0-9]+/g, '_').replace(/^_+|_+$/g, '') || 'x'; }
+    function newBankId() { return 'bank_' + Date.now() + '_' + Math.random().toString(36).slice(2, 6); }
+
+    /** Lesson code: explicit `lesson`, else a leading "IM-53b" style code in the title. */
+    function lessonOf(bank) {
+      if (bank.lesson) return String(bank.lesson);
+      const m = /^\s*([A-Za-z]{2,4}-\d+[A-Za-z]?)(?![A-Za-z0-9])/.exec(bank.title || '');
+      return m ? m[1] : '';
+    }
+
+    /** Title without its leading lesson code (the code is already shown as a chip). */
+    function displayTitle(title, lesson) {
+      const t = String(title || '');
+      if (!lesson) return t;
+      const re = new RegExp('^\\s*' + lesson.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\s*[:\\-–—.]*\\s*', 'i');
+      return t.replace(re, '') || t;
+    }
+
+    function compareGroups(a, b) {
+      const rank = (g) => (g === USER_GROUP ? 1000 : (GROUP_ORDER.indexOf(g) < 0 ? 100 : GROUP_ORDER.indexOf(g)));
+      return rank(a) - rank(b) || collator.compare(a, b);
+    }
+
+    /** Natural sort by lesson code (IM-7b < IM-12 < IM-53b), banks without a code last, then by title. */
+    function compareBanks(a, b) {
+      const la = lessonOf(a);
+      const lb = lessonOf(b);
+      if (!la !== !lb) return la ? -1 : 1;
+      return collator.compare(la, lb) || collator.compare(a.title || '', b.title || '');
+    }
+
+    const Prefs = {
+      get() {
+        const o = readJSON(PREFS_KEY, {}) || {};
+        return {
+          shuffleQuestions: o.shuffleQuestions !== false,
+          shuffleOptions: o.shuffleOptions !== false,
+          questionLimit: Math.max(0, parseInt(o.questionLimit, 10) || 0)
+        };
+      },
+      set(p) { writeJSON(PREFS_KEY, p); }
+    };
+
+    /** Read-only banks shipped in data/library.js (window.MCQ_LIBRARY). Missing file → empty library. */
+    const Library = {
+      banks: [],
+      byId: new Map(),
+      load() {
+        const src = window.MCQ_LIBRARY;
+        this.banks = src && Array.isArray(src.banks) ? src.banks.filter((b) => b && b.id && Array.isArray(b.questions)) : [];
+        this.byId = new Map(this.banks.map((b) => [b.id, b]));
+      }
+    };
+
+    /** Library ∪ user banks merged by id (newer `updated` wins, library wins ties). Entries are shallow copies tagged _lib / _hidden. */
+    const Catalog = {
+      _qmaps: new WeakMap(),
+      all() {
+        const dismissed = StorageManager.getDismissedBundled();
+        const out = new Map();
+        Library.banks.forEach((b) => {
+          const hidden = Object.prototype.hasOwnProperty.call(dismissed, b.id) && !isNewer(b.updated, dismissed[b.id]);
+          out.set(b.id, { ...b, _lib: true, _hidden: hidden });
+        });
+        StorageManager.getBanks().forEach((u) => {
+          const lib = out.get(u.id);
+          if (lib && !isNewer(u.updated, lib.updated)) return;
+          out.set(u.id, { ...u, _lib: false, _hidden: false });
+        });
+        return Array.from(out.values());
+      },
+      visible() { return this.all().filter((b) => !b._hidden); },
+      map() { return new Map(this.all().map((b) => [b.id, b])); },
+      get(id) { return this.map().get(id); },
+      /** question id → question, cached per questions array */
+      qMap(bank) {
+        let m = this._qmaps.get(bank.questions);
+        if (!m) {
+          m = new Map(bank.questions.map((q) => [q.id, q]));
+          this._qmaps.set(bank.questions, m);
+        }
+        return m;
+      }
+    };
+
+    /**
+     * Derived from medmcq_history_v1: per bank its attempts (newest first) and, per question key
+     * `${srcBankId}::${qid}`, whether its latest result was wrong/blank. Rebuilt when the history array changes.
+     */
+    const Stats = {
+      _hist: null,
+      _val: null,
+      get() {
+        const hist = StorageManager.getHistory();
+        if (this._hist !== hist || !this._val) {
+          this._val = this.build(hist);
+          this._hist = hist;
+        }
+        return this._val;
+      },
+      build(hist) {
+        const sorted = hist.slice().sort((a, b) => (Date.parse(b.date) || 0) - (Date.parse(a.date) || 0));
+        const byBank = new Map();
+        const latest = new Map();
+        sorted.forEach((att) => {
+          if (!byBank.has(att.bankId)) byBank.set(att.bankId, []);
+          byBank.get(att.bankId).push(att);
+          const answers = att.userAnswers || {};
+          (Array.isArray(att.questions) ? att.questions : []).forEach((q, idx) => {
+            const key = qKey(q._srcBank || att.bankId, q.id);
+            if (!latest.has(key)) latest.set(key, answers[idx] !== q.correct);
+          });
+        });
+        return { byBank, latest };
+      },
+      /** { total, seen, wrong: [qid], attempts, last } for one bank (only questions that still exist in it). */
+      info(bank) {
+        const st = this.get();
+        let seen = 0;
+        const wrong = [];
+        bank.questions.forEach((q) => {
+          const r = st.latest.get(qKey(bank.id, q.id));
+          if (r === undefined) return;
+          seen++;
+          if (r) wrong.push(q.id);
+        });
+        const attempts = st.byBank.get(bank.id) || [];
+        return { total: bank.questions.length, seen, wrong, attempts, last: attempts[0] || null };
+      }
+    };
+
+    /** In-progress session under medmcq_session_v1: keys + permutations + answers, never full questions. */
+    const SessionStore = {
+      load() {
+        const s = readJSON(SESSION_KEY, null);
+        return s && s.v === 1 && Array.isArray(s.keys) && s.keys.length ? s : null;
+      },
+      save(s) {
+        try { localStorage.setItem(SESSION_KEY, JSON.stringify(s)); } catch (e) { console.warn('Could not autosave session', e); }
+      },
+      clear() {
+        try { localStorage.removeItem(SESSION_KEY); } catch (e) { /* ignore */ }
+      }
+    };
+
+    /* ----- Import: any supported JSON shape or MCQ text → normalized user banks ----- */
+    function isQuestionLike(x) { return !!x && typeof x === 'object' && Array.isArray(x.options) && x.options.length >= 2; }
+
+    function normQuestion(q) {
+      return {
+        ...q,
+        id: q.id != null && q.id !== '' ? String(q.id) : 'q_' + Math.random().toString(36).slice(2, 9),
+        text: q.text,
+        options: q.options,
+        correct: Number.isInteger(q.correct) && q.correct >= 0 && q.correct < q.options.length ? q.correct : 0,
+        explanation: q.explanation || ''
+      };
+    }
+
+    /** Single bank / array of banks / backup {banks} / bare question array (all keep rich fields) or plain MCQ text. */
+    function parseImport(text, fileName) {
+      const base = String(fileName || '').replace(/\.[^/.]+$/, '').trim();
+      const now = new Date();
+      const fallback = base || `Đề dán ${now.toLocaleDateString('vi-VN')} ${now.toLocaleTimeString('vi-VN', { hour: '2-digit', minute: '2-digit' })}`;
+      let parsed = null;
+      try { parsed = JSON.parse(text); } catch (e) { parsed = null; }
+      let raws = [];
+      if (parsed && typeof parsed === 'object') {
+        let list = null;
+        if (Array.isArray(parsed.banks)) list = parsed.banks;
+        else if (Array.isArray(parsed) && parsed.length && parsed.every((b) => b && Array.isArray(b.questions))) list = parsed;
+        else if (Array.isArray(parsed.questions)) list = [parsed];
+        else if (Array.isArray(parsed) && parsed.length && parsed.every(isQuestionLike)) list = [{ questions: parsed }];
+        raws = (list || []).filter((b) => b && Array.isArray(b.questions));
+      } else {
+        const qs = McqParser.parseRawText(text);
+        if (qs.length) raws = [{ questions: qs }];
+      }
+      const seen = new Set();
+      const out = [];
+      raws.forEach((b, i) => {
+        const questions = b.questions.filter(isQuestionLike).map(normQuestion);
+        if (questions.length === 0) return;
+        let id = b.id ? String(b.id) : '';
+        if (!id || Library.byId.has(id) || seen.has(id)) id = newBankId(); // never collide with a library id
+        seen.add(id);
+        const title = String(b.title || '').trim() || (raws.length > 1 ? `${fallback} (${i + 1})` : fallback);
+        out.push({
+          ...b,
+          id,
+          title,
+          description: b.description || `${questions.length} câu hỏi trắc nghiệm`,
+          createdAt: b.createdAt || now.toISOString(),
+          questions
+        });
+      });
+      return out;
     }
 
     /** Stem → vignette (all but last line) + bold lead-in (last line). */
@@ -1324,18 +1562,26 @@ Câu 2: ..."></textarea>
         if (resolve) resolve(result);
       },
 
-      toast(message, kind = 'info') {
+      toast(message, kind = 'info', opts = {}) {
         const region = $('toast-region');
         const el = document.createElement('div');
         el.className = 'toast' + (kind === 'ok' ? ' is-ok' : kind === 'error' ? ' is-err' : '');
         const ic = kind === 'ok' ? 'check' : kind === 'error' ? 'alert' : 'info';
         el.innerHTML = `${icon(ic)}<span>${esc(message)}</span>`;
-        region.appendChild(el);
-        const life = kind === 'error' ? 6500 : 4200;
-        setTimeout(() => {
+        const dismiss = () => {
           el.classList.add('is-leaving');
           setTimeout(() => el.remove(), 260);
-        }, life);
+        };
+        if (opts.action) {
+          const btn = document.createElement('button');
+          btn.type = 'button';
+          btn.className = 'toast-action';
+          btn.textContent = opts.action.label;
+          btn.addEventListener('click', () => { dismiss(); opts.action.run(); });
+          el.appendChild(btn);
+        }
+        region.appendChild(el);
+        setTimeout(dismiss, opts.life || (kind === 'error' ? 6500 : 4200));
       }
     };
 
@@ -1444,10 +1690,8 @@ Câu 2: ..."></textarea>
       static STORAGE_DISMISSED_KEY = 'medmcq_bundled_dismissed_v1';
       static fileHandle = null;
       static syncFileName = null;
-
-      static defaultBanks() {
-        return JSON.parse(JSON.stringify(DEFAULT_BANKS));
-      }
+      static _banks = null; // parsed caches, dropped whenever the underlying key changes
+      static _hist = null;
 
       /** { bundledBankId: bundled `updated` at the time the user deleted it } */
       static getDismissedBundled() {
@@ -1463,45 +1707,69 @@ Câu 2: ..."></textarea>
         localStorage.setItem(this.STORAGE_DISMISSED_KEY, JSON.stringify(map));
       }
 
+      /** User banks only. Library banks live in memory (see Library / Catalog) and are never written here. */
       static getBanks() {
+        if (this._banks) return this._banks;
+        let list = [];
         try {
           const raw = localStorage.getItem(this.STORAGE_BANKS_KEY);
-          if (!raw) {
-            const seed = this.defaultBanks();
-            localStorage.setItem(this.STORAGE_BANKS_KEY, JSON.stringify(seed));
-            return seed;
-          }
-          const parsed = JSON.parse(raw);
-          return Array.isArray(parsed) && parsed.length > 0 ? parsed : this.defaultBanks();
+          const parsed = raw ? JSON.parse(raw) : [];
+          if (Array.isArray(parsed)) list = parsed.filter((b) => b && b.id && Array.isArray(b.questions));
         } catch (e) {
           console.error('Failed to read banks from localStorage', e);
-          return this.defaultBanks();
         }
+        this._banks = list;
+        return list;
       }
 
       static saveBanks(banks) {
-        localStorage.setItem(this.STORAGE_BANKS_KEY, JSON.stringify(banks));
+        try {
+          localStorage.setItem(this.STORAGE_BANKS_KEY, JSON.stringify(banks));
+        } catch (e) {
+          this._banks = null;
+          throw e;
+        }
+        this._banks = banks;
         this.triggerAutoFileSync();
       }
 
       static getHistory() {
+        if (this._hist) return this._hist;
+        let list = [];
         try {
           const raw = localStorage.getItem(this.STORAGE_HIST_KEY);
-          return raw ? JSON.parse(raw) : [];
+          const parsed = raw ? JSON.parse(raw) : [];
+          if (Array.isArray(parsed)) list = parsed;
+        } catch (e) { /* corrupted history reads as empty */ }
+        this._hist = list;
+        return list;
+      }
+
+      static setHistory(list) {
+        try {
+          localStorage.setItem(this.STORAGE_HIST_KEY, JSON.stringify(list));
         } catch (e) {
-          return [];
+          this._hist = null;
+          throw e;
         }
+        this._hist = list;
+        this.triggerAutoFileSync();
       }
 
       static saveAttempt(attempt) {
-        const hist = this.getHistory();
-        hist.unshift(attempt);
-        localStorage.setItem(this.STORAGE_HIST_KEY, JSON.stringify(hist));
-        this.triggerAutoFileSync();
+        try {
+          this.setHistory([attempt, ...this.getHistory()]);
+          return true;
+        } catch (e) {
+          console.error('Failed to save attempt', e);
+          ui.toast('Không lưu được lịch sử: bộ nhớ trình duyệt đã đầy. Hãy xóa bớt lịch sử cũ hoặc đề tự nhập.', 'error');
+          return false;
+        }
       }
 
       static clearHistory() {
         localStorage.removeItem(this.STORAGE_HIST_KEY);
+        this._hist = [];
         this.triggerAutoFileSync();
       }
 
@@ -1568,9 +1836,12 @@ Câu 2: ..."></textarea>
        ========================================================== */
     class QuizEngine {
       constructor() {
-        this.activeBank = null;
+        this.activeBank = null; // { id, title, virtual }
         this.mode = 'tutor'; // 'tutor' | 'exam'
         this.questions = [];
+        this.entries = []; // [{ src, q, perm }] – the raw material of the session (saved as keys + permutations)
+        this.sessionBase = null;
+        this.cfgCtx = null; // what the config modal is about: { kind: 'bank' | 'mix', ... }
         this.currentIndex = 0;
         this.userAnswers = {}; // { qIndex: selectedOptionIndex }
         this.flagged = new Set();
@@ -1591,73 +1862,217 @@ Câu 2: ..."></textarea>
           const main = e.target.closest('.opt-main[data-idx]');
           if (main && !main.disabled) this.selectAnswer(Number(main.dataset.idx), true);
         });
+        $('cfg-limit').addEventListener('click', (e) => {
+          const btn = e.target.closest('button[data-limit]');
+          if (btn) this.setLimitUI(btn.dataset.limit === 'custom' ? 'custom' : Number(btn.dataset.limit));
+        });
+        $('cfg-limit-custom').addEventListener('input', () => this.updateLimitHint());
+      }
+
+      /* ---------- Config modal ---------- */
+
+      setLimitUI(limit) {
+        const preset = [0, 10, 20, 40];
+        const custom = limit === 'custom' || !preset.includes(limit);
+        document.querySelectorAll('#cfg-limit button').forEach((b) => {
+          const on = custom ? b.dataset.limit === 'custom' : (b.dataset.limit !== 'custom' && Number(b.dataset.limit) === limit);
+          b.setAttribute('aria-pressed', String(on));
+        });
+        const input = $('cfg-limit-custom');
+        input.classList.toggle('hidden', !custom);
+        if (custom && typeof limit === 'number') input.value = String(limit);
+        if (limit === 'custom') input.focus();
+        this.updateLimitHint();
+      }
+
+      readLimit() {
+        const pressed = document.querySelector('#cfg-limit button[aria-pressed="true"]');
+        if (!pressed) return 0;
+        if (pressed.dataset.limit === 'custom') return Math.max(0, parseInt($('cfg-limit-custom').value, 10) || 0);
+        return Number(pressed.dataset.limit);
+      }
+
+      updateLimitHint() {
+        const total = this.cfgCtx ? this.cfgCtx.total : 0;
+        const n = this.readLimit();
+        $('cfg-limit-hint').textContent = n > 0 && n < total ? `Làm ${n} / ${total} câu.` : `Làm cả ${total} câu.`;
+      }
+
+      fillConfigForm(prefs, mode, limit, forceShuffleQ) {
+        document.querySelector(`input[name="quiz-mode"][value="${mode}"]`).checked = true;
+        const sq = $('cfg-shuffle-questions');
+        sq.checked = forceShuffleQ || prefs.shuffleQuestions;
+        sq.disabled = !!forceShuffleQ;
+        $('cfg-shuffle-options').checked = prefs.shuffleOptions;
+        this.setLimitUI(limit);
       }
 
       openConfigModal(bankId) {
-        const bank = StorageManager.getBanks().find((b) => b.id === bankId);
+        const bank = Catalog.get(bankId);
         if (!bank) return ui.toast('Không tìm thấy bộ câu hỏi.', 'error');
         if (!Array.isArray(bank.questions) || bank.questions.length === 0) return ui.toast('Bộ câu hỏi này chưa có câu nào.', 'error');
 
-        this.activeBank = bank;
+        this.cfgCtx = { kind: 'bank', bankId: bank.id, total: bank.questions.length };
         $('modal-bank-badge').textContent = `${bank.questions.length} câu hỏi`;
         $('modal-bank-title').textContent = bank.title;
         $('modal-bank-desc').textContent = bank.description || '';
+        const p = Prefs.get();
+        this.fillConfigForm(p, 'tutor', p.questionLimit, false);
+        Overlay.open($('quiz-config-modal'), $('btn-start-quiz'));
+      }
+
+      openMixModal(ids) {
+        const cat = Catalog.map();
+        const banks = ids.map((id) => cat.get(id)).filter((b) => b && b.questions.length);
+        if (banks.length === 0) return ui.toast('Chưa chọn bộ đề nào.', 'error');
+        const total = banks.reduce((n, b) => n + b.questions.length, 0);
+        this.cfgCtx = { kind: 'mix', ids: banks.map((b) => b.id), total };
+        $('modal-bank-badge').textContent = `${banks.length} bộ · ${total} câu`;
+        $('modal-bank-title').textContent = `Trộn ${banks.length} bộ đề`;
+        $('modal-bank-desc').textContent = banks.map((b) => lessonOf(b) || b.title).join(' · ');
+        this.fillConfigForm(Prefs.get(), 'exam', Math.min(20, total), true);
         Overlay.open($('quiz-config-modal'), $('btn-start-quiz'));
       }
 
       async startQuizFromModal() {
+        const ctx = this.cfgCtx;
+        if (!ctx) return;
         const mode = document.querySelector('input[name="quiz-mode"]:checked').value;
-        const shuffleQ = $('cfg-shuffle-questions').checked;
         const shuffleOpt = $('cfg-shuffle-options').checked;
-        const bank = this.activeBank;
+        const limit = this.readLimit();
+        const prev = Prefs.get();
+        const mix = ctx.kind === 'mix';
+        const shuffleQ = mix ? true : $('cfg-shuffle-questions').checked;
+        Prefs.set({
+          shuffleQuestions: mix ? prev.shuffleQuestions : shuffleQ,
+          shuffleOptions: shuffleOpt,
+          questionLimit: mix ? prev.questionLimit : limit
+        });
         app.closeConfigModal();
 
-        if (this.inProgress) {
+        const cat = Catalog.map();
+        if (!mix) {
+          const bank = cat.get(ctx.bankId);
+          if (!bank) return ui.toast('Không tìm thấy bộ câu hỏi.', 'error');
+          this.requestStart({
+            bankId: bank.id,
+            title: bank.title,
+            virtual: false,
+            mode,
+            items: bank.questions.map((q) => ({ src: bank.id, q })),
+            shuffleQ,
+            shuffleOpt,
+            limit
+          });
+          return;
+        }
+        const banks = ctx.ids.map((id) => cat.get(id)).filter(Boolean);
+        app.exitSelectMode();
+        this.requestStart({
+          bankId: 'virtual_mix_sel',
+          title: `Trộn ${banks.length} bộ đề`,
+          virtual: true,
+          mode,
+          items: banks.flatMap((b) => b.questions.map((q) => ({ src: b.id, q }))),
+          shuffleQ: true,
+          shuffleOpt,
+          limit
+        });
+      }
+
+      /* ---------- Starting a session ---------- */
+
+      /** spec: { bankId, title, virtual, mode, items: [{ src, q }], shuffleQ, shuffleOpt, limit } */
+      async requestStart(spec) {
+        const s = this.sessionSummary();
+        if (s && s.answered > 0) {
           const ok = await ui.confirm({
             title: 'Bắt đầu bài mới?',
-            message: 'Bài đang làm dở sẽ bị hủy và không được lưu.',
+            message: `Bài đang làm dở “${s.title}” (câu ${Math.min(s.cur + 1, s.total)}/${s.total}) sẽ bị bỏ.`,
             confirmText: 'Bắt đầu bài mới',
             danger: true
           });
           if (!ok) return;
         }
-        this.initQuiz(bank, mode, shuffleQ, shuffleOpt);
+        this.begin(spec);
       }
 
-      initQuiz(bank, mode, shuffleQ, shuffleOpt) {
-        this.activeBank = bank;
-        this.mode = mode;
-        this.currentIndex = 0;
-        this.userAnswers = {};
-        this.flagged = new Set();
-        this.eliminated = {};
-        this.elapsedSeconds = 0;
-        this.inProgress = true;
+      buildEntries(items, shuffleQ, shuffleOpt, limit) {
+        let list = shuffleQ ? shuffled(items) : items.slice();
+        if (limit > 0 && limit < list.length) list = list.slice(0, limit);
+        return list.map(({ src, q }) => ({
+          src,
+          q,
+          perm: shuffleOpt ? shuffled(q.options.map((_, i) => i)) : null
+        }));
+      }
 
-        let qList = JSON.parse(JSON.stringify(bank.questions));
-        if (shuffleQ) qList = shuffled(qList);
-
-        if (shuffleOpt) {
-          qList = qList.map((q) => {
-            const perm = shuffled(q.options.map((_, i) => i));
-            const out = { ...q, options: perm.map((i) => q.options[i]), correct: perm.indexOf(q.correct) };
-            if (Array.isArray(q.option_explanations)) out.option_explanations = perm.map((i) => q.option_explanations[i]);
-            return out;
-          });
+      /** Original library/user question + option permutation → the question as shown (never mutates the source). */
+      materialize(entry, virtual) {
+        const { q, perm, src } = entry;
+        const out = { ...q };
+        if (perm) {
+          out.options = perm.map((i) => q.options[i]);
+          out.correct = perm.indexOf(q.correct);
+          if (Array.isArray(q.option_explanations)) out.option_explanations = perm.map((i) => q.option_explanations[i]);
         }
-        this.questions = qList;
+        if (virtual) out._srcBank = src;
+        return out;
+      }
 
+      begin(spec) {
+        const entries = this.buildEntries(spec.items, spec.shuffleQ, spec.shuffleOpt, spec.limit);
+        if (entries.length === 0) return ui.toast('Không có câu hỏi nào để làm.', 'error');
+        this.launch({ bankId: spec.bankId, title: spec.title, virtual: !!spec.virtual, mode: spec.mode }, entries, null);
+      }
+
+      startTimer(elapsed) {
         if (this.timerInterval) clearInterval(this.timerInterval);
-        this.startTime = Date.now();
-        $('quiz-timer-display').textContent = '00:00';
+        this.elapsedSeconds = elapsed;
+        this.startTime = Date.now() - elapsed * 1000;
+        $('quiz-timer-display').textContent = formatDuration(elapsed);
         this.timerInterval = setInterval(() => {
           this.elapsedSeconds = Math.floor((Date.now() - this.startTime) / 1000);
           $('quiz-timer-display').textContent = formatDuration(this.elapsedSeconds);
+          if (this.elapsedSeconds % 15 === 0) this.saveSession();
         }, 1000);
+      }
 
-        $('quiz-bank-title').textContent = bank.title;
+      /** Common path for a fresh session and a resumed one (restore = saved session object). */
+      launch(meta, entries, restore) {
+        this.activeBank = { id: meta.bankId, title: meta.title, virtual: meta.virtual };
+        this.mode = meta.mode;
+        this.entries = entries;
+        this.questions = entries.map((e) => this.materialize(e, meta.virtual));
+        const n = this.questions.length;
+        const r = restore || {};
+        this.currentIndex = Math.min(Math.max(0, Number(r.cur) || 0), n - 1);
+        this.userAnswers = {};
+        Object.entries(r.answers || {}).forEach(([k, v]) => {
+          const q = this.questions[Number(k)];
+          if (q && Number.isInteger(v) && v >= 0 && v < q.options.length) this.userAnswers[Number(k)] = v;
+        });
+        this.flagged = new Set((r.flags || []).filter((i) => Number.isInteger(i) && i >= 0 && i < n));
+        this.eliminated = {};
+        Object.entries(r.struck || {}).forEach(([k, arr]) => {
+          if (this.questions[Number(k)] && Array.isArray(arr)) this.eliminated[Number(k)] = new Set(arr.filter(Number.isInteger));
+        });
+        this.sessionBase = {
+          v: 1,
+          bankId: meta.bankId,
+          title: meta.title,
+          virtual: meta.virtual,
+          mode: meta.mode,
+          total: n,
+          keys: entries.map((e) => qKey(e.src, e.q.id)),
+          perms: entries.map((e) => e.perm || 0)
+        };
+        this.inProgress = true;
+        this.startTimer(Math.max(0, Number(r.elapsed) || 0));
+
+        $('quiz-bank-title').textContent = meta.title;
         const modeBadge = $('quiz-mode-badge');
-        if (mode === 'tutor') {
+        if (meta.mode === 'tutor') {
           modeBadge.textContent = 'Tutor';
           modeBadge.className = 'badge badge-tutor';
         } else {
@@ -1669,6 +2084,72 @@ Câu 2: ..."></textarea>
         app.showTab('quiz');
         this.renderQuestion();
         this.renderMatrix();
+        this.saveSession();
+      }
+
+      /* ---------- Autosave / resume ---------- */
+
+      /** Keys + permutations + answers only (never full questions), so it stays a few KB. */
+      saveSession() {
+        if (!this.inProgress || !this.sessionBase) return;
+        const struck = {};
+        Object.entries(this.eliminated).forEach(([k, set]) => { if (set.size) struck[k] = Array.from(set); });
+        SessionStore.save({
+          ...this.sessionBase,
+          answers: this.userAnswers,
+          struck,
+          flags: Array.from(this.flagged),
+          cur: this.currentIndex,
+          elapsed: this.startTime ? Math.floor((Date.now() - this.startTime) / 1000) : this.elapsedSeconds,
+          saved: Date.now()
+        });
+      }
+
+      /** { bankId, title, cur, total, answered } of the live or saved session, or null. */
+      sessionSummary() {
+        if (this.inProgress && this.activeBank) {
+          return {
+            bankId: this.activeBank.id,
+            title: this.activeBank.title,
+            cur: this.currentIndex,
+            total: this.questions.length,
+            answered: Object.keys(this.userAnswers).length
+          };
+        }
+        const s = SessionStore.load();
+        if (!s) return null;
+        return {
+          bankId: s.bankId,
+          title: s.title || 'Bài chưa đặt tên',
+          cur: Number(s.cur) || 0,
+          total: Number(s.total) || s.keys.length,
+          answered: Object.keys(s.answers || {}).length
+        };
+      }
+
+      /** Rebuild the saved session from the current library / user banks. Returns false (and drops it) if anything is missing. */
+      resumeSaved() {
+        const s = SessionStore.load();
+        if (!s) return false;
+        const cat = Catalog.map();
+        const entries = [];
+        let ok = Array.isArray(s.perms) && s.perms.length === s.keys.length;
+        for (let i = 0; ok && i < s.keys.length; i++) {
+          const { bankId, qid } = splitKey(s.keys[i]);
+          const bank = cat.get(bankId);
+          const q = bank && Catalog.qMap(bank).get(qid);
+          const perm = s.perms[i] || null;
+          if (!q || (perm && (!Array.isArray(perm) || perm.length !== q.options.length))) ok = false;
+          else entries.push({ src: bankId, q, perm });
+        }
+        if (!ok || entries.length === 0) {
+          SessionStore.clear();
+          app.renderBankList();
+          ui.toast('Không khôi phục được bài đang làm dở vì có câu hỏi không còn trong ngân hàng đề. Đã bỏ phiên này.', 'error');
+          return false;
+        }
+        this.launch({ bankId: s.bankId, title: s.title, virtual: !!s.virtual, mode: s.mode === 'exam' ? 'exam' : 'tutor' }, entries, s);
+        return true;
       }
 
       renderHints(n) {
@@ -1731,6 +2212,7 @@ Câu 2: ..."></textarea>
         this.userAnswers[this.currentIndex] = optIdx;
         this.renderQuestion();
         this.renderMatrix();
+        this.saveSession();
         if (refocus) {
           const btn = document.querySelector(`#current-q-options .opt-main[data-idx="${optIdx}"]`);
           if (btn && !btn.disabled) btn.focus({ preventScroll: true });
@@ -1743,6 +2225,7 @@ Câu 2: ..."></textarea>
         if (set.has(optIdx)) set.delete(optIdx);
         else set.add(optIdx);
         this.renderQuestion();
+        this.saveSession();
         const btn = document.querySelector(`#current-q-options [data-strike="${optIdx}"]`);
         if (btn) btn.focus({ preventScroll: true });
       }
@@ -1752,6 +2235,7 @@ Câu 2: ..."></textarea>
         else this.flagged.add(this.currentIndex);
         this.renderQuestion();
         this.renderMatrix();
+        this.saveSession();
       }
 
       scrollToTop() {
@@ -1763,6 +2247,7 @@ Câu 2: ..."></textarea>
           this.currentIndex++;
           this.renderQuestion();
           this.renderMatrix();
+          this.saveSession();
           this.scrollToTop();
         } else {
           this.submitQuiz();
@@ -1774,6 +2259,7 @@ Câu 2: ..."></textarea>
           this.currentIndex--;
           this.renderQuestion();
           this.renderMatrix();
+          this.saveSession();
           this.scrollToTop();
         }
       }
@@ -1782,6 +2268,7 @@ Câu 2: ..."></textarea>
         this.currentIndex = idx;
         this.renderQuestion();
         this.renderMatrix();
+        this.saveSession();
         this.toggleMatrix(false);
         this.scrollToTop();
       }
@@ -1832,6 +2319,7 @@ Câu 2: ..."></textarea>
         this.timerInterval = null;
         this.elapsedSeconds = Math.floor((Date.now() - this.startTime) / 1000);
         this.inProgress = false;
+        SessionStore.clear();
 
         let correctCount = 0;
         this.questions.forEach((q, idx) => {
@@ -1979,22 +2467,55 @@ Câu 2: ..."></textarea>
       }
 
       retakeQuiz() {
-        if (this.activeBank) this.openConfigModal(this.activeBank.id);
+        const att = this.reviewAttempt;
+        if (att && isVirtualId(att.bankId)) {
+          // Virtual sessions (review / mix): re-run the very same question set, taken from the current banks.
+          const cat = Catalog.map();
+          const items = [];
+          (att.questions || []).forEach((q) => {
+            const src = cat.get(q._srcBank);
+            const cur = src && Catalog.qMap(src).get(q.id);
+            if (cur) items.push({ src: src.id, q: cur });
+          });
+          if (items.length === 0) return ui.toast('Các câu của lần làm này không còn trong ngân hàng đề.', 'error');
+          if (items.length < att.questions.length) ui.toast(`Có ${att.questions.length - items.length} câu không còn trong ngân hàng nên được bỏ qua.`);
+          const p = Prefs.get();
+          this.requestStart({
+            bankId: att.bankId,
+            title: att.bankTitle,
+            virtual: true,
+            mode: att.mode === 'exam' ? 'exam' : 'tutor',
+            items,
+            shuffleQ: p.shuffleQuestions,
+            shuffleOpt: p.shuffleOptions,
+            limit: 0
+          });
+          return;
+        }
+        const id = att ? att.bankId : (this.activeBank && this.activeBank.id);
+        if (id) this.openConfigModal(id);
         else app.showTab('banks');
+      }
+
+      /** Stop the running session for good (timer, state and the saved copy). */
+      abort() {
+        if (this.timerInterval) clearInterval(this.timerInterval);
+        this.timerInterval = null;
+        this.inProgress = false;
+        SessionStore.clear();
+        this.toggleMatrix(false);
+        $('nav-quiz').classList.add('hidden');
       }
 
       async exitQuizPrompt() {
         const ok = await ui.confirm({
           title: 'Thoát bài đang làm?',
-          message: 'Tiến trình của bài này sẽ không được lưu.',
+          message: 'Bài làm dở sẽ bị bỏ và không tiếp tục lại được.\nMuốn tạm dừng thì chỉ cần chuyển sang tab khác hoặc đóng trang: bài được lưu để “Tiếp tục”.',
           confirmText: 'Thoát',
           danger: true
         });
         if (!ok) return;
-        if (this.timerInterval) clearInterval(this.timerInterval);
-        this.timerInterval = null;
-        this.inProgress = false;
-        this.toggleMatrix(false);
+        this.abort();
         app.showTab('banks');
       }
     }
@@ -2007,11 +2528,20 @@ Câu 2: ..."></textarea>
         this.quizEngine = new QuizEngine();
         window.quizEngine = this.quizEngine;
         this.bankFilter = '';
+        this.libFilter = 'all';
+        this.selectMode = false;
+        this.selected = new Set();
+        this.hiddenOpen = false;
+        this.pasteDraft = null;
+        const ui0 = readJSON(UI_KEY, null);
+        this.uiState = ui0 && typeof ui0 === 'object' && ui0.collapsed && typeof ui0.collapsed === 'object' ? ui0 : { collapsed: {} };
         this.pendingImport = null; // { raw, bank } – JSON import that keeps rich fields
         this.initKeyboardShortcuts();
       }
 
       init() {
+        Library.load();
+        this.migrateLibraryDuplicates();
         this.quizEngine.bindOptionEvents();
         $('question-matrix-grid').addEventListener('click', (e) => {
           const btn = e.target.closest('[data-q]');
@@ -2020,6 +2550,24 @@ Câu 2: ..."></textarea>
         $('dialog-ok').addEventListener('click', () => ui._settle(true));
         $('dialog-cancel').addEventListener('click', () => ui._settle(false));
         $('dialog-modal').addEventListener('click', (e) => { if (e.target.id === 'dialog-modal') ui._settle(false); });
+        $('bank-list').addEventListener('click', (e) => this.onLibraryClick(e));
+        $('bank-filters').addEventListener('click', (e) => {
+          const btn = e.target.closest('[data-f]');
+          if (btn) this.setLibFilter(btn.dataset.f);
+        });
+        $('bank-search').addEventListener('keydown', (e) => {
+          if (e.key === 'Escape') { e.target.value = ''; this.setBankFilter(''); e.target.blur(); }
+        });
+        this.initImportHandlers();
+        const persist = () => this.quizEngine.saveSession();
+        window.addEventListener('pagehide', persist);
+        window.addEventListener('beforeunload', persist);
+        document.addEventListener('visibilitychange', () => { if (document.hidden) persist(); });
+        window.addEventListener('storage', (e) => {
+          if (e.key === StorageManager.STORAGE_BANKS_KEY) StorageManager._banks = null;
+          if (e.key === StorageManager.STORAGE_HIST_KEY) StorageManager._hist = null;
+          if (!$('tab-banks').classList.contains('hidden')) this.renderBankList();
+        });
         if (window.matchMedia) {
           const mq = window.matchMedia('(prefers-color-scheme: dark)');
           const onChange = (e) => {
@@ -2029,7 +2577,6 @@ Câu 2: ..."></textarea>
           };
           if (mq.addEventListener) mq.addEventListener('change', onChange);
         }
-        this.upsertBundledBanks();
         this.showTab('banks');
       }
 
@@ -2039,55 +2586,64 @@ Câu 2: ..."></textarea>
         try { localStorage.setItem(THEME_KEY, next); } catch (e) { /* ignore */ }
       }
 
-      /** Add / refresh banks shipped in data/bundled_banks.js (window.MCQ_BUNDLED_BANKS). History is never touched. */
-      upsertBundledBanks() {
-        const bundled = Array.isArray(window.MCQ_BUNDLED_BANKS) ? window.MCQ_BUNDLED_BANKS : [];
-        if (bundled.length === 0) return false;
-
-        const isNewer = (a, b) => {
-          if (!a) return false;
-          if (!b) return true;
-          const ta = Date.parse(a);
-          const tb = Date.parse(b);
-          if (!Number.isNaN(ta) && !Number.isNaN(tb)) return ta > tb;
-          return String(a) > String(b);
-        };
-
-        const dismissed = StorageManager.getDismissedBundled();
-        let dismissedChanged = false;
-        const banks = StorageManager.getBanks();
-        const added = [];
-        let changed = false;
-
-        bundled.forEach((src) => {
-          if (!src || !src.id || !Array.isArray(src.questions)) return;
-          const copy = JSON.parse(JSON.stringify(src));
-          const idx = banks.findIndex((b) => b.id === src.id);
-          if (idx < 0 && Object.prototype.hasOwnProperty.call(dismissed, src.id)) {
-            // User deleted this bundled bank: only bring it back for a strictly newer bundled version.
-            if (!isNewer(src.updated, dismissed[src.id])) return;
-            delete dismissed[src.id];
-            dismissedChanged = true;
-          }
-          if (idx < 0) {
-            if (!copy.createdAt) copy.createdAt = copy.updated || new Date().toISOString();
-            added.push(copy);
-            changed = true;
-          } else if (isNewer(src.updated, banks[idx].updated)) {
-            banks[idx] = {
-              ...banks[idx],
-              title: copy.title,
-              description: copy.description,
-              questions: copy.questions,
-              updated: copy.updated
-            };
-            changed = true;
-          }
+      /**
+       * Library banks live in memory and are read-only. A user copy of a library bank is dropped only
+       * when every one of its questions exists unchanged (stem, options, key) in the library version;
+       * that frees the quota the old bundled mechanism used. A user copy with different content is kept:
+       * if it is newer it overrides the library card, otherwise it becomes "<title> (bản của bạn)" with
+       * its own id and its history follows it. The pre-migration banks are saved once to
+       * `medmcq_banks_v1_premigrate`; if that backup cannot be written, nothing is migrated.
+       */
+      migrateLibraryDuplicates() {
+        if (Library.banks.length === 0) return 0;
+        const user = StorageManager.getBanks();
+        const qKey = (q) => JSON.stringify([String(q.text || '').trim(), (q.options || []).map((o) => String(o).trim()), q.correct]);
+        const plan = user.map((u) => {
+          const lib = Library.byId.get(u.id);
+          if (!lib || isNewer(u.updated, lib.updated)) return 'keep';
+          const libKeys = new Set(lib.questions.map(qKey));
+          return (u.questions || []).every((q) => libKeys.has(qKey(q))) ? 'drop' : 'rename';
         });
-
-        if (dismissedChanged) StorageManager.saveDismissedBundled(dismissed);
-        if (changed) StorageManager.saveBanks([...added, ...banks]);
-        return changed;
+        if (plan.some((p) => p !== 'keep')) {
+          const BACKUP_KEY = 'medmcq_banks_v1_premigrate';
+          try {
+            if (localStorage.getItem(BACKUP_KEY) === null) localStorage.setItem(BACKUP_KEY, localStorage.getItem(StorageManager.STORAGE_BANKS_KEY) || '[]');
+          } catch (err) {
+            console.error('Library migration skipped: cannot write backup', err);
+            return 0;
+          }
+          const renamed = {};
+          const keep = [];
+          user.forEach((u, i) => {
+            if (plan[i] === 'drop') return;
+            if (plan[i] === 'rename') {
+              let newId = `${u.id}_ban_cua_ban`;
+              while (Library.byId.has(newId) || user.some((x) => x.id === newId)) newId += '_';
+              renamed[u.id] = newId;
+              keep.push({ ...u, id: newId, title: `${u.title} (bản của bạn)` });
+            } else {
+              keep.push(u);
+            }
+          });
+          try {
+            StorageManager.saveBanks(keep);
+            if (Object.keys(renamed).length) {
+              StorageManager.setHistory(StorageManager.getHistory().map((a) => (renamed[a.bankId] ? { ...a, bankId: renamed[a.bankId] } : a)));
+            }
+          } catch (err) {
+            console.error('Library migration failed', err);
+            return 0;
+          }
+        }
+        const removed = plan.filter((p) => p === 'drop').length;
+        const dismissed = StorageManager.getDismissedBundled();
+        let changed = false;
+        Object.keys(dismissed).forEach((id) => {
+          const lib = Library.byId.get(id);
+          if (!lib || isNewer(lib.updated, dismissed[id])) { delete dismissed[id]; changed = true; }
+        });
+        if (changed) StorageManager.saveDismissedBundled(dismissed);
+        return removed;
       }
 
       showTab(tabName) {
@@ -2117,22 +2673,148 @@ Câu 2: ..."></textarea>
         this.renderBankList();
       }
 
+      setLibFilter(key) {
+        this.libFilter = key;
+        this.renderBankList();
+      }
+
+      /* ---------- Library view ---------- */
+
+      renderResumeBar(sess) {
+        const bar = $('resume-bar');
+        if (!sess) {
+          bar.classList.add('hidden');
+          bar.innerHTML = '';
+          return;
+        }
+        bar.innerHTML = `
+          <div class="resume-text">${icon('play')}<span><b>Đang làm dở:</b> ${esc(sess.title)} — câu ${Math.min(sess.cur + 1, sess.total)}/${sess.total}</span></div>
+          <div class="resume-actions">
+            <button type="button" class="btn btn-primary btn-sm" onclick="app.resumeSession()">Tiếp tục</button>
+            <button type="button" class="btn btn-ghost btn-sm" onclick="app.discardSession()">Bỏ</button>
+          </div>`;
+        bar.classList.remove('hidden');
+      }
+
+      resumeSession() {
+        if (this.quizEngine.inProgress) this.showTab('quiz');
+        else this.quizEngine.resumeSaved();
+      }
+
+      async discardSession() {
+        const ok = await ui.confirm({
+          title: 'Bỏ bài đang làm dở?',
+          message: 'Tiến trình đã làm của bài này sẽ bị xóa và không tiếp tục lại được.',
+          confirmText: 'Bỏ bài',
+          danger: true
+        });
+        if (!ok) return;
+        this.quizEngine.abort();
+        this.renderBankList();
+      }
+
+      bankCardHtml(b, info) {
+        const id = esc(b.id);
+        const lesson = lessonOf(b);
+        const n = b.questions.length;
+        const last = info.last;
+        let meta;
+        if (last) {
+          const d = new Date(last.date);
+          const when = Number.isNaN(d.getTime()) ? '' : ` · ${d.toLocaleDateString('vi-VN')}`;
+          meta = `Gần nhất <b>${last.percent}%</b>${when} · ${info.attempts.length} lần`;
+        } else if (info.seen > 0) {
+          meta = `Đã gặp ${info.seen}/${info.total} câu`;
+        } else {
+          meta = 'Chưa làm lần nào';
+        }
+        const sel = this.selected.has(b.id);
+        const hideLabel = b._lib ? 'Ẩn bộ đề' : 'Xóa bộ đề';
+        const checkbox = this.selectMode
+          ? `<input type="checkbox" class="sel-check" data-act="select" data-id="${id}" aria-label="Chọn để trộn: ${esc(b.title)}"${sel ? ' checked' : ''}>`
+          : '';
+        return `
+          <article class="bank-card${this.selectMode ? ' is-selectable' : ''}${sel ? ' is-selected' : ''}" data-id="${id}">
+            <div class="bank-card-top">
+              <div class="chips">
+                ${checkbox}
+                ${lesson ? `<span class="chip chip-type">${esc(lesson)}</span>` : ''}
+                <span class="chip">${n} câu</span>
+              </div>
+              <div class="bank-actions">
+                <button type="button" class="icon-btn" data-act="export" data-id="${id}" title="Xuất JSON" aria-label="Xuất JSON: ${esc(b.title)}">${icon('download')}</button>
+                <button type="button" class="icon-btn" data-act="exporttxt" data-id="${id}" title="Xuất TXT" aria-label="Xuất TXT: ${esc(b.title)}">${icon('file')}</button>
+                <button type="button" class="icon-btn danger" data-act="delete" data-id="${id}" title="${hideLabel}" aria-label="${hideLabel}: ${esc(b.title)}">${icon(b._lib ? 'eye-off' : 'trash')}</button>
+              </div>
+            </div>
+            <h3 class="bank-title" title="${esc(b.title)}">${esc(displayTitle(b.title, lesson))}</h3>
+            ${b.description ? `<p class="bank-desc">${esc(b.description)}</p>` : ''}
+            <div class="bank-meta">${meta}</div>
+            ${info.wrong.length ? `<button type="button" class="review-pill" data-act="review" data-id="${id}" title="Làm lại các câu lần gần nhất bạn trả lời sai hoặc bỏ trống">${icon('refresh', 'sm')}Ôn ${info.wrong.length} câu sai</button>` : ''}
+            <div class="bank-foot">
+              <button type="button" class="btn btn-primary btn-sm" data-act="study" data-id="${id}" title="Luyện tập: hiện đáp án ngay sau mỗi câu">${icon('play', 'sm')}Luyện</button>
+              <button type="button" class="btn btn-secondary btn-sm" data-act="exam" data-id="${id}" title="Thi thử: có đồng hồ, chỉ xem kết quả khi nộp bài">${icon('clock', 'sm')}Thi</button>
+              <span class="spacer"></span>
+              <button type="button" class="icon-btn" data-act="gear" data-id="${id}" title="Tùy chọn (số câu, xáo trộn…)" aria-label="Tùy chọn làm bài: ${esc(b.title)}">${icon('gear')}</button>
+            </div>
+          </article>`;
+      }
+
       renderBankList() {
         const container = $('bank-list');
-        const banks = StorageManager.getBanks();
-        const history = StorageManager.getHistory();
+        const all = Catalog.all();
+        const banks = all.filter((b) => !b._hidden);
+        const hiddenBanks = all.filter((b) => b._hidden);
+        const sess = this.quizEngine.sessionSummary();
+        const infos = new Map(banks.map((b) => [b.id, Stats.info(b)]));
+        const reviewTotal = banks.reduce((n, b) => n + infos.get(b.id).wrong.length, 0);
+
+        this.renderResumeBar(sess);
+        $('btn-review-all').classList.toggle('hidden', reviewTotal === 0);
+        $('review-all-count').textContent = String(reviewTotal);
+
+        const predicates = {
+          all: () => true,
+          new: (b) => { const i = infos.get(b.id); return i.seen === 0 && i.attempts.length === 0; },
+          doing: (b) => { const i = infos.get(b.id); return !!(sess && sess.bankId === b.id) || (i.seen > 0 && i.seen < i.total); },
+          wrong: (b) => infos.get(b.id).wrong.length > 0
+        };
+        $('bank-filters').innerHTML = LIB_FILTERS.map(([key, label, tip]) => (
+          `<button type="button" data-f="${key}" aria-pressed="${key === this.libFilter}" title="${tip}">${label} <span class="num">${banks.filter(predicates[key]).length}</span></button>`
+        )).join('');
+
+        // hidden library banks
+        $('btn-hidden').classList.toggle('hidden', hiddenBanks.length === 0);
+        $('hidden-count').textContent = String(hiddenBanks.length);
+        if (hiddenBanks.length === 0) this.hiddenOpen = false;
+        $('btn-hidden').setAttribute('aria-expanded', String(this.hiddenOpen));
+        const hp = $('hidden-panel');
+        hp.classList.toggle('hidden', !this.hiddenOpen);
+        hp.innerHTML = this.hiddenOpen ? hiddenBanks.map((b) => `
+          <div class="hidden-row">
+            <span class="hidden-row-title">${lessonOf(b) ? `<span class="chip chip-type">${esc(lessonOf(b))}</span>` : ''}${esc(displayTitle(b.title, lessonOf(b)))}</span>
+            <button type="button" class="btn btn-secondary btn-sm" data-id="${esc(b.id)}" onclick="app.unhideBank(this.dataset.id)">${icon('eye', 'sm')}Hiện lại</button>
+          </div>`).join('') : '';
+
+        // selection (mix) mode
+        const visibleIds = new Set(banks.map((b) => b.id));
+        this.selected.forEach((id) => { if (!visibleIds.has(id)) this.selected.delete(id); });
+        $('btn-select-mode').setAttribute('aria-pressed', String(this.selectMode));
+        $('btn-select-mode').lastElementChild.textContent = this.selectMode ? 'Xong chọn' : 'Chọn nhiều để trộn';
+        this.updateSelectBar();
+
         const q = normalizeSearch(this.bankFilter.trim());
-        const shown = q
-          ? banks.filter((b) => normalizeSearch(`${b.title} ${b.description || ''}`).includes(q))
-          : banks;
+        const total = banks.length;
+        const shown = banks.filter((b) => predicates[this.libFilter](b)
+          && (!q || normalizeSearch(`${b.title} ${b.description || ''} ${lessonOf(b)}`).includes(q)));
+        const totalQ = banks.reduce((n, b) => n + b.questions.length, 0);
+        $('bank-count').textContent = shown.length === total ? `${total} bộ đề · ${totalQ} câu` : `${shown.length} / ${total} bộ đề`;
 
-        $('bank-count').textContent = q ? `${shown.length} / ${banks.length} bộ đề` : `${banks.length} bộ đề`;
-
-        if (banks.length === 0) {
+        if (total === 0) {
           container.innerHTML = `
             <div class="empty">
               <h3>Chưa có ngân hàng câu hỏi nào</h3>
-              <p>Dán câu hỏi từ văn bản hoặc tải file JSON để tạo bộ đề đầu tiên.</p>
+              <p>Kéo thả file .json / .txt vào cửa sổ này, dán (Ctrl+V) nội dung câu hỏi, hoặc thả file JSON vào thư mục <code>data/</code> rồi chạy <code>CAP_NHAT.bat</code>.</p>
               <button type="button" class="btn btn-primary" onclick="app.showTab('create')">${icon('plus')}Nhập câu hỏi</button>
             </div>`;
           return;
@@ -2141,46 +2823,335 @@ Câu 2: ..."></textarea>
           container.innerHTML = `
             <div class="empty">
               <h3>Không có bộ đề phù hợp</h3>
-              <p>Không tìm thấy bộ đề nào khớp với “${esc(this.bankFilter.trim())}”.</p>
+              <p>${q ? `Không tìm thấy bộ đề nào khớp với “${esc(this.bankFilter.trim())}”${this.libFilter !== 'all' ? ' trong bộ lọc này' : ''}.` : 'Chưa có bộ đề nào thuộc bộ lọc này.'}</p>
             </div>`;
           return;
         }
 
-        container.innerHTML = shown.map((bank, i) => {
-          const questions = bank.questions || [];
-          const topics = new Set(questions.map((x) => x.topic).filter(Boolean)).size;
-          const rich = questions.some(hasOptionExplanations);
-          const attempts = history.filter((h) => h.bankId === bank.id);
-          const created = new Date(bank.createdAt || bank.updated);
-          const dateText = Number.isNaN(created.getTime()) ? '' : created.toLocaleDateString('vi-VN');
-          const progress = attempts.length
-            ? `Gần nhất <b>${attempts[0].percent}%</b> · ${attempts.length} lần`
-            : (dateText || 'Chưa làm lần nào');
-          const id = esc(bank.id);
+        const groups = new Map();
+        shown.forEach((b) => {
+          const g = b.group || USER_GROUP;
+          if (!groups.has(g)) groups.set(g, []);
+          groups.get(g).push(b);
+        });
+        const forceOpen = !!q || this.libFilter !== 'all';
+        container.innerHTML = Array.from(groups.keys()).sort(compareGroups).map((g) => {
+          const list = groups.get(g).sort(compareBanks);
+          const pool = banks.filter((b) => (b.group || USER_GROUP) === g).reduce((n, b) => n + b.questions.length, 0);
+          const collapsed = !forceOpen && !!this.uiState.collapsed[g];
+          const qs = list.reduce((n, b) => n + b.questions.length, 0);
           return `
-            <article class="bank-card" style="--i:${i}">
-              <div class="bank-card-body">
-                <div style="display:flex;align-items:flex-start;justify-content:space-between;gap:12px">
-                  <div class="chips">
-                    <span class="chip chip-type">${questions.length} câu</span>
-                    ${topics ? `<span class="chip">${topics} chủ đề</span>` : ''}
-                    ${rich ? '<span class="chip" title="Mỗi phương án có giải thích riêng">Giải thích từng đáp án</span>' : ''}
-                  </div>
-                  <div class="bank-actions">
-                    <button type="button" class="icon-btn" data-id="${id}" onclick="app.exportSingleBank(this.dataset.id)" title="Xuất JSON" aria-label="Xuất JSON: ${esc(bank.title)}">${icon('download')}</button>
-                    <button type="button" class="icon-btn" data-id="${id}" onclick="app.exportSingleBankTxt(this.dataset.id)" title="Xuất TXT" aria-label="Xuất TXT: ${esc(bank.title)}">${icon('file')}</button>
-                    <button type="button" class="icon-btn danger" data-id="${id}" onclick="app.deleteBank(this.dataset.id)" title="Xóa bộ đề" aria-label="Xóa bộ đề: ${esc(bank.title)}">${icon('trash')}</button>
-                  </div>
-                </div>
-                <h3 class="bank-title">${esc(bank.title)}</h3>
-                <p class="bank-desc">${esc(bank.description || 'Chưa có mô tả')}</p>
+            <section class="lib-group${collapsed ? ' is-collapsed' : ''}">
+              <div class="lib-group-head">
+                <button type="button" class="lib-group-toggle" data-act="toggle-group" data-group="${esc(g)}" aria-expanded="${!collapsed}">
+                  ${icon('chevron')}<h2>${esc(g)}</h2><span class="lib-group-count">${list.length} bộ · ${qs} câu</span>
+                </button>
+                <button type="button" class="btn btn-secondary btn-sm" data-act="mix-group" data-group="${esc(g)}" title="Thi thử 20 câu ngẫu nhiên lấy từ tất cả bộ đề của nhóm này">${icon('shuffle', 'sm')}Trộn ${Math.min(20, pool)} câu</button>
               </div>
-              <div class="bank-foot">
-                <span class="bank-foot-meta">${progress}</span>
-                <button type="button" class="btn btn-primary btn-sm" data-id="${id}" onclick="quizEngine.openConfigModal(this.dataset.id)">Làm bài${icon('arrow-right', 'sm')}</button>
-              </div>
-            </article>`;
+              <div class="bank-grid">${list.map((b) => this.bankCardHtml(b, infos.get(b.id))).join('')}</div>
+            </section>`;
         }).join('');
+      }
+
+      onLibraryClick(e) {
+        const act = e.target.closest('[data-act]');
+        const card = e.target.closest('.bank-card');
+        if (!act) {
+          if (card && this.selectMode) this.toggleSelect(card.dataset.id);
+          return;
+        }
+        const id = act.dataset.id || (card ? card.dataset.id : '');
+        switch (act.dataset.act) {
+          case 'study': this.quickStart(id, 'tutor'); break;
+          case 'exam': this.quickStart(id, 'exam'); break;
+          case 'gear': this.quizEngine.openConfigModal(id); break;
+          case 'review': this.startReview(id); break;
+          case 'export': this.exportSingleBank(id); break;
+          case 'exporttxt': this.exportSingleBankTxt(id); break;
+          case 'delete': this.deleteBank(id); break;
+          case 'select': this.toggleSelect(id, act.checked); break;
+          case 'toggle-group': this.toggleGroup(act.dataset.group); break;
+          case 'mix-group': this.startMixGroup(act.dataset.group); break;
+          default: break;
+        }
+      }
+
+      toggleGroup(group) {
+        this.uiState.collapsed[group] = !this.uiState.collapsed[group];
+        writeJSON(UI_KEY, this.uiState);
+        this.renderBankList();
+      }
+
+      toggleHiddenPanel() {
+        this.hiddenOpen = !this.hiddenOpen;
+        this.renderBankList();
+      }
+
+      unhideBank(id) {
+        const dismissed = StorageManager.getDismissedBundled();
+        delete dismissed[id];
+        StorageManager.saveDismissedBundled(dismissed);
+        this.renderBankList();
+      }
+
+      /* ---------- Selection / mix ---------- */
+
+      toggleSelectMode() {
+        this.selectMode = !this.selectMode;
+        this.selected.clear();
+        this.renderBankList();
+      }
+
+      exitSelectMode() {
+        if (!this.selectMode) return;
+        this.selectMode = false;
+        this.selected.clear();
+        this.renderBankList();
+      }
+
+      toggleSelect(id, force) {
+        const on = typeof force === 'boolean' ? force : !this.selected.has(id);
+        if (on) this.selected.add(id);
+        else this.selected.delete(id);
+        const card = $('bank-list').querySelector(`.bank-card[data-id="${CSS.escape(id)}"]`);
+        if (card) {
+          card.classList.toggle('is-selected', on);
+          const box = card.querySelector('.sel-check');
+          if (box) box.checked = on;
+        }
+        this.updateSelectBar();
+      }
+
+      updateSelectBar() {
+        const bar = $('select-bar');
+        bar.classList.toggle('hidden', !this.selectMode);
+        if (!this.selectMode) return;
+        const cat = Catalog.map();
+        const picked = Array.from(this.selected).map((id) => cat.get(id)).filter(Boolean);
+        const qs = picked.reduce((n, b) => n + b.questions.length, 0);
+        $('select-bar-label').textContent = picked.length ? `Đã chọn ${picked.length} bộ` : 'Tick vào các bộ đề cần trộn';
+        const go = $('select-bar-go');
+        go.disabled = picked.length === 0;
+        go.textContent = picked.length ? `Trộn ${picked.length} bộ — ${qs} câu` : 'Trộn đề';
+      }
+
+      startMixSelected() {
+        this.quizEngine.openMixModal(Array.from(this.selected));
+      }
+
+      startMixGroup(group) {
+        const banks = Catalog.visible().filter((b) => (b.group || USER_GROUP) === group);
+        const items = banks.flatMap((b) => b.questions.map((q) => ({ src: b.id, q })));
+        if (items.length === 0) return ui.toast('Nhóm này chưa có câu hỏi.', 'error');
+        const n = Math.min(20, items.length);
+        this.quizEngine.requestStart({
+          bankId: 'virtual_mix_' + slugify(group),
+          title: `Trộn ${group} (${n} câu)`,
+          virtual: true,
+          mode: 'exam',
+          items,
+          shuffleQ: true,
+          shuffleOpt: Prefs.get().shuffleOptions,
+          limit: 20
+        });
+      }
+
+      /* ---------- One-click start & error review ---------- */
+
+      quickStart(bankId, mode) {
+        const bank = Catalog.get(bankId);
+        if (!bank || !bank.questions.length) return ui.toast('Bộ câu hỏi này chưa có câu nào.', 'error');
+        const p = Prefs.get();
+        this.quizEngine.requestStart({
+          bankId: bank.id,
+          title: bank.title,
+          virtual: false,
+          mode,
+          items: bank.questions.map((q) => ({ src: bank.id, q })),
+          shuffleQ: p.shuffleQuestions,
+          shuffleOpt: p.shuffleOptions,
+          limit: p.questionLimit
+        });
+      }
+
+      startReview(bankId) {
+        const bank = Catalog.get(bankId);
+        if (!bank) return;
+        const wrong = new Set(Stats.info(bank).wrong);
+        const items = bank.questions.filter((q) => wrong.has(q.id)).map((q) => ({ src: bank.id, q }));
+        if (items.length === 0) return ui.toast('Không còn câu sai nào cần ôn trong bộ này.', 'ok');
+        const p = Prefs.get();
+        this.quizEngine.requestStart({
+          bankId: 'virtual_review_' + bank.id,
+          title: `Ôn câu sai: ${bank.title}`,
+          virtual: true,
+          mode: 'tutor',
+          items,
+          shuffleQ: p.shuffleQuestions,
+          shuffleOpt: p.shuffleOptions,
+          limit: 0
+        });
+      }
+
+      startReviewAll() {
+        const items = [];
+        Catalog.visible().forEach((b) => {
+          const wrong = new Set(Stats.info(b).wrong);
+          b.questions.forEach((q) => { if (wrong.has(q.id)) items.push({ src: b.id, q }); });
+        });
+        if (items.length === 0) return ui.toast('Không còn câu sai nào cần ôn.', 'ok');
+        const p = Prefs.get();
+        this.quizEngine.requestStart({
+          bankId: 'virtual_review',
+          title: 'Ôn câu sai',
+          virtual: true,
+          mode: 'tutor',
+          items,
+          shuffleQ: p.shuffleQuestions,
+          shuffleOpt: p.shuffleOptions,
+          limit: 0
+        });
+      }
+
+      /* ---------- Zero-friction import: drag & drop, paste ---------- */
+
+      initImportHandlers() {
+        const overlay = $('drop-overlay');
+        const hasFiles = (e) => !!e.dataTransfer && Array.from(e.dataTransfer.types || []).includes('Files');
+        let depth = 0;
+        const hide = () => { depth = 0; overlay.classList.remove('is-on'); };
+        window.addEventListener('dragenter', (e) => {
+          if (!hasFiles(e)) return;
+          e.preventDefault();
+          depth++;
+          overlay.classList.add('is-on');
+        });
+        window.addEventListener('dragover', (e) => {
+          if (!hasFiles(e)) return;
+          e.preventDefault();
+          e.dataTransfer.dropEffect = 'copy';
+        });
+        window.addEventListener('dragleave', (e) => {
+          if (!hasFiles(e)) return;
+          depth = Math.max(0, depth - 1);
+          if (depth === 0 || e.relatedTarget === null) hide();
+        });
+        window.addEventListener('drop', (e) => {
+          if (!hasFiles(e)) return;
+          e.preventDefault();
+          hide();
+          this.importFiles(Array.from(e.dataTransfer.files));
+        });
+        window.addEventListener('dragend', hide);
+
+        document.addEventListener('paste', (e) => {
+          if ($('tab-banks').classList.contains('hidden') || Overlay.topOpen()) return;
+          const el = document.activeElement;
+          if (el && (['INPUT', 'TEXTAREA', 'SELECT'].includes(el.tagName) || el.isContentEditable)) return;
+          const text = e.clipboardData ? e.clipboardData.getData('text') : '';
+          if (!text || !text.trim()) return;
+          e.preventDefault();
+          this.handlePaste(text);
+        });
+
+        $('paste-panel').addEventListener('keydown', (e) => {
+          if (e.key === 'Enter' && e.target.id === 'paste-title') { e.preventDefault(); this.confirmPaste(); }
+          else if (e.key === 'Escape') { e.preventDefault(); this.cancelPaste(); }
+        });
+      }
+
+      async importFiles(files) {
+        const banks = [];
+        const failed = [];
+        let skipped = 0;
+        for (const file of files) {
+          if (!/\.(json|txt)$/i.test(file.name)) { skipped++; continue; }
+          try {
+            const text = (await file.text()).replace(/^\uFEFF/, '');
+            const found = parseImport(text, file.name);
+            if (found.length === 0) failed.push(file.name);
+            else banks.push(...found);
+          } catch (err) {
+            console.error(err);
+            failed.push(file.name);
+          }
+        }
+        if (skipped) ui.toast(`Bỏ qua ${skipped} file không phải .json / .txt.`, 'error');
+        if (failed.length) ui.toast(`Không nhận diện được câu hỏi trong: ${failed.join(', ')}`, 'error');
+        if (banks.length) this.commitImport(banks);
+      }
+
+      commitImport(banks) {
+        const user = StorageManager.getBanks();
+        const next = user.slice();
+        const replaced = [];
+        banks.forEach((b) => {
+          const i = next.findIndex((x) => x.id === b.id);
+          if (i >= 0) { replaced.push(next[i]); next[i] = b; }
+          else next.push(b);
+        });
+        try {
+          StorageManager.saveBanks(next);
+        } catch (err) {
+          console.error(err);
+          ui.toast('Bộ nhớ trình duyệt đã đầy nên không lưu được. Hãy xóa bớt đề tự nhập hoặc lịch sử cũ.', 'error');
+          return false;
+        }
+        const ids = new Set(banks.map((b) => b.id));
+        const qs = banks.reduce((n, b) => n + b.questions.length, 0);
+        ui.toast(`Đã nhập ${banks.length} bộ (${qs} câu)${replaced.length ? ` · thay ${replaced.length} bộ trùng mã` : ''}`, 'ok', {
+          life: 10000,
+          action: { label: 'Hoàn tác', run: () => this.undoImport(ids, replaced) }
+        });
+        if (!$('tab-banks').classList.contains('hidden')) this.renderBankList();
+        return true;
+      }
+
+      undoImport(ids, replaced) {
+        const next = StorageManager.getBanks().filter((b) => !ids.has(b.id));
+        replaced.forEach((b) => next.push(b));
+        try {
+          StorageManager.saveBanks(next);
+          ui.toast('Đã hoàn tác lần nhập.', 'ok');
+        } catch (err) {
+          ui.toast('Không hoàn tác được: ' + err.message, 'error');
+        }
+        if (!$('tab-banks').classList.contains('hidden')) this.renderBankList();
+      }
+
+      handlePaste(text) {
+        const banks = parseImport(text, '');
+        if (banks.length === 0) {
+          ui.toast('Nội dung vừa dán không có câu hỏi nào nhận diện được (cần dạng “Câu 1: … A. … Đáp án: …”).', 'error');
+          return;
+        }
+        this.pasteDraft = banks;
+        const nq = banks.reduce((n, b) => n + b.questions.length, 0);
+        const single = banks.length === 1;
+        const panel = $('paste-panel');
+        panel.innerHTML = `
+          <span class="paste-info">${icon('file')}<span>Nhận diện được <b>${nq} câu hỏi</b>${single ? '' : ` trong ${banks.length} bộ`}.</span></span>
+          ${single ? `<input id="paste-title" class="input" type="text" value="${esc(banks[0].title)}" aria-label="Tên bộ đề" autocomplete="off">` : ''}
+          <button type="button" class="btn btn-primary btn-sm" onclick="app.confirmPaste()">Lưu bộ đề</button>
+          <button type="button" class="btn btn-ghost btn-sm" onclick="app.cancelPaste()">Hủy</button>`;
+        panel.classList.remove('hidden');
+        const input = $('paste-title');
+        if (input) { input.focus(); input.select(); }
+      }
+
+      confirmPaste() {
+        const banks = this.pasteDraft;
+        if (!banks) return;
+        const input = $('paste-title');
+        if (input && banks.length === 1) banks[0].title = input.value.trim() || banks[0].title;
+        this.cancelPaste();
+        this.commitImport(banks);
+      }
+
+      cancelPaste() {
+        this.pasteDraft = null;
+        $('paste-panel').classList.add('hidden');
+        $('paste-panel').innerHTML = '';
       }
 
       renderHistory() {
@@ -2228,7 +3199,6 @@ Câu 2: ..."></textarea>
       viewPastAttempt(index) {
         const attempt = StorageManager.getHistory()[index];
         if (!attempt) return ui.toast('Không tìm thấy lượt làm bài này.', 'error');
-        this.quizEngine.activeBank = { id: attempt.bankId, title: attempt.bankTitle };
         this.quizEngine.renderResultScreen(attempt);
       }
 
@@ -2381,10 +3351,11 @@ Giải thích: Cortisol huyết tương sáng sớm giảm sâu (< 2 mcg/dL ho�
               confirmText: 'Nạp vào ứng dụng'
             });
             if (ok) {
+              const incoming = bankList.map((b) => (Library.byId.has(b.id) ? { ...b, id: newBankId() } : b));
               let currentBanks = StorageManager.getBanks();
-              const newBankIds = new Set(bankList.map((b) => b.id));
+              const newBankIds = new Set(incoming.map((b) => b.id));
               currentBanks = currentBanks.filter((b) => !newBankIds.has(b.id));
-              bankList.forEach((b) => currentBanks.push(b));
+              incoming.forEach((b) => currentBanks.push(b));
               StorageManager.saveBanks(currentBanks);
               ui.toast(`Đã nạp ${bankList.length} bộ đề (${totalQ} câu hỏi).`, 'ok');
               this.showTab('banks');
@@ -2435,13 +3406,14 @@ Giải thích: Cortisol huyết tương sáng sớm giảm sâu (< 2 mcg/dL ho�
       }
 
       exportSingleBank(bankId) {
-        const bank = StorageManager.getBanks().find((b) => b.id === bankId);
+        const bank = Catalog.get(bankId);
         if (!bank) return;
-        this.downloadBlob(JSON.stringify(bank, null, 2), 'application/json', `${safeFileName(bank.title)}.json`);
+        const { _lib, _hidden, ...clean } = bank;
+        this.downloadBlob(JSON.stringify(clean, null, 2), 'application/json', `${safeFileName(bank.title)}.json`);
       }
 
       exportSingleBankTxt(bankId) {
-        const bank = StorageManager.getBanks().find((b) => b.id === bankId);
+        const bank = Catalog.get(bankId);
         if (!bank) return;
         const hasRich = (bank.questions || []).some(hasOptionExplanations);
         this.downloadBlob(McqParser.toRawText(bank.questions || []), 'text/plain;charset=utf-8', `${safeFileName(bank.title)}.txt`);
@@ -2449,7 +3421,9 @@ Giải thích: Cortisol huyết tương sáng sớm giảm sâu (< 2 mcg/dL ho�
       }
 
       exportAllBanks() {
-        this.downloadBlob(JSON.stringify(StorageManager.getBanks(), null, 2), 'application/json', `medmcq_all_banks_${Date.now()}.json`);
+        const banks = StorageManager.getBanks();
+        if (banks.length === 0) return ui.toast('Chưa có đề tự nhập nào để sao lưu. Bộ đề thư viện nằm sẵn trong thư mục data/.', 'error');
+        this.downloadBlob(JSON.stringify(banks, null, 2), 'application/json', `medmcq_all_banks_${Date.now()}.json`);
       }
 
       exportHistoryJson() {
@@ -2457,21 +3431,31 @@ Giải thích: Cortisol huyết tương sáng sớm giảm sâu (< 2 mcg/dL ho�
       }
 
       async deleteBank(bankId) {
-        const bank = StorageManager.getBanks().find((b) => b.id === bankId);
-        const ok = await ui.confirm({
-          title: 'Xóa bộ đề này?',
-          message: bank ? `“${bank.title}” sẽ bị xóa khỏi ngân hàng đề. Lịch sử làm bài không bị ảnh hưởng.` : 'Bộ đề sẽ bị xóa.',
-          confirmText: 'Xóa bộ đề',
-          danger: true
-        });
-        if (!ok) return;
-        const bundledSrc = (Array.isArray(window.MCQ_BUNDLED_BANKS) ? window.MCQ_BUNDLED_BANKS : []).find((b) => b && b.id === bankId);
-        if (bundledSrc) {
+        const bank = Catalog.get(bankId);
+        if (!bank) return;
+        if (bank._lib) {
+          const ok = await ui.confirm({
+            title: 'Ẩn bộ đề này?',
+            message: `“${bank.title}” thuộc thư viện (chỉ đọc) nên sẽ được ẩn khỏi danh sách. Bấm “Đã ẩn” để hiện lại; lịch sử làm bài không bị ảnh hưởng.`,
+            confirmText: 'Ẩn bộ đề',
+            danger: true
+          });
+          if (!ok) return;
           const dismissed = StorageManager.getDismissedBundled();
-          dismissed[bankId] = bundledSrc.updated || '';
+          dismissed[bankId] = bank.updated || '';
           StorageManager.saveDismissedBundled(dismissed);
+        } else {
+          const libNote = Library.byId.has(bankId) ? '\nBản cùng mã trong thư viện sẽ hiện lại.' : '';
+          const ok = await ui.confirm({
+            title: 'Xóa bộ đề này?',
+            message: `“${bank.title}” sẽ bị xóa khỏi ngân hàng đề. Lịch sử làm bài không bị ảnh hưởng.${libNote}`,
+            confirmText: 'Xóa bộ đề',
+            danger: true
+          });
+          if (!ok) return;
+          this.selected.delete(bankId);
+          StorageManager.saveBanks(StorageManager.getBanks().filter((b) => b.id !== bankId));
         }
-        StorageManager.saveBanks(StorageManager.getBanks().filter((b) => b.id !== bankId));
         this.renderBankList();
       }
 
@@ -2516,8 +3500,8 @@ Giải thích: Cortisol huyết tương sáng sớm giảm sâu (< 2 mcg/dL ho�
                 });
                 if (ok) {
                   StorageManager.saveBanks(data.banks);
-                  if (data.history) localStorage.setItem(StorageManager.STORAGE_HIST_KEY, JSON.stringify(data.history));
-                  this.upsertBundledBanks();
+                  if (data.history) StorageManager.setHistory(data.history);
+                  this.migrateLibraryDuplicates();
                   this.renderBankList();
                   this.renderHistory();
                   StorageManager.updateSyncUI('synced', `File: ${handle.name}`);
@@ -2568,6 +3552,17 @@ Giải thích: Cortisol huyết tương sáng sớm giảm sâu (< 2 mcg/dL ho�
             } else if (e.key === 'Tab') {
               Overlay.trap(overlay, e);
             }
+            return;
+          }
+
+          // "/" jumps to the library search (only when not typing)
+          if (e.key === '/' && !e.ctrlKey && !e.metaKey && !e.altKey && !$('tab-banks').classList.contains('hidden')) {
+            const t = document.activeElement && document.activeElement.tagName;
+            if (['INPUT', 'TEXTAREA', 'SELECT'].includes(t) || (document.activeElement && document.activeElement.isContentEditable)) return;
+            e.preventDefault();
+            const search = $('bank-search');
+            search.focus();
+            search.select();
             return;
           }
 
