@@ -1,0 +1,1460 @@
+{
+  "id": "bank_im53b_buou_giap_full",
+  "title": "IM-53b: Bướu Giáp Đơn Thuần (Trọn Bộ 121 Câu Lý Thuyết & Case Lâm Sàng)",
+  "description": "Ngân hàng quy mô cực lớn gồm 10 ca lâm sàng chuyên sâu kèm 111 câu hỏi trắc nghiệm bao phủ 100% từng ngóc ngách lý thuyết, phân tử, thụ thể, chẩn đoán và điều trị của bài học.",
+  "createdAt": "2026-09-05T16:42:11.221929+00:00",
+  "questions": [
+    {
+      "id": "bg_case_01",
+      "text": "Nữ sinh viên 19 tuổi, sống ở vùng núi cao Hà Giang, đến khám vì vùng cổ trước to dần trong 2 năm nay. Không hồi hộp, không run tay, không sụt cân, chu kỳ kinh nguyệt đều. Khám: Tuyến giáp to lan tỏa độ 2, mật độ mềm, ranh giới rõ, không đau, không có rung miu hay tiếng thổi tâm thu. Xét nghiệm: FT4 0.85 ng/dL (giới hạn dưới bình thường), FT3 3.1 pg/mL (bình thường), TSH 2.1 mIU/L (bình thường), Anti-TPO âm tính. Siêu âm: Tuyến giáp phì đại đồng nhất, không có nhân. Chẩn đoán xác định là:",
+      "options": [
+        "Bệnh Basedow giai đoạn sớm",
+        "Bướu giáp đơn thuần thể lan tỏa (Bướu cổ địa phương do thiếu Iod)",
+        "Viêm tuyến giáp bán cấp de Quervain",
+        "Ung thư tuyến giáp thể tủy di căn hạch cổ"
+      ],
+      "correct": 1,
+      "explanation": "Bệnh nhân trẻ tuổi, ở vùng núi cao thiếu iod, bướu to lan tỏa mềm, không đau, không tiếng thổi mạch, chức năng tuyến giáp hoàn toàn bình giáp (TSH và FT3 bình thường), tự kháng thể âm tính. Đây là hình thái kinh điển của Bướu giáp đơn thuần thể lan tỏa do thiếu iod địa phương."
+    },
+    {
+      "id": "bg_case_02",
+      "text": "Bệnh nhân nam 62 tuổi, có bướu cổ từ hơn 20 năm nay không điều trị. Gần đây xuất hiện khó thở tăng lên khi nằm ngửa hoặc khi giơ tay quét trần nhà, kèm theo giọng nói khàn nhẹ. Khi bác sĩ yêu cầu bệnh nhân giơ thẳng hai tay áp sát tai trong 1 phút, thấy mặt bệnh nhân đỏ bừng, sau đó tím tái, tĩnh mạch cổ nổi to căng phồng và nghe thấy tiếng thở rít khí quản. Tên nghiệm pháp này là gì và biểu hiện gì?",
+      "options": [
+        "Dấu hiệu Trousseau -> Biểu hiện hạ canxi máu",
+        "Nghiệm pháp Pemberton dương tính -> Chỉ điểm bướu giáp phát triển chìm sau xương ức vào trung thất chèn ép cửa vào lồng ngực",
+        "Dấu hiệu Chvostek -> Kích thích dây thần kinh mặt",
+        "Nghiệm pháp Valsalva -> Đánh giá suy tim sung huyết"
+      ],
+      "correct": 1,
+      "explanation": "Đây là Nghiệm pháp Pemberton kinh điển. Khi giơ 2 tay lên cao, bướu giáp bị kéo tụt xuống chèn chặt vào lỗ mở trên lồng ngực (thoracic inlet), ép vào tĩnh mạch dưới đòn và khí quản, gây ứ trệ tuần hoàn tĩnh mạch đầu mặt cổ và hẹp đường thở. Chỉ định chụp CT ngực và phẫu thuật giải áp."
+    },
+    {
+      "id": "bg_case_03",
+      "text": "Bệnh nhân nữ 45 tuổi có bướu giáp đa nhân 10 năm nay. Sáng nay đột ngột xuất hiện một khối to nhanh ở thùy phải tuyến giáp chỉ trong vòng 3 giờ, kèm đau nhức dữ dội tại chỗ lan lên góc hàm và nuốt nghẹn. Sờ thấy khối căng tròn, rất đau, không sốt, không đỏ da. Siêu âm thấy một nang kích thước 4x3 cm có dịch hồi âm không đồng nhất dạng máu cục. Chẩn đoán biến chứng cấp tính là:",
+      "options": [
+        "Chuyển dạng ung thư giáp anaplastic ác tính",
+        "Xuất huyết cấp tính trong lòng nang bướu giáp (Intrathyroidal hemorrhage)",
+        "Viêm tuyến giáp nhiễm khuẩn sinh mủ cấp tính",
+        "Vỡ tĩnh mạch cảnh trong tự nhiên"
+      ],
+      "correct": 1,
+      "explanation": "Đặc trưng của xuất huyết trong nang bướu giáp: Khối bướu to nhanh đột ngột trong vài giờ, đau nhức dữ dội cục bộ do bao tuyến giáp bị kéo căng cấp tính, hình ảnh siêu âm điển hình là nang chứa dịch hồi âm không đồng nhất của khối máu tụ. Xử trí thường là chọc hút dịch máu giải áp dưới hướng dẫn siêu âm."
+    },
+    {
+      "id": "bg_case_04",
+      "text": "Bà cụ 72 tuổi, có bướu giáp đa nhân kích thước lớn nhiều năm nay. Tuần trước bà đi chụp mạch vành có tiêm thuốc cản quang chứa lượng lớn Iod. Sau đó 5 ngày, bà xuất hiện hồi hộp, tim đập nhanh 120 ck/phút, run tay, vã mồ hôi, sụt cân. Xét nghiệm: TSH < 0.01 mIU/L, FT4 tăng vọt 3.8 ng/dL. Biến chứng này được gọi là gì trong y khoa?",
+      "options": [
+        "Hiệu ứng Wolff-Chaikoff",
+        "Hiệu ứng Jod-Basedow (Nhiễm độc giáp do nạp lượng lớn Iod trên nền bướu giáp nhân tự chủ)",
+        "Cơn bão giáp do ngộ độc thuốc cản quang",
+        "Suy tim ứ huyết thứ phát sau chụp mạch"
+      ],
+      "correct": 1,
+      "explanation": "Bệnh nhân bướu giáp đa nhân lâu năm thường có các nhân tự chủ chức năng (autonomous nodules) không chịu sự kiểm soát của TSH. Khi tiêm thuốc cản quang chứa hàng nghìn mcg Iod, các nhân này thu nạp lượng lớn nguyên liệu và sản xuất ồ ạt hormone giáp, gây bùng phát nhiễm độc giáp (Hiệu ứng Jod-Basedow)."
+    },
+    {
+      "id": "bg_case_05",
+      "text": "Một phụ nữ 28 tuổi mang thai 12 tuần sống ở vùng dịch tễ bướu cổ. Bác sĩ tư vấn về tầm quan trọng của việc bổ sung Iod trong thai kỳ để phòng ngừa biến chứng nặng nề nhất cho đứa trẻ sinh ra là:",
+      "options": [
+        "Dị tật tim bẩm sinh tứ chứng Fallot",
+        "Tổn thương não bộ vĩnh viễn gây đần độn (Cretinism bẩm sinh do thiếu Iod) và câm điếc thần kinh",
+        "Bệnh teo cơ tủy bẩm sinh",
+        "Bệnh xơ nang tụy bẩm sinh"
+      ],
+      "correct": 1,
+      "explanation": "Thiếu hụt Iod nặng trong thai kỳ làm tuyến giáp của cả mẹ và thai nhi không tổng hợp đủ hormone giáp cho quá trình phát triển tế bào thần kinh và ốc tai. Hậu quả là trẻ sinh ra bị hội chứng đần độn do thiếu Iod (Endemic Cretinism) với chậm phát triển trí tuệ nặng, câm điếc và lùn thể tạng."
+    },
+    {
+      "id": "bg_case_06",
+      "text": "Bệnh nhân nữ 32 tuổi có bướu giáp đơn thuần lan tỏa độ 2 ảnh hưởng thẩm mỹ, TSH 2.5 mIU/L. Bác sĩ quyết định điều trị nội khoa bằng liệu pháp ức chế TSH (TSH suppression therapy) bằng Levothyroxine. Mục tiêu TSH cần đạt để bướu nhỏ lại là:",
+      "options": [
+        "TSH hoàn toàn bằng 0 (< 0.01 mIU/L)",
+        "TSH ở mức giới hạn dưới bình thường: khoảng 0.1 - 0.5 mIU/L",
+        "TSH duy trì ở mức cao 5.0 - 10.0 mIU/L",
+        "Không cần đo TSH, chỉ cần đo thể tích bướu"
+      ],
+      "correct": 1,
+      "explanation": "Liệu pháp ức chế TSH trong bướu giáp đơn thuần nhằm mục đích đưa TSH về mức 0.1 - 0.5 mIU/L để cắt giảm yếu tố kích thích tăng trưởng tuyến giáp mà không gây nhiễm độc giáp trên lâm sàng.\n⚠️ CẢNH BÁO GUIDELINE CẬP NHẬT (ATA / ETA): Hiện nay liệu pháp ức chế TSH KHÔNG CÒN ĐƯỢC KHUYẾN CÁO THƯỜNG QUY cho bướu giáp đơn thuần do: (1) Hiệu quả giảm thể tích bướu chỉ đạt khiêm tốn ~20 - 30% và bướu to lại nhanh chóng sau khi ngừng thuốc; (2) Tăng nguy cơ loãng xương, mất chất khoáng xương (đặc biệt ở phụ nữ sau mãn kinh); (3) Tăng nguy cơ rung nhĩ và biến cố tim mạch ở người > 65 tuổi. Chống chỉ định tương đối ở người già, người có bệnh tim mạch hoặc loãng xương."
+    },
+    {
+      "id": "bg_case_07",
+      "text": "Chỉ định phẫu thuật cắt tuyến giáp TUYỆT ĐỐI ở bệnh nhân bướu giáp đơn thuần được đặt ra trong trường hợp nào sau đây?",
+      "options": [
+        "Bướu giáp độ 1 phát hiện tình cờ trên siêu âm",
+        "Bướu giáp phát triển kích thước lớn gây chèn ép rõ rệt đường thở (thở rít, xẹp khí quản), chèn ép thực quản (nuốt nghẹn) hoặc bướu chìm sau xương ức",
+        "Bệnh nhân có xét nghiệm Anti-TPO âm tính",
+        "Bệnh nhân trẻ tuổi có nồng độ TSH bình thường"
+      ],
+      "correct": 1,
+      "explanation": "Chỉ định phẫu thuật tuyệt đối trong bướu giáp đơn thuần gồm: (1) Bướu to gây biến chứng chèn ép cơ học nặng nề (khí quản gây khó thở, thực quản gây nuốt nghẹn, thần kinh quặt ngược gây khàn tiếng); (2) Bướu chìm sau xương ức độ 2-3; (3) Nghi ngờ ác tính trên siêu âm và FNA; (4) Xuất huyết tái phát nhiều lần."
+    },
+    {
+      "id": "bg_case_08",
+      "text": "Một sai lầm điều trị rất phổ biến tại cộng đồng là chỉ định phẫu thuật cắt bướu cổ đơn thuần cho các thiếu nữ tuổi dậy thì ở vùng thiếu iod mà không điều trị nguyên nhân. Hậu quả thường gặp nhất sau mổ là gì?",
+      "options": [
+        "Khỏi bệnh vĩnh viễn không bao giờ tái phát",
+        "Bệnh nhân rơi vào suy giáp sau mổ và phần mô giáp còn lại sẽ tiếp tục phì đại bù trừ tạo thành bướu tái phát to hơn",
+        "Chuyển dạng thành u tủy thượng thận",
+        "Mắc bệnh đái tháo nhạt trung ương"
+      ],
+      "correct": 1,
+      "explanation": "Bướu giáp đơn thuần tuổi dậy thì là phản ứng thích nghi sinh lý. Nếu cắt bỏ nhu mô giáp trong khi căn nguyên thiếu iod không được giải quyết, cơ thể sẽ thiếu hụt hormone nặng nề hơn -> TSH tăng vọt kích thích mô giáp còn lại phì đại dữ dội hơn, dẫn tới suy giáp và bướu tái phát khổng lồ.\n💡 Khuyến cáo WHO: Bổ sung muối Iod toàn dân (Universal Salt Iodization) và tư vấn dinh dưỡng là chiến lược dự phòng cốt lõi, hạn chế tối đa phẫu thuật cắt bỏ bừa bãi ở nhóm tuổi dậy thì."
+    },
+    {
+      "id": "bg_case_09",
+      "text": "Bệnh nhân nam 50 tuổi đến khám vì phát hiện một nhân giáp thùy trái 1.5 cm trên siêu âm, TSH bình thường. Phân loại ACR TI-RADS 5 (có vi vôi hóa, bờ không đều, chiều cao lớn hơn chiều rộng). Bước xử trí tiếp theo chuẩn mực là:",
+      "options": [
+        "Chỉ định chọc hút tế bào bằng kim nhỏ dưới hướng dẫn siêu âm (FNA)",
+        "Chỉ định uống ngay kháng giáp tổng hợp Methimazole",
+        "Uống nước muối sinh lý 3 tháng rồi khám lại",
+        "Chụp X-quang ngực thẳng đơn thuần"
+      ],
+      "correct": 0,
+      "explanation": "Theo khuyến cáo ATA và ACR TI-RADS, một nhân giáp có đặc điểm siêu âm nghi ngờ cao (TI-RADS 5) với kích thước >= 1.0 cm bắt buộc phải được sinh thiết tế bào bằng kim nhỏ (FNA - Fine Needle Aspiration) dưới hướng dẫn của siêu âm để chẩn đoán xác định bản chất lành tính hay ung thư biểu mô."
+    },
+    {
+      "id": "bg_case_10",
+      "text": "Các loại thực phẩm nào sau đây chứa chất sinh bướu (Goitrogens) tự nhiên có thể ức chế hấp thu iod hoặc ức chế enzyme TPO nếu ăn số lượng lớn kéo dài?",
+      "options": [
+        "Củ sắn (khoai mì), măng tươi (chứa thiocyanate) và các loại rau họ cải như bắp cải, súp lơ (chứa goitrin/glucosinolate)",
+        "Thịt bò, thịt gà và trứng vịt lộn",
+        "Các loại cá biển và rong biển tươi",
+        "Sữa chua và phô mai lên men"
+      ],
+      "correct": 0,
+      "explanation": "Chất sinh bướu tự nhiên có trong sắn, măng (giải phóng thiocyanate cạnh tranh với bơm NIS bắt giữ iod), và các loại rau họ cải Brassicaceae (chứa glucosinolate bị thủy phân thành goitrin ức chế enzyme TPO hữu cơ hóa iod). Ăn lượng lớn các thực phẩm này ở vùng thiếu iod sẽ làm bùng phát bướu giáp đơn thuần tản phát."
+    },
+    {
+      "id": "bg_card_001",
+      "text": "Định nghĩa Bướu giáp đơn thuần (Euthyroid Goiter / Simple Goiter)?",
+      "options": [
+        "Quy trình: Cho bệnh nhân giơ thẳng hai tay lên cao ép sát hai tai trong 1 - 2 phút.",
+        "Bướu giáp đơn thuần (còn gọi là bướu cổ đơn thuần, bướu giáp không độc) là tình trạng tuyến giáp phì đại to ra nhưng không do viêm, không do ung thư và chức năng tuyến giáp hoàn toàn bình thường (Bình giáp - Euthyroid).",
+        "Độ 0: Không có bướu giáp.",
+        "Thiếu hụt hormon giáp tương đối (tăng nhu cầu ở tuổi dậy thì, mang thai) hoặc tuyệt đối (thiếu iod, chất kháng giáp)."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\n• Bướu giáp đơn thuần (còn gọi là bướu cổ đơn thuần, bướu giáp không độc) là tình trạng tuyến giáp phì đại to ra nhưng không do viêm, không do ung thư và chức năng tuyến giáp hoàn toàn bình thường (Bình giáp - Euthyroid).\n• Phổ biến ở nữ giới nhiều hơn nam giới (tỷ lệ Nữ : Nam từ 5 : 1 đến 10 : 1).\n\n🔍 Góc nhìn chuyên sâu:\nHay gặp ở các giai đoạn cơ thể có nhu cầu chuyển hóa tăng cao như tuổi dậy thì, mang thai, cho con bú hoặc tiền mãn kinh."
+    },
+    {
+      "id": "bg_card_002",
+      "text": "Phân biệt 2 thể dịch tễ học của Bướu giáp đơn thuần?",
+      "options": [
+        "Bướu cổ địa phương (Endemic goiter): Tỷ lệ mắc bệnh trong cộng đồng dân cư của một vùng địa lý > 10% dân số (chủ yếu do môi trường thiếu hụt Iod).",
+        "Vì bướu giáp đơn thuần không có sự xuất hiện của tự kháng thể kích thích thụ thể TSH (TRAb/TSI) gây viêm và lắng đọng glycosaminoglycan trong tổ chức mỡ và cơ vận nhãn sau nhãn cầu.",
+        "Động tác nuốt làm thanh quản và sụn nhẫn được kéo nâng lên trên, mang theo tuyến giáp di động lên xuống dưới các ngón tay khám, giúp xác định chắc chắn khối u thuộc tuyến giáp và phân biệt với hạch cổ hoặc u mỡ.",
+        "Thiếu hụt hormon giáp tương đối (tăng nhu cầu ở tuổi dậy thì, mang thai) hoặc tuyệt đối (thiếu iod, chất kháng giáp)."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\n1. Bướu cổ địa phương (Endemic goiter): Tỷ lệ mắc bệnh trong cộng đồng dân cư của một vùng địa lý > 10% dân số (chủ yếu do môi trường thiếu hụt Iod).\n2. Bướu cổ tản phát (Sporadic goiter): Tỷ lệ mắc , gặp ở vùng không thiếu iod do rối loạn bẩm sinh tổng hợp hormon hoặc thức ăn chứa chất sinh bướu.\n\n🔍 Góc nhìn chuyên sâu:\nBướu cổ địa phương là một vấn đề sức khỏe cộng đồng lớn tại các vùng núi cao xa biển."
+    },
+    {
+      "id": "bg_card_003",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Bướu cổ địa phương được định nghĩa theo WHO khi tỷ lệ mắc bệnh trong cộng đồng dân cư của một vùng địa lý lớn hơn [...].\"",
+      "options": [
+        "hoàn toàn không có tiếng thổi tâm thu",
+        "bơm bắt giữ Iod (NIS)",
+        "> 10% dân số",
+        "mặt tím tái và xung huyết đỏ bừng"
+      ],
+      "correct": 2,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nBướu cổ địa phương được định nghĩa theo WHO khi tỷ lệ mắc bệnh trong cộng đồng dân cư của một vùng địa lý lớn hơn {{c1::> 10% dân số}}."
+    },
+    {
+      "id": "bg_card_004",
+      "text": "Cơ chế bệnh sinh cốt lõi của sự hình thành bướu giáp đơn thuần?",
+      "options": [
+        "Trong 3 tháng đầu thai kỳ, não bộ thai nhi phát triển với tốc độ phân chia tế bào thần kinh tối đa và hình thành vỏ não nhưng tuyến giáp thai nhi chưa hoạt động (chưa tự tiết hormon giáp) → Não thai nhi phụ thuộc hoàn toàn vào T4 từ mẹ truyền qua nhau thai → Mẹ thiếu iod không cung cấp đủ T4 sẽ gây tổn thương não vĩnh viễn không hồi phục.",
+        "Để phát hiện sớm biến chứng Hạ canxi máu cấp do tổn thương hoặc cắt nhầm các tuyến cận giáp trong quá trình phẫu thuật (biểu hiện: dấu hiệu Chvostek, dấu hiệu Trousseau, co quắp bàn tay thợ gốm).",
+        "Thiếu hụt hormon giáp tương đối (tăng nhu cầu ở tuổi dậy thì, mang thai) hoặc tuyệt đối (thiếu iod, chất kháng giáp).",
+        "Vì lượng iod nạp vào quá nhiều có thể kích hoạt các nhân giáp tự chủ tiềm ẩn trong bướu phát triển thành Cơn bão giáp trạng hoặc Cường giáp Basedow hóa (hiệu ứng Jod-Basedow) đe dọa suy tim cấp."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\n• Thiếu hụt hormon giáp tương đối (tăng nhu cầu ở tuổi dậy thì, mang thai) hoặc tuyệt đối (thiếu iod, chất kháng giáp).\n• Cơ thể phản ứng bù trừ bằng cách tăng tiết TSH tuyến yên hoặc tăng nhạy cảm của thụ thể TSH-R tại tế bào tuyến giáp.\n• TSH kích thích tế bào nang giáp quá sản phân chia và tăng bắt giữ iod nhằm sản xuất đủ hormon đáp ứng nhu cầu cơ thể → Dẫn đến tuyến giáp phì đại to ra.\n\n🔍 Góc nhìn chuyên sâu:\nBản chất bướu giáp to là hoạt động phì đại thích nghi mang tính bảo vệ của cơ thể."
+    },
+    {
+      "id": "bg_card_005",
+      "text": "Tại sao trong bướu giáp đơn thuần xét nghiệm thấy FT4 thấp nhưng FT3 và TSH lại bình thường?",
+      "options": [
+        "Hệ thống phân loại ACR-TIRADS (từ TIRADS 1 đến TIRADS 5) đánh giá nguy cơ ác tính của nhân giáp dựa trên 5 đặc điểm siêu âm: Thành phần, Độ hồi âm, Hình dáng, Đường bờ và Điểm vôi hóa → Giúp đưa ra quyết định có cần chọc hút tế bào kim nhỏ (FNA) hay chỉ theo dõi định kỳ.",
+        "Trong điều kiện thiếu hụt iod cơ chất, tuyến giáp sẽ ưu tiên tổng hợp T3 nhiều hơn T4 (vì T3 chỉ cần 3 nguyên tử iod nhưng hoạt tính sinh học mạnh gấp 3 - 5 lần T4), kết hợp các mô ngoại vi tăng chuyển T4 thành T3 → Giúp duy trì nồng độ FT3 bình thường để giữ trạng thái bình giáp mà không làm tăng vọt TSH.",
+        "Vì trong các loại rau họ cải sống có chứa các hợp chất Glucosinolate, khi nhai sống enzyme myrosinase sẽ thủy phân tạo thành Goitrin và Thiocyanate → Chất này ức chế enzyme TPO ngăn cản gắn iod vào thyroglobulin.",
+        "Vì môi trường acid dạ dày khi đói giúp viên thuốc rã nhanh và đạt tỷ lệ hấp thu tối đa (khoảng 70% - 80%) tại đoạn đầu ruột non; thức ăn có thể làm giảm 20% - 30% sinh khả dụng của thuốc."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nTrong điều kiện thiếu hụt iod cơ chất, tuyến giáp sẽ ưu tiên tổng hợp T3 nhiều hơn T4 (vì T3 chỉ cần 3 nguyên tử iod nhưng hoạt tính sinh học mạnh gấp 3 - 5 lần T4), kết hợp các mô ngoại vi tăng chuyển T4 thành T3 → Giúp duy trì nồng độ FT3 bình thường để giữ trạng thái bình giáp mà không làm tăng vọt TSH.\n\n🔍 Góc nhìn chuyên sâu:\nĐây là cơ chế tiết kiệm iod thông minh của cơ thể khi nguồn cơ chất bị thiếu hụt."
+    },
+    {
+      "id": "bg_card_006",
+      "text": "Kể tên các thức ăn và thuốc chứa chất sinh bướu giáp (Goitrogens)?",
+      "options": [
+        "Thể thần kinh: Chậm phát triển trí tuệ nặng nề (thiểu năng tâm thần), câm điếc bẩm sinh, liệt cứng hai chi dưới, lác mắt, dáng đi loạng choạng.",
+        "- Thức ăn:",
+        "Vì nhân lạnh là vùng mô giáp không còn khả năng bắt giữ iod phóng xạ; khoảng 15% - 20% nhân lạnh có bản chất là ung thư tuyến giáp (đặc biệt là ung thư dạng nhú hoặc dạng nang).",
+        "Vì ở tư thế này các cơ vùng cổ của bệnh nhân được thả lỏng tối đa, ngón tay của thầy thuốc ôm trọn hai thùy và eo tuyến giáp, cảm nhận rõ nhất ranh giới, mật độ và sự di động của tuyến giáp khi bệnh nhân nuốt."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\n- Thức ăn:\n+ Rau họ cải (Bắp cải, súp lơ, củ cải...): Chứa thiocyanate và goitrin ức chế gắn iod vào thyroglobulin.\n+ Củ sắn (khoai mì), măng tre: Chứa cyanogenic glycosides chuyển hóa thành thiocyanate ức chế bơm bắt giữ iod.\n- Thuốc & Hóa chất: Muối Lithium, thuốc kháng giáp trạng tổng hợp, thuốc chống loạn nhịp Amiodarone (chứa hàm lượng iod cao).\n\n🔍 Góc nhìn chuyên sâu:\nNước uống ô nhiễm hữu cơ hoặc chứa nhiều calci/fluor cũng làm tủa iod giảm hấp thu tại ruột."
+    },
+    {
+      "id": "bg_card_007",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Chất thiocyanate có trong củ sắn (khoai mì) và măng tre có cơ chế ức chế [...] tại màng tế bào nang giáp.\"",
+      "options": [
+        "mặt tím tái và xung huyết đỏ bừng",
+        "hoàn toàn không có tiếng thổi tâm thu",
+        "bơm bắt giữ Iod (NIS)",
+        "> 10% dân số"
+      ],
+      "correct": 2,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nChất thiocyanate có trong củ sắn (khoai mì) và măng tre có cơ chế ức chế {{c1::bơm bắt giữ Iod (NIS)}} tại màng tế bào nang giáp."
+    },
+    {
+      "id": "bg_card_008",
+      "text": "Diễn biến mô bệnh học của bướu giáp từ giai đoạn sớm sang giai đoạn muộn?",
+      "options": [
+        "Vì bao tuyến giáp dính chặt vào sụn nhẫn và thanh quản thông qua dây chằng treo Berry; khi bệnh nhân nuốt, thanh quản và sụn nhẫn bị kéo nâng lên trên mang theo tuyến giáp di động cùng nhịp.",
+        "Trong vỏ và ruột củ sắn tươi chứa lượng lớn hợp chất Linamarin (Cyanogenic glucoside), khi ăn vào ruột sẽ giải phóng ra Thiocyanate → Thiocyanate có cấu trúc cạnh tranh ức chế trực tiếp bơm đồng vận chuyển Na+/I- (NIS) tại màng tế bào nang giáp làm tuyến giáp không bắt được iod.",
+        "Trẻ em dưới 5 tuổi: 90 μg/ngày.",
+        "Giai đoạn sớm: Tuyến giáp phì đại lan tỏa do quá sản các nang giáp chứa đầy chất keo (bướu giáp keo lan tỏa) → Điều trị ở giai đoạn này rất hiệu quả, dễ làm bướu nhỏ lại."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\n• Giai đoạn sớm: Tuyến giáp phì đại lan tỏa do quá sản các nang giáp chứa đầy chất keo (bướu giáp keo lan tỏa) → Điều trị ở giai đoạn này rất hiệu quả, dễ làm bướu nhỏ lại.\n• Giai đoạn muộn: Tình trạng kích thích kéo dài gây xơ hóa, thoái hóa, hoại tử nằm xen kẽ vùng quá sản → Hình thành các nhân tuyến giáp (bướu giáp đa nhân) và các nhân tự chủ chức năng.\n\n🔍 Góc nhìn chuyên sâu:\nBướu đa nhân lâu năm có nguy cơ thoái hóa thành bướu nhân độc (Basedow hóa)."
+    },
+    {
+      "id": "bg_card_009",
+      "text": "Đặc điểm thăm khám thực thể của bướu giáp đơn thuần?",
+      "options": [
+        "Khối u nằm ở giữa cổ, ranh giới rõ, không dính vào da, không đau, mật độ mềm hoặc chắc.",
+        "Vì nồng độ hormon tuyến giáp lưu hành trong máu vẫn đủ đáp ứng nhu cầu tăng trưởng xương và phát triển não bộ của trẻ (khác hoàn toàn với suy giáp bẩm sinh).",
+        "Vì hơn 90% lượng iod ăn vào cơ thể sau khi chuyển hóa sẽ được đào thải qua đường nước tiểu trong vòng 24 giờ; nồng độ iod niệu phản ánh chính xác lượng iod nạp vào hàng ngày của cộng đồng.",
+        "Chỉ định: Bướu giáp to lan tỏa ở người trẻ, xét nghiệm thấy FT4 giảm và TSH tăng hoặc nằm ở mức cao bình thường."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\n• Khối u nằm ở giữa cổ, ranh giới rõ, không dính vào da, không đau, mật độ mềm hoặc chắc.\n• Khối u di động nhịp nhàng theo nhịp nuốt của bệnh nhân.\n• HOÀN TOÀN KHÔNG CÓ TIẾNG THỔI TẠI BƯỚU khi đặt ống nghe.\n\n🔍 Góc nhìn chuyên sâu:\nTiếng thổi tâm thu liên tục tại bướu chỉ gặp trong bướu mạch của bệnh Basedow."
+    },
+    {
+      "id": "bg_card_010",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Dấu hiệu lâm sàng quan trọng nhất để phân biệt bướu giáp đơn thuần với bướu mạch trong bệnh Basedow khi nghe tại bướu là [...].\"",
+      "options": [
+        "bơm bắt giữ Iod (NIS)",
+        "hoàn toàn không có tiếng thổi tâm thu",
+        "mặt tím tái và xung huyết đỏ bừng",
+        "> 10% dân số"
+      ],
+      "correct": 1,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nDấu hiệu lâm sàng quan trọng nhất để phân biệt bướu giáp đơn thuần với bướu mạch trong bệnh Basedow khi nghe tại bướu là {{c1::hoàn toàn không có tiếng thổi tâm thu}}."
+    },
+    {
+      "id": "bg_card_011",
+      "text": "Quy trình thực hiện và ý nghĩa của Nghiệm pháp Pemberton trong khám bướu giáp?",
+      "options": [
+        "Bệnh nhân có cảm giác khó thở tiến triển, thở rít (Stridor) khi nằm ngửa hoặc khi gắng sức, ban đêm phải kê cao gối mới ngủ được; chụp X-quang hoặc CT thấy khí quản bị đè hẹp hoặc đẩy lệch sang bên.",
+        "Để đánh giá chính xác mức độ chèn ép khí quản, vị trí cực dưới của bướu so với quai động mạch chủ và tĩnh mạch chủ trên, giúp phẫu thuật viên lựa chọn đường mổ qua cổ hay cần mở xương ức.",
+        "Quy trình: Cho bệnh nhân giơ thẳng hai tay lên cao ép sát hai tai trong 1 - 2 phút.",
+        "Để phát hiện sớm biến chứng Hạ canxi máu cấp do tổn thương hoặc cắt nhầm các tuyến cận giáp trong quá trình phẫu thuật (biểu hiện: dấu hiệu Chvostek, dấu hiệu Trousseau, co quắp bàn tay thợ gốm)."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\n• Quy trình: Cho bệnh nhân giơ thẳng hai tay lên cao ép sát hai tai trong 1 - 2 phút.\n• Đánh giá Dương tính: Khi bướu chìm sau xương ức bị kéo chèn ép vào lỗ trên lồng ngực làm cản trở tuần hoàn tĩnh mạch chủ trên → Bệnh nhân xuất hiện mặt tím tái, xung huyết đỏ bừng, tĩnh mạch cổ nổi to, khó thở rít hoặc chóng mặt.\n\n🔍 Góc nhìn chuyên sâu:\nPemberton (+) là dấu hiệu chỉ điểm bướu giáp chìm trung thất có chèn ép mạch máu và đường thở."
+    },
+    {
+      "id": "bg_card_012",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Nghiệm pháp Pemberton dương tính khi cho bệnh nhân giơ hai tay lên cao ép sát tai trong 1 - 2 phút xuất hiện dấu hiệu [...] gợi ý bướu giáp chìm trung thất.\"",
+      "options": [
+        "bơm bắt giữ Iod (NIS)",
+        "mặt tím tái và xung huyết đỏ bừng",
+        "> 10% dân số",
+        "hoàn toàn không có tiếng thổi tâm thu"
+      ],
+      "correct": 1,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nNghiệm pháp Pemberton dương tính khi cho bệnh nhân giơ hai tay lên cao ép sát tai trong 1 - 2 phút xuất hiện dấu hiệu {{c1::mặt tím tái và xung huyết đỏ bừng}} gợi ý bướu giáp chìm trung thất."
+    },
+    {
+      "id": "bg_card_013",
+      "text": "Tiêu chuẩn phân độ bướu cổ theo Tổ chức Y tế Thế giới (WHO)?",
+      "options": [
+        "Động tác nuốt làm thanh quản và sụn nhẫn được kéo nâng lên trên, mang theo tuyến giáp di động lên xuống dưới các ngón tay khám, giúp xác định chắc chắn khối u thuộc tuyến giáp và phân biệt với hạch cổ hoặc u mỡ.",
+        "Vì ở người cao tuổi có bướu đa nhân thường có các nhân giáp tự chủ chức năng; dùng L-T4 liều cao sẽ gây ra tình trạng nhiễm độc giáp do thuốc, khởi phát cơn đau thắt ngực, rung nhĩ và suy tim cấp.",
+        "Độ 0: Không có bướu giáp.",
+        "Vì môi trường acid dạ dày khi đói giúp viên thuốc rã nhanh và đạt tỷ lệ hấp thu tối đa (khoảng 70% - 80%) tại đoạn đầu ruột non; thức ăn có thể làm giảm 20% - 30% sinh khả dụng của thuốc."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\n• Độ 0: Không có bướu giáp.\n• Độ IA: Không nhìn thấy bướu; sờ thấy mỗi thùy to hơn đốt 1 ngón cái của người bệnh.\n• Độ IB: Nhìn thấy bướu khi bệnh nhân ngửa đầu ra sau tối đa; sờ thấy bướu.\n• Độ II: Nhìn thấy bướu to rõ ràng ở tư thế đầu bình thường và ở cự ly gần.\n• Độ III: Bướu rất lớn, nhìn thấy rõ từ xa, làm biến dạng toàn bộ vùng cổ.\n\n🔍 Góc nhìn chuyên sâu:\nPhân độ WHO giúp đánh giá kích thước lâm sàng và theo dõi đáp ứng điều trị."
+    },
+    {
+      "id": "bg_card_014",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Trong chẩn đoán phân độ bướu cổ theo WHO, bướu giáp Độ IB được định nghĩa là nhìn thấy bướu to khi bệnh nhân [...].\"",
+      "options": [
+        "ngửa đầu ra sau tối đa",
+        "hoàn toàn không có tiếng thổi tâm thu",
+        "bơm bắt giữ Iod (NIS)",
+        "> 10% dân số"
+      ],
+      "correct": 0,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nTrong chẩn đoán phân độ bướu cổ theo WHO, bướu giáp Độ IB được định nghĩa là nhìn thấy bướu to khi bệnh nhân {{c1::ngửa đầu ra sau tối đa}}."
+    },
+    {
+      "id": "bg_card_015",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Trong phân độ bướu cổ theo WHO, bướu giáp Độ IA được định nghĩa là không nhìn thấy bướu nhưng sờ thấy mỗi thùy to hơn [...].\"",
+      "options": [
+        "bơm bắt giữ Iod (NIS)",
+        "> 10% dân số",
+        "hoàn toàn không có tiếng thổi tâm thu",
+        "đốt 1 ngón cái của người bệnh"
+      ],
+      "correct": 3,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nTrong phân độ bướu cổ theo WHO, bướu giáp Độ IA được định nghĩa là không nhìn thấy bướu nhưng sờ thấy mỗi thùy to hơn {{c1::đốt 1 ngón cái của người bệnh}}."
+    },
+    {
+      "id": "bg_card_016",
+      "text": "Các chỉ số bình thường của Độ tập trung Iode phóng xạ I-131 tại tuyến giáp trong bướu giáp đơn thuần?",
+      "options": [
+        "Độ tập trung I-131 tại tuyến giáp nằm trong giới hạn hoàn toàn bình thường:",
+        "Khối bướu giáp có cực dưới phát triển sâu qua lỗ trên lồng ngực vào trung thất trước trên, không sờ thấy cực dưới khi nuốt; chụp CT thấy khối u trung thất liên tục với nhu mô tuyến giáp ở cổ.",
+        "Trong vỏ và ruột củ sắn tươi chứa lượng lớn hợp chất Linamarin (Cyanogenic glucoside), khi ăn vào ruột sẽ giải phóng ra Thiocyanate → Thiocyanate có cấu trúc cạnh tranh ức chế trực tiếp bơm đồng vận chuyển Na+/I- (NIS) tại màng tế bào nang giáp làm tuyến giáp không bắt được iod.",
+        "Bổ sung muối ăn trộn iod trong khẩu phần ăn hàng ngày liên tục trong thời gian tối thiểu 6 tháng."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nĐộ tập trung I-131 tại tuyến giáp nằm trong giới hạn hoàn toàn bình thường:\n• Sau 2 giờ: Đạt 15% (bình thường 10 - 20%).\n• Sau 6 giờ: Đạt 25% (bình thường 20 - 30%).\n• Sau 24 giờ: Đạt 40% (bình thường 30 - 45%).\n\n🔍 Góc nhìn chuyên sâu:\nKhác với bệnh Basedow (độ tập trung I-131 tăng rất cao sớm sau 2h và có góc thoát)."
+    },
+    {
+      "id": "bg_card_017",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Trong xét nghiệm đo độ tập trung I-131 tại tuyến giáp của bướu giáp đơn thuần, tỷ lệ bắt giữ sau 2 giờ đạt [...], sau 6 giờ đạt [...] và sau 24 giờ đạt [...].\"",
+      "options": [
+        "bơm bắt giữ Iod (NIS)",
+        "15%",
+        "hoàn toàn không có tiếng thổi tâm thu",
+        "> 10% dân số"
+      ],
+      "correct": 1,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nTrong xét nghiệm đo độ tập trung I-131 tại tuyến giáp của bướu giáp đơn thuần, tỷ lệ bắt giữ sau 2 giờ đạt {{c1::15%}}, sau 6 giờ đạt {{c1::25%}} và sau 24 giờ đạt {{c1::40%}}."
+    },
+    {
+      "id": "bg_card_018",
+      "text": "Ý nghĩa của xét nghiệm định lượng Iod niệu trong nước tiểu 24 giờ?",
+      "options": [
+        "Để theo dõi sự thay đổi kích thước của nhân giáp, phát hiện kịp thời các đặc điểm nghi ngờ ác tính mới xuất hiện trên siêu âm (vi vôi hóa, bờ đa cung) và chỉ định chọc hút FNA khi cần.",
+        "Là chỉ số nhạy nhất đánh giá tình trạng cung cấp và thiếu hụt iod của cộng đồng.",
+        "Để phát hiện sớm biến chứng Hạ canxi máu cấp do tổn thương hoặc cắt nhầm các tuyến cận giáp trong quá trình phẫu thuật (biểu hiện: dấu hiệu Chvostek, dấu hiệu Trousseau, co quắp bàn tay thợ gốm).",
+        "Vì trong các loại rau họ cải sống có chứa các hợp chất Glucosinolate, khi nhai sống enzyme myrosinase sẽ thủy phân tạo thành Goitrin và Thiocyanate → Chất này ức chế enzyme TPO ngăn cản gắn iod vào thyroglobulin."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\n• Là chỉ số nhạy nhất đánh giá tình trạng cung cấp và thiếu hụt iod của cộng đồng.\n• Bình thường: Iod niệu > 100 μg/L.\n• Thiếu iod nhẹ: 50 - 99 μg/L; Thiếu vừa: 20 - 49 μg/L; Thiếu nặng: .\n• Trong bướu cổ địa phương, nồng độ iod niệu giảm rất thấp.\n\n🔍 Góc nhìn chuyên sâu:\nDùng để đánh giá hiệu quả chương trình toàn dân dùng muối iod."
+    },
+    {
+      "id": "bg_card_019",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Xét nghiệm nồng độ Iod niệu trong nước tiểu 24 giờ nhỏ hơn [...] phản ánh tình trạng thiếu hụt Iod mức độ nặng trong cộng đồng.\"",
+      "options": [
+        "bơm bắt giữ Iod (NIS)",
+        "hoàn toàn không có tiếng thổi tâm thu",
+        "< 20 μg/L",
+        "> 10% dân số"
+      ],
+      "correct": 2,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nXét nghiệm nồng độ Iod niệu trong nước tiểu 24 giờ nhỏ hơn {{c1::< 20 μg/L}} phản ánh tình trạng thiếu hụt Iod mức độ nặng trong cộng đồng."
+    },
+    {
+      "id": "bg_card_020",
+      "text": "Đặc điểm hình ảnh của bướu giáp đơn thuần trên phim chụp X-quang cổ và ngực?",
+      "options": [
+        "Hệ thống phân loại ACR-TIRADS (từ TIRADS 1 đến TIRADS 5) đánh giá nguy cơ ác tính của nhân giáp dựa trên 5 đặc điểm siêu âm: Thành phần, Độ hồi âm, Hình dáng, Đường bờ và Điểm vôi hóa → Giúp đưa ra quyết định có cần chọc hút tế bào kim nhỏ (FNA) hay chỉ theo dõi định kỳ.",
+        "Tìm dấu hiệu chèn ép làm hẹp hoặc đè lệch đường thở khí quản sang một bên.",
+        "Vì iod trong muối ăn rất dễ bị thăng hoa, bay hơi và phân hủy khi tiếp xúc với nhiệt độ cao khi đang sôi, ánh sáng mặt trời trực tiếp và độ ẩm không khí.",
+        "Vì ở người cao tuổi có bướu đa nhân thường có các nhân giáp tự chủ chức năng; dùng L-T4 liều cao sẽ gây ra tình trạng nhiễm độc giáp do thuốc, khởi phát cơn đau thắt ngực, rung nhĩ và suy tim cấp."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\n• Tìm dấu hiệu chèn ép làm hẹp hoặc đè lệch đường thở khí quản sang một bên.\n• Phát hiện bướu giáp phát triển chìm xuống trung thất trên (bướu giáp trong lồng ngực).\n• Phát hiện các nốt vôi hóa thô lành tính trong bướu giáp lâu năm.\n\n🔍 Góc nhìn chuyên sâu:\nChụp ở 2 tư thế thẳng và nghiêng."
+    },
+    {
+      "id": "bg_card_021",
+      "text": "Đặc điểm của Xạ hình tuyến giáp (Thyroid Scintigraphy) trong bướu giáp đơn thuần?",
+      "options": [
+        "Chỉ định tiêm bắp Lipiodol cho người dân ở các vùng núi cao hẻo lánh có tỷ lệ mắc bướu cổ địa phương > 30% dân số, nơi muối iod chưa tiếp cận được; mỗi mũi tiêm cung cấp đủ iod dự trữ trong 1 đến 3 năm.",
+        "Bướu lan tỏa: Iod phóng xạ phân bố đồng đều khắp nhu mô tuyến giáp.",
+        "Khối bướu giáp phát triển to ra sau hoặc chìm trung thất chèn ép vào dây thần kinh thanh quản quặt ngược (nằm trong rãnh khí thực quản) → Gây liệt dây thanh âm một bên dẫn đến giọng nói bị khàn đục, phát âm khó, nói hai giọng (giọng đôi).",
+        "Vì lượng iod nạp vào quá nhiều có thể kích hoạt các nhân giáp tự chủ tiềm ẩn trong bướu phát triển thành Cơn bão giáp trạng hoặc Cường giáp Basedow hóa (hiệu ứng Jod-Basedow) đe dọa suy tim cấp."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\n• Bướu lan tỏa: Iod phóng xạ phân bố đồng đều khắp nhu mô tuyến giáp.\n• Bướu đa nhân: Phóng xạ phân bố không đều, xen kẽ vùng tăng bắt xạ (nhân nóng) và vùng giảm bắt xạ (nhân lạnh).\n\n🔍 Góc nhìn chuyên sâu:\nNhân lạnh có nguy cơ ác tính cao cần được chọc hút tế bào kim nhỏ (FNA)."
+    },
+    {
+      "id": "bg_card_022",
+      "text": "Chỉ định và phác đồ điều trị bằng Hormon tuyến giáp (Levothyroxine) trong bướu giáp đơn thuần?",
+      "options": [
+        "Chỉ định: Bướu giáp to lan tỏa ở người trẻ, xét nghiệm thấy FT4 giảm và TSH tăng hoặc nằm ở mức cao bình thường.",
+        "Vì các thành viên trong cùng một gia đình sống chung trong cùng một môi trường địa lý thiếu iod, sử dụng chung nguồn nước và cùng một chế độ ăn uống thiếu iod như nhau (tính chất gia đình do môi trường).",
+        "Do sự gia tăng nồng độ Estrogen và Progesterone trong nửa sau chu kỳ kinh nguyệt làm tăng tưới máu mao mạch tuyến giáp và giữ nước nhẹ trong chất keo giáp.",
+        "Vì điều đó chứng tỏ bướu giáp không còn nhạy cảm với sự ức chế TSH; tiếp tục dùng L-T4 kéo dài không mang lại lợi ích mà gây nguy cơ mất chất khoáng xương (loãng xương) và biến chứng tim mạch do nhiễm độc giáp dưới lâm sàng."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\n• Chỉ định: Bướu giáp to lan tỏa ở người trẻ, xét nghiệm thấy FT4 giảm và TSH tăng hoặc nằm ở mức cao bình thường.\n• Liều lượng:\n+ Người trẻ tuổi: Bắt đầu 50 μg/ngày (uống trước ăn sáng 30 - 60 phút), chỉnh liều để TSH về mức bình thường thấp.\n+ Người già / bệnh tim mạch: Khởi đầu 25 μg/ngày.\n• Đánh giá: Bướu có thể nhỏ lại 1/3 sau 3 - 6 tháng. Nếu sau 6 tháng không hiệu quả thì BẮT BUỘC DỪNG THUỐC.\n\n🔍 Góc nhìn chuyên sâu:\nKhông điều trị đại trà L-T4 cho bướu đa nhân tự chủ ở người già vì dễ gây rung nhĩ và loãng xương."
+    },
+    {
+      "id": "bg_card_023",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Liều khởi đầu Levothyroxine điều trị ức chế TSH cho bướu giáp đơn thuần lan tỏa ở người trẻ tuổi là [...] uống vào buổi sáng lúc bụng đói.\"",
+      "options": [
+        "50 μg/ngày",
+        "> 10% dân số",
+        "bơm bắt giữ Iod (NIS)",
+        "hoàn toàn không có tiếng thổi tâm thu"
+      ],
+      "correct": 0,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nLiều khởi đầu Levothyroxine điều trị ức chế TSH cho bướu giáp đơn thuần lan tỏa ở người trẻ tuổi là {{c1::50 μg/ngày}} uống vào buổi sáng lúc bụng đói."
+    },
+    {
+      "id": "bg_card_024",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Trong điều trị nội khoa bướu giáp lan tỏa bằng Levothyroxine, nếu sau [...] mà bướu không giảm kích thước thì bắt buộc phải [...].\"",
+      "options": [
+        "> 10% dân số",
+        "6 tháng điều trị liên tục",
+        "hoàn toàn không có tiếng thổi tâm thu",
+        "bơm bắt giữ Iod (NIS)"
+      ],
+      "correct": 1,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nTrong điều trị nội khoa bướu giáp lan tỏa bằng Levothyroxine, nếu sau {{c1::6 tháng điều trị liên tục}} mà bướu không giảm kích thước thì bắt buộc phải {{c1::dừng thuốc}}."
+    },
+    {
+      "id": "bg_card_025",
+      "text": "Các chỉ định phẫu thuật (Ngoại khoa) của bướu giáp đơn thuần?",
+      "options": [
+        "Hạn chế phẫu thuật tối đa, chỉ mổ trong 4 trường hợp cụ thể:",
+        "Các tế bào nang giáp quá sản bắt giữ I-131; tia phóng xạ Beta (β) phát ra từ I-131 có tầm xuyên ngắn trong mô (1 - 2mm) phá hủy chọn lọc các tế bào nang giáp phì đại và gây xơ hóa teo nhỏ mô giáp.",
+        "Độ tập trung I-131 tại tuyến giáp nằm trong giới hạn hoàn toàn bình thường:",
+        "Khối bướu giáp có cực dưới phát triển sâu qua lỗ trên lồng ngực vào trung thất trước trên, không sờ thấy cực dưới khi nuốt; chụp CT thấy khối u trung thất liên tục với nhu mô tuyến giáp ở cổ."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nHạn chế phẫu thuật tối đa, chỉ mổ trong 4 trường hợp cụ thể:\n1. Bướu giáp quá lớn gây chèn ép nặng khí quản, thực quản (khó thở, khó nuốt, khàn tiếng).\n2. Bướu giáp phát triển chìm vào trong lồng ngực (bướu trung thất).\n3. Bướu giáp nhân nghi ngờ ung thư hóa (kết quả FNA nghi ngờ/ác tính, TIRADS 4, 5).\n4. Bướu giáp to gây biến dạng mất thẩm mỹ nghiêm trọng theo yêu cầu.\n\n🔍 Góc nhìn chuyên sâu:\nSau phẫu thuật nên dùng Levothyroxine liều thấp (50 μg/ngày) duy trì để phòng bướu tái phát."
+    },
+    {
+      "id": "bg_card_026",
+      "text": "Hiệu quả và chỉ định của điều trị bằng Iode phóng xạ I-131 trong bướu giáp to?",
+      "options": [
+        "Trong 3 tháng đầu thai kỳ, não bộ thai nhi phát triển với tốc độ phân chia tế bào thần kinh tối đa và hình thành vỏ não nhưng tuyến giáp thai nhi chưa hoạt động (chưa tự tiết hormon giáp) → Não thai nhi phụ thuộc hoàn toàn vào T4 từ mẹ truyền qua nhau thai → Mẹ thiếu iod không cung cấp đủ T4 sẽ gây tổn thương não vĩnh viễn không hồi phục.",
+        "Vì Anti-TPO âm tính chứng minh tuyến giáp to không phải do quá trình tự miễn phá hủy mạn tính của Viêm tuyến giáp Hashimoto.",
+        "Bướu lan tỏa: Iod phóng xạ phân bố đồng đều khắp nhu mô tuyến giáp.",
+        "Chỉ định: Bệnh nhân bướu giáp to hoặc bướu đa nhân có chống chỉ định phẫu thuật hoặc từ chối mổ."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\n• Chỉ định: Bệnh nhân bướu giáp to hoặc bướu đa nhân có chống chỉ định phẫu thuật hoặc từ chối mổ.\n• Hiệu quả: Làm giảm kích thước thể tích tuyến giáp khoảng 40% – 50% ở phần lớn bệnh nhân và triệt tiêu chọn lọc các nhân giáp tự chủ chức năng.\n• Theo dõi: Cần theo dõi biến chứng suy giáp sau điều trị I-131.\n\n🔍 Góc nhìn chuyên sâu:\nLà lựa chọn thay thế phẫu thuật an toàn ở người già yếu."
+    },
+    {
+      "id": "bg_card_027",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Liệu pháp điều trị bằng Iode phóng xạ I-131 có thể làm giảm kích thước thể tích tuyến giáp khoảng [...] ở phần lớn bệnh nhân bướu giáp to.\"",
+      "options": [
+        "40% đến 50%",
+        "hoàn toàn không có tiếng thổi tâm thu",
+        "bơm bắt giữ Iod (NIS)",
+        "> 10% dân số"
+      ],
+      "correct": 0,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nLiệu pháp điều trị bằng Iode phóng xạ I-131 có thể làm giảm kích thước thể tích tuyến giáp khoảng {{c1::40% đến 50%}} ở phần lớn bệnh nhân bướu giáp to."
+    },
+    {
+      "id": "bg_card_028",
+      "text": "Biến chứng Cường giáp Basedow hóa (Hiệu ứng Jod-Basedow) xuất hiện khi nào?",
+      "options": [
+        "Động tác nuốt làm thanh quản và sụn nhẫn được kéo nâng lên trên, mang theo tuyến giáp di động lên xuống dưới các ngón tay khám, giúp xác định chắc chắn khối u thuộc tuyến giáp và phân biệt với hạch cổ hoặc u mỡ.",
+        "Vì tuyến giáp to Độ IA không nhìn thấy được bằng mắt thường ở mọi tư thế đầu; chỉ có thể phát hiện được bằng kỹ thuật sờ nắn tuyến giáp từ phía sau khi bệnh nhân nuốt.",
+        "Thiếu hụt hormon giáp tương đối (tăng nhu cầu ở tuổi dậy thì, mang thai) hoặc tuyệt đối (thiếu iod, chất kháng giáp).",
+        "Thường xảy ra ở bệnh nhân có bướu giáp đa nhân lâu năm có các nhân giáp tự chủ chức năng, khi được bổ sung lượng lớn Iod đột ngột (uống thuốc cản quang, dùng Amiodarone, nạp iod liều cao) → Các nhân giáp tổng hợp ồ ạt hormon giáp gây nhiễm độc giáp cấp."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nThường xảy ra ở bệnh nhân có bướu giáp đa nhân lâu năm có các nhân giáp tự chủ chức năng, khi được bổ sung lượng lớn Iod đột ngột (uống thuốc cản quang, dùng Amiodarone, nạp iod liều cao) → Các nhân giáp tổng hợp ồ ạt hormon giáp gây nhiễm độc giáp cấp.\n\n🔍 Góc nhìn chuyên sâu:\nCần thận trọng bổ sung iod liều thấp từ từ ở người lớn tuổi có bướu đa nhân."
+    },
+    {
+      "id": "bg_card_029",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Hiệu ứng Jod-Basedow là biến chứng cường giáp xuất hiện ở bệnh nhân có bướu giáp đa nhân lâu năm sau khi được [...].\"",
+      "options": [
+        "bổ sung lượng lớn Iod đột ngột",
+        "hoàn toàn không có tiếng thổi tâm thu",
+        "> 10% dân số",
+        "bơm bắt giữ Iod (NIS)"
+      ],
+      "correct": 0,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nHiệu ứng Jod-Basedow là biến chứng cường giáp xuất hiện ở bệnh nhân có bướu giáp đa nhân lâu năm sau khi được {{c1::bổ sung lượng lớn Iod đột ngột}}."
+    },
+    {
+      "id": "bg_card_030",
+      "text": "Hậu quả của thiếu Iod ở Phụ nữ mang thai đối với thai nhi và cách phòng ngừa?",
+      "options": [
+        "Thường xảy ra ở bệnh nhân có bướu giáp đa nhân lâu năm có các nhân giáp tự chủ chức năng, khi được bổ sung lượng lớn Iod đột ngột (uống thuốc cản quang, dùng Amiodarone, nạp iod liều cao) → Các nhân giáp tổng hợp ồ ạt hormon giáp gây nhiễm độc giáp cấp.",
+        "Trong 3 tháng đầu thai kỳ, não bộ thai nhi phát triển với tốc độ phân chia tế bào thần kinh tối đa và hình thành vỏ não nhưng tuyến giáp thai nhi chưa hoạt động (chưa tự tiết hormon giáp) → Não thai nhi phụ thuộc hoàn toàn vào T4 từ mẹ truyền qua nhau thai → Mẹ thiếu iod không cung cấp đủ T4 sẽ gây tổn thương não vĩnh viễn không hồi phục.",
+        "Để đánh giá chính xác mức độ chèn ép khí quản, vị trí cực dưới của bướu so với quai động mạch chủ và tĩnh mạch chủ trên, giúp phẫu thuật viên lựa chọn đường mổ qua cổ hay cần mở xương ức.",
+        "Hậu quả: Thiếu iod gây suy giáp mẹ và thai → Tăng nguy cơ sảy thai, thai chết lưu, đẻ non và hội chứng Đần độn bẩm sinh do thiếu iod (Cretinism) ở trẻ sinh ra (câm điếc, chậm phát triển trí tuệ vĩnh viễn, lùn tuyến giáp)."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\n• Hậu quả: Thiếu iod gây suy giáp mẹ và thai → Tăng nguy cơ sảy thai, thai chết lưu, đẻ non và hội chứng Đần độn bẩm sinh do thiếu iod (Cretinism) ở trẻ sinh ra (câm điếc, chậm phát triển trí tuệ vĩnh viễn, lùn tuyến giáp).\n• Phòng ngừa theo WHO: Phụ nữ mang thai và cho con bú cần bổ sung 250 – 300 μg Iod/ngày.\n\n🔍 Góc nhìn chuyên sâu:\nBắt buộc bổ sung muối iod hoặc viên đa vi chất chứa iod từ trước và trong suốt thai kỳ."
+    },
+    {
+      "id": "bg_card_031",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Hội chứng đần độn bẩm sinh (Cretinism) ở trẻ em sinh ra từ mẹ bị bướu cổ thiếu iod đặc trưng bởi các di chứng [...].\"",
+      "options": [
+        "câm điếc bẩm sinh, chậm phát triển trí tuệ vĩnh viễn và lùn tuyến giáp",
+        "hoàn toàn không có tiếng thổi tâm thu",
+        "> 10% dân số",
+        "bơm bắt giữ Iod (NIS)"
+      ],
+      "correct": 0,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nHội chứng đần độn bẩm sinh (Cretinism) ở trẻ em sinh ra từ mẹ bị bướu cổ thiếu iod đặc trưng bởi các di chứng {{c1::câm điếc bẩm sinh, chậm phát triển trí tuệ vĩnh viễn và lùn tuyến giáp}}."
+    },
+    {
+      "id": "bg_card_032",
+      "text": "Nhu cầu bổ sung Iod hàng ngày theo khuyến cáo của Tổ chức Y tế Thế giới (WHO)?",
+      "options": [
+        "Khối bướu giáp phát triển to ra sau hoặc chìm trung thất chèn ép vào dây thần kinh thanh quản quặt ngược (nằm trong rãnh khí thực quản) → Gây liệt dây thanh âm một bên dẫn đến giọng nói bị khàn đục, phát âm khó, nói hai giọng (giọng đôi).",
+        "Trẻ em dưới 5 tuổi: 90 μg/ngày.",
+        "Vì hải sản và cá biển là nguồn cung cấp iod tự nhiên rất tốt giúp bù đắp lượng iod thiếu hụt của cơ thể, hỗ trợ tuyến giáp sản xuất đủ hormon và ngăn ngừa bướu phì đại thêm.",
+        "Chỉ định tiêm bắp Lipiodol cho người dân ở các vùng núi cao hẻo lánh có tỷ lệ mắc bướu cổ địa phương > 30% dân số, nơi mạng lưới phân phối muối iod chưa tiếp cận được hiệu quả."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\n• Trẻ em dưới 5 tuổi: 90 μg/ngày.\n• Trẻ em từ 6 - 12 tuổi: 120 μg/ngày.\n• Người trưởng thành và vị thành niên: 150 μg/ngày.\n• Phụ nữ mang thai và cho con bú: 250 – 300 μg/ngày.\n• Tiêu chuẩn muối ăn trộn iod toàn dân: 20 – 40 mg Iod/kg muối.\n\n🔍 Góc nhìn chuyên sâu:\nSử dụng muối iod trong khẩu phần ăn hàng ngày tối thiểu 6 tháng là biện pháp phòng và trị bướu cổ địa phương hiệu quả nhất."
+    },
+    {
+      "id": "bg_card_033",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Nhu cầu bổ sung Iod hàng ngày của phụ nữ mang thai và cho con bú theo khuyến cáo của WHO là từ [...].\"",
+      "options": [
+        "hoàn toàn không có tiếng thổi tâm thu",
+        "250 đến 300 μg/ngày",
+        "> 10% dân số",
+        "bơm bắt giữ Iod (NIS)"
+      ],
+      "correct": 1,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nNhu cầu bổ sung Iod hàng ngày của phụ nữ mang thai và cho con bú theo khuyến cáo của WHO là từ {{c1::250 đến 300 μg/ngày}}."
+    },
+    {
+      "id": "bg_card_034",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Hàm lượng Iod tiêu chuẩn được trộn vào muối ăn toàn dân để phòng bệnh bướu cổ địa phương là từ [...].\"",
+      "options": [
+        "hoàn toàn không có tiếng thổi tâm thu",
+        "> 10% dân số",
+        "bơm bắt giữ Iod (NIS)",
+        "20 đến 40 mg Iod/kg muối"
+      ],
+      "correct": 3,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nHàm lượng Iod tiêu chuẩn được trộn vào muối ăn toàn dân để phòng bệnh bướu cổ địa phương là từ {{c1::20 đến 40 mg Iod/kg muối}}."
+    },
+    {
+      "id": "bg_card_035",
+      "text": "Biểu hiện và xử trí cấp cứu của Xuất huyết trong bướu giáp (Nang giáp xuất huyết)?",
+      "options": [
+        "TIRADS 3 (Nguy cơ thấp): Chỉ định FNA khi kích thước nhân ≥ 2.5 cm.",
+        "Biểu hiện: Bướu giáp to nhanh đột ngột chỉ trong vài giờ kèm theo đau nhức dữ dội vùng cổ, da căng bóng và cảm giác chèn ép khó thở cấp tính.",
+        "Vì trong các loại rau họ cải sống có chứa các hợp chất Glucosinolate, khi nhai sống enzyme myrosinase sẽ thủy phân tạo thành Goitrin và Thiocyanate → Chất này ức chế enzyme TPO ngăn cản gắn iod vào thyroglobulin.",
+        "Bệnh nhân xuất hiện khàn tiếng tiến triển, giọng nói bị trầm đục, phát âm khó, nói hai giọng (giọng đôi) do một bên dây thanh âm bị liệt không khép kín được khi phát âm."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\n• Biểu hiện: Bướu giáp to nhanh đột ngột chỉ trong vài giờ kèm theo đau nhức dữ dội vùng cổ, da căng bóng và cảm giác chèn ép khó thở cấp tính.\n• Xử trí: Chọc hút dịch máu giải áp bằng kim lớn dưới hướng dẫn của siêu âm để làm giảm áp lực trong nang giáp, giúp bệnh nhân hết đau và hết khó thở ngay lập tức.\n\n🔍 Góc nhìn chuyên sâu:\nGửi dịch hút làm tế bào học (Cytology) để loại trừ ung thư dạng nhú thoái hóa nang xuất huyết."
+    },
+    {
+      "id": "bg_card_036",
+      "text": "Thời gian bổ sung muối ăn trộn Iod tối thiểu cho bệnh nhân bướu cổ địa phương là bao lâu?",
+      "options": [
+        "Vì các nhân giáp tự chủ mang đột biến hoạt hóa thụ thể TSH-R không bị kiểm soát; khi có lượng lớn cơ chất iod cung cấp đột ngột (từ thuốc cản quang hoặc Amiodarone), các nhân này sẽ tự do sản xuất ồ ạt T3, T4 gây nhiễm độc giáp cấp.",
+        "Bổ sung muối ăn trộn iod trong khẩu phần ăn hàng ngày liên tục trong thời gian tối thiểu 6 tháng.",
+        "Do nước mưa và băng tuyết bào mòn rửa trôi khoáng chất iod trong đất đá trôi ra biển, khiến nguồn nước ngầm, đất trồng trọt và thực phẩm tại vùng núi cao bị thiếu hụt iod trầm trọng.",
+        "Khối bướu giáp phát triển to ra sau hoặc chìm trung thất chèn ép vào dây thần kinh thanh quản quặt ngược (nằm trong rãnh khí thực quản) → Gây liệt dây thanh âm một bên dẫn đến giọng nói bị khàn đục, phát âm khó, nói hai giọng (giọng đôi)."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nBổ sung muối ăn trộn iod trong khẩu phần ăn hàng ngày liên tục trong thời gian tối thiểu 6 tháng.\n\n🔍 Góc nhìn chuyên sâu:\nSau 6 tháng đánh giá lại kích thước bướu và nồng độ Iod niệu 24h."
+    },
+    {
+      "id": "bg_card_037",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Thời gian bổ sung muối ăn trộn Iod tối thiểu cho bệnh nhân bướu cổ địa phương do thiếu iod là trong vòng [...].\"",
+      "options": [
+        "> 10% dân số",
+        "hoàn toàn không có tiếng thổi tâm thu",
+        "6 tháng",
+        "bơm bắt giữ Iod (NIS)"
+      ],
+      "correct": 2,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nThời gian bổ sung muối ăn trộn Iod tối thiểu cho bệnh nhân bướu cổ địa phương do thiếu iod là trong vòng {{c1::6 tháng}}."
+    },
+    {
+      "id": "bg_card_038",
+      "text": "Xử trí ca lâm sàng bướu giáp keo lan tỏa ở phụ nữ trẻ vùng núi cao?",
+      "options": [
+        "Vì sau khi cắt bỏ một phần nhu mô giáp, lượng hormon giáp nội sinh sản xuất ra bị giảm sút → Tuyến yên sẽ tăng tiết TSH kích thích phần mô giáp còn lại phì đại tăng sinh trở lại → Dùng Levothyroxine liều thấp (50 μg/ngày) giúp ức chế nồng độ TSH để ngăn ngừa bướu tái phát.",
+        "Vì nồng độ hormon tuyến giáp lưu hành trong máu vẫn đủ đáp ứng nhu cầu tăng trưởng xương và phát triển não bộ của trẻ (khác hoàn toàn với suy giáp bẩm sinh).",
+        "Các nang giáp quá sản lâu năm bị thiếu máu nuôi dưỡng dẫn đến hoại tử mô bã đậu và lắng đọng muối canxi photphat thô tạo thành các nốt vôi hóa thô lành tính (Macrocalcifications) nhìn thấy rõ trên X-quang và siêu âm.",
+        "Lâm sàng bình giáp, bướu lan tỏa mềm Độ IB, không tiếng thổi, Iod niệu giảm thấp."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\n1. Lâm sàng bình giáp, bướu lan tỏa mềm Độ IB, không tiếng thổi, Iod niệu giảm thấp.\n2. Bổ sung muối ăn trộn iod trong các bữa ăn hàng ngày liên tục ≥ 6 tháng.\n3. Điều trị ức chế bằng Levothyroxine 50 μg/ngày uống vào buổi sáng lúc đói trước ăn 30 phút.\n4. Siêu âm đo lại thể tích tuyến giáp sau 3 tháng và 6 tháng; nếu sau 6 tháng không giảm kích thước thì ngừng thuốc L-T4.\n\n🔍 Góc nhìn chuyên sâu:\nNgười trẻ tuổi mới bị bướu mềm đáp ứng thu nhỏ bướu rất tốt."
+    },
+    {
+      "id": "bg_card_039",
+      "text": "Xử trí ca lâm sàng bướu giáp đa nhân khổng lồ chèn ép khí quản và Pemberton (+)?",
+      "options": [
+        "Bướu đa nhân lớn Độ III phát triển chìm trung thất, đè hẹp khí quản, nghiệm pháp Pemberton (+).",
+        "Vì ở giai đoạn sớm, các nang giáp chỉ quá sản tế bào và tích tụ chất keo đồng nhất, chưa có xơ hóa hay nhân tự chủ; khi dùng L-T4 ức chế TSH nồng độ chất keo sẽ được tái hấp thu làm bướu teo nhỏ lại.",
+        "Hàm lượng tiêu chuẩn là 20 – 40 mg Iod/kg muối ăn (dưới dạng Potassium Iodate KIO3 ổn định).",
+        "Ở nữ giới trưởng thành: Thể tích tuyến giáp bình thường ."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\n1. Bướu đa nhân lớn Độ III phát triển chìm trung thất, đè hẹp khí quản, nghiệm pháp Pemberton (+).\n2. Chống chỉ định dùng Levothyroxine vì bướu đa nhân lâu năm không đáp ứng và nguy cơ gây rung nhĩ.\n3. Chỉ định Phẫu thuật Ngoại khoa cắt tuyến giáp bán phần để giải phóng chèn ép khí quản.\n4. Bổ sung Levothyroxine liều thấp (50 μg/ngày) duy trì sau mổ phòng tái phát.\n\n🔍 Góc nhìn chuyên sâu:\nLà chỉ định phẫu thuật tuyệt đối do chèn ép đường thở."
+    },
+    {
+      "id": "bg_card_040",
+      "text": "Xử trí ca lâm sàng phụ nữ mang thai sống tại vùng bướu cổ dịch tễ thiếu iod?",
+      "options": [
+        "Phát hiện bướu giáp to nhẹ Độ IA, FT4 thấp và TSH = 3.9 mIU/L (> 2.5 mIU/L).",
+        "Vì ở người cao tuổi có bướu đa nhân thường có các nhân giáp tự chủ chức năng; dùng L-T4 liều cao sẽ gây ra tình trạng nhiễm độc giáp do thuốc, khởi phát cơn đau thắt ngực, rung nhĩ và suy tim cấp.",
+        "Ở nữ giới trưởng thành: Thể tích tuyến giáp bình thường .",
+        "Vì hải sản và cá biển là nguồn cung cấp iod tự nhiên rất tốt giúp bù đắp lượng iod thiếu hụt của cơ thể, hỗ trợ tuyến giáp sản xuất đủ hormon và ngăn ngừa bướu phì đại thêm."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\n1. Phát hiện bướu giáp to nhẹ Độ IA, FT4 thấp và TSH = 3.9 mIU/L (> 2.5 mIU/L).\n2. Kê đơn viên đa vi chất thai kỳ chứa 250 μg Potassium Iodide uống hàng ngày liên tục suốt thai kỳ và thời gian cho con bú.\n3. Kê đơn Levothyroxine 50 μg/ngày để nhanh chóng đưa TSH về\n\n🔍 Góc nhìn chuyên sâu:\nNgăn ngừa triệt để hội chứng đần độn bẩm sinh ở trẻ sơ sinh."
+    },
+    {
+      "id": "bg_card_041",
+      "text": "Cơ chế của hiện tượng Bướu giáp dậy thì (Pubertal goiter)?",
+      "options": [
+        "Vì bướu giáp đơn thuần không có sự xuất hiện của tự kháng thể kích thích thụ thể TSH (TRAb/TSI) gây viêm và lắng đọng glycosaminoglycan trong tổ chức mỡ và cơ vận nhãn sau nhãn cầu.",
+        "Thể thần kinh: Chậm phát triển trí tuệ nặng nề (thiểu năng tâm thần), câm điếc bẩm sinh, liệt cứng hai chi dưới, lác mắt, dáng đi loạng choạng.",
+        "Ở lứa tuổi dậy thì (12 - 18 tuổi), cơ thể có sự tăng vọt tốc độ phát triển thể chất và tăng mạnh nhu cầu năng lượng chuyển hóa cơ bản → Tuyến giáp phải tăng cường độ hoạt động để sản xuất nhiều hormon giáp hơn → Dẫn đến phì đại tuyến giáp nhẹ lan tỏa tạm thời (thường Độ IA hoặc IB).",
+        "Vì ở giai đoạn sớm, các nang giáp chỉ quá sản tế bào và tích tụ chất keo đồng nhất, chưa có xơ hóa hay nhân tự chủ; khi dùng L-T4 ức chế TSH nồng độ chất keo sẽ được tái hấp thu làm bướu teo nhỏ lại."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\nỞ lứa tuổi dậy thì (12 - 18 tuổi), cơ thể có sự tăng vọt tốc độ phát triển thể chất và tăng mạnh nhu cầu năng lượng chuyển hóa cơ bản → Tuyến giáp phải tăng cường độ hoạt động để sản xuất nhiều hormon giáp hơn → Dẫn đến phì đại tuyến giáp nhẹ lan tỏa tạm thời (thường Độ IA hoặc IB).\n\n🔍 Góc nhìn chuyên sâu:\nBướu thường tự thu nhỏ lại sau khi qua giai đoạn dậy thì nếu được cung cấp đủ iod."
+    },
+    {
+      "id": "bg_card_042",
+      "text": "Tại sao ăn nhiều bắp cải sống hoặc củ cải sống có thể gây bướu giáp?",
+      "options": [
+        "Trong nửa đầu thai kỳ tuyến giáp thai nhi chưa hoạt động, não thai nhi phụ thuộc hoàn toàn vào T4 từ mẹ qua nhau thai; mẹ thiếu iod không cung cấp đủ T4 làm tế bào thần kinh vỏ não thai nhi không phân chia và không myelin hóa được gây tổn thương não vĩnh viễn.",
+        "Vì nồng độ hormon tuyến giáp lưu hành trong máu vẫn đủ đáp ứng nhu cầu tăng trưởng xương và phát triển não bộ của trẻ (khác hoàn toàn với suy giáp bẩm sinh).",
+        "Vì trong các loại rau họ cải sống có chứa các hợp chất Glucosinolate, khi nhai sống enzyme myrosinase sẽ thủy phân tạo thành Goitrin và Thiocyanate → Chất này ức chế enzyme TPO ngăn cản gắn iod vào thyroglobulin.",
+        "Vì tuyến giáp to Độ IA không nhìn thấy được bằng mắt thường ở mọi tư thế đầu; chỉ có thể phát hiện được bằng kỹ thuật sờ nắn tuyến giáp từ phía sau khi bệnh nhân nuốt."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\nVì trong các loại rau họ cải sống có chứa các hợp chất Glucosinolate, khi nhai sống enzyme myrosinase sẽ thủy phân tạo thành Goitrin và Thiocyanate → Chất này ức chế enzyme TPO ngăn cản gắn iod vào thyroglobulin.\n\n🔍 Góc nhìn chuyên sâu:\nNấu chín kỹ rau họ cải sẽ làm bất hoạt enzyme myrosinase và phá hủy chất sinh bướu."
+    },
+    {
+      "id": "bg_card_043",
+      "text": "Tại sao ăn sắn (khoai mì) cao sản chưa luộc kỹ gây bướu cổ ở vùng núi?",
+      "options": [
+        "Tìm dấu hiệu chèn ép làm hẹp hoặc đè lệch đường thở khí quản sang một bên.",
+        "Trong vỏ và ruột củ sắn tươi chứa lượng lớn hợp chất Linamarin (Cyanogenic glucoside), khi ăn vào ruột sẽ giải phóng ra Thiocyanate → Thiocyanate có cấu trúc cạnh tranh ức chế trực tiếp bơm đồng vận chuyển Na+/I- (NIS) tại màng tế bào nang giáp làm tuyến giáp không bắt được iod.",
+        "Hệ thống phân loại ACR-TIRADS (từ TIRADS 1 đến TIRADS 5) đánh giá nguy cơ ác tính của nhân giáp dựa trên 5 đặc điểm siêu âm: Thành phần, Độ hồi âm, Hình dáng, Đường bờ và Điểm vôi hóa → Giúp đưa ra quyết định có cần chọc hút tế bào kim nhỏ (FNA) hay chỉ theo dõi định kỳ.",
+        "Vì bướu lâu năm đã bị xơ hóa, vôi hóa thô và hình thành các nhân giáp tự chủ không còn chịu sự kiểm soát của TSH; dùng L-T4 không làm nhỏ bướu mà gây nguy cơ rung nhĩ và loãng xương."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nTrong vỏ và ruột củ sắn tươi chứa lượng lớn hợp chất Linamarin (Cyanogenic glucoside), khi ăn vào ruột sẽ giải phóng ra Thiocyanate → Thiocyanate có cấu trúc cạnh tranh ức chế trực tiếp bơm đồng vận chuyển Na+/I- (NIS) tại màng tế bào nang giáp làm tuyến giáp không bắt được iod.\n\n🔍 Góc nhìn chuyên sâu:\nCần bóc vỏ, ngâm nước và luộc mở vung kỹ để bay hơi độc tố."
+    },
+    {
+      "id": "bg_card_044",
+      "text": "Đặc điểm của biến chứng chèn ép dây thần kinh quặt ngược thanh quản do bướu giáp?",
+      "options": [
+        "Bệnh nhân xuất hiện cảm giác nuốt nghẹn, nuốt vướng ở cổ họng, ban đầu nuốt nghẹn với thức ăn đặc (cơm, thịt), sau đó nghẹn cả với thức ăn lỏng.",
+        "Khối bướu giáp phát triển to ra sau hoặc chìm trung thất chèn ép vào dây thần kinh thanh quản quặt ngược (nằm trong rãnh khí thực quản) → Gây liệt dây thanh âm một bên dẫn đến giọng nói bị khàn đục, phát âm khó, nói hai giọng (giọng đôi).",
+        "Bổ sung muối ăn trộn iod trong khẩu phần ăn hàng ngày liên tục trong thời gian tối thiểu 6 tháng.",
+        "Vì ở giai đoạn sớm, các nang giáp chỉ quá sản tế bào và tích tụ chất keo đồng nhất, chưa có xơ hóa hay nhân tự chủ; khi dùng L-T4 ức chế TSH nồng độ chất keo sẽ được tái hấp thu làm bướu teo nhỏ lại."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nKhối bướu giáp phát triển to ra sau hoặc chìm trung thất chèn ép vào dây thần kinh thanh quản quặt ngược (nằm trong rãnh khí thực quản) → Gây liệt dây thanh âm một bên dẫn đến giọng nói bị khàn đục, phát âm khó, nói hai giọng (giọng đôi).\n\n🔍 Góc nhìn chuyên sâu:\nCần nội soi thanh quản kiểm tra độ di động của dây thanh trước khi phẫu thuật."
+    },
+    {
+      "id": "bg_card_045",
+      "text": "Tại sao sau phẫu thuật cắt tuyến giáp điều trị bướu đơn thuần bắt buộc phải dùng Levothyroxine liều thấp?",
+      "options": [
+        "Bắt đầu liều 50 μg/ngày uống 1 lần duy nhất vào buổi sáng sớm lúc đói trước ăn 30 - 60 phút, chỉnh liều để đưa TSH về mức bình thường thấp (0.3 - 1.0 mIU/L).",
+        "Do sự gia tăng nồng độ Estrogen và Progesterone trong nửa sau chu kỳ kinh nguyệt làm tăng tưới máu mao mạch tuyến giáp và giữ nước nhẹ trong chất keo giáp.",
+        "Giai đoạn sớm: Tuyến giáp phì đại lan tỏa do quá sản các nang giáp chứa đầy chất keo (bướu giáp keo lan tỏa) → Điều trị ở giai đoạn này rất hiệu quả, dễ làm bướu nhỏ lại.",
+        "Vì sau khi cắt bỏ một phần nhu mô giáp, lượng hormon giáp nội sinh sản xuất ra bị giảm sút → Tuyến yên sẽ tăng tiết TSH kích thích phần mô giáp còn lại phì đại tăng sinh trở lại → Dùng Levothyroxine liều thấp (50 μg/ngày) giúp ức chế nồng độ TSH để ngăn ngừa bướu tái phát."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nVì sau khi cắt bỏ một phần nhu mô giáp, lượng hormon giáp nội sinh sản xuất ra bị giảm sút → Tuyến yên sẽ tăng tiết TSH kích thích phần mô giáp còn lại phì đại tăng sinh trở lại → Dùng Levothyroxine liều thấp (50 μg/ngày) giúp ức chế nồng độ TSH để ngăn ngừa bướu tái phát.\n\n🔍 Góc nhìn chuyên sâu:\nLà biện pháp điều trị dự phòng tái phát sau mổ bắt buộc."
+    },
+    {
+      "id": "bg_card_046",
+      "text": "Tại sao không nên nạp lượng lớn Iod đột ngột cho bệnh nhân có bướu giáp đa nhân cao tuổi?",
+      "options": [
+        "Để phát hiện sớm biến chứng Hạ canxi máu cấp do tổn thương hoặc cắt nhầm các tuyến cận giáp trong quá trình phẫu thuật (biểu hiện: dấu hiệu Chvostek, dấu hiệu Trousseau, co quắp bàn tay thợ gốm).",
+        "Phụ nữ mang thai và cho con bú cần bổ sung 250 – 300 μg Iod/ngày (gấp đôi người bình thường) để đảm bảo đủ hormon giáp cho mẹ và não bộ thai nhi.",
+        "Vì ở bệnh nhân có bướu đa nhân lâu năm thường có các nhân giáp tự chủ chức năng mang đột biến soma của thụ thể TSH-R → Khi được cung cấp lượng lớn iod cơ chất đột ngột (từ thuốc cản quang hoặc Amiodarone), các nhân này sẽ tự do tổng hợp ồ ạt hormon giáp gây Cơn bão giáp trạng hoặc Cường giáp Basedow hóa (Jod-Basedow) rất nguy hiểm.",
+        "Vì nang giáp chứa dịch keo thuần nhất hầu hết là tổn thương thoái hóa nang lành tính của bướu keo; trong khi nhân đặc chứa nhiều tế bào biểu mô có nguy cơ tăng sinh tế bào ác tính cao hơn nhiều."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\nVì ở bệnh nhân có bướu đa nhân lâu năm thường có các nhân giáp tự chủ chức năng mang đột biến soma của thụ thể TSH-R → Khi được cung cấp lượng lớn iod cơ chất đột ngột (từ thuốc cản quang hoặc Amiodarone), các nhân này sẽ tự do tổng hợp ồ ạt hormon giáp gây Cơn bão giáp trạng hoặc Cường giáp Basedow hóa (Jod-Basedow) rất nguy hiểm.\n\n🔍 Góc nhìn chuyên sâu:\nCần xét nghiệm TSH trước khi tiêm thuốc cản quang chứa iod ở người già có bướu cổ."
+    },
+    {
+      "id": "bg_card_047",
+      "text": "Tại sao thai nhi bị đần độn bẩm sinh (Cretinism) nếu mẹ bị thiếu Iod nặng trong 3 tháng đầu thai kỳ?",
+      "options": [
+        "Chỉ định tiêm bắp Lipiodol cho người dân ở các vùng núi cao hẻo lánh có tỷ lệ mắc bướu cổ địa phương > 30% dân số, nơi muối iod chưa tiếp cận được; mỗi mũi tiêm cung cấp đủ iod dự trữ trong 1 đến 3 năm.",
+        "Bướu giáp đơn thuần (còn gọi là bướu cổ đơn thuần, bướu giáp không độc) là tình trạng tuyến giáp phì đại to ra nhưng không do viêm, không do ung thư và chức năng tuyến giáp hoàn toàn bình thường (Bình giáp - Euthyroid).",
+        "Thể thần kinh: Chậm phát triển trí tuệ nặng nề (thiểu năng tâm thần), câm điếc bẩm sinh, liệt cứng hai chi dưới, lác mắt, dáng đi loạng choạng.",
+        "Trong 3 tháng đầu thai kỳ, não bộ thai nhi phát triển với tốc độ phân chia tế bào thần kinh tối đa và hình thành vỏ não nhưng tuyến giáp thai nhi chưa hoạt động (chưa tự tiết hormon giáp) → Não thai nhi phụ thuộc hoàn toàn vào T4 từ mẹ truyền qua nhau thai → Mẹ thiếu iod không cung cấp đủ T4 sẽ gây tổn thương não vĩnh viễn không hồi phục."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nTrong 3 tháng đầu thai kỳ, não bộ thai nhi phát triển với tốc độ phân chia tế bào thần kinh tối đa và hình thành vỏ não nhưng tuyến giáp thai nhi chưa hoạt động (chưa tự tiết hormon giáp) → Não thai nhi phụ thuộc hoàn toàn vào T4 từ mẹ truyền qua nhau thai → Mẹ thiếu iod không cung cấp đủ T4 sẽ gây tổn thương não vĩnh viễn không hồi phục.\n\n🔍 Góc nhìn chuyên sâu:\nBổ sung iod sau sinh không thể phục hồi lại trí tuệ đã bị tổn thương."
+    },
+    {
+      "id": "bg_card_048",
+      "text": "Các triệu chứng kinh điển của Hội chứng Đần độn bẩm sinh do thiếu Iod (Endemic Cretinism)?",
+      "options": [
+        "Để phát hiện sớm biến chứng Hạ canxi máu cấp do tổn thương hoặc cắt nhầm các tuyến cận giáp trong quá trình phẫu thuật (biểu hiện: dấu hiệu Chvostek, dấu hiệu Trousseau, co quắp bàn tay thợ gốm).",
+        "Ở nữ giới trưởng thành: Thể tích tuyến giáp bình thường .",
+        "Thể thần kinh: Chậm phát triển trí tuệ nặng nề (thiểu năng tâm thần), câm điếc bẩm sinh, liệt cứng hai chi dưới, lác mắt, dáng đi loạng choạng.",
+        "Hàm lượng tiêu chuẩn là 20 – 40 mg Iod/kg muối ăn (dưới dạng Potassium Iodate KIO3 ổn định)."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\n1. Thể thần kinh: Chậm phát triển trí tuệ nặng nề (thiểu năng tâm thần), câm điếc bẩm sinh, liệt cứng hai chi dưới, lác mắt, dáng đi loạng choạng.\n2. Thể phù niêm: Suy giáp nặng, lùn tuyến giáp, mặt phù niêm, da khô, lưỡi to bè thò ra ngoài.\n\n🔍 Góc nhìn chuyên sâu:\nLà thảm họa sức khỏe cộng đồng có thể phòng ngừa 100% bằng muối iod."
+    },
+    {
+      "id": "bg_card_049",
+      "text": "Tại sao muối ăn trộn Iod cần được đựng trong lọ kín và tránh ánh sáng trực tiếp?",
+      "options": [
+        "Tỷ lệ bao phủ muối iod trong các hộ gia đình đạt > 90%.",
+        "Vì hợp chất Iod (Potassium Iodate KIO3 hoặc Potassium Iodide KI) trong muối ăn rất dễ bị oxy hóa, thăng hoa và bay hơi mất khi tiếp xúc với nhiệt độ cao, độ ẩm không khí và ánh sáng mặt trời chiếu trực tiếp.",
+        "Vì nồng độ hormon tuyến giáp lưu hành trong máu vẫn đủ đáp ứng nhu cầu tăng trưởng xương và phát triển não bộ của trẻ (khác hoàn toàn với suy giáp bẩm sinh).",
+        "Vì bướu lâu năm đã bị xơ hóa, vôi hóa thô và hình thành các nhân giáp tự chủ không còn chịu sự kiểm soát của TSH; dùng L-T4 không làm nhỏ bướu mà gây nguy cơ rung nhĩ và loãng xương."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nVì hợp chất Iod (Potassium Iodate KIO3 hoặc Potassium Iodide KI) trong muối ăn rất dễ bị oxy hóa, thăng hoa và bay hơi mất khi tiếp xúc với nhiệt độ cao, độ ẩm không khí và ánh sáng mặt trời chiếu trực tiếp.\n\n🔍 Góc nhìn chuyên sâu:\nCần đậy kín nắp lọ muối và nêm muối vào thức ăn sau khi đã tắt bếp nấu chín."
+    },
+    {
+      "id": "bg_card_050",
+      "text": "Thể tích tuyến giáp bình thường trên siêu âm ở người trưởng thành là bao nhiêu?",
+      "options": [
+        "Trẻ em dưới 5 tuổi: 90 μg/ngày.",
+        "Vì nang giáp chứa dịch keo thuần nhất hầu hết là tổn thương thoái hóa nang lành tính của bướu keo; trong khi nhân đặc chứa nhiều tế bào biểu mô có nguy cơ tăng sinh tế bào ác tính cao hơn nhiều.",
+        "Ở nữ giới trưởng thành: Thể tích tuyến giáp bình thường .",
+        "Vì lượng iod nạp vào quá nhiều có thể kích hoạt các nhân giáp tự chủ tiềm ẩn trong bướu phát triển thành Cơn bão giáp trạng hoặc Cường giáp Basedow hóa (hiệu ứng Jod-Basedow) đe dọa suy tim cấp."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\n• Ở nữ giới trưởng thành: Thể tích tuyến giáp bình thường .\n• Ở nam giới trưởng thành: Thể tích tuyến giáp bình thường .\n• Thể tích được tính theo công thức hình elip: Thể tích mỗi thùy = Chiều dài × Chiều rộng × Chiều sâu × 0.479.\n\n🔍 Góc nhìn chuyên sâu:\nThể tích > 18 mL ở nữ hoặc > 25 mL ở nam được định nghĩa là bướu giáp to trên siêu âm."
+    },
+    {
+      "id": "bg_card_051",
+      "text": "Vai trò của chỉ số TIRADS trên siêu âm đối với bướu giáp nhân?",
+      "options": [
+        "Vì các thành viên trong cùng một gia đình sống chung trong cùng một môi trường địa lý thiếu iod, sử dụng chung nguồn nước và cùng một chế độ ăn uống thiếu iod như nhau (tính chất gia đình do môi trường).",
+        "Hệ thống phân loại ACR-TIRADS (từ TIRADS 1 đến TIRADS 5) đánh giá nguy cơ ác tính của nhân giáp dựa trên 5 đặc điểm siêu âm: Thành phần, Độ hồi âm, Hình dáng, Đường bờ và Điểm vôi hóa → Giúp đưa ra quyết định có cần chọc hút tế bào kim nhỏ (FNA) hay chỉ theo dõi định kỳ.",
+        "Ở nữ giới trưởng thành: Thể tích tuyến giáp bình thường .",
+        "Bổ sung muối ăn trộn iod trong khẩu phần ăn hàng ngày liên tục trong thời gian tối thiểu 6 tháng."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nHệ thống phân loại ACR-TIRADS (từ TIRADS 1 đến TIRADS 5) đánh giá nguy cơ ác tính của nhân giáp dựa trên 5 đặc điểm siêu âm: Thành phần, Độ hồi âm, Hình dáng, Đường bờ và Điểm vôi hóa → Giúp đưa ra quyết định có cần chọc hút tế bào kim nhỏ (FNA) hay chỉ theo dõi định kỳ.\n\n🔍 Góc nhìn chuyên sâu:\nTIRADS 1, 2: Lành tính; TIRADS 3: Nguy cơ thấp; TIRADS 4, 5: Nghi ngờ ác tính cao cần làm FNA."
+    },
+    {
+      "id": "bg_card_052",
+      "text": "Chỉ định chọc hút tế bào kim nhỏ (FNA) theo kích thước và TIRADS?",
+      "options": [
+        "Các tế bào nang giáp quá sản bắt giữ I-131; tia phóng xạ Beta (β) phát ra từ I-131 có tầm xuyên ngắn trong mô (1 - 2mm) phá hủy chọn lọc các tế bào nang giáp phì đại và gây xơ hóa teo nhỏ mô giáp.",
+        "TIRADS 3 (Nguy cơ thấp): Chỉ định FNA khi kích thước nhân ≥ 2.5 cm.",
+        "Vì hợp chất Iod (Potassium Iodate KIO3 hoặc Potassium Iodide KI) trong muối ăn rất dễ bị oxy hóa, thăng hoa và bay hơi mất khi tiếp xúc với nhiệt độ cao, độ ẩm không khí và ánh sáng mặt trời chiếu trực tiếp.",
+        "Biểu hiện: Bướu giáp to nhanh đột ngột chỉ trong vài giờ kèm theo đau nhức dữ dội vùng cổ, da căng bóng và cảm giác chèn ép khó thở cấp tính."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\n• TIRADS 3 (Nguy cơ thấp): Chỉ định FNA khi kích thước nhân ≥ 2.5 cm.\n• TIRADS 4 (Nghi ngờ vừa): Chỉ định FNA khi kích thước nhân ≥ 1.5 cm.\n• TIRADS 5 (Nghi ngờ cao): Chỉ định FNA khi kích thước nhân ≥ 1.0 cm.\n\n🔍 Góc nhìn chuyên sâu:\nFNA là tiêu chuẩn vàng trước mổ để phân biệt nhân lành tính vs. ung thư tuyến giáp."
+    },
+    {
+      "id": "bg_card_053",
+      "text": "Cơ chế hình thành các nốt vôi hóa trong bướu giáp lâu năm?",
+      "options": [
+        "Vì điều đó chứng tỏ bướu giáp không còn nhạy cảm với sự ức chế TSH; tiếp tục dùng L-T4 kéo dài không mang lại lợi ích mà gây nguy cơ mất chất khoáng xương (loãng xương) và biến chứng tim mạch do nhiễm độc giáp dưới lâm sàng.",
+        "Vì nhân lạnh là vùng mô giáp không còn khả năng bắt giữ iod phóng xạ; khoảng 15% - 20% nhân lạnh có bản chất là ung thư tuyến giáp (đặc biệt là ung thư dạng nhú hoặc dạng nang).",
+        "Trong điều kiện thiếu hụt iod cơ chất, tuyến giáp sẽ ưu tiên tổng hợp T3 nhiều hơn T4 (vì T3 chỉ cần 3 nguyên tử iod nhưng hoạt tính sinh học mạnh gấp 3 - 5 lần T4), kết hợp các mô ngoại vi tăng chuyển T4 thành T3 → Giúp duy trì nồng độ FT3 bình thường để giữ trạng thái bình giáp mà không làm tăng vọt TSH.",
+        "Các nang giáp quá sản lâu năm bị thiếu máu nuôi dưỡng dẫn đến hoại tử mô bã đậu và lắng đọng muối canxi photphat thô tạo thành các nốt vôi hóa thô lành tính (Macrocalcifications) nhìn thấy rõ trên X-quang và siêu âm."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nCác nang giáp quá sản lâu năm bị thiếu máu nuôi dưỡng dẫn đến hoại tử mô bã đậu và lắng đọng muối canxi photphat thô tạo thành các nốt vôi hóa thô lành tính (Macrocalcifications) nhìn thấy rõ trên X-quang và siêu âm.\n\n🔍 Góc nhìn chuyên sâu:\nVôi hóa thô dạng mảng thường lành tính; vi vôi hóa dạng hạt cát (Microcalcifications) gợi ý ung thư dạng nhú."
+    },
+    {
+      "id": "bg_card_054",
+      "text": "Dấu hiệu chèn ép tĩnh mạch cảnh của bướu giáp to biểu hiện như thế nào?",
+      "options": [
+        "Vì nhân lạnh là vùng mô giáp không còn khả năng bắt giữ iod phóng xạ; khoảng 15% - 20% nhân lạnh có bản chất là ung thư tuyến giáp (đặc biệt là ung thư dạng nhú hoặc dạng nang).",
+        "Bướu to chèn ép vào tĩnh mạch cảnh trong và tĩnh mạch cảnh ngoài làm cản trở máu hồi lưu về tim → Gây giãn tĩnh mạch nông vùng cổ ngực, phù nề nhẹ vùng cổ mặt và cảm giác tức nặng đầu khi cúi xuống.",
+        "Phụ nữ mang thai và cho con bú cần bổ sung 250 – 300 μg Iod/ngày (gấp đôi người bình thường) để đảm bảo đủ hormon giáp cho mẹ và não bộ thai nhi.",
+        "Vì hợp chất sinh độc tố thiocyanate (linamarin) tập trung nhiều nhất ở lớp vỏ dày của củ sắn; bóc vỏ ngâm nước giúp hòa tan và loại bỏ phần lớn độc tố trước khi nấu."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nBướu to chèn ép vào tĩnh mạch cảnh trong và tĩnh mạch cảnh ngoài làm cản trở máu hồi lưu về tim → Gây giãn tĩnh mạch nông vùng cổ ngực, phù nề nhẹ vùng cổ mặt và cảm giác tức nặng đầu khi cúi xuống.\n\n🔍 Góc nhìn chuyên sâu:\nNặng hơn sẽ gây Hội chứng tĩnh mạch chủ trên với phù áo choàng."
+    },
+    {
+      "id": "bg_card_055",
+      "text": "Chỉ định dùng dầu Iod tiêm (Lipiodol) trong chương trình phòng chống bướu cổ địa phương?",
+      "options": [
+        "Vì môi trường acid dạ dày khi đói giúp viên thuốc rã nhanh và đạt tỷ lệ hấp thu tối đa (khoảng 70% - 80%) tại đoạn đầu ruột non; thức ăn có thể làm giảm 20% - 30% sinh khả dụng của thuốc.",
+        "Chỉ định: Bệnh nhân bướu giáp to hoặc bướu đa nhân có chống chỉ định phẫu thuật hoặc từ chối mổ.",
+        "Các tế bào nang giáp quá sản bắt giữ I-131; tia phóng xạ Beta (β) phát ra từ I-131 có tầm xuyên ngắn trong mô (1 - 2mm) phá hủy chọn lọc các tế bào nang giáp phì đại và gây xơ hóa teo nhỏ mô giáp.",
+        "Chỉ định tiêm bắp Lipiodol cho người dân ở các vùng núi cao hẻo lánh có tỷ lệ mắc bướu cổ địa phương > 30% dân số, nơi mạng lưới phân phối muối iod chưa tiếp cận được hiệu quả."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nChỉ định tiêm bắp Lipiodol cho người dân ở các vùng núi cao hẻo lánh có tỷ lệ mắc bướu cổ địa phương > 30% dân số, nơi mạng lưới phân phối muối iod chưa tiếp cận được hiệu quả. Mỗi mũi tiêm cung cấp đủ lượng iod dự trữ trong 1 đến 3 năm.\n\n🔍 Góc nhìn chuyên sâu:\nĐặc biệt ưu tiên cho phụ nữ trong độ tuổi sinh sản và trẻ em gái."
+    },
+    {
+      "id": "bg_card_056",
+      "text": "Tại sao bướu giáp đơn thuần gặp ở nữ giới nhiều gấp 5 - 10 lần nam giới?",
+      "options": [
+        "Do hormon sinh dục nữ (Estrogen) làm tăng tính nhạy cảm của thụ thể TSH-R trên tế bào nang giáp với TSH, kết hợp với các biến động nhu cầu hormon giáp lớn trong các chu kỳ sinh lý (dậy thì, mang thai, cho con bú, mãn kinh).",
+        "Bướu cổ địa phương (Endemic goiter): Tỷ lệ mắc bệnh trong cộng đồng dân cư của một vùng địa lý > 10% dân số (chủ yếu do môi trường thiếu hụt Iod).",
+        "Biểu hiện: Bướu giáp to phồng nhanh đột ngột chỉ trong vài giờ kèm đau nhức dữ dội vùng cổ, da căng bóng và khó thở cấp tính do chèn ép khí quản.",
+        "Vì Anti-TPO âm tính chứng minh tuyến giáp to không phải do quá trình tự miễn phá hủy mạn tính của Viêm tuyến giáp Hashimoto."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nDo hormon sinh dục nữ (Estrogen) làm tăng tính nhạy cảm của thụ thể TSH-R trên tế bào nang giáp với TSH, kết hợp với các biến động nhu cầu hormon giáp lớn trong các chu kỳ sinh lý (dậy thì, mang thai, cho con bú, mãn kinh).\n\n🔍 Góc nhìn chuyên sâu:\nNữ giới là đối tượng đích cần tập trung bổ sung iod phòng bệnh."
+    },
+    {
+      "id": "bg_card_057",
+      "text": "Tại sao vùng núi cao xa biển lại có tỷ lệ bướu cổ địa phương cao nhất (> 10%)?",
+      "options": [
+        "Thường xảy ra ở bệnh nhân có bướu giáp đa nhân lâu năm có các nhân giáp tự chủ chức năng, khi được bổ sung lượng lớn Iod đột ngột (uống thuốc cản quang, dùng Amiodarone, nạp iod liều cao) → Các nhân giáp tổng hợp ồ ạt hormon giáp gây nhiễm độc giáp cấp.",
+        "Do nước mưa và băng tuyết bào mòn rửa trôi khoáng chất iod trong đất đá trôi ra biển, khiến nguồn nước ngầm, đất trồng trọt và thực phẩm tại vùng núi cao bị thiếu hụt iod trầm trọng.",
+        "Khối u nằm ở giữa cổ, ranh giới rõ, không dính vào da, không đau, mật độ mềm hoặc chắc.",
+        "Biểu hiện: Bướu giáp to phồng nhanh đột ngột chỉ trong vài giờ kèm đau nhức dữ dội vùng cổ, da căng bóng và khó thở cấp tính do chèn ép khí quản."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nDo nước mưa và băng tuyết bào mòn rửa trôi khoáng chất iod trong đất đá trôi ra biển, khiến nguồn nước ngầm, đất trồng trọt và thực phẩm tại vùng núi cao bị thiếu hụt iod trầm trọng.\n\n🔍 Góc nhìn chuyên sâu:\nBổ sung muối iod toàn dân là giải pháp duy nhất mang lại hiệu quả bền vững."
+    },
+    {
+      "id": "bg_card_058",
+      "text": "Tại sao bướu giáp di động nhịp nhàng theo nhịp nuốt khi thăm khám?",
+      "options": [
+        "Bổ sung muối ăn trộn iod trong khẩu phần ăn hàng ngày liên tục trong thời gian tối thiểu 6 tháng.",
+        "Vì bao tuyến giáp dính chặt vào sụn nhẫn và thanh quản thông qua dây chằng treo Berry; khi bệnh nhân nuốt, thanh quản và sụn nhẫn bị kéo nâng lên trên mang theo tuyến giáp di động cùng nhịp.",
+        "Vì trong các loại rau họ cải sống có chứa các hợp chất Glucosinolate, khi nhai sống enzyme myrosinase sẽ thủy phân tạo thành Goitrin và Thiocyanate → Chất này ức chế enzyme TPO ngăn cản gắn iod vào thyroglobulin.",
+        "Động tác nuốt làm thanh quản và sụn nhẫn được kéo nâng lên trên, mang theo tuyến giáp di động lên xuống dưới các ngón tay khám, giúp xác định chắc chắn khối u thuộc tuyến giáp và phân biệt với hạch cổ hoặc u mỡ."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nVì bao tuyến giáp dính chặt vào sụn nhẫn và thanh quản thông qua dây chằng treo Berry; khi bệnh nhân nuốt, thanh quản và sụn nhẫn bị kéo nâng lên trên mang theo tuyến giáp di động cùng nhịp.\n\n🔍 Góc nhìn chuyên sâu:\nGiúp phân biệt khối u tuyến giáp với các khối u vùng cổ khác (u nang khe mang, hạch cổ)."
+    },
+    {
+      "id": "bg_card_059",
+      "text": "Tại sao bướu giáp đơn thuần HOÀN TOÀN KHÔNG CÓ tiếng thổi tâm thu tại bướu?",
+      "options": [
+        "Ở lứa tuổi dậy thì (12 - 18 tuổi), cơ thể có sự tăng vọt tốc độ phát triển thể chất và tăng mạnh nhu cầu năng lượng chuyển hóa cơ bản → Tuyến giáp phải tăng cường độ hoạt động để sản xuất nhiều hormon giáp hơn → Dẫn đến phì đại tuyến giáp nhẹ lan tỏa tạm thời (thường Độ IA hoặc IB).",
+        "Vì trong bướu giáp đơn thuần, mạch máu nuôi tuyến giáp không bị tăng sinh giãn rộng dòng chảy xoáy như trong bướu mạch của bệnh Basedow.",
+        "Bổ sung muối ăn trộn iod trong khẩu phần ăn hàng ngày liên tục trong thời gian tối thiểu 6 tháng.",
+        "Quy trình: Cho bệnh nhân giơ thẳng hai tay lên cao ép sát hai tai trong 1 - 2 phút."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nVì trong bướu giáp đơn thuần, mạch máu nuôi tuyến giáp không bị tăng sinh giãn rộng dòng chảy xoáy như trong bướu mạch của bệnh Basedow.\n\n🔍 Góc nhìn chuyên sâu:\nNghe có tiếng thổi tâm thu liên tục tại cực trên bướu giáp là tiêu chuẩn vàng chẩn đoán Basedow."
+    },
+    {
+      "id": "bg_card_060",
+      "text": "Tại sao nghiệm pháp Pemberton lại dương tính ở bệnh nhân có bướu giáp chìm trung thất?",
+      "options": [
+        "Để phát hiện sớm biến chứng Hạ canxi máu cấp do tổn thương hoặc cắt nhầm các tuyến cận giáp trong quá trình phẫu thuật (biểu hiện: dấu hiệu Chvostek, dấu hiệu Trousseau, co quắp bàn tay thợ gốm).",
+        "Khi giơ 2 tay lên cao ép sát tai, bờ trên xương đòn và xương ức kéo bướu giáp chìm kẹt vào lỗ trên lồng ngực (Thoracic inlet) làm bít tắc tĩnh mạch chủ trên và chèn ép khí quản gây ứ máu đầu mặt (mặt tím tái) và thở rít.",
+        "Vì các thành viên trong cùng một gia đình sống chung trong cùng một môi trường địa lý thiếu iod, sử dụng chung nguồn nước và cùng một chế độ ăn uống thiếu iod như nhau (tính chất gia đình do môi trường).",
+        "Các nang giáp quá sản lâu năm bị thiếu máu nuôi dưỡng dẫn đến hoại tử mô bã đậu và lắng đọng muối canxi photphat thô tạo thành các nốt vôi hóa thô lành tính (Macrocalcifications) nhìn thấy rõ trên X-quang và siêu âm."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nKhi giơ 2 tay lên cao ép sát tai, bờ trên xương đòn và xương ức kéo bướu giáp chìm kẹt vào lỗ trên lồng ngực (Thoracic inlet) làm bít tắc tĩnh mạch chủ trên và chèn ép khí quản gây ứ máu đầu mặt (mặt tím tái) và thở rít.\n\n🔍 Góc nhìn chuyên sâu:\nPemberton (+) là chỉ định phẫu thuật tuyệt đối."
+    },
+    {
+      "id": "bg_card_061",
+      "text": "Ý nghĩa của việc đo chu vi vòng cổ bằng thước dây khi khám bướu giáp?",
+      "options": [
+        "Khối bướu giáp có cực dưới phát triển sâu qua lỗ trên lồng ngực vào trung thất trước trên, không sờ thấy cực dưới khi nuốt; chụp CT thấy khối u trung thất liên tục với nhu mô tuyến giáp ở cổ.",
+        "Chỉ định tiêm bắp Lipiodol cho người dân ở các vùng núi cao hẻo lánh có tỷ lệ mắc bướu cổ địa phương > 30% dân số, nơi muối iod chưa tiếp cận được; mỗi mũi tiêm cung cấp đủ iod dự trữ trong 1 đến 3 năm.",
+        "Để có chỉ số định lượng khách quan theo dõi sự thay đổi kích thước của bướu giáp qua các đợt tái khám (đánh giá hiệu quả thu nhỏ của muối iod/L-T4 hoặc phát hiện bướu to nhanh).",
+        "Vì sau khi cắt bỏ một phần nhu mô giáp, lượng hormon giáp nội sinh sản xuất ra bị giảm sút → Tuyến yên sẽ tăng tiết TSH kích thích phần mô giáp còn lại phì đại tăng sinh trở lại → Dùng Levothyroxine liều thấp (50 μg/ngày) giúp ức chế nồng độ TSH để ngăn ngừa bướu tái phát."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\nĐể có chỉ số định lượng khách quan theo dõi sự thay đổi kích thước của bướu giáp qua các đợt tái khám (đánh giá hiệu quả thu nhỏ của muối iod/L-T4 hoặc phát hiện bướu to nhanh).\n\n🔍 Góc nhìn chuyên sâu:\nĐo tại vị trí chu vi cổ lớn nhất qua đỉnh bướu."
+    },
+    {
+      "id": "bg_card_062",
+      "text": "Tại sao trong bướu giáp đơn thuần độ tập trung I-131 tại tuyến giáp lại nằm trong giới hạn bình thường?",
+      "options": [
+        "Vì các thành viên trong cùng một gia đình sống chung trong cùng một môi trường địa lý thiếu iod, sử dụng chung nguồn nước và cùng một chế độ ăn uống thiếu iod như nhau (tính chất gia đình do môi trường).",
+        "Phát hiện bướu giáp to nhẹ Độ IA, FT4 thấp và TSH = 3.9 mIU/L (> 2.5 mIU/L).",
+        "Vì các nhân giáp tự chủ mang đột biến hoạt hóa thụ thể TSH-R không bị kiểm soát; khi có lượng lớn cơ chất iod cung cấp đột ngột (từ thuốc cản quang hoặc Amiodarone), các nhân này sẽ tự do sản xuất ồ ạt T3, T4 gây nhiễm độc giáp cấp.",
+        "Vì nhu mô tuyến giáp chỉ phì đại số lượng nang giáp nhưng hoạt tính thu nhận iod của từng tế bào không bị kích hoạt quá mức như trong Basedow (sau 2h đạt 15%, 6h đạt 25%, 24h đạt 40%)."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nVì nhu mô tuyến giáp chỉ phì đại số lượng nang giáp nhưng hoạt tính thu nhận iod của từng tế bào không bị kích hoạt quá mức như trong Basedow (sau 2h đạt 15%, 6h đạt 25%, 24h đạt 40%).\n\n🔍 Góc nhìn chuyên sâu:\nKhác với Basedow có độ tập trung I-131 tăng rất cao sớm sau 2h."
+    },
+    {
+      "id": "bg_card_063",
+      "text": "Tại sao xét nghiệm kháng thể Anti-TPO âm tính giúp khẳng định bướu giáp đơn thuần?",
+      "options": [
+        "Hệ thống phân loại ACR-TIRADS (từ TIRADS 1 đến TIRADS 5) đánh giá nguy cơ ác tính của nhân giáp dựa trên 5 đặc điểm siêu âm: Thành phần, Độ hồi âm, Hình dáng, Đường bờ và Điểm vôi hóa → Giúp đưa ra quyết định có cần chọc hút tế bào kim nhỏ (FNA) hay chỉ theo dõi định kỳ.",
+        "Vì Anti-TPO âm tính chứng minh tuyến giáp to không phải do quá trình tự miễn phá hủy mạn tính của Viêm tuyến giáp Hashimoto.",
+        "Bệnh nhân xuất hiện khàn tiếng tiến triển, giọng nói bị trầm đục, phát âm khó, nói hai giọng (giọng đôi) do một bên dây thanh âm bị liệt không khép kín được khi phát âm.",
+        "Chỉ định tiêm bắp Lipiodol cho người dân ở các vùng núi cao hẻo lánh có tỷ lệ mắc bướu cổ địa phương > 30% dân số, nơi muối iod chưa tiếp cận được; mỗi mũi tiêm cung cấp đủ iod dự trữ trong 1 đến 3 năm."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nVì Anti-TPO âm tính chứng minh tuyến giáp to không phải do quá trình tự miễn phá hủy mạn tính của Viêm tuyến giáp Hashimoto.\n\n🔍 Góc nhìn chuyên sâu:\nAnti-TPO dương tính nồng độ cao là bằng chứng của Hashimoto."
+    },
+    {
+      "id": "bg_card_064",
+      "text": "Tại sao bướu giáp đơn thuần giai đoạn đầu (bướu keo lan tỏa) lại đáp ứng thu nhỏ bướu rất tốt với Levothyroxine?",
+      "options": [
+        "Chỉ định: Bướu giáp to lan tỏa ở người trẻ, xét nghiệm thấy FT4 giảm và TSH tăng hoặc nằm ở mức cao bình thường.",
+        "Bướu cổ địa phương (Endemic goiter): Tỷ lệ mắc bệnh trong cộng đồng dân cư của một vùng địa lý > 10% dân số (chủ yếu do môi trường thiếu hụt Iod).",
+        "Vì ở giai đoạn sớm, các nang giáp chỉ quá sản tế bào và tích tụ chất keo đồng nhất, chưa có xơ hóa hay nhân tự chủ; khi dùng L-T4 ức chế TSH nồng độ chất keo sẽ được tái hấp thu làm bướu teo nhỏ lại.",
+        "Thể thần kinh: Chậm phát triển trí tuệ nặng nề (thiểu năng tâm thần), câm điếc bẩm sinh, liệt cứng hai chi dưới, lác mắt, dáng đi loạng choạng."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\nVì ở giai đoạn sớm, các nang giáp chỉ quá sản tế bào và tích tụ chất keo đồng nhất, chưa có xơ hóa hay nhân tự chủ; khi dùng L-T4 ức chế TSH nồng độ chất keo sẽ được tái hấp thu làm bướu teo nhỏ lại.\n\n🔍 Góc nhìn chuyên sâu:\nThể tích bướu có thể giảm > 1/3 sau 3 - 6 tháng điều trị."
+    },
+    {
+      "id": "bg_card_065",
+      "text": "Tại sao bướu giáp đa nhân lâu năm ở người già lại KHÔNG ĐÁP ỨNG thu nhỏ với Levothyroxine?",
+      "options": [
+        "Bệnh nhân có cảm giác khó thở tiến triển, thở rít (Stridor) khi nằm ngửa hoặc khi gắng sức, ban đêm phải kê cao gối mới ngủ được; chụp X-quang hoặc CT thấy khí quản bị đè hẹp hoặc đẩy lệch sang bên.",
+        "Vì trong bướu giáp đơn thuần, mạch máu nuôi tuyến giáp không bị tăng sinh giãn rộng dòng chảy xoáy như trong bướu mạch của bệnh Basedow.",
+        "Vì bướu lâu năm đã bị xơ hóa, vôi hóa thô và hình thành các nhân giáp tự chủ không còn chịu sự kiểm soát của TSH; dùng L-T4 không làm nhỏ bướu mà gây nguy cơ rung nhĩ và loãng xương.",
+        "Bướu cổ địa phương (Endemic goiter): Tỷ lệ mắc bệnh trong cộng đồng dân cư của một vùng địa lý > 10% dân số (chủ yếu do môi trường thiếu hụt Iod)."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\nVì bướu lâu năm đã bị xơ hóa, vôi hóa thô và hình thành các nhân giáp tự chủ không còn chịu sự kiểm soát của TSH; dùng L-T4 không làm nhỏ bướu mà gây nguy cơ rung nhĩ và loãng xương.\n\n🔍 Góc nhìn chuyên sâu:\nChống chỉ định dùng L-T4 cho bướu đa nhân ở người cao tuổi."
+    },
+    {
+      "id": "bg_card_066",
+      "text": "Tại sao nếu sau 6 tháng điều trị Levothyroxine mà kích thước bướu giáp không giảm thì BẮT BUỘC PHẢI DỪNG THUỐC?",
+      "options": [
+        "Độ tập trung I-131 tại tuyến giáp nằm trong giới hạn hoàn toàn bình thường:",
+        "Vì điều đó chứng tỏ bướu giáp không còn nhạy cảm với sự ức chế TSH; tiếp tục dùng L-T4 kéo dài không mang lại lợi ích mà gây nguy cơ mất chất khoáng xương (loãng xương) và biến chứng tim mạch do nhiễm độc giáp dưới lâm sàng.",
+        "Các tế bào nang giáp quá sản bắt giữ I-131; tia phóng xạ Beta (β) phát ra từ I-131 có tầm xuyên ngắn trong mô (1 - 2mm) phá hủy chọn lọc các tế bào nang giáp phì đại và gây xơ hóa teo nhỏ mô giáp.",
+        "Vì hải sản và cá biển là nguồn cung cấp iod tự nhiên rất tốt giúp bù đắp lượng iod thiếu hụt của cơ thể, hỗ trợ tuyến giáp sản xuất đủ hormon và ngăn ngừa bướu phì đại thêm."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nVì điều đó chứng tỏ bướu giáp không còn nhạy cảm với sự ức chế TSH; tiếp tục dùng L-T4 kéo dài không mang lại lợi ích mà gây nguy cơ mất chất khoáng xương (loãng xương) và biến chứng tim mạch do nhiễm độc giáp dưới lâm sàng.\n\n🔍 Góc nhìn chuyên sâu:\nQuy tắc 6 tháng là tiêu chuẩn an toàn bắt buộc."
+    },
+    {
+      "id": "bg_card_067",
+      "text": "Tại sao hạn chế phẫu thuật tối đa đối với bướu giáp đơn thuần lan tỏa ở người trẻ?",
+      "options": [
+        "Trong nửa đầu thai kỳ tuyến giáp thai nhi chưa hoạt động, não thai nhi phụ thuộc hoàn toàn vào T4 từ mẹ qua nhau thai; mẹ thiếu iod không cung cấp đủ T4 làm tế bào thần kinh vỏ não thai nhi không phân chia và không myelin hóa được gây tổn thương não vĩnh viễn.",
+        "Bệnh nhân có cảm giác khó thở tiến triển, thở rít (Stridor) khi nằm ngửa hoặc khi gắng sức, ban đêm phải kê cao gối mới ngủ được; chụp X-quang hoặc CT thấy khí quản bị đè hẹp hoặc đẩy lệch sang bên.",
+        "Vì nồng độ hormon giáp (FT3, FT4) và TSH trong máu vẫn được duy trì trong giới hạn bình thường (bình giáp), tuyến giáp chỉ phì đại tăng kích thước để bắt giữ iod bù trừ mà không gây rối loạn chuyển hóa toàn thân.",
+        "Vì bướu to là phản ứng phì đại bù trừ sinh lý của cơ thể để bắt giữ iod; cắt bỏ mô giáp sẽ làm bệnh nhân bị suy giáp sau mổ và TSH tăng cao sẽ kích thích phần mô giáp còn lại phì đại tái phát to hơn."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nVì bướu to là phản ứng phì đại bù trừ sinh lý của cơ thể để bắt giữ iod; cắt bỏ mô giáp sẽ làm bệnh nhân bị suy giáp sau mổ và TSH tăng cao sẽ kích thích phần mô giáp còn lại phì đại tái phát to hơn.\n\n🔍 Góc nhìn chuyên sâu:\nƯu tiên điều trị nội khoa bảo tồn và bổ sung muối iod."
+    },
+    {
+      "id": "bg_card_068",
+      "text": "Tại sao sau khi phẫu thuật cắt tuyến giáp điều trị bướu đơn thuần bắt buộc phải dùng Levothyroxine liều thấp?",
+      "options": [
+        "Là chỉ số nhạy nhất đánh giá tình trạng cung cấp và thiếu hụt iod của cộng đồng.",
+        "Vì nồng độ hormon giáp (FT3, FT4) và TSH trong máu vẫn được duy trì trong giới hạn bình thường (bình giáp), tuyến giáp chỉ phì đại tăng kích thước để bắt giữ iod bù trừ mà không gây rối loạn chuyển hóa toàn thân.",
+        "Để giữ nồng độ TSH trong khoảng thấp (1.0 - 2.0 mIU/L), ngăn chặn tuyến yên tiết TSH kích thích phần mô giáp còn lại phì đại tái phát bướu cổ trở lại.",
+        "TIRADS 3 (Nguy cơ thấp): Chỉ định FNA khi kích thước nhân ≥ 2.5 cm."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\nĐể giữ nồng độ TSH trong khoảng thấp (1.0 - 2.0 mIU/L), ngăn chặn tuyến yên tiết TSH kích thích phần mô giáp còn lại phì đại tái phát bướu cổ trở lại.\n\n🔍 Góc nhìn chuyên sâu:\nDùng liều 50 μg/ngày duy trì kéo dài."
+    },
+    {
+      "id": "bg_card_069",
+      "text": "Tại sao nạp lượng lớn Iod đột ngột cho bướu đa nhân lâu năm lại gây Cường giáp Basedow hóa (Hiệu ứng Jod-Basedow)?",
+      "options": [
+        "Vì các nhân giáp tự chủ mang đột biến hoạt hóa thụ thể TSH-R không bị kiểm soát; khi có lượng lớn cơ chất iod cung cấp đột ngột (từ thuốc cản quang hoặc Amiodarone), các nhân này sẽ tự do sản xuất ồ ạt T3, T4 gây nhiễm độc giáp cấp.",
+        "Các tế bào nang giáp quá sản bắt giữ I-131; tia phóng xạ Beta (β) phát ra từ I-131 có tầm xuyên ngắn trong mô (1 - 2mm) phá hủy chọn lọc các tế bào nang giáp phì đại và gây xơ hóa teo nhỏ mô giáp.",
+        "Vì ở bệnh nhân có bướu đa nhân lâu năm thường có các nhân giáp tự chủ chức năng mang đột biến soma của thụ thể TSH-R → Khi được cung cấp lượng lớn iod cơ chất đột ngột (từ thuốc cản quang hoặc Amiodarone), các nhân này sẽ tự do tổng hợp ồ ạt hormon giáp gây Cơn bão giáp trạng hoặc Cường giáp Basedow hóa (Jod-Basedow) rất nguy hiểm.",
+        "Vì ở người cao tuổi có bướu đa nhân thường có các nhân giáp tự chủ chức năng; dùng L-T4 liều cao sẽ gây ra tình trạng nhiễm độc giáp do thuốc, khởi phát cơn đau thắt ngực, rung nhĩ và suy tim cấp."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nVì các nhân giáp tự chủ mang đột biến hoạt hóa thụ thể TSH-R không bị kiểm soát; khi có lượng lớn cơ chất iod cung cấp đột ngột (từ thuốc cản quang hoặc Amiodarone), các nhân này sẽ tự do sản xuất ồ ạt T3, T4 gây nhiễm độc giáp cấp.\n\n🔍 Góc nhìn chuyên sâu:\nCần thận trọng kiểm tra TSH trước khi tiêm thuốc cản quang ở người già có bướu cổ."
+    },
+    {
+      "id": "bg_card_070",
+      "text": "Tại sao thiếu Iod ở phụ nữ mang thai gây nguy cơ đần độn bẩm sinh (Cretinism) cho thai nhi?",
+      "options": [
+        "Chỉ định tiêm bắp Lipiodol cho người dân ở các vùng núi cao hẻo lánh có tỷ lệ mắc bướu cổ địa phương > 30% dân số, nơi muối iod chưa tiếp cận được; mỗi mũi tiêm cung cấp đủ iod dự trữ trong 1 đến 3 năm.",
+        "Vì toàn bộ các tế bào nang giáp trong hai thùy đều tham gia vào quá trình bắt giữ iod phì đại bù trừ như nhau, chưa xuất hiện các vùng mất chức năng hoặc nhân tăng hoạt tự chủ.",
+        "Chỉ định: Bướu giáp to lan tỏa ở người trẻ, xét nghiệm thấy FT4 giảm và TSH tăng hoặc nằm ở mức cao bình thường.",
+        "Trong nửa đầu thai kỳ tuyến giáp thai nhi chưa hoạt động, não thai nhi phụ thuộc hoàn toàn vào T4 từ mẹ qua nhau thai; mẹ thiếu iod không cung cấp đủ T4 làm tế bào thần kinh vỏ não thai nhi không phân chia và không myelin hóa được gây tổn thương não vĩnh viễn."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nTrong nửa đầu thai kỳ tuyến giáp thai nhi chưa hoạt động, não thai nhi phụ thuộc hoàn toàn vào T4 từ mẹ qua nhau thai; mẹ thiếu iod không cung cấp đủ T4 làm tế bào thần kinh vỏ não thai nhi không phân chia và không myelin hóa được gây tổn thương não vĩnh viễn.\n\n🔍 Góc nhìn chuyên sâu:\nGây câm điếc bẩm sinh, thiểu năng trí tuệ nặng và lùn tuyến giáp."
+    },
+    {
+      "id": "bg_card_071",
+      "text": "Nhu cầu bổ sung Iod hàng ngày của phụ nữ mang thai và cho con bú theo khuyến cáo WHO là bao nhiêu?",
+      "options": [
+        "Phụ nữ mang thai và cho con bú cần bổ sung 250 – 300 μg Iod/ngày (gấp đôi người bình thường) để đảm bảo đủ hormon giáp cho mẹ và não bộ thai nhi.",
+        "Để đánh giá chính xác mức độ chèn ép khí quản, vị trí cực dưới của bướu so với quai động mạch chủ và tĩnh mạch chủ trên, giúp phẫu thuật viên lựa chọn đường mổ qua cổ hay cần mở xương ức.",
+        "Thể thần kinh: Chậm phát triển trí tuệ nặng nề (thiểu năng tâm thần), câm điếc bẩm sinh, liệt cứng hai chi dưới, lác mắt, dáng đi loạng choạng.",
+        "Trong vỏ và ruột củ sắn tươi chứa lượng lớn hợp chất Linamarin (Cyanogenic glucoside), khi ăn vào ruột sẽ giải phóng ra Thiocyanate → Thiocyanate có cấu trúc cạnh tranh ức chế trực tiếp bơm đồng vận chuyển Na+/I- (NIS) tại màng tế bào nang giáp làm tuyến giáp không bắt được iod."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nPhụ nữ mang thai và cho con bú cần bổ sung 250 – 300 μg Iod/ngày (gấp đôi người bình thường) để đảm bảo đủ hormon giáp cho mẹ và não bộ thai nhi.\n\n🔍 Góc nhìn chuyên sâu:\nBắt buộc bổ sung từ viên đa vi chất thai kỳ chứa iod và muối iod."
+    },
+    {
+      "id": "bg_card_072",
+      "text": "Tiêu chuẩn hàm lượng Iod trộn vào muối ăn toàn dân để phòng bệnh bướu cổ địa phương là bao nhiêu?",
+      "options": [
+        "Vì hợp chất Iod (Potassium Iodate KIO3 hoặc Potassium Iodide KI) trong muối ăn rất dễ bị oxy hóa, thăng hoa và bay hơi mất khi tiếp xúc với nhiệt độ cao, độ ẩm không khí và ánh sáng mặt trời chiếu trực tiếp.",
+        "Hàm lượng tiêu chuẩn là 20 – 40 mg Iod/kg muối ăn (dưới dạng Potassium Iodate KIO3 ổn định).",
+        "Phụ nữ mang thai và cho con bú cần bổ sung 250 – 300 μg Iod/ngày (gấp đôi người bình thường) để đảm bảo đủ hormon giáp cho mẹ và não bộ thai nhi.",
+        "Vì lượng iod nạp vào quá nhiều có thể kích hoạt các nhân giáp tự chủ tiềm ẩn trong bướu phát triển thành Cơn bão giáp trạng hoặc Cường giáp Basedow hóa (hiệu ứng Jod-Basedow) đe dọa suy tim cấp."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nHàm lượng tiêu chuẩn là 20 – 40 mg Iod/kg muối ăn (dưới dạng Potassium Iodate KIO3 ổn định).\n\n🔍 Góc nhìn chuyên sâu:\nĐảm bảo mỗi người ăn 5 - 10g muối/ngày sẽ nhận đủ 150 - 300 μg iod."
+    },
+    {
+      "id": "bg_card_073",
+      "text": "Tại sao muối ăn trộn Iod cần được đựng trong lọ kín và nêm vào thức ăn sau khi tắt bếp?",
+      "options": [
+        "Khối u nằm ở giữa cổ, ranh giới rõ, không dính vào da, không đau, mật độ mềm hoặc chắc.",
+        "Vì iod trong muối ăn rất dễ bị thăng hoa, bay hơi và phân hủy khi tiếp xúc với nhiệt độ cao khi đang sôi, ánh sáng mặt trời trực tiếp và độ ẩm không khí.",
+        "Vì các nhân giáp tự chủ mang đột biến hoạt hóa thụ thể TSH-R không bị kiểm soát; khi có lượng lớn cơ chất iod cung cấp đột ngột (từ thuốc cản quang hoặc Amiodarone), các nhân này sẽ tự do sản xuất ồ ạt T3, T4 gây nhiễm độc giáp cấp.",
+        "Vì môi trường acid dạ dày khi đói giúp viên thuốc rã nhanh và đạt tỷ lệ hấp thu tối đa (khoảng 70% - 80%) tại đoạn đầu ruột non; thức ăn có thể làm giảm 20% - 30% sinh khả dụng của thuốc."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nVì iod trong muối ăn rất dễ bị thăng hoa, bay hơi và phân hủy khi tiếp xúc với nhiệt độ cao khi đang sôi, ánh sáng mặt trời trực tiếp và độ ẩm không khí.\n\n🔍 Góc nhìn chuyên sâu:\nNêm muối sau khi thức ăn đã chín giúp giữ trọn vẹn 100% lượng iod."
+    },
+    {
+      "id": "bg_card_074",
+      "text": "Chỉ định tiêm dầu Iod (Lipiodol) trong chương trình phòng chống bướu cổ địa phương?",
+      "options": [
+        "Thiếu hụt hormon giáp tương đối (tăng nhu cầu ở tuổi dậy thì, mang thai) hoặc tuyệt đối (thiếu iod, chất kháng giáp).",
+        "Vì toàn bộ các tế bào nang giáp trong hai thùy đều tham gia vào quá trình bắt giữ iod phì đại bù trừ như nhau, chưa xuất hiện các vùng mất chức năng hoặc nhân tăng hoạt tự chủ.",
+        "Vì hợp chất sinh độc tố thiocyanate (linamarin) tập trung nhiều nhất ở lớp vỏ dày của củ sắn; bóc vỏ ngâm nước giúp hòa tan và loại bỏ phần lớn độc tố trước khi nấu.",
+        "Chỉ định tiêm bắp Lipiodol cho người dân ở các vùng núi cao hẻo lánh có tỷ lệ mắc bướu cổ địa phương > 30% dân số, nơi muối iod chưa tiếp cận được; mỗi mũi tiêm cung cấp đủ iod dự trữ trong 1 đến 3 năm."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nChỉ định tiêm bắp Lipiodol cho người dân ở các vùng núi cao hẻo lánh có tỷ lệ mắc bướu cổ địa phương > 30% dân số, nơi muối iod chưa tiếp cận được; mỗi mũi tiêm cung cấp đủ iod dự trữ trong 1 đến 3 năm.\n\n🔍 Góc nhìn chuyên sâu:\nƯu tiên cho phụ nữ tuổi sinh sản và trẻ em gái."
+    },
+    {
+      "id": "bg_card_075",
+      "text": "Thể tích tuyến giáp bình thường trên siêu âm ở người trưởng thành là bao nhiêu?",
+      "options": [
+        "Trong 3 tháng đầu thai kỳ, não bộ thai nhi phát triển với tốc độ phân chia tế bào thần kinh tối đa và hình thành vỏ não nhưng tuyến giáp thai nhi chưa hoạt động (chưa tự tiết hormon giáp) → Não thai nhi phụ thuộc hoàn toàn vào T4 từ mẹ truyền qua nhau thai → Mẹ thiếu iod không cung cấp đủ T4 sẽ gây tổn thương não vĩnh viễn không hồi phục.",
+        "Bệnh nhân có cảm giác khó thở tiến triển, thở rít (Stridor) khi nằm ngửa hoặc khi gắng sức, ban đêm phải kê cao gối mới ngủ được; chụp X-quang hoặc CT thấy khí quản bị đè hẹp hoặc đẩy lệch sang bên.",
+        "Ở nữ giới trưởng thành: Thể tích tuyến giáp bình thường .",
+        "Để giữ nồng độ TSH trong khoảng thấp (1.0 - 2.0 mIU/L), ngăn chặn tuyến yên tiết TSH kích thích phần mô giáp còn lại phì đại tái phát bướu cổ trở lại."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\n• Ở nữ giới trưởng thành: Thể tích tuyến giáp bình thường .\n• Ở nam giới trưởng thành: Thể tích tuyến giáp bình thường .\n\n🔍 Góc nhìn chuyên sâu:\nVượt quá mốc này được chẩn đoán là bướu giáp to trên siêu âm."
+    },
+    {
+      "id": "bg_card_076",
+      "text": "Chỉ định chọc hút tế bào kim nhỏ (FNA) đối với bướu giáp nhân theo phân loại TIRADS?",
+      "options": [
+        "Vì tuyến giáp to Độ IA không nhìn thấy được bằng mắt thường ở mọi tư thế đầu; chỉ có thể phát hiện được bằng kỹ thuật sờ nắn tuyến giáp từ phía sau khi bệnh nhân nuốt.",
+        "Vì ở bệnh nhân có bướu đa nhân lâu năm thường có các nhân giáp tự chủ chức năng mang đột biến soma của thụ thể TSH-R → Khi được cung cấp lượng lớn iod cơ chất đột ngột (từ thuốc cản quang hoặc Amiodarone), các nhân này sẽ tự do tổng hợp ồ ạt hormon giáp gây Cơn bão giáp trạng hoặc Cường giáp Basedow hóa (Jod-Basedow) rất nguy hiểm.",
+        "TIRADS 3 (Nguy cơ thấp): Chỉ định FNA khi kích thước nhân ≥ 2.5 cm.",
+        "Chỉ định: Bướu giáp to lan tỏa ở người trẻ, xét nghiệm thấy FT4 giảm và TSH tăng hoặc nằm ở mức cao bình thường."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\n• TIRADS 3 (Nguy cơ thấp): Chỉ định FNA khi kích thước nhân ≥ 2.5 cm.\n• TIRADS 4 (Nghi ngờ vừa): Chỉ định FNA khi kích thước nhân ≥ 1.5 cm.\n• TIRADS 5 (Nghi ngờ cao): Chỉ định FNA khi kích thước nhân ≥ 1.0 cm.\n\n🔍 Góc nhìn chuyên sâu:\nFNA là tiêu chuẩn vàng loại trừ ung thư tuyến giáp trước mổ."
+    },
+    {
+      "id": "bg_card_077",
+      "text": "Biểu hiện và xử trí cấp cứu của Xuất huyết trong bướu giáp (Nang giáp xuất huyết)?",
+      "options": [
+        "Vì ở bệnh nhân có bướu đa nhân lâu năm thường có các nhân giáp tự chủ chức năng mang đột biến soma của thụ thể TSH-R → Khi được cung cấp lượng lớn iod cơ chất đột ngột (từ thuốc cản quang hoặc Amiodarone), các nhân này sẽ tự do tổng hợp ồ ạt hormon giáp gây Cơn bão giáp trạng hoặc Cường giáp Basedow hóa (Jod-Basedow) rất nguy hiểm.",
+        "Biểu hiện: Bướu giáp to phồng nhanh đột ngột chỉ trong vài giờ kèm đau nhức dữ dội vùng cổ, da căng bóng và khó thở cấp tính do chèn ép khí quản.",
+        "Để có chỉ số định lượng khách quan theo dõi sự thay đổi kích thước của bướu giáp qua các đợt tái khám (đánh giá hiệu quả thu nhỏ của muối iod/L-T4 hoặc phát hiện bướu to nhanh).",
+        "Vì bao tuyến giáp dính chặt vào sụn nhẫn và thanh quản thông qua dây chằng treo Berry; khi bệnh nhân nuốt, thanh quản và sụn nhẫn bị kéo nâng lên trên mang theo tuyến giáp di động cùng nhịp."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\n• Biểu hiện: Bướu giáp to phồng nhanh đột ngột chỉ trong vài giờ kèm đau nhức dữ dội vùng cổ, da căng bóng và khó thở cấp tính do chèn ép khí quản.\n• Xử trí: Chọc hút dịch máu giải áp bằng kim lớn dưới hướng dẫn của siêu âm để làm giảm ngay áp lực trong nang giáp, giúp bệnh nhân hết đau và hết khó thở ngay lập tức.\n\n🔍 Góc nhìn chuyên sâu:\nGửi dịch hút làm tế bào học (Cytology) để loại trừ ung thư dạng nhú thoái hóa nang."
+    },
+    {
+      "id": "bg_card_078",
+      "text": "Thời gian bổ sung muối ăn trộn Iod tối thiểu cho bệnh nhân bướu cổ địa phương là bao lâu?",
+      "options": [
+        "Bổ sung muối ăn trộn iod trong khẩu phần ăn hàng ngày liên tục trong thời gian tối thiểu 6 tháng.",
+        "Trẻ em dưới 5 tuổi: 90 μg/ngày.",
+        "Hạn chế phẫu thuật tối đa, chỉ mổ trong 4 trường hợp cụ thể:",
+        "Để đánh giá chính xác mức độ chèn ép khí quản, vị trí cực dưới của bướu so với quai động mạch chủ và tĩnh mạch chủ trên, giúp phẫu thuật viên lựa chọn đường mổ qua cổ hay cần mở xương ức."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nBổ sung muối ăn trộn iod trong khẩu phần ăn hàng ngày liên tục trong thời gian tối thiểu 6 tháng.\n\n🔍 Góc nhìn chuyên sâu:\nSau 6 tháng đánh giá lại kích thước bướu và nồng độ Iod niệu 24h."
+    },
+    {
+      "id": "bg_card_079",
+      "text": "Dấu hiệu chèn ép khí quản của bướu giáp to biểu hiện như thế nào trên lâm sàng?",
+      "options": [
+        "Trong vỏ và ruột củ sắn tươi chứa lượng lớn hợp chất Linamarin (Cyanogenic glucoside), khi ăn vào ruột sẽ giải phóng ra Thiocyanate → Thiocyanate có cấu trúc cạnh tranh ức chế trực tiếp bơm đồng vận chuyển Na+/I- (NIS) tại màng tế bào nang giáp làm tuyến giáp không bắt được iod.",
+        "Bổ sung muối ăn trộn iod trong khẩu phần ăn hàng ngày liên tục trong thời gian tối thiểu 6 tháng.",
+        "Vì nhân lạnh là vùng mô giáp không còn khả năng bắt giữ iod phóng xạ; khoảng 15% - 20% nhân lạnh có bản chất là ung thư tuyến giáp (đặc biệt là ung thư dạng nhú hoặc dạng nang).",
+        "Bệnh nhân có cảm giác khó thở tiến triển, thở rít (Stridor) khi nằm ngửa hoặc khi gắng sức, ban đêm phải kê cao gối mới ngủ được; chụp X-quang hoặc CT thấy khí quản bị đè hẹp hoặc đẩy lệch sang bên."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nBệnh nhân có cảm giác khó thở tiến triển, thở rít (Stridor) khi nằm ngửa hoặc khi gắng sức, ban đêm phải kê cao gối mới ngủ được; chụp X-quang hoặc CT thấy khí quản bị đè hẹp hoặc đẩy lệch sang bên.\n\n🔍 Góc nhìn chuyên sâu:\nLà một trong những chỉ định phẫu thuật tuyệt đối để giải phóng đường thở."
+    },
+    {
+      "id": "bg_card_080",
+      "text": "Dấu hiệu chèn ép thực quản của bướu giáp to biểu hiện như thế nào?",
+      "options": [
+        "Vì tuyến giáp to Độ IA không nhìn thấy được bằng mắt thường ở mọi tư thế đầu; chỉ có thể phát hiện được bằng kỹ thuật sờ nắn tuyến giáp từ phía sau khi bệnh nhân nuốt.",
+        "Bệnh nhân xuất hiện cảm giác nuốt nghẹn, nuốt vướng ở cổ họng, ban đầu nuốt nghẹn với thức ăn đặc (cơm, thịt), sau đó nghẹn cả với thức ăn lỏng.",
+        "Vì iod trong muối ăn rất dễ bị thăng hoa, bay hơi và phân hủy khi tiếp xúc với nhiệt độ cao khi đang sôi, ánh sáng mặt trời trực tiếp và độ ẩm không khí.",
+        "Thường xảy ra ở bệnh nhân có bướu giáp đa nhân lâu năm có các nhân giáp tự chủ chức năng, khi được bổ sung lượng lớn Iod đột ngột (uống thuốc cản quang, dùng Amiodarone, nạp iod liều cao) → Các nhân giáp tổng hợp ồ ạt hormon giáp gây nhiễm độc giáp cấp."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nBệnh nhân xuất hiện cảm giác nuốt nghẹn, nuốt vướng ở cổ họng, ban đầu nuốt nghẹn với thức ăn đặc (cơm, thịt), sau đó nghẹn cả với thức ăn lỏng.\n\n🔍 Góc nhìn chuyên sâu:\nCần phân biệt với cảm giác nghẹn chức năng do rối loạn lo âu (Globus hystericus)."
+    },
+    {
+      "id": "bg_card_081",
+      "text": "Dấu hiệu chèn ép dây thần kinh quặt ngược thanh quản của bướu giáp biểu hiện thế nào?",
+      "options": [
+        "Bướu lan tỏa: Iod phóng xạ phân bố đồng đều khắp nhu mô tuyến giáp.",
+        "Bệnh nhân xuất hiện khàn tiếng tiến triển, giọng nói bị trầm đục, phát âm khó, nói hai giọng (giọng đôi) do một bên dây thanh âm bị liệt không khép kín được khi phát âm.",
+        "Bổ sung muối ăn trộn iod trong khẩu phần ăn hàng ngày liên tục trong thời gian tối thiểu 6 tháng.",
+        "Vì hải sản và cá biển là nguồn cung cấp iod tự nhiên rất tốt giúp bù đắp lượng iod thiếu hụt của cơ thể, hỗ trợ tuyến giáp sản xuất đủ hormon và ngăn ngừa bướu phì đại thêm."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nBệnh nhân xuất hiện khàn tiếng tiến triển, giọng nói bị trầm đục, phát âm khó, nói hai giọng (giọng đôi) do một bên dây thanh âm bị liệt không khép kín được khi phát âm.\n\n🔍 Góc nhìn chuyên sâu:\nKhàn tiếng ở bướu nhân cứng cần cảnh giác ung thư tuyến giáp xâm lấn."
+    },
+    {
+      "id": "bg_card_082",
+      "text": "Đặc điểm của bướu giáp phát triển chìm sau xương ức (Bướu trung thất)?",
+      "options": [
+        "Trong nửa đầu thai kỳ tuyến giáp thai nhi chưa hoạt động, não thai nhi phụ thuộc hoàn toàn vào T4 từ mẹ qua nhau thai; mẹ thiếu iod không cung cấp đủ T4 làm tế bào thần kinh vỏ não thai nhi không phân chia và không myelin hóa được gây tổn thương não vĩnh viễn.",
+        "Khối bướu giáp có cực dưới phát triển sâu qua lỗ trên lồng ngực vào trung thất trước trên, không sờ thấy cực dưới khi nuốt; chụp CT thấy khối u trung thất liên tục với nhu mô tuyến giáp ở cổ.",
+        "Ở nữ giới trưởng thành: Thể tích tuyến giáp bình thường .",
+        "Vì tuyến giáp to Độ IA không nhìn thấy được bằng mắt thường ở mọi tư thế đầu; chỉ có thể phát hiện được bằng kỹ thuật sờ nắn tuyến giáp từ phía sau khi bệnh nhân nuốt."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nKhối bướu giáp có cực dưới phát triển sâu qua lỗ trên lồng ngực vào trung thất trước trên, không sờ thấy cực dưới khi nuốt; chụp CT thấy khối u trung thất liên tục với nhu mô tuyến giáp ở cổ.\n\n🔍 Góc nhìn chuyên sâu:\nBắt buộc phẫu thuật cắt bỏ vì nguy cơ chèn ép tim phổi và mạch máu lớn."
+    },
+    {
+      "id": "bg_card_083",
+      "text": "Tại sao ăn nhiều sắn (khoai mì) cao sản chưa luộc kỹ gây bướu cổ ở vùng núi?",
+      "options": [
+        "Trong vỏ và ruột củ sắn tươi chứa lượng lớn hợp chất Linamarin (Cyanogenic glucoside), khi ăn vào ruột sẽ giải phóng ra Thiocyanate → Thiocyanate có cấu trúc cạnh tranh ức chế trực tiếp bơm đồng vận chuyển Na+/I- (NIS) tại màng tế bào nang giáp làm tuyến giáp không bắt được iod.",
+        "Trong củ sắn tươi chứa lượng lớn cyanogenic glucoside giải phóng ra Thiocyanate ức chế trực tiếp bơm bắt giữ Iod (NIS) tại màng tế bào nang giáp làm tuyến giáp không thu nhận được iod để tổng hợp hormon.",
+        "Khối bướu giáp phát triển to ra sau hoặc chìm trung thất chèn ép vào dây thần kinh thanh quản quặt ngược (nằm trong rãnh khí thực quản) → Gây liệt dây thanh âm một bên dẫn đến giọng nói bị khàn đục, phát âm khó, nói hai giọng (giọng đôi).",
+        "Biểu hiện: Bướu giáp to phồng nhanh đột ngột chỉ trong vài giờ kèm đau nhức dữ dội vùng cổ, da căng bóng và khó thở cấp tính do chèn ép khí quản."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nTrong củ sắn tươi chứa lượng lớn cyanogenic glucoside giải phóng ra Thiocyanate ức chế trực tiếp bơm bắt giữ Iod (NIS) tại màng tế bào nang giáp làm tuyến giáp không thu nhận được iod để tổng hợp hormon.\n\n🔍 Góc nhìn chuyên sâu:\nCần bóc vỏ, ngâm nước và luộc mở vung kỹ để bay hơi độc tố."
+    },
+    {
+      "id": "bg_card_084",
+      "text": "Liều lượng Levothyroxine điều trị ức chế TSH cho bướu giáp lan tỏa ở người trẻ tuổi?",
+      "options": [
+        "Bắt đầu liều 50 μg/ngày uống 1 lần duy nhất vào buổi sáng sớm lúc đói trước ăn 30 - 60 phút, chỉnh liều để đưa TSH về mức bình thường thấp (0.3 - 1.0 mIU/L).",
+        "Vì nhiệt độ cao khi nấu sôi sẽ làm biến tính và phá hủy hoàn toàn enzyme myrosinase của thực vật, ngăn cản quá trình chuyển hóa glucosinolate thành chất kháng giáp goitrin và thiocyanate.",
+        "Do hormon sinh dục nữ (Estrogen) làm tăng tính nhạy cảm của thụ thể TSH-R trên tế bào nang giáp với TSH, kết hợp với các biến động nhu cầu hormon giáp lớn trong các chu kỳ sinh lý (dậy thì, mang thai, cho con bú, mãn kinh).",
+        "Các nang giáp quá sản lâu năm bị thiếu máu nuôi dưỡng dẫn đến hoại tử mô bã đậu và lắng đọng muối canxi photphat thô tạo thành các nốt vôi hóa thô lành tính (Macrocalcifications) nhìn thấy rõ trên X-quang và siêu âm."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nBắt đầu liều 50 μg/ngày uống 1 lần duy nhất vào buổi sáng sớm lúc đói trước ăn 30 - 60 phút, chỉnh liều để đưa TSH về mức bình thường thấp (0.3 - 1.0 mIU/L).\n\n🔍 Góc nhìn chuyên sâu:\nĐánh giá lại siêu âm sau 3 - 6 tháng; dừng thuốc nếu sau 6 tháng không nhỏ lại."
+    },
+    {
+      "id": "bg_card_085",
+      "text": "Tại sao không dùng Levothyroxine liều cao cho bướu giáp đa nhân ở người cao tuổi?",
+      "options": [
+        "Vì ở người cao tuổi có bướu đa nhân thường có các nhân giáp tự chủ chức năng; dùng L-T4 liều cao sẽ gây ra tình trạng nhiễm độc giáp do thuốc, khởi phát cơn đau thắt ngực, rung nhĩ và suy tim cấp.",
+        "Vì nhu mô tuyến giáp chỉ phì đại số lượng nang giáp nhưng hoạt tính thu nhận iod của từng tế bào không bị kích hoạt quá mức như trong Basedow (sau 2h đạt 15%, 6h đạt 25%, 24h đạt 40%).",
+        "Tìm dấu hiệu chèn ép làm hẹp hoặc đè lệch đường thở khí quản sang một bên.",
+        "Vì lượng iod nạp vào quá nhiều có thể kích hoạt các nhân giáp tự chủ tiềm ẩn trong bướu phát triển thành Cơn bão giáp trạng hoặc Cường giáp Basedow hóa (hiệu ứng Jod-Basedow) đe dọa suy tim cấp."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nVì ở người cao tuổi có bướu đa nhân thường có các nhân giáp tự chủ chức năng; dùng L-T4 liều cao sẽ gây ra tình trạng nhiễm độc giáp do thuốc, khởi phát cơn đau thắt ngực, rung nhĩ và suy tim cấp.\n\n🔍 Góc nhìn chuyên sâu:\nNgười già có bướu đa nhân chỉ theo dõi định kỳ hoặc phẫu thuật/I-131 nếu chèn ép."
+    },
+    {
+      "id": "bg_card_086",
+      "text": "Tại sao bệnh nhân bướu giáp đơn thuần thường không có triệu chứng gì ngoài việc thấy cổ to ra?",
+      "options": [
+        "Vì trong bướu giáp đơn thuần, mạch máu nuôi tuyến giáp không bị tăng sinh giãn rộng dòng chảy xoáy như trong bướu mạch của bệnh Basedow.",
+        "Bệnh nhân xuất hiện khàn tiếng tiến triển, giọng nói bị trầm đục, phát âm khó, nói hai giọng (giọng đôi) do một bên dây thanh âm bị liệt không khép kín được khi phát âm.",
+        "Thiếu hụt hormon giáp tương đối (tăng nhu cầu ở tuổi dậy thì, mang thai) hoặc tuyệt đối (thiếu iod, chất kháng giáp).",
+        "Vì nồng độ hormon giáp (FT3, FT4) và TSH trong máu vẫn được duy trì trong giới hạn bình thường (bình giáp), tuyến giáp chỉ phì đại tăng kích thước để bắt giữ iod bù trừ mà không gây rối loạn chuyển hóa toàn thân."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nVì nồng độ hormon giáp (FT3, FT4) và TSH trong máu vẫn được duy trì trong giới hạn bình thường (bình giáp), tuyến giáp chỉ phì đại tăng kích thước để bắt giữ iod bù trừ mà không gây rối loạn chuyển hóa toàn thân.\n\n🔍 Góc nhìn chuyên sâu:\nTriệu chứng cơ năng chỉ xuất hiện khi bướu quá to gây chèn ép cơ học vùng cổ."
+    },
+    {
+      "id": "bg_card_087",
+      "text": "Tại sao trẻ em bị bướu giáp đơn thuần vẫn phát triển thể chất và tinh thần bình thường?",
+      "options": [
+        "Vì hải sản và cá biển là nguồn cung cấp iod tự nhiên rất tốt giúp bù đắp lượng iod thiếu hụt của cơ thể, hỗ trợ tuyến giáp sản xuất đủ hormon và ngăn ngừa bướu phì đại thêm.",
+        "Vì nồng độ hormon tuyến giáp lưu hành trong máu vẫn đủ đáp ứng nhu cầu tăng trưởng xương và phát triển não bộ của trẻ (khác hoàn toàn với suy giáp bẩm sinh).",
+        "Phát hiện bướu giáp to nhẹ Độ IA, FT4 thấp và TSH = 3.9 mIU/L (> 2.5 mIU/L).",
+        "Vì hợp chất Iod (Potassium Iodate KIO3 hoặc Potassium Iodide KI) trong muối ăn rất dễ bị oxy hóa, thăng hoa và bay hơi mất khi tiếp xúc với nhiệt độ cao, độ ẩm không khí và ánh sáng mặt trời chiếu trực tiếp."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nVì nồng độ hormon tuyến giáp lưu hành trong máu vẫn đủ đáp ứng nhu cầu tăng trưởng xương và phát triển não bộ của trẻ (khác hoàn toàn với suy giáp bẩm sinh).\n\n🔍 Góc nhìn chuyên sâu:\nCần trấn an phụ huynh và bổ sung muối iod kịp thời."
+    },
+    {
+      "id": "bg_card_088",
+      "text": "Tại sao sờ nắn tuyến giáp từ phía sau bệnh nhân là tư thế chuẩn nhất?",
+      "options": [
+        "Vì ở tư thế này các cơ vùng cổ của bệnh nhân được thả lỏng tối đa, ngón tay của thầy thuốc ôm trọn hai thùy và eo tuyến giáp, cảm nhận rõ nhất ranh giới, mật độ và sự di động của tuyến giáp khi bệnh nhân nuốt.",
+        "Hàm lượng tiêu chuẩn là 20 – 40 mg Iod/kg muối ăn (dưới dạng Potassium Iodate KIO3 ổn định).",
+        "Vì bao tuyến giáp dính chặt vào sụn nhẫn và thanh quản thông qua dây chằng treo Berry; khi bệnh nhân nuốt, thanh quản và sụn nhẫn bị kéo nâng lên trên mang theo tuyến giáp di động cùng nhịp.",
+        "Hậu quả: Thiếu iod gây suy giáp mẹ và thai → Tăng nguy cơ sảy thai, thai chết lưu, đẻ non và hội chứng Đần độn bẩm sinh do thiếu iod (Cretinism) ở trẻ sinh ra (câm điếc, chậm phát triển trí tuệ vĩnh viễn, lùn tuyến giáp)."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nVì ở tư thế này các cơ vùng cổ của bệnh nhân được thả lỏng tối đa, ngón tay của thầy thuốc ôm trọn hai thùy và eo tuyến giáp, cảm nhận rõ nhất ranh giới, mật độ và sự di động của tuyến giáp khi bệnh nhân nuốt.\n\n🔍 Góc nhìn chuyên sâu:\nKhám từ phía sau giúp phát hiện chính xác các nhân giáp nhỏ nằm sâu."
+    },
+    {
+      "id": "bg_card_089",
+      "text": "Tại sao khi khám tuyến giáp cần bảo bệnh nhân nuốt một ngụm nước?",
+      "options": [
+        "Hệ thống phân loại ACR-TIRADS (từ TIRADS 1 đến TIRADS 5) đánh giá nguy cơ ác tính của nhân giáp dựa trên 5 đặc điểm siêu âm: Thành phần, Độ hồi âm, Hình dáng, Đường bờ và Điểm vôi hóa → Giúp đưa ra quyết định có cần chọc hút tế bào kim nhỏ (FNA) hay chỉ theo dõi định kỳ.",
+        "Động tác nuốt làm thanh quản và sụn nhẫn được kéo nâng lên trên, mang theo tuyến giáp di động lên xuống dưới các ngón tay khám, giúp xác định chắc chắn khối u thuộc tuyến giáp và phân biệt với hạch cổ hoặc u mỡ.",
+        "Vì trong các loại rau họ cải sống có chứa các hợp chất Glucosinolate, khi nhai sống enzyme myrosinase sẽ thủy phân tạo thành Goitrin và Thiocyanate → Chất này ức chế enzyme TPO ngăn cản gắn iod vào thyroglobulin.",
+        "Bệnh nhân xuất hiện cảm giác nuốt nghẹn, nuốt vướng ở cổ họng, ban đầu nuốt nghẹn với thức ăn đặc (cơm, thịt), sau đó nghẹn cả với thức ăn lỏng."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nĐộng tác nuốt làm thanh quản và sụn nhẫn được kéo nâng lên trên, mang theo tuyến giáp di động lên xuống dưới các ngón tay khám, giúp xác định chắc chắn khối u thuộc tuyến giáp và phân biệt với hạch cổ hoặc u mỡ.\n\n🔍 Góc nhìn chuyên sâu:\nNên chuẩn bị sẵn một cốc nước cho bệnh nhân khi khám tuyến giáp."
+    },
+    {
+      "id": "bg_card_090",
+      "text": "Tại sao bướu giáp Độ II theo WHO nhìn thấy rõ ở tư thế đầu bình thường?",
+      "options": [
+        "Vì bao tuyến giáp dính chặt vào sụn nhẫn và thanh quản thông qua dây chằng treo Berry; khi bệnh nhân nuốt, thanh quản và sụn nhẫn bị kéo nâng lên trên mang theo tuyến giáp di động cùng nhịp.",
+        "Vì thể tích tuyến giáp đã phì đại tăng gấp nhiều lần bình thường, nhô hẳn ra phía trước làm mất hõm trước khí quản tự nhiên ngay cả khi bệnh nhân nhìn thẳng.",
+        "Động tác nuốt làm thanh quản và sụn nhẫn được kéo nâng lên trên, mang theo tuyến giáp di động lên xuống dưới các ngón tay khám, giúp xác định chắc chắn khối u thuộc tuyến giáp và phân biệt với hạch cổ hoặc u mỡ.",
+        "Vì trong bướu giáp đơn thuần, mạch máu nuôi tuyến giáp không bị tăng sinh giãn rộng dòng chảy xoáy như trong bướu mạch của bệnh Basedow."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nVì thể tích tuyến giáp đã phì đại tăng gấp nhiều lần bình thường, nhô hẳn ra phía trước làm mất hõm trước khí quản tự nhiên ngay cả khi bệnh nhân nhìn thẳng.\n\n🔍 Góc nhìn chuyên sâu:\nDễ dàng nhận biết bằng mắt thường ở khoảng cách gần."
+    },
+    {
+      "id": "bg_card_091",
+      "text": "Tại sao bướu giáp Độ III theo WHO gây biến dạng toàn bộ vùng cổ?",
+      "options": [
+        "Vì điều đó chứng tỏ bướu giáp không còn nhạy cảm với sự ức chế TSH; tiếp tục dùng L-T4 kéo dài không mang lại lợi ích mà gây nguy cơ mất chất khoáng xương (loãng xương) và biến chứng tim mạch do nhiễm độc giáp dưới lâm sàng.",
+        "Vì khối bướu phát triển kích thước khổng lồ chiếm toàn bộ vùng cổ trước và lan sang hai bên cơ ức đòn chũm, có thể nhìn thấy rõ từ khoảng cách xa hàng mét.",
+        "Thể thần kinh: Chậm phát triển trí tuệ nặng nề (thiểu năng tâm thần), câm điếc bẩm sinh, liệt cứng hai chi dưới, lác mắt, dáng đi loạng choạng.",
+        "Vì hơn 90% lượng iod ăn vào cơ thể sau khi chuyển hóa sẽ được đào thải qua đường nước tiểu trong vòng 24 giờ; nồng độ iod niệu phản ánh chính xác lượng iod nạp vào hàng ngày của cộng đồng."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nVì khối bướu phát triển kích thước khổng lồ chiếm toàn bộ vùng cổ trước và lan sang hai bên cơ ức đòn chũm, có thể nhìn thấy rõ từ khoảng cách xa hàng mét.\n\n🔍 Góc nhìn chuyên sâu:\nThường có chỉ định phẫu thuật do chèn ép hoặc thẩm mỹ."
+    },
+    {
+      "id": "bg_card_092",
+      "text": "Tại sao trong bướu giáp đơn thuần iod phóng xạ phân bố đồng đều khắp nhu mô trên xạ hình?",
+      "options": [
+        "Vì nhiệt độ cao khi nấu sôi sẽ làm biến tính và phá hủy hoàn toàn enzyme myrosinase của thực vật, ngăn cản quá trình chuyển hóa glucosinolate thành chất kháng giáp goitrin và thiocyanate.",
+        "Bổ sung muối ăn trộn iod trong khẩu phần ăn hàng ngày liên tục trong thời gian tối thiểu 6 tháng.",
+        "Tỷ lệ bao phủ muối iod trong các hộ gia đình đạt > 90%.",
+        "Vì toàn bộ các tế bào nang giáp trong hai thùy đều tham gia vào quá trình bắt giữ iod phì đại bù trừ như nhau, chưa xuất hiện các vùng mất chức năng hoặc nhân tăng hoạt tự chủ."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nVì toàn bộ các tế bào nang giáp trong hai thùy đều tham gia vào quá trình bắt giữ iod phì đại bù trừ như nhau, chưa xuất hiện các vùng mất chức năng hoặc nhân tăng hoạt tự chủ.\n\n🔍 Góc nhìn chuyên sâu:\nTạo hình ảnh tuyến giáp to phóng xạ bắt đều đặc trưng trên xạ hình."
+    },
+    {
+      "id": "bg_card_093",
+      "text": "Tại sao nhân lạnh trên xạ hình tuyến giáp cần được chọc hút tế bào kim nhỏ (FNA)?",
+      "options": [
+        "Hệ thống phân loại ACR-TIRADS (từ TIRADS 1 đến TIRADS 5) đánh giá nguy cơ ác tính của nhân giáp dựa trên 5 đặc điểm siêu âm: Thành phần, Độ hồi âm, Hình dáng, Đường bờ và Điểm vôi hóa → Giúp đưa ra quyết định có cần chọc hút tế bào kim nhỏ (FNA) hay chỉ theo dõi định kỳ.",
+        "Độ 0: Không có bướu giáp.",
+        "Các nang giáp quá sản lâu năm bị thiếu máu nuôi dưỡng dẫn đến hoại tử mô bã đậu và lắng đọng muối canxi photphat thô tạo thành các nốt vôi hóa thô lành tính (Macrocalcifications) nhìn thấy rõ trên X-quang và siêu âm.",
+        "Vì nhân lạnh là vùng mô giáp không còn khả năng bắt giữ iod phóng xạ; khoảng 15% - 20% nhân lạnh có bản chất là ung thư tuyến giáp (đặc biệt là ung thư dạng nhú hoặc dạng nang)."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nVì nhân lạnh là vùng mô giáp không còn khả năng bắt giữ iod phóng xạ; khoảng 15% - 20% nhân lạnh có bản chất là ung thư tuyến giáp (đặc biệt là ung thư dạng nhú hoặc dạng nang).\n\n🔍 Góc nhìn chuyên sâu:\nFNA giúp phân biệt nhân nang keo lành tính vs. ung thư tuyến giáp."
+    },
+    {
+      "id": "bg_card_094",
+      "text": "Tại sao bướu giáp phát triển chìm trung thất thường cần chụp CT lồng ngực cản quang?",
+      "options": [
+        "Để đánh giá chính xác mức độ chèn ép khí quản, vị trí cực dưới của bướu so với quai động mạch chủ và tĩnh mạch chủ trên, giúp phẫu thuật viên lựa chọn đường mổ qua cổ hay cần mở xương ức.",
+        "Ở nữ giới trưởng thành: Thể tích tuyến giáp bình thường .",
+        "Ở lứa tuổi dậy thì (12 - 18 tuổi), cơ thể có sự tăng vọt tốc độ phát triển thể chất và tăng mạnh nhu cầu năng lượng chuyển hóa cơ bản → Tuyến giáp phải tăng cường độ hoạt động để sản xuất nhiều hormon giáp hơn → Dẫn đến phì đại tuyến giáp nhẹ lan tỏa tạm thời (thường Độ IA hoặc IB).",
+        "Động tác nuốt làm thanh quản và sụn nhẫn được kéo nâng lên trên, mang theo tuyến giáp di động lên xuống dưới các ngón tay khám, giúp xác định chắc chắn khối u thuộc tuyến giáp và phân biệt với hạch cổ hoặc u mỡ."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nĐể đánh giá chính xác mức độ chèn ép khí quản, vị trí cực dưới của bướu so với quai động mạch chủ và tĩnh mạch chủ trên, giúp phẫu thuật viên lựa chọn đường mổ qua cổ hay cần mở xương ức.\n\n🔍 Góc nhìn chuyên sâu:\nSiêu âm cổ không thể quan sát được phần bướu nằm sau xương ức."
+    },
+    {
+      "id": "bg_card_095",
+      "text": "Tại sao phụ nữ mang thai sống tại vùng bướu cổ địa phương cần bổ sung Iod từ trước khi mang thai?",
+      "options": [
+        "Chỉ định: Bướu giáp to lan tỏa ở người trẻ, xét nghiệm thấy FT4 giảm và TSH tăng hoặc nằm ở mức cao bình thường.",
+        "Vì các thành viên trong cùng một gia đình sống chung trong cùng một môi trường địa lý thiếu iod, sử dụng chung nguồn nước và cùng một chế độ ăn uống thiếu iod như nhau (tính chất gia đình do môi trường).",
+        "Ở lứa tuổi dậy thì (12 - 18 tuổi), cơ thể có sự tăng vọt tốc độ phát triển thể chất và tăng mạnh nhu cầu năng lượng chuyển hóa cơ bản → Tuyến giáp phải tăng cường độ hoạt động để sản xuất nhiều hormon giáp hơn → Dẫn đến phì đại tuyến giáp nhẹ lan tỏa tạm thời (thường Độ IA hoặc IB).",
+        "Để tích lũy đủ lượng iod dự trữ trong tuyến giáp của người mẹ trước khi thụ thai, đảm bảo cung cấp đủ hormon T4 cho sự phân chia và biệt hóa tế bào não thai nhi ngay từ những tuần đầu tiên."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nĐể tích lũy đủ lượng iod dự trữ trong tuyến giáp của người mẹ trước khi thụ thai, đảm bảo cung cấp đủ hormon T4 cho sự phân chia và biệt hóa tế bào não thai nhi ngay từ những tuần đầu tiên.\n\n🔍 Góc nhìn chuyên sâu:\nBổ sung muộn trong nửa cuối thai kỳ không phòng ngừa được hoàn toàn tổn thương não bẩm sinh."
+    },
+    {
+      "id": "bg_card_096",
+      "text": "Tại sao bắp cải luộc chín kỹ không còn nguy cơ gây bướu giáp?",
+      "options": [
+        "Vì toàn bộ các tế bào nang giáp trong hai thùy đều tham gia vào quá trình bắt giữ iod phì đại bù trừ như nhau, chưa xuất hiện các vùng mất chức năng hoặc nhân tăng hoạt tự chủ.",
+        "Vì nhiệt độ cao khi nấu sôi sẽ làm biến tính và phá hủy hoàn toàn enzyme myrosinase của thực vật, ngăn cản quá trình chuyển hóa glucosinolate thành chất kháng giáp goitrin và thiocyanate.",
+        "Chỉ định tiêm bắp Lipiodol cho người dân ở các vùng núi cao hẻo lánh có tỷ lệ mắc bướu cổ địa phương > 30% dân số, nơi mạng lưới phân phối muối iod chưa tiếp cận được hiệu quả.",
+        "Vì hợp chất Iod (Potassium Iodate KIO3 hoặc Potassium Iodide KI) trong muối ăn rất dễ bị oxy hóa, thăng hoa và bay hơi mất khi tiếp xúc với nhiệt độ cao, độ ẩm không khí và ánh sáng mặt trời chiếu trực tiếp."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nVì nhiệt độ cao khi nấu sôi sẽ làm biến tính và phá hủy hoàn toàn enzyme myrosinase của thực vật, ngăn cản quá trình chuyển hóa glucosinolate thành chất kháng giáp goitrin và thiocyanate.\n\n🔍 Góc nhìn chuyên sâu:\nKhuyên người dân vùng bướu cổ nên ăn rau họ cải nấu chín, tránh ăn sống."
+    },
+    {
+      "id": "bg_card_097",
+      "text": "Tại sao củ sắn (khoai mì) cần được bóc sạch vỏ dày và ngâm nước trước khi luộc?",
+      "options": [
+        "Vì hợp chất sinh độc tố thiocyanate (linamarin) tập trung nhiều nhất ở lớp vỏ dày của củ sắn; bóc vỏ ngâm nước giúp hòa tan và loại bỏ phần lớn độc tố trước khi nấu.",
+        "Giai đoạn sớm: Tuyến giáp phì đại lan tỏa do quá sản các nang giáp chứa đầy chất keo (bướu giáp keo lan tỏa) → Điều trị ở giai đoạn này rất hiệu quả, dễ làm bướu nhỏ lại.",
+        "Các tế bào nang giáp quá sản bắt giữ I-131; tia phóng xạ Beta (β) phát ra từ I-131 có tầm xuyên ngắn trong mô (1 - 2mm) phá hủy chọn lọc các tế bào nang giáp phì đại và gây xơ hóa teo nhỏ mô giáp.",
+        "Để phát hiện sớm biến chứng Hạ canxi máu cấp do tổn thương hoặc cắt nhầm các tuyến cận giáp trong quá trình phẫu thuật (biểu hiện: dấu hiệu Chvostek, dấu hiệu Trousseau, co quắp bàn tay thợ gốm)."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nVì hợp chất sinh độc tố thiocyanate (linamarin) tập trung nhiều nhất ở lớp vỏ dày của củ sắn; bóc vỏ ngâm nước giúp hòa tan và loại bỏ phần lớn độc tố trước khi nấu.\n\n🔍 Góc nhìn chuyên sâu:\nMở vung khi luộc sắn giúp độc tố cyanide bay hơi theo hơi nước."
+    },
+    {
+      "id": "bg_card_098",
+      "text": "Tại sao người cao tuổi có bướu giáp lâu năm không nên tự ý uống các loại thực phẩm chức năng chứa lượng lớn Iod?",
+      "options": [
+        "Vì lượng iod nạp vào quá nhiều có thể kích hoạt các nhân giáp tự chủ tiềm ẩn trong bướu phát triển thành Cơn bão giáp trạng hoặc Cường giáp Basedow hóa (hiệu ứng Jod-Basedow) đe dọa suy tim cấp.",
+        "Bướu lan tỏa: Iod phóng xạ phân bố đồng đều khắp nhu mô tuyến giáp.",
+        "Là chỉ số nhạy nhất đánh giá tình trạng cung cấp và thiếu hụt iod của cộng đồng.",
+        "Vì trong các loại rau họ cải sống có chứa các hợp chất Glucosinolate, khi nhai sống enzyme myrosinase sẽ thủy phân tạo thành Goitrin và Thiocyanate → Chất này ức chế enzyme TPO ngăn cản gắn iod vào thyroglobulin."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nVì lượng iod nạp vào quá nhiều có thể kích hoạt các nhân giáp tự chủ tiềm ẩn trong bướu phát triển thành Cơn bão giáp trạng hoặc Cường giáp Basedow hóa (hiệu ứng Jod-Basedow) đe dọa suy tim cấp.\n\n🔍 Góc nhìn chuyên sâu:\nCần tham khảo ý kiến bác sĩ nội tiết trước khi bổ sung bất kỳ chế phẩm chứa iod nào."
+    },
+    {
+      "id": "bg_card_099",
+      "text": "Tại sao Levothyroxine điều trị ức chế TSH trong bướu giáp đơn thuần cần uống lúc đói buổi sáng?",
+      "options": [
+        "Trong nửa đầu thai kỳ tuyến giáp thai nhi chưa hoạt động, não thai nhi phụ thuộc hoàn toàn vào T4 từ mẹ qua nhau thai; mẹ thiếu iod không cung cấp đủ T4 làm tế bào thần kinh vỏ não thai nhi không phân chia và không myelin hóa được gây tổn thương não vĩnh viễn.",
+        "TIRADS 3 (Nguy cơ thấp): Chỉ định FNA khi kích thước nhân ≥ 2.5 cm.",
+        "Để phát hiện biến chứng tổn thương Dây thần kinh thanh quản quặt ngược trong mổ (khàn tiếng nếu liệt một bên; khó thở tím tái tắc đường thở nếu liệt dây thanh hai bên cần đặt nội khí quản cấp cứu).",
+        "Vì môi trường acid dạ dày khi đói giúp viên thuốc rã nhanh và đạt tỷ lệ hấp thu tối đa (khoảng 70% - 80%) tại đoạn đầu ruột non; thức ăn có thể làm giảm 20% - 30% sinh khả dụng của thuốc."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nVì môi trường acid dạ dày khi đói giúp viên thuốc rã nhanh và đạt tỷ lệ hấp thu tối đa (khoảng 70% - 80%) tại đoạn đầu ruột non; thức ăn có thể làm giảm 20% - 30% sinh khả dụng của thuốc.\n\n🔍 Góc nhìn chuyên sâu:\nUống trước ăn sáng ít nhất 30 - 60 phút với một cốc nước lọc đầy."
+    },
+    {
+      "id": "bg_card_100",
+      "text": "Tại sao sau khi phẫu thuật cắt bướu giáp cần theo dõi triệu chứng tê bì tay chân?",
+      "options": [
+        "Là chỉ số nhạy nhất đánh giá tình trạng cung cấp và thiếu hụt iod của cộng đồng.",
+        "Để phát hiện sớm biến chứng Hạ canxi máu cấp do tổn thương hoặc cắt nhầm các tuyến cận giáp trong quá trình phẫu thuật (biểu hiện: dấu hiệu Chvostek, dấu hiệu Trousseau, co quắp bàn tay thợ gốm).",
+        "Vì hợp chất Iod (Potassium Iodate KIO3 hoặc Potassium Iodide KI) trong muối ăn rất dễ bị oxy hóa, thăng hoa và bay hơi mất khi tiếp xúc với nhiệt độ cao, độ ẩm không khí và ánh sáng mặt trời chiếu trực tiếp.",
+        "Vì lượng iod nạp vào quá nhiều có thể kích hoạt các nhân giáp tự chủ tiềm ẩn trong bướu phát triển thành Cơn bão giáp trạng hoặc Cường giáp Basedow hóa (hiệu ứng Jod-Basedow) đe dọa suy tim cấp."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nĐể phát hiện sớm biến chứng Hạ canxi máu cấp do tổn thương hoặc cắt nhầm các tuyến cận giáp trong quá trình phẫu thuật (biểu hiện: dấu hiệu Chvostek, dấu hiệu Trousseau, co quắp bàn tay thợ gốm).\n\n🔍 Góc nhìn chuyên sâu:\nXử trí ngay bằng tiêm tĩnh mạch Calci Clorid hoặc Calci Gluconate 10%."
+    },
+    {
+      "id": "bg_card_101",
+      "text": "Tại sao sau khi mổ bướu giáp cần kiểm tra giọng nói của bệnh nhân ngay tại phòng hồi tỉnh?",
+      "options": [
+        "Vì tuyến giáp to Độ IA không nhìn thấy được bằng mắt thường ở mọi tư thế đầu; chỉ có thể phát hiện được bằng kỹ thuật sờ nắn tuyến giáp từ phía sau khi bệnh nhân nuốt.",
+        "Vì nhân lạnh là vùng mô giáp không còn khả năng bắt giữ iod phóng xạ; khoảng 15% - 20% nhân lạnh có bản chất là ung thư tuyến giáp (đặc biệt là ung thư dạng nhú hoặc dạng nang).",
+        "Thường xảy ra ở bệnh nhân có bướu giáp đa nhân lâu năm có các nhân giáp tự chủ chức năng, khi được bổ sung lượng lớn Iod đột ngột (uống thuốc cản quang, dùng Amiodarone, nạp iod liều cao) → Các nhân giáp tổng hợp ồ ạt hormon giáp gây nhiễm độc giáp cấp.",
+        "Để phát hiện biến chứng tổn thương Dây thần kinh thanh quản quặt ngược trong mổ (khàn tiếng nếu liệt một bên; khó thở tím tái tắc đường thở nếu liệt dây thanh hai bên cần đặt nội khí quản cấp cứu)."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nĐể phát hiện biến chứng tổn thương Dây thần kinh thanh quản quặt ngược trong mổ (khàn tiếng nếu liệt một bên; khó thở tím tái tắc đường thở nếu liệt dây thanh hai bên cần đặt nội khí quản cấp cứu).\n\n🔍 Góc nhìn chuyên sâu:\nLà quy trình kiểm tra an toàn sau mổ tuyến giáp bắt buộc."
+    },
+    {
+      "id": "bg_card_102",
+      "text": "Tại sao điều trị bằng Iode phóng xạ I-131 có thể làm teo nhỏ bướu giáp to?",
+      "options": [
+        "Vì bướu to là phản ứng phì đại bù trừ sinh lý của cơ thể để bắt giữ iod; cắt bỏ mô giáp sẽ làm bệnh nhân bị suy giáp sau mổ và TSH tăng cao sẽ kích thích phần mô giáp còn lại phì đại tái phát to hơn.",
+        "Các tế bào nang giáp quá sản bắt giữ I-131; tia phóng xạ Beta (β) phát ra từ I-131 có tầm xuyên ngắn trong mô (1 - 2mm) phá hủy chọn lọc các tế bào nang giáp phì đại và gây xơ hóa teo nhỏ mô giáp.",
+        "Vì nồng độ hormon giáp (FT3, FT4) và TSH trong máu vẫn được duy trì trong giới hạn bình thường (bình giáp), tuyến giáp chỉ phì đại tăng kích thước để bắt giữ iod bù trừ mà không gây rối loạn chuyển hóa toàn thân.",
+        "Vì sau khi cắt bỏ một phần nhu mô giáp, lượng hormon giáp nội sinh sản xuất ra bị giảm sút → Tuyến yên sẽ tăng tiết TSH kích thích phần mô giáp còn lại phì đại tăng sinh trở lại → Dùng Levothyroxine liều thấp (50 μg/ngày) giúp ức chế nồng độ TSH để ngăn ngừa bướu tái phát."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nCác tế bào nang giáp quá sản bắt giữ I-131; tia phóng xạ Beta (β) phát ra từ I-131 có tầm xuyên ngắn trong mô (1 - 2mm) phá hủy chọn lọc các tế bào nang giáp phì đại và gây xơ hóa teo nhỏ mô giáp.\n\n🔍 Góc nhìn chuyên sâu:\nGiảm 40% - 50% thể tích bướu sau 6 - 12 tháng điều trị."
+    },
+    {
+      "id": "bg_card_103",
+      "text": "Tại sao chỉ số Iod niệu 24h là tiêu chuẩn vàng để giám sát chương trình muối Iod toàn dân?",
+      "options": [
+        "Vì hơn 90% lượng iod ăn vào cơ thể sau khi chuyển hóa sẽ được đào thải qua đường nước tiểu trong vòng 24 giờ; nồng độ iod niệu phản ánh chính xác lượng iod nạp vào hàng ngày của cộng đồng.",
+        "Vì Anti-TPO âm tính chứng minh tuyến giáp to không phải do quá trình tự miễn phá hủy mạn tính của Viêm tuyến giáp Hashimoto.",
+        "Khối bướu giáp có cực dưới phát triển sâu qua lỗ trên lồng ngực vào trung thất trước trên, không sờ thấy cực dưới khi nuốt; chụp CT thấy khối u trung thất liên tục với nhu mô tuyến giáp ở cổ.",
+        "Ở lứa tuổi dậy thì (12 - 18 tuổi), cơ thể có sự tăng vọt tốc độ phát triển thể chất và tăng mạnh nhu cầu năng lượng chuyển hóa cơ bản → Tuyến giáp phải tăng cường độ hoạt động để sản xuất nhiều hormon giáp hơn → Dẫn đến phì đại tuyến giáp nhẹ lan tỏa tạm thời (thường Độ IA hoặc IB)."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nVì hơn 90% lượng iod ăn vào cơ thể sau khi chuyển hóa sẽ được đào thải qua đường nước tiểu trong vòng 24 giờ; nồng độ iod niệu phản ánh chính xác lượng iod nạp vào hàng ngày của cộng đồng.\n\n🔍 Góc nhìn chuyên sâu:\nMục tiêu cộng đồng: Trung vị Iod niệu đạt 100 - 200 μg/L."
+    },
+    {
+      "id": "bg_card_104",
+      "text": "Tại sao bướu giáp keo lan tỏa ở phụ nữ trẻ có thể tự to ra và căng tức nhẹ trong chu kỳ kinh nguyệt?",
+      "options": [
+        "Vì hơn 90% lượng iod ăn vào cơ thể sau khi chuyển hóa sẽ được đào thải qua đường nước tiểu trong vòng 24 giờ; nồng độ iod niệu phản ánh chính xác lượng iod nạp vào hàng ngày của cộng đồng.",
+        "Do sự gia tăng nồng độ Estrogen và Progesterone trong nửa sau chu kỳ kinh nguyệt làm tăng tưới máu mao mạch tuyến giáp và giữ nước nhẹ trong chất keo giáp.",
+        "Vì ở bệnh nhân có bướu đa nhân lâu năm thường có các nhân giáp tự chủ chức năng mang đột biến soma của thụ thể TSH-R → Khi được cung cấp lượng lớn iod cơ chất đột ngột (từ thuốc cản quang hoặc Amiodarone), các nhân này sẽ tự do tổng hợp ồ ạt hormon giáp gây Cơn bão giáp trạng hoặc Cường giáp Basedow hóa (Jod-Basedow) rất nguy hiểm.",
+        "Vì nang giáp chứa dịch keo thuần nhất hầu hết là tổn thương thoái hóa nang lành tính của bướu keo; trong khi nhân đặc chứa nhiều tế bào biểu mô có nguy cơ tăng sinh tế bào ác tính cao hơn nhiều."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nDo sự gia tăng nồng độ Estrogen và Progesterone trong nửa sau chu kỳ kinh nguyệt làm tăng tưới máu mao mạch tuyến giáp và giữ nước nhẹ trong chất keo giáp.\n\n🔍 Góc nhìn chuyên sâu:\nTriệu chứng căng tức sẽ giảm đi sau khi sạch kinh."
+    },
+    {
+      "id": "bg_card_105",
+      "text": "Tại sao bướu giáp đơn thuần không gây lồi mắt như trong bệnh Basedow?",
+      "options": [
+        "Hệ thống phân loại ACR-TIRADS (từ TIRADS 1 đến TIRADS 5) đánh giá nguy cơ ác tính của nhân giáp dựa trên 5 đặc điểm siêu âm: Thành phần, Độ hồi âm, Hình dáng, Đường bờ và Điểm vôi hóa → Giúp đưa ra quyết định có cần chọc hút tế bào kim nhỏ (FNA) hay chỉ theo dõi định kỳ.",
+        "Thiếu hụt hormon giáp tương đối (tăng nhu cầu ở tuổi dậy thì, mang thai) hoặc tuyệt đối (thiếu iod, chất kháng giáp).",
+        "Vì bướu giáp đơn thuần không có sự xuất hiện của tự kháng thể kích thích thụ thể TSH (TRAb/TSI) gây viêm và lắng đọng glycosaminoglycan trong tổ chức mỡ và cơ vận nhãn sau nhãn cầu.",
+        "Bệnh nhân xuất hiện cảm giác nuốt nghẹn, nuốt vướng ở cổ họng, ban đầu nuốt nghẹn với thức ăn đặc (cơm, thịt), sau đó nghẹn cả với thức ăn lỏng."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\nVì bướu giáp đơn thuần không có sự xuất hiện của tự kháng thể kích thích thụ thể TSH (TRAb/TSI) gây viêm và lắng đọng glycosaminoglycan trong tổ chức mỡ và cơ vận nhãn sau nhãn cầu.\n\n🔍 Góc nhìn chuyên sâu:\nLồi mắt là triệu chứng bệnh lý tự miễn đặc hiệu của Basedow."
+    },
+    {
+      "id": "bg_card_106",
+      "text": "Tại sao nhân giáp đặc có tỷ lệ nghi ngờ ác tính cao hơn nang giáp chứa dịch keo thuần nhất?",
+      "options": [
+        "Độ 0: Không có bướu giáp.",
+        "Vì nang giáp chứa dịch keo thuần nhất hầu hết là tổn thương thoái hóa nang lành tính của bướu keo; trong khi nhân đặc chứa nhiều tế bào biểu mô có nguy cơ tăng sinh tế bào ác tính cao hơn nhiều.",
+        "Vì sau khi cắt bỏ một phần nhu mô giáp, lượng hormon giáp nội sinh sản xuất ra bị giảm sút → Tuyến yên sẽ tăng tiết TSH kích thích phần mô giáp còn lại phì đại tăng sinh trở lại → Dùng Levothyroxine liều thấp (50 μg/ngày) giúp ức chế nồng độ TSH để ngăn ngừa bướu tái phát.",
+        "Để phát hiện sớm biến chứng Hạ canxi máu cấp do tổn thương hoặc cắt nhầm các tuyến cận giáp trong quá trình phẫu thuật (biểu hiện: dấu hiệu Chvostek, dấu hiệu Trousseau, co quắp bàn tay thợ gốm)."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nVì nang giáp chứa dịch keo thuần nhất hầu hết là tổn thương thoái hóa nang lành tính của bướu keo; trong khi nhân đặc chứa nhiều tế bào biểu mô có nguy cơ tăng sinh tế bào ác tính cao hơn nhiều.\n\n🔍 Góc nhìn chuyên sâu:\nNang dịch keo thuần nhất trên siêu âm thuộc TIRADS 1 hoặc 2 (lành tính 100%)."
+    },
+    {
+      "id": "bg_card_107",
+      "text": "Tại sao bệnh nhân bướu giáp đơn thuần không cần kiêng ăn hải sản hay cá biển?",
+      "options": [
+        "Bệnh nhân có cảm giác khó thở tiến triển, thở rít (Stridor) khi nằm ngửa hoặc khi gắng sức, ban đêm phải kê cao gối mới ngủ được; chụp X-quang hoặc CT thấy khí quản bị đè hẹp hoặc đẩy lệch sang bên.",
+        "Vì hải sản và cá biển là nguồn cung cấp iod tự nhiên rất tốt giúp bù đắp lượng iod thiếu hụt của cơ thể, hỗ trợ tuyến giáp sản xuất đủ hormon và ngăn ngừa bướu phì đại thêm.",
+        "Bướu giáp đơn thuần (còn gọi là bướu cổ đơn thuần, bướu giáp không độc) là tình trạng tuyến giáp phì đại to ra nhưng không do viêm, không do ung thư và chức năng tuyến giáp hoàn toàn bình thường (Bình giáp - Euthyroid).",
+        "Vì môi trường acid dạ dày khi đói giúp viên thuốc rã nhanh và đạt tỷ lệ hấp thu tối đa (khoảng 70% - 80%) tại đoạn đầu ruột non; thức ăn có thể làm giảm 20% - 30% sinh khả dụng của thuốc."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nVì hải sản và cá biển là nguồn cung cấp iod tự nhiên rất tốt giúp bù đắp lượng iod thiếu hụt của cơ thể, hỗ trợ tuyến giáp sản xuất đủ hormon và ngăn ngừa bướu phì đại thêm.\n\n🔍 Góc nhìn chuyên sâu:\nChỉ kiêng đồ biển khi bệnh nhân bị cường giáp Basedow."
+    },
+    {
+      "id": "bg_card_108",
+      "text": "Tại sao trong gia đình có nhiều người cùng bị bướu cổ không nhất thiết là bệnh di truyền?",
+      "options": [
+        "Bệnh nhân xuất hiện cảm giác nuốt nghẹn, nuốt vướng ở cổ họng, ban đầu nuốt nghẹn với thức ăn đặc (cơm, thịt), sau đó nghẹn cả với thức ăn lỏng.",
+        "TIRADS 3 (Nguy cơ thấp): Chỉ định FNA khi kích thước nhân ≥ 2.5 cm.",
+        "Độ tập trung I-131 tại tuyến giáp nằm trong giới hạn hoàn toàn bình thường:",
+        "Vì các thành viên trong cùng một gia đình sống chung trong cùng một môi trường địa lý thiếu iod, sử dụng chung nguồn nước và cùng một chế độ ăn uống thiếu iod như nhau (tính chất gia đình do môi trường)."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nVì các thành viên trong cùng một gia đình sống chung trong cùng một môi trường địa lý thiếu iod, sử dụng chung nguồn nước và cùng một chế độ ăn uống thiếu iod như nhau (tính chất gia đình do môi trường).\n\n🔍 Góc nhìn chuyên sâu:\nCần cải thiện chế độ ăn dùng muối iod cho toàn bộ gia đình."
+    },
+    {
+      "id": "bg_card_109",
+      "text": "Tại sao bướu giáp đơn thuần Độ IA thường bị bỏ sót nếu không thăm khám cẩn thận?",
+      "options": [
+        "Trong củ sắn tươi chứa lượng lớn cyanogenic glucoside giải phóng ra Thiocyanate ức chế trực tiếp bơm bắt giữ Iod (NIS) tại màng tế bào nang giáp làm tuyến giáp không thu nhận được iod để tổng hợp hormon.",
+        "TIRADS 3 (Nguy cơ thấp): Chỉ định FNA khi kích thước nhân ≥ 2.5 cm.",
+        "Vì tuyến giáp to Độ IA không nhìn thấy được bằng mắt thường ở mọi tư thế đầu; chỉ có thể phát hiện được bằng kỹ thuật sờ nắn tuyến giáp từ phía sau khi bệnh nhân nuốt.",
+        "Vì hải sản và cá biển là nguồn cung cấp iod tự nhiên rất tốt giúp bù đắp lượng iod thiếu hụt của cơ thể, hỗ trợ tuyến giáp sản xuất đủ hormon và ngăn ngừa bướu phì đại thêm."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\nVì tuyến giáp to Độ IA không nhìn thấy được bằng mắt thường ở mọi tư thế đầu; chỉ có thể phát hiện được bằng kỹ thuật sờ nắn tuyến giáp từ phía sau khi bệnh nhân nuốt.\n\n🔍 Góc nhìn chuyên sâu:\nSờ nắn tuyến giáp là kỹ năng lâm sàng bắt buộc khi khám tổng quát."
+    },
+    {
+      "id": "bg_card_110",
+      "text": "Tiêu chí đánh giá thành công của chương trình thanh toán các rối loạn do thiếu Iod (IDD)?",
+      "options": [
+        "Lâm sàng bình giáp, bướu lan tỏa mềm Độ IB, không tiếng thổi, Iod niệu giảm thấp.",
+        "Tỷ lệ bao phủ muối iod trong các hộ gia đình đạt > 90%.",
+        "Hạn chế phẫu thuật tối đa, chỉ mổ trong 4 trường hợp cụ thể:",
+        "Bướu to chèn ép vào tĩnh mạch cảnh trong và tĩnh mạch cảnh ngoài làm cản trở máu hồi lưu về tim → Gây giãn tĩnh mạch nông vùng cổ ngực, phù nề nhẹ vùng cổ mặt và cảm giác tức nặng đầu khi cúi xuống."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\n1. Tỷ lệ bao phủ muối iod trong các hộ gia đình đạt > 90%.\n2. Trung vị nồng độ Iod niệu 24h trong cộng đồng đạt từ 100 đến 199 μg/L.\n3. Tỷ lệ bướu cổ ở trẻ em lứa tuổi học sinh (6 - 12 tuổi) giảm xuống .\n\n🔍 Góc nhìn chuyên sâu:\nLà các chỉ số giám sát dịch tễ học toàn cầu của WHO."
+    },
+    {
+      "id": "bg_card_111",
+      "text": "Tại sao người có bướu giáp nhân cần được siêu âm tuyến giáp định kỳ mỗi 6 - 12 tháng?",
+      "options": [
+        "Trong 3 tháng đầu thai kỳ, não bộ thai nhi phát triển với tốc độ phân chia tế bào thần kinh tối đa và hình thành vỏ não nhưng tuyến giáp thai nhi chưa hoạt động (chưa tự tiết hormon giáp) → Não thai nhi phụ thuộc hoàn toàn vào T4 từ mẹ truyền qua nhau thai → Mẹ thiếu iod không cung cấp đủ T4 sẽ gây tổn thương não vĩnh viễn không hồi phục.",
+        "Để theo dõi sự thay đổi kích thước của nhân giáp, phát hiện kịp thời các đặc điểm nghi ngờ ác tính mới xuất hiện trên siêu âm (vi vôi hóa, bờ đa cung) và chỉ định chọc hút FNA khi cần.",
+        "Vì bướu to là phản ứng phì đại bù trừ sinh lý của cơ thể để bắt giữ iod; cắt bỏ mô giáp sẽ làm bệnh nhân bị suy giáp sau mổ và TSH tăng cao sẽ kích thích phần mô giáp còn lại phì đại tái phát to hơn.",
+        "Do sự gia tăng nồng độ Estrogen và Progesterone trong nửa sau chu kỳ kinh nguyệt làm tăng tưới máu mao mạch tuyến giáp và giữ nước nhẹ trong chất keo giáp."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nĐể theo dõi sự thay đổi kích thước của nhân giáp, phát hiện kịp thời các đặc điểm nghi ngờ ác tính mới xuất hiện trên siêu âm (vi vôi hóa, bờ đa cung) và chỉ định chọc hút FNA khi cần.\n\n🔍 Góc nhìn chuyên sâu:\nGiúp quản lý an toàn và tránh bỏ sót ung thư tuyến giáp giai đoạn sớm."
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "id": "bank_im07b_suy_ho_hap_cap",
+  "title": "IM-07b: Chẩn Đoán và Xử Trí Cấp Cứu Ban Đầu Suy Hô Hấp Cấp (20 Câu Chuyên Sâu)",
+  "description": "Ngân hàng trắc nghiệm toàn diện bao phủ 5 cơ chế bệnh sinh (Shunt, V/Q, suy bơm), bảng 3 mức độ SHHC, 4 dụng cụ thở oxy (Venturi, Mask túi), thở máy xâm nhập và thở máy không xâm nhập NIV.",
+  "questions": [
+    {
+      "id": "im07b_case_01",
+      "text": "Bệnh nhân nam 65 tuổi, tiền sử COPD nhiều năm, vào viện vì sốt, ho khạc đờm mủ đợt cấp, khó thở dữ dội. Khám: Bệnh nhân bồn chồn kích thích (Glasgow 14 điểm), co kéo cơ ức đòn chũm và cơ liên sườn, thở nhanh 34 lần/phút, mạch 125 l/p, HA 150/90 mmHg, chỉ nói được câu ngắn. Khí máu động mạch: pH 7.28, PaO2 48 mmHg, PaCO2 65 mmHg, HCO3- 30 mmol/L. Chẩn đoán mức độ suy hô hấp cấp và thể suy hô hấp trên khí máu là gì?",
+      "options": [
+        "Suy hô hấp cấp mức độ trung bình, thể thiếu oxy máu đơn thuần (Type I)",
+        "Suy hô hấp cấp mức độ nặng, thể hỗn hợp (vừa thiếu oxy máu vừa tăng CO2 máu toan hô hấp cấp trên nền mạn)",
+        "Suy hô hấp cấp mức độ nguy kịch đe dọa ngừng thở",
+        "Cơn hen phế quản mức độ nhẹ"
+      ],
+      "correct": 1,
+      "explanation": "Đối chiếu bảng phân loại lâm sàng: Điểm Glasgow 13-14 (kích thích), nhịp thở 31-40 (34 l/p), mạch 121-140 (125 l/p), huyết áp tăng phản xạ (150/90), chỉ nói được câu ngắn, khí máu pH 7.20 - 7.34 (7.28) và PaO2 40 - 59 (48 mmHg) → Khẳng định chắc chắn Suy hô hấp cấp mức độ NẶNG. Về khí máu: PaO2 < 60 kết hợp PaCO2 > 50 mmHg toan máu → Thể suy hô hấp hỗn hợp (Type III/IV) kinh điển trong đợt cấp COPD."
+    },
+    {
+      "id": "im07b_case_02",
+      "text": "Bệnh nhân nam 28 tuổi, tiền sử khỏe mạnh, bị viêm phổi thùy đông đặc toàn bộ thùy dưới phổi phải, sốt cao 39.8°C, khó thở nhiều, SpO2 78% ở khí phòng. Bác sĩ cho bệnh nhân thở oxy qua mặt nạ có túi dự trữ vặn lưu lượng tối đa 15 lít/phút (FiO2 ≈ 90 - 100%), tuy nhiên sau 30 phút đo lại khí máu thấy PaO2 chỉ tăng từ 42 lên 52 mmHg (vẫn thiếu oxy nặng), độ chênh P(A-a)O2 tăng rất cao > 40 mmHg. Cơ chế bệnh sinh chính giải thích hiện tượng trơ với oxy liệu pháp này là gì?",
+      "options": [
+        "Giảm thông khí phế nang do suy bơm hô hấp",
+        "Cơ chế Shunt nội phổi (dòng máu mao mạch đi qua các phế nang bị đông đặc lấp đầy mủ viêm hoàn toàn không được thông khí)",
+        "Bất tương hợp thông khí tưới máu (V/Q mismatch)",
+        "Rối loạn khuếch tán khí đơn thuần"
+      ],
+      "correct": 1,
+      "explanation": "Đặc trưng sinh lý bệnh kinh điển của cơ chế SHUNT (ở đây là shunt mao mạch do đông đặc phế nang trong viêm phổi nặng): Dòng máu tĩnh mạch đi qua các phế nang hoàn toàn không có thông khí (VA/Q = 0) rồi đổ thẳng về tim trái. Do đó, việc tăng nồng độ oxy hít vào (FiO2 100%) chỉ làm giàu oxy ở các phế nang lành nhưng không thể tiếp cận được dòng máu đi qua vùng shunt, khiến PaO2 máu động mạch hoàn toàn TRƠ VỚI OXY LIỆU PHÁP và P(A-a)O2 tăng rất cao."
+    },
+    {
+      "id": "im07b_case_03",
+      "text": "Bệnh nhân nam 70 tuổi, tiền sử tăng huyết áp và suy tim, đột ngột lên cơn khó thở dữ dội lúc nửa đêm, phải ngồi dậy để thở, ho khạc bọt màu hồng, vã mồ hôi đầm đìa, HA 180/100 mmHg, mạch 130 l/p, SpO2 82%, nghe phổi ran ẩm dâng ngập 2 phế trường (Phù phổi cấp huyết động). Biện pháp tư thế nằm và oxy liệu pháp ban đầu thích hợp nhất là gì?",
+      "options": [
+        "Đặt bệnh nhân nằm đầu thấp chân kê cao và thở oxy kính 2 lít/phút",
+        "Đặt bệnh nhân nằm tư thế Fowler (nửa nằm nửa ngồi 45° – 90°) và thở oxy qua mặt nạ có túi dự trữ (Non-rebreathing mask) lưu lượng 10 – 15 lít/phút",
+        "Nằm nghiêng an toàn bên trái và không cần thở oxy",
+        "Chỉ định mổ mở khí quản cấp cứu ngay lập tức"
+      ],
+      "correct": 1,
+      "explanation": "Trong phù phổi cấp huyết động và suy hô hấp cấp nặng: Tư thế Fowler (ngồi thõng chân hoặc nửa nằm nửa ngồi 45° - 90°) giúp cơ hoành hạ thấp mở rộng lồng ngực và dồn máu xuống chi dưới làm giảm lưu lượng máu tĩnh mạch trở về tim (giảm tiền gánh). Mặt nạ có túi dự trữ (NRBM) lưu lượng 10 - 15 L/p cung cấp FiO2 rất cao (60% - 100%) là dụng cụ tối ưu để cứu vãn tình trạng thiếu oxy máu cấp tính."
+    },
+    {
+      "id": "im07b_case_04",
+      "text": "Bệnh nhân nam 62 tuổi, tiền sử COPD đang trong đợt cấp suy hô hấp mức độ nặng (thở 32 l/p, pH 7.28, PaCO2 62 mmHg, PaO2 50 mmHg), tỉnh táo tiếp xúc tốt (Glasgow 15 điểm), HA 135/85 mmHg, không nôn, ho khạc đờm được. Bác sĩ chỉ định thông khí nhân tạo không xâm nhập áp lực dương (NIV). Thông số máy thở ban đầu cài đặt nào sau đây là chuẩn xác nhất?",
+      "options": [
+        "IPAP = 25 cmH2O, EPAP = 10 cmH2O",
+        "IPAP = 8 – 10 cmH2O, EPAP = 4 – 5 cmH2O, cài đặt FiO2 duy trì SpO2 88% – 92%",
+        "Chỉ cài đặt EPAP = 15 cmH2O, không dùng IPAP",
+        "Cài đặt thể tích lưu thông bắt buộc 12 ml/kg"
+      ],
+      "correct": 1,
+      "explanation": "Cài đặt thông số NIV (BiPAP) ban đầu chuẩn mực theo bài giảng: Áp lực thì thở vào IPAP bắt đầu từ 8 – 10 cmH2O (sau đó tăng dần mỗi 1-2 cmH2O tùy đáp ứng, tối đa không quá 20 cmH2O để tránh mở cơ thắt thực quản gây trướng dạ dày); Áp lực thì thở ra EPAP bắt đầu từ 4 – 5 cmH2O; nồng độ oxy chỉnh duy trì đích SpO2 an toàn 88% – 92% ở bệnh nhân COPD."
+    },
+    {
+      "id": "im07b_case_05",
+      "text": "Một bác sĩ trực cấp cứu đang cân nhắc chỉ định Thở máy không xâm nhập (NIV) cho một bệnh nhân suy hô hấp cấp. Trường hợp nào sau đây là CHỐNG CHỈ ĐỊNH BẮT BUỘC của NIV, đòi hỏi phải đặt ống nội khí quản thở máy xâm nhập ngay?",
+      "options": [
+        "Bệnh nhân đợt cấp COPD có toan hô hấp nhẹ pH 7.30",
+        "Bệnh nhân phù phổi cấp huyết động có huyết áp 160/90 mmHg",
+        "Bệnh nhân hôn mê (Điểm Glasgow 9 điểm) hoặc huyết áp tâm thu tụt ≤ 80 mmHg (sốc)",
+        "Bệnh nhân hen phế quản mức độ trung bình"
+      ],
+      "correct": 2,
+      "explanation": "Các chống chỉ định bắt buộc của NIV (rất hay thi): Hôn mê (Glasgow ≤ 12 điểm); tụt huyết áp nặng (HATT ≤ 90 mmHg) hoặc sốc; nguy cơ nôn trớ trào ngược sặc phổi; ngừng thở hoặc thở ngáp kiệt cơ; chấn thương hàm mặt; tắc nghẽn cơ học đường thở trên. Bệnh nhân hôn mê Glasgow 9 điểm mất phản xạ bảo vệ đường thở, nếu dùng NIV sẽ gây sặc phổi và suy hô hấp tử vong."
+    },
+    {
+      "id": "im07b_q_01",
+      "text": "Cơ chế 'Suy bơm hô hấp' (giảm thông khí phế nang toàn bộ) có đặc trưng khí máu động mạch nào sau đây?",
+      "options": [
+        "PaO2 giảm sâu, PaCO2 giảm sâu, P(A-a)O2 tăng rất cao",
+        "PaCO2 tăng cao, PaO2 giảm, và độ chênh oxy phế nang - động mạch P(A-a)O2 BÌNH THƯỜNG (< 20 mmHg)",
+        "PaCO2 bình thường, PaO2 giảm, trơ với oxy liệu pháp",
+        "Khí máu hoàn toàn bình thường"
+      ],
+      "correct": 1,
+      "explanation": "Trong suy bơm hô hấp (do nguyên nhân ngoài nhu mô phổi như ức chế thần kinh, nhược cơ, mảng sườn di động): Toàn bộ thông khí phế nang bị suy giảm làm ứ CO2 (PaCO2 tăng) và thiếu oxy (PaO2 giảm), nhưng màng phế nang mao mạch hoàn toàn lành lặn nên độ chênh phân áp oxy P(A-a)O2 bình thường (< 20 mmHg)."
+    },
+    {
+      "id": "im07b_q_02",
+      "text": "Điểm khác biệt căn bản nhất giữa cơ chế SHUNT và BẤT TƯƠNG HỢP THÔNG KHÍ - TƯỚI MÁU (V/Q mismatch) là:",
+      "options": [
+        "Shunt chỉ gặp ở người già",
+        "Cả hai đều có P(A-a)O2 tăng cao > 20 mmHg, nhưng V/Q mismatch đáp ứng rất tốt với oxy liệu pháp, trong khi Shunt HOÀN TOÀN TRƠ VỚI OXY LIỆU PHÁP",
+        "Shunt không gây hạ oxy máu",
+        "V/Q mismatch luôn làm tăng PaCO2"
+      ],
+      "correct": 1,
+      "explanation": "Điểm chốt lâm sàng: Shunt (VA/Q = 0) do máu đi qua các phế nang hoàn toàn không có thông khí nên tăng FiO2 lên 100% máu vẫn không tiếp xúc được với oxy (trơ với oxy). Ngược lại, V/Q mismatch phế nang vẫn còn được thông khí một phần nên khi tăng FiO2 sẽ đưa thêm nhiều oxy vào máu giúp cải thiện ngoạn mục PaO2."
+    },
+    {
+      "id": "im07b_q_03",
+      "text": "Tại sao trong rối loạn khuếch tán khí màng phế nang - mao mạch (viêm phổi kẽ, ARDS giai đoạn sớm), bệnh nhân bị thiếu oxy máu nặng nhưng PaCO2 thường KHÔNG TĂNG?",
+      "options": [
+        "Vì phổi không sản sinh ra CO2",
+        "Vì khả năng khuếch tán qua màng phế nang - mao mạch của khí CO2 lớn hơn khí oxy gấp TRÊN 20 LẦN, kết hợp phản xạ tăng thông khí bù trừ giúp đào thải CO2 dễ dàng",
+        "Vì CO2 được đào thải toàn bộ qua thận",
+        "Vì hemoglobin không vận chuyển CO2"
+      ],
+      "correct": 1,
+      "explanation": "Khí CO2 có độ hòa tan trong màng tế bào và dịch kẽ cao gấp trên 20 lần so với khí oxy, do đó khi màng phế nang bị dày lên, oxy khuếch tán rất khó khăn (PaO2 giảm sâu) nhưng CO2 vẫn khuếch tán qua dễ dàng; cộng với phản xạ thở nhanh do thiếu oxy giúp đào thải mạnh CO2 ra ngoài."
+    },
+    {
+      "id": "im07b_q_04",
+      "text": "Dấu hiệu lâm sàng nào chỉ điểm tình trạng kiệt mỏi cơ hô hấp báo hiệu nguy cơ ngừng thở trong tích tắc?",
+      "options": [
+        "Thở nhanh nông 26 lần/phút",
+        "Xuất hiện kiểu thở nghịch thường bụng - ngực (khi hít vào bụng lõm lại) hoặc nhịp thở chậm dần < 10 lần/phút",
+        "Vã mồ hôi trán nhẹ",
+        "Nói được câu ngắn"
+      ],
+      "correct": 1,
+      "explanation": "Bình thường khi hít vào cơ hoành co hạ thấp đẩy tạng bụng phồng ra. Khi cơ hoành bị kiệt mỏi/liệt, áp lực âm lồng ngực kéo thụ động cơ hoành lên trên làm thành bụng bị lõm vào trong thì hít vào (thở nghịch thường). Kết hợp với nhịp thở chậm dần < 10 l/p báo hiệu kiệt sức cơ hô hấp hoàn toàn sắp ngừng thở."
+    },
+    {
+      "id": "im07b_q_05",
+      "text": "Theo bảng phân loại mức độ suy hô hấp cấp trên lâm sàng, mức độ NGUY KỊCH được xác định khi có tiêu chuẩn nào sau đây?",
+      "options": [
+        "Glasgow 15 điểm, mạch 110 l/p, nói câu dài",
+        "Glasgow < 13 điểm (lơ mơ, hôn mê), mạch > 140 l/p (hoặc < 50 l/p), huyết áp tụt/trụy mạch, thở > 40 hoặc < 10 l/p, pH < 7.20, PaO2 < 40 mmHg",
+        "Chỉ cần nhịp thở 28 lần/phút",
+        "PaO2 từ 60 - 80 mmHg"
+      ],
+      "correct": 1,
+      "explanation": "Mức độ Nguy kịch: Rối loạn tri giác lơ mơ hôn mê (Glasgow < 13), suy tuần hoàn (mạch > 140 hoặc chậm, tụt huyết áp), kiệt hô hấp (thở > 40 hoặc < 10 thở ngáp), tím tái toàn thân, khí máu toan nặng pH < 7.20 và PaO2 < 40 mmHg."
+    },
+    {
+      "id": "im07b_q_06",
+      "text": "Hạn chế cốt lõi của việc theo dõi độ bão hòa oxy mao mạch qua mạch nảy (SpO2) tại giường là gì?",
+      "options": [
+        "Không đo được nhịp tim",
+        "SpO2 chỉ phản ánh tình trạng oxy hóa máu, HOÀN TOÀN KHÔNG ĐÁNH GIÁ ĐƯỢC tình trạng ứ trệ CO2 máu (PaCO2) và mức độ toan máu",
+        "Đo rất mất thời gian",
+        "Chỉ dùng được cho trẻ em"
+      ],
+      "correct": 1,
+      "explanation": "SpO2 chỉ đo tỷ lệ gắn oxy của hemoglobin. Một bệnh nhân COPD thở oxy liều cao có thể có SpO2 98% nhưng đang bị ứ CO2 nặng PaCO2 90 mmHg và hôn mê toan hô hấp. Phải làm khí máu động mạch mới đánh giá được PaCO2 và pH."
+    },
+    {
+      "id": "im07b_q_07",
+      "text": "Nồng độ oxy cung cấp (FiO2) của dụng cụ OXY KÍNH (Gọng kính mũi) tăng tương ứng như thế nào theo lưu lượng dòng?",
+      "options": [
+        "Mỗi 1 lít/phút làm tăng FiO2 thêm khoảng 4% (dao động từ 24% ở 1 L/p đến 44 - 48% ở 5 - 6 L/p)",
+        "Cung cấp cố định 100% oxy ở mọi mức lưu lượng",
+        "Mỗi 1 lít/phút làm tăng 20% FiO2",
+        "Không thể tăng FiO2 quá 21%"
+      ],
+      "correct": 0,
+      "explanation": "Quy tắc 4%: Khí phòng có FiO2 21%. Thở gọng mũi: 1 L/p ≈ 24%; 2 L/p ≈ 28%; 3 L/p ≈ 32%; 4 L/p ≈ 36%; 5 L/p ≈ 40%; 6 L/p ≈ 44%. Thích hợp cho suy hô hấp trung bình không có shunt lớn."
+    },
+    {
+      "id": "im07b_q_08",
+      "text": "Tại sao MẶT NẠ VENTURI (Venturi Mask) lại là dụng cụ cung cấp oxy được lựa chọn tối ưu số 1 cho bệnh nhân COPD?",
+      "options": [
+        "Vì cho nồng độ oxy cao nhất 100%",
+        "Vì là dụng cụ dòng cao cung cấp nồng độ oxy chính xác cố định (24% – 50%) bất kể kiểu thở của người bệnh, giúp tránh nguy cơ thở quá nhiều oxy gây ức chế trung tâm hô hấp làm tăng CO2 hôn mê",
+        "Vì giá thành rẻ nhất",
+        "Vì không cần cắm bình oxy"
+      ],
+      "correct": 1,
+      "explanation": "Ở bệnh nhân COPD ứ CO2 mạn tính, trung tâm hô hấp bị trơ với CO2 và chỉ còn duy trì nhịp thở nhờ kích thích thiếu oxy ở xoang cảnh (Hypoxic drive). Mặt nạ Venturi cung cấp FiO2 chính xác (ví dụ 24% hay 28%) giúp nâng vừa đủ PaO2 mà không làm mất kích thích thở, tránh gây ức chế hô hấp làm tăng CO2 hôn mê."
+    },
+    {
+      "id": "im07b_q_09",
+      "text": "Dụng cụ cung cấp oxy nào có khả năng đạt được nồng độ FiO2 rất cao từ 60% đến gần 100% trong cấp cứu suy hô hấp nặng?",
+      "options": [
+        "Oxy gọng kính mũi",
+        "Oxy mặt nạ thường không túi",
+        "Oxy mặt nạ có túi dự trữ (Non-rebreathing Mask - NRBM) với lưu lượng dòng 10 – 15 lít/phút",
+        "Bầu xông khí dung"
+      ],
+      "correct": 2,
+      "explanation": "Mặt nạ có túi dự trữ (NRBM) có van một chiều và túi dự trữ oxy phồng căng. Khi vặn lưu lượng oxy 10 - 15 L/p, bệnh nhân hít khí trực tiếp từ túi chứa 100% oxy, cung cấp FiO2 thực tế đạt 60% - 90% (thậm chí 100% nếu mask kín), là lựa chọn số 1 cho suy hô hấp nặng (phù phổi, ARDS, viêm phổi nặng)."
+    },
+    {
+      "id": "im07b_q_10",
+      "text": "Thể tích lưu thông (Vt) cài đặt ban đầu cơ bản trong thông khí nhân tạo xâm nhập ở bệnh nhân suy hô hấp cấp (không phải ARDS) là:",
+      "options": [
+        "4 ml/kg cân nặng thực tế",
+        "8 ml/kg cân nặng lý tưởng (nếu là ARDS cài đặt theo ARDSNet là 6 ml/kg)",
+        "15 ml/kg cân nặng lý tưởng",
+        "Luôn cố định 800 ml cho mọi bệnh nhân"
+      ],
+      "correct": 1,
+      "explanation": "Cài đặt Vt ban đầu chuẩn: 8 ml/kg cân nặng lý tưởng (Predicted Body Weight - PBW) cho suy hô hấp thông thường; riêng đối với ARDS áp dụng chiến lược bảo vệ phổi với thể tích lưu thông thấp Vt = 6 ml/kg PBW để tránh chấn thương thể tích (volutrauma)."
+    },
+    {
+      "id": "im07b_q_11",
+      "text": "Nguyên lý hoạt động cơ bản của máy thở không xâm nhập áp lực dương (NIV / BiPAP) là:",
+      "options": [
+        "Bắt buộc bệnh nhân phải thở theo tần số cố định của máy",
+        "Duy trì một mức áp lực dương liên tục thì thở ra (EPAP/CPAP) để chống xẹp phế nang và hỗ trợ áp lực thì thở vào (IPAP/PS) để giảm công hô hấp cho bệnh nhân",
+        "Hút đờm tự động trong khí quản",
+        "Thay thế hoàn toàn chức năng của cơ hoành"
+      ],
+      "correct": 1,
+      "explanation": "NIV chế độ BiPAP hoạt động dựa trên 2 mức áp lực: EPAP (áp lực thở ra) đóng vai trò như PEEP mở các phế nang bị xẹp và cải thiện oxy máu; IPAP (áp lực thở vào) hỗ trợ lực đẩy khí vào phổi giúp cơ hô hấp được nghỉ ngơi, giảm công thở và hỗ trợ đào thải CO2."
+    },
+    {
+      "id": "im07b_q_12",
+      "text": "Giới hạn mức áp lực thì thở vào (IPAP) tối đa trong cài đặt thở máy không xâm nhập (NIV) là bao nhiêu để tránh biến chứng nguy hiểm?",
+      "options": [
+        "Tối đa 10 cmH2O",
+        "Tối đa không quá 20 cmH2O (để tránh thắng áp lực đóng của cơ thắt thực quản dưới gây tràn khí căng phồng dạ dày và nôn sặc phổi)",
+        "Tối đa 40 cmH2O",
+        "Không có giới hạn áp lực"
+      ],
+      "correct": 1,
+      "explanation": "Áp lực đóng sinh lý của cơ thắt thực quản dưới là khoảng 20 - 25 cmH2O. Nếu cài đặt IPAP > 20 cmH2O, dòng khí áp lực cao sẽ thắng cơ thắt và tràn ồ ạt vào dạ dày làm dạ dày căng chướng, chèn ép cơ hoành và làm tăng nguy cơ nôn trớ trào ngược sặc dịch dạ dày vào phổi."
+    },
+    {
+      "id": "im07b_q_13",
+      "text": "Hai chỉ định lâm sàng kinh điển và mang lại hiệu quả cứu sống cao nhất của Thở máy không xâm nhập (NIV) là:",
+      "options": [
+        "Viêm tụy cấp và xuất huyết tiêu hóa",
+        "Đợt cấp Bệnh phổi tắc nghẽn mạn tính (COPD) có toan hô hấp và Phù phổi cấp huyết động do tim",
+        "Chấn thương sọ não và sốc nhiễm khuẩn",
+        "Hội chứng Guillain-Barré liệt cơ hoàn toàn"
+      ],
+      "correct": 1,
+      "explanation": "Các bằng chứng y học thực chứng mạnh nhất khẳng định NIV là tiêu chuẩn vàng giúp giảm tỷ lệ đặt nội khí quản và giảm tỷ lệ tử vong trong: (1) Đợt cấp COPD có toan hô hấp (pH 7.25 - 7.35); (2) Phù phổi cấp huyết động do suy tim (giúp ép dịch phế nang trở lại lòng mạch và giảm tiền gánh/hậu gánh cho tim)."
+    },
+    {
+      "id": "im07b_q_14",
+      "text": "Khi nào người thầy thuốc phải quyết định ĐẶT ỐNG NỘI KHÍ QUẢN CẤP CỨU ngay cho bệnh nhân suy hô hấp cấp?",
+      "options": [
+        "Phải chờ có kết quả khí máu động mạch khẳng định toan máu",
+        "Dựa ngay vào đánh giá lâm sàng khi bệnh nhân có kiệt cơ hô hấp, thở giật cơ hoành, co kéo cơ liên sườn, ngạt thở, hôn mê đe dọa tắc đường thở, TUYỆT ĐỐI KHÔNG CHỜ ĐỢI KHÍ MÁU",
+        "Chờ sau 6 giờ thở oxy không đỡ mới đặt",
+        "Chỉ đặt khi bệnh nhân đã ngừng tim hoàn toàn"
+      ],
+      "correct": 1,
+      "explanation": "Nguyên tắc cấp cứu sống còn: Quyết định đặt nội khí quản là quyết định lâm sàng tức thì khi bệnh nhân kiệt cơ hô hấp, thở ngáp hoặc rối loạn tri giác sâu. Chờ đợi kết quả khí máu trong 15 - 30 phút khi bệnh nhân đang ngạt thở sẽ đẩy bệnh nhân vào ngừng tuần hoàn tử vong."
+    },
+    {
+      "id": "im07b_q_15",
+      "text": "Tư thế Fowler (nửa nằm nửa ngồi 45° – 90°) mang lại lợi ích sinh lý nào cho bệnh nhân suy hô hấp cấp và phù phổi cấp?",
+      "options": [
+        "Tăng lượng máu dồn về tim",
+        "Giúp hạ thấp cơ hoành làm phổi giãn nở tối đa, tăng dung tích cặn chức năng (FRC), đồng thời dồn máu xuống các tạng thấp làm giảm lượng máu hồi lưu về tim (giảm tiền gánh cho tim đang suy)",
+        "Làm giảm nhịp tim ngay lập tức",
+        "Chỉ nhằm mục đích giúp bệnh nhân nhìn xung quanh"
+      ],
+      "correct": 1,
+      "explanation": "Tư thế Fowler tận dụng trọng lực: (1) Các tạng trong ổ bụng hạ xuống kéo cơ hoành đi xuống, giải phóng đáy phổi giúp thông khí dễ dàng hơn; (2) Máu tĩnh mạch dồn xuống hai chi dưới và khoang bụng làm giảm hồi lưu tĩnh mạch về tim, giúp giảm ứ huyết phổi trong phù phổi cấp."
+    }
+  ]
+}

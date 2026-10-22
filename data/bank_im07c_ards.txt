@@ -1,0 +1,122 @@
+=== IM-07c: Hội Chứng Suy Hô Hấp Cấp Tiến Triển (ARDS) (15 Câu Chuyên Sâu) ===
+
+Câu 1: Bệnh nhân nam 45 tuổi, nhập viện ngày thứ 3 do Viêm tụy cấp thể hoại tử nặng. Bệnh nhân đột ngột xuất hiện khó thở dữ dội, thở nhanh 38 lần/phút, vã mồ hôi, co kéo cơ liên sườn, SpO2 tụt xuống 80% ở khí phòng. Đặt nội khí quản thở máy với FiO2 100% và PEEP 5 cmH2O, khí máu động mạch đo được PaO2 là 75 mmHg. X-quang ngực thẳng: Mờ thâm nhiễm lan tỏa cả hai bên phế trường. Siêu âm tim: Phân suất tống máu EF 62%, không có rối loạn vận động vùng, áp lực mao mạch phổi bít đo qua catheter Swan-Ganz là 12 mmHg. Theo Định nghĩa Berlin 2012, chẩn đoán xác định và phân tầng mức độ nặng của bệnh nhân là gì?
+A. Phù phổi cấp huyết động do suy tim trái cấp
+B. Hội chứng suy hô hấp cấp tiến triển (ARDS) mức độ Nặng (PaO2/FiO2 ≤ 100)
+C. Hội chứng suy hô hấp cấp tiến triển (ARDS) mức độ Trung bình (100 < PaO2/FiO2 ≤ 200)
+D. Viêm phổi bệnh viện mức độ nhẹ
+Đáp án: B
+Giải thích: Tính chỉ số PaO2/FiO2 = 75 / 1.0 = 75 mmHg. Bệnh nhân có biến cố nguy cơ ngoài phổi khởi phát cấp trong vòng 1 tuần (viêm tụy cấp nặng), tổn thương mờ lan tỏa 2 bên trên X-quang, đã loại trừ phù phổi do tim (PCWP = 12 mmHg ≤ 18 mmHg, siêu âm tim bình thường). Với mức PEEP ≥ 5 cmH2O và PaO2/FiO2 = 75 (≤ 100 mmHg), đối chiếu theo tiêu chuẩn Berlin 2012 khẳng định chắc chắn bệnh nhân bị ARDS mức độ NẶNG (Severe ARDS).
+
+Câu 2: Một nam bệnh nhân 50 tuổi bị ARDS do viêm phổi nặng, chiều cao đo được là 175 cm, nặng 88 kg (thể trạng béo phì). Bác sĩ chỉ định cài đặt thông khí nhân tạo kiểm soát thể tích (VCV) theo chiến lược bảo vệ phổi của ARDS Network (Vt thấp = 6 ml/kg). Thể tích lưu thông (Vt) cài đặt ban đầu chuẩn xác nhất là bao nhiêu?
+A. 528 ml (tính theo cân nặng thực tế 88 kg)
+B. 420 ml (tính theo cân nặng lý tưởng PBW của nam giới cao 175 cm)
+C. 300 ml
+D. 600 ml
+Đáp án: B
+Giải thích: Cạm bẫy kinh điển: Dung tích phổi phụ thuộc vào chiều cao và khung xương chứ hoàn toàn không tăng lên theo mô mỡ khi bệnh nhân béo phì. Cài đặt Vt trong ARDS bắt buộc tính theo Cân nặng lý tưởng (Predicted Body Weight - PBW). Áp dụng công thức ARDSNet cho Nam: PBW = 50 + 0.91 × (Chiều cao cm - 152.4) = 50 + 0.91 × (175 - 152.4) = 50 + 0.91 × 22.6 ≈ 70.5 kg. Thể tích lưu thông mục tiêu Vt = 6 ml/kg PBW = 6 × 70.5 ≈ 420 ml (nếu cài theo cân nặng thực tế 528 ml sẽ gây chấn thương thể tích làm vỡ phế nang lành).
+
+Câu 3: Bệnh nhân nữ 35 tuổi bị ARDS đang thở máy bảo vệ phổi với Vt = 6 ml/kg PBW, tần số 25 lần/phút, PEEP 12 cmH2O, FiO2 0.7. Khí máu động mạch kiểm tra sau 1 giờ: pH 7.22, PaCO2 58 mmHg, PaO2 68 mmHg (SpO2 92%). Áp lực cao nguyên đo được là Pplateau = 28 cmH2O. Bác sĩ điều trị nên xử trí như thế nào tiếp theo?
+A. Lập tức tăng Vt lên 9 ml/kg để đưa PaCO2 về mức bình thường 40 mmHg
+B. Chấp nhận tình trạng tăng CO2 máu này (Permissive Hypercapnia) và tiếp tục duy trì chế độ thở máy hiện tại vì mục tiêu oxy hóa máu đạt (PaO2 55 - 80) và áp lực Pplateau ≤ 30 cmH2O, pH vẫn ≥ 7.20
+C. Tiêm ngay 200 ml Natri Bicarbonate 8.4%
+D. Rút ống nội khí quản chuyển sang thở oxy gọng kính
+Đáp án: B
+Giải thích: Đây là chiến lược 'Tăng CO2 máu cho phép' (Permissive Hypercapnia) cốt lõi của ARDSNet: Ưu tiên bảo vệ phổi chống căng giãn quá mức (giữ Pplateau ≤ 30 cmH2O) quan trọng hơn việc bình thường hóa PaCO2. Khi PaO2 đạt 55 - 80 mmHg, Pplateau ≤ 30 cmH2O và pH vẫn duy trì ≥ 7.20 (ở đây pH 7.22), việc PaCO2 tăng 58 mmHg hoàn toàn được chấp nhận an toàn mà không cần tăng Vt hay bù kiềm.
+
+Câu 4: Bệnh nhân nam 40 tuổi bị sốc nhiễm khuẩn biến chứng ARDS nặng. Mặc dù đã tối ưu hóa thở máy bảo vệ phổi với PEEP 16 cmH2O, FiO2 100%, dùng giãn cơ liên tục nhưng chỉ số PaO2/FiO2 vẫn chỉ đạt 85 mmHg (< 150) kéo dài. Biện pháp can thiệp không dùng thuốc nào dưới đây đã được chứng minh giúp cải thiện tỷ lệ sống còn rõ rệt ở bệnh nhân này?
+A. Chuyển bệnh nhân sang tư thế nằm ngửa đầu dốc
+B. Thông khí nhân tạo ở tư thế NẰM SẤP (Prone Positioning) duy trì ít nhất 12 – 16 giờ mỗi ngày
+C. Truyền xả nhanh 3 lít dung dịch NaCl 0.9%
+D. Giảm PEEP về 0 cmH2O
+Đáp án: B
+Giải thích: Theo nghiên cứu PROSEVA và các hướng dẫn điều trị ARDS quốc tế: Ở bệnh nhân ARDS mức độ trung bình đến nặng có PaO2/FiO2 < 150 mmHg trơ với thông khí thông thường, biện pháp thông khí NẰM SẤP (Prone positioning) duy trì tối thiểu 12 – 16 giờ/ngày giúp đồng nhất hóa thông khí ở vùng phổi lưng, giảm đè ép của tim lên phổi và cải thiện sống còn rõ rệt (giảm tỷ lệ tử vong 28 ngày từ 32.8% xuống 16.0%).
+
+Câu 5: Một bệnh nhân ARDS do viêm phổi thở máy ngày thứ 4, huyết động ổn định không còn sốc, nhưng cân nặng tăng thêm 4 kg so với lúc vào viện do truyền dịch hồi sức ban đầu, nghe phổi nhiều ran ẩm, CVP đo được 12 cmH2O. Chiến lược quản lý dịch tiếp theo theo nghiên cứu FACTT của ARDS Network là gì?
+A. Tiếp tục truyền dịch duy trì cân bằng dương 2 lít/ngày
+B. Áp dụng chiến lược hạn chế dịch (Fluid Restriction), dùng thuốc lợi tiểu Furosemide để đạt cân bằng dịch âm, đưa bệnh nhân trở về cân nặng ban đầu và duy trì CVP mục tiêu 6 – 8 cmH2O
+C. Truyền dung dịch Albumin đậm đặc kèm xả dịch
+D. Ngừng thở máy ngay lập tức
+Đáp án: B
+Giải thích: Chiến lược quản lý dịch hạn chế (Conservative fluid strategy - nghiên cứu FACTT): Sau khi bệnh nhân đã thoát sốc, việc duy trì cân bằng dịch âm hoặc bằng không bằng cách dùng lợi tiểu Furosemide giúp rút bớt lượng nước thoát ở khoảng kẽ phổi, đưa CVP về mức an toàn 6 - 8 cmH2O (PCWP 8 - 10 mmHg), giúp cải thiện chức năng trao đổi khí và rút ngắn thời gian thở máy thêm 2.5 ngày mà không làm tăng nguy cơ suy thận.
+
+Câu 6: Định nghĩa Berlin năm 2012 về ARDS đã khắc phục nhược điểm cốt lõi nào của tiêu chuẩn cũ AECC 1994?
+A. Bỏ hoàn toàn tiêu chuẩn chụp X-quang phổi
+B. Quy định bắt buộc chỉ số PaO2/FiO2 phải được đo dưới một mức áp lực dương cuối thì thở ra tối thiểu (PEEP hoặc CPAP ≥ 5 cmH2O), loại bỏ thuật ngữ ALI và phân tầng cụ thể 3 mức độ nhẹ - vừa - nặng
+C. Chỉ áp dụng ARDS cho bệnh nhân chấn thương
+D. Đòi hỏi bắt buộc phải đặt catheter động mạch phổi Swan-Ganz đo PCWP
+Đáp án: B
+Giải thích: Định nghĩa Berlin 2012 chuẩn hóa: (1) Bắt buộc đo PaO2/FiO2 khi đang cài đặt PEEP ≥ 5 cmH2O để phản ánh đúng mức độ tổn thương phế nang; (2) Loại bỏ khái niệm ALI gây nhầm lẫn; (3) Phân tầng rõ ràng: Nhẹ (200 - 300), Trung bình (100 - 200), Nặng (≤ 100); (4) Cho phép dùng siêu âm tim thay cho đặt catheter Swan-Ganz để loại trừ phù phổi do tim.
+
+Câu 7: Khái niệm 'Phổi trẻ em' (Baby lung) trong sinh lý bệnh học của ARDS đề cập đến hiện tượng gì?
+A. Phổi của bệnh nhân bị teo nhỏ lại như phổi trẻ sơ sinh
+B. Thể tích nhu mô phổi lành lặn thực sự còn tham gia vào quá trình thông khí bị co cụm lại rất nhỏ (chỉ tương đương dung tích phổi của một đứa trẻ 5 tuổi) do phần lớn phổi đã bị đông đặc và xẹp
+C. Bệnh chỉ xảy ra ở trẻ em
+D. Phổi có khả năng tự phục hồi nhanh như trẻ nhỏ
+Đáp án: B
+Giải thích: Khái niệm 'Baby lung' do Gattinoni mô tả trên CT-scan: Trong ARDS, phần lớn nhu mô phổi bị đông đặc chứa đầy dịch viêm hoặc bị xẹp, vùng phổi lành có độ giãn nở bình thường chỉ còn lại một phần rất nhỏ ở phía trước (tương đương thể tích phổi của một đứa trẻ). Nếu bơm thể tích khí thông thường (10-12 ml/kg) vào vùng phổi nhỏ bé này sẽ gây căng giãn quá mức và xé rách phế nang lành (Volutrauma), do đó bắt buộc phải thở máy thể tích lưu thông thấp (6 ml/kg).
+
+Câu 8: Mục tiêu giới hạn áp lực cao nguyên (Plateau Pressure - Pplateau) trong thở máy bảo vệ phổi theo ARDS Network là:
+A. Pplateau ≤ 20 cmH2O
+B. Pplateau ≤ 30 cmH2O
+C. Pplateau ≤ 45 cmH2O
+D. Không cần giới hạn áp lực cao nguyên
+Đáp án: B
+Giải thích: Pplateau phản ánh áp lực tối đa tác động lên các phế nang ở cuối thì hít vào khi dòng khí ngừng di chuyển. Nghiên cứu của ARDSNet chứng minh giữ Pplateau ≤ 30 cmH2O giúp bảo vệ phế nang không bị căng giãn xé rách quá mức, giảm thiểu nguy cơ chấn thương áp lực (Barotrauma) và tràn khí màng phổi.
+
+Câu 9: Mục tiêu oxy hóa máu động mạch được khuyến cáo trong chiến lược thông khí bảo vệ phổi ở bệnh nhân ARDS là:
+A. PaO2 phải đạt 100 - 120 mmHg và SpO2 100%
+B. PaO2 trong khoảng 55 – 80 mmHg (tương ứng SpO2 từ 88% – 95%)
+C. Chỉ cần PaO2 > 35 mmHg
+D. PaO2 càng cao càng tốt bất kể FiO2
+Đáp án: B
+Giải thích: Mục tiêu oxy hóa máu của ARDSNet là duy trì mức PaO2 vừa đủ (55 - 80 mmHg, tương ứng SpO2 88% - 95%) nhằm tránh tình trạng ngộ độc oxy do dùng FiO2 cao kéo dài và giảm thiểu chấn thương phổi do máy thở (VILI).
+
+Câu 10: Khi cài đặt máy thở mode VCV cho bệnh nhân ARDS, nếu áp lực cao nguyên Pplateau đo được vượt quá 30 cmH2O, bước xử trí tiếp theo chuẩn xác là:
+A. Tăng ngay thể tích lưu thông Vt lên 10 ml/kg
+B. Giảm dần Vt mỗi lần 1 ml/kg PBW (xuống 5 ml/kg hoặc 4 ml/kg) sao cho Pplateau ≤ 30 cmH2O
+C. Tắt máy thở ngay lập tức
+D. Tăng PEEP lên mức tối đa 24 cmH2O
+Đáp án: B
+Giải thích: Theo quy trình chuẩn ARDSNet: Nếu Pplateau > 30 cmH2O, giảm dần thể tích lưu thông mỗi lần 1 ml/kg cân nặng lý tưởng (từ 6 xuống 5, rồi xuống 4 ml/kg PBW nếu cần) cho đến khi đạt được Pplateau ≤ 30 cmH2O (lưu ý không giảm Vt < 4 ml/kg).
+
+Câu 11: Vai trò của áp lực dương cuối thì thở ra (PEEP) trong thông khí nhân tạo điều trị ARDS là gì?
+A. Làm tăng áp lực hút dịch vào lòng phế nang
+B. Mở và giữ cho các phế nang bị xẹp không bị đóng lại ở cuối thì thở ra, tăng diện tích trao đổi khí, giảm luồng Shunt nội phổi và cải thiện oxy hóa máu
+C. Làm tăng đào thải CO2 qua đường thở
+D. Thay thế hoàn toàn cho thuốc an thần
+Đáp án: B
+Giải thích: Trong ARDS, phế nang thiếu surfactant rất dễ bị xẹp ở cuối thì thở ra. PEEP duy trì áp lực dương liên tục giúp mở lại các phế nang bị xẹp (huy động phế nang), ngăn chặn hiện tượng phế nang đóng mở liên tục gây tổn thương do lực xé (Atelectrauma), đồng thời giảm shunt giúp tăng oxy máu.
+
+Câu 12: Khuyến cáo về thời gian sử dụng thuốc dãn cơ liên tục (Neuromuscular blockade) trong điều trị ARDS nặng là:
+A. Dùng kéo dài liên tục suốt quá trình thở máy (2 - 3 tuần)
+B. Chỉ nên dùng dãn cơ trong vòng 48 giờ đầu tiên kết hợp an thần sâu
+C. Chống chỉ định tuyệt đối thuốc dãn cơ trong ARDS
+D. Chỉ dùng khi bệnh nhân sắp rút ống nội khí quản
+Đáp án: B
+Giải thích: Thử nghiệm ACURASYS chỉ ra rằng dùng thuốc dãn cơ sớm (như Cisatracurium) trong vòng 48 giờ đầu giúp đồng bộ hoàn toàn giữa bệnh nhân và máy thở, giảm công thở và giảm tỷ lệ tử vong. Tuy nhiên không dùng quá 48 giờ vì làm tăng nguy cơ biến chứng yếu cơ, teo cơ và bệnh thần kinh cơ liên quan thở máy tại ICU.
+
+Câu 13: Mục tiêu áp lực tĩnh mạch trung tâm (CVP) trong chiến lược quản lý dịch hạn chế ở bệnh nhân ARDS sau khi đã ổn định huyết động là:
+A. CVP = 15 – 20 cmH2O
+B. Duy trì CVP = 6 – 8 cmH2O (hoặc PCWP = 8 – 10 mmHg)
+C. CVP = 0 cmH2O
+D. Càng cao càng tốt để bảo vệ thận
+Đáp án: B
+Giải thích: Trong ARDS, màng mao mạch phổi bị tổn thương tăng tính thấm, áp lực thủy tĩnh chỉ cần tăng nhẹ cũng làm dịch ùa ra phế nang. Duy trì CVP ở mức thấp an toàn 6 - 8 cmH2O (PCWP 8 - 10 mmHg) giúp giảm áp lực mao mạch phổi, hạn chế phù phế nang.
+
+Câu 14: Mức nồng độ Hemoglobin (Hb) tối thiểu được khuyến cáo duy trì ở bệnh nhân ARDS thở máy để đảm bảo cung cấp oxy cho mô là:
+A. Hb > 12 g/dL
+B. Hb > 8 g/dL (tương đương > 80 g/L)
+C. Hb > 5 g/dL
+D. Không cần quan tâm nồng độ hemoglobin
+Đáp án: B
+Giải thích: Khuyến cáo hồi sức ARDS: Duy trì nồng độ Hemoglobin > 8 g/dL (> 80 g/L) nhằm đảm bảo khả năng vận chuyển oxy của máu đến các mô cơ quan đích mà không gây nguy cơ quá tải thể tích hay phản ứng truyền máu thừa thãi.
+
+Câu 15: Biện pháp nào sau đây giúp dự phòng biến chứng viêm phổi hít dẫn đến ARDS ở bệnh nhân có rối loạn tri giác hoặc nuôi ăn qua sonde dạ dày?
+A. Cho bệnh nhân nằm đầu dốc tuyệt đối
+B. Đặt bệnh nhân nằm đầu cao 30° – 45° và kiểm tra lượng dịch tồn dư dạ dày
+C. Cho uống thuốc an thần liều cao liên tục
+D. Bơm thức ăn thật nhanh vào dạ dày
+Đáp án: B
+Giải thích: Tư thế nằm đầu cao 30° - 45° là biện pháp dự phòng kinh điển và hiệu quả nhất giúp ngăn chặn trào ngược dịch dạ dày thực quản và hít sặc vi thể ở bệnh nhân hôn mê, thở máy hoặc nuôi ăn qua sonde.
+

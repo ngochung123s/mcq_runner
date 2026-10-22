@@ -1,0 +1,638 @@
+{
+  "version": "1.0",
+  "lastSyncedAt": "2026-09-05T16:29:47.516408+00:00",
+  "banks": [
+    {
+      "id": "bank_suy_giap_001",
+      "title": "IM-53: Bệnh Suy Giáp (Hypothyroidism)",
+      "description": "Bộ 20 câu hỏi trắc nghiệm chuyên sâu về Sinh lý trục HPT, Cơ chế phù niêm, Phân loại nguyên nhân, Chẩn đoán sinh hóa TSH/FT4, Liệu pháp Levothyroxine, 'Start low, go slow' và Cấp cứu Hôn mê phù niêm.",
+      "createdAt": "2026-09-05T16:29:47.506907+00:00",
+      "questions": [
+        {
+          "id": "sg_01",
+          "text": "Nguyên nhân hàng đầu gây suy giáp nguyên phát (tiên phát) ở các vùng dân cư có đủ lượng Iod là gì?",
+          "options": [
+            "Viêm tuyến giáp tự miễn Hashimoto (Viêm giáp lympho bào mạn tính)",
+            "U tuyến yên chèn ép tế bào tiết TSH",
+            "Thiếu hụt Iod nghiêm trọng trong chế độ ăn hàng ngày",
+            "Đột biến mất chức năng thụ thể TR-β ngoại vi"
+          ],
+          "correct": 0,
+          "explanation": "Ở các vùng đủ Iod, viêm tuyến giáp tự miễn Hashimoto là nguyên nhân phổ biến nhất gây suy giáp tiên phát (>90%). Cơ thể sinh tự kháng thể (Anti-TPO, Anti-Tg) kích hoạt tế bào lympho T thâm nhiễm phá hủy nhu mô giáp. Thiếu Iod là nguyên nhân hàng đầu ở các vùng núi cao xa biển."
+        },
+        {
+          "id": "sg_02",
+          "text": "Dấu hiệu sinh hóa cốt lõi trên xét nghiệm máu để chẩn đoán xác định Suy giáp tiên phát (tại tuyến giáp) là:",
+          "options": [
+            "TSH giảm thấp, FT4 tăng cao",
+            "TSH tăng cao, FT4 giảm thấp",
+            "TSH bình thường hoặc giảm thấp, FT4 giảm thấp",
+            "TSH tăng cao, FT4 bình thường"
+          ],
+          "correct": 1,
+          "explanation": "Trong suy giáp tiên phát, tuyến giáp suy giảm sản xuất hormone (FT4 giảm). Do mất cơ chế feedback âm tính lên tuyến yên, tuyến yên tăng cường bài tiết TSH để kích thích tuyến giáp, dẫn đến nồng độ TSH tăng cao rõ rệt (thường > 10 mIU/L)."
+        },
+        {
+          "id": "sg_03",
+          "text": "Xét nghiệm cho kết quả: TSH tăng cao (6.8 mIU/L), nồng độ FT4 hoàn toàn bình thường (1.2 ng/dL), bệnh nhân ít triệu chứng. Chẩn đoán phù hợp nhất là:",
+          "options": [
+            "Suy giáp lâm sàng (Overt hypothyroidism)",
+            "Suy giáp dưới lâm sàng (Subclinical hypothyroidism)",
+            "Suy giáp thứ phát do tuyến yên",
+            "Cường giáp giai đoạn sớm"
+          ],
+          "correct": 1,
+          "explanation": "Suy giáp dưới lâm sàng (Subclinical Hypothyroidism) được định nghĩa là tình trạng TSH tăng cao trên giới hạn bình thường nhưng nồng độ hormone giáp tự do (FT4) vẫn nằm trong khoảng tham chiếu bình thường."
+        },
+        {
+          "id": "sg_04",
+          "text": "Tại sao trong Suy giáp thứ phát (do tổn thương tuyến yên), bác sĩ TUYỆT ĐỐI KHÔNG dùng TSH để theo dõi và chỉnh liều Levothyroxine?",
+          "options": [
+            "Vì thời gian bán hủy của TSH quá ngắn không đo lường được",
+            "Vì tuyến yên đã bị tổn thương nên nồng độ TSH không còn phản ánh đúng tình trạng đáp ứng sinh lý của cơ thể",
+            "Vì TSH bị mất hoạt tính sinh học khi gặp thuốc Levothyroxine",
+            "Vì nồng độ TSH luôn tăng vọt do hiện tượng thoát ức chế"
+          ],
+          "correct": 1,
+          "explanation": "Trong suy giáp thứ phát, tuyến yên bị tổn thương (u tuyến yên, hội chứng Sheehan) nên mất khả năng bài tiết TSH tương ứng. Nồng độ TSH máu thường thấp, bình thường hoặc tăng nhẹ giả tạo. Mục tiêu theo dõi điều trị phải dựa vào FT4 (đưa FT4 về nửa trên khoảng tham chiếu)."
+        },
+        {
+          "id": "sg_05",
+          "text": "Hiện tượng phù niêm (Myxedema) - phù cứng, ấn không lõm ở bệnh nhân suy giáp nặng xuất phát từ cơ chế sinh lý bệnh nào?",
+          "options": [
+            "Tăng tính thấm thành mạch và ứ đọng Glycosaminoglycans (Hyaluronic acid) hút nước trong mô kẽ",
+            "Tăng áp lực thủy tĩnh mao mạch do suy tim ứ huyết đơn thuần",
+            "Giảm áp lực keo huyết tương do mất albumin quá mức qua thận",
+            "Tắc nghẽn mạng lưới bạch huyết cục bộ do thâm nhiễm mỡ"
+          ],
+          "correct": 0,
+          "explanation": "Thiếu hormone giáp làm chậm quá trình thoái hóa các chất căn bản, dẫn đến tích tụ các Glycosaminoglycan (chủ yếu là Hyaluronic acid và Chondroitin sulfate) ở mô kẽ dưới da. Các chất này có tính hút nước cực mạnh tạo ra phù cứng, dày da, ấn không lõm."
+        },
+        {
+          "id": "sg_06",
+          "text": "Cơ chế gây tăng nồng độ Cholesterol toàn phần và LDL-C máu nghiêm trọng ở bệnh nhân suy giáp là:",
+          "options": [
+            "Tăng tổng hợp acid béo tự do tại gan do tăng nhạy cảm thụ thể",
+            "Giảm số lượng và giảm hoạt tính của thụ thể LDL-R trên bề mặt tế bào gan",
+            "Tăng thoái hóa HDL-C ngoại biên",
+            "Tăng hấp thu mỡ tối đa qua nhung mao ruột non"
+          ],
+          "correct": 1,
+          "explanation": "Hormone T3 kích thích biểu hiện gen của thụ thể LDL (LDL-R) ở màng tế bào gan. Thiếu T3 dẫn đến giảm số lượng và hoạt tính của thụ thể LDL-R, làm giảm thanh thải LDL-C khỏi tuần hoàn, gây tăng vọt LDL-C và Cholesterol toàn phần."
+        },
+        {
+          "id": "sg_07",
+          "text": "Thời gian bán thải (t1/2) của thuốc Levothyroxine (L-T4) trong tuần hoàn ở bệnh nhân suy giáp là khoảng bao lâu?",
+          "options": [
+            "Khoảng 24 giờ",
+            "Khoảng 3 - 4 ngày",
+            "Khoảng 6 - 7 ngày (kéo dài lên 9 - 10 ngày ở bệnh nhân suy giáp)",
+            "Khoảng 30 ngày"
+          ],
+          "correct": 2,
+          "explanation": "Thời gian bán thải của L-T4 ở người bình thường là 6 - 7 ngày, ở bệnh nhân suy giáp do chuyển hóa chậm nên kéo dài tới 9 - 10 ngày. Do đó thuốc chỉ cần uống 1 lần/ngày và cần 4 - 6 tuần mới đạt trạng thái bão hòa ổn định (steady state)."
+        },
+        {
+          "id": "sg_08",
+          "text": "Sau khi khởi đầu hoặc thay đổi liều Levothyroxine, thời điểm chuẩn để xét nghiệm lại TSH và FT4 đánh giá đáp ứng là:",
+          "options": [
+            "Sau 1 tuần",
+            "Sau 2 tuần",
+            "Sau 6 - 8 tuần",
+            "Sau 6 tháng"
+          ],
+          "correct": 2,
+          "explanation": "Vì thời gian bán thải dài (~7 ngày), thuốc cần 4 - 5 chu kỳ t1/2 (khoảng 4 - 6 tuần) để nồng độ trong máu đạt trạng thái cân bằng ổn định. Xét nghiệm lại TSH trước 4 tuần là quá sớm và không phản ánh chính xác hiệu quả chỉnh liều."
+        },
+        {
+          "id": "sg_09",
+          "text": "Nguyên tắc 'Start low, go slow' (khởi đầu liều thấp 12.5 - 25 mcg/ngày) khi kê đơn Levothyroxine bắt buộc áp dụng cho đối tượng nào sau đây?",
+          "options": [
+            "Phụ nữ trẻ tuổi chuẩn bị mang thai",
+            "Người cao tuổi (> 60 tuổi) hoặc bệnh nhân có tiền sử bệnh tim mạch (bệnh mạch vành, suy tim)",
+            "Trẻ em suy giáp bẩm sinh",
+            "Bệnh nhân viêm giáp bán cấp de Quervain"
+          ],
+          "correct": 1,
+          "explanation": "Ở người già hoặc có bệnh mạch vành, cơ tim đang thích nghi với tình trạng chuyển hóa chậm. Đưa L-T4 liều cao đột ngột sẽ kích thích tim đập nhanh, tăng tiêu thụ oxy cơ tim vượt quá khả năng cấp máu của mạch vành, gây khởi phát cơn đau thắt ngực, nhồi máu cơ tim hoặc loạn nhịp tim cấp."
+        },
+        {
+          "id": "sg_10",
+          "text": "Để thuốc Levothyroxine hấp thu tối ưu vào máu, bệnh nhân cần được hướng dẫn uống thuốc như thế nào?",
+          "options": [
+            "Uống ngay sau bữa ăn trưa nhiều dầu mỡ",
+            "Uống vào buổi sáng lúc bụng đói với nước lọc, trước bữa ăn sáng ít nhất 30 - 60 phút",
+            "Uống cùng lúc với viên sắt và canxi để tăng tác dụng hiệp đồng",
+            "Uống cùng một cốc sữa tươi hoặc cà phê sáng"
+          ],
+          "correct": 1,
+          "explanation": "L-T4 hấp thu tại ruột non tối ưu trong môi trường acid dịch vị lúc dạ dày rỗng. Thức ăn, cà phê, sữa, viên sắt, canxi, thuốc trung hòa acid dạ dày (chứa Al, Mg) làm giảm hấp thu L-T4 tới 30-40%. Cần uống xa các chất bổ sung ít nhất 4 giờ."
+        },
+        {
+          "id": "sg_11",
+          "text": "Nguyên tắc 'sống còn' bắt buộc thực hiện TRƯỚC HOẶC ĐỒNG THỜI khi bù Levothyroxine trong điều trị Suy giáp thứ phát hoặc Hôn mê phù niêm là gì?",
+          "options": [
+            "Bù Natri ưu trương 3% liều cao",
+            "Dùng Glucocorticoid (Hydrocortisone) liều stress trước",
+            "Sưởi ấm tích cực bằng chăn điện nhiệt độ cao",
+            "Cho uống thuốc ức chế beta giao cảm liều thấp"
+          ],
+          "correct": 1,
+          "explanation": "Suy giáp thứ phát thường kèm suy giảm trục tuyến yên - thượng thận. Nếu bù hormone giáp đơn độc, chuyển hóa tăng vọt sẽ thúc đẩy dị hóa nhanh lượng cortisol dự trữ ít ỏi, đẩy bệnh nhân rơi vào Cơn suy vỏ thượng thận cấp gây trụy tim mạch tử vong. Bắt buộc tiêm Hydrocortisone trước!"
+        },
+        {
+          "id": "sg_12",
+          "text": "Trong cấp cứu Hôn mê phù niêm (Myxedema Coma), phương pháp sưởi ấm nào được khuyến cáo an toàn?",
+          "options": [
+            "Quấn chăn điện nhiệt độ cao và chiếu đèn sưởi công suất lớn",
+            "Ngâm bệnh nhân trong bồn nước ấm 42 độ C",
+            "Chỉ sưởi ấm thụ động bằng chăn bông thông thường và tăng nhiệt độ phòng từ từ",
+            "Truyền dịch dung dịch đẳng trương đun sôi 50 độ C"
+          ],
+          "correct": 2,
+          "explanation": "Sưởi ấm chủ động quá nhanh từ bên ngoài sẽ gây giãn mạch ngoại vi đột ngột, làm máu dồn hết ra ngoại biên gây tụt huyết áp nghiêm trọng và trụy tim mạch. Chỉ được sưởi ấm thụ động từ từ bằng chăn thường và giữ ấm phòng."
+        },
+        {
+          "id": "sg_13",
+          "text": "Khi bệnh nhân nữ đang điều trị suy giáp bằng Levothyroxine phát hiện que thử thai 2 vạch (mang thai), xử trí khuyến cáo ban đầu là:",
+          "options": [
+            "Ngừng ngay thuốc vì Levothyroxine gây dị tật thai nhi",
+            "Tự động tăng ngay liều Levothyroxine thêm khoảng 25 - 30% (ví dụ uống thêm 2 viên/tuần) và đi khám chuyên khoa",
+            "Giảm nửa liều để tránh nguy cơ nhiễm độc giáp thai kỳ",
+            "Giữ nguyên liều cho đến tháng thứ 6 của thai kỳ"
+          ],
+          "correct": 1,
+          "explanation": "Nhu cầu hormone giáp của mẹ tăng ngay từ tuần 4-6 thai kỳ để cung cấp cho thai nhi (thai chưa có tuyến giáp trong 3 tháng đầu). Thiếu hormone giáp gây sảy thai và tổn thương não bộ thai nhi. Hướng dẫn quốc tế khuyến cáo tự tăng liều thêm 25-30% ngay khi có thai."
+        },
+        {
+          "id": "sg_14",
+          "text": "Thuốc chống loạn nhịp Amiodarone chứa khoảng bao nhiêu % Iod theo trọng lượng phân tử và có thể gây suy giáp qua cơ chế nào?",
+          "options": [
+            "5% Iod, gây hoại tử tế bào gan",
+            "37.5% Iod, gây ức chế tổng hợp hormone qua hiệu ứng Wolff-Chaikoff",
+            "70% Iod, gây ức chế bơm proton dạ dày",
+            "100% Iod, gây hủy hoại tế bào lympho T"
+          ],
+          "correct": 1,
+          "explanation": "Amiodarone chứa tới 37.5% Iod theo trọng lượng. Một viên 200mg giải phóng khoảng 3mg Iod tự do (gấp 20-30 lần nhu cầu sinh lý). Lượng Iod khổng lồ này ức chế enzyme TPO và giải phóng hormone giáp qua hiệu ứng Wolff-Chaikoff, gây suy giáp."
+        },
+        {
+          "id": "sg_15",
+          "text": "Triệu chứng chậm chạp phản xạ gân xương ở bệnh nhân suy giáp đặc trưng nhất ở pha nào?",
+          "options": [
+            "Pha co cơ xảy ra rất nhanh",
+            "Pha giãn cơ (relaxation phase) kéo dài rõ rệt (phản xạ gân gót > 320 ms)",
+            "Mất hoàn toàn cả hai pha co và giãn",
+            "Xuất hiện rung giật cơ liên tục dạng giật bóng bàn"
+          ],
+          "correct": 1,
+          "explanation": "Đặc trưng kinh điển của suy giáp trên thăm khám phản xạ gân xương (như gân gót) là pha giãn cơ bị kéo dài (thời gian hồi phục chậm > 320 ms) do quá trình thu hồi Ca2+ vào lưới nội sinh chất qua bơm SERCA2a bị đình trệ."
+        },
+        {
+          "id": "sg_16",
+          "text": "Kháng thể tự miễn nào có độ nhạy và độ đặc hiệu cao nhất giúp chẩn đoán căn nguyên Viêm tuyến giáp Hashimoto?",
+          "options": [
+            "Kháng thể kháng thụ thể TSH (TRAb)",
+            "Kháng thể kháng Thyroid Peroxidase (Anti-TPO)",
+            "Kháng thể kháng nhân (ANA)",
+            "Kháng thể kháng màng đáy cầu thận (Anti-GBM)"
+          ],
+          "correct": 1,
+          "explanation": "Anti-TPO (kháng men Peroxidase tuyến giáp) dương tính trong 90 - 95% trường hợp viêm tuyến giáp Hashimoto, là marker tự miễn quan trọng nhất để chẩn đoán căn nguyên suy giáp tự miễn."
+        },
+        {
+          "id": "sg_17",
+          "text": "Hiện tượng thiếu máu ở bệnh nhân suy giáp có thể xuất hiện dưới hình thái nào sau đây?",
+          "options": [
+            "Thiếu máu đẳng sắc đẳng bào do giảm chuyển hóa cơ bản làm giảm tiết Erythropoietin (EPO)",
+            "Thiếu máu hồng cầu nhỏ nhược sắc do rong kinh mất sắt hoặc giảm hấp thu sắt",
+            "Thiếu máu hồng cầu to do phối hợp bệnh thiếu máu ác tính Biermer (thiếu vitamin B12)",
+            "Tất cả các hình thái trên đều có thể gặp"
+          ],
+          "correct": 3,
+          "explanation": "Thiếu máu trong suy giáp có cơ chế đa dạng: (1) Đẳng sắc đẳng bào do giảm nhu cầu oxy tế bào dẫn tới giảm tiết EPO thận; (2) Hồng cầu nhỏ do rong kinh gây mất máu và giảm acid dạ dày giảm hấp thu sắt; (3) Hồng cầu to do bệnh tự miễn phối hợp gây viêm teo dạ dày thiếu yếu tố nội tại hấp thu B12."
+        },
+        {
+          "id": "sg_18",
+          "text": "Mục tiêu TSH khuyến cáo ở bệnh nhân lớn tuổi (> 70 tuổi) hoặc có bệnh mạch vành đang điều trị suy giáp là:",
+          "options": [
+            "0.1 - 0.5 mIU/L",
+            "0.5 - 2.5 mIU/L",
+            "4.0 - 6.0 mIU/L (chấp nhận nới lỏng)",
+            "Bắt buộc < 0.1 mIU/L"
+          ],
+          "correct": 2,
+          "explanation": "Ở người cao tuổi, TSH sinh lý tự nhiên tăng theo tuổi. Đưa TSH xuống quá thấp (< 0.5 mIU/L) làm tăng nguy cơ rung nhĩ, tai biến mạch máu não, nhồi máu cơ tim và loãng xương gãy xương. Mục tiêu khuyến cáo nới lỏng ở mức 4 - 6 mIU/L."
+        },
+        {
+          "id": "sg_19",
+          "text": "Bệnh nhân suy giáp nặng có thể bị khàn giọng, nói chậm và ngáy to khi ngủ do cơ chế nào?",
+          "options": [
+            "Tê liệt dây thần kinh quặt ngược thanh quản do u chèn ép",
+            "Lắng đọng chất nhầy mucopolysaccharide làm dày dây thanh âm và phì đại lưỡi",
+            "Co thắt cơ trơn phế quản phản xạ",
+            "Tăng tiết nước bọt quá mức gây sặc dịch nhầy"
+          ],
+          "correct": 1,
+          "explanation": "Sự ứ đọng glycosaminoglycan trong mô kẽ làm lưỡi to bè (macroglossia), dây thanh âm phù nề, dày lên, niêm mạc đường hô hấp trên hẹp lại dẫn tới khàn tiếng, giọng nói trầm ồm, chậm chạp và hội chứng ngừng thở khi ngủ (OSA)."
+        },
+        {
+          "id": "sg_20",
+          "text": "Trong hội chứng suy giáp bẩm sinh ở trẻ sơ sinh, nếu không được phát hiện bằng sàng lọc lấy máu gót chân và điều trị kịp thời trong vài tuần đầu đời, biến chứng nguy hiểm nhất là gì?",
+          "options": [
+            "Tăng huyết áp kháng trị",
+            "Tổn thương phát triển não bộ không hồi phục dẫn đến chứng đần độn (Cretinism) và lùn thể tạng",
+            "Xơ gan ứ mật bẩm sinh",
+            "Suy thận mạn tính giai đoạn cuối"
+          ],
+          "correct": 1,
+          "explanation": "Hormone giáp là yếu tố bắt buộc cho sự biệt hóa, tạo myelin và phát triển của các tế bào thần kinh vỏ não trong 2 năm đầu đời. Thiếu hormone giáp sơ sinh gây chậm phát triển trí tuệ vĩnh viễn (Cretinism) kèm lùn không cân đối."
+        }
+      ]
+    },
+    {
+      "id": "bank_buou_giap_001",
+      "title": "IM-53b: Bướu Giáp Đơn Thuần (Simple Goiter)",
+      "description": "Bộ 10 câu hỏi trắc nghiệm chuyên sâu về Chu trình Iod, Cơ chế phì đại bù trừ, Tiêu chuẩn WHO dịch tễ học, Nghiệm pháp Pemberton bướu chìm, Độ tập trung I-131, Biến chứng Jod-Basedow và Liệu pháp ức chế TSH.",
+      "createdAt": "2026-09-05T16:29:47.507527+00:00",
+      "questions": [
+        {
+          "id": "bg_01",
+          "text": "Định nghĩa chuẩn xác của Bướu giáp đơn thuần (Euthyroid Goiter / Simple Goiter) là:",
+          "options": [
+            "Tuyến giáp phì đại kèm nồng độ hormone FT4 tăng cao và TSH giảm",
+            "Tuyến giáp phì đại nhưng chức năng giáp hoàn toàn bình thường (bình giáp), không do viêm tự miễn và không phải ung thư",
+            "Tuyến giáp teo nhỏ kèm nồng độ TSH tăng cao",
+            "Bướu giáp kích thước lớn kèm lồi mắt và phù niêm trước xương chày"
+          ],
+          "correct": 1,
+          "explanation": "Bướu giáp đơn thuần (bướu không độc, bướu phình giáp) là tình trạng phì đại thể tích tuyến giáp lan tỏa hoặc dạng nhân nhưng bệnh nhân ở trạng thái bình giáp (FT4, TSH bình thường), không có cơ chế viêm tự miễn và không có tế bào ác tính."
+        },
+        {
+          "id": "bg_02",
+          "text": "Theo định nghĩa của Tổ chức Y tế Thế giới (WHO), Bướu cổ địa phương (Endemic Goiter) được xác định khi:",
+          "options": [
+            "Tỷ lệ bướu giáp trong cộng đồng trẻ em tuổi học đường (6 - 12 tuổi) hoặc dân số > 5% - 10%",
+            "Có ít nhất 50% dân số trong vùng bị suy giáp",
+            "Mọi người dân trong vùng đều có nồng độ TSH > 10 mIU/L",
+            "Tất cả phụ nữ mang thai trong vùng đều phải phẫu thuật cắt giáp"
+          ],
+          "correct": 0,
+          "explanation": "WHO định nghĩa bướu cổ địa phương là khi tỷ lệ mắc bướu giáp ở trẻ em lứa tuổi học đường (6 - 12 tuổi) vượt quá 5% (hoặc > 10% dân số nói chung). Căn nguyên chủ yếu là do môi trường đất và nước thiếu hụt nguyên tố vi lượng Iod."
+        },
+        {
+          "id": "bg_03",
+          "text": "Cơ chế sinh lý bệnh cốt lõi dẫn đến sự phì đại của tuyến giáp trong bướu giáp đơn thuần do thiếu Iod là:",
+          "options": [
+            "Kháng thể kích thích thụ thể TSH (TRAb) gắn liên tục vào thụ thể nang giáp",
+            "Thiếu Iod làm giảm nhẹ FT4 máu -> kích thích nhẹ bài tiết TSH tuyến yên -> TSH thúc đẩy tế bào nang giáp phì đại và tăng sinh để bắt giữ tối đa Iod",
+            "Tắc nghẽn ống giáp lưỡi làm ứ đọng chất keo nang giáp",
+            "Đột biến gen BRAF V600E kích hoạt tăng sinh vô tổ chức"
+          ],
+          "correct": 1,
+          "explanation": "Bướu giáp đơn thuần là phản ứng thích nghi mang tính bảo vệ của cơ thể. Khi thiếu hụt iod, nồng độ FT4 giảm nhẹ kích hoạt phản hồi âm tính làm tăng nhẹ hoặc tăng tính nhạy cảm với TSH, thúc đẩy tế bào nang giáp tăng sinh và phì đại để tăng diện tích bắt giữ iod ít ỏi."
+        },
+        {
+          "id": "bg_04",
+          "text": "Tại sao trong bướu giáp đơn thuần giai đoạn đầu, xét nghiệm thường thấy FT4 ở giới hạn dưới bình thường nhưng FT3 và TSH lại hoàn toàn bình thường?",
+          "options": [
+            "Vì tuyến giáp ưu tiên tổng hợp T3 (chỉ cần 3 nguyên tử Iod) hơn T4 và tăng chuyển đổi T4 thành T3 ở ngoại vi",
+            "Vì gan ngừng hoàn toàn việc giáng hóa T3",
+            "Vì T4 bị gắn kết vĩnh viễn với albumin trong máu",
+            "Vì nồng độ TRH bị ức chế hoàn toàn bởi nồng độ canxi máu"
+          ],
+          "correct": 0,
+          "explanation": "Để tiết kiệm iod (vốn đang thiếu hụt), tuyến giáp ưu tiên tổng hợp T3 (chỉ cần 3 phân tử Iod, hoạt tính sinh học gấp 3-5 lần T4) thay vì T4 (cần 4 Iod). Đồng thời enzyme deiodinase ngoại vi tăng cường chuyển T4 thành T3, giúp cơ thể duy trì trạng thái bình giáp trên lâm sàng."
+        },
+        {
+          "id": "bg_05",
+          "text": "Nghiệm pháp Pemberton được thực hiện trên lâm sàng nhằm phát hiện tình trạng nào ở bệnh nhân bướu giáp?",
+          "options": [
+            "Hội chứng cường giáp nhiễm độc",
+            "Bướu giáp phát triển chìm sau xương ức vào trung thất gây chèn ép mạch máu và đường thở tại cửa vào lồng ngực",
+            "Tình trạng viêm tuyến giáp bán cấp đau buốt",
+            "Hội chứng còi xương do thiếu vitamin D"
+          ],
+          "correct": 1,
+          "explanation": "Nghiệm pháp Pemberton: Cho bệnh nhân giơ cả 2 tay lên cao sát 2 tai trong 1 - 2 phút. Nếu bướu phát triển chìm sau xương ức, động tác này sẽ kéo bướu giáp kẹt vào lỗ trên lồng ngực gây nghẽn tĩnh mạch cổ và khí quản -> dấu hiệu dương tính: mặt đỏ bừng hoặc tím tái, tĩnh mạch cổ nổi to và khó thở/thở rít."
+        },
+        {
+          "id": "bg_06",
+          "text": "Theo thang phân độ bướu cổ của Tổ chức Y tế Thế giới (WHO 1994 sửa đổi), Bướu giáp Độ 1 được định nghĩa là:",
+          "options": [
+            "Không nhìn thấy và không sờ thấy bướu giáp",
+            "Sờ thấy bướu nhưng không nhìn thấy khi cổ ở tư thế bình thường (chỉ nhìn thấy khi ngửa cổ tối đa)",
+            "Nhìn thấy bướu rõ ràng ngay cả khi cổ ở tư thế bình thường",
+            "Bướu khổng lồ gây biến dạng vùng cổ và chèn ép gây khó thở"
+          ],
+          "correct": 1,
+          "explanation": "Phân độ WHO: Độ 0 = Không sờ thấy, không nhìn thấy; Độ 1 = Sờ thấy bướu có kích thước thùy to hơn đốt xa ngón cái bệnh nhân, nhưng không nhìn thấy ở tư thế cổ bình thường (nhìn thấy khi ngửa cổ); Độ 2 = Nhìn thấy bướu rõ ràng ở tư thế cổ bình thường."
+        },
+        {
+          "id": "bg_07",
+          "text": "Biểu hiện của độ tập trung Iod phóng xạ (I-131) tại tuyến giáp ở bệnh nhân bướu giáp đơn thuần do thiếu Iod thường là:",
+          "options": [
+            "Độ tập trung I-131 giảm rất thấp (< 5% sau 24h)",
+            "Độ tập trung I-131 tăng cao ở các thời điểm nhưng góc thanh thải bình thường (đạt đỉnh muộn sau 24 giờ, không có hiện tượng phân ly)",
+            "Độ tập trung I-131 tăng vọt đạt đỉnh sớm sau 2 - 6 giờ rồi tụt dốc nhanh (góc thanh thải âm)",
+            "Tuyến giáp không bắt giữ bất kỳ hoạt độ phóng xạ nào"
+          ],
+          "correct": 1,
+          "explanation": "Do 'đói iod', tuyến giáp bắt giữ I-131 rất mạnh ở các thời điểm (sau 2h, 6h, 24h đều tăng cao hơn bình thường), nhưng đường biểu hiện tăng dần đều và đạt đỉnh ở thời điểm 24 giờ (khác với Basedow bắt giữ nhanh và đạt đỉnh sớm sau 2 - 6 giờ rồi tụt dốc do giải phóng nhanh)."
+        },
+        {
+          "id": "bg_08",
+          "text": "Hiệu ứng Jod-Basedow là một biến chứng nguy hiểm cần cảnh giác ở bệnh nhân bướu giáp đơn thuần lâu năm, bản chất là gì?",
+          "options": [
+            "Tình trạng suy giáp cấp do ngộ độc thuốc kháng giáp",
+            "Tình trạng bùng phát nhiễm độc giáp (cường giáp hóa) khi bổ sung lượng lớn Iod đột ngột cho bệnh nhân có bướu giáp đa nhân có nhân tự chủ",
+            "Xuất huyết cấp tính trong lòng nang giáp gây nghẹt thở",
+            "Chuyển dạng ung thư biểu mô tuyến giáp thể nhú"
+          ],
+          "correct": 1,
+          "explanation": "Bệnh nhân bướu giáp đa nhân lâu năm thường có các nhân giáp tự chủ (autonomous nodules) hoạt động độc lập không phụ thuộc TSH. Khi bất ngờ nạp lượng lớn Iod (uống thuốc cản quang, amiodarone hoặc bổ sung iod liều cao), các nhân này lập tức dùng nguyên liệu iod để sản xuất ồ ạt hormone gây bão giáp/cường giáp (hiệu ứng Jod-Basedow)."
+        },
+        {
+          "id": "bg_09",
+          "text": "Nhu cầu Iod sinh lý hàng ngày được khuyến cáo cho người trưởng thành bình thường và phụ nữ có thai theo WHO lần lượt là:",
+          "options": [
+            "50 mcg/ngày và 100 mcg/ngày",
+            "150 mcg/ngày và 250 mcg/ngày",
+            "500 mcg/ngày và 1000 mcg/ngày",
+            "10 mg/ngày và 20 mg/ngày"
+          ],
+          "correct": 1,
+          "explanation": "WHO khuyến cáo: Người trưởng thành cần tối thiểu 150 mcg Iod/ngày. Phụ nữ mang thai và cho con bú cần 250 mcg/ngày để đảm bảo cung cấp đủ hormone cho sự phát triển hệ thần kinh thai nhi."
+        },
+        {
+          "id": "bg_10",
+          "text": "Thuốc Levothyroxine (L-T4) được chỉ định trong điều trị nội khoa Bướu giáp đơn thuần dựa trên nguyên lý trị liệu nào?",
+          "options": [
+            "Diệt khuẩn mô nang giáp",
+            "Liệu pháp ức chế TSH (TSH Suppression): Đưa nồng độ TSH về mức thấp (0.1 - 0.5 mIU/L) để cắt nguồn kích thích tăng sinh mô giáp, làm bướu nhỏ lại",
+            "Thay thế hoàn toàn phẫu thuật cắt giáp trong mọi trường hợp bướu nhân",
+            "Ức chế trực tiếp quá trình hấp thu Iod ở ruột"
+          ],
+          "correct": 1,
+          "explanation": "Dùng L-T4 ngoại sinh làm tăng nhẹ hormone máu -> ức chế tuyến yên giảm tiết TSH (đưa TSH về 0.1 - 0.5 mIU/L). Khi mất yếu tố kích thích tăng trưởng TSH, tuyến giáp sẽ ngừng phì đại và có thể giảm 20 - 30% thể tích (chủ yếu hiệu quả ở bướu lan tỏa trẻ tuổi)."
+        }
+      ]
+    },
+    {
+      "id": "bank_cushing_001",
+      "title": "IM-54: Hội Chứng Cushing (Cushing's Syndrome)",
+      "description": "Bộ 10 câu hỏi trắc nghiệm chuyên sâu về Trục HPA, Nhịp ngày đêm cortisol, Cushing ngoại sinh vs Bệnh Cushing, Bộ 3 test sàng lọc ban đầu, Nghiệm pháp liều cao HDDST, Tiêu chuẩn vàng BIPSS, Nguy cơ huyết khối VTE và Tiêu chuẩn lui bệnh sau mổ TSS.",
+      "createdAt": "2026-09-05T16:29:47.507536+00:00",
+      "questions": [
+        {
+          "id": "cs_01",
+          "text": "Phân biệt bản chất giữa thuật ngữ 'Hội chứng Cushing' (Cushing's syndrome) và 'Bệnh Cushing' (Cushing's disease)?",
+          "options": [
+            "Hội chứng Cushing chỉ gặp ở trẻ em, Bệnh Cushing chỉ gặp ở người già",
+            "Hội chứng Cushing là tình trạng phơi nhiễm mạn tính với thừa Cortisol do mọi nguyên nhân; Bệnh Cushing là thể bệnh cụ thể do khối u tuyến yên tăng tiết ACTH",
+            "Hội chứng Cushing do u thượng thận, Bệnh Cushing do dùng thuốc corticoid",
+            "Hai thuật ngữ hoàn toàn đồng nghĩa và có thể dùng thay thế nhau mà không cần phân biệt"
+          ],
+          "correct": 1,
+          "explanation": "Hội chứng Cushing là thuật ngữ rộng chỉ tình trạng dư thừa cortisol máu mạn tính do bất kỳ nguyên nhân nào. Bệnh Cushing (chiếm 70% nguyên nhân nội sinh) là thể bệnh do khối u tế bào ưa kiềm thùy trước tuyến yên tăng tiết ACTH."
+        },
+        {
+          "id": "cs_02",
+          "text": "Nguyên nhân phổ biến nhất gây ra Hội chứng Cushing trong thực hành lâm sàng hiện nay tại Việt Nam là:",
+          "options": [
+            "U biểu mô vỏ thượng thận (Adenoma thượng thận)",
+            "U tuyến yên tiết ACTH",
+            "Hội chứng Cushing ngoại sinh do lạm dụng thuốc Glucocorticoid (thuốc tiêm khớp, thuốc nam trộn corticoid)",
+            "Ung thư phổi tế bào nhỏ tiết ACTH lạc chỗ"
+          ],
+          "correct": 2,
+          "explanation": "Nguyên nhân hay gặp nhất là ngoại sinh do dùng corticoid kéo dài (dexamethasone, prednisolone...) tự ý điều trị hen, khớp, dị ứng hoặc uống thuốc hoàn tán đông y không rõ nguồn gốc bị pha trộn corticoid."
+        },
+        {
+          "id": "cs_03",
+          "text": "Nhịp tiết sinh học ngày đêm (Circadian rhythm) của Cortisol ở người bình thường khỏe mạnh đặc trưng bởi:",
+          "options": [
+            "Nồng độ đạt đỉnh cao nhất lúc 6h - 8h sáng và giảm xuống đáy thấp nhất lúc nửa đêm (23h - 24h)",
+            "Nồng độ hằng định không thay đổi suốt 24 giờ",
+            "Nồng độ đạt đỉnh cao nhất lúc nửa đêm và hạ thấp nhất vào buổi sáng",
+            "Chỉ tiết ra từng đợt sau mỗi bữa ăn trưa"
+          ],
+          "correct": 0,
+          "explanation": "Trục HPA bình thường có nhịp sinh học chặt chẽ: Đỉnh Cortisol máu lúc 6h - 8h sáng (10 - 20 mcg/dL) để đánh thức cơ thể; giảm dần về chiều và xuống đáy thấp nhất lúc nửa đêm (< 1.8 - 3.6 mcg/dL). Mất nhịp ngày đêm (cortisol đêm không hạ) là dấu hiệu sớm nhất của Cushing."
+        },
+        {
+          "id": "cs_04",
+          "text": "Bộ 3 xét nghiệm sàng lọc ban đầu đầu tay (First-line screening tests) được Hiệp hội Nội tiết (Endocrine Society) khuyến cáo chẩn đoán Hội chứng Cushing là:",
+          "options": [
+            "Định lượng ACTH sáng, chụp CT bụng, chụp MRI sọ não",
+            "Cortisol tự do nước tiểu 24h (24h UFC), Cortisol nước bọt ban đêm (Late-night salivary cortisol), và Nghiệm pháp ức chế Dexamethasone liều thấp qua đêm 1mg (1mg DST)",
+            "Nghiệm pháp ức chế Dexamethasone liều cao 8mg, sinh thiết thượng thận, siêu âm tim",
+            "Đo nồng độ Renin huyết tương và Aldosterone niệu"
+          ],
+          "correct": 1,
+          "explanation": "Theo Guideline của Endocrine Society, chẩn đoán xác định tăng cortisol máu mạn tính cần ít nhất 2 xét nghiệm dương tính từ 3 test sàng lọc: (1) 24h UFC; (2) Cortisol nước bọt lúc 23h (ít nhất 2 lần); (3) Nghiệm pháp 1mg DST qua đêm (uống 1mg lúc 23h, đo cortisol lúc 8h sáng hôm sau, ngưỡng bình thường < 1.8 mcg/dL hay < 50 nmol/L)."
+        },
+        {
+          "id": "cs_05",
+          "text": "Dấu hiệu lâm sàng nào sau đây có độ đặc hiệu cao nhất (Discriminating features) giúp phân biệt Hội chứng Cushing thật sự với béo phì thông thường?",
+          "options": [
+            "Tăng cân và béo vùng bụng",
+            "Tăng huyết áp tâm thu",
+            "Da mỏng teo, dễ bầm tím tự nhiên, vết rạn da màu đỏ tím rộng > 1cm và yếu teo cơ gốc chi gần",
+            "Rối loạn dung nạp glucose nhẹ"
+          ],
+          "correct": 2,
+          "explanation": "Béo bụng, tăng cân, tăng huyết áp rất thường gặp ở béo phì đơn thuần. Dấu hiệu phân biệt có độ đặc hiệu cao của Cushing là do dị hóa protein: Da teo mỏng như giấy sáp (fragile skin), dễ xuất huyết dưới da dù không va chạm, rạn da rộng > 1cm màu tím sẫm (purple striae) và teo cơ gốc chi (khó leo cầu thang, không đứng dậy được khỏi ghế thấp nếu không dùng tay vịn)."
+        },
+        {
+          "id": "cs_06",
+          "text": "Sau khi đã khẳng định có tăng Cortisol máu nội sinh, bước tiếp theo để phân loại Hội chứng Cushing là gì?",
+          "options": [
+            "Chụp ngay MRI tuyến yên",
+            "Định lượng nồng độ ACTH huyết tương buổi sáng (8h) để phân biệt thể phụ thuộc ACTH vs. không phụ thuộc ACTH",
+            "Phẫu thuật cắt cả hai tuyến thượng thận",
+            "Chụp xạ hình xương toàn thân"
+          ],
+          "correct": 1,
+          "explanation": "Đo ACTH huyết tương lúc 8h sáng là bước phân loại cốt lõi: Nếu ACTH < 5 pg/mL -> Thể không phụ thuộc ACTH (nguyên nhân tại tuyến thượng thận); Nếu ACTH > 15 - 20 pg/mL -> Thể phụ thuộc ACTH (U tuyến yên hoặc U tiết ACTH ngoại vị)."
+        },
+        {
+          "id": "cs_07",
+          "text": "Nghiệm pháp ức chế Dexamethasone liều cao (High-dose DST: 8mg qua đêm hoặc 2mg mỗi 6h trong 48h) được sử dụng nhằm mục đích gì?",
+          "options": [
+            "Phân biệt giữa Bệnh Cushing (u tuyến yên) và Hội chứng tiết ACTH lạc chỗ (u ngoại vị như K phổi)",
+            "Chẩn đoán phân biệt với bệnh đái tháo đường",
+            "Điều trị dứt điểm khối u thượng thận",
+            "Sàng lọc ban đầu ở phòng khám đa khoa"
+          ],
+          "correct": 0,
+          "explanation": "Các tế bào u tuyến yên trong Bệnh Cushing vẫn giữ được một phần thụ thể feedback nên bị ức chế bài tiết khi dùng Dexamethasone liều rất cao (Cortisol giảm > 50% so với nền). Ngược lại, u lạc chỗ (K phổi tế bào nhỏ, u carcinoid) hoạt động hoàn toàn tự chủ nên không bị ức chế (Cortisol không giảm)."
+        },
+        {
+          "id": "cs_08",
+          "text": "Tiêu chuẩn vàng (Gold standard) để chẩn đoán phân biệt vị trí u tiết ACTH giữa tuyến yên và u lạc chỗ khi hình ảnh MRI tuyến yên không rõ ràng (< 6mm) là:",
+          "options": [
+            "Chụp PET-CT toàn thân",
+            "Lấy máu tĩnh mạch xoang đá dưới hai bên đồng thời (BIPSS - Bilateral Inferior Petrosal Sinus Sampling) có kích thích bằng CRH/Desmopressin",
+            "Nghiệm pháp nhịn đói 72 giờ",
+            "Chọc hút tế bào kim nhỏ tuyến yên qua mũi"
+          ],
+          "correct": 1,
+          "explanation": "BIPSS là tiêu chuẩn vàng định vị: Luồn ống thông lấy máu đồng thời ở 2 bên xoang đá dưới (nơi dẫn lưu máu từ tuyến yên) và máu tĩnh mạch ngoại vi. Nếu tỷ số ACTH xoang đá / ngoại vi > 2 (trước kích thích) hoặc > 3 (sau tiêm CRH) -> Khẳng định u tiết ACTH nằm tại tuyến yên."
+        },
+        {
+          "id": "cs_09",
+          "text": "Tại sao bệnh nhân mắc Hội chứng Cushing nặng có nguy cơ cao bị biến chứng thuyên tắc huyết khối tĩnh mạch (VTE) sâu và thuyên tắc phổi?",
+          "options": [
+            "Do tăng nồng độ các yếu tố đông máu (Yếu tố VIII, Von Willebrand, Fibrinogen) và giảm hoạt tính tiêu sợi huyết",
+            "Do giảm số lượng tiểu cầu nghiêm trọng",
+            "Do nồng độ kali máu tăng quá cao gây đông vón hồng cầu",
+            "Do mất protein C và S hoàn toàn qua đường tiêu hóa"
+          ],
+          "correct": 0,
+          "explanation": "Thừa Cortisol mạn tính tạo ra tình trạng tăng đông máu dữ dội: Gan tăng tổng hợp Fibrinogen, Yếu tố VIII, vWF, đồng thời ức chế tiêu sợi huyết (tăng PAI-1). Nguy cơ huyết khối tĩnh mạch tăng gấp 10 - 18 lần so với người bình thường, đòi hỏi phải dùng kháng đông dự phòng (LMWH) chu phẫu."
+        },
+        {
+          "id": "cs_10",
+          "text": "Sau phẫu thuật cắt u tuyến yên qua xoang bướm (TSS) điều trị thành công Bệnh Cushing, nồng độ Cortisol huyết tương sáng sớm đo trong tuần đầu sau mổ đạt giá trị nào là dấu hiệu chỉ điểm lui bệnh (Remission)?",
+          "options": [
+            "Cortisol huyết tương sáng sớm tụt sâu < 2 mcg/dL (hoặc < 5 mcg/dL)",
+            "Cortisol huyết tương tăng vọt > 30 mcg/dL",
+            "Cortisol huyết tương ổn định ở mức 15 - 20 mcg/dL",
+            "Chỉ cần đo ACTH > 100 pg/mL"
+          ],
+          "correct": 0,
+          "explanation": "Khi khối u tiết ACTH bị cắt sạch, các tế bào tuyến yên lành xung quanh vốn bị ức chế lâu ngày sẽ bị 'tê liệt' tạm thời -> Cortisol tụt giảm sâu (< 2 mcg/dL hay < 50 nmol/L). Đây là tiêu chuẩn vàng chứng minh sạch u và bệnh nhân cần được bù Hydrocortisone tạm thời."
+        }
+      ]
+    },
+    {
+      "id": "bank_suy_thuong_than_001",
+      "title": "IM-54b: Suy Tuyến Thượng Thận (Adrenal Insufficiency)",
+      "description": "Bộ 10 câu hỏi trắc nghiệm chuyên sâu về Bệnh Addison vs Suy thứ phát, Cơ chế sạm da POMC-ACTH-MSH, Rối loạn điện giải Na/K, Nghiệm pháp Synacthen 250mcg, Phác đồ Hydrocortisone + Fludrocortisone, Cấp cứu Cơn suy thượng thận cấp và Quy tắc Sick-day rules.",
+      "createdAt": "2026-09-05T16:29:47.507541+00:00",
+      "questions": [
+        {
+          "id": "stt_01",
+          "text": "Điểm khác biệt then chốt giữa Suy thượng thận nguyên phát (Bệnh Addison) và Suy thượng thận thứ phát (do tuyến yên hoặc do thuốc corticoid) là:",
+          "options": [
+            "Bệnh Addison có sạm da niêm mạc và thiếu cả Mineralocorticoid (Aldosterone); Suy thượng thận thứ phát không có sạm da và hệ Aldosterone thường được bảo tồn",
+            "Suy thượng thận thứ phát luôn có nồng độ ACTH máu tăng rất cao",
+            "Bệnh Addison không bao giờ bị tụt huyết áp",
+            "Suy thượng thận thứ phát bắt buộc phải điều trị bằng Fludrocortisone liều cao suốt đời"
+          ],
+          "correct": 0,
+          "explanation": "Trong suy thượng thận thứ phát, trục RAAS điều hòa bài tiết Aldosterone tại lớp cầu độc lập với ACTH nên không thiếu aldosterone (không mất muối giữ kali nhiều). Do nồng độ ACTH thấp nên không có sạm da. Ngược lại bệnh Addison phá hủy toàn bộ vỏ thượng thận nên thiếu cả cortisol và aldosterone, ACTH tăng rất cao gây sạm da đặc trưng."
+        },
+        {
+          "id": "stt_02",
+          "text": "Cơ chế chính dẫn đến tình trạng sạm da (Hyperpigmentation) ở bệnh nhân mắc bệnh Addison là:",
+          "options": [
+            "Tích tụ sắc tố hemosiderin do tan máu mạn tính",
+            "Thiếu Cortisol làm tuyến yên tăng tiết tiền chất POMC, phân cắt tạo ra lượng lớn ACTH và MSH kích thích tế bào hắc tố sản sinh melanin",
+            "Đọng chất sắc tố carotenoid dưới lớp mỡ đáy biểu bì",
+            "Rối loạn chức năng bài tiết sắc tố mật tại gan"
+          ],
+          "correct": 1,
+          "explanation": "Cortisol giảm thấp làm mất cơ chế kìm hãm tuyến yên -> tuyến yên tăng phiên mã tiền chất Pro-opiomelanocortin (POMC). POMC bị phân cắt tạo ra cả ACTH và MSH (Melanocyte-Stimulating Hormone). Cả hai chất này đều gắn vào thụ thể MC1R trên bề mặt tế bào hắc tố ở da kích thích tổng hợp sắc tố Melanin."
+        },
+        {
+          "id": "stt_03",
+          "text": "Rối loạn điện giải đồ điển hình nào sau đây thường gặp nhất ở bệnh nhân suy vỏ thượng thận nguyên phát (Bệnh Addison) chưa điều trị?",
+          "options": [
+            "Tăng Natri máu, Hạ Kali máu, Kiềm chuyển hóa",
+            "Hạ Natri máu, Tăng Kali máu, Toan chuyển hóa tăng clo máu nhẹ",
+            "Hạ Natri máu, Hạ Kali máu, Hạ Canxi máu",
+            "Tăng Natri máu, Tăng Kali máu, Tăng Canxi máu"
+          ],
+          "correct": 1,
+          "explanation": "Thiếu Aldosterone làm giảm tái hấp thu Na+ và giảm bài xuất K+, H+ ở ống lượn xa và ống góp thận -> Mất Na+ theo nước tiểu gây Hạ Natri máu; ứ trệ K+ gây Tăng Kali máu; giữ lại H+ gây Toan chuyển hóa nhẹ."
+        },
+        {
+          "id": "stt_04",
+          "text": "Nghiệm pháp kích thích Synacthen liều chuẩn (Short Synacthen Test: tiêm bắp hoặc tĩnh mạch 250 mcg ACTH tổng hợp) khẳng định chẩn đoán suy thượng thận khi:",
+          "options": [
+            "Cortisol đỉnh sau 30 hoặc 60 phút không đạt ngưỡng 18 mcg/dL (khoảng 500 nmol/L)",
+            "Cortisol đỉnh sau tiêm vượt quá 35 mcg/dL",
+            "Nồng độ ACTH sau tiêm giảm về 0",
+            "Nồng độ Kali máu tụt giảm đột ngột dưới 2.0 mEq/L"
+          ],
+          "correct": 0,
+          "explanation": "Ở người bình thường, tiêm 250 mcg ACTH sẽ kích hoạt vỏ thượng thận sản xuất cortisol tối đa đạt đỉnh >= 18 mcg/dL (hoặc >= 500 nmol/L). Nếu cortisol đỉnh < 18 mcg/dL chứng tỏ tuyến thượng thận đã bị suy giảm khả năng đáp ứng dự trữ."
+        },
+        {
+          "id": "stt_05",
+          "text": "Phác đồ điều trị thay thế hormone mạn tính tiêu chuẩn ở bệnh nhân mắc bệnh Addison (suy thượng thận nguyên phát) bao gồm:",
+          "options": [
+            "Chỉ dùng Hydrocortisone đơn độc liều cao duy nhất vào buổi tối",
+            "Phối hợp Glucocorticoid (Hydrocortisone 15 - 25 mg/ngày chia 2 - 3 lần) và Mineralocorticoid (Fludrocortisone / Florinef 0.05 - 0.2 mg/ngày uống 1 lần buổi sáng)",
+            "Chỉ dùng Fludrocortisone đơn độc",
+            "Dexamethasone 4mg tiêm tĩnh mạch hàng ngày"
+          ],
+          "correct": 1,
+          "explanation": "Vì bệnh Addison thiếu đồng thời cả 2 loại hormone sống còn nên bắt buộc phải phối hợp: (1) Hydrocortisone mô phỏng nhịp sinh học (2/3 liều buổi sáng, 1/3 liều buổi chiều); (2) Fludrocortisone (Florinef) bù mineralocorticoid giữ muối nước và ổn định huyết áp."
+        },
+        {
+          "id": "stt_06",
+          "text": "Trong cấp cứu Cơn suy thượng thận cấp (Acute Adrenal Crisis) có tụt huyết áp và trụy mạch, loại thuốc corticoid nào là lựa chọn ĐẦU TAY bắt buộc dùng ngay lập tức?",
+          "options": [
+            "Prednisolone uống 5 mg",
+            "Hydrocortisone tiêm tĩnh mạch bolus ngay 100 mg, sau đó truyền liên tục hoặc tiêm 200 mg/24h",
+            "Fludrocortisone uống 0.5 mg",
+            "Methylprednisolone xịt họng"
+          ],
+          "correct": 1,
+          "explanation": "Hydrocortisone tiêm tĩnh mạch là thuốc cấp cứu đầu tay tuyệt đối. Liều 100mg IV tác dụng tức thì, và ở liều cao này thuốc có tác dụng giữ muối nước tương đương mineralocorticoid nên không cần bổ sung fludrocortisone trong giai đoạn cấp cứu khẩn cấp."
+        },
+        {
+          "id": "stt_07",
+          "text": "Quy tắc 'Sick-day rules' (Quy tắc khi ốm) hướng dẫn cho bệnh nhân suy thượng thận đang điều trị duy trì ngoại trú khi bị sốt cao (> 38 độ C) hoặc nhiễm trùng hô hấp là gì?",
+          "options": [
+            "Ngừng toàn bộ thuốc để tránh ức chế miễn dịch",
+            "Tự động tăng gấp đôi (Double) hoặc gấp ba (Triple) liều Hydrocortisone đường uống hàng ngày cho đến khi hết sốt",
+            "Chỉ uống thêm nước khoáng có ga",
+            "Giảm nửa liều Hydrocortisone và tăng liều Fludrocortisone"
+          ],
+          "correct": 1,
+          "explanation": "Người bình thường khi stress/nhiễm trùng sẽ tự động tăng tiết cortisol gấp nhiều lần để sinh tồn. Bệnh nhân suy thượng thận mất khả năng này, nếu giữ nguyên liều sẽ lập tức rơi vào cơn suy thượng thận cấp tử vong. Bắt buộc phải tăng gấp đôi hoặc gấp ba liều glucocorticoid uống khi sốt/ốm."
+        },
+        {
+          "id": "stt_08",
+          "text": "Hiện tượng tụt huyết áp tư thế ở bệnh nhân Addison xuất hiện do cơ chế kết hợp nào sau đây?",
+          "options": [
+            "Tăng đào thải muối nước do thiếu Aldosterone kèm mất tính nhạy cảm đồng vận (permissive effect) của thụ thể alpha-1 adrenergic mạch máu với catecholamine do thiếu Cortisol",
+            "Giãn mạch ngoại vi do tăng tiết nitric oxide thứ phát sau tăng kali máu",
+            "Cường phó giao cảm làm chậm nhịp tim",
+            "Thiếu máu cơ tim cấp tính do hẹp 3 thân động mạch vành"
+          ],
+          "correct": 0,
+          "explanation": "Hạ huyết áp tư thế do 2 cơ chế hiệp đồng: (1) Thiếu aldosterone gây giảm thể tích tuần hoàn hiệu dụng do mất muối nước mạn tính; (2) Thiếu cortisol làm trơ thụ thể alpha-1 giao cảm ở cơ trơn mạch máu, khiến mạch máu không co lại kịp thời khi thay đổi tư thế từ nằm sang đứng."
+        },
+        {
+          "id": "stt_09",
+          "text": "Hình ảnh vôi hóa hai bên tuyến thượng thận trên phim X-quang hoặc CT ổ bụng gợi ý căn nguyên gây bệnh Addison nào phổ biến nhất tại các nước đang phát triển?",
+          "options": [
+            "Viêm thượng thận tự miễn",
+            "Lao tuyến thượng thận (Lao ngoài phổi)",
+            "Nhồi máu tuyến thượng thận do hội chứng kháng phospholipid",
+            "U tủy thượng thận lành tính"
+          ],
+          "correct": 1,
+          "explanation": "Lao là căn nguyên nhiễm trùng hàng đầu phá hủy tuyến thượng thận ở các nước đang phát triển. Quá trình hoại tử bã đậu và viêm mạn tính dẫn đến lắng đọng canxi tạo nên hình ảnh vôi hóa đặc trưng ở cả 2 tuyến thượng thận trên phim chụp."
+        },
+        {
+          "id": "stt_10",
+          "text": "Hội chứng Waterhouse-Friderichsen là một thể cơn suy thượng thận cấp tối khẩn cấp xảy ra do cơ chế bệnh lý nào?",
+          "options": [
+            "Xuất huyết hoại tử lan tỏa hai bên tuyến thượng thận do nhiễm trùng huyết tối cấp vi khuẩn Não mô cầu (Neisseria meningitidis)",
+            "Tắc mạch mạc treo ruột cấp tính",
+            "Dị ứng thuốc kháng sinh nhóm Penicillin",
+            "Thuyên tắc mạch ối chu sinh"
+          ],
+          "correct": 0,
+          "explanation": "Hội chứng Waterhouse-Friderichsen là tình trạng suy thượng thận cấp do xuất huyết hoại tử ồ ạt cả 2 tuyến thượng thận trong bệnh cảnh nhiễm trùng huyết bão hòa do Não mô cầu (Neisseria meningitidis), đặc trưng bởi ban xuất huyết hoại tử hình sao trên da, sốc nhiễm trùng trụy mạch và tử vong rất nhanh."
+        }
+      ]
+    }
+  ]
+}

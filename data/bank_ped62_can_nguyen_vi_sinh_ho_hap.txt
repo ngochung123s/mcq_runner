@@ -1,0 +1,538 @@
+Câu 1: Bé trai 3 tháng tuổi, sinh đủ tháng, nhập viện vì khò khè và thở nhanh. Hai ngày trước chảy mũi, ho nhẹ; sau đó thở nhanh dần, bú giảm. Nhiệt độ 37,6°C, nhịp thở 62 lần/phút, rút lõm lồng ngực, SpO2 91% khí phòng. Phổi có ran rít, ran ngáy thì thở ra và ran ẩm nhỏ hạt hai đáy. Bạch cầu 9.800/mm³, CRP 5 mg/L. X-quang ngực: hai phế trường tăng sáng, vòm hoành hạ thấp.
+Căn nguyên nào có khả năng nhất?
+A. Mycoplasma pneumoniae
+B. Adenovirus
+C. Streptococcus pneumoniae
+D. RSV
+Đáp án: D
+Giải thích: Tuổi RSV. Tuổi là manh mối đầu tiên để chọn căn nguyên.
+
+Câu 2: Hai trẻ, một nhũ nhi 2 tháng và một trẻ 5 tuổi, cùng nhiễm virus gây phù nề niêm mạc tiểu phế quản với độ dày như nhau. Nhũ nhi bị tắc nghẽn đường thở nặng hơn nhiều.
+Đặc điểm nào của nhũ nhi giải thích trực tiếp nhất mức tắc nghẽn nặng hơn này?
+A. Tiếp xúc môi trường nhà trẻ làm đồng nhiễm virus và vi khuẩn thường xuyên
+B. Miễn dịch tế bào hoạt hóa mạnh nên viêm quá mẫn gây tổn thương mô kẽ
+C. Kháng thể thụ động từ mẹ đã suy giảm nên virus nhân lên không bị kiểm soát
+D. Lòng ống dẫn khí nhỏ rất hẹp nên kháng lực tỉ lệ nghịch với lũy thừa bốn của bán kính
+Đáp án: D
+Giải thích: Theo định luật Poiseuille, kháng lực đường thở tỉ lệ nghịch với lũy thừa bốn của bán kính (bán kính giảm một nửa thì kháng lực tăng 16 lần), nên với lòng ống chỉ khoảng 1 mm, một lớp phù nề mỏng cũng gây tắc nghẽn nặng. Đó là lý do nhũ nhi nhỏ bị viêm tiểu phế quản nặng hơn trẻ lớn.
+
+Câu 3: Bé gái 5 tháng tuổi khò khè tăng dần sau 3 ngày chảy mũi. Nhịp thở 56 lần/phút, rút lõm hõm ức, ran rít thì thở ra, không có hội chứng đông đặc. X-quang ngực: hai phổi tăng sáng, không có đám mờ đồng nhất.
+Vị trí tổn thương chủ yếu của tác nhân gây bệnh là ở đâu?
+A. Biểu mô lông chuyển tiểu phế quản
+B. Khoang màng phổi và màng phổi tạng
+C. Mô kẽ quanh phế quản và mạch máu
+D. Phế nang và mao mạch quanh phế nang
+Đáp án: A
+Giải thích: Khò khè thì thở ra, rút lõm, X-quang tăng sáng không có đám mờ đồng nhất cho thấy tắc nghẽn đường thở nhỏ, tức tổn thương biểu mô lông chuyển tiểu phế quản. Ba nhóm căn nguyên nhắm vào ba vị trí giải phẫu khác nhau nên vị trí tổn thương gợi ý nhóm tác nhân.
+
+Câu 4: Bé gái 18 tháng tuổi đi nhà trẻ, ho và chảy mũi 3 ngày, sốt 38,5°C, khò khè nhẹ; nhiều bạn cùng lớp đang ho. Nhịp thở 44 lần/phút, không rút lõm, SpO2 96%, ăn uống được. Phổi ran rít rải rác. Bạch cầu 8.900/mm³, CRP 7 mg/L. X-quang ngực chỉ tăng sáng nhẹ, không có đám mờ.
+Hướng xử trí nào phù hợp nhất?
+A. Amoxicillin liều cao đường uống 5 ngày
+B. Azithromycin đường uống 5 ngày
+C. Hạ sốt, nhỏ mũi, theo dõi sát tại nhà
+D. Nhập viện, thở oxy và theo dõi sát
+Đáp án: C
+Giải thích: Trên 70–80% viêm phế quản/tiểu phế quản ở trẻ kháng sinh hay nhập viện; xử trí là hạ sốt, làm thông mũi và theo dõi sát. Nhìn triệu chứng bề mặt (ho, sốt, thở nhanh) rồi kê kháng sinh là sai lầm phổ biến.
+
+Câu 5: Nuôi cấy bệnh phẩm tỵ hầu của một nhũ nhi viêm tiểu phế quản trên dòng tế bào biểu mô cho thấy các tế bào kế cận dính liền nhau thành những khối khổng lồ nhiều nhân.
+Thành phần nào của tác nhân gây bệnh trực tiếp gây ra hiện tượng này?
+A. Pneumolysin, độc tố tạo lỗ thủng trên màng tế bào
+B. Sợi fiber, protein bám vào thụ thể CAR trên tế bào
+C. Glycoprotein F, protein dung hợp màng virus với màng tế bào
+D. Adhesin P1, protein bám vào gốc acid sialic trên tế bào
+Đáp án: C
+Giải thích: Hợp bào đa nhân là dấu ấn của protein F (fusion) của RSV: dung hợp màng và làm tế bào lân cận hòa nhập. Protein bám (G của RSV, fiber của Adenovirus, P1 của Mycoplasma) chỉ lo việc bám dính, còn pneumolysin phá hủy màng chứ không làm dính tế bào.
+
+Câu 6: Bé trai 4 tháng tuổi, ngày thứ 3 của bệnh, test nhanh kháng nguyên RSV dương tính. Khò khè thì thở ra, thở co kéo, SpO2 90% khí phòng. Gõ vang, gan sờ thấp hơn bình thường. X-quang: hai phế trường tăng sáng, vòm hoành phẳng và hạ thấp, khoảng liên sườn giãn rộng.
+Cơ chế nào giải thích tốt nhất tình trạng ứ khí trên X-quang?
+A. Sẹo xơ bít lòng tiểu phế quản sau tổn thương hoại tử do Adenovirus
+B. Thâm nhiễm tế bào viêm mô kẽ quanh phế quản và mạch máu, phế nang còn khí
+C. Nút nhầy và phù nề làm hẹp tiểu phế quản, hoạt động như van một chiều
+D. Dịch viêm giàu fibrin và bạch cầu lấp đầy phế nang của cả một thùy
+Đáp án: C
+Giải thích: Tiểu phế quản bị nút nhầy (mảnh biểu mô hoại tử, fibrin) và phù nề làm hẹp lòng, tạo cơ chế van một chiều: khí vào được nhưng không ra hết, gây bẫy khí và ứ khí. Đó là lý do X-quang tăng sáng, hạ vòm hoành.
+
+Câu 7: Bé gái 3 tháng tuổi viêm tiểu phế quản do RSV, ngày thứ 4, thở oxy canula 1 L/phút. Không sốt, nhịp thở 54 lần/phút, bú được. X-quang ngực: đám mờ hình tam giác ở vùng thùy trên phổi phải, rãnh liên thùy bị kéo lên trên, vòm hoành phải hơi nâng. Bạch cầu 10.500/mm³, CRP 8 mg/L.
+Bản chất nhiều khả năng nhất của đám mờ này là gì?
+A. Xẹp phổi thùy trên do hạch lao chèn ép phế quản
+B. Xẹp phổi do nút nhầy bít tiểu phế quản thùy trên
+C. Đông đặc thùy trên do phế cầu lấp đầy phế nang
+D. Viêm phổi hoại tử thùy trên do tụ cầu vàng kèm hang
+Đáp án: B
+Giải thích: Đám mờ hình tam giác kèm giảm thể tích (rãnh liên thùy bị kéo, vòm hoành nâng) ở trẻ không sốt, CRP thấp là xẹp phổi do nút nhầy, thường gặp ở thùy trên phải. Dùng kháng sinh vì nhầm với đông đặc vi khuẩn là bẫy kinh điển.
+
+Câu 8: Bé trai 4 tháng tuổi, ngày thứ 3 viêm tiểu phế quản do RSV, khò khè, nhịp thở 60 lần/phút, rút lõm nhẹ, không sốt, bú giảm còn một nửa lượng. SpO2 87% khí phòng và tăng lên 94% khi cho 1 L/phút oxy. Trẻ tỉnh, chưa có cơn ngừng thở.
+Xử trí nào phù hợp nhất lúc này?
+A. Chăm sóc tại nhà, hút mũi nước muối, chia nhỏ cữ bú
+B. Nhập viện, khí dung NaCl 3%, hút mũi nước muối
+C. Nhập viện, thở HFNC, hút mũi nước muối
+D. Nhập viện, thở oxy canula, hút mũi nước muối
+Đáp án: D
+Giải thích: Viêm tiểu phế quản RSV là chẩn đoán lâm sàng và điều trị hỗ trợ: oxy khi SpO2 thấp, làm thông thoáng mũi, duy trì dinh dưỡng. Không kháng sinh, không corticoid, không salbutamol thường quy (AAP 2014).
+
+Câu 9: Bé trai 5 tháng tuổi viêm tiểu phế quản do RSV, khò khè và rút lõm; SpO2 89% khí phòng, nhịp thở 58 lần/phút, còn tỉnh và bú được. Sau ba lần khí dung salbutamol trong 6 giờ, nhịp thở, SpO2 và tình trạng khò khè không cải thiện; nhịp tim tăng từ 140 lên 175 lần/phút và trẻ run tay chân.
+Xử trí tiếp theo phù hợp nhất là gì?
+A. Ngừng salbutamol, thở oxy canula và hút mũi
+B. Ngừng salbutamol, cho về nhà theo dõi
+C. Giảm salbutamol còn mỗi 6 giờ, thở oxy canula
+D. Ngừng salbutamol, chuyển ngay sang oxy HFNC
+Đáp án: A
+Giải thích: Trong hen, tắc nghẽn do co thắt cơ trơn nên salbutamol hiệu quả; trong viêm tiểu phế quản RSV, tắc nghẽn do nút nhầy và phù nề nên thuốc không có đáp ứng: ngừng thuốc, tiếp tục oxy canula (SpO2 dưới 90%), thông mũi và dinh dưỡng, chưa cần HFNC.
+
+Câu 10: Một nhũ nhi sinh non 28 tuần, hiện 5 tháng tuổi, có bệnh phổi mạn do sinh non (loạn sản phế quản phổi) và cần thở oxy tại nhà. Gia đình hỏi cách phòng bệnh trước mùa lưu hành RSV sắp tới.
+Biện pháp dự phòng đặc hiệu nào được chỉ định?
+A. Vắc xin Adenovirus type 4 và 7 sống đường uống
+B. Palivizumab tiêm bắp mỗi tháng trong suốt mùa RSV
+C. Vắc xin phế cầu cộng hợp theo lịch tiêm chủng quốc gia
+D. Azithromycin uống 5 ngày cho người tiếp xúc gần
+Đáp án: B
+Giải thích: Nhóm nguy cơ cao (sinh non, bệnh phổi mạn, tim bẩm sinh) được dự phòng bằng kháng thể đơn dòng kháng protein F, palivizumab tiêm bắp hàng tháng trong mùa RSV. Không có thuốc hay vắc xin nào khác trong các lựa chọn có vai trò này. Nirsevimab (kháng thể đơn dòng tác dụng kéo dài, một liều/mùa) là lựa chọn mới hơn cùng nhóm nhưng không có trong các đáp án.
+
+Câu 11: Bé gái sinh non 33 tuần, 3 tuần tuổi, chảy mũi 2 ngày, bú kém. Nhịp thở 48 lần/phút, không rút lõm, SpO2 96% khí phòng, phổi vài ran ẩm; test nhanh kháng nguyên RSV dương tính. Hiện chưa có dấu hiệu suy hô hấp.
+Nguy cơ biến chứng cấp nào cần theo dõi sát nhất ở trẻ này?
+A. Cơn ngừng thở trung ương xuất hiện đột ngột
+B. Thiếu máu tán huyết do ngưng kết tố lạnh
+C. Viêm tiểu phế quản tắc nghẽn mạn tính
+D. Tràn mủ màng phổi cận viêm phổi
+Đáp án: A
+Giải thích: Trẻ sơ sinh, nhất là sinh non cơn ngừng thở đột ngột trước cả khi có thở nhanh hay co kéo. Vì vậy cần nhập viện theo dõi dù chưa suy hô hấp.
+
+Câu 12: Bé trai 7 tháng tuổi, 3 ngày chảy mũi và ho, hôm nay khò khè, nhịp thở 50 lần/phút, rút lõm nhẹ, bú được. Ran rít và ran ẩm nhỏ hạt hai phế trường, không sốt. Bác sĩ chẩn đoán viêm tiểu phế quản cấp và cần quyết định nhập viện hay theo dõi ngoại trú.
+Thăm dò nào quan trọng nhất để quyết định xử trí?
+A. X-quang ngực thẳng tìm đông đặc phế nang
+B. RT-PCR đa mồi dịch tỵ hầu định danh virus
+C. Đo SpO2 qua da để đánh giá mức thiếu oxy
+D. Siêu âm màng phổi tìm dịch cận viêm phổi
+Đáp án: C
+Giải thích: Viêm tiểu phế quản cấp được chẩn đoán bằng lâm sàng; thứ cần đo để quyết định xử trí là SpO2 (mức thiếu oxy) cùng công thở. X-quang, siêu âm, PCR không làm thay đổi xử trí ở trẻ nhẹ (AAP 2014).
+
+Câu 13: Bé gái 3 tuổi từng nhập viện vì viêm tiểu phế quản do RSV năm 4 tháng tuổi. Từ đó đã 3 lần khò khè sau các đợt cảm, mỗi cơn kéo dài vài ngày và tự giảm. Giữa các cơn trẻ khỏe, vận động bình thường, SpO2 98%, X-quang giữa cơn không bất thường.
+Tình trạng nào giải thích tốt nhất bệnh cảnh này?
+A. Viêm tiểu phế quản tắc nghẽn sau nhiễm trùng
+B. Tăng phản ứng đường thở sau nhiễm virus
+C. Giãn phế quản do viêm phổi kéo dài
+D. Hội chứng Swyer-James với tăng sáng một bên phổi
+Đáp án: B
+Giải thích: Viêm tiểu phế quản RSV có thể để lại tăng phản ứng đường thở với khò khè tái phát đến 3–5 tuổi, khỏe mạnh giữa các cơn. Di chứng cố định (tắc nghẽn, Swyer-James) là của tổn thương hoại tử kiểu Adenovirus.
+
+Câu 14: Bé gái 3 tháng tuổi viêm tiểu phế quản do RSV, ngày thứ 4, đang thở oxy canula 2 L/phút. Nhịp thở 76 lần/phút, rút lõm ức và gian sườn nặng, rên rỉ nhẹ, SpO2 88%, bú không được nhưng còn tỉnh. Khí máu chưa tăng CO2 rõ.
+Xử trí tiếp theo phù hợp nhất là gì?
+A. Chuyển PICU, đặt nội khí quản, thở máy
+B. Khí dung NaCl 3%, hút mũi nước muối
+C. Chuyển sang oxy dòng cao qua mũi (HFNC)
+D. Tăng oxy canula lên 3 L/phút, theo dõi
+Đáp án: C
+Giải thích: Khi SpO2 vẫn dưới 90% dù oxy canula và công thở tăng, nhưng trẻ còn tỉnh và chưa tăng CO2, cần nâng bậc hỗ trợ hô hấp không xâm lấn (HFNC hoặc nCPAP) trước khi nghĩ đến thở máy; tăng canula đơn thuần hay khí dung muối không đủ.
+
+Câu 15: Bé gái 8 tháng tuổi, 3 ngày ho, chảy mũi, sốt 38,8°C, khò khè từ hôm qua. Nhịp thở 52 lần/phút, không rút lõm, SpO2 95% khí phòng, bú được. Ran rít và ran ẩm nhỏ hạt hai phế trường. Bạch cầu 8.200/mm³, CRP 9 mg/L. X-quang: ứ khí hai phổi, dày thành phế quản. Test nhanh RSV âm tính; RT-PCR đa mồi dịch tỵ hầu dương tính với hMPV.
+Điều trị nào phù hợp nhất?
+A. Chăm sóc tại nhà kèm khí dung salbutamol ba lần mỗi ngày
+B. Chăm sóc tại nhà kèm hút mũi, bù dịch, tái khám nếu nặng hơn
+C. Nhập viện, thở oxy canula, theo dõi SpO2 liên tục
+D. Chăm sóc tại nhà kèm azithromycin uống 5 ngày
+Đáp án: B
+Giải thích: hMPV gây bệnh cảnh gần như giống RSV (tiểu phế quản, ứ khí, CRP thấp) và điều trị cũng là hỗ trợ: với SpO2 95%, bú được, không rút lõm thì chăm sóc tại nhà và dặn dấu hiệu nặng; không kháng virus, kháng sinh hay thuốc giãn phế quản.
+
+Câu 16: Nhũ nhi 8 tháng tuổi, 2 ngày ho, chảy mũi, khò khè, nhịp thở 50 lần/phút, rút lõm nhẹ, SpO2 94%. X-quang: ứ khí, dày thành phế quản. Test nhanh RSV âm tính, RT-PCR đa mồi dương tính với hMPV; bệnh cảnh giống hệt viêm tiểu phế quản do RSV.
+Đặc điểm sinh học nào của tác nhân này giải thích tốt nhất sự giống nhau đó?
+A. Không có vách peptidoglycan, bám lông chuyển bằng adhesin P1
+B. Virus ARN thuộc họ Pneumoviridae, có protein F dung hợp màng
+C. Virus DNA không vỏ bọc, bền với cồn, bám thụ thể CAR
+D. Vỏ nang polysaccharide chống thực bào, tiết độc tố pneumolysin
+Đáp án: B
+Giải thích: hMPV cùng họ Pneumoviridae với RSV, có glycoprotein F, G và SH nên cơ chế bệnh học tương đồng: phù nề, hoại tử lông chuyển, bít tắc tiểu phế quản và ứ khí. Các đặc điểm còn lại thuộc Mycoplasma, phế cầu và Adenovirus.
+
+Câu 17: Bé trai 5 tháng tuổi viêm tiểu phế quản, test nhanh kháng nguyên RSV dương tính. Sau 48 giờ thở oxy, nhịp thở tăng lên 75 lần/phút, rút lõm nặng, SpO2 chỉ 88% dù tăng oxy. Bạch cầu 9.000/mm³, CRP 10 mg/L; X-quang không có đông đặc. Diễn tiến xấu hơn nhiều so với một ca RSV thông thường.
+Xét nghiệm nào giúp nhất để tìm tác nhân phối hợp?
+A. RT-PCR đa mồi (multiplex) trên dịch tỵ hầu
+B. Siêu âm màng phổi tìm dịch khu trú
+C. HRCT ngực tìm bẫy khí và dày phế quản
+D. Cấy máu trước khi dùng kháng sinh
+Đáp án: A
+Giải thích: Khi viêm tiểu phế quản RSV diễn tiến xấu bất thường, cần nghĩ đến đồng nhiễm (hMPV, Adenovirus) hoặc vi khuẩn và làm RT-PCR đa mồi. Test nhanh RSV chỉ phát hiện RSV, không cho biết tác nhân phối hợp.
+
+Câu 18: Bé trai 15 tháng tuổi đi nhà trẻ, tháng 3, ho và chảy mũi 3 ngày, sốt 38,8°C, khò khè từ hôm qua. Mắt không đỏ, họng không loét, không có hạch cổ. Nhịp thở 46 lần/phút, rút lõm nhẹ, SpO2 94%, ran rít và ran ẩm rải rác hai phế trường. Bạch cầu 8.500/mm³, CRP 12 mg/L. X-quang: ứ khí nhẹ, dày thành phế quản, không có đông đặc. Test nhanh RSV âm tính; RT-PCR đa mồi dịch tỵ hầu chỉ dương tính với một virus RNA có vỏ bọc.
+Căn nguyên nào có khả năng nhất?
+A. Mycoplasma pneumoniae
+B. Adenovirus
+C. hMPV
+D. Streptococcus pneumoniae
+Đáp án: C
+Giải thích: Trẻ 6 tháng–2 tuổi với bệnh cảnh tiểu phế quản như RSV nhưng sốt cao hơn, test RSV âm, PCR đa mồi chỉ dương tính với một virus RNA có vỏ bọc (loại Adenovirus là virus DNA trần) và không có dấu hiệu phế cầu hay Mycoplasma thì nghĩ nhiều đến hMPV.
+
+Câu 19: Bé trai 5 tuổi, tiền sử hen dị ứng, 2 ngày sốt 38,8°C, ho rồi khó thở tăng dần. Nhịp thở 38 lần/phút, nói từng cụm từ, rút lõm gian sườn, SpO2 91%, phổi nhiều ran rít lan tỏa hai phế trường. RT-PCR đa mồi dịch tỵ hầu dương tính với hMPV, các tác nhân khác âm tính. X-quang: ứ khí, không đông đặc.
+Xử trí nào phù hợp nhất?
+A. Khí dung salbutamol kèm prednisolone uống theo phác đồ hen
+B. Amoxicillin-clavulanate uống kèm khí dung muối sinh lý
+C. Oseltamivir uống hai lần mỗi ngày kèm khí dung muối ưu trương
+D. Chăm sóc hỗ trợ đơn thuần, không dùng thuốc giãn phế quản
+Đáp án: A
+Giải thích: hMPV có thể khởi phát cơn hen cấp ở trẻ có cơ địa; khi đó điều trị theo phác đồ hen (salbutamol, corticoid, oxy), khác với viêm tiểu phế quản nhũ nhi. Quyết định điều trị dựa vào bản chất tắc nghẽn, không dựa vào tên virus.
+
+Câu 20: Bé gái 9 tháng tuổi, 3 ngày sốt 38,7°C, ho, khò khè, nhịp thở 54 lần/phút, rút lõm nhẹ, SpO2 93% khí phòng. RT-PCR đa mồi dịch tỵ hầu dương tính với hMPV. Không có ban da, loét niêm mạc hay viêm kết mạc.
+Hình ảnh X-quang ngực nhiều khả năng nhất là gì?
+A. Thâm nhiễm lan tỏa hai bên, ổ hoại tử, bội nhiễm tụ cầu
+B. Đông đặc đồng nhất một thùy, phế quản khí, tràn dịch ít
+C. Mạng lưới nốt kẽ lan tỏa, đậm rốn phổi, không đông đặc
+D. Ứ khí hai phổi, dày thành phế quản, các ổ xẹp rải rác
+Đáp án: D
+Giải thích: hMPV gây bít tắc tiểu phế quản giống RSV nên X-quang cũng là ứ khí, dày thành phế quản, xẹp rải rác; không có biểu hiện ngoài phổi đặc hiệu.
+
+Câu 21: Bé trai 3 tuổi đi nhà trẻ, sốt cao liên tục 9 ngày, ho, mắt đỏ hai bên có dử, đau họng, hạch cổ sưng đau. Đã uống Amoxicillin 4 ngày không đỡ. Khám: mệt, SpO2 96%, phổi ran ẩm rải rác hai bên. Bạch cầu 23.000/mm³ (neutrophil 78%), CRP 112 mg/L. X-quang ngực: thâm nhiễm lan tỏa hai bên.
+Căn nguyên nào có khả năng nhất?
+A. Streptococcus pneumoniae
+B. Mycoplasma pneumoniae
+C. Adenovirus
+D. hMPV
+Đáp án: C
+Giải thích: Viêm kết mạc phối hợp viêm họng, hạch cổ và sốt kéo dài trên 7 ngày là manh mối của Adenovirus. Bạch cầu trên 20.000/mm³ và CRP trên 100 mg/L không loại trừ virus vì Adenovirus gây bão cytokine. Kháng sinh nhóm beta-lactam không có tác dụng trên virus.
+
+Câu 22: Bé gái 4 tuổi nằm viện ngày thứ 3 vì sốt 39,5°C kéo dài 8 ngày, ho và đau họng, mắt đỏ hai bên. Đang dùng Ceftriaxone tĩnh mạch nhưng vẫn sốt. Bé tỉnh, ăn uống được, không co kéo, SpO2 97%, không có ổ nhiễm khuẩn khu trú, X-quang ngực không có tràn dịch màng phổi. Bạch cầu 21.000/mm³, CRP 105 mg/L, cấy máu ngày 1 âm tính. PCR dịch tỵ hầu dương tính với Adenovirus.
+Xử trí nào phù hợp nhất lúc này?
+A. Đổi Ceftriaxone sang Azithromycin uống
+B. Theo dõi sát, hạ sốt và bù dịch
+C. Đặt dẫn lưu màng phổi cấp cứu
+D. Chuyển hồi sức và thở HFNC ngay
+Đáp án: B
+Giải thích: Khi PCR xác định Adenovirus và trẻ không có dấu hiệu nhiễm trùng nhiễm độc hay suy hô hấp, CRP và bạch cầu cao chỉ phản ánh bão cytokine. Việc nên làm là theo dõi sát và chăm sóc hỗ trợ, đồng thời cân nhắc ngừng kháng sinh phổ rộng. Đổi kháng sinh, HFNC hay dẫn lưu chỉ đúng cho trẻ có bệnh cảnh khác (Mycoplasma, suy hô hấp, tràn mủ màng phổi).
+
+Câu 23: Trong một khoa Nhi, nhiều trẻ nằm cùng phòng lần lượt bị sốt, viêm kết mạc và viêm phổi do cùng một loại virus. Virus này tồn tại nhiều ngày trên đồ chơi, dụng cụ y tế và vẫn bền khi tiếp xúc với dung môi hòa tan chất béo.
+Đặc điểm cấu trúc nào của virus giải thích rõ nhất khả năng tồn tại này?
+A. Vỏ lipid kép mang glycoprotein bám G và dung hợp F
+B. Bộ gen DNA sợi kép có khả năng tự sửa chữa sau khi khô
+C. Lớp protein nền M dày bọc quanh vỏ lipid bảo vệ
+D. Capsid hình 20 mặt không có màng lipid bao ngoài
+Đáp án: D
+Giải thích: Adenovirus là virus DNA không có vỏ bọc lipid nên bền với ether, cồn thường, khô và pH rộng. Do đó virus tồn tại lâu trên đồ chơi, dụng cụ, nước bể bơi và gây ổ dịch trong khoa nội trú, cần cách ly và vệ sinh bề mặt kỹ.
+
+Câu 24: Bé trai 2 tuổi nằm viện 10 ngày vì viêm phổi nặng do Adenovirus (PCR dịch tỵ hầu dương tính): sốt 39 đến 40°C kéo dài, CRP 120 mg/L, thở máy 6 ngày. Hiện đã cai máy thở, sắp xuất viện.
+Di chứng hô hấp dài hạn đặc trưng nhất của căn nguyên này là gì?
+A. Kén khí phổi sau viêm phổi hoại tử
+B. Viêm tiểu phế quản tắc nghẽn sau nhiễm trùng
+C. Khò khè tái phát, tăng phản ứng đường thở
+D. Dày dính màng phổi sau tràn mủ màng phổi
+Đáp án: B
+Giải thích: Adenovirus gây viêm phế quản hoại tử toàn tầng nên di chứng đặc trưng là viêm tiểu phế quản tắc nghẽn sau nhiễm trùng (khò khè dai dẳng, khó thở khi gắng sức, HRCT khảm tưới máu và bẫy khí), đôi khi thành hội chứng Swyer-James; giãn phế quản có thể đi kèm về sau. Khò khè tái phát là hậu quả thường gặp sau RSV; dày dính màng phổi và kén khí là di chứng của tràn mủ và viêm phổi hoại tử do phế cầu, tụ cầu.
+
+Câu 25: Một trẻ nhỏ sau viêm phế quản phổi nặng do Adenovirus bị sẹo tắc nghẽn tiểu phế quản vĩnh viễn, trong khi viêm tiểu phế quản do RSV thường hồi phục hoàn toàn.
+Tổn thương mô học nào giải thích tốt nhất sẹo tắc nghẽn vĩnh viễn này?
+A. Hoại tử biểu mô lông chuyển, nút nhầy bít tiểu phế quản
+B. Rụng lông chuyển kèm thâm nhiễm lympho quanh mạch
+C. Hoại tử nhu mô phổi kèm tràn mủ khoang màng phổi
+D. Hoại tử tới màng đáy và cơ trơn thành tiểu phế quản
+Đáp án: D
+Giải thích: Adenovirus gây viêm phế quản hoại tử sâu tới màng đáy và cơ trơn, nên quá trình lành thương tạo sẹo xơ bít lòng tiểu phế quản. Ngược lại tổn thương nông ở biểu mô của RSV hồi phục hoàn toàn.
+
+Câu 26: Bé trai 18 tháng đi nhà trẻ, sốt 7 ngày, chảy dịch mắt hai bên, đau họng, ho. Khám: tỉnh, SpO2 97%, họng đỏ có giả mạc, hạch cổ sưng. Bạch cầu 20.000/mm³, CRP 95 mg/L. Cấy máu sau 48 giờ âm tính, chưa tìm thấy ổ nhiễm khuẩn khu trú.
+Xét nghiệm nào giúp xác định căn nguyên nhanh và chính xác nhất?
+A. PCR dịch tỵ hầu tìm Adenovirus
+B. Procalcitonin huyết thanh
+C. Cấy máu lặp lại sau 72 giờ
+D. IgM huyết thanh Mycoplasma pneumoniae
+Đáp án: A
+Giải thích: Khi lâm sàng gợi ý virus (viêm kết mạc, viêm họng, hạch cổ), xét nghiệm đúng là PCR dịch tỵ hầu thay vì leo thang kháng sinh hoặc tin vào CRP, bạch cầu. Chẩn đoán virus sớm giúp tránh lạm dụng kháng sinh phổ rộng.
+
+Câu 27: Bé trai 6 tuổi ghép tế bào gốc tạo máu 5 tuần trước, đang dùng thuốc ức chế miễn dịch. Sốt 12 ngày, viêm phổi tiến triển, tiêu chảy kéo dài, viêm bàng quang xuất huyết, giảm lympho máu nặng. PCR máu dương tính với một virus DNA chuỗi đôi không vỏ bọc, 10⁶ bản sao/mL.
+Thuốc kháng virus nào được cân nhắc?
+A. Ganciclovir tĩnh mạch
+B. Cidofovir tĩnh mạch
+C. Ribavirin dạng khí dung
+D. Oseltamivir đường uống
+Đáp án: B
+Giải thích: Virus DNA không vỏ bọc gây viêm phổi, tiêu chảy và viêm bàng quang xuất huyết ở bệnh nhân ghép là Adenovirus. Ở trẻ miễn dịch bình thường không có kháng virus đặc hiệu, nhưng bệnh lan tỏa ở người ghép có thể dùng Cidofovir. Ribavirin dành cho RSV, Ganciclovir cho CMV, Oseltamivir cho cúm.
+
+Câu 28: Bé trai 6 tuổi, tiền sử viêm phổi nặng do Adenovirus lúc 14 tháng tuổi. Từ đó thỉnh thoảng ho, khò khè khi gắng sức, không sốt. Khám: lồng ngực trái kém di động, rì rào phế nang giảm bên trái. X-quang ngực: phổi trái tăng sáng, thể tích nhỏ hơn bên phải, mạch máu thưa thớt, trung thất không bị đẩy lệch.
+Chẩn đoán nào phù hợp nhất?
+A. Hội chứng Swyer-James-MacLeod
+B. Dị vật nằm ở phế quản gốc bên trái
+C. Tràn khí màng phổi tự phát bên trái
+D. Kén phổi bẩm sinh khu trú bên trái
+Đáp án: A
+Giải thích: Swyer-James-MacLeod là di chứng sau viêm tiểu phế quản của Adenovirus: một phổi tăng sáng, thể tích giảm do giảm tưới máu và bẫy khí. Phân biệt với dị vật nhờ thể tích phổi nhỏ và tiền sử viêm phổi nặng, không đẩy lệch trung thất.
+
+Câu 29: Bé gái 2 tuổi, 4 tháng trước thở máy vì viêm phổi Adenovirus. Hiện thở nhanh nhẹ, nghe ran rít và ran ẩm dai dẳng, SpO2 92% khi nghỉ, không cải thiện với Salbutamol. X-quang ngực thẳng ít thay đổi. Nghi ngờ viêm tiểu phế quản tắc nghẽn sau nhiễm trùng.
+Xét nghiệm nào có giá trị nhất để hỗ trợ chẩn đoán?
+A. HRCT ngực có chụp thì thở ra
+B. X-quang ngực tìm xẹp thùy trên phải
+C. Siêu âm màng phổi tìm vách và mủ
+D. PCR dịch tỵ hầu tìm Mycoplasma
+Đáp án: A
+Giải thích: Chẩn đoán tiểu phế quản tắc nghẽn dựa vào lâm sàng sau viêm phổi nặng và HRCT ngực có thì thở ra thấy khảm tưới máu, bẫy khí. X-quang thường chỉ ít thay đổi nên không đủ để loại trừ.
+
+Câu 30: Bé trai 8 tuổi, sốt nhẹ 6 ngày, ho khan từng cơn nhiều về đêm, đau đầu. Đã uống Amoxicillin-clavulanate 5 ngày rồi đổi Cefuroxime 3 ngày, ho không giảm. Khám: SpO2 98%, rì rào phế nang rõ, không ran. X-quang ngực: thâm nhiễm lưới nốt hai bên quanh rốn phổi. PCR dịch tỵ hầu dương tính với Mycoplasma pneumoniae.
+Cơ chế nào giải thích tốt nhất việc không đáp ứng với hai kháng sinh đã dùng?
+A. Không vách peptidoglycan nên thuốc không có đích gắn
+B. Đột biến PBP làm giảm ái lực gắn của kháng sinh
+C. Căn nguyên virus nên kháng sinh không có đích
+D. Tiết beta-lactamase phân hủy hoạt chất kháng sinh
+Đáp án: A
+Giải thích: Mycoplasma là vi sinh vật không có vách peptidoglycan, nên Penicillin, Cephalosporin hay Carbapenem đều không có đích gắn và vô hiệu. Ho khan từng cơn, phổi êm và thâm nhiễm lưới nốt ở trẻ đi học nhắc phải đổi sang nhóm ức chế tổng hợp protein.
+
+Câu 31: Bé gái 7 tuổi viêm phổi cộng đồng điều trị ngoại trú Amoxicillin 90 mg/kg/ngày. Sau 72 giờ vẫn sốt 38,5°C, ho khan từng cơn, mệt. Khám: uống được, SpO2 97%, phổi ít ran, không dấu hiệu nặng. X-quang ngực: thâm nhiễm mạng lưới nốt hai bên.
+Xử trí nào phù hợp nhất lúc này?
+A. Ngừng kháng sinh, chăm sóc hỗ trợ tại nhà
+B. Đổi sang Azithromycin đường uống
+C. Giữ Amoxicillin và theo dõi thêm 48 giờ
+D. Nhập viện, thở HFNC và theo dõi hồi sức
+Đáp án: B
+Giải thích: Viêm phổi trẻ lớn không đáp ứng Amoxicillin sau 48 đến 72 giờ, ho khan và thâm nhiễm kẽ gợi ý Mycoplasma, cần đổi sang Macrolide. Giữ Amoxicillin, ngừng kháng sinh hay hồi sức chỉ đúng cho trẻ có bệnh cảnh khác (phế cầu chưa đủ thời gian, virus, suy hô hấp).
+
+Câu 32: Bé trai 12 tuổi, viêm phổi do Mycoplasma pneumoniae xác nhận bằng PCR, đã uống Azithromycin 3 ngày. Vẫn sốt 39°C, ho tăng, SpO2 95%, X-quang ngực thâm nhiễm lan rộng hơn so với lúc đầu. Không dị ứng thuốc.
+Thay đổi điều trị nào phù hợp nhất?
+A. Chuyển sang Clarithromycin đường uống
+B. Chuyển sang Ceftriaxone đường tĩnh mạch
+C. Chuyển sang Amoxicillin-clavulanate đường uống
+D. Chuyển sang Doxycycline đường uống
+Đáp án: D
+Giải thích: Mycoplasma có thể kháng Macrolide qua đột biến ribosom 23S; gợi ý là sốt không giảm sau 48 đến 72 giờ dùng Azithromycin. Đổi sang Macrolide khác không hiệu quả; trẻ từ 8 tuổi chuyển sang Doxycycline (Red Book cho phép dùng ngắn ngày cả ở trẻ nhỏ hơn khi cần), còn Fluoroquinolone chỉ là lựa chọn cuối cho ca nặng khi không còn thuốc nào khác.
+
+Câu 33: Bé trai 11 tuổi, sốt nhẹ 7 ngày, ho khan từng cơn, đau họng. Khám: rì rào phế nang rõ, không ran, SpO2 98%. Nghi viêm phổi không điển hình do Mycoplasma pneumoniae.
+Hình ảnh X-quang ngực nào có khả năng nhất?
+A. Đông đặc thùy đồng nhất có phế quản khí
+B. Thâm nhiễm lưới nốt từ rốn phổi lan ra
+C. Ứ khí hai phổi kèm hạ thấp vòm hoành
+D. Thâm nhiễm hai bên kèm ổ hoại tử rải rác
+Đáp án: B
+Giải thích: Mycoplasma gây viêm mô kẽ quanh phế quản và mạch máu nên trên phim là thâm nhiễm lưới nốt lan rộng, trong khi nghe phổi gần như bình thường. Đông đặc thùy là dấu của phế cầu, ứ khí hai phổi của RSV, thâm nhiễm hai bên kèm ổ hoại tử của Adenovirus nặng.
+
+Câu 34: Một trẻ 9 tuổi sốt nhẹ, ho khan hai tuần, nghe phổi bình thường nhưng X-quang ngực có thâm nhiễm lan rộng hai phế trường.
+Cơ chế nào giải thích tốt nhất sự phân ly lâm sàng và X-quang này?
+A. Nút nhầy bít tiểu phế quản, phế nang phía sau xẹp
+B. Hoại tử toàn tầng tiểu phế quản, phế nang ứ khí
+C. Viêm mô kẽ quanh mạch máu, phế nang còn thông khí
+D. Dịch viêm và bạch cầu lấp đầy phế nang tạo đông đặc
+Đáp án: C
+Giải thích: Với Mycoplasma, tổn thương nằm ở mô kẽ chứ không ở lòng phế nang, nên ống nghe êm trong khi phim chụp thâm nhiễm rộng. Ở trẻ đi học ho khan kéo dài, X-quang ngực có giá trị dù phổi nghe bình thường.
+
+Câu 35: Bé gái 11 tuổi khỏe mạnh, ho khan từng cơn kiệt sức 12 ngày, sốt nhẹ, đau đầu, mệt; trong lớp có nhiều bạn ho kéo dài. Khám: SpO2 98%, rì rào phế nang rõ, không ran. Bạch cầu 8.500/mm³, CRP 18 mg/L. X-quang ngực: thâm nhiễm lưới nốt hai bên quanh rốn phổi.
+Căn nguyên nào có khả năng nhất?
+A. Mycoplasma pneumoniae
+B. Streptococcus pneumoniae
+C. hMPV
+D. Adenovirus
+Đáp án: A
+Giải thích: Tuổi đi học, khởi phát chậm, ho khan co thắt, phổi êm nhưng phim tổn thương lan rộng và CRP thấp là gợi ý Mycoplasma. Phế cầu, Adenovirus đều có dấu ấn viêm cao hơn nhiều.
+
+Câu 36: Bé trai 9 tuổi ho khan từng cơn nhiều về đêm 3 tuần, sốt nhẹ những ngày đầu. Hai tuần nay được điều trị theo hướng viêm mũi dị ứng bằng kháng histamin H1 nhưng không đỡ. Không có tiền sử dị ứng hay khò khè; trong lớp có vài bạn ho kéo dài. Khám: họng đỏ nhẹ, rì rào phế nang rõ, không ran, SpO2 98%.
+Bước đánh giá tiếp theo phù hợp nhất là gì?
+A. Test lẩy da và IgE toàn phần huyết thanh
+B. X-quang ngực và nội soi phế quản
+C. X-quang ngực thẳng và PCR dịch tỵ hầu
+D. Đo chức năng hô hấp và test giãn phế quản
+Đáp án: C
+Giải thích: Ho khan kéo dài ở trẻ đi học với phổi nghe êm cần nghĩ tới Mycoplasma (hoặc ho gà) và thực hiện X-quang ngực cùng PCR. Gắn nhãn dị ứng và dùng kháng histamin kéo dài làm chậm chẩn đoán.
+
+Câu 37: Bé trai 12 tuổi ho khan, sốt nhẹ 8 ngày, sau đó loét miệng đau nhiều, môi đóng vảy máu, viêm kết mạc hai mắt và tiểu buốt do loét niệu đạo. Trên da chỉ có vài sẩn hồng ban rải rác. Không dùng thuốc nào trước khi khởi phát. X-quang ngực: thâm nhiễm kẽ hai bên.
+Chẩn đoán nào phù hợp nhất?
+A. Viêm màng não mủ do phế cầu
+B. Sốt họng kết mạc do Adenovirus
+C. Ban niêm mạc do Mycoplasma (MIRM)
+D. Stevens-Johnson do dị ứng thuốc
+Đáp án: C
+Giải thích: MIRM là biểu hiện ngoài phổi của Mycoplasma: loét niêm mạc nặng ở miệng, mắt, sinh dục với da ít tổn thương. Điểm khác Stevens-Johnson là có viêm phổi Mycoplasma, da ít tổn thương và không có thuốc nghi ngờ.
+
+Câu 38: Bé gái 10 tuổi ho khan từng cơn, sốt nhẹ 9 ngày, X-quang thâm nhiễm kẽ hai bên. Gần đây da xanh, vàng nhẹ, nước tiểu sẫm màu, đầu ngón tay tím khi rửa tay nước lạnh. Hb 7,2 g/dL, reticulocyte, bilirubin gián tiếp và LDH tăng; tiểu cầu 280.000/mm³, creatinin bình thường, phết máu không có mảnh vỡ hồng cầu. Coombs trực tiếp dương tính với C3, âm tính với IgG; hiệu giá ngưng kết lạnh 1:512.
+Căn nguyên của đợt viêm phổi nhiều khả năng nhất?
+A. Streptococcus pneumoniae
+B. Adenovirus
+C. Mycoplasma pneumoniae
+D. hMPV
+Đáp án: C
+Giải thích: Viêm phổi kẽ ở trẻ đi học kèm thiếu máu tán huyết với IgM ngưng kết lạnh (Coombs C3 dương, IgG âm, tím đầu chi khi lạnh) là biểu hiện tự miễn của Mycoplasma. Phế cầu cũng gây tán huyết (kháng nguyên T) nhưng kèm giảm tiểu cầu, suy thận và mảnh vỡ hồng cầu, không có ở đây.
+
+Câu 39: Bé trai 9 tuổi sốt nhẹ, ho khan từng cơn mới 3 ngày, đau đầu, mệt. Khám: họng đỏ nhẹ, rì rào phế nang rõ, không ran, SpO2 98%, mắt không đỏ. Bạch cầu 8.000/mm³, CRP 15 mg/L. X-quang ngực: thâm nhiễm kẽ hai bên quanh rốn phổi.
+Ở giai đoạn sớm này, xét nghiệm nào xác định căn nguyên tốt nhất?
+A. Cấy máu tìm phế cầu trước kháng sinh
+B. Real-time PCR Adenovirus dịch tỵ hầu
+C. Test nhanh kháng nguyên RSV tỵ hầu
+D. Real-time PCR Mycoplasma dịch tỵ hầu
+Đáp án: D
+Giải thích: Bệnh cảnh trẻ đi học ho khan, phổi êm, thâm nhiễm kẽ, dấu ấn viêm thấp gợi ý Mycoplasma; ở tuần đầu real-time PCR dịch tỵ hầu nhạy hơn huyết thanh học vì IgM thường chưa lên. Nhuộm Gram và cấy thường quy không phát hiện được Mycoplasma. Test RSV, PCR Adenovirus hay cấy máu phế cầu chỉ đúng cho bệnh cảnh khác.
+
+Câu 40: Trẻ 10 tuổi viêm phổi do Mycoplasma đã hết sốt nhưng vẫn ho khan từng cơn kiệt sức trong nhiều tuần.
+Cơ chế nào giải thích tốt nhất cơn ho kéo dài này?
+A. Độc tố CARDS làm rụng lông chuyển, mất thanh thải
+B. Sợi fiber gắn thụ thể CAR, hoại tử biểu mô sâu
+C. Hợp bào do protein F của RSV, nút nhầy bít lòng
+D. Pneumolysin đục màng tế bào, đông đặc phế nang
+Đáp án: A
+Giải thích: Mycoplasma bám vào biểu mô, tiết độc tố CARDS cùng H₂O₂ làm liệt rồi rụng lông chuyển, mất thanh thải nhầy-lông chuyển. Ho khan co thắt vì thế kéo dài nhiều tuần dù đã hết sốt.
+
+Câu 41: Sau khi tiêm vắc xin cộng hợp PCV13/PCV20, trẻ tạo kháng thể gắn lên Streptococcus pneumoniae và opsonin hóa giúp bạch cầu đa nhân nuốt vi khuẩn.
+Thành phần nào của phế cầu là kháng nguyên của các vắc xin này?
+A. Protein bề mặt PspA gắn vào choline của vách
+B. Độc tố pneumolysin gắn cholesterol màng tế bào
+C. Polysaccharide C (phosphorylcholine) của vách tế bào
+D. Polysaccharide vỏ nang của từng týp huyết thanh
+Đáp án: D
+Giải thích: PCV chứa polysaccharide vỏ nang của 13 hoặc 20 týp huyết thanh, cộng hợp với protein mang để tạo đáp ứng phụ thuộc tế bào T ở trẻ dưới 2 tuổi. Vì kháng nguyên là vỏ nang nên miễn dịch đặc hiệu theo týp: vắc xin chỉ bảo vệ các týp có trong thành phần. Pneumolysin, PspA và polysaccharide C đều là thành phần thật của phế cầu, nhưng hiện chỉ là ứng viên của vắc xin protein thế hệ sau.
+
+Câu 42: Độc tố pneumolysin của phế cầu, được giải phóng khi vi khuẩn tự tiêu giải, gây tổn thương màng phế nang – mao mạch bằng cơ chế nào?
+A. ADP-ribosyl hóa protein, rụng lông chuyển
+B. Nhân lên trong nhân, phá hủy tế bào chủ
+C. Dung hợp màng, gom tế bào thành hợp bào
+D. Gắn cholesterol màng, tạo lỗ làm vỡ tế bào
+Đáp án: D
+Giải thích: Pneumolysin là độc tố tạo lỗ: nó gắn vào cholesterol của màng tế bào vật chủ, tụ lại thành các lỗ lớn làm tan tế bào biểu mô phế nang, nội mô mao mạch và làm liệt lông chuyển. Dịch phù giàu protein tràn vào phế nang là bước đầu của viêm phổi thùy. Ba cơ chế còn lại là của các tác nhân hô hấp khác.
+
+Câu 43: Bé gái 4 tuổi, sốt 40°C đột ngột kèm rét run, đau ngực phải khi hít sâu, vào viện vào ngày thứ 3 của bệnh. Khám: mặt nhiễm trùng, thở nhanh 44 lần/phút, thở rên, SpO2 93% khí phòng. Đáy phổi phải gõ đục, rung thanh tăng, nghe tiếng thổi ống, rì rào phế nang mất. X-quang: đông đặc đồng nhất thùy dưới phải có phế quản khí.
+Thùy phổi tổn thương đang ở giai đoạn giải phẫu bệnh nào?
+A. Giai đoạn sung huyết
+B. Giai đoạn canh hóa đỏ
+C. Giai đoạn canh hóa xám
+D. Giai đoạn hồi phục
+Đáp án: B
+Giải thích: Hội chứng đông đặc rầm rộ (gõ đục, rung thanh tăng, thổi ống) vào khoảng ngày 2–4 tương ứng canh hóa đỏ: phế nang lấp đầy bạch cầu đa nhân, hồng cầu và fibrin nên nhu mô đặc như gan. Ở giai đoạn sung huyết chỉ có ran nổ và giảm rì rào nhẹ; ở canh hóa xám thổi ống giảm dần.
+
+Câu 44: Bé trai 5 tuổi viêm phổi thùy dưới trái do phế cầu, ngày thứ 6 của bệnh, đang dùng kháng sinh phù hợp. Sốt còn 38,5°C. Gõ vẫn đục, tiếng thổi ống nghe nhỏ hơn hôm trước, rì rào phế nang vẫn giảm, chưa có ran ẩm to hạt. X-quang vẫn còn đông đặc thùy dưới trái.
+Đại thể, thùy phổi này nhiều khả năng ở tình trạng nào?
+A. Đỏ sẫm, phù nề, chảy dịch bọt hồng khi cắt
+B. Đỏ nâu, chắc như gan, thả vào nước thì chìm
+C. Xám tro, bề mặt khô, vẫn chắc như gan
+D. Mềm dần, rỉ dịch đục, dần chứa khí lại
+Đáp án: C
+Giải thích: Ngày 4–8 là canh hóa xám: mao mạch bị chèn ép nên thiếu máu nuôi, hồng cầu tan rã, phế nang chủ yếu chứa bạch cầu đa nhân thoái hóa và fibrin; đại thể phổi chuyển từ đỏ nâu sang xám tro, bề mặt cắt khô hơn nhưng vẫn chắc như gan, thổi ống giảm dần. Mỗi mô tả còn lại là của một giai đoạn khác của cùng quá trình.
+
+Câu 45: Bé gái 6 tuổi viêm phổi thùy dưới phải do phế cầu, hiện là ngày thứ 10 của bệnh, đã hết sốt 3 ngày. Trẻ ho khạc đờm đặc dễ dàng. Khám: ran ẩm to và vừa hạt khắp đáy phổi phải, tiếng thổi ống đã mất. X-quang đông đặc giảm đậm dần.
+Cơ chế nào giải thích tốt nhất các ran ẩm to hạt này?
+A. Khí qua tiểu phế quản phù nề hẹp ở thì thở ra
+B. Phế nang đặc truyền âm thở phế quản ra thành ngực
+C. Phế nang xẹp dính bật mở ra cuối thì hít vào
+D. Khí đi qua dịch viêm đã lỏng ra trong đường thở
+Đáp án: D
+Giải thích: Ở giai đoạn hồi phục, đại thực bào tiết enzyme tiêu protein làm tan mạng fibrin; dịch rỉ viêm lỏng ra, được ho khạc hoặc bạch huyết hấp thu, phế nang thông khí trở lại. Khí đi qua dịch lỏng trong đường thở tạo ran ẩm to, vừa hạt ('ran hồi phục'). Ba cơ chế còn lại giải thích các âm phổi khác: thổi ống, ran nổ, khò khè.
+
+Câu 46: Bé trai 5 tuổi sốt cao 3 ngày, ho, thở nhanh 40 lần/phút, đau ngực trái. Nghe phổi: gõ đục và thổi ống vùng đáy trái. X-quang ngực thẳng: đám mờ đồng nhất chiếm thùy dưới trái, trong đó thấy các đường đen phân nhánh.
+Tổn thương nhu mô nào phù hợp nhất với hình ảnh và khám phổi này?
+A. Phế nang đầy dịch, phế quản còn thông
+B. Mô kẽ quanh mạch viêm, phế nang còn chứa khí
+C. Thành tiểu phế quản hoại tử, lòng bít bởi mô xơ
+D. Phế nang xẹp sau khi nút nhầy bít tiểu phế quản
+Đáp án: A
+Giải thích: Đám mờ đồng nhất theo thùy, gõ đục, thổi ống và các đường khí đen phân nhánh (phế quản khí) là đông đặc phế nang: phế nang đầy dịch viêm trong khi phế quản dẫn khí còn thông. Ba tổn thương còn lại là kiểu tổn thương của RSV (xẹp do nút nhầy), Mycoplasma (mô kẽ) và Adenovirus (hoại tử tiểu phế quản).
+
+Câu 47: Bé gái 10 tháng tuổi, sốt 39,5°C 2 ngày, ho, bú kém, thở rên khi ngủ. Khám: mệt nhưng tỉnh, thở nhanh 58 lần/phút, rút lõm lồng ngực, SpO2 89% khí phòng và lên 95% khi được cho oxy qua canula 1 lít/phút; không ngừng thở. Ngực mỏng, chỉ nghe vài ran nổ khu trú ở đáy phải, không gõ đục rõ, không có thổi ống. Bạch cầu 24.000/mm³ (N 86%), CRP 118 mg/L. X-quang: đông đặc thùy dưới phải có phế quản khí.
+Xử trí phù hợp nhất lúc này?
+A. Nhập viện, oxy, hút mũi, không kháng sinh
+B. Nhập viện, thở oxy, kháng sinh tiêm tĩnh mạch
+C. Ngoại trú, uống Amoxicillin liều cao
+D. Nhập PICU, oxy dòng cao HFNC, theo dõi sát
+Đáp án: B
+Giải thích: Ở nhũ nhi, lồng ngực mỏng nên viêm phổi thùy do phế cầu có thể chỉ biểu hiện thở nhanh, sốt cao, thở rên mà thiếu gõ đục/thổi ống. X-quang đông đặc thùy có phế quản khí, bạch cầu và CRP cao xác nhận viêm phổi vi khuẩn; SpO2 89% với rút lõm cần nhập viện, oxy và kháng sinh tiêm tĩnh mạch. Trẻ đáp ứng với oxy dòng thấp nên chưa cần HFNC/PICU.
+
+Câu 48: Bé trai 4 tuổi, đã tiêm đủ vắc xin theo lịch (có PCV), sốt 39°C 3 ngày, ho, thở nhanh 38 lần/phút, không rút lõm, SpO2 96%, ăn uống được. Nghe phổi có hội chứng đông đặc đáy phải. X-quang: đông đặc thùy dưới phải, không tràn dịch màng phổi. Gia đình ở gần, theo dõi được tại nhà.
+Kháng sinh nào được chọn đầu tiên?
+A. Ampicillin tĩnh mạch 150–200 mg/kg/ngày, bốn lần
+B. Azithromycin uống 10 mg/kg/ngày, một lần
+C. Cefuroxime uống 30 mg/kg/ngày, hai lần
+D. Amoxicillin uống 80–90 mg/kg/ngày, hai lần
+Đáp án: D
+Giải thích: Viêm phổi thùy điển hình ở trẻ đã tiêm chủng, mức nhẹ–vừa, điều trị ngoại trú: Amoxicillin liều cao đường uống là lựa chọn số một theo PIDS/IDSA; liều cao giúp vượt đề kháng qua biến đổi PBP của phế cầu. Các phác đồ còn lại đúng cho bệnh nhi khác: nhập viện, tác nhân không điển hình hoặc nhiễm khuẩn hô hấp trên.
+
+Câu 49: Bé trai 3 tuổi, 4 ngày trước được xác định cúm A bằng test nhanh, đã đỡ sốt 2 ngày. Hôm nay sốt lại 40°C đột ngột kèm rét run, ho đờm, đau ngực trái. Khám: thở nhanh 48 lần/phút, đáy trái gõ đục, rung thanh tăng. Bạch cầu 25.000/mm³ (N 88%), CRP 160 mg/L, procalcitonin tăng cao. X-quang: đông đặc thùy dưới trái.
+Tác nhân bội nhiễm nào có khả năng nhất?
+A. Mycoplasma
+B. Adenovirus
+C. Phế cầu
+D. RSV
+Đáp án: C
+Giải thích: Sốt trở lại đột ngột sau giai đoạn đã đỡ của cúm là mẫu hình bội nhiễm vi khuẩn, thường gặp nhất là phế cầu (tụ cầu vàng cũng gặp nhưng không có trong các lựa chọn). Đông đặc thùy, bạch cầu đa nhân ưu thế, CRP và PCT tăng vọt khớp với phế cầu; Mycoplasma khởi phát bán cấp, Adenovirus gây sốt kéo dài liên tục, RSV chủ yếu ở nhũ nhi.
+
+Câu 50: Bé gái 3 tuổi viêm phổi thùy dưới phải, điều trị ampicillin tĩnh mạch ngày thứ 4 nhưng vẫn sốt 39°C, đau ngực phải, thở nhanh hơn. Khám: đáy phổi phải gõ đục, rì rào phế nang giảm mạnh, rung thanh giảm. X-quang: mờ đáy phải, mất góc sườn hoành, ranh giới trên cong lên phía ngoài.
+Biến chứng nào có khả năng nhất?
+A. Giãn phế quản sau viêm nặng
+B. Xẹp phổi do nút nhầy bít
+C. Viêm tiểu phế quản tắc nghẽn
+D. Tràn dịch/mủ màng phổi cận viêm
+Đáp án: D
+Giải thích: Sốt dai dẳng sau 48–72 giờ điều trị, rung thanh và rì rào giảm (thay vì tăng như đông đặc) cùng mất góc sườn hoành là tràn dịch màng phổi cận viêm, có thể tiến triển thành tràn mủ. Đây là biến chứng thường gặp của viêm phổi phế cầu; ba lựa chọn còn lại là biến chứng/di chứng đặc trưng của RSV, Adenovirus và viêm phổi nặng kéo dài.
+
+Câu 51: Bốn trẻ 4–10 tuổi nhập viện cùng ngày vì viêm đường hô hấp dưới, cả bốn đều sốt, ho và thở nhanh. Đặc điểm của từng trẻ được ghi ngắn gọn dưới đây.
+Trẻ nào có khả năng nhất bị viêm phổi do Mycoplasma pneumoniae?
+A. Sốt 40°C đột ngột, rét run; gõ đục; WBC 26.000, CRP 150; đông đặc một thùy
+B. Ho khan 2 tuần, sốt nhẹ; phổi êm; WBC 9.000, CRP 20; lưới nốt kẽ
+C. Sốt liên tục 9 ngày, đỏ mắt, họng giả mạc; WBC 22.000, CRP 105; thâm nhiễm hai bên
+D. Sốt 39°C 3 ngày, khò khè; ran rít; WBC 8.000, CRP 12; ứ khí hai phổi
+Đáp án: B
+Giải thích: Mycoplasma gây viêm phổi ở trẻ lớn với ho khan kéo dài, sốt nhẹ, nghe phổi gần như êm nhưng X-quang có thâm nhiễm kẽ dạng lưới nốt (phân ly lâm sàng – X-quang), bạch cầu và CRP thường không tăng cao. Đông đặc thùy với bạch cầu, CRP rất cao là phế cầu; sốt kéo dài, đỏ mắt, họng giả mạc với CRP cao là Adenovirus; khò khè, ứ khí, CRP thấp là RSV hoặc hMPV.
+
+Câu 52: Bé trai 3 tuổi, ho chảy mũi 3 ngày, test nhanh kháng nguyên RSV dương tính. Hôm nay sốt 40°C đột ngột kèm rét run, đau ngực phải, thở nhanh 40 lần/phút, SpO2 94%, ăn uống được. Đáy phải gõ đục, nghe thổi ống. Bạch cầu 24.000/mm³ (N 85%), CRP 140 mg/L. X-quang: đông đặc thùy dưới phải có phế quản khí.
+Xử trí nào phù hợp nhất?
+A. Amoxicillin liều cao uống 5 ngày
+B. Azithromycin uống 5 ngày
+C. Chỉ hỗ trợ, không kháng sinh
+D. Oseltamivir uống 5 ngày
+Đáp án: A
+Giải thích: Phát hiện RSV không loại trừ nhiễm khuẩn thứ phát: sốt tăng đột ngột, bạch cầu đa nhân và CRP cao cùng đông đặc thùy có phế quản khí là viêm phổi phế cầu bội nhiễm sau virus. Trẻ tỉnh, SpO2 94%, ăn uống được nên điều trị Amoxicillin liều cao đường uống. Hỗ trợ đơn thuần đúng với tiểu phế quản RSV không biến chứng; azithromycin cho Mycoplasma; oseltamivir cho cúm.
+
+Câu 53: Bé gái 11 tuổi, ho khan từng cơn kéo dài 12 ngày, sốt nhẹ 38°C, đau đầu, chưa dùng kháng sinh. Khám: tỉnh, thở 22 lần/phút, SpO2 98%, nghe phổi gần như êm. CRP 24 mg/L, bạch cầu bình thường. X-quang: thâm nhiễm dạng lưới nốt quanh rốn phổi hai bên.
+Kháng sinh đường uống nào là lựa chọn đầu tay phù hợp nhất?
+A. Cefotaxime đường tĩnh mạch
+B. Clindamycin đường uống
+C. Amoxicillin liều cao đường uống
+D. Azithromycin đường uống
+Đáp án: D
+Giải thích: Trẻ đi học, ho khan kéo dài, phổi êm và X-quang lưới nốt kẽ là hiện tượng phân ly điển hình của Mycoplasma pneumoniae. Vi khuẩn không có vách peptidoglycan nên beta-lactam vô hiệu; macrolide (azithromycin) ức chế tổng hợp protein tại ribosome là đầu tay.
+
+Câu 54: Bé gái 7 tháng, sổ mũi 3 ngày rồi khò khè, thở nhanh 62 lần/phút, rút lõm lồng ngực, SpO2 92%, không sốt, nghe ran rít và ran ngáy hai phổi. X-quang: đám mờ hình tam giác cạnh bờ tim phải. Bác sĩ phân vân giữa xẹp phổi do nút nhầy và đông đặc do phế cầu.
+Dấu hiệu X-quang nào ủng hộ nhất xẹp phổi?
+A. Rãnh liên thùy bị kéo về phía đám mờ
+B. Ứ khí hai phổi, vòm hoành bị hạ thấp
+C. Lưới nốt kẽ lan từ rốn phổi ra ngoài
+D. Phế quản khí nổi giữa đám mờ đồng nhất
+Đáp án: A
+Giải thích: Xẹp phổi làm giảm thể tích thùy: rãnh liên thùy, vòm hoành hoặc trung thất bị kéo về phía tổn thương, đám mờ hình dải/tam giác và phế quản bị nút nhầy bít nên vùng này thường không có phế quản khí (dấu này gợi ý chứ không loại trừ hẳn xẹp phổi). Các hình ảnh còn lại là dấu hiệu kinh điển của đông đặc do vi khuẩn, tiểu phế quản viêm ứ khí và viêm mô kẽ.
+
+Câu 55: Bé trai 4 tuổi, 8 tháng trước nằm viện 3 tuần vì viêm phổi nặng: sốt liên tục 12 ngày, đỏ mắt, CRP rất cao. Từ đó ho khò khè dai dẳng, khó thở khi chạy nhảy, khí dung salbutamol ít đáp ứng. CT ngực độ phân giải cao: vùng tăng sáng – giảm sáng xen kẽ dạng khảm kèm bẫy khí.
+Căn nguyên nhiều khả năng nhất của đợt viêm phổi trước đó là gì?
+A. Adenovirus
+B. RSV
+C. Mycoplasma pneumoniae
+D. Phế cầu
+Đáp án: A
+Giải thích: Bẫy khí và hình khảm trên CT cùng khò khè dai dẳng không đáp ứng giãn phế quản là viêm tiểu phế quản tắc nghẽn sau nhiễm trùng. Đợt viêm phổi nặng, sốt kéo dài, đỏ mắt trước đó là mẫu hình của Adenovirus, căn nguyên kinh điển gây di chứng này do hoại tử toàn tầng tiểu phế quản rồi xơ sẹo.
+
+Câu 56: Bé trai 18 tháng nằm viện ngày thứ 6 vì viêm phổi thùy dưới trái có tràn mủ màng phổi, đã dẫn lưu. Hôm nay trẻ xanh xao nhanh, phù mi, tiểu ít. Hb 6,9 g/dL, tiểu cầu 42.000/mm³, creatinin 180 µmol/L, LDH tăng, phết máu nhiều mảnh vỡ hồng cầu, Coombs trực tiếp dương tính.
+Căn nguyên viêm phổi nào phù hợp nhất với toàn bộ bệnh cảnh này?
+A. hMPV
+B. Adenovirus
+C. Streptococcus pneumoniae
+D. Mycoplasma pneumoniae
+Đáp án: C
+Giải thích: Thiếu máu tan máu vi mạch, giảm tiểu cầu và tổn thương thận cấp sau viêm phổi có tràn mủ ở trẻ dưới 2 tuổi là hội chứng tan máu tăng ure huyết do phế cầu: neuraminidase của phế cầu bộc lộ kháng nguyên Thomsen-Friedenreich (T) trên hồng cầu, tiểu cầu và nội mô nên Coombs trực tiếp thường dương tính. Tan máu do ngưng kết lạnh của Mycoplasma cũng có Coombs dương tính nhưng không có giảm tiểu cầu, suy thận và mảnh vỡ hồng cầu.
+
+Câu 57: Bé trai 9 tháng, sinh đủ tháng, chưa được tiêm phòng tác nhân này mũi nào, vừa điều trị khỏi viêm phổi thùy dưới phải có cấy máu mọc Streptococcus pneumoniae. Trước khi xuất viện, mẹ hỏi biện pháp dự phòng đặc hiệu để bé không mắc lại bệnh do vi khuẩn này.
+Biện pháp nào phù hợp nhất?
+A. Palivizumab tiêm bắp hàng tháng trong mùa dịch
+B. Azithromycin dự phòng cho người tiếp xúc
+C. Vắc xin cúm bất hoạt tiêm hằng năm
+D. Vắc xin cộng hợp PCV theo lịch bù liều
+Đáp án: D
+Giải thích: Phế cầu có hơn 100 serotype vỏ và vắc xin cộng hợp PCV nhắm vào polysaccharide vỏ của các serotype thường gặp; trẻ chưa tiêm cần được tiêm bù theo lịch. Các biện pháp còn lại dự phòng tác nhân khác: palivizumab cho RSV ở trẻ nguy cơ cao, vắc xin cúm cho cúm, azithromycin cho người tiếp xúc ho gà.
+
+Câu 58: Bé gái 4 tuổi đã tiêm đủ vắc xin, viêm phổi thùy dưới phải được điều trị ngoại trú bằng Amoxicillin liều cao, hôm nay là ngày thứ 2 dùng thuốc. Trẻ vẫn sốt 38,8°C nhưng ăn uống, chơi được; thở 34 lần/phút, không rút lõm, SpO2 97%, không đau ngực tăng thêm. Gõ đục đáy phải như hôm trước, rung thanh tăng, không giảm rì rào.
+Xử trí nào phù hợp nhất?
+A. Siêu âm màng phổi, xem xét dẫn lưu nếu có mủ
+B. Đổi sang Azithromycin, dùng đủ 5 ngày
+C. Giữ nguyên Amoxicillin, tái khám sau 48 giờ
+D. Nhập viện, đổi Ampicillin tĩnh mạch
+Đáp án: C
+Giải thích: Sốt thường giảm sau 48–72 giờ kháng sinh hiệu quả; ngày thứ 2 còn sốt nhẹ ở trẻ tổng trạng tốt, không thiếu oxy, khám không đổi là diễn tiến chấp nhận được, nên giữ nguyên kháng sinh và hẹn đánh giá lại. Siêu âm màng phổi dành cho trẻ sốt dai dẳng kèm rung thanh/rì rào giảm; azithromycin dành cho tác nhân không điển hình; nhập viện dành cho trẻ xấu đi.
+
+Câu 59: Bé trai 9 tuổi, sốt 39,5°C đột ngột 2 ngày kèm rét run, ho đờm, đau ngực phải. Khám: thở 32 lần/phút, SpO2 95%, gõ đục, rung thanh tăng và thổi ống ở đáy phổi phải. Bạch cầu 23.000/mm³ (N 85%), CRP 135 mg/L. X-quang: đông đặc thùy dưới phải có phế quản khí.
+Căn nguyên nào có khả năng nhất?
+A. hMPV
+B. Phế cầu
+C. Adenovirus
+D. Mycoplasma pneumoniae
+Đáp án: B
+Giải thích: Lứa tuổi đi học thường gợi Mycoplasma, nhưng tuổi chỉ là gợi ý: khởi phát đột ngột, rét run, bạch cầu đa nhân ưu thế, CRP cao và hội chứng đông đặc thùy có phế quản khí là mẫu hình viêm phổi phế cầu ở mọi lứa tuổi. Mycoplasma có phổi êm và X-quang mô kẽ, hMPV khò khè ứ khí ở trẻ nhỏ, Adenovirus sốt kéo dài kèm đỏ mắt.
+
+Câu 60: Bé trai 2 tuổi, viêm phổi thùy dưới phải (đông đặc có phế quản khí) ngày thứ 3, đang dùng cefotaxime tĩnh mạch. Sáng nay sốt lại 40°C, nôn nhiều, quấy khóc kích thích khi khám, cổ gượng, vẫn tỉnh và đáp ứng khi gọi. Không co giật, không dấu thần kinh khu trú, đồng tử đều, huyết động ổn định.
+Xét nghiệm nào cần làm tiếp theo?
+A. Chụp CT ngực có tiêm thuốc cản quang
+B. Chọc dò tủy sống lấy dịch não tủy
+C. Respiratory multiplex PCR dịch tỵ hầu
+D. PCR Mycoplasma pneumoniae dịch tỵ hầu
+Đáp án: B
+Giải thích: Phế cầu là một trong những căn nguyên hàng đầu của cả viêm phổi và viêm màng não mủ ở trẻ dưới 5 tuổi. Trẻ đang viêm phổi thùy có sốt lại, nôn, kích thích và cổ gượng cần được chọc dò dịch não tủy để xác chẩn viêm màng não mủ khi huyết động ổn định, tỉnh táo và không có dấu hiệu tăng áp lực nội sọ; không trì hoãn kháng sinh chờ chọc dò.

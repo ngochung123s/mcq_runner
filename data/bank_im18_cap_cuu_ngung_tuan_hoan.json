@@ -1,0 +1,367 @@
+{
+  "id": "bank_im18_cap_cuu_ngung_tuan_hoan",
+  "title": "IM-18: Cấp Cứu Ngừng Tuần Hoàn (30 Câu Chuyên Sâu)",
+  "description": "Ngân hàng câu hỏi trắc nghiệm toàn diện bao phủ lý thuyết sinh lý bệnh, 5T-6H, BLS/ACLS, sốc điện, thuốc cấp cứu và chăm sóc sau hồi sức (ROSC).",
+  "questions": [
+    {
+      "id": "im18_case_01",
+      "text": "Bệnh nhân nam 62 tuổi, đang ngồi chờ khám bệnh thì đột ngột gục xuống bàn, gọi hỏi không đáp ứng, thở ngáp cá. Bạn là nhân viên y tế đầu tiên tiếp cận bệnh nhân. Hành động tiếp theo đúng nhất và khẩn trương nhất là gì?",
+      "options": [
+        "Lập tức chạy đi lấy máy đo điện tim và đo huyết áp",
+        "Bắt mạch cảnh trong 5 - 10 giây đồng thời quan sát lồng ngực và gọi to hỗ trợ, chuẩn bị ép tim ngay",
+        "Móc họng kiểm tra dị vật và thổi ngạt liên tục 5 lần",
+        "Tiêm bắp ngay 1 ống Adrenalin 1mg vào mặt trước ngoài đùi"
+      ],
+      "correct": 1,
+      "explanation": "Theo khuyến cáo BLS (AHA/ERC), khi tiếp cận nạn nhân không đáp ứng và thở ngáp cá, nhân viên y tế cần gọi to người hỗ trợ, kiểm tra đồng thời nhịp thở và mạch cảnh trong không quá 10 giây. Nếu không có mạch hoặc không chắc chắn có mạch, lập tức tiến hành ép tim ngoài lồng ngực (C-A-B). Tuyệt đối không mất thời gian nghe tim, đo huyết áp hay đo ECG."
+    },
+    {
+      "id": "im18_case_02",
+      "text": "Trong lúc tiến hành CPR cho một bệnh nhân ngừng tuần hoàn tại khoa Cấp cứu, máy khử rung tim (Defibrillator) được mang đến và dán bản cực. Màn hình monitor hiện hình ảnh sóng nhấp nhô không đều, biên độ hỗn loạn, không có phức bộ QRS rõ rệt, không bắt được mạch bẹn. Hành động tiếp theo chuẩn xác nhất là gì?",
+      "options": [
+        "Tiêm tĩnh mạch ngay 1mg Adrenalin và tiếp tục ép tim 2 phút trước khi sốc",
+        "Sốc điện phá rung ngay lập tức (200J hai pha hoặc 360J một pha), sau đó ép tim lại ngay lập tức không cần bắt lại mạch",
+        "Sốc điện phá rung, sau đó dừng lại 10 giây bắt mạch cảnh kiểm tra xem tim đã đập lại chưa",
+        "Truyền tĩnh mạch Amiodarone 300mg rồi mới tiến hành sốc điện"
+      ],
+      "correct": 1,
+      "explanation": "Điện tâm đồ biểu hiện Rung thất (VF) - nhịp sốc điện được. Chỉ định là sốc điện phá rung ngay lập tức ở mức năng lượng cao nhất (200J biphasic hoặc 360J monophasic). Ngay sau khi phóng điện, bắt buộc phải quay lại ép tim ngay lập tức trong 2 phút (5 chu kỳ 30:2) mà không được dừng lại bắt mạch hay kiểm tra nhịp, vì cơ tim sau sốc cần được tưới máu ngay để hồi phục chức năng co bóp."
+    },
+    {
+      "id": "im18_case_03",
+      "text": "Bệnh nhân nữ 45 tuổi, ngừng tuần hoàn đã được ép tim và sốc điện 2 lần vì rung thất dai dẳng, đã tiêm liều Adrenalin 1mg đầu tiên. Hiện tại sau nhát sốc thứ 3, monitor vẫn hiển thị rung thất sóng lớn. Thuốc chống loạn nhịp được ưu tiên chỉ định tiếp theo theo phác đồ ALS là gì?",
+      "options": [
+        "Atropin 1mg tiêm tĩnh mạch",
+        "Amiodarone 300mg tiêm tĩnh mạch nhanh (hoặc Lidocaine 1 - 1.5 mg/kg)",
+        "Magnesi sulfat 2g tiêm tĩnh mạch chậm trong 10 phút",
+        "Dopamin truyền tĩnh mạch liều 10 mcg/kg/phút"
+      ],
+      "correct": 1,
+      "explanation": "Trong ngừng tuần hoàn do Rung thất / Nhanh thất vô mạch trơ (sau 3 lần sốc điện và đã dùng Adrenalin), thuốc chống loạn nhịp ưu tiên hàng đầu là Amiodarone 300mg IV (pha trong Dextrose 5%), liều nhắc lại 150mg nếu còn trơ. Nếu không có Amiodarone, có thể thay thế bằng Lidocain 1 - 1.5 mg/kg IV."
+    },
+    {
+      "id": "im18_case_04",
+      "text": "Một bệnh nhân nam 35 tuổi bị tai nạn giao thông chấn thương ngực kín, vào viện trong tình trạng ngừng tuần hoàn. Khi gắn monitor theo dõi, thấy phức bộ QRS thanh mảnh với tần số 75 lần/phút, nhưng bắt mạch cảnh và mạch bẹn hoàn toàn không có. Chẩn đoán điện sinh lý và hướng xử trí ưu tiên là gì?",
+      "options": [
+        "Rung thất sóng nhỏ; chỉ định sốc điện đồng bộ 100J",
+        "Phân ly điện cơ (PEA); không sốc điện, tiếp tục ép tim liên tục, tiêm Adrenalin và khẩn trương tầm soát nguyên nhân đảo ngược (như tràn khí màng phổi áp lực, ép tim cấp)",
+        "Vô tâm thu; sốc điện phá rung 360J ngay lập tức",
+        "Nhịp nhanh thất có mạch; cho dùng thuốc chẹn beta giao cảm đường tĩnh mạch"
+      ],
+      "correct": 1,
+      "explanation": "Có hoạt động điện thế trên monitor nhưng hoàn toàn không bắt được mạch tương ứng là định nghĩa của Phân ly điện cơ (PEA). PEA thuộc nhóm nhịp KHÔNG sốc điện được. Nguyên tắc xử trí là duy trì ép tim chất lượng cao, tiêm Adrenalin 1mg mỗi 3-5 phút và rà soát ngay nguyên nhân 5T & 6H (đặc biệt ép tim cấp, tràn khí màng phổi áp lực, sốc mất máu ở bệnh nhân chấn thương)."
+    },
+    {
+      "id": "im18_case_05",
+      "text": "Bệnh nhân nam 68 tuổi sau 15 phút cấp cứu ngừng tuần hoàn tích cực đã có mạch cảnh đập rõ trở lại, huyết áp đo được 100/60 mmHg, thở ngáp qua ống nội khí quản, SpO2 96%, đồng tử 2 bên 3mm còn phản xạ ánh sáng nhưng chưa tỉnh. Xử trí hồi sức sau tái lập tuần hoàn (ROSC) nào dưới đây là ĐÚNG?",
+      "options": [
+        "Cho thở oxy 100% liên tục kéo dài để tối đa hóa nồng độ oxy não",
+        "Rút ngay ống nội khí quản để tránh kích thích bệnh nhân",
+        "Theo dõi huyết động liên tục tại ICU ít nhất 24 - 48 giờ, duy trì PaO2 và PaCO2 bình thường, kiểm soát thân nhiệt mục tiêu và chụp mạch vành cấp cứu nếu nghi ngờ NMCT",
+        "Truyền ngay 2 lít dung dịch Glucose 5% để nuôi dưỡng tế bào não"
+      ],
+      "correct": 2,
+      "explanation": "Sau khi tái lập tuần hoàn tự nhiên (ROSC), bệnh nhân cần được theo dõi tại ICU ít nhất 24 - 48 giờ. Chiến lược hồi sinh não bao gồm: duy trì huyết áp tối ưu, kiểm soát hô hấp (tránh cả thiếu oxy lẫn thừa oxy quá mức, duy trì PaCO2 35-45 mmHg), kiểm soát thân nhiệt mục tiêu (TTM 32-36°C) để chống phù não, tầm soát và can thiệp mạch vành sớm nếu căn nguyên do tim."
+    },
+    {
+      "id": "im18_q_01",
+      "text": "Định nghĩa chuẩn xác nhất của Ngừng tuần hoàn (Cardiac Arrest) là gì?",
+      "options": [
+        "Tình trạng huyết áp tụt xuống dưới 60/40 mmHg nhưng tim vẫn co bóp tống máu yếu",
+        "Hiện tượng tim đột ngột ngừng hoạt động hoặc còn hoạt động co bóp nhưng không còn hiệu quả tống máu",
+        "Tình trạng tắc nghẽn hoàn toàn đường thở do dị vật đường hô hấp trên",
+        "Tình trạng mất ý thức thoáng qua do thiếu máu não cục bộ cục bộ"
+      ],
+      "correct": 1,
+      "explanation": "Ngừng tuần hoàn được định nghĩa là hiện tượng tim đột ngột ngừng hoạt động cơ học hoặc vẫn còn hoạt động điện học/co bóp nhưng không còn hiệu quả tống máu đi nuôi cơ thể (ví dụ: rung thất, nhanh thất vô mạch, phân ly điện cơ)."
+    },
+    {
+      "id": "im18_q_02",
+      "text": "Nhóm nguyên nhân gây ngừng tuần hoàn có thể đảo ngược được thường được hệ thống hóa thành 5T và 6H. '5T' bao gồm những nguyên nhân nào sau đây?",
+      "options": [
+        "Tăng huyết áp, Tiểu đường, Tăng kali, Tắc ruột, Thủng dạ dày",
+        "Tamponade (Ép tim cấp), Tension pneumothorax (TKMP áp lực), Thromboembolism (Tắc mạch phổi/vành), Traumatic (Chấn thương), Toxicity (Ngộ độc thuốc)",
+        "Thalassemia, Tachycardia, Thyroid storm, Tuberculosis, Trụy mạch",
+        "Toan máu, Tăng calci, Tăng áp lực nội sọ, Tắc mật, Tràn dịch màng bụng"
+      ],
+      "correct": 1,
+      "explanation": "Nhóm 5T bao gồm: Tamponade (Ép tim cấp do tràn dịch/máu màng tim), Tension pneumothorax (Tràn khí màng phổi áp lực), Thromboembolism (Huyết khối thuyên tắc mạch phổi hoặc động mạch vành), Traumatic (Chấn thương nặng mất máu), Toxicity (Ngộ độc các thuốc như digoxin, chẹn calci, chẹn beta...)."
+    },
+    {
+      "id": "im18_q_03",
+      "text": "Trong nhóm nguyên nhân '6H' của ngừng tuần hoàn, chữ 'H' đại diện cho toan hóa máu là gì?",
+      "options": [
+        "Hyperthermia",
+        "Acidosis (H+ ion)",
+        "Hyperglycemia",
+        "Hypovolemia"
+      ],
+      "correct": 1,
+      "explanation": "Trong nhóm 6H: Hypoxia (thiếu oxy), Hypovolemia/Hypotension (giảm thể tích), Hypothermia (hạ thân nhiệt), Hypoglycemia (hạ đường huyết), H+ (toan hóa máu/Acidosis), Hypo/Hyperkalemia (rối loạn kali máu)."
+    },
+    {
+      "id": "im18_q_04",
+      "text": "Quá trình ngừng tuần hoàn tiến triển qua 3 pha sinh lý bệnh theo thời gian. Đặc điểm của 'Pha điện học' (0 - 4 phút đầu) là gì?",
+      "options": [
+        "Ngừng tuần hoàn chủ yếu do toan chuyển hóa nặng, ưu tiên hàng đầu là truyền kiềm NaHCO3",
+        "Ngừng tuần hoàn thường do Rung thất, yếu tố sống còn quyết định thành công là phải SỐC ĐIỆN phá rung càng sớm càng tốt",
+        "Tế bào não đã hoại tử hoàn toàn không thể hồi phục, ưu tiên chăm sóc giảm nhẹ",
+        "Cần dành thời gian ghi điện tâm đồ 12 chuyển đạo đầy đủ trước khi can thiệp"
+      ],
+      "correct": 1,
+      "explanation": "Trong 4 phút đầu (pha điện học), cơ tim vẫn còn dự trữ năng lượng ATP và nhịp ngừng tuần hoàn chiếm đa số là Rung thất (VF). Yếu tố sống còn quyết định đưa nhịp tim trở lại là Sốc điện khử rung ngay lập tức. Ép tim trong lúc chờ máy sốc giúp duy trì áp lực tưới máu và tăng tỷ lệ thành công khi sốc điện."
+    },
+    {
+      "id": "im18_q_05",
+      "text": "Quy tắc ưu tiên hành động giữa Sốc điện và Ép tim theo mốc thời gian 4 phút trong ngừng tuần hoàn là gì?",
+      "options": [
+        "Trước 4 phút: Ưu tiên Ép tim; Sau 4 phút: Ưu tiên Sốc điện",
+        "Trước 4 phút: Ưu tiên Sốc điện; Sau 4 phút: Ưu tiên Ép tim",
+        "Cả trước và sau 4 phút đều chỉ ép tim, tuyệt đối không sốc điện",
+        "Trước 4 phút không can thiệp, chờ sau 4 phút mới bắt đầu sốc điện"
+      ],
+      "correct": 1,
+      "explanation": "Quy tắc kinh điển: Trước 4 phút (pha điện học) ưu tiên hàng đầu là Sốc điện phá rung. Sau 4 phút (bước vào pha huyết động 4-10 phút), dự trữ năng lượng cơ tim đã cạn kiệt, bắt buộc phải ưu tiên Ép tim hiệu quả để tái tạo áp lực tưới máu động mạch vành trước rồi mới tiến hành sốc điện."
+    },
+    {
+      "id": "im18_q_06",
+      "text": "Tại sao tế bào não lại là cơ quan nhạy cảm nhất và tổn thương sớm nhất khi ngừng tuần hoàn?",
+      "options": [
+        "Não không có mạch máu nuôi dưỡng riêng biệt",
+        "Não hoàn toàn không có dự trữ oxy và có rất ít dự trữ glucose, dự trữ ATP cạn kiệt chỉ sau 4 - 5 phút thiếu máu",
+        "Não có chuyển hóa yếm khí mạnh gấp 10 lần các mô cơ xương",
+        "Não chứa lượng lớn acid lactic gây độc tế bào tức thì ngay giây đầu tiên"
+      ],
+      "correct": 1,
+      "explanation": "Tế bào não phụ thuộc hoàn toàn vào dòng máu tưới liên tục vì không có dự trữ oxy và dự trữ glucose chỉ đủ dùng trong 2 phút. Sau 4 - 5 phút ngừng tuần hoàn không được hồi sức, lượng ATP tế bào não cạn kiệt hoàn toàn, xuất hiện phù não và tổn thương thần kinh không thể hồi phục."
+    },
+    {
+      "id": "im18_q_07",
+      "text": "Tình trạng rối loạn toan kiềm đặc trưng xuất hiện ở bệnh nhân ngừng tuần hoàn là gì?",
+      "options": [
+        "Kiềm chuyển hóa do tăng thông khí",
+        "Kiềm hô hấp kết hợp kiềm chuyển hóa",
+        "Toan hỗn hợp (Toan hô hấp do ứ CO2 kết hợp Toan chuyển hóa do tăng Acid Lactic)",
+        "Chỉ có toan hô hấp đơn thuần, chuyển hóa không bị ảnh hưởng"
+      ],
+      "correct": 2,
+      "explanation": "Bệnh nhân ngừng tuần hoàn bị toan hỗn hợp nặng: Ngừng thở làm ứ trệ khí CO2 gây toan hô hấp cấp; đồng thời thiếu máu tưới mô toàn thân buộc tế bào chuyển sang chuyển hóa yếm khí, phóng thích ồ ạt acid lactic gây toan chuyển hóa."
+    },
+    {
+      "id": "im18_q_08",
+      "text": "Bộ 3 dấu hiệu lâm sàng quyết định để chẩn đoán xác định ngừng tuần hoàn tại chỗ là gì?",
+      "options": [
+        "Mất ý thức đột ngột + Đột ngột ngừng thở hoặc thở ngáp + Mất mạch cảnh và/hoặc mạch bẹn",
+        "Huyết áp tụt kẹt + Khó thở co kéo + Tê bì đầu chi",
+        "Đau ngực dữ dội + Vã mồ hôi + Mạch quay đập yếu",
+        "Đồng tử co nhỏ + Sốt cao + Co giật toàn thân"
+      ],
+      "correct": 0,
+      "explanation": "Chẩn đoán ngừng tuần hoàn hoàn toàn dựa vào lâm sàng: (1) Mất ý thức đột ngột; (2) Ngừng thở hoặc thở ngáp cá; (3) Mất mạch lớn (mạch cảnh hoặc mạch bẹn). Thời gian đánh giá không được quá 10 giây."
+    },
+    {
+      "id": "im18_q_09",
+      "text": "Quy trình hồi sinh tim phổi cơ bản (CPR/BLS) hiện nay tuân thủ theo trình tự các bước nào sau đây?",
+      "options": [
+        "A - B - C (Đường thở -> Thở ngạt -> Ép tim)",
+        "C - A - B (Ép tim -> Kiểm soát đường thở -> Thổi ngạt)",
+        "B - A - C (Thổi ngạt -> Đường thở -> Ép tim)",
+        "D - C - B (Dùng thuốc -> Ép tim -> Thổi ngạt)"
+      ],
+      "correct": 1,
+      "explanation": "Từ năm 2010 đến nay, các hiệp hội hồi sức quốc tế đã chuyển từ trình tự A-B-C sang C-A-B: Bắt đầu ngay bằng Ép tim ngoài lồng ngực (C: Chest compressions) để duy trì dòng máu nuôi tim và não, sau đó mới mở đường thở (A: Airway) và hỗ trợ hô hấp (B: Breathing)."
+    },
+    {
+      "id": "im18_q_10",
+      "text": "Vị trí đặt tay chuẩn xác để ép tim ngoài lồng ngực ở người lớn là ở đâu?",
+      "options": [
+        "1/3 trên xương ức",
+        "1/3 dưới xương ức (nửa dưới xương ức)",
+        "Khoang liên sườn 5 đường trung đòn trái (mỏm tim)",
+        "Mũi ức (mũi kiếm xương ức)"
+      ],
+      "correct": 1,
+      "explanation": "Vị trí ép tim chuẩn ở người lớn là 1/3 dưới xương ức (hoặc nửa dưới xương ức, giữa 2 núm vú). Đặt cườm tay vào vị trí này, tay kia lồng lên trên, ép vuông góc với lồng ngực. Tránh ép vào mũi kiếm xương ức vì dễ gây vỡ gan, gãy sụn sườn."
+    },
+    {
+      "id": "im18_q_11",
+      "text": "Tần số ép tim khuyến cáo chuẩn mực trong hồi sinh tim phổi ở người lớn là bao nhiêu?",
+      "options": [
+        "60 - 80 lần/phút",
+        "80 - 100 lần/phút",
+        "100 - 120 lần/phút",
+        "140 - 160 lần/phút"
+      ],
+      "correct": 2,
+      "explanation": "Tần số ép tim chuẩn là 100 - 120 lần/phút. Nếu ép chậm < 100 lần/phút sẽ không tạo đủ áp lực tưới máu vành; nếu ép quá nhanh > 120 lần/phút tim không có đủ thời gian nở ra để máu đổ về tâm thất."
+    },
+    {
+      "id": "im18_q_12",
+      "text": "Biên độ (độ sâu) ép tim ngoài lồng ngực ở người lớn cần đạt tối thiểu là bao nhiêu?",
+      "options": [
+        "2 - 3 cm",
+        "Tối thiểu 5 cm (khoảng 2 inches) và không quá 6 cm",
+        "Tối thiểu 8 - 10 cm",
+        "1/2 đường kính trước sau lồng ngực"
+      ],
+      "correct": 1,
+      "explanation": "Ở người lớn, độ sâu ép tim phải đạt tối thiểu 5 cm nhưng không quá 6 cm (để tránh tổn thương nặng xương sườn và các cơ quan trong trung thất). Ở trẻ em, độ sâu ép tim tối thiểu là 1/3 đường kính trước sau lồng ngực (khoảng 4cm ở nhũ nhi và 5cm ở trẻ lớn)."
+    },
+    {
+      "id": "im18_q_13",
+      "text": "Tỷ lệ phối hợp giữa Ép tim và Thổi ngạt (hoặc bóp bóng) ở người lớn khi CHƯA đặt ống nội khí quản là bao nhiêu?",
+      "options": [
+        "15 lần ép tim : 2 lần thổi ngạt",
+        "30 lần ép tim : 2 lần thổi ngạt (30:2)",
+        "5 lần ép tim : 1 lần thổi ngạt",
+        "Ép tim liên tục không cần thổi ngạt"
+      ],
+      "correct": 1,
+      "explanation": "Khi chưa có đường thở nâng cao, tỷ lệ chuẩn cho người lớn là 30 lần ép tim xen kẽ 2 lần thổi ngạt/bóp bóng (30:2), áp dụng cho cả trường hợp 1 người hay 2 người cấp cứu."
+    },
+    {
+      "id": "im18_q_14",
+      "text": "Khi bệnh nhân ĐÃ ĐƯỢC ĐẶT ỐNG NỘI KHÍ QUẢN thành công, quy trình ép tim và bóp bóng thay đổi như thế nào?",
+      "options": [
+        "Tiếp tục dừng ép tim để bóp bóng theo chu kỳ 30:2",
+        "Ép tim liên tục 100 - 120 lần/phút không dừng lại ngắt quãng, bóp bóng với tần số 10 lần/phút (cứ mỗi 6 giây bóp 1 lần)",
+        "Chỉ bóp bóng, ngừng hoàn toàn động tác ép tim",
+        "Ép tim 15 lần phối hợp 2 lần bóp bóng"
+      ],
+      "correct": 1,
+      "explanation": "Khi đã đặt đường thở nâng cao (nội khí quản hoặc canule thanh quản), không còn chu kỳ 30:2 nữa. Người ép tim tiến hành ép tim liên tục không ngừng nghỉ (100-120 l/p), người bóp bóng thực hiện bóp 1 lần mỗi 6 giây (10 lần/phút), tránh bóp quá nhanh gây tăng áp lực lồng ngực cản trở máu về tim."
+    },
+    {
+      "id": "im18_q_15",
+      "text": "Tại sao trong cấp cứu ngừng tuần hoàn cần đổi người ép tim mỗi 2 phút một lần?",
+      "options": [
+        "Để người thứ nhất ghi chép hồ sơ bệnh án",
+        "Vì sau 2 phút ép tim liên tục, lực ép và chất lượng ép tim của người cấp cứu sẽ suy giảm đáng kể do mệt mỏi dù bản thân họ có thể không nhận ra",
+        "Để kiểm tra phản xạ đồng tử của bệnh nhân",
+        "Theo quy định hành chính của bệnh viện"
+      ],
+      "correct": 1,
+      "explanation": "Các nghiên cứu chỉ ra rằng sau 1 - 2 phút ép tim liên tục, chất lượng nhát ép (độ sâu, tần số, độ nở lồng ngực) giảm sút rõ rệt do kiệt sức cơ bắp. Đổi người mỗi 2 phút (trong lúc tạm dừng 5 giây kiểm tra nhịp/mạch) giúp duy trì lực ép tối ưu liên tục."
+    },
+    {
+      "id": "im18_q_16",
+      "text": "Hai dạng rối loạn điện tim thuộc nhóm 'CÓ CHỈ ĐỊNH SỐC ĐIỆN' trong cấp cứu ngừng tuần hoàn là gì?",
+      "options": [
+        "Vô tâm thu và Phân ly điện cơ",
+        "Rung thất (VF) và Nhanh thất vô mạch (Pulseless VT)",
+        "Rung nhĩ đáp ứng thất nhanh và Cuồng nhĩ",
+        "Bloc nhĩ thất độ 3 và Nhịp chậm xoang"
+      ],
+      "correct": 1,
+      "explanation": "Trong ngừng tuần hoàn, 4 dạng điện tâm đồ được chia làm 2 nhóm: (1) Nhóm sốc điện được: Rung thất (VF) và Nhanh thất không bắt được mạch (pVT); (2) Nhóm không sốc điện: Vô tâm thu (Asystole) và Phân ly điện cơ (PEA)."
+    },
+    {
+      "id": "im18_q_17",
+      "text": "Mức năng lượng sốc điện ban đầu khuyến cáo đối với máy phá rung hai pha (Biphasic) là bao nhiêu?",
+      "options": [
+        "50 J",
+        "100 J",
+        "120 - 200 J (hoặc mức tối đa của máy, thường là 200 J)",
+        "360 J"
+      ],
+      "correct": 2,
+      "explanation": "Đối với máy sốc điện 2 pha (Biphasic), mức năng lượng khuyến cáo là 120 - 200J (hoặc mức tối đa do nhà sản xuất quy định, thông thường là 200J). Đối với máy 1 pha (Monophasic) thì dùng mức 360J."
+    },
+    {
+      "id": "im18_q_18",
+      "text": "Thuốc vận mạch cơ bản và quan trọng nhất trong phác đồ hồi sinh tim phổi nâng cao (ALS) là gì, liều lượng và cách dùng như thế nào?",
+      "options": [
+        "Dopamin 5 mcg/kg/phút truyền tĩnh mạch chậm",
+        "Adrenalin 1mg tiêm tĩnh mạch (hoặc trong xương) mỗi 3 - 5 phút một lần",
+        "Noradrenalin 2mg tiêm bắp sâu",
+        "Atropin 2mg tiêm dưới da mỗi 10 phút"
+      ],
+      "correct": 1,
+      "explanation": "Adrenalin 1mg tiêm tĩnh mạch (hoặc tiêm trong xương) lặp lại mỗi 3 - 5 phút là thuốc vận mạch nền tảng trong ALS, tác dụng kích thích thụ thể alpha gây co mạch ngoại vi mạnh, nâng cao áp lực tưới máu động mạch vành và động mạch não."
+    },
+    {
+      "id": "im18_q_19",
+      "text": "Khi phát hiện màn hình monitor hiển thị một đường thẳng đẳng điện (nghi ngờ Vô tâm thu - Asystole), hành động kiểm tra bắt buộc trước tiên là gì?",
+      "options": [
+        "Sốc điện ngay lập tức ở mức 360J",
+        "Kiểm tra dây nối điện cực, kiểm tra độ nhạy (gain) và quan sát trên ít nhất 2 chuyển đạo điện tim để loại trừ Rung thất sóng nhỏ (Fine VF)",
+        "Ngừng cấp cứu và tuyên bố bệnh nhân đã tử vong",
+        "Tiêm ngay 3 ống Atropin vào tĩnh mạch trung tâm"
+      ],
+      "correct": 1,
+      "explanation": "Đường đẳng điện có thể do tuột dây điện cực, lỏng cáp hoặc thực chất là Rung thất sóng nhỏ (Fine VF). Phải kiểm tra kết nối và quan sát trên ít nhất 2 chuyển đạo khác nhau. Nếu là rung thất sóng nhỏ, việc sốc điện kịp thời có thể cứu sống người bệnh."
+    },
+    {
+      "id": "im18_q_20",
+      "text": "Trong cấp cứu ngừng tuần hoàn, chỉ định tiêm Magnesi sulfat (MgSO4) được đưa ra khi nào?",
+      "options": [
+        "Bệnh nhân có tăng kali máu cấp",
+        "Rung thất có kèm theo hoặc do rối loạn nhịp dạng Xoắn đỉnh (Torsades de pointes)",
+        "Bệnh nhân bị phù phổi cấp huyết động",
+        "Mọi trường hợp ngừng tuần hoàn không phân biệt nguyên nhân"
+      ],
+      "correct": 1,
+      "explanation": "Magnesi sulfat (liều 1 - 2g tiêm tĩnh mạch trong 1-2 phút) được chỉ định đặc hiệu trong ngừng tuần hoàn khi nhịp tim là Xoắn đỉnh (Torsades de pointes) hoặc nghi ngờ hạ magnesi máu nặng."
+    },
+    {
+      "id": "im18_q_21",
+      "text": "Thời gian dừng ép tim tối đa cho phép khi thực hiện các thủ thuật như đặt ống nội khí quản hoặc kiểm tra nhịp là bao lâu?",
+      "options": [
+        "Không quá 5 - 10 giây (tối đa không được vượt quá 30 giây khi làm thủ thuật phức tạp)",
+        "Có thể dừng bao lâu tùy thích miễn là đặt xong ống nội khí quản",
+        "Khoảng 1 - 2 phút",
+        "Khoảng 3 phút"
+      ],
+      "correct": 0,
+      "explanation": "Nguyên tắc cốt lõi của CPR chất lượng cao là hạn chế tối đa thời gian gián đoạn ép tim. Kiểm tra mạch/nhịp không quá 5-10 giây. Khi thực hiện thủ thuật đặt nội khí quản, người thao tác phải chuẩn bị sẵn sàng và chỉ được tạm ngưng ép tim dưới 10-20 giây, tuyệt đối không gián đoạn quá 30 giây."
+    },
+    {
+      "id": "im18_q_22",
+      "text": "Khi nào bác sĩ trưởng kíp cấp cứu có thể xem xét ngừng các biện pháp hồi sinh tim phổi ở bệnh nhân không hồi phục?",
+      "options": [
+        "Sau 5 phút ép tim mà tim chưa đập lại",
+        "Sau 30 - 60 phút (hoặc lâu hơn tùy nguyên nhân, như hạ thân nhiệt cần hồi sức đến khi làm ấm cơ thể) cấp cứu tích cực đúng quy cách mà tim hoàn toàn không đập lại",
+        "Ngay khi bệnh nhân mất phản xạ đồng tử",
+        "Sau khi đã dùng hết 1 ống Adrenalin duy nhất"
+      ],
+      "correct": 1,
+      "explanation": "Có thể xem xét ngừng cấp cứu sau 30 - 60 phút cấp cứu tích cực, đúng quy trình mà không có bất kỳ dấu hiệu hồi phục tuần hoàn nào. Một số trường hợp đặc biệt cần kéo dài hơn: ngộ độc thuốc, hạ thân nhiệt sâu (phải làm ấm đến >32-35°C mới được công bố tử vong: 'nạn nhân chưa chết cho đến khi được làm ấm và chết')."
+    },
+    {
+      "id": "im18_q_23",
+      "text": "Chỉ định dùng Natri hydrocarbonat (NaHCO3) trong cấp cứu ngừng tuần hoàn hiện nay được khuyến cáo như thế nào?",
+      "options": [
+        "Truyền thường quy ngay từ phút đầu tiên cho mọi bệnh nhân",
+        "Không khuyến cáo sử dụng thường quy; chỉ cân nhắc khi ngừng tuần hoàn kéo dài (>15 phút), toan chuyển hóa nặng đã biết từ trước, tăng kali máu nặng hoặc ngộ độc thuốc chống trầm cảm 3 vòng",
+        "Chống chỉ định tuyệt đối trong mọi tình huống",
+        "Chỉ dùng qua đường tiêm bắp sâu"
+      ],
+      "correct": 1,
+      "explanation": "NaHCO3 không còn được dùng thường quy vì có thể gây toan nội bào nghịch đảo do tạo ra khí CO2 khuếch tán nhanh qua màng tế bào. Chỉ cân nhắc dùng trong: toan chuyển hóa nặng từ trước, tăng kali máu nguy kịch, ngộ độc thuốc chống trầm cảm 3 vòng (TCA), hoặc sau cấp cứu kéo dài >15 phút."
+    },
+    {
+      "id": "im18_q_24",
+      "text": "Xử trí nhịp chậm hoặc Bloc nhĩ thất độ 3 gây ngừng tuần hoàn/trụy mạch trong khi chờ đợi đặt máy tạo nhịp tim bao gồm các thuốc nào?",
+      "options": [
+        "Atropin 0.5 - 1mg tiêm tĩnh mạch, Dopamin truyền tĩnh mạch hoặc Adrenalin truyền tĩnh mạch",
+        "Furosemid và Morphine tiêm tĩnh mạch",
+        "Amiodarone và Digoxin tiêm tĩnh mạch",
+        "Verapamil và Propranolol tiêm tĩnh mạch"
+      ],
+      "correct": 0,
+      "explanation": "Trong nhịp chậm có tụt huyết áp hoặc bloc nhĩ thất độ 3, các biện pháp nội khoa chờ máy tạo nhịp là: Atropin 0.5 - 1mg tiêm tĩnh mạch (lặp lại đến tối đa 3mg), hoặc truyền tĩnh mạch liên tục các thuốc vận mạch tăng nhịp tim như Dopamin (2-20 mcg/kg/p) hoặc Adrenalin (2-10 mcg/phút)."
+    },
+    {
+      "id": "im18_q_25",
+      "text": "Dấu hiệu nào sau đây là triệu chứng MUỘN của ngừng tuần hoàn?",
+      "options": [
+        "Đột ngột mất ý thức",
+        "Mất mạch cảnh",
+        "Đồng tử giãn to, cố định, mất phản xạ ánh sáng",
+        "Ngừng thở đột ngột"
+      ],
+      "correct": 2,
+      "explanation": "Mất ý thức, ngừng thở và mất mạch cảnh xuất hiện ngay tức thì trong vài giây đầu tiên. Dấu hiệu đồng tử giãn to, cố định hai bên và mất hoàn toàn phản xạ với ánh sáng là biểu hiện thiếu máu não nặng nề xuất hiện muộn hơn (thường sau 1 - 2 phút ngừng tuần hoàn hoàn toàn)."
+    }
+  ]
+}

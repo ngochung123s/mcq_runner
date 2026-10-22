@@ -1,0 +1,482 @@
+=== IM-12: Phù Phổi Cấp Huyết Động Toàn Diện (60 Câu Chuyên Sâu) ===
+
+Câu 1: Về mặt sinh lý bệnh học, ba nhóm cơ chế chính dẫn đến Phù phổi cấp huyết động (Cardiogenic Pulmonary Edema) bao gồm những gì?
+A. Tăng tính thấm màng phế nang mao mạch, giảm áp lực keo huyết tương và tắc mạch bạch huyết
+B. (1) Tăng áp lực mao mạch phổi không do suy tim trái (hẹp van hai lá); (2) Tăng áp lực mao mạch phổi do suy tim trái (tăng huyết áp, nhồi máu cơ tim, suy vành, suy tim trái mạn mất bù); (3) Tăng thể tích tuần hoàn cấp tính (suy thận cấp, suy thận mạn ứ nước, truyền quá nhiều dịch)
+C. Nhiễm khuẩn huyết Gram âm, viêm tụy cấp hoại tử và hít sặc dịch vị
+D. Tắc nghẽn đường dẫn khí lớn, co thắt phế quản và xẹp phổi
+Đáp án: B
+Giải thích: Theo giáo trình Bài 12: Phù phổi cấp huyết động xảy ra do 3 nhóm nguyên nhân chính: (1) Tăng áp lực mao mạch phổi không do suy tim trái (hẹp hai lá cản trở tống máu từ nhĩ trái xuống thất trái gây ứ máu ngược dòng lên tĩnh mạch phổi); (2) Tăng áp lực mao mạch phổi do suy tim trái (tăng huyết áp, NMCT, suy tim trái); (3) Tăng thể tích tuần hoàn cấp tính (suy thận cấp, mạn, truyền dịch quá nhiều làm quá tải thể tích).
+
+Câu 2: Theo phương trình Starling về sự trao đổi dịch qua màng mao mạch phổi, hiện tượng phù phế nang trong Phù phổi cấp huyết động bùng phát khi áp lực thủy tĩnh mao mạch phổi (áp lực mao mạch phổi bít - PCWP) vượt quá ngưỡng nào?
+A. Vượt quá 10 mmHg
+B. Vượt quá áp lực keo của huyết tương (bình thường khoảng 25 mmHg, ngưỡng bắt đầu thoát dịch mô kẽ là > 18 mmHg và tràn ngập phế nang khi > 25 – 30 mmHg)
+C. Vượt quá áp lực động mạch chủ tâm trương (80 mmHg)
+D. Vượt quá 50 mmHg
+Đáp án: B
+Giải thích: Phương trình Starling: Dòng dịch thoát mạch Q = Kf * [(P_c - P_if) - sigma * (pi_c - pi_if)]. Ở phổi bình thường, áp lực thủy tĩnh mao mạch P_c (PCWP) khoảng 8 - 12 mmHg, thấp hơn nhiều so với áp lực keo huyết tương pi_c (khoảng 25 - 28 mmHg) do Albumin tạo ra. Khi PCWP tăng vượt quá 18 mmHg, dịch bắt đầu thoát vào mô kẽ (phù kẽ). Khi PCWP vượt quá 25 mmHg (vượt áp lực keo), khả năng dẫn lưu của hệ bạch huyết bị quá tải hoàn toàn, dịch tràn ngập vào lòng phế nang gây phù phổi cấp.
+
+Câu 3: Tại sao trong bệnh lý Hẹp van hai lá khít, phù phổi cấp huyết động có thể xảy ra dữ dội mặc dù chức năng co bóp của tâm thất trái hoàn toàn bình thường?
+A. Vì thất trái bị phì đại đồng tâm
+B. Lỗ van hai lá bị hẹp khít cản trở dòng máu từ tâm nhĩ trái đổ xuống tâm thất trái trong thì tâm trương, gây ứ trệ máu và tăng vọt áp lực nhĩ trái; áp lực này truyền thẳng ngược dòng lên hệ thống tĩnh mạch phổi và mao mạch phổi dù thất trái không hề bị suy
+C. Do van hai lá tiết ra chất gây co mạch phổi
+D. Do tâm thất phải bị suy cấp tính
+Đáp án: B
+Giải thích: Đây là nhóm 'Tăng áp lực mao mạch phổi KHÔNG DO SUY TIM TRÁI': Thất trái hoàn toàn khỏe mạnh (thậm chí kích thước thất trái còn nhỏ do thiếu máu đổ về). Tuy nhiên lỗ van 2 lá bị hẹp (diện tích < 1.0 - 1.5 cm2) tạo ra một 'con đập' ngăn dòng máu -> áp lực nhĩ trái tăng vọt lên 25 - 35 mmHg -> truyền trực tiếp ngược chiều về tĩnh mạch phổi và mao mạch phổi gây phù phổi cấp.
+
+Câu 4: Nguyên nhân gây Phù phổi cấp huyết động do 'Ứ dịch cấp tính' được nêu trong bài giảng gồm các tình huống bệnh lý nào?
+A. Mất nước do tiêu chảy cấp
+B. Truyền quá nhiều dịch truyền tĩnh mạch (quá tải thể tích do thầy thuốc), suy thận cấp vô niệu, hoặc đợt mất bù của suy thận mạn tính
+C. Đái tháo nhạt do tổn thương tuyến yên
+D. Bỏng diện rộng thoát huyết tương
+Đáp án: B
+Giải thích: Nhóm tăng thể tích tuần hoàn cấp tính: Thận không thể đào thải nước (suy thận cấp vô niệu, suy thận mạn giai đoạn cuối) hoặc truyền dịch tinh thể/dịch keo quá nhanh với thể tích lớn ở người già/suy tim tiềm tàng làm thể tích nội mạch tăng vọt vượt quá khả năng dung nạp của tuần hoàn.
+
+Câu 5: Các nguyên nhân khác ít gặp hơn có thể dẫn đến Phù phổi cấp huyết động được liệt kê trong giáo trình gồm những gì?
+A. Gãy xương đùi và chấn thương cột sống
+B. Xơ gan mất bù, nhồi máu phổi, sau hút tháo dịch hoặc khí màng phổi quá nhanh với thể tích lớn
+C. Viêm loét dạ dày tá tràng
+D. Đái tháo đường type 2
+Đáp án: B
+Giải thích: Giáo trình trang 155 liệt kê các nguyên nhân khác: Xơ gan (giảm áp lực keo do giảm albumin kết hợp tăng thể tích huyết tương), nhồi máu phổi, sau hút khí hoặc hút dịch màng phổi quá nhanh tạo áp lực âm kéo dịch vào phế nang (phù phổi do tái giãn nở - Re-expansion pulmonary edema).
+
+Câu 6: Cơn phù phổi cấp huyết động điển hình thường xuất hiện đột ngột vào thời điểm nào trong ngày và tại sao?
+A. Xuất hiện vào buổi trưa sau khi lao động nặng
+B. Xuất hiện đột ngột vào nửa đêm hoặc gần sáng khi bệnh nhân đang nằm ngủ; do tư thế nằm làm tăng lượng máu tĩnh mạch hồi lưu từ hai chi dưới và tạng về tim làm tăng đột ngột tiền gánh thất trái
+C. Xuất hiện vào buổi chiều khi đói bụng
+D. Xuất hiện sau khi tắm nước nóng
+Đáp án: B
+Giải thích: Cơn phù phổi cấp kinh điển xảy ra lúc nửa đêm khi nằm ngủ (cơn khó thở kịch phát về đêm - PND): Tư thế nằm làm lượng máu hồi lưu tĩnh mạch dồn về tim tăng khoảng 500 - 800 ml, làm tăng đột ngột thể tích và áp lực cuối tâm trương thất trái -> vượt ngưỡng chịu đựng của tim suy gây bùng phát phù phổi.
+
+Câu 7: Tư thế bắt buộc của bệnh nhân khi đang lên Cơn Phù phổi cấp huyết động là gì?
+A. Nằm ngửa đầu thấp chân kê cao
+B. Phải ngồi dậy để thở (tư thế Orthopnea), hai chân thõng xuống dưới giường hoặc ôm lấy thành giường
+C. Nằm nghiêng sang bên phải
+D. Nằm sấp áp ngực xuống giường
+Đáp án: B
+Giải thích: Bệnh nhân phù phổi cấp không thể nằm ngửa được dù chỉ vài giây (Orthopnea). Bệnh nhân bắt buộc phải ngồi bật dậy, co kéo cơ hô hấp để thở. Ngồi dậy giúp trọng lực kéo máu dồn xuống chi dưới làm giảm bớt máu đổ về tim và giúp cơ hoành hạ thấp mở rộng lồng ngực.
+
+Câu 8: Đặc điểm của đờm khạc ra trong cơn Phù phổi cấp huyết động điển hình là gì?
+A. Đờm nhầy mủ màu xanh đặc quánh
+B. Đờm bọt màu hồng (hoặc bọt trắng lẫn sợi máu hồng), trào ra liên tục qua miệng và mũi khi cơn nặng
+C. Đờm màu rỉ sắt
+D. Đờm có mùi thối khẳn của vi khuẩn kỵ khí
+Đáp án: B
+Giải thích: Đờm bọt hồng (Pink frothy sputum) là dấu hiệu kinh điển: Thanh dịch tràn ngập phế nang bị luồng khí thở ra đánh tung tạo thành bọt; áp lực mao mạch tăng quá cao làm vỡ các mao mạch nhỏ khiến hồng cầu thoát vào phế nang nhuộm bọt thành màu hồng.
+
+Câu 9: Dấu hiệu nghe phổi đặc trưng nhất của Phù phổi cấp huyết động được mô tả như thế nào?
+A. Tiếng cọ màng phổi ở hai đáy
+B. Ran ẩm nhỏ hạt và vừa hạt xuất hiện đầu tiên ở hai đáy phổi, sau đó lan nhanh dâng dần lên trên như nước triều dâng lên đến tận đỉnh phổi
+C. Ran rít ran ngáy rải rác không có ran ẩm
+D. Tiếng thở rít thanh quản thì hít vào
+Đáp án: B
+Giải thích: Hiện tượng 'ran ẩm dâng như nước triều dâng' (Tidal rales): Dịch phù tích tụ từ vùng thấp (2 đáy phổi) do trọng lực, sau đó khi dịch tiếp tục tràn ra mao mạch, nó ngập dần lên các phân thùy giữa và đỉnh phổi theo từng phút.
+
+Câu 10: Dấu hiệu thăm khám tim mạch thường gặp trong cơn Phù phổi cấp huyết động gồm những gì?
+A. Nhịp tim chậm dưới 40 lần/phút
+B. Nhịp tim nhanh (100 – 140 lần/phút), có thể nghe thấy tiếng nhịp ngựa phi trái (tiếng T3 gallop), tĩnh mạch cổ nổi to
+C. Tiếng tim mờ xa xăm kèm mạch nghịch
+D. Huyết áp tụt kẹt ngay từ phút đầu tiên ở mọi bệnh nhân
+Đáp án: B
+Giải thích: Nhịp tim thường rất nhanh (100 - 140 l/p) do phản xạ giao cảm. Tiếng T3 ngựa phi trái xuất hiện do dòng máu dội mạnh vào thất trái bị giãn và suy giảm độ giãn nở. Tĩnh mạch cổ nổi to phản ánh ứ trệ tuần hoàn tĩnh mạch hệ thống.
+
+Câu 11: Biến đổi huyết áp động mạch diễn tiến qua 2 giai đoạn trong Phù phổi cấp huyết động như thế nào?
+A. Giai đoạn đầu huyết áp tụt, giai đoạn sau huyết áp tăng cao
+B. Giai đoạn đầu huyết áp thường tăng cao (do phản xạ cường giao cảm phản ứng với thiếu oxy và lo âu); giai đoạn muộn kéo dài hoặc suy tim nặng thì huyết áp tụt dốc, trụy mạch báo hiệu Sốc tim (Cardiogenic shock)
+C. Huyết áp luôn cố định 120/80 mmHg
+D. Huyết áp tâm trương tụt về 0 mmHg
+Đáp án: B
+Giải thích: Ban đầu thiếu oxy và sợ hãi kích thích tủy thượng thận phóng thích catecholamin gây co mạch ngoại biên làm huyết áp tăng vọt (thường HATT > 140 - 180 mmHg). Khi tim suy kiệt không tống máu nổi hoặc nhồi máu diện rộng, cung lượng tim sụp đổ làm huyết áp tụt dốc (HATT < 85 - 90 mmHg) chuyển sang thể sốc tim nguy kịch.
+
+Câu 12: Dấu hiệu X-quang tim phổi thẳng kinh điển của Phù phổi cấp huyết động là gì?
+A. Hình ảnh phổi sáng tăng sáng toàn bộ kèm vòm hoành phẳng
+B. Hình ảnh mờ lan tỏa 2 bên phổi, lan từ rốn phổi ra hai bên phế trường tạo thành hình cánh bướm (Bat-wing appearance) kèm bóng tim to (chỉ số tim-ngực > 50%)
+C. Hình ảnh mờ tròn đơn độc ở ngoại vi
+D. Hình ảnh mức nước - mức hơi trong hang lao
+Đáp án: B
+Giải thích: Hình ảnh mờ cánh bướm (Bat-wing/Butterfly): Đám mờ phế nang đối xứng tập trung đậm ở vùng trung tâm quanh rốn phổi hai bên, vùng ngoại vi sát màng phổi tương đối sáng. Chỉ số tim ngực > 50% khẳng định bóng tim to do bệnh lý tim mạch nền.
+
+Câu 13: Biến đổi Khí máu động mạch (ABG) giai đoạn đầu của Phù phổi cấp huyết động thường là gì?
+A. PaO2 tăng cao, PaCO2 tăng cao
+B. PaO2 giảm (thiếu oxy máu), PaCO2 bình thường hoặc giảm (do bệnh nhân thở nhanh tăng thông khí đào thải CO2)
+C. Toan chuyển hóa tăng Anion Gap cực nặng
+D. Khí máu hoàn toàn bình thường
+Đáp án: B
+Giải thích: Giai đoạn đầu: Dịch cản trở khuếch tán oxy làm PaO2 giảm. Tuy nhiên CO2 khuếch tán nhanh gấp 20 lần oxy cộng với việc bệnh nhân thở nhanh co kéo (> 30 l/p) làm tăng đào thải CO2 -> PaCO2 bình thường hoặc giảm nhẹ (kiềm hô hấp bù trừ). Chỉ khi kiệt cơ hô hấp ở giai đoạn muộn thì PaCO2 mới tăng vọt gây toan hô hấp cấp.
+
+Câu 14: Các thông số thăm dò huyết động qua Catheter tĩnh mạch trung tâm và Catheter động mạch phổi trong Phù phổi cấp huyết động thay đổi như thế nào?
+A. CVP giảm, PCWP giảm, CO tăng
+B. Áp lực tĩnh mạch trung tâm (CVP) tăng cao; Áp lực mao mạch phổi bít (PCWP) tăng cao (> 18 mmHg); Cung lượng tim (CO) giảm
+C. CVP bình thường, PCWP bình thường <= 18 mmHg, CO bình thường
+D. Áp lực động mạch phổi bít bằng 0
+Đáp án: B
+Giải thích: Theo giáo trình trang 156: CVP tăng phản ánh ứ máu tim phải; PCWP tăng (> 18 mmHg) phản ánh ứ máu nhĩ trái và mao mạch phổi; Cung lượng tim CO giảm phản ánh suy chức năng bơm tống máu của thất trái.
+
+Câu 15: Các xét nghiệm sinh hóa cận lâm sàng giúp định hướng nguyên nhân gây phù phổi cấp gồm những gì?
+A. Xét nghiệm công thức máu và tốc độ máu lắng
+B. Ure, Creatinin tăng trong suy thận cấp/mạn; CK-MB, Troponin I/T tăng trong nhồi máu cơ tim cấp; Bilirubin, men gan tăng, tỷ lệ Prothrombin (PT) giảm trong xơ gan
+C. Xét nghiệm nồng độ Calci máu và Phosphat
+D. Xét nghiệm acid uric máu đơn thuần
+Đáp án: B
+Giải thích: Theo giáo trình trang 156: Định lượng men tim (Troponin, CK-MB) tầm soát hội chứng vành cấp; chức năng thận (Ure, Creatinin) đánh giá suy thận ứ dịch; chức năng gan (Bilirubin, PT, AST/ALT) đánh giá xơ gan giảm áp lực keo.
+
+Câu 16: Cơ chế bệnh sinh cốt lõi của Phù phổi cấp tổn thương (ARDS) khác biệt hoàn toàn với Phù phổi cấp huyết động ở điểm nào?
+A. Do tăng thể tích máu trong lòng mạch
+B. Do tổn thương trực tiếp hoặc gián tiếp màng phế nang mao mạch làm TĂNG TÍNH THẤM màng phế nang mao mạch (dịch rỉ viêm giàu protein), trong khi áp lực mao mạch phổi bít hoàn toàn bình thường (PCWP <= 18 mmHg)
+C. Do suy giảm chức năng co bóp thất trái
+D. Do tắc nghẽn cơ học van hai lá
+Đáp án: B
+Giải thích: Phù phổi cấp tổn thương (ARDS) là phù phổi KHÔNG DO TIM: Màng phế nang mao mạch bị phá hủy viêm nhiễm làm tăng tính thấm thành mạch -> dịch rỉ viêm giàu protein và hồng cầu tràn vào phế nang dù áp lực thủy tĩnh mao mạch phổi hoàn toàn bình thường (PCWP <= 18 mmHg).
+
+Câu 17: Các nguyên nhân thường gặp gây Phù phổi cấp tổn thương (ARDS) được nêu trong giáo trình gồm những gì?
+A. Hẹp van hai lá và tăng huyết áp
+B. Viêm phổi nặng do vi khuẩn, virus; Bệnh phổi do sặc (dịch vị, thức ăn, dầu); Ngạt nước (đuối nước); Hít phải khí độc, thở oxy nồng độ cao kéo dài; Đa chấn thương đụng dập phổi; Sốc nhiễm khuẩn, nhiễm khuẩn huyết
+C. Bệnh cơ tim giãn vô căn
+D. Truyền dịch muối đẳng trương
+Đáp án: B
+Giải thích: Giáo trình trang 156 liệt kê nguyên nhân ARDS: Viêm phổi nặng vi khuẩn/virus, hít sặc dịch vị dạ dày (hội chứng Mendelson), ngạt nước, hít khí độc, thở oxy liều cao kéo dài, chấn thương dập phổi, sốc nhiễm khuẩn.
+
+Câu 18: Đặc điểm lâm sàng và đáp ứng oxy liệu pháp giúp phân biệt Phù phổi cấp tổn thương (ARDS) với Phù phổi cấp huyết động là gì?
+A. ARDS xuất hiện đột ngột và khỏi ngay sau 1 giờ
+B. ARDS tiến triển từ từ, thường nặng từ ngày thứ 3 của bệnh; tình trạng suy hô hấp KHÔNG CẢI THIỆN VỚI THỞ OXY 100% (trơ với oxy do shunt nội phổi lớn); không có dấu hiệu suy tim trái
+C. ARDS đáp ứng rất nhanh với thuốc lợi tiểu Lasix
+D. ARDS luôn có tiếng tim T3 ngựa phi
+Đáp án: B
+Giải thích: Theo giáo trình trang 156: ARDS diễn tiến bán cấp (thường nặng từ ngày thứ 3 sau biến cố nguy cơ), đặc trưng sống còn là KHÔNG CẢI THIỆN KHI THỞ OXY 100% (do các phế nang bị đông đặc lấp đầy mủ/fibrin tạo dòng shunt phải-trái tuyệt đối). Khám tim mạch hoàn toàn không có dấu hiệu suy tim trái.
+
+Câu 19: Chỉ số oxy hóa máu PaO2/FiO2 và thông số huyết động đặc trưng của Phù phổi cấp tổn thương (ARDS) theo giáo trình là gì?
+A. PaO2/FiO2 > 400, PCWP > 25 mmHg
+B. PaO2/FiO2 < 200 (hoặc <= 300); Huyết động: CVP bình thường, PCWP bình thường (PCWP <= 18 mmHg)
+C. PaO2/FiO2 = 500, CVP tăng cao
+D. PCWP luôn luôn > 18 mmHg
+Đáp án: B
+Giải thích: Theo giáo trình trang 156: ARDS có chỉ số PaO2/FiO2 < 200; CVP bình thường; PCWP bình thường (<= 18 mmHg). Đây là ranh giới phân định dứt khoát với phù phổi huyết động (PCWP > 18 mmHg).
+
+Câu 20: Hình ảnh X-quang phổi của Phù phổi cấp tổn thương (ARDS) khác với Phù phổi cấp huyết động như thế nào?
+A. ARDS có hình mờ cánh bướm quanh rốn phổi thoái lui nhanh
+B. ARDS có hình ảnh mờ khoảng kẽ và phế nang lan tỏa hai bên phổi, tổn thương dạng mảng rải rác ngoại vi, không tập trung đối xứng rốn phổi và không thoái lui nhanh sau dùng lợi tiểu
+C. ARDS phổi hoàn toàn sáng bình thường
+D. ARDS luôn có tràn dịch màng ngoài tim lượng lớn
+Đáp án: B
+Giải thích: X-quang trong ARDS: Đám mờ phế nang và mô kẽ lan tỏa không đồng đều, ưu thế ở ngoại vi và các vùng phụ thuộc trọng lực, không có hình ảnh mờ cánh bướm kinh điển của ứ huyết tĩnh mạch phổi, bóng tim kích thước bình thường.
+
+Câu 21: Đặc điểm lâm sàng và nghe phổi giúp phân biệt Cơn hen phế quản cấp với Phù phổi cấp huyết động là gì?
+A. Hen phế quản luôn khạc ra đờm bọt hồng
+B. Hen phế quản có tiền sử hen; nghe phổi có ran rít, ran ngáy lan tỏa khắp hai phế trường (rất ít hoặc không có ran ẩm); X-quang phổi tăng sáng và khoang liên sườn giãn rộng; đáp ứng tốt với thuốc giãn phế quản
+C. Hen phế quản luôn có tiếng T3 ngựa phi
+D. Hen phế quản luôn có PCWP > 18 mmHg
+Đáp án: B
+Giải thích: Theo giáo trình trang 156: Cơn hen phế quản cấp: tiền sử hen, nghe phổi đầy ran rít ran ngáy (co thắt phế quản), không có ran ẩm dâng triều; X-quang lồng ngực ứ khí tăng sáng; đáp ứng nhanh với thuốc giãn phế quản (Salbutamol).
+
+Câu 22: Thể 'Hen tim' (Cardiac Asthma) trong phù phổi cấp huyết động là gì và tại sao dễ gây nhầm lẫn với Cơn hen phế quản?
+A. Là bệnh nhân vừa bị hen vừa bị nhồi máu cơ tim
+B. Là hiện tượng ứ huyết tĩnh mạch phổi cấp tính gây phù nề niêm mạc phế quản và co thắt phản xạ cơ trơn phế quản, làm xuất hiện nhiều ran rít, ran ngáy giống hệt cơn hen phế quản
+C. Là bệnh hen do dị ứng với thuốc tim mạch
+D. Là tình trạng co thắt mạch vành khi thở nhanh
+Đáp án: B
+Giải thích: 'Hen tim' (Cardiac Asthma): Dịch phù thoát vào mô liên kết quanh các tiểu phế quản làm dày thành phế quản, kết hợp phản xạ phế vị gây co thắt cơ trơn phế quản -> nghe phổi có tiếng khò khè, ran rít, ran ngáy che lấp ran ẩm. Bác sĩ thiếu kinh nghiệm dễ nhầm với hen phế quản mà bỏ quên điều trị suy tim!
+
+Câu 23: Đặc điểm phân biệt Đợt cấp viêm phế quản mạn / COPD với Phù phổi cấp huyết động theo giáo trình là gì?
+A. Viêm phế quản mạn xuất hiện đột ngột trong 5 phút
+B. Tiền sử bệnh phổi mạn tính ho khạc đờm nhiều năm, hút thuốc lá/lào nhiều; khám có dấu hiệu suy tim phải (tâm phế mạn: phù chân, gan to, tĩnh mạch cổ nổi) nhưng không có tiếng ngựa phi thất trái
+C. Viêm phế quản mạn luôn có ran ẩm dâng triều
+D. Viêm phế quản mạn có chỉ số tim ngực > 70%
+Đáp án: B
+Giải thích: Theo giáo trình trang 157: Viêm phế quản mạn/COPD: tiền sử bệnh phổi lâu năm, ho khạc đờm kéo dài, biểu hiện suy tim phải (tâm phế mạn) ứ trệ ngoại biên chứ không có suy thất trái cấp tính.
+
+Câu 24: Dấu hiệu lâm sàng đặc trưng giúp chẩn đoán Dị vật đường thở bít tắc thanh khí quản phân biệt với Phù phổi cấp là gì?
+A. Khó thở ra chậm, khạc đờm bọt hồng
+B. Bệnh sử có hội chứng xâm nhập rõ rệt (sặc thức ăn, hóc dị vật khi đang ăn), khó thở thì hít vào, thở co kéo hõm ức dữ dội, có tiếng rít thanh quản (Stridor)
+C. Nghe phổi có ran ẩm dâng triều
+D. Bóng tim to trên X-quang
+Đáp án: B
+Giải thích: Theo giáo trình trang 157: Dị vật đường thở có Hội chứng xâm nhập kinh điển (đột ngột ho sặc sụa, tím tái khi đang ăn/ngậm đồ chơi), khó thở thì hít vào kèm tiếng rít thanh quản (Stridor), không có ran ẩm và không có đờm bọt hồng.
+
+Câu 25: Biến chứng Phù phổi cấp do tái giãn nở phổi (Re-expansion Pulmonary Edema) thường xảy ra trong tình huống can thiệp nào?
+A. Sau khi tiêm bắp kháng sinh
+B. Sau khi hút tháo dịch hoặc khí màng phổi quá nhanh với thể tích quá lớn (> 1.000 – 1.500 ml một lần) ở một lá phổi đã bị xẹp co rúm kéo dài
+C. Sau khi làm điện tâm đồ
+D. Sau khi thở oxy qua gọng kính
+Đáp án: B
+Giải thích: Theo giáo trình trang 155: Hút dịch hoặc khí màng phổi quá nhanh với thể tích lớn (> 1.0 - 1.5 lít) làm phổi giãn nở đột ngột, áp lực âm trong phế nang tăng vọt kéo dịch ồ ạt từ mao mạch vào phế nang bên tổn thương gây phù phổi cấp.
+
+Câu 26: Bốn nguyên tắc điều trị cấp cứu cốt lõi của Phù phổi cấp huyết động theo giáo trình là gì?
+A. Truyền dịch thể tích lớn, tiêm kháng sinh, hạ sốt và giảm đau
+B. (1) Đảm bảo thông khí cho bệnh nhân; (2) Giảm tiền gánh và hậu gánh; (3) Tăng cường co bóp cơ tim; (4) Điều trị theo nguyên nhân gây phù phổi cấp
+C. Mổ cấp cứu thay van tim ngay trong giờ đầu
+D. Cho bệnh nhân uống nhiều nước ấm
+Đáp án: B
+Giải thích: Theo giáo trình trang 157 (Mục 4.1 Nguyên tắc điều trị): (1) Đảm bảo thông khí; (2) Giảm tiền gánh và hậu gánh; (3) Tăng cường co bóp cơ tim; (4) Điều trị theo nguyên nhân.
+
+Câu 27: Mục tiêu độ bão hòa oxy máu (SaO2 / SpO2) cần đạt khi cho thở oxy trong cấp cứu Phù phổi cấp là bao nhiêu?
+A. SaO2 > 80%
+B. SaO2 > 90% (duy trì 90% – 95%)
+C. Bắt buộc phải đạt 100% tuyệt đối
+D. SaO2 từ 70% – 80%
+Đáp án: B
+Giải thích: Theo giáo trình trang 157 (Mục 4.2.2): Mục tiêu đảm bảo chức năng hô hấp là duy trì SaO2 > 90%.
+
+Câu 28: Hai tác dụng có lợi trên tuần hoàn của Thở máy không xâm nhập áp lực dương (CPAP hoặc BiPAP) trong Phù phổi cấp là gì?
+A. Làm tăng huyết áp và tăng nhịp tim
+B. Áp lực dương lồng ngực làm cản trở máu hồi lưu về tim (giảm tiền gánh) và làm giảm chênh áp xuyên thành thất trái (giảm hậu gánh)
+C. Làm tăng sức cản mạch máu phổi
+D. Làm tăng thể tích thất trái cuối tâm trương
+Đáp án: B
+Giải thích: Theo giáo trình trang 157: Ngoài tác dụng tăng trao đổi oxy tại phế nang, thở máy CPAP/BiPAP tạo áp lực dương trong khoang màng phổi giúp cản trở máu tĩnh mạch đổ về tim phải (giảm tiền gánh) và làm giảm áp lực xuyên thành của tâm thất trái (giảm hậu gánh), giúp tim suy tống máu dễ dàng hơn.
+
+Câu 29: Thuốc giãn phế quản nào được giáo trình khuyến cáo truyền tĩnh mạch khi phù phổi cấp có biểu hiện co thắt phế quản phối hợp (hen tim)?
+A. Adrenaline tiêm bắp
+B. Aminophylin truyền tĩnh mạch
+C. Atropine tiêm tĩnh mạch
+D. Morphine liều cao
+Đáp án: B
+Giải thích: Theo giáo trình trang 157: 'Nếu có dấu hiệu co thắt phế quản, có thể dùng thuốc giãn phế quản như aminophylin truyền tĩnh mạch'.
+
+Câu 30: Thuốc giãn mạch Nitroglycerin trong cấp cứu Phù phổi cấp có tác dụng huyết động như thế nào?
+A. Gây co thắt mạch máu toàn thân
+B. Tác dụng nhanh, tác dụng giãn tĩnh mạch (giảm tiền gánh), giãn nhẹ động mạch (giảm hậu gánh), và giãn mạch vành
+C. Làm tăng nhịp tim và tăng huyết áp
+D. Ức chế men chuyển tại thận
+Đáp án: B
+Giải thích: Theo giáo trình trang 157: Nitroglycerin có tác dụng nhanh, gây giãn hệ tĩnh mạch (chủ yếu), giãn nhẹ động mạch và giãn động mạch vành giúp cải thiện nuôi dưỡng cơ tim.
+
+Câu 31: Liều dùng và đường dùng của Nitroglycerin được hướng dẫn trong giáo trình gồm những cách nào?
+A. Chỉ dùng đường uống viên nén 100 mg
+B. Ngậm dưới lưỡi 0,3 – 0,4 mg mỗi 10 – 15 phút, hoặc dạng xịt dưới lưỡi; trường hợp nặng truyền tĩnh mạch liều 5 – 20 µg/phút (có thể tăng liều cao hơn)
+C. Tiêm bắp sâu 50 mg
+D. Khí dung qua máy thở
+Đáp án: B
+Giải thích: Theo giáo trình trang 157 & 158: Ngậm dưới lưỡi 0.3 - 0.4 mg/10 - 15 phút hoặc xịt dưới lưỡi; trường hợp nặng dùng truyền tĩnh mạch (Lenitral) liều 5 - 20 mcg/phút.
+
+Câu 32: Dấu hiệu bắt buộc phải giảm liều hoặc ngừng truyền Nitroglycerin ngay lập tức là gì?
+A. Huyết áp tâm thu tăng cao hơn
+B. Huyết áp tụt hoặc nhịp tim quá nhanh
+C. Bệnh nhân bắt đầu thở chậm lại
+D. Nước tiểu bài niệu nhiều
+Đáp án: B
+Giải thích: Theo giáo trình trang 157: 'phải giảm liều hoặc ngừng nếu HA tụt, nhịp tim quá nhanh'.
+
+Câu 33: Đặc điểm dược lý học của thuốc lợi tiểu quai Lasix (Furosemid) được mô tả trong giáo trình là gì?
+A. Tác dụng nhanh hơn Nitroglycerin nhưng thời gian ngắn
+B. Tác dụng chậm hơn, nhưng kéo dài; có tác dụng lợi tiểu và giãn nhẹ tĩnh mạch
+C. Chỉ có tác dụng trên động mạch
+D. Làm tăng giữ Natri ở ống thận
+Đáp án: B
+Giải thích: Theo giáo trình trang 157: Lasix có 'Tác dụng chậm hơn, nhưng kéo dài. Lợi tiểu, giãn nhẹ tĩnh mạch'.
+
+Câu 34: Liều lượng sử dụng Lasix (Furosemid) tiêm tĩnh mạch trong cơn phù phổi cấp theo giáo trình là bao nhiêu?
+A. 5 mg tiêm dưới da
+B. 0,5 – 1 mg/kg tiêm tĩnh mạch (thường dùng 20 mg x 2 ống), tùy theo đáp ứng có thể tiêm lặp lại sau 15 phút; trong suy thận có thể dùng đến 200 mg
+C. 500 mg truyền tĩnh mạch
+D. Uống 1 viên 40 mg duy nhất
+Đáp án: B
+Giải thích: Theo giáo trình trang 158: Liều dùng 0.5 - 1 mg/kg tiêm TM; có thể dùng 20mg x 2 ống, tiêm nhắc lại sau 15 phút nếu chưa đỡ, dùng đến 200mg trong trường hợp suy thận.
+
+Câu 35: Tác dụng dược lý và liều dùng của Morphine trong phù phổi cấp theo giáo trình là gì?
+A. Liều 20 mg tiêm tĩnh mạch trực tiếp
+B. Tác dụng giãn tĩnh mạch nhẹ, an thần; liều 1 – 3 mg tiêm tĩnh mạch (hoặc 5 – 10 mg tiêm dưới da hoặc tĩnh mạch)
+C. Chỉ có tác dụng giảm đau, không ảnh hưởng mạch máu
+D. Gây co mạch nâng huyết áp
+Đáp án: B
+Giải thích: Theo giáo trình trang 158: Morphine có tác dụng giãn tĩnh mạch nhẹ, an thần; liều 1 - 3 mg tiêm TM (hoặc 5 - 10 mg tiêm dưới da hoặc tĩnh mạch).
+
+Câu 36: Chú ý an toàn quan trọng nhất khi sử dụng Morphine trong cấp cứu phù phổi cấp là gì?
+A. Morphine gây suy thận cấp
+B. Liều cao có thể gây ức chế hô hấp (thở chậm, ngừng thở)
+C. Morphine làm tăng huyết áp kịch phát
+D. Morphine làm tăng đông máu
+Đáp án: B
+Giải thích: Theo giáo trình trang 158: 'Chú ý: liều cao có thể gây ức chế hô hấp'.
+
+Câu 37: Khi bệnh nhân phù phổi cấp có tăng huyết áp kịch phát, nhóm thuốc nào được ưu tiên lựa chọn để giảm hậu gánh?
+A. Thuốc lợi tiểu Thiazide đường uống
+B. Thuốc hạ huyết áp loại truyền tĩnh mạch có tác dụng nhanh, ngắn (Nitroglycerin truyền TM, Nicardipine / Loxen truyền TM, Nitroprusside), hoặc Adalate ngậm dưới lưỡi
+C. Thuốc chẹn beta giao cảm liều cao
+D. Thuốc ức chế men chuyển đường uống liều cao
+Đáp án: B
+Giải thích: Theo giáo trình trang 158 (Mục 4.2.4): 'Nếu bệnh nhân có tăng huyết áp, tốt nhất là dùng thuốc hạ huyết áp loại truyền tĩnh mạch có tác dụng nhanh, ngắn: Nitroglycerine truyền tĩnh mạch, Nicardipine (Loxen) truyền tĩnh mạch liều 1-5 mg/giờ, Nitroprusside. Cũng có thể dùng adalate 5-10 mg ngậm dưới lưỡi'.
+
+Câu 38: Liều truyền tĩnh mạch của Nicardipine (Loxen) được giáo trình khuyến cáo trong phù phổi cấp tăng huyết áp là bao nhiêu?
+A. 0,1 – 0,5 mg/giờ
+B. 1 – 5 mg/giờ truyền tĩnh mạch
+C. 20 – 30 mg/giờ
+D. 50 mg tiêm bolus
+Đáp án: B
+Giải thích: Theo giáo trình trang 158: 'Nicardipine (Loxen) truyền tĩnh mạch, liều 1-5 mg/giờ'.
+
+Câu 39: Cách sử dụng Adalat nhanh (Nifedipin) khi phù phổi cấp kèm tăng huyết áp theo giáo trình là gì?
+A. Uống viên phóng thích chậm 30 mg
+B. Adalat 5 – 10 mg ngậm dưới lưỡi (hoặc Adalat nhanh 10 mg nhỏ 5 – 10 giọt dưới lưỡi, nhắc lại sau 10 – 15 phút nếu HA không giảm)
+C. Tiêm tĩnh mạch trực tiếp 10 mg
+D. Tiêm bắp sâu 20 mg
+Đáp án: B
+Giải thích: Theo giáo trình trang 158 & 159: 'Adalate 5-10 mg ngậm dưới lưỡi' hoặc 'Adalat nhanh 10mg 5-10 giọt dưới lưỡi, nhắc lại sau 10-15 phút nếu HA không giảm'.
+
+Câu 40: Đặc tính dược lý và liều dùng của Dobutamine trong cấp cứu phù phổi cấp theo giáo trình là gì?
+A. Tác dụng chậm sau 24 giờ, liều 1 mg/kg
+B. Là Catecholamine tổng hợp, có tác dụng tăng co bóp cơ tim mạnh, nhanh, ngắn; truyền tĩnh mạch liên tục liều 2 – 20 µg/kg/phút
+C. Gây ức chế co bóp cơ tim, giảm nhịp tim
+D. Chỉ dùng đường tiêm bắp
+Đáp án: B
+Giải thích: Theo giáo trình trang 158: 'Dobutamine: Catecholamine tổng hợp, có tác dụng tăng co bóp cơ tim mạnh, nhanh, ngắn. Truyền tĩnh mạch liên tục, liều 2-20 mcg/kg/phút'.
+
+Câu 41: Đặc tính dược lý của Digoxin trong phù phổi cấp được giáo trình mô tả như thế nào?
+A. Tác dụng tăng co bóp cực mạnh và nhanh trong 5 phút
+B. Tác dụng trợ tim chậm (sau 4 – 6 giờ mới phát huy tác dụng), yếu; chủ yếu dùng trong các tình huống có Rung nhĩ nhanh do có tác dụng làm giảm dẫn truyền nhĩ thất
+C. Chỉ dùng cho bệnh nhân tụt huyết áp sốc tim
+D. Tác dụng giãn mạch mạnh
+Đáp án: B
+Giải thích: Theo giáo trình trang 158: 'Digoxin: Tác dụng trợ tim chậm (4-6 giờ), yếu. Chủ yếu dùng trong các tình huống có rung nhĩ nhanh, do có tác dụng làm giảm dẫn truyền nhĩ thất'.
+
+Câu 42: Liều tiêm tĩnh mạch của Digoxin trong cấp cứu phù phổi cấp là bao nhiêu?
+A. 5 – 10 mg
+B. 0,5 – 1 mg tiêm tĩnh mạch
+C. 0,01 mg
+D. 20 mg
+Đáp án: B
+Giải thích: Theo giáo trình trang 158 & 159: 'Tiêm tĩnh mạch 0,5 - 1 mg'.
+
+Câu 43: Trong tình huống Phù phổi cấp có tụt huyết áp (sốc tim), thuốc trợ tim vận mạch nào được giáo trình trang 159 chỉ định?
+A. Dobutamin đơn thuần
+B. Dopamin
+C. Verapamil
+D. Furosemide liều cao
+Đáp án: B
+Giải thích: Theo giáo trình trang 159: 'Dopamin: nếu HA tụt; Dobutamin: nếu suy tim trái cấp'.
+
+Câu 44: Các dấu hiệu chỉ định Đặt nội khí quản thở máy xâm nhập phối hợp PEEP trong Phù phổi cấp nặng theo giáo trình là gì?
+A. Khi huyết áp tâm thu > 140 mmHg
+B. Ngạt thở cấp, tím nhiều, trào nhiều bọt hồng, rối loạn ý thức, tụt huyết áp
+C. Khi nhịp tim 100 lần/phút
+D. Khi nghe thấy ran ẩm ở đáy phổi
+Đáp án: B
+Giải thích: Theo giáo trình trang 159: 'Phù phổi cấp nặng (ngạt thở cấp, tím nhiều, trào nhiều bọt hồng, rối loạn ý thức, tụt HA): Đặt nội khí quản, hút dịch phế quản; Thở máy xâm nhập (qua NKQ) + PEEP'.
+
+Câu 45: Điều trị sau giai đoạn cấp cứu của Phù phổi cấp huyết động bao gồm những gì?
+A. Cho bệnh nhân xuất viện ngay sau khi hết cơn khó thở
+B. Điều trị theo nguyên nhân gây phù phổi cấp: ví dụ phẫu thuật hoặc can thiệp hẹp hai lá, điều trị tăng huyết áp, điều trị suy vành / can thiệp mạch vành, điều trị suy thận cấp/mạn...
+C. Ngừng toàn bộ thuốc tim mạch
+D. Chỉ cần ăn nhạt tuyệt đối
+Đáp án: B
+Giải thích: Theo giáo trình trang 158: '4.2.6 Điều trị sau cấp cứu: Điều trị theo nguyên nhân gây phù phổi cấp, ví dụ hẹp hai lá, tăng huyết áp, suy vành, suy thận cấp...'.
+
+Câu 46: Theo Sơ đồ xử trí Phù phổi cấp (ESC Guidelines 2012), bước can thiệp đầu tiên ngay khi tiếp cận bệnh nhân phù phổi cấp là gì?
+A. Truyền tĩnh mạch dung dịch Natri Clorid 0.9%
+B. Tiêm tĩnh mạch Lợi tiểu quai (Lasix)
+C. Đặt ống nội khí quản ngay lập tức
+D. Chụp mạch vành qua da
+Đáp án: B
+Giải thích: Theo sơ đồ ESC 2012 (trang 159): Ngay đầu sơ đồ [Phù phổi cấp] -> mũi tên đầu tiên là 'LỢI TIỂU (TM)' (Lasix tiêm tĩnh mạch).
+
+Câu 47: Theo Sơ đồ ESC 2012, sau bước đánh giá giảm oxy máu (thở oxy), bước tiếp theo đánh giá tình trạng 'Hốt hoảng, lo lắng' nếu CÓ thì chỉ định dùng thuốc gì?
+A. Thuốc ngủ Barbiturate
+B. Tiêm tĩnh mạch Morphin
+C. Thuốc an thần Diazepam
+D. Khí dung Salbutamol
+Đáp án: B
+Giải thích: Theo sơ đồ ESC 2012 (trang 159): Nhánh 'Hốt hoảng lo lắng' -> Có -> 'Morphin (TM)'.
+
+Câu 48: Theo Sơ đồ ESC 2012, dựa vào Huyết áp tâm thu (HATT), bệnh nhân được phân chia thành 3 nhánh xử trí với các mốc huyết áp nào?
+A. HATT < 70 mmHg, HATT 70 – 90 mmHg, HATT > 90 mmHg
+B. HATT < 85 mmHg; HATT 85 – 110 mmHg; HATT > 110 mmHg
+C. HATT < 90 mmHg, HATT 90 – 140 mmHg, HATT > 140 mmHg
+D. HATT < 100 mmHg, HATT 100 – 160 mmHg, HATT > 160 mmHg
+Đáp án: B
+Giải thích: Theo sơ đồ ESC 2012 (trang 159): Ba nhánh huyết áp tâm thu phân định rõ: (1) HATT < 85 mmHg; (2) HATT 85 - 110 mmHg; (3) HATT > 110 mmHg.
+
+Câu 49: Theo Sơ đồ ESC 2012, ở nhánh bệnh nhân có HATT > 110 mmHg, nhóm thuốc được chỉ định ưu tiên lựa chọn là gì?
+A. Thuốc tăng co bóp cơ tim Dobutamin
+B. Thuốc giãn mạch (Nitroglycerin / Loxen)
+C. Dopamin liều cao
+D. Truyền dịch keo cao phân tử
+Đáp án: B
+Giải thích: Theo sơ đồ ESC 2012 (trang 159): Nhánh 'HATT > 110 mmHg' -> chỉ định 'THUỐC GIÃN MẠCH (NTG)' (Nitroglycerine / Loxen).
+
+Câu 50: Theo Sơ đồ ESC 2012, ở nhánh bệnh nhân có HATT < 85 mmHg, nhóm thuốc được chỉ định là gì?
+A. Thuốc giãn mạch Nitroglycerin
+B. Thuốc tăng co bóp cơ tim (Dobutamin / Dopamin)
+C. Thuốc chẹn kênh Canxi Nicardipin
+D. Morphine liều cao lặp lại
+Đáp án: B
+Giải thích: Theo sơ đồ ESC 2012 (trang 159): Nhánh 'HATT < 85 mmHg' -> chỉ định 'THUỐC TĂNG CO BÓP' (Dobutamin / Dopamin).
+
+Câu 51: Theo Sơ đồ ESC 2012, nếu sau khi dùng thuốc tăng co bóp mà HATT VẪN < 85 mmHg, các hành động xử trí bắt buộc tiếp theo là gì?
+A. Tiếp tục tăng liều thuốc giãn mạch
+B. Ngừng thuốc giãn mạch, lợi tiểu và giảm co bóp; Đặt catheter tim phải; Dùng vận mạch và tăng co bóp
+C. Cho thở oxy gọng kính và theo dõi ngoại trú
+D. Chuyển sang ăn nhạt
+Đáp án: B
+Giải thích: Theo sơ đồ ESC 2012 (trang 159): Nhánh HATT vẫn < 85 mmHg -> Có -> 'NGƯNG THUỐC GIÃN MẠCH, LỢI TIỂU VÀ GIẢM CO BÓP. ĐẶT CATHETER TIM PHẢI. DÙNG VẬN MẠCH VÀ TĂNG CO BÓP'.
+
+Câu 52: Theo Sơ đồ ESC 2012, ở nhánh bệnh nhân HATT 85 – 110 mmHg hoặc sau dùng thuốc giãn mạch mà SpO2 < 90%, các biện pháp hỗ trợ hô hấp theo bậc thang là gì?
+A. Chỉ cho thở oxy kính 1 lít/phút
+B. Thở oxy -> Thở máy không xâm lấn (NIV) -> Hoặc thở máy nội khí quản
+C. Ngừng thở oxy và cho thở khí phòng
+D. Chọc hút màng phổi cấp cứu
+Đáp án: B
+Giải thích: Theo sơ đồ ESC 2012 (trang 159): Đánh giá SpO2 < 90% -> Có -> 'THỞ OXY, THỞ MÁY KHÔNG XÂM LẤN (NIV), HOẶC THỞ MÁY NỘI KHÍ QUẢN'.
+
+Câu 53: Theo Sơ đồ ESC 2012, dấu hiệu thiểu niệu được định nghĩa bằng mốc thể tích nước tiểu nào?
+A. Nước tiểu < 50 ml/giờ
+B. Nước tiểu < 20 ml/giờ
+C. Nước tiểu < 100 ml/ngày
+D. Nước tiểu < 500 ml/24h
+Đáp án: B
+Giải thích: Theo sơ đồ ESC 2012 (trang 159): Tiêu chí đánh giá bài niệu tại giường là 'Nước tiểu < 20 ml/giờ'.
+
+Câu 54: Theo Sơ đồ ESC 2012, khi bệnh nhân phù phổi cấp có thiểu niệu Nước tiểu < 20 ml/giờ không đáp ứng điều trị, ba biện pháp can thiệp tiếp theo là gì?
+A. Truyền dịch muối và theo dõi
+B. Tăng liều lợi tiểu; Dùng Dopamin liều thấp; Đặt catheter tim phải; Xem xét lọc máu
+C. Tiêm kháng sinh liều cao
+D. Ngừng toàn bộ thuốc
+Đáp án: B
+Giải thích: Theo sơ đồ ESC 2012 (trang 159): Nhánh Nước tiểu < 20 ml/giờ -> Có -> 'TĂNG LIỀU LỢI TIỂU, DOPAMIN LIỀU THẤP, ĐẶT CATHETER TIM PHẢI, XEM XÉT LỌC MÁU'.
+
+Câu 55: Trường hợp nào trong Sơ đồ ESC 2012 có chỉ định 'XEM XÉT LỌC MÁU' (Lọc máu cấp cứu / Siêu lọc dịch RRT)?
+A. Bệnh nhân có huyết áp tăng trên 180 mmHg
+B. Bệnh nhân có thiểu niệu nước tiểu < 20 ml/giờ trơ với tăng liều lợi tiểu quai và suy tim ứ dịch nặng
+C. Bệnh nhân có nhịp tim nhanh xoang
+D. Bệnh nhân đáp ứng tốt với Nitroglycerin
+Đáp án: B
+Giải thích: Theo sơ đồ ESC 2012 (trang 159): Xem xét lọc máu là cứu cánh tối hậu khi bệnh nhân thiểu niệu kháng trị (< 20 ml/h), suy thận cấp ứ nước và suy tim quá tải thể tích trơ với mọi thuốc lợi tiểu.
+
+Câu 56: Ca lâm sàng: Bệnh nhân nam 58 tuổi, tiền sử nhồi máu cơ tim cũ. Đột ngột khó thở dữ dội lúc 2 giờ sáng, ngồi thở co kéo, khạc bọt hồng, nghe đầy ran ẩm hai phổi dâng lên đỉnh phổi. Đo huyết áp: 75/45 mmHg, mạch 130 l/p nhỏ khó bắt. Bác sĩ nội trú chỉ định tiêm ngay Lasix 40mg kết hợp truyền Nitroglycerin 20 mcg/p và tiêm Morphine 5mg. Quyết định điều trị này mắc phải sai lầm nghiêm trọng nào?
+A. Chỉ định hoàn toàn chuẩn xác theo phác đồ MONA
+B. Sai lầm chết người vì bệnh nhân có Sốc tim (HATT < 85 mmHg); dùng thuốc giãn mạch Nitroglycerin, Morphine và Lợi tiểu sẽ làm trụy mạch và ngừng tim ngay lập tức; bắt buộc phải NGỪNG THUỐC GIÃN MẠCH, dùng ngay thuốc vận mạch nâng áp (Noradrenalin/Dopamin) và tăng co bóp cơ tim (Dobutamin)
+C. Chỉ định sai ở chỗ liều Lasix quá thấp
+D. Đáng lẽ phải tiêm Digoxin trước
+Đáp án: B
+Giải thích: BẪY TỬ VONG KINH ĐIỂN: Đây là Phù phổi cấp thể Sốc tim (HATT < 85 mmHg). Thuốc giãn mạch Nitroglycerin và Morphine làm giãn tĩnh mạch và tụt huyết áp sâu hơn. Lasix làm giảm thể tích nội mạch. Cả 3 thuốc này đều chống chỉ định khi HATT < 85 mmHg. Bắt buộc phải ưu tiên nâng huyết áp bằng vận mạch (Noradrenalin/Dopamin) và tăng co bóp (Dobutamin) trước!
+
+Câu 57: Ca lâm sàng: Bệnh nhân nữ 40 tuổi có tiền sử Hẹp van hai lá khít, vào viện vì phù phổi cấp dữ dội, khạc bọt hồng. Monitor ghi nhận nhịp tim: Rung nhĩ đáp ứng thất rất nhanh, tần số thất dao động 160 – 170 lần/phút, huyết áp 110/70 mmHg. Thuốc trợ tim nào được chỉ định ưu tiên số 1 theo giáo trình để kiểm soát tần số tim và cải thiện huyết động?
+A. Adrenaline tiêm tĩnh mạch
+B. Digoxin 0,5 – 1 mg tiêm tĩnh mạch chậm
+C. Dopamin truyền tĩnh mạch liều cao
+D. Atropine tiêm tĩnh mạch
+Đáp án: B
+Giải thích: Theo giáo trình trang 158 & 159: Digoxin tiêm tĩnh mạch 0.5 - 1 mg là chỉ định ưu tiên số 1 khi phù phổi cấp có kèm Rung nhĩ đáp ứng thất nhanh (đặc biệt trong hẹp hai lá). Digoxin làm chậm dẫn truyền qua nút AV, kéo dài thời gian tâm trương để máu từ nhĩ trái chảy qua lỗ van 2 lá hẹp xuống thất, giải áp ứ đọng nhĩ trái và phổi.
+
+Câu 58: Ca lâm sàng: Bệnh nhân nam 65 tuổi đái tháo đường và suy thận mạn lọc máu chu kỳ, vào viện vì khó thở dữ dội, huyết áp tăng vọt 200/110 mmHg, nghe phổi đầy ran ẩm 2 bên. Xét nghiệm Creatinine máu 650 µmol/L, bệnh nhân đã vô niệu 2 ngày do lỡ buổi chạy thận. Bác sĩ tiêm Lasix 40mg nhưng sau 30 phút bệnh nhân hoàn toàn không có giọt nước tiểu nào và khó thở tăng lên. Thái độ xử trí tiếp theo chuẩn xác nhất là gì?
+A. Tiếp tục chờ đợi và tiêm thêm Lasix 20mg
+B. Tăng liều Lasix lên 200 mg tiêm tĩnh mạch; đồng thời truyền tĩnh mạch thuốc giãn mạch Nicardipine (Loxen) hoặc Nitroglycerin để hạ huyết áp giảm hậu gánh, cho thở máy không xâm lấn CPAP/BiPAP và chuẩn bị khẩn cấp lọc máu cấp cứu (chạy thận nhân tạo cấp) để rút dịch thừa
+C. Truyền 500 ml dịch muối NaCl 0.9%
+D. Cho bệnh nhân uống nước đường ấm
+Đáp án: B
+Giải thích: Bệnh nhân suy thận mạn vô niệu bị phù phổi cấp do quá tải thể tích và tăng huyết áp kịch phát: Lasix liều thông thường 40mg không thể có tác dụng trên quả thận đã suy tàn (cần nâng liều lên 200mg theo giáo trình trang 158). Can thiệp hạ áp giảm hậu gánh bằng Nicardipine/Nitroglycerin truyền TM là then chốt. Thở máy CPAP giúp mở phế nang. Biện pháp triệt căn số 1 rút thể tích dịch thừa là LỌC MÁU CẤP CỨU!
+
+Câu 59: Ca lâm sàng: Bệnh nhân nam 50 tuổi vào viện vì phù phổi cấp huyết động, huyết áp 150/90 mmHg. Bác sĩ cho thở oxy mặt nạ, tiêm Lasix và bắt đầu truyền tĩnh mạch Nitroglycerin 10 µg/phút. Sau 15 phút, bệnh nhân đột ngột tụt huyết áp xuống còn 80/50 mmHg, mạch nhanh 120 l/p, da tái lạnh. Xử trí cấp cứu ban đầu ngay lúc này là gì?
+A. Tăng gấp đôi liều truyền Nitroglycerin
+B. Ngừng ngay lập tức đường truyền Nitroglycerin, đặt bệnh nhân nằm hạ thấp chân xuống (hoặc nằm phẳng), đánh giá lại nguyên nhân tụt huyết áp và chuẩn bị thuốc vận mạch nếu huyết áp không tự hồi phục
+C. Tiêm tĩnh mạch thêm 5 mg Morphine
+D. Tiêm Furosemide liều cao
+Đáp án: B
+Giải thích: Khi truyền Nitroglycerin mà huyết áp tụt xuống < 90 mmHg (ở đây tụt còn 80/50 mmHg), nguyên tắc sống còn theo giáo trình trang 157 là: NGỪNG NGAY LẬP TỨC NITROGLYCERIN. Hạ chân bệnh nhân nằm phẳng để tăng máu về tim. Nếu huyết áp không tự hồi phục sau khi ngừng thuốc giãn mạch, bắt buộc phải dùng thuốc vận mạch tăng co bóp theo nhánh HATT < 85 mmHg của sơ đồ ESC.
+
+Câu 60: Tại sao việc cho bệnh nhân Phù phổi cấp thở máy không xâm nhập (CPAP / BiPAP) qua mặt nạ lại cần thận trọng hoặc chống chỉ định khi bệnh nhân đã rơi vào tình trạng lơ mơ, hôn mê hoặc nôn mửa nhiều?
+A. Vì CPAP làm tăng áp lực nội sọ
+B. Bệnh nhân lơ mơ mất phản xạ bảo vệ đường thở, nếu nôn trớ thì áp lực dương của máy thở CPAP/BiPAP sẽ đẩy thẳng chất nôn vào khí phế quản gây sặc phổi và tắc thở tử vong; trong tình huống này bắt buộc phải đặt ống nội khí quản thở máy xâm nhập
+C. Vì máy thở CPAP chỉ dùng được cho bệnh nhân có nhịp tim chậm
+D. Vì mặt nạ CPAP làm loét da mặt
+Đáp án: B
+Giải thích: Chống chỉ định quan trọng của thở máy không xâm lấn (NIV - CPAP/BiPAP): Bệnh nhân rối loạn tri giác, lơ mơ, hôn mê, hoặc nôn mửa nhiều. Máy thở ép khí áp lực dương vào mặt nạ, nếu bệnh nhân nôn thì dịch nôn bị tống ngược vào phổi gây sặc thức ăn (hội chứng Mendelson) ngạt thở tức thì. Theo giáo trình trang 157 & 159: Rối loạn ý thức là chỉ định ĐẶT ỐNG NỘI KHÍ QUẢN THỞ MÁY XÂM NHẬP!
+

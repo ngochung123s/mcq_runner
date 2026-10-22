@@ -1,0 +1,367 @@
+{
+  "id": "bank_im45_ly_thuyet_dien_giai",
+  "title": "IM-45: Lý Thuyết Nền Tảng & Mốc Số Liệu Rối Loạn Điện Giải (30 Câu Fact-Based)",
+  "description": "Ngân hàng 30 câu hỏi trắc nghiệm lý thuyết thuần túy chuẩn giáo trình: tỷ lệ khoang dịch, Posm, phân độ mất nước, tiêu chuẩn chẩn đoán hạ/tăng Natri, 4 nấc ECG và 4 bước cấp cứu Kali, Calci, Magnesi.",
+  "questions": [
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_01",
+      "text": "Tỷ lệ Nước toàn bộ cơ thể (TBW) theo lứa tuổi và giới tính Theo sinh lý học đại cương, tỷ lệ nước toàn bộ cơ thể (Total Body Water - TBW) chiếm bao nhiêu phần trăm trọng lượng cơ thể ở nam giới, nữ giới trưởng thành và trẻ nhũ nhi?",
+      "options": [
+        "Nam 50%, Nữ 60%, Trẻ nhũ nhi 50%.",
+        "Nam 60%, Nữ 50%, Trẻ nhũ nhi 75% – 80% (người cao tuổi giảm còn 45% – 50%).",
+        "Cả nam và nữ đều 70%.",
+        "Nam 80%, Nữ 70%, Trẻ nhũ nhi 60%."
+      ],
+      "correct": 0,
+      "explanation": "Nước phân bố chủ yếu trong mô cơ nạc, mô mỡ chứa rất ít nước. Nam giới có khối cơ lớn hơn nên TBW chiếm 60% trọng lượng cơ thể; nữ giới có tỷ lệ mỡ cao hơn nên TBW chiếm 50%; trẻ nhũ nhi lượng nước rất cao (75 - 80%); người cao tuổi mô cơ teo và mỡ tăng nên TBW giảm còn khoảng 45 - 50%. ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_02",
+      "text": "Phân bố tỷ lệ dịch giữa các khoang trong cơ thể Trong tổng lượng nước cơ thể (TBW), sự phân bố thể tích giữa Dịch nội bào (ICF) và Dịch ngoại bào (ECF) tuân theo tỷ lệ nào?",
+      "options": [
+        "Dịch nội bào 1/3 TBW, Dịch ngoại bào 2/3 TBW.",
+        "Dịch nội bào chiếm 2/3 TBW (40% trọng lượng cơ thể); Dịch ngoại bào chiếm 1/3 TBW (20% trọng lượng cơ thể, trong đó dịch kẽ chiếm 15% và lòng mạch chiếm 5%).",
+        "Dịch nội bào 50%, Dịch ngoại bào 50%.",
+        "Lòng mạch chiếm 15% trọng lượng cơ thể."
+      ],
+      "correct": 0,
+      "explanation": "Quy tắc 2/3 và 1/3 kinh điển: TBW = 60% TLCT; trong đó 2/3 nằm trong tế bào (ICF = 40% TLCT) và 1/3 nằm ngoài tế bào (ECF = 20% TLCT). Trong khoang ngoại bào, dịch mô kẽ chiếm 3/4 (15% TLCT) và huyết tương trong lòng mạch chiếm 1/4 (5% TLCT). ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_03",
+      "text": "Công thức tính Áp lực thẩm thấu huyết thanh Toàn phần theo hệ SI Tại các phòng xét nghiệm Việt Nam (sử dụng đơn vị mmol/L), công thức tính Áp lực thẩm thấu huyết thanh Toàn phần (Total Osmolality) là gì và giới hạn bình thường là bao nhiêu?",
+      "options": [
+        "Posm = [Na+] + [Glucose] + [Urê] (250 – 270 mOsm/kg).",
+        "Posm = 2[Na+] + [Glucose] + [Urê] (giá trị bình thường 275 – 295 mOsm/kg).",
+        "Posm = 2([Na+] + [K+]) + [Glucose]/18 (290 – 310 mOsm/kg).",
+        "Posm = 2[Na+] + [Albumin] (300 – 320 mOsm/kg)."
+      ],
+      "correct": 0,
+      "explanation": "Theo hệ SI (mmol/L): Posm toàn phần = 2[Na+] + [Glucose] + [Urê]. Trị số bình thường sinh lý là 275 – 295 mOsm/kg (hoặc 280 – 295 mOsm/kg). Không cần chia 18 và 2.8 vì các xét nghiệm tại Việt Nam đã tính theo mmol/L. ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_04",
+      "text": "Phân biệt Áp lực thẩm thấu Toàn phần và Hiệu dụng (Tonicity) Điểm khác biệt cốt lõi giữa công thức tính Áp lực thẩm thấu Toàn phần và Áp lực thẩm thấu Hiệu dụng là gì?",
+      "options": [
+        "Công thức hiệu dụng nhân đôi nồng độ Glucose.",
+        "Công thức tính Áp lực thẩm thấu Hiệu dụng (Tonicity) BỎ HOÀN TOÀN thành phần [Urê] (Posm hiệu dụng = 2[Na+] + [Glucose]), vì phân tử Urê tự do khuếch tán qua màng tế bào nên không tạo độ chênh kéo nước qua màng.",
+        "Công thức hiệu dụng cộng thêm nồng độ Kali.",
+        "Hai công thức hoàn toàn giống nhau."
+      ],
+      "correct": 0,
+      "explanation": "Urê là chất thẩm thấu không hiệu dụng (ineffective osmole) do qua màng tế bào tự do. Chỉ có Natri và Glucose là các chất thẩm thấu hiệu dụng tạo lực hút nước qua màng tế bào gây teo hoặc phù não. Tiêu chuẩn chẩn đoán Hôn mê tăng áp lực thẩm thấu (HHS) bắt buộc dùng Posm hiệu dụng (> 320 mOsm/kg). ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_05",
+      "text": "Khoảng trống Áp lực thẩm thấu (Osmolar Gap) Khoảng trống áp lực thẩm thấu (Osmolar Gap - OG) được định nghĩa là gì và giá trị bình thường là bao nhiêu?",
+      "options": [
+        "OG = Posm đo được - Posm tính toán; bình thường < 10 mOsm/kg.",
+        "OG = [Na+] - [Cl-]; bình thường 12 mOsm/kg.",
+        "OG = Posm tính toán - Posm đo được; bình thường 20 mOsm/kg.",
+        "OG = [Glucose] + [Urê]; bình thường 15 mOsm/kg."
+      ],
+      "correct": 0,
+      "explanation": "Osmolar Gap = Posm đo trực tiếp bằng máy - Posm tính theo công thức; bình thường < 10 mOsm/kg. Khi OG > 10 – 15 mOsm/kg, khẳng định có sự xuất hiện của các chất thẩm thấu ngoại sinh phân tử nhỏ không đo được (Ethanol, Methanol, Ethylene glycol, Mannitol). ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_06",
+      "text": "Phân loại 3 mức độ Mất nước trên lâm sàng theo tỷ lệ trọng lượng cơ thể Phân độ mất nước theo tỷ lệ sụt giảm trọng lượng cơ thể ở người lớn được chia thành 3 mức độ như thế nào?",
+      "options": [
+        "Nhẹ < 1%, Vừa 2 – 3%, Nặng > 5%.",
+        "Mất nước Nhẹ < 5% TLCT; Mất nước Vừa từ 5% – 8% TLCT (hạ HA tư thế, véo da mất chậm); Mất nước Nặng ≥ 10% TLCT (tụt HA nằm, sốc giảm thể tích, mạch nhanh nhỏ, vô niệu).",
+        "Nhẹ < 10%, Vừa 10 – 20%, Nặng > 20%.",
+        "Mất nước nhẹ 5%, nặng 7%."
+      ],
+      "correct": 0,
+      "explanation": "Mất nước nhẹ (< 5% TLCT): khát nước, niêm mạc hơi khô. Mất nước vừa (5 - 8% TLCT): hạ HA tư thế đứng, HA kẹp, tĩnh mạch cổ xẹp. Mất nước nặng (≥ 10% TLCT): tụt huyết áp rõ, thiểu niệu/vô niệu, sốc giảm thể tích nguy kịch. ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_07",
+      "text": "Định nghĩa và Phân độ Hạ Natri máu theo nồng độ sinh hóa Hạ Natri máu (Hyponatremia) được định nghĩa khi Natri máu < 135 mmol/L. Các mức độ Nhẹ, Trung bình và Nặng được phân định bằng các mốc số liệu nào?",
+      "options": [
+        "Nhẹ 130 – 134, Trung bình 120 – 129, Nặng < 120 mmol/L.",
+        "Nhẹ 130 – 134 mmol/L, Trung bình 125 – 129 mmol/L, Nặng < 125 mmol/L (hoặc < 120 mmol/L tùy guideline).",
+        "Nhẹ < 130, Nặng < 100 mmol/L.",
+        "Nhẹ 135 – 140 mmol/L."
+      ],
+      "correct": 0,
+      "explanation": "Theo các guideline quốc tế (Châu Âu 2014, Hoa Kỳ): Hạ Natri máu nhẹ: 130 – 134 mmol/L; Trung bình: 125 – 129 mmol/L; Nặng: < 125 mmol/L (một số giáo trình lấy mốc < 120 mmol/L). ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_08",
+      "text": "Công thức hiệu chỉnh Natri máu khi Glucose máu tăng cao Trong tình trạng tăng đường huyết cấp (DKA/HHS), nồng độ Natri máu đo được bị giảm giả tạo do nước bị kéo từ tế bào ra ngoại bào. Công thức hiệu chỉnh chuẩn (Katz) là gì?",
+      "options": [
+        "Cứ Glucose tăng 100 mg/dL trên 100 mg/dL thì Natri máu giảm giả tạo 1,6 mmol/L (hoặc 2,4 mmol/L khi glucose > 400 mg/dL).",
+        "Cứ Glucose tăng 1 mmol/L thì Natri giảm 5 mmol/L.",
+        "Natri hiệu chỉnh = Natri đo + Glucose/10.",
+        "Không cần hiệu chỉnh vì Glucose không ảnh hưởng đến Natri."
+      ],
+      "correct": 0,
+      "explanation": "Công thức Katz kinh điển: Na hiệu chỉnh = Na đo + 1.6 * [(Glucose mg/dL - 100) / 100]. Nếu dùng hệ mmol/L: Cứ Glucose tăng thêm 5.5 mmol/L thì Natri máu giảm khoảng 1.6 – 2.0 mmol/L. ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_09",
+      "text": "Tiêu chuẩn chẩn đoán Hội chứng tiết ADH không thích hợp (SIADH) Bộ tiêu chuẩn kinh điển chẩn đoán hội chứng SIADH gồm các tiêu chí nào?",
+      "options": [
+        "Hạ Natri ưu trương, thể tích ngoại bào giảm nặng, phù toàn thân.",
+        "Hạ Natri nhược trương (Posm < 275 mOsm/kg) + Thể tích ngoại bào BÌNH THƯỜNG (Euvolemic, không phù, không mất nước) + Nước tiểu cô đặc không thích hợp (Uosm > 100 mOsm/kg) + Natri niệu cao (> 20 – 40 mmol/L) + Chức năng giáp và thượng thận bình thường.",
+        "Tăng Natri máu, đái nhiều, khát nhiều.",
+        "Hạ Natri máu kèm suy tim xung huyết và xơ gan."
+      ],
+      "correct": 0,
+      "explanation": "SIADH là thể hạ Natri đẳng tích (Euvolemic). Tiêu chuẩn bắt buộc: (1) Posm giảm < 275; (2) V_ECF bình thường (không phù, không tụt HA); (3) Uosm > 100 mOsm/kg (chứng tỏ ADH vẫn hoạt động dù máu nhược trương); (4) Na niệu > 20 - 40 mmol/L; (5) Đã loại trừ suy giáp và suy tuyến thượng thận. ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_10",
+      "text": "Tốc độ nâng Natri máu an toàn trong Hạ Natri máu mạn tính Để phòng ngừa biến chứng Hội chứng hủy Myelin cầu não trung tâm (ODS/CPM), tốc độ nâng Natri máu tối đa cho phép trong điều trị hạ Natri mạn tính là bao nhiêu?",
+      "options": [
+        "Tối đa 2 mmol/L/giờ và 20 mmol/L trong 24 giờ đầu.",
+        "Tối đa không quá 0,5 mmol/L/giờ; không vượt quá 8 – 10 mmol/L trong 24 giờ đầu và không quá 18 mmol/L trong 48 giờ đầu.",
+        "Càng nhanh càng tốt để đưa về 140 mmol/L ngay trong 6 giờ.",
+        "Nâng 15 mmol/L mỗi 12 giờ."
+      ],
+      "correct": 0,
+      "explanation": "Nâng Natri quá nhanh (> 10-12 mmol/L/ngày) làm tế bào não bị teo tóp cấp tính gây hoại tử bong tróc bao myelin vùng cầu não (ODS). Giới hạn an toàn tuyệt đối là không quá 8 – 10 mmol/L trong 24 giờ đầu (ở bệnh nhân nguy cơ cao như xơ gan, suy dinh dưỡng, nghiện rượu: giới hạn là 6 – 8 mmol/L/ngày). ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_11",
+      "text": "Phác đồ Bolus NaCl 3% trong cấp cứu Hạ Natri máu nặng có co giật Khi bệnh nhân hạ Natri máu nặng có triệu chứng thần kinh nguy kịch (co giật, hôn mê), phác đồ tiêm bolus muối ưu trương cấp cứu theo khuyến cáo quốc tế là gì?",
+      "options": [
+        "Truyền chậm NaCl 0.9% tốc độ 50 ml/h.",
+        "Tiêm bolus tĩnh mạch nhanh 100 ml dung dịch NaCl 3% (hoặc 1 – 2 ml/kg) trong 10 – 15 phút, có thể nhắc lại tối đa 2 lần cách nhau 10 phút nếu còn triệu chứng, mục tiêu nâng nhanh Natri thêm 4 – 6 mmol/L để cắt phù não.",
+        "Truyền 1.000 ml NaCl 3% trong 1 giờ.",
+        "Tiêm Furosemide 80 mg đơn độc."
+      ],
+      "correct": 0,
+      "explanation": "Trong cơn co giật/hôn mê cấp tính, nguy cơ tụt kẹt não là trước mắt. Phác đồ chuẩn là bolus 100 ml NaCl 3% trong 10-15 phút. Nâng nhanh 4 - 6 mmol/L Natri sẽ làm giảm 50% áp lực nội sọ và dập tắt co giật. Sau đó mới kiểm soát tốc độ chậm lại. ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_12",
+      "text": "Công thức tính Lượng Natri thiếu hụt cần bù Công thức chuẩn xác để tính toán lượng ion Natri nguyên chất cần bù (mmol) là gì?",
+      "options": [
+        "Lượng Na thiếu = Cân nặng * 140.",
+        "Lượng Na thiếu (mmol) = TBW * ([Na+]đích - [Na+]đo); với TBW = Cân nặng * 0,6 ở nam (hoặc * 0,5 ở nữ và người già).",
+        "Lượng Na thiếu = (Na đo - 120) * 10.",
+        "Lượng Na thiếu = Thể tích máu * Na đo."
+      ],
+      "correct": 0,
+      "explanation": "Delta Na = TBW * (Na đích - Na đo). Ví dụ nam 60 kg, Na đo 110, Na đích 120 -> TBW = 36 lít -> Lượng Na cần bù = 36 * (120 - 110) = 360 mmol. Vì 100 ml NaCl 3% chứa 51.3 mmol Na, ta cần truyền khoảng 700 ml NaCl 3%. ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_13",
+      "text": "Công thức tính Thể tích Nước tự do thiếu hụt trong Tăng Natri máu Ở bệnh nhân tăng Natri máu (Na+ > 145 mmol/L), công thức tính lượng nước tự do thiếu hụt (Lít) là gì?",
+      "options": [
+        "Nước thiếu = TBW * (Na hiện tại / 140 - 1).",
+        "Nước thiếu = Cân nặng * 0.1.",
+        "Nước thiếu = (Na đo - 140) / 10.",
+        "Nước thiếu = Posm / 100."
+      ],
+      "correct": 0,
+      "explanation": "Thể tích nước tự do thiếu (Lít) = TBW * [(Na hiện tại / 140) - 1]. Mỗi lít nước thiếu làm Natri máu tăng khoảng 3 - 5 mmol/L. Dịch bù là nước tự do (uống nước lọc hoặc truyền Glucose 5%). Tốc độ hạ an toàn không quá 0.5 mmol/L/h và không quá 10 - 12 mmol/L/ngày để tránh phù não. ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_14",
+      "text": "Phân bố và dự trữ ion Kali trong cơ thể Nhận định nào sau đây về sinh lý học phân bố Kali trong cơ thể là **ĐÚNG NHẤT**?",
+      "options": [
+        "50% Kali nằm ở ngoại bào và 50% ở nội bào.",
+        "98% lượng Kali nằm trong tế bào (nội bào: 100 – 150 mmol/L), chỉ có 2% nằm ở dịch ngoại bào (máu: 3,5 – 5,0 mmol/L); khoảng 70% – 75% dự trữ Kali cơ thể nằm ở tế bào cơ vân.",
+        "Kali chủ yếu nằm trong xương và răng.",
+        "Nồng độ Kali máu phản ánh 90% tổng dự trữ Kali cơ thể."
+      ],
+      "correct": 0,
+      "explanation": "Kali là cation nội bào chủ yếu. Bơm Na+/K+-ATPase duy trì nồng độ nội bào cực cao (100 - 150 mEq/L) so với ngoại bào (3.5 - 5.0 mEq/L). Nồng độ máu chỉ phản ánh 2% lượng Kali toàn thân, do đó nồng độ máu giảm nhẹ phản ánh sự thiếu hụt dự trữ nội bào rất lớn. ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_15",
+      "text": "Tương quan giữa pH máu và nồng độ Kali máu Mối tương quan chuyển dịch ion giữa thăng bằng toan kiềm và Kali máu được mô tả bằng quy luật nào?",
+      "options": [
+        "Cứ thay đổi 0,1 đơn vị pH máu làm nồng độ Kali máu biến đổi cùng chiều 1,0 mmol/L.",
+        "Cứ thay đổi 0,1 đơn vị pH máu làm nồng độ Kali máu biến đổi NGƯỢC CHIỀU khoảng 0,6 mmol/L (Toan máu làm tăng Kali máu, Kiềm máu làm hạ Kali máu).",
+        "pH máu không làm ảnh hưởng đến Kali máu.",
+        "Cứ toan máu thì Kali máu giảm."
+      ],
+      "correct": 0,
+      "explanation": "Khi toan máu (H+ ngoại bào cao), tế bào hút H+ vào đệm và đẩy K+ ra ngoài máu -> tăng Kali máu. Khi kiềm máu (H+ ngoại bào thấp), H+ ra ngoài và K+ đi vào tế bào -> hạ Kali máu. Quy tắc kinh điển: Delta pH 0.1 -> Delta K+ ngược chiều 0.6 mEq/L. ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_16",
+      "text": "Bốn biến đổi Điện tâm đồ kinh điển của Hạ Kali máu Các biến đổi trên bản ghi Điện tâm đồ 12 chuyển đạo đặc trưng của Hạ Kali máu gồm những gì?",
+      "options": [
+        "Sóng T cao nhọn đối xứng, QRS hẹp.",
+        "Sóng T dẹt hoặc âm, xuất hiện Sóng U nổi gồ cao (rõ ở V2 – V4), đoạn ST chênh xuống và khoảng QT/QU kéo dài.",
+        "Block nhánh trái hoàn toàn và ST chênh lên dạng vòm.",
+        "Mất hoàn toàn sóng P và nhịp chậm xoang."
+      ],
+      "correct": 0,
+      "explanation": "Hạ Kali làm chậm quá trình tái cực của cơ thất: sóng T dẹt dần, đoạn ST chênh xuống, sóng U tái cực muộn nổi cao lên. Sóng T hòa vào sóng U tạo ảo giác khoảng QT kéo dài (thực chất là QU dài), tạo điều kiện cho ngoại tâm thu thất kích hoạt cơn Xoắn đỉnh (Torsades de pointes). ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_17",
+      "text": "Giới hạn nồng độ và tốc độ truyền Kali Clorid qua tĩnh mạch NGOẠI VI Theo tiêu chuẩn an toàn điều trị, giới hạn nồng độ và tốc độ tối đa cho phép khi truyền tĩnh mạch KCl qua đường NGOẠI VI là bao nhiêu?",
+      "options": [
+        "Nồng độ ≤ 100 mmol/L, tốc độ ≤ 40 mmol/giờ.",
+        "Tốc độ tối đa ≤ 10 – 20 mmol/giờ (thường duy trì ≤ 10 mmol/h) với nồng độ dung dịch truyền ≤ 40 mmol/L.",
+        "Tốc độ ≤ 5 mmol/h, nồng độ ≤ 10 mmol/L.",
+        "Tiêm bolus trực tiếp ống KCl 10%."
+      ],
+      "correct": 0,
+      "explanation": "Kali nồng độ cao gây kích ứng nội mạc dữ dội, gây đau buốt, viêm tắc tĩnh mạch và hoại tử mô nếu chệch ven. Giới hạn ngoại vi an toàn: nồng độ <= 40 mmol/L (1 ống KCl 10% 10ml chứa 13.4 mmol pha trong chai 500ml đạt 26 mmol/L); tốc độ <= 10 - 20 mmol/h. Tuyệt đối cấm tiêm tĩnh mạch trực tiếp (bolus) vì gây ngừng tim tức thì! ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_18",
+      "text": "Vai trò của Magnesi trong Hạ Kali máu kháng trị Tại sao khi bệnh nhân bị Hạ Kali máu trơ kháng trị không bù lên được, xét nghiệm và bù Magnesi máu là bắt buộc?",
+      "options": [
+        "Vì Magnesi gắn với Kali tạo phức chất hòa tan.",
+        "Ion Mg2+ nội bào là chất ức chế tự nhiên kênh ROMK tại ống góp thận; khi hạ Magnesi máu, kênh ROMK mở toang liên tục làm thận đào thải Kali mất kiểm soát ra nước tiểu; bắt buộc phải bù Magnesi thì thận mới giữ được Kali.",
+        "Vì Magnesi kích thích tụy tiết Insulin.",
+        "Vì Magnesi làm tăng hấp thu Kali ở dạ dày."
+      ],
+      "correct": 0,
+      "explanation": "Magnesi đóng vai trò chiếc nút chặn kênh ROMK. Thiếu Mg2+ nội bào làm kênh ROMK mở toang không hồi phục, bao nhiêu Kali truyền vào đều bị thận tống ra nước tiểu hết. Bù MgSO4 2-4g sẽ đóng kênh ROMK và phục hồi nồng độ Kali máu. ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_19",
+      "text": "Bốn nấc biến đổi Điện tâm đồ theo nồng độ của Tăng Kali máu Trình tự biến đổi trên Điện tâm đồ khi nồng độ Kali máu tăng dần từ 5,5 đến > 8,0 mmol/L là gì?",
+      "options": [
+        "Xuất hiện sóng U -> ST chênh xuống -> QRS hẹp -> Nhịp nhanh xoang.",
+        "(1) Sóng T cao nhọn đối xứng đáy hẹp -> (2) Khoảng PR kéo dài, sóng P dẹt dần rồi mất -> (3) Phức bộ QRS giãn rộng tạo sóng hình sin (Sine wave) -> (4) Rung thất hoặc Ngừng tim (Vô tâm thu).",
+        "Block nhánh phải -> Sóng Q hoại tử -> ST chênh lên.",
+        "Nhịp chậm xoang đơn thuần không đổi hình thái sóng."
+      ],
+      "correct": 0,
+      "explanation": "Nấc 1 (K 5.5 - 6.5): Sóng T nhọn đối xứng đáy hẹp (lều tranh). Nấc 2 (K 6.5 - 7.5): Dẫn truyền nhĩ thất chậm, PR dài, P dẹt rồi biến mất hoàn toàn. Nấc 3 (K 7.5 - 8.5): Chậm dẫn truyền trong thất, QRS giãn rộng hòa lẫn sóng T tạo sóng hình sin (Sine wave). Nấc 4 (K > 8.5): Rung thất hoặc ngừng tim thì tâm trương. ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_20",
+      "text": "Bốn bước chiến lược cấp cứu Tăng Kali máu nặng Bốn bước xử trí cấp cứu Tăng Kali máu có biến đổi điện tâm đồ theo thứ tự cơ chế sinh lý là gì?",
+      "options": [
+        "Tiêm Furosemide -> Cho uống nước -> Chạy thận -> Bù Calci.",
+        "Bước 1: Ổn định màng cơ tim tức thì (tiêm tĩnh mạch Calci Clorid/Gluconat 10%); Bước 2: Đẩy Kali vào trong tế bào (Insulin + Glucose ưu trương, khí dung Salbutamol); Bước 3: Đào thải Kali ra khỏi cơ thể (Furosemide, nhựa trao đổi ion Resonium/Lokelma); Bước 4: Lọc máu cấp cứu (khi trơ nội khoa hoặc suy thận vô niệu).",
+        "Tiêm Adrenalin -> Khí dung nước muối -> Đặt nội khí quản -> Uống Kali.",
+        "Chỉ cần truyền dịch muối NaCl 0.9% tốc độ cao."
+      ],
+      "correct": 0,
+      "explanation": "4 bước kinh điển: (1) Bảo vệ tim tức thì bằng Calci (tác dụng sau 1-3 phút); (2) Giấu Kali tạm thời vào tế bào bằng Insulin + Glucose, Salbutamol, NaHCO3 (sau 15-30 phút); (3) Lấy Kali ra khỏi cơ thể qua thận (Furosemide) hoặc phân (Resonium, Lokelma); (4) Lọc máu cấp cứu khi K > 6.5 trơ hoặc vô niệu. ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_21",
+      "text": "Phân bố Calci và Tỷ lệ Calci ion hóa tự do có hoạt tính sinh học Tổng lượng Calci cơ thể khoảng 1 – 1,5 kg (chiếm 2% TLCT). Phân bố Calci trong cơ thể và dạng Calci có hoạt tính sinh học là gì?",
+      "options": [
+        "50% ở xương và 50% ở máu.",
+        "99% nằm trong xương và răng dưới dạng hydroxyapatite; 1% ở ngoại bào; trong máu dạng ion hóa tự do (Ca2+) chiếm 45% – 50% là dạng DUY NHẤT có hoạt tính sinh học.",
+        "Dạng gắn kết với Albumin là dạng có hoạt tính co cơ.",
+        "Toàn bộ Calci trong máu đều có hoạt tính sinh học như nhau."
+      ],
+      "correct": 0,
+      "explanation": "99% Calci nằm ở xương. Trong huyết tương: 45 - 50% ở dạng ion hóa tự do Ca2+ (trị số sinh lý 1.1 – 1.3 mmol/L) là dạng duy nhất tham gia dẫn truyền thần kinh, co cơ và đông máu; 40 - 45% gắn với Albumin (không hoạt tính); 10% tạo phức với citrate/phosphate. ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_22",
+      "text": "Công thức hiệu chỉnh Calci toàn phần theo Albumin máu Khi nồng độ Albumin máu giảm dưới mức bình thường (4,0 g/dL hay 40 g/L), công thức hiệu chỉnh nồng độ Calci toàn phần là gì?",
+      "options": [
+        "Calci hiệu chỉnh = Calci đo được * Albumin.",
+        "Calci hiệu chỉnh (mg/dL) = Calci đo được + 0,8 * (4,0 - Albumin [g/dL]).",
+        "Calci hiệu chỉnh = Calci đo được - 0,8 * Albumin.",
+        "Calci hiệu chỉnh = Calci đo được / 2."
+      ],
+      "correct": 0,
+      "explanation": "Cứ Albumin giảm 1.0 g/dL (10 g/L) thì Calci toàn phần giảm giả tạo 0.8 mg/dL (0.2 mmol/L) trong khi Ca2+ ion hóa tự do vẫn bình thường. Công thức chuẩn: Ca hiệu chỉnh (mg/dL) = Ca đo + 0.8 * (4.0 - Albumin g/dL). ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_23",
+      "text": "Tác động của Kiềm máu lên nồng độ Calci ion hóa tự do Tại sao tình trạng Kiềm hô hấp cấp (do tăng thông khí, thở nhanh) lại làm khởi phát cơn co giật Tetany dù tổng lượng Calci toàn phần trong máu không đổi?",
+      "options": [
+        "Kiềm máu phá hủy ion Calci thành chất khác.",
+        "Khi máu bị kiềm hóa (pH tăng), ion H+ rời khỏi các gốc carboxyl của Albumin làm Albumin tích điện âm nhiều hơn, dẫn đến TĂNG GẮN KẾT ion Ca2+ tự do vào Albumin, làm nồng độ Ca2+ ion hóa tự do trong máu tụt dốc cấp tính kích hoạt cơn Tetany.",
+        "Kiềm máu kích thích thận đào thải toàn bộ Calci ra nước tiểu.",
+        "Kiềm máu ức chế tuyến cận giáp tiết PTH."
+      ],
+      "correct": 0,
+      "explanation": "H+ và Ca2+ cạnh tranh gắn vào Albumin. Khi kiềm máu (thiếu H+), Albumin tăng hút Ca2+ tự do làm nồng độ Ca2+ ion hóa tụt sâu -> tăng tính thấm màng thần kinh với Natri -> màng sợi thần kinh tự phát xung động liên tục gây co cứng cơ, tê môi và cơn Tetany. ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_24",
+      "text": "Khám lâm sàng hai dấu hiệu kích thích thần kinh cơ trong Hạ Calci máu Hai nghiệm pháp kinh điển khám phát hiện hạ Calci máu tiềm tàng là Dấu Chvostek và Dấu Trousseau được thực hiện và đánh giá như thế nào?",
+      "options": [
+        "Chvostek ở bàn tay, Trousseau ở bàn chân.",
+        "Dấu Chvostek: Gõ trước nắp tai (vị trí dây VII) thấy giật cơ mặt cùng bên (mép môi, cánh mũi); Dấu Trousseau: Bơm bao đo HA cao hơn HATT 20 mmHg giữ 3 phút thấy co thắt các ngón tay tạo tư thế \"bàn tay người đỡ đẻ\" (Trousseau nhạy và đặc hiệu hơn Chvostek).",
+        "Gõ phản xạ gân xương bánh chè thấy mất phản xạ.",
+        "Soi đáy mắt thấy phù gai thị."
+      ],
+      "correct": 0,
+      "explanation": "Dấu Chvostek: kích thích cơ học dây thần kinh số VII. Dấu Trousseau (Carpopedal spasm): gây thiếu máu cục bộ cánh tay bộc lộ tính quá kích thích thần kinh cơ tiềm ẩn -> cổ tay gập, ngón cái khép gập vào lòng bàn tay. Trousseau có độ đặc hiệu tới 99% cho hạ Calci máu. ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_25",
+      "text": "Phác đồ tiêm tĩnh mạch cấp cứu Hạ Calci máu có triệu chứng Khi bệnh nhân hạ Calci máu có cơn Tetany, co giật hoặc khoảng QT kéo dài nguy hiểm, phác đồ tiêm tĩnh mạch cấp cứu là gì?",
+      "options": [
+        "Uống viên Calci sủi 500 mg.",
+        "Tiêm tĩnh mạch chậm CaCl2 10% 10 ml (hoặc Calci Gluconate 10% 10 – 30 ml) trong vòng 10 phút dưới monitor ECG, sau đó duy trì truyền tĩnh mạch liên tục trong 6 – 12 giờ.",
+        "Tiêm bắp sâu Calci Clorid.",
+        "Truyền Glucose 5% đơn độc."
+      ],
+      "correct": 0,
+      "explanation": "Cấp cứu hạ Calci máu có triệu chứng bắt buộc dùng đường tĩnh mạch: 1 ống CaCl2 10% 10ml (chứa 272 mg Ca nguyên chất) hoặc 1-3 ống Calci Gluconate 10% tiêm chậm trong 10 phút. Tuyệt đối cấm tiêm bắp CaCl2 vì gây hoại tử da và mô nghiêm trọng. ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_26",
+      "text": "Hai nhóm nguyên nhân phổ biến nhất chiếm > 90% các ca Tăng Calci máu Trên thực hành lâm sàng, hơn 90% các trường hợp Tăng Calci máu (> 10,5 mg/dL) xuất phát từ 2 nhóm bệnh lý nào?",
+      "options": [
+        "Do ăn quá nhiều hải sản và uống sữa.",
+        "Cường tuyến cận giáp tiên phát (Primary Hyperparathyroidism - thường gặp ở ngoại trú) VÀ Bệnh lý ác tính / Ung thư (Malignancy - thường gặp ở bệnh nhân nằm viện).",
+        "Suy thận cấp và suy gan.",
+        "Thiếu hụt Vitamin D bẩm sinh."
+      ],
+      "correct": 0,
+      "explanation": "90% tăng Calci máu do: (1) Cường cận giáp tiên phát (u tuyến cận giáp tiết thừa PTH); (2) Ung thư (tiết PTHrP như ung thư phổi vảy, di căn tiêu xương như ung thư vú, hoặc đa u tủy xương). ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_27",
+      "text": "Biến đổi Điện tâm đồ đặc trưng của Tăng Calci máu Dấu hiệu biến đổi điện tâm đồ đặc trưng nhất của Tăng Calci máu nặng là gì?",
+      "options": [
+        "Khoảng QT bị kéo dài bất thường.",
+        "Khoảng QT bị RÚT NGẮN LẠI (Shortened QT interval, QTc < 360 ms) do rút ngắn thời gian Pha 2 bình nguyên của điện thế hoạt động cơ thất.",
+        "Sóng T dẹt và xuất hiện sóng U.",
+        "Block nhánh phải hoàn toàn."
+      ],
+      "correct": 0,
+      "explanation": "Nồng độ Ca2+ ngoại bào cao đẩy nhanh dòng Calci vào sớm trong pha 2 -> mở sớm kênh Kali tái cực pha 3 -> rút ngắn pha bình nguyên -> khoảng QT ngắn lại rõ rệt. Điểm đối lập kinh điển: Hạ Calci làm QT kéo dài, Tăng Calci làm QT ngắn lại. ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_28",
+      "text": "Bốn mũi nhọn trong phác đồ cấp cứu Cơn Tăng Calci máu ác tính (> 14 mg/dL) Bốn biện pháp điều trị phối hợp cấp cứu tăng Calci máu nặng theo thứ tự ưu tiên là gì?",
+      "options": [
+        "Uống nhiều sữa -> Tiêm Insulin -> Chạy thận -> Uống Vitamin D.",
+        "(1) Bồi phụ thể tích tuần hoàn bằng truyền NaCl 0.9% thể tích lớn (200 – 300 ml/h) + Furosemide khi đủ dịch; (2) Calcitonin tiêm bắp/dưới da 4 UI/kg (tác dụng nhanh 4-6h); (3) Bisphosphonate truyền tĩnh mạch (Zoledronic acid 4 mg hoặc Pamidronate 60-90 mg, tác dụng mạnh kéo dài sau 2-4 ngày); (4) Corticosteroid (chỉ định trong u hạt Sarcoidosis, lao, đa u tủy, ngộ độc Vitamin D).",
+        "Tiêm Calci Clorid liều cao.",
+        "Hạn chế dịch truyền hoàn toàn."
+      ],
+      "correct": 0,
+      "explanation": "Trụ cột số 1 là truyền NaCl 0.9% tốc độ cao (2-4 lít/ngày) để bù lượng nước mất và tăng bài niệu Calci qua thận. Calcitonin phát huy hiệu quả nhanh trong 24h đầu nhưng bị nhờn thuốc sau 48h. Bisphosphonate ức chế hủy xương mạnh kéo dài nhiều tuần. Corticoid ức chế men 1-alpha-hydroxylase của đại thực bào trong u hạt và u lympho. ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_29",
+      "text": "Thuốc cấp cứu lựa chọn số 1 trong Cơn Xoắn đỉnh (Torsades de pointes) Khi xuất hiện cơn nhịp nhanh thất đa hình thái xoay quanh đường đẳng điện (Cơn Xoắn đỉnh - TdP) trên nền QT kéo dài, thuốc cấp cứu tiêm tĩnh mạch lựa chọn hàng đầu là gì?",
+      "options": [
+        "Amiodarone 150 mg tiêm tĩnh mạch.",
+        "Magnesi Sulfat (MgSO4) liều 2 gam tiêm tĩnh mạch chậm trong 1 – 2 phút (kể cả khi nồng độ Magnesi máu xét nghiệm trước đó bình thường).",
+        "Digoxin 0.5 mg tiêm tĩnh mạch.",
+        "Verapamil 5 mg tiêm tĩnh mạch."
+      ],
+      "correct": 0,
+      "explanation": "MgSO4 2g tiêm TM là thuốc cấp cứu đầu tay của AHA/ESC cắt cơn Xoắn đỉnh. Magnesi chẹn dòng Calci vào sớm pha 2, dập tắt các hiện tượng khử cực sớm sau (EADs) gây xoắn đỉnh. Tác dụng này phát huy hiệu quả ngay cả khi Magnesi máu bình thường. Chống chỉ định dùng tiếp Amiodarone vì Amiodarone làm QT dài thêm gây ngừng tim. ---"
+    },
+    {
+      "id": "bank_im45_ly_thuyet_dien_giai_30",
+      "text": "Dấu hiệu lâm sàng sớm nhất cảnh báo ngộ độc Magnesi khi điều trị Tiền sản giật Khi truyền liên tục Magnesi Sulfat (MgSO4) cho sản phụ tiền sản giật, dấu hiệu lâm sàng sớm nhất báo hiệu nồng độ Magnesi máu đã vượt ngưỡng an toàn bắt đầu ngộ độc (đạt 3,5 – 5,0 mmol/L) là gì?",
+      "options": [
+        "Đồng tử giãn to mất phản xạ.",
+        "MẤT HOÀN TOÀN PHẢN XẠ GÂN XƯƠNG BÁNH CHÈ (khám bằng búa gõ phản xạ gân xương).",
+        "Ngừng thở đột ngột.",
+        "Hôn mê sâu."
+      ],
+      "correct": 0,
+      "explanation": "Trình tự ngộ độc Magnesi: (1) Mất phản xạ gân xương bánh chè (3.5 - 5.0 mmol/L); (2) Ức chế hô hấp thở chậm < 12 l/p (5.0 - 6.5 mmol/L); (3) Ngừng thở và block nhĩ thất ngừng tim (> 7.5 mmol/L). Khi mất phản xạ gân xương, phải ngừng Magnesi ngay và tiêm thuốc giải độc đặc hiệu là Calci Gluconate 10% 10ml tiêm TM."
+    }
+  ]
+}

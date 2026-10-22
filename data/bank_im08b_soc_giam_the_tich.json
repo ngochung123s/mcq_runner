@@ -1,0 +1,247 @@
+{
+  "id": "bank_im08b_soc_giam_the_tich",
+  "title": "IM-08b: Sốc Giảm Thể Tích & Sốc Mất Máu Toàn Diện (20 Câu Chuẩn Hóa Cân Đối)",
+  "description": "Bộ ngân hàng trắc nghiệm chuẩn hóa loại bỏ bẫy câu dài nhất, cân đối 4 lựa chọn ngang nhau, bao phủ 4 độ sốc ATLS, bẫy Hct, dược động dịch truyền, MTP 1:1:1 và hạ HA cho phép.",
+  "questions": [
+    {
+      "id": "bank_im08b_soc_giam_the_tich_01",
+      "text": "Sự khác biệt căn bản nhất giữa Sốc mất máu và Sốc giảm thể tích do mất nước đơn thuần là gì?",
+      "options": [
+        "Sốc mất máu làm giảm cả thể tích huyết tương lẫn khối hồng cầu vận chuyển oxy mô",
+        "Sốc mất nước làm sụt giảm nghiêm trọng nồng độ ion Natri máu hơn sốc mất máu cấp tính",
+        "Sốc mất máu làm tăng áp lực tĩnh mạch trung tâm trong khi sốc mất nước làm giảm CVP",
+        "Sốc mất máu luôn làm nhịp tim chậm lại trong khi sốc mất nước làm tăng nhịp tim nhanh"
+      ],
+      "correct": 0,
+      "explanation": "Sốc mất máu làm mất đồng thời cả thể tích nội mạch và lượng Hemoglobin vận chuyển oxy mô. Sốc mất nước chỉ mất nước điện giải, khối hồng cầu còn nguyên vẹn gây hiện tượng máu cô (Hct tăng)."
+    },
+    {
+      "id": "bank_im08b_soc_giam_the_tich_02",
+      "text": "Theo phân loại ATLS, bệnh nhân sốc mất máu ĐỘ I (< 15% thể tích tuần hoàn) có đặc điểm nào?",
+      "options": [
+        "Mất trên 1.500 ml máu, huyết áp tâm thu tụt sâu dưới 80 mmHg và bệnh nhân hôn mê",
+        "Mất dưới 750 ml máu, mạch dưới 100 lần/phút, huyết áp và nhịp thở hoàn toàn bình thường",
+        "Mạch nhanh trên 120 lần/phút, thở nhanh nông trên 30 lần/phút và thiểu niệu rõ rệt",
+        "Huyết áp kẹt với hiệu số dưới 20 mmHg và bắt buộc phải truyền máu khẩn cấp ngay"
+      ],
+      "correct": 1,
+      "explanation": "Độ I (< 750 ml, < 15%): Mạch < 100 l/p, huyết áp và nhịp thở bình thường, tri giác tỉnh. Bù dịch tinh thể là đủ."
+    },
+    {
+      "id": "bank_im08b_soc_giam_the_tich_03",
+      "text": "Dấu hiệu lâm sàng then chốt nào xuất hiện đầu tiên để phân biệt Sốc mất máu ĐỘ II (15 – 30%) với Độ I?",
+      "options": [
+        "Xuất hiện các mảng vân tím loang lổ lan rộng từ khớp gối lên đến vùng bẹn hai bên",
+        "Bệnh nhân rơi vào trạng thái lơ mơ mất ý thức và ngừng bài tiết nước tiểu hoàn toàn",
+        "Nhịp tim bắt đầu nhanh trên 100 lần/phút và hiệu số huyết áp bắt đầu bị kẹt lại",
+        "Huyết áp tâm thu tụt sâu xuống dưới 70 mmHg kèm theo tiếng tim đập mờ xa xăm"
+      ],
+      "correct": 2,
+      "explanation": "Độ II (750 - 1.500 ml, 15 - 30%): Mạch nhanh > 100 l/p, thở nhanh 20 - 30 l/p, co mạch bù trừ làm tăng HATD khiến huyết áp bị kẹp/kẹt."
+    },
+    {
+      "id": "bank_im08b_soc_giam_the_tich_04",
+      "text": "Theo phân loại ATLS, Sốc mất máu ĐỘ III (30 – 40% thể tích) chính thức bộc lộ dấu hiệu sinh tồn nào?",
+      "options": [
+        "Bệnh nhân hoàn toàn tỉnh táo và lượng nước tiểu vẫn duy trì trên 40 ml mỗi giờ",
+        "Nhịp tim chậm dưới 50 lần/phút do phản xạ ức chế giao cảm phó vị của tim",
+        "Huyết áp tâm thu dao động bình thường nhưng nồng độ men gan AST và ALT tăng vọt",
+        "Huyết áp tâm thu chính thức tụt dưới 90 mmHg và bắt buộc phải phối hợp truyền máu"
+      ],
+      "correct": 3,
+      "explanation": "Độ III (1.500 - 2.000 ml, 30 - 40%): Mất bù thực sự! HATT tụt < 90 mmHg, mạch > 120 l/p, thiểu niệu rõ. Bắt buộc phải bù dịch tinh thể kết hợp truyền máu!"
+    },
+    {
+      "id": "bank_im08b_soc_giam_the_tich_05",
+      "text": "Tại sao trong sốc mất máu cấp tính ồ ạt ở giờ đầu tiên, chỉ số Hematocrit (Hct) đo được lại bình thường?",
+      "options": [
+        "Do mất máu toàn phần nên tỷ lệ phần trăm giữa thể tích hồng cầu và huyết tương chưa đổi",
+        "Do lách co bóp tống toàn bộ lượng máu dự trữ đậm đặc vào hệ thống đại tuần hoàn",
+        "Do tủy xương tăng sinh và giải phóng hàng tỷ hồng cầu non vào máu để bù đắp tức thì",
+        "Do máy đo huyết học tự động hiệu chỉnh nồng độ hồng cầu theo diện tích da cơ thể"
+      ],
+      "correct": 0,
+      "explanation": "Mất máu toàn phần làm mất cả hồng cầu và huyết tương theo cùng một tỷ lệ -> Hct trong giờ đầu không đổi. Hct chỉ giảm sau vài giờ khi dịch từ mô kẽ bù vào lòng mạch hoặc sau khi truyền dịch."
+    },
+    {
+      "id": "bank_im08b_soc_giam_the_tich_06",
+      "text": "Hiện tượng Máu cô (Hct tăng vọt trên 50 – 55%) là dấu ấn đặc trưng của nhóm bệnh lý nào sau đây?",
+      "options": [
+        "Chấn thương vỡ tạng đặc gây chảy máu ồ ạt vào trong khoang phúc mạc ổ bụng",
+        "Sốc giảm thể tích do mất nước nặng (tiêu chảy cấp, nôn) hoặc mất huyết tương do bỏng",
+        "Sốc tắc nghẽn do tràn khí màng phổi áp lực làm cản trở tuần hoàn trở về tim",
+        "Sốc tim do nhồi máu cơ tim thất trái diện rộng biến chứng suy giảm chức năng bơm"
+      ],
+      "correct": 1,
+      "explanation": "Mất nước (tiêu chảy, nôn) hoặc mất huyết tương (bỏng) làm mất dịch trong khi hồng cầu giữ lại -> máu bị cô đặc, Hct tăng cao."
+    },
+    {
+      "id": "bank_im08b_soc_giam_the_tich_07",
+      "text": "Nếu truyền tĩnh mạch 1.000 ml dung dịch Glucose 5%, thể tích thực tế giữ lại trong lòng mạch là bao nhiêu?",
+      "options": [
+        "Khoảng 250 ml dịch ở lại trong lòng mạch máu và 750 ml phân bố ở mô kẽ",
+        "Khoảng 500 ml dịch ở lại trong lòng mạch máu và 500 ml thoát vào tế bào",
+        "Khoảng 80 – 100 ml (khoảng 1/12 tổng thể tích dịch đưa vào lòng mạch tuần hoàn)",
+        "Toàn bộ 1.000 ml dịch đều được giữ lại trong lòng mạch nhờ áp lực keo đường"
+      ],
+      "correct": 2,
+      "explanation": "Glucose bị chuyển hóa hết để lại nước tự do: 2/3 vào tế bào, 1/3 ở ngoại bào. Trong ngoại bào, lòng mạch chiếm 1/4 -> chỉ có 1/12 (~83 ml) ở lại lòng mạch. CẤM dùng G5% hồi sức nâng áp."
+    },
+    {
+      "id": "bank_im08b_soc_giam_the_tich_08",
+      "text": "Tỷ lệ thể tích giữ lại trong lòng mạch sau khi truyền 1.000 ml dung dịch tinh thể đẳng trương (NaCl 0.9%) là gì?",
+      "options": [
+        "Khoảng 50 ml ở lại trong lòng mạch và toàn bộ lượng dịch còn lại thoát ra nước tiểu",
+        "Khoảng 800 ml ở lại trong lòng mạch máu và chỉ có 200 ml phân bố ra khoang gian bào",
+        "Toàn bộ 1.000 ml đều được giữ nguyên vẹn trong lòng mạch suốt 24 giờ sau truyền",
+        "Khoảng 200 – 250 ml (khoảng 1/4 đến 1/5 thể tích truyền) giữ lại trong lòng mạch"
+      ],
+      "correct": 3,
+      "explanation": "Dịch tinh thể phân bố đều trong toàn bộ dịch ngoại bào (lòng mạch chiếm 1/4) -> truyền 1 lít chỉ giữ được 200 - 250 ml trong lòng mạch, 750 ml thoát ra mô kẽ."
+    },
+    {
+      "id": "bank_im08b_soc_giam_the_tich_09",
+      "text": "Trong cấp cứu sốc mất máu tối khẩn cấp khi chưa kịp làm phản ứng chéo, loại máu nào được chỉ định truyền ngay?",
+      "options": [
+        "Khối hồng cầu nhóm O (O Rh âm cho nữ tuổi sinh đẻ, O Rh dương cho nam giới)",
+        "Bắt buộc chờ tối thiểu 45 phút để phòng xét nghiệm hoàn tất phản ứng hòa hợp chéo",
+        "Huyết tương tươi đông lạnh nhóm O đã được làm ấm lên nhiệt độ 37 độ C",
+        "Khối hồng cầu nhóm AB Rh dương vì có thể nhận được mọi loại kháng thể trong huyết tương"
+      ],
+      "correct": 0,
+      "explanation": "Tối khẩn cấp: Truyền ngay hồng cầu nhóm O (O Rh âm cho phụ nữ tuổi sinh sản để tránh bất đồng Rh thai kỳ, O Rh dương cho nam giới)."
+    },
+    {
+      "id": "bank_im08b_soc_giam_the_tich_10",
+      "text": "Tỷ lệ các thành phần trong Phác đồ truyền máu khối lượng lớn (MTP) cân bằng hiện đại là bao nhiêu?",
+      "options": [
+        "Chỉ truyền duy nhất khối hồng cầu rửa kết hợp dung dịch keo cao phân tử HES",
+        "Tỷ lệ 1 : 1 : 1 (1 đơn vị Khối hồng cầu : 1 Huyết tương tươi : 1 Khối tiểu cầu)",
+        "Tỷ lệ 4 đơn vị Khối hồng cầu kết hợp truyền xả nhanh 4 lít dung dịch NaCl 0.9%",
+        "Tỷ lệ 10 đơn vị Khối hồng cầu : 2 đơn vị Huyết tương tươi : 1 Khối tiểu cầu"
+      ],
+      "correct": 1,
+      "explanation": "MTP cân bằng tỷ lệ 1:1:1 (Hồng cầu : Huyết tương tươi : Tiểu cầu) giúp mô phỏng máu toàn phần, ngăn ngừa rối loạn đông máu và dập tắt tam chứng tử vong."
+    },
+    {
+      "id": "bank_im08b_soc_giam_the_tich_11",
+      "text": "Khái niệm 'Hạ huyết áp chấp nhận được' (Permissive Hypotension) trong sốc mất máu chấn thương là gì?",
+      "options": [
+        "Chỉ áp dụng cho các bệnh nhân có kèm theo chấn thương sọ não và phù não nặng nề",
+        "Không can thiệp truyền dịch hay máu cho đến khi phẫu thuật viên rạch da cầm máu",
+        "Duy trì HATT 80 – 90 mmHg (đủ tưới máu não), tránh nâng quá cao làm bung nút huyết khối",
+        "Dùng thuốc hạ áp tĩnh mạch để đưa huyết áp tâm thu bệnh nhân xuống dưới 60 mmHg"
+      ],
+      "correct": 2,
+      "explanation": "Permissive Hypotension: Giữ HATT 80 - 90 mmHg để không làm bung nút huyết khối đang hình thành tại mạch máu rách. Chống chỉ định khi có chấn thương sọ não."
+    },
+    {
+      "id": "bank_im08b_soc_giam_the_tich_12",
+      "text": "Tam chứng tử vong (Lethal Triad) trong sốc chấn thương mất máu nặng đe dọa tính mạng gồm những gì?",
+      "options": [
+        "Tăng huyết áp kịch phát, nhịp tim chậm xoang và rối loạn nhịp thở kiểu Cheyne-Stokes",
+        "Sốt cao co giật, tăng đường huyết phản ứng và suy giảm chức năng bài tiết của thận",
+        "Tăng Kali máu ác tính, hạ Natri máu nhược trương và tăng nồng độ Calci máu toàn phần",
+        "Hạ thân nhiệt (< 35 độ C), Toan chuyển hóa nặng (pH < 7,20), và Rối loạn đông máu"
+      ],
+      "correct": 3,
+      "explanation": "Tam chứng tử vong: Hạ thân nhiệt + Toan chuyển hóa + Rối loạn đông máu. Ba yếu tố này tác động hiệp đồng tạo vòng xoắn tử vong trên bàn mổ."
+    },
+    {
+      "id": "bank_im08b_soc_giam_the_tich_13",
+      "text": "Thuốc chống tiêu sợi huyết Acid Tranexamic (TXA) phát huy hiệu quả giảm tử vong tối ưu khi dùng vào thời điểm nào?",
+      "options": [
+        "Dùng càng sớm càng tốt trong vòng 3 giờ đầu tiên kể từ thời điểm xảy ra chấn thương",
+        "Chỉ dùng khi xét nghiệm thấy nồng độ D-dimer trong máu tăng cao gấp 10 lần bình thường",
+        "Dùng sau 6 giờ tính từ lúc chấn thương khi các yếu tố đông máu đã bị tiêu thụ hết",
+        "Chỉ được dùng sau khi bệnh nhân đã được phẫu thuật khâu cầm máu thành công 24 giờ"
+      ],
+      "correct": 0,
+      "explanation": "Thử nghiệm CRASH-2: Dùng TXA trong vòng 3 giờ đầu sau chấn thương làm giảm tử vong do chảy máu. Dùng muộn sau 3 giờ có thể làm tăng nguy cơ tử vong."
+    },
+    {
+      "id": "bank_im08b_soc_giam_the_tich_14",
+      "text": "Gãy xương chậu không vững trong chấn thương nặng có thể gây mất máu ngầm vào khoang sau phúc mạc bao nhiêu?",
+      "options": [
+        "Chỉ gây mất máu rỉ rả khoảng 500 ml sau khi bệnh nhân tập đi lại vận động nặng",
+        "Có thể mất từ 1.500 đến trên 3.000 ml máu, đủ sức đẩy bệnh nhân vào sốc mất máu tử vong",
+        "Chỉ mất khoảng 100 đến 200 ml máu và tự cầm máu được nhờ bao xơ màng xương bọc quanh",
+        "Không bao giờ gây sốc mất máu vì khoang sau phúc mạc có áp lực dương rất cao"
+      ],
+      "correct": 1,
+      "explanation": "Vỡ khung chậu không vững có thể gây mất ngầm 1.500 - 3.000 ml máu trong khoang sau phúc mạc, gây sốc mất máu tối cấp mà không thấy vết thương hở ngoài da."
+    },
+    {
+      "id": "bank_im08b_soc_giam_the_tich_15",
+      "text": "Gãy kín một thân xương đùi ở người trưởng thành thường gây mất máu nội tại vào khoang cơ đùi khoảng bao nhiêu?",
+      "options": [
+        "Khoảng 100 – 200 ml máu trong bao khớp gối",
+        "Khoảng 5.000 ml máu làm căng phồng toàn bộ chi",
+        "Khoảng 1.000 – 1.500 ml máu vào trong khoang cơ đùi",
+        "Không gây mất máu nếu màng xương đùi chưa bị rách"
+      ],
+      "correct": 2,
+      "explanation": "Gãy kín thân xương đùi mất 1.000 - 1.500 ml máu vào khối cơ đùi. Bác sĩ phải tính lượng máu mất này vào bilan dịch hồi sức ban đầu."
+    },
+    {
+      "id": "bank_im08b_soc_giam_the_tich_16",
+      "text": "Tại sao trong sốc mất máu, việc dùng thuốc co mạch Noradrenalin trước khi bù đủ dịch lại bị chống chỉ định?",
+      "options": [
+        "Vì thuốc làm giảm nhịp tim xuống dưới 40 lần/phút gây block nhĩ thất hoàn toàn",
+        "Vì Noradrenalin gây ức chế co bóp cơ tim và làm giãn nở các tĩnh mạch lớn ở bụng",
+        "Vì thuốc làm tăng nguy cơ nhiễm trùng vết mổ và kích thích bài tiết acid dạ dày",
+        "Co mạch trên lòng mạch rỗng làm tắc nghẽn vi mạch, gây hoại tử đầu chi và ruột tử vong"
+      ],
+      "correct": 3,
+      "explanation": "Co mạch khi lòng mạch cạn dịch làm mao mạch xẹp lép -> hoại tử ngón chân, hoại tử ruột và suy thận cấp. Bắt buộc phải bù dịch trước hoặc song hành."
+    },
+    {
+      "id": "bank_im08b_soc_giam_the_tich_17",
+      "text": "Chỉ số sốc (Shock Index - SI = Mạch / HATT) có giá trị nào cảnh báo sốc mất máu mức độ nặng?",
+      "options": [
+        "Khi chỉ số sốc SI ≥ 1,0 (ví dụ Mạch 110 lần/phút chia cho HATT 100 mmHg đạt 1,1)",
+        "Chỉ số sốc chỉ có giá trị khi tính toán cho bệnh nhân bị sốc do bỏng nhiệt diện rộng",
+        "Khi chỉ số sốc SI = 0,7 (nằm trong giới hạn sinh lý bình thường của người khỏe mạnh)",
+        "Khi chỉ số sốc SI < 0,5 trên lâm sàng tại giường bệnh của bệnh nhân cấp cứu"
+      ],
+      "correct": 0,
+      "explanation": "Shock Index = Nhịp tim / HATT. Bình thường 0.5 - 0.7. Khi SI >= 1.0 cảnh báo mất máu nặng và dự báo nhu cầu truyền máu khối lượng lớn MTP."
+    },
+    {
+      "id": "bank_im08b_soc_giam_the_tich_18",
+      "text": "Biến chứng Hạ Canxi máu trong truyền máu khối lượng lớn hồi sức sốc mất máu xảy ra do cơ chế nào?",
+      "options": [
+        "Do tủy xương ngừng giải phóng Canxi vào máu dưới tác động của tình trạng toan hóa máu",
+        "Chất chống đông Citrate trong túi máu tạo phức chelate gắn chặt với ion Ca2+ tự do",
+        "Do thận tăng bài tiết Canxi qua nước tiểu gấp 10 lần bình thường để cân bằng điện tích",
+        "Do các tế bào hồng cầu được truyền vào hấp thu toàn bộ lượng Canxi tự do trong máu"
+      ],
+      "correct": 1,
+      "explanation": "Chất chống đông Citrate tạo phức với Ca2+. Truyền nhiều túi máu làm citrate tích tụ gây hạ Canxi ion hóa cấp -> cần bù Canxi tĩnh mạch sau mỗi 4 - 6 đơn vị máu."
+    },
+    {
+      "id": "bank_im08b_soc_giam_the_tich_19",
+      "text": "Tại sao trong sốc mất máu nặng, việc làm ấm dịch truyền và sưởi ấm tích cực cho bệnh nhân lại là nhiệm vụ sống còn?",
+      "options": [
+        "Để làm tăng tốc độ phân hủy các chất độc chuyển hóa và hạ nhanh nồng độ men gan",
+        "Để làm giãn nở các động mạch ngoại vi giúp thuốc kháng sinh phân bố nhanh hơn vào mô",
+        "Hạ thân nhiệt (< 35 độ C) làm tê liệt chức năng tiểu cầu và các enzyme của dòng thác đông máu",
+        "Để kích thích tủy thượng thận tăng bài tiết hormone Adrenaline nội sinh nâng huyết áp"
+      ],
+      "correct": 2,
+      "explanation": "Mỗi khi thân nhiệt giảm 1 độ C, hoạt tính enzyme đông máu giảm 10%. Dưới 34 độ C, dòng thác đông máu bị tê liệt hoàn toàn gây chảy máu không cầm."
+    },
+    {
+      "id": "bank_im08b_soc_giam_the_tich_20",
+      "text": "Hội chứng khoang bụng (Abdominal Compartment Syndrome - ACS) sau hồi sức sốc truyền lượng lớn dịch được xác định khi nào?",
+      "options": [
+        "Bệnh nhân có cảm giác đầy bụng khó tiêu sau khi ăn bữa ăn đầu tiên tại phòng hồi sức",
+        "Áp lực trong ổ bụng đo được từ 5 đến 10 mmHg và lượng nước tiểu bài niệu bình thường",
+        "Khi siêu âm ổ bụng thấy xuất hiện một lớp dịch mỏng dưới bao gan kích thước dưới 5 mm",
+        "Áp lực trong ổ bụng đo qua bàng quang tăng liên tục > 20 mmHg kèm suy chức năng tạng mới"
+      ],
+      "correct": 3,
+      "explanation": "Hội chứng khoang bụng: Áp lực bàng quang > 20 mmHg kèm suy tạng mới (thiểu niệu, suy hô hấp, tụt HA). Cần mở bụng giải áp cấp cứu."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "bank_suy_giap_cases",
+  "title": "IM-53: Ca Lâm Sàng Chuyên Sâu - Bệnh Suy Giáp",
+  "description": "Bộ 10 ca lâm sàng chuyên sâu phân tích ca bệnh Hashimoto, phụ nữ mang thai, người già bệnh mạch vành, Hôn mê phù niêm, suy giáp trung ương chấn thương sọ não, tương tác canxi/sắt và bệnh cơ suy giáp.",
+  "questions": [
+    {
+      "id": "sg_case_01",
+      "text": "Bệnh nhân nữ 54 tuổi, đến khám vì mệt mỏi, sợ lạnh, tăng 5 kg trong 3 tháng dù ăn ít, táo bón 3-4 ngày/lần. Tiền sử gia đình có mẹ bị bướu cổ. Khám: Mạch 54 lần/phút, HA 135/90 mmHg, mặt tròn phù mi mắt, da khô ráp tróc vảy, tuyến giáp to độ 1 mật độ chắc không đau, phản xạ gân gót có pha giãn kéo dài. Xét nghiệm: TSH 34.5 mIU/L (bt 0.4 - 4.0), FT4 0.35 ng/dL (bt 0.8 - 1.8), Anti-TPO 680 IU/mL (bt < 35). Chẩn đoán xác định và căn nguyên là gì?",
+      "options": [
+        "Suy giáp thứ phát do u tuyến yên hoại tử",
+        "Suy giáp tiên phát do Viêm tuyến giáp tự miễn Hashimoto",
+        "Hội chứng ốm do bệnh không do tuyến giáp (Euthyroid Sick Syndrome)",
+        "Đề kháng hormone giáp ngoại vi do đột biến gen TR-beta"
+      ],
+      "correct": 1,
+      "explanation": "Bệnh nhân có biểu hiện suy giáp lâm sàng rõ rệt. Xét nghiệm TSH tăng rất cao kèm FT4 giảm sâu khẳng định suy giáp tiên phát (tại tuyến giáp). Tự kháng thể Anti-TPO dương tính nồng độ rất cao (>600 IU/mL) kèm tuyến giáp to chắc không đau là tiêu chuẩn vàng chẩn đoán căn nguyên Viêm tuyến giáp tự miễn Hashimoto."
+    },
+    {
+      "id": "sg_case_02",
+      "text": "Ở bệnh nhân nữ 54 tuổi trên, sau khi chẩn đoán Suy giáp tiên phát do Hashimoto, cân nặng hiện tại 60 kg, không có bệnh lý mạch vành. Lựa chọn liều khởi đầu Levothyroxine (L-T4) phù hợp nhất theo khuyến cáo là:",
+      "options": [
+        "Khởi đầu ngay liều thấp 12.5 mcg/ngày và hẹn tái khám sau 3 ngày",
+        "Khởi đầu liều thay thế toàn phần khoảng 1.6 mcg/kg/ngày (khoảng 75 - 100 mcg/ngày) uống 1 lần buổi sáng lúc đói",
+        "Khởi đầu liều nạp 300 mcg tiêm tĩnh mạch",
+        "Phối hợp Levothyroxine 50 mcg với Liothyronine (T3) 25 mcg uống cùng bữa ăn"
+      ],
+      "correct": 1,
+      "explanation": "Bệnh nhân dưới 60 tuổi, không có tiền sử bệnh tim mạch hoặc triệu chứng đau thắt ngực, khuyến cáo hiện nay (ATA/AACE) cho phép khởi đầu ngay bằng liều đủ (Full dose) tính theo cân nặng: 1.6 mcg/kg/ngày x 60 kg ≈ 96 mcg/ngày (dùng viên 100 mcg/ngày). Uống 1 lần duy nhất vào buổi sáng trước ăn 30-60 phút."
+    },
+    {
+      "id": "sg_case_03",
+      "text": "Bệnh nhân nam 68 tuổi, tiền sử đặt stent động mạch vành (LAD) 2 năm trước do nhồi máu cơ tim, đang dùng Aspirin, Atorvastatin. Gần đây mệt mỏi, mạch 52 ck/phút. Xét nghiệm: TSH 28 mIU/L, FT4 0.4 ng/dL. Nguyên tắc kê đơn Levothyroxine cho bệnh nhân này là:",
+      "options": [
+        "Bắt đầu ngay liều 1.6 mcg/kg/ngày để phục hồi chuyển hóa cơ tim nhanh nhất",
+        "Bắt đầu liều rất thấp 12.5 - 25 mcg/ngày, tăng dần mỗi 12.5 - 25 mcg sau mỗi 4 - 6 tuần ('Start low, go slow')",
+        "Chống chỉ định tuyệt đối Levothyroxine vì nguy cơ tái phát nhồi máu cơ tim",
+        "Chỉ dùng thuốc bồi phụ iod vô cơ dung dịch Lugol 5%"
+      ],
+      "correct": 1,
+      "explanation": "Bệnh nhân cao tuổi có bệnh mạch vành rõ rệt, bắt buộc tuân theo nguyên tắc 'Start low, go slow'. Bắt đầu liều thấp 12.5 - 25 mcg/ngày và tăng liều rất thận trọng sau mỗi 4-6 tuần dựa trên theo dõi TSH và triệu chứng đau thắt ngực. Bù liều cao đột ngột sẽ làm tăng tiêu thụ oxy cơ tim dẫn tới thiếu máu cơ tim cấp hoặc loạn nhịp thất."
+    },
+    {
+      "id": "sg_case_04",
+      "text": "Bệnh nhân nữ 29 tuổi, mang thai tuần thứ 8 (tam cá nguyệt 1). Khám thai định kỳ xét nghiệm: TSH 5.2 mIU/L (khoảng tham chiếu quý 1: 0.1 - 2.5 mIU/L), FT4 1.1 ng/dL (bình thường), Anti-TPO (+). Thái độ xử trí chuẩn mực theo hướng dẫn của Hiệp hội Tuyến giáp Hoa Kỳ (ATA) là gì?",
+      "options": [
+        "Không cần điều trị vì FT4 vẫn bình thường, chỉ theo dõi sau khi sinh",
+        "Chỉ định điều trị Levothyroxine ngay lập tức với mục tiêu đưa TSH < 2.5 mIU/L",
+        "Khuyên đình chỉ thai nghén vì nguy cơ dị tật thai nhi rất cao",
+        "Chỉ cần bổ sung viên kẽm và selen hữu cơ"
+      ],
+      "correct": 1,
+      "explanation": "Theo khuyến cáo ATA, phụ nữ mang thai có TSH > ngưỡng tham chiếu riêng (hoặc > 4.0 mIU/L) kèm Anti-TPO (+) có chỉ định BẮT BUỘC điều trị Levothyroxine để giảm nguy cơ sảy thai, sinh non và đảm bảo phát triển hệ thần kinh thai nhi. Mục tiêu TSH ở quý 1 cần đạt < 2.5 mIU/L."
+    },
+    {
+      "id": "sg_case_05",
+      "text": "Bệnh nhân nữ 78 tuổi, có tiền sử suy giáp mạn tính nhưng tự ý bỏ thuốc 6 tháng nay. Vào viện mùa đông trong tình trạng hôn mê sâu, thở chậm nông 8 lần/phút, SpO2 78%, thân nhiệt đo tại trực tràng 31.5 độ C, mạch 42 ck/phút, HA 70/40 mmHg. Mặt phù niêm nặng, da lạnh ngắt. Khí máu: PaCO2 72 mmHg, pH 7.18. Chẩn đoán khẩn cấp và chuỗi xử trí bước đầu là:",
+      "options": [
+        "Sốc nhiễm khuẩn -> Truyền nhanh 2000ml dịch muối và tiêm Noradrenaline",
+        "Hôn mê phù niêm (Myxedema coma) -> Đặt nội khí quản thở máy, tiêm Hydrocortisone 100mg IV, sau đó dùng Levothyroxine IV liều nạp và sưởi ấm thụ động",
+        "Đột quỵ nhồi máu não diện rộng -> Tiêm thuốc tiêu sợi huyết rTPA ngay",
+        "Hôn mê tăng áp lực thẩm thấu do đái tháo đường -> Truyền Insulin tĩnh mạch liều cao"
+      ],
+      "correct": 1,
+      "explanation": "Bệnh cảnh kinh điển của Hôn mê phù niêm: Hôn mê, hạ thân nhiệt sâu (<32°C), suy hô hấp ứ CO2 (CO2 narcosis), tụt HA, mạch chậm trên nền bỏ trị suy giáp vào mùa lạnh. Cấp cứu khẩn: Đặt NKQ bảo vệ đường thở, tiêm Hydrocortisone 100mg IV TRƯỚC/CÙNG LÚC để chống suy thượng thận cấp, bù L-T4 IV và sưởi ấm thụ động (tránh chăn điện gây sốc giãn mạch)."
+    },
+    {
+      "id": "sg_case_06",
+      "text": "Bệnh nhân nam 45 tuổi, tiền sử chấn thương sọ não vỡ sàn sọ 1 năm trước. Gần đây xuất hiện mệt mỏi, giảm sinh lực, huyết áp thấp 85/55 mmHg. Xét nghiệm hormone: TSH 1.8 mIU/L (nằm trong dải bình thường 0.4 - 4.0), nhưng FT4 giảm sâu 0.3 ng/dL (bt 0.8 - 1.8). Sai lầm nghiêm trọng nhất bác sĩ có thể mắc phải ở ca này là:",
+      "options": [
+        "Kết luận chức năng tuyến giáp bình thường vì thấy TSH nằm trong dải bình thường",
+        "Chỉ định chụp MRI tuyến yên và vùng dưới đồi",
+        "Xét nghiệm thêm cortisol huyết tương 8h sáng",
+        "Đánh giá các trục nội tiết thùy trước tuyến yên khác (LH, FSH, GH)"
+      ],
+      "correct": 0,
+      "explanation": "Đây là cạm bẫy kinh điển của Suy giáp trung ương (thứ phát/tam phát do tổn thương tuyến yên sau chấn thương sọ não). Tuyến yên hỏng nên TSH không thể tăng bù trừ (TSH bình thường giả tạo hoặc thấp), trong khi FT4 giảm thật sự. Nếu chỉ nhìn TSH mà kết luận bình thường sẽ bỏ sót suy giáp trung ương và suy tuyến yên toàn bộ."
+    },
+    {
+      "id": "sg_case_07",
+      "text": "Một bệnh nhân suy giáp đang uống Levothyroxine 100 mcg/ngày đều đặn. Xét nghiệm TSH 3 tháng trước là 1.5 mIU/L (rất tốt). Tháng này xét nghiệm lại thấy TSH tăng vọt lên 14 mIU/L, FT4 giảm. Bệnh nhân khẳng định không quên uống thuốc ngày nào. Khai thác bệnh sử phát hiện bệnh nhân mới được kê thêm thuốc gì có khả năng gây tương tác tương đương?",
+      "options": [
+        "Bổ sung Canxi carbonat và viên Sắt fumarat uống cùng lúc vào bữa sáng",
+        "Uống thêm Paracetamol khi đau đầu",
+        "Uống thêm Vitamin C 500mg sau ăn",
+        "Sử dụng thuốc hạ huyết áp Amlodipine 5mg"
+      ],
+      "correct": 0,
+      "explanation": "Canxi carbonat và Sắt tạo phức chelat gắn chặt với Levothyroxine trong đường tiêu hóa, làm giảm hấp thu L-T4 tới 40-50%. Thuốc bắt buộc phải uống cách xa canxi, sắt, thuốc kháng acid dạ dày chứa nhôm/magie tối thiểu 4 tiếng."
+    },
+    {
+      "id": "sg_case_08",
+      "text": "Bệnh nhân nam 50 tuổi vào viện vì đau cơ dữ dội hai đùi, mệt lả và táo bón. Xét nghiệm thấy men gan AST 120 U/L, ALT 95 U/L, men cơ CK (Creatine Kinase) tăng rất cao: 3.500 U/L (bình thường < 190). Bác sĩ tuyến trước nghĩ tới viêm đa cơ tự miễn hoặc tổn thương gan cấp. Tuy nhiên, xét nghiệm nào sau đây cần làm ngay để tránh chẩn đoán nhầm?",
+      "options": [
+        "Sinh thiết cơ đùi xâm lấn",
+        "Định lượng TSH và FT4 để tầm soát bệnh cơ do suy giáp (Hypothyroid myopathy)",
+        "Chụp cộng hưởng từ toàn thân",
+        "Định lượng nồng độ Amylase và Lipase máu"
+      ],
+      "correct": 1,
+      "explanation": "Bệnh cơ do suy giáp (Hypothyroid Myopathy - Hội chứng Hoffmann) là nguyên nhân rất hay gặp gây tăng men cơ CK từ vừa đến rất cao kèm tăng nhẹ AST/ALT, đau cơ gốc chi và giả phì đại cơ. Rất nhiều bệnh nhân bị chẩn đoán nhầm thành viêm đa cơ hoặc bệnh gan. Khi được bù đủ Levothyroxine, men CK và AST/ALT sẽ tự động trở về bình thường hoàn toàn."
+    },
+    {
+      "id": "sg_case_09",
+      "text": "Bệnh nhân nữ 42 tuổi, được chẩn đoán suy giáp dưới lâm sàng với TSH 6.2 mIU/L (ngưỡng bình thường 0.4 - 4.0), FT4 1.1 ng/dL (bình thường). Bệnh nhân không có triệu chứng lâm sàng, không có thai, không có bệnh tim mạch, Anti-TPO âm tính. Thái độ xử trí phù hợp nhất theo đồng thuận quốc tế là:",
+      "options": [
+        "Bắt đầu ngay Levothyroxine liều cao 150 mcg/ngày",
+        "Chưa cần dùng thuốc, hẹn xét nghiệm lại TSH và FT4 sau 2 - 3 tháng để xác nhận tính chất mạn tính",
+        "Chỉ định phẫu thuật cắt bỏ một thùy tuyến giáp",
+        "Tiêm tĩnh mạch dung dịch muối ưu trương 3%"
+      ],
+      "correct": 1,
+      "explanation": "Trong suy giáp dưới lâm sàng mức độ nhẹ (TSH từ 4.5 - 9.9 mIU/L) không triệu chứng và Anti-TPO âm tính, có tới 30-50% trường hợp TSH sẽ tự bình thường hóa ở lần thử sau (do stress cấp, đợt viêm thoáng qua). Khuyến cáo không vội điều trị ngay mà cần xét nghiệm lại sau 2-3 tháng để khẳng định trước khi quyết định dùng thuốc kéo dài."
+    },
+    {
+      "id": "sg_case_10",
+      "text": "Bệnh nhân nữ 35 tuổi suy giáp sau phẫu thuật cắt toàn bộ tuyến giáp vì ung thư thể nhú cách đây 1 năm. Bác sĩ yêu cầu mục tiêu TSH duy trì ở mức < 0.1 mIU/L. Lý do của mục tiêu TSH bị ức chế sâu này là gì?",
+      "options": [
+        "Để ngăn ngừa biến chứng tăng huyết áp sau mổ",
+        "Liệu pháp ức chế TSH (TSH suppression therapy) nhằm 'bỏ đói', ngăn tế bào ung thư tuyến giáp còn sót lại bị kích thích tái phát",
+        "Do bệnh nhân bị đề kháng hoàn toàn với Levothyroxine",
+        "Để kích thích tuyến thượng thận tăng tiết aldosterone bù trừ"
+      ],
+      "correct": 1,
+      "explanation": "Tế bào ung thư tuyến giáp biệt hóa (thể nhú, thể nang) vẫn mang thụ thể TSH-R trên bề mặt. Nồng độ TSH trong máu là chất kích thích tăng trưởng khối u tái phát. Vì vậy, ở bệnh nhân sau mổ K giáp nguy cơ cao, dùng L-T4 liều cao để ức chế TSH xuống < 0.1 mIU/L là biện pháp điều trị đích ngăn ngừa tái phát."
+    }
+  ],
+  "createdAt": "2026-09-05T16:31:11.018390+00:00"
+}

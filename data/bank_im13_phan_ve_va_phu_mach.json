@@ -1,0 +1,247 @@
+{
+  "id": "bank_im13_phan_ve_va_phu_mach",
+  "title": "IM-13: Phản Vệ và Phù Mạch (20 Câu Chuyên Sâu)",
+  "description": "Ngân hàng trắc nghiệm toàn diện bao phủ tiêu chuẩn chẩn đoán FAAN/NIAID, phân độ Bộ Y tế (Thông tư 51), kỹ thuật tiêm/truyền Adrenalin, Glucagon và xử trí phản vệ pha 2.",
+  "questions": [
+    {
+      "id": "im13_case_01",
+      "text": "Bệnh nhân nữ 50 tuổi, sau tiêm thuốc giảm đau Feldene (NSAID) tiêm bắp 2 phút xuất hiện: khó thở, thở rít thanh quản, phù mi mắt, nói ngắt quãng, HA 160/90 mmHg, mạch 130 lần/phút. Chẩn đoán mức độ phản vệ và thái độ xử trí cấp cứu ban đầu đúng nhất là gì?",
+      "options": [
+        "Phản vệ độ I (nhẹ); cho uống Diphenhydramin và nằm theo dõi tại phòng khám",
+        "Phản vệ độ II (nặng); tiêm bắp ngay Adrenalin 1/2 - 1 ống (0.5 - 1mg), đặt nằm đầu thấp, thở oxy qua mask",
+        "Cơn hen phế quản cấp; chỉ định xịt Ventolin và tiêm tĩnh mạch Hydrocortisone",
+        "Cơn tăng huyết áp kịch phát; cho ngậm thuốc hạ áp dưới lưỡi"
+      ],
+      "correct": 1,
+      "explanation": "Bệnh nhân có biểu hiện ở da/niêm mạc (phù mi mắt) kết hợp hô hấp (khó thở, thở rít, nói ngắt quãng) xuất hiện ngay sau tiêm thuốc. Theo Thông tư 51/2017/TT-BYT, đây là Phản vệ mức độ nặng (Độ II). Nguyên tắc vàng: Có biểu hiện hô hấp phải coi là nặng dù HA chưa tụt. Xử trí bắt buộc là tiêm bắp Adrenalin ngay lập tức (1/2 - 1 ống ở người lớn), thở oxy và nằm đầu thấp."
+    },
+    {
+      "id": "im13_case_02",
+      "text": "Một nam thiếu niên 17 tuổi, tiền sử dị ứng tôm cua. Sau khi ăn lẩu hải sản 15 phút, xuất hiện mày đay toàn thân, ngứa dữ dội, nôn mửa liên tục và đau quặn bụng. Khám thấy mạch 105 lần/phút, HA 110/70 mmHg, phổi không ran, không khó thở. Chẩn đoán mức độ phản vệ theo Bộ Y tế là gì?",
+      "options": [
+        "Phản vệ độ I (chỉ là dị ứng thức ăn thông thường)",
+        "Phản vệ độ II (Nặng - do có từ 2 cơ quan trở lên: da niêm mạc và tiêu hóa)",
+        "Phản vệ độ III (Nguy kịch)",
+        "Ngộ độc thực phẩm nhiễm khuẩn đơn thuần"
+      ],
+      "correct": 1,
+      "explanation": "Theo phân độ của Bộ Y tế: Độ II (Nặng) khi có biểu hiện từ 2 cơ quan trở lên: (1) Mày đay, phù mạch xuất hiện nhanh; (2) Tiêu hóa: Đau bụng, nôn, ỉa chảy; (3) Hô hấp; (4) Tuần hoàn chưa tụt HA. Ở đây bệnh nhân có biểu hiện da niêm kết hợp tiêu hóa rầm rộ -> Xếp Phản vệ độ II và CÓ CHỈ ĐỊNH TIÊM BẮP ADRENALIN NGAY."
+    },
+    {
+      "id": "im13_case_03",
+      "text": "Bệnh nhân nam 40 tuổi, đang truyền tĩnh mạch Cefotaxime được 5 phút thì kêu chóng mặt, vật vã, môi tái, mạch nhanh nhỏ 140 lần/phút, HA tụt xuống 60/40 mmHg, khó thở dữ dội, thở rít thanh quản. Hành động NÀO DƯỚI ĐÂY PHẢI ĐƯỢC THỰC HIỆN ĐẦU TIÊN?",
+      "options": [
+        "Tiêm tĩnh mạch Methylprednisolon 40mg để chống viêm",
+        "Ngừng ngay đường truyền Cefotaxime và tiêm bắp ngay lập tức 1 ống Adrenalin 1mg vào mặt trước ngoài đùi",
+        "Chạy đi lấy máy điện tim để đo nhịp tim",
+        "Lấy máu xét nghiệm định lượng kháng thể IgE và men Tryptase"
+      ],
+      "correct": 1,
+      "explanation": "Hành động tối khẩn cấp số 1 khi xảy ra phản vệ liên quan đến thuốc tiêm truyền là: NGỪNG NGAY LẬP TỨC TIẾP XÚC VỚI THUỐC (khóa van truyền) và TIÊM BẮP NGAY ADRENALIN. Corticoid và kháng histamin tác dụng chậm sau vài giờ, không có vai trò cứu mạng trong phút đầu tiên."
+    },
+    {
+      "id": "im13_case_04",
+      "text": "Bệnh nhân nữ 30 tuổi bị sốc phản vệ sau khi bị ong đốt, đã được tiêm bắp Adrenalin 0.5mg tổng cộng 3 lần (cách nhau mỗi 4 phút) và đã truyền nhanh 1.5 lít NaCl 0.9%, nhưng HA hiện tại vẫn là 70/40 mmHg, mạch 130 l/p, SpO2 93%. Bước xử trí tiếp theo chuẩn xác nhất là gì?",
+      "options": [
+        "Tiếp tục tiêm bắp Adrenalin lần thứ 4, thứ 5 và chờ đợi",
+        "Chuyển ngay sang truyền tĩnh mạch liên tục Adrenalin (bắt đầu liều 0.1 mcg/kg/phút), tiếp tục bù dịch và cân nhắc phối hợp Noradrenalin / dịch keo",
+        "Ngừng Adrenalin vì sợ tác dụng phụ gây tăng huyết áp kịch phát",
+        "Chỉ cho thở oxy và tiêm thêm Ranitidin tĩnh mạch"
+      ],
+      "correct": 1,
+      "explanation": "Khi bệnh nhân thất bại hoặc kém đáp ứng sau 2 - 3 lần tiêm bắp Adrenalin và đã được bù dịch cơ bản, bắt buộc phải chuyển sang đường TRUYỀN TĨNH MẠCH LIÊN TỤC ADRENALIN (khởi đầu 0.1 mcg/kg/phút, chỉnh liều mỗi 3-5 phút theo đáp ứng), đồng thời tiếp tục hồi sức dịch và phối hợp vận mạch khác nếu cần."
+    },
+    {
+      "id": "im13_case_05",
+      "text": "Bệnh nhân nam 65 tuổi, có tiền sử tăng huyết áp đang dùng thuốc chẹn beta giao cảm (Metoprolol 50mg/ngày), bị sốc phản vệ độ III do ăn tôm. Dù đã tiêm bắp Adrenalin liều tối ưu và truyền dịch đầy đủ, huyết áp bệnh nhân vẫn tụt (HA 65/40 mmHg) và nhịp tim chậm 48 lần/phút. Thuốc cứu cánh đặc hiệu được lựa chọn trong tình huống này là gì?",
+      "options": [
+        "Atropin liều cao 3mg",
+        "Glucagon tiêm tĩnh mạch 1 - 5mg trong 5 phút, sau đó truyền tĩnh mạch duy trì",
+        "Amiodarone truyền tĩnh mạch",
+        "Propranolol tiêm tĩnh mạch"
+      ],
+      "correct": 1,
+      "explanation": "Ở bệnh nhân đang dùng thuốc chẹn beta giao cảm, các thụ thể beta-adrenergic trên tim và mạch bị phong bế, khiến Adrenalin mất tác dụng. Glucagon là thuốc giải cứu đặc hiệu vì nó hoạt hóa enzyme adenylate cyclase theo con đường độc lập không qua thụ thể beta, giúp tăng co bóp cơ tim và tăng tần số tim."
+    },
+    {
+      "id": "im13_q_01",
+      "text": "Theo hướng dẫn của Bộ Y tế Việt Nam (Thông tư 51/2017/TT-BYT), phản vệ được phân chia thành mấy mức độ nặng?",
+      "options": [
+        "2 mức độ (Nhẹ và Nặng)",
+        "3 mức độ (Độ I, Độ II, Độ III)",
+        "4 mức độ (Độ I: Nhẹ, Độ II: Nặng, Độ III: Nguy kịch, Độ IV: Ngừng tuần hoàn)",
+        "5 mức độ"
+      ],
+      "correct": 2,
+      "explanation": "Phân độ phản vệ theo Thông tư 51/2017/TT-BYT gồm 4 mức độ: Độ I (Nhẹ - chỉ da niêm mạc), Độ II (Nặng - từ 2 cơ quan), Độ III (Nguy kịch - thở rít, suy hô hấp, sốc tụt HA), Độ IV (Ngừng tuần hoàn - ngừng tim, ngừng thở)."
+    },
+    {
+      "id": "im13_q_02",
+      "text": "Chỉ định bắt buộc tiêm bắp Adrenalin ngay lập tức được áp dụng cho phản vệ từ mức độ nào?",
+      "options": [
+        "Chỉ khi bệnh nhân bước vào Độ IV (ngừng tuần hoàn)",
+        "Chỉ khi có tụt huyết áp sâu (Độ III)",
+        "Ngay khi chẩn đoán phản vệ từ Độ II (mức độ Nặng) trở lên",
+        "Áp dụng cho cả Độ I (chỉ nổi vài nốt mày đay)"
+      ],
+      "correct": 2,
+      "explanation": "Nguyên tắc cốt lõi cứu mạng: Adrenalin là thuốc thiết yếu hàng đầu, phải được TIÊM BẮP NGAY LẬP TỨC KHI CHẨN ĐOÁN PHẢN VỆ TỪ ĐỘ II TRỞ LÊN. Không được chờ đợi đến khi huyết áp tụt (Độ III) mới tiêm."
+    },
+    {
+      "id": "im13_q_03",
+      "text": "Vị trí tiêm bắp Adrenalin được khuyến cáo ưu tiên hàng đầu trong cấp cứu phản vệ là ở đâu?",
+      "options": [
+        "Cơ delta cánh tay",
+        "Mặt trước - ngoài đùi (cơ tứ đầu đùi)",
+        "Vùng mông (cơ mông lớn)",
+        "Dưới da quanh rốn"
+      ],
+      "correct": 1,
+      "explanation": "Mặt trước ngoài đùi (1/3 giữa mặt ngoài đùi) là vị trí có hệ thống mạch máu phong phú, giúp Adrenalin hấp thu vào tuần hoàn nhanh hơn và đạt nồng độ đỉnh trong huyết tương cao hơn đáng kể so với tiêm ở cơ delta hay cơ mông."
+    },
+    {
+      "id": "im13_q_04",
+      "text": "Liều tiêm bắp Adrenalin (ống 1mg/1ml) khuyến cáo ban đầu cho người lớn bị phản vệ độ II trở lên là bao nhiêu?",
+      "options": [
+        "0.1 - 0.2 ml (1/10 - 1/5 ống)",
+        "0.5 - 1 ml (tương đương 1/2 đến 1 ống, tức 0.5 - 1 mg)",
+        "2 ống tiêm cùng lúc",
+        "0.01 ml"
+      ],
+      "correct": 1,
+      "explanation": "Liều tiêm bắp Adrenalin ban đầu ở người lớn là 0.5 - 1 ml (tương đương 1/2 đến 1 ống 1mg). Ở trẻ em tính theo cân nặng: trẻ <10kg dùng 1/5 ống, khoảng 10kg dùng 1/4 ống, khoảng 20kg dùng 1/3 ống, >30kg dùng 1/2 ống."
+    },
+    {
+      "id": "im13_q_05",
+      "text": "Sau liều tiêm bắp Adrenalin đầu tiên, nếu huyết áp và mạch chưa ổn định, khoảng thời gian tiêm nhắc lại khuyến cáo là bao lâu?",
+      "options": [
+        "Sau mỗi 1 - 2 phút",
+        "Sau mỗi 3 - 5 phút/lần",
+        "Sau mỗi 15 - 30 phút/lần",
+        "Sau 1 giờ"
+      ],
+      "correct": 1,
+      "explanation": "Theo dõi sát mạch và huyết áp cứ 3 - 5 phút/lần; tiêm bắp nhắc lại Adrenalin với liều tương tự sau mỗi 3 - 5 phút nếu huyết áp chưa đạt mục tiêu hoặc các dấu hiệu hô hấp/tiêu hóa chưa thuyên giảm."
+    },
+    {
+      "id": "im13_q_06",
+      "text": "Mục tiêu huyết áp tâm thu cần đạt được và duy trì trong cấp cứu phản vệ là bao nhiêu?",
+      "options": [
+        "Người lớn ≥ 90 mmHg; Trẻ em ≥ 70 mmHg",
+        "Người lớn ≥ 120 mmHg; Trẻ em ≥ 90 mmHg",
+        "Người lớn ≥ 70 mmHg; Trẻ em ≥ 50 mmHg",
+        "Chỉ cần đo được huyết áp, không quan trọng con số"
+      ],
+      "correct": 0,
+      "explanation": "Mục tiêu hồi sức phản vệ: Nâng và duy trì HATT ở người lớn ≥ 90 mmHg (trẻ em ≥ 70 mmHg), đồng thời hết hoàn toàn các dấu hiệu thở rít, khó thở và triệu chứng tiêu hóa."
+    },
+    {
+      "id": "im13_q_07",
+      "text": "Trong trường hợp sốc phản vệ nguy kịch không bắt được mạch, chưa có đường truyền tĩnh mạch và cần tiêm tĩnh mạch chậm Adrenalin, cách pha loãng chuẩn là gì?",
+      "options": [
+        "Tiêm thẳng 1 ống Adrenalin nguyên chất vào tĩnh mạch",
+        "Lấy 1 ống Adrenalin 1mg pha với 9ml nước cất (hoặc NaCl 0.9%) để được 10ml dung dịch pha loãng 1/10.000 (chứa 100 mcg/ml)",
+        "Pha 1 ống Adrenalin vào chai 500ml Glucose 5%",
+        "Pha 5 ống Adrenalin vào 10ml nước cất"
+      ],
+      "correct": 1,
+      "explanation": "Kỹ thuật tiêm tĩnh mạch chậm cấp cứu: 1 ống Adrenalin 1mg pha với 9ml nước cất tạo thành 10ml dung dịch nồng độ 1/10.000 (100 mcg/ml). Người lớn tiêm chậm 0.5 - 1ml (50 - 100 mcg) trong 1 - 3 phút. Chú ý: Trẻ em KHÔNG áp dụng tiêm tĩnh mạch chậm."
+    },
+    {
+      "id": "im13_q_08",
+      "text": "Bảng pha truyền tĩnh mạch Adrenalin chuẩn theo Thông tư 51: 1 ống 1mg pha trong 250ml NaCl 0.9% (dung dịch 4 mcg/ml). Với bệnh nhân nặng 60kg, liều khởi đầu 0.1 mcg/kg/phút tương đương với tốc độ truyền là bao nhiêu?",
+      "options": [
+        "10 giọt/phút (0.5 ml/phút)",
+        "20 giọt/phút (1.0 ml/phút)",
+        "30 giọt/phút (1.5 ml/phút) qua dây truyền thường",
+        "50 giọt/phút"
+      ],
+      "correct": 2,
+      "explanation": "Bệnh nhân 60kg: Liều cần dùng = 60 * 0.1 = 6 mcg/phút. Dung dịch có nồng độ 4 mcg/ml -> Tốc độ thể tích = 6 / 4 = 1.5 ml/phút. Với dây truyền 1ml = 20 giọt -> Tốc độ truyền = 1.5 * 20 = 30 giọt/phút (tương đương 90 ml/giờ trên bơm tiêm điện)."
+    },
+    {
+      "id": "im13_q_09",
+      "text": "Tại sao bệnh nhân phản vệ sau khi đã được cấp cứu thành công và huyết áp đã ổn định vẫn BẮT BUỘC phải theo dõi tại cơ sở y tế ít nhất 24 giờ?",
+      "options": [
+        "Để làm các thủ tục thanh toán bảo hiểm y tế",
+        "Để phòng ngừa và phát hiện kịp thời 'Phản vệ pha 2' (Biphasic Anaphylaxis)",
+        "Để chờ kết quả kháng sinh đồ",
+        "Để bù thêm đủ lượng dịch hàng ngày"
+      ],
+      "correct": 1,
+      "explanation": "Phản vệ pha 2 (Biphasic Anaphylaxis) là hiện tượng các triệu chứng sốc và suy hô hấp tái phát trở lại sau khi đợt cấp ban đầu đã lui (thường sau 8 - 12 giờ, có thể kéo dài đến 24-72 giờ) mà không hề có sự tiếp xúc lại với dị nguyên. Do đó bắt buộc phải theo dõi sát tại viện tối thiểu 24 giờ."
+    },
+    {
+      "id": "im13_q_10",
+      "text": "Vai trò thực sự của Corticoid (Methylprednisolon, Hydrocortison) trong cấp cứu phản vệ là gì?",
+      "options": [
+        "Là thuốc đầu tay giúp co mạch và nâng huyết áp ngay tức thì",
+        "Không có tác dụng nâng huyết áp cấp thời, nhưng giúp phòng ngừa phản vệ pha 2 và giảm phản ứng viêm muộn",
+        "Làm giảm tiết dịch dạ dày",
+        "Thay thế hoàn toàn cho Adrenalin nếu bệnh nhân có tăng huyết áp"
+      ],
+      "correct": 1,
+      "explanation": "Corticoid cần từ 4 - 6 giờ mới bắt đầu phát huy tác dụng ở cấp độ gen và tế bào. Nó không có tác dụng cứu mạng tức thì trong giai đoạn tụt HA hay phù thanh quản cấp, nhưng đóng vai trò quan trọng trong việc ngăn chặn đợt tái phát muộn (phản vệ pha 2)."
+    },
+    {
+      "id": "im13_q_11",
+      "text": "Tiêu chuẩn lâm sàng chẩn đoán phản vệ theo FAAN/NIAID (Bệnh cảnh 3) quy định tụt huyết áp ở người lớn như thế nào sau tiếp xúc dị nguyên đã biết?",
+      "options": [
+        "HATT < 100 mmHg",
+        "HATT < 90 mmHg hoặc giảm > 30% giá trị huyết áp tâm thu nền",
+        "Chỉ cần HA tâm trương < 60 mmHg",
+        "Huyết áp kẹt dưới 20 mmHg"
+      ],
+      "correct": 1,
+      "explanation": "Tiêu chuẩn FAAN/NIAID (Bệnh cảnh 3): Tụt huyết áp xuất hiện sau tiếp xúc dị nguyên đã biết: Người lớn HATT < 90 mmHg hoặc giảm > 30% mức HATT bình thường; trẻ em giảm > 30% HATT theo lứa tuổi."
+    },
+    {
+      "id": "im13_q_12",
+      "text": "Thể tích dịch muối đẳng trương (NaCl 0.9%) khuyến cáo truyền nhanh trong xử trí sốc phản vệ ở người lớn là bao nhiêu?",
+      "options": [
+        "100 - 200 ml",
+        "500 ml trong 2 giờ",
+        "1.000 - 2.000 ml truyền nhanh qua đường truyền kim to",
+        "Chống chỉ định truyền dịch vì sợ phù phổi"
+      ],
+      "correct": 2,
+      "explanation": "Trong sốc phản vệ, hiện tượng giãn mạch toàn thể và tăng tính thấm thành mạch làm thoát một lượng lớn dịch lòng mạch ra khoang kẽ (giảm thể tích tuần hoàn tương đối). Do đó, truyền nhanh 1.000 - 2.000 ml NaCl 0.9% ở người lớn (10-20 ml/kg ở trẻ em) là bước hồi sức cực kỳ quan trọng song song với dùng Adrenalin."
+    },
+    {
+      "id": "im13_q_13",
+      "text": "Khi bệnh nhân phản vệ có biểu hiện co thắt phế quản nặng, thở rít khò khè kém đáp ứng với Adrenalin, thuốc giãn phế quản đường tĩnh mạch nào có thể được lựa chọn phối hợp?",
+      "options": [
+        "Aminophyllin (1 mg/kg/giờ) hoặc Salbutamol/Terbutalin truyền tĩnh mạch",
+        "Morphine tiêm tĩnh mạch",
+        "Propranolol truyền tĩnh mạch",
+        "Neostigmine tiêm bắp"
+      ],
+      "correct": 0,
+      "explanation": "Khi co thắt phế quản dai dẳng, có thể phối hợp thêm khí dung Salbutamol hoặc truyền tĩnh mạch chậm Aminophyllin (1 mg/kg/giờ) hoặc Salbutamol/Terbutalin (0.1 mcg/kg/phút) qua bơm tiêm điện."
+    },
+    {
+      "id": "im13_q_14",
+      "text": "Dấu hiệu lâm sàng nào sau đây thuộc nhóm phản vệ ĐỘ III (Nguy kịch) về mặt đường thở?",
+      "options": [
+        "Ngứa mũi, hắt hơi",
+        "Tiếng thở rít thanh quản (Stridor) do phù nề thanh môn",
+        "Chảy nước mắt",
+        "Mẩn ngứa quanh cổ"
+      ],
+      "correct": 1,
+      "explanation": "Tiếng thở rít thanh quản (Stridor) là dấu hiệu cảnh báo tắc nghẽn đường hô hấp trên do phù nề thanh môn/hạ họng, đe dọa ngừng thở trong tích tắc, thuộc tiêu chuẩn Phản vệ độ III (Nguy kịch). Cần chuẩn bị sẵn sàng dụng cụ đặt nội khí quản hoặc mở khí quản cấp cứu."
+    },
+    {
+      "id": "im13_q_15",
+      "text": "Phản vệ độ I (mức độ nhẹ) có đặc điểm lâm sàng nào sau đây?",
+      "options": [
+        "Có tụt huyết áp nhưng chưa có khó thở",
+        "Chỉ có các triệu chứng ngoài da, tổ chức dưới da và niêm mạc như mày đay, mẩn ngứa, phù mạch",
+        "Có đau bụng nôn mửa kèm khó thở nhẹ",
+        "Có tiếng rít thanh quản nhẹ"
+      ],
+      "correct": 1,
+      "explanation": "Độ I (Nhẹ): Chỉ có triệu chứng ở da, tổ chức dưới da và niêm mạc (mày đay, ngứa, phù mạch). Chưa có bất kỳ triệu chứng nào ở hô hấp, tuần hoàn hay tiêu hóa. Thuốc dùng là kháng histamin hoặc corticoid, nhưng phải theo dõi sát ít nhất 24 giờ vì có thể chuyển độ nặng bất cứ lúc nào."
+    }
+  ]
+}

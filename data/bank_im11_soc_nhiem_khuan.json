@@ -1,0 +1,247 @@
+{
+  "id": "bank_im11_soc_nhiem_khuan",
+  "title": "IM-11: Sốc Nhiễm Khuẩn Toàn Diện (20 Câu Chuẩn Hóa Cân Đối)",
+  "description": "Bộ ngân hàng trắc nghiệm chuẩn hóa loại bỏ bẫy câu dài nhất, cân đối 4 lựa chọn ngang nhau, bao phủ Sepsis-3, qSOFA, SIRS, sốc nóng vs lạnh, gói Hour-1 bundle, dịch cân bằng, Noradrenalin, EGDT và Hydrocortison.",
+  "questions": [
+    {
+      "id": "bank_im11_soc_nhiem_khuan_01",
+      "text": "Định nghĩa chuẩn mực của Sốc nhiễm khuẩn (Septic Shock) theo đồng thuận Sepsis-3 (JAMA 2016) là gì?",
+      "options": [
+        "Tụt huyết áp dai dẳng cần vận mạch giữ HATB ≥ 65 mmHg VÀ Lactate > 2 mmol/L dù đã bù đủ dịch",
+        "Phản ứng viêm toàn thân cấp tính xuất hiện sau khi tiêm thuốc kháng sinh phổ rộng qua tĩnh mạch",
+        "Tình trạng nhiễm trùng ngoài da có mủ kèm theo nhịp tim nhanh trên 100 lần mỗi phút lúc nghỉ",
+        "Tình trạng sốt cao rét run kèm theo nồng độ bạch cầu máu tăng vọt trên 15.000 tế bào/mm3"
+      ],
+      "correct": 0,
+      "explanation": "Sepsis-3: Sốc nhiễm khuẩn là phân nhóm nặng nhất của Sepsis, hội tụ 2 tiêu chuẩn: Cần vận mạch để giữ HATB >= 65 mmHg VÀ Lactate > 2 mmol/L dù đã bù đủ dịch. Tử vong > 40%."
+    },
+    {
+      "id": "bank_im11_soc_nhiem_khuan_02",
+      "text": "Thang điểm đánh giá nhanh suy cơ quan tại giường (qSOFA) dùng để sàng lọc Sepsis gồm 3 tiêu chí nào?",
+      "options": [
+        "Mạch nhanh trên 120 lần/phút, nồng độ CRP tăng trên 50 mg/L và bạch cầu máu tăng cao",
+        "Rối loạn ý thức (GCS < 15), Nhịp thở nhanh ≥ 22 lần/phút, và Huyết áp tâm thu HATT ≤ 100 mmHg",
+        "Sốt cao trên 39 độ C, đau bụng quặn từng cơn dữ dội và nôn mửa liên tục ra dịch dạ dày",
+        "Thiểu niệu dưới 20 ml/giờ, vàng da kết mạc mắt và xuất huyết dạng chấm nốt dưới da"
+      ],
+      "correct": 1,
+      "explanation": "qSOFA gồm 3 tiêu chí (mỗi tiêu chí 1 điểm): Nhịp thở >= 22 l/p; Rối loạn tri giác (GCS < 15); HATT <= 100 mmHg. Khi qSOFA >= 2 điểm ở bệnh nhân nghi ngờ nhiễm trùng -> nguy cơ tử vong cao."
+    },
+    {
+      "id": "bank_im11_soc_nhiem_khuan_03",
+      "text": "Bốn tiêu chuẩn của Hội chứng đáp ứng viêm toàn thân (SIRS) theo giáo trình gồm những gì (đạt ≥ 2)?",
+      "options": [
+        "Sốt phát ban dạng sởi toàn thân, nổi hạch cổ hai bên và loét niêm mạc khoang miệng hầu họng",
+        "Bilirubin máu tăng cao, Creatinin máu tăng gấp đôi, số lượng tiểu cầu giảm sâu và thiếu máu",
+        "Thân nhiệt > 38°C hoặc < 36°C; Mạch > 90 l/p; Thở > 20 l/p (PaCO2 < 32); Bạch cầu > 12 G/L hoặc < 4 G/L",
+        "Huyết áp tụt kẹp, nồng độ men tim tăng cao, đường huyết tăng vọt và xuất hiện đau đầu dữ dội"
+      ],
+      "correct": 2,
+      "explanation": "SIRS gồm: (1) Nhiệt độ > 38 hoặc < 36 độ C; (2) Mạch > 90 l/p; (3) Thở > 20 l/p hoặc PaCO2 < 32 mmHg; (4) Bạch cầu > 12 G/L hoặc < 4 G/L hoặc > 10% tế bào non."
+    },
+    {
+      "id": "bank_im11_soc_nhiem_khuan_04",
+      "text": "Biểu hiện lâm sàng của Sốc nhiễm khuẩn thể tăng động (Sốc nóng) khác với Sốc lạnh ở điểm nào?",
+      "options": [
+        "Sốc nóng huyết áp hoàn toàn bình thường còn sốc lạnh huyết áp tăng kịch phát trên 180 mmHg",
+        "Sốc nóng không phát hiện được vi khuẩn trong máu còn sốc lạnh cấy máu luôn luôn dương tính",
+        "Sốc nóng chỉ gặp ở trẻ sơ sinh còn sốc lạnh chỉ xuất hiện ở người cao tuổi có suy thận mạn",
+        "Sốc nóng SVR giảm rất sâu làm đầu chi ấm hồng, mạch nảy; Sốc lạnh CO giảm làm đầu chi lạnh tái vân tím"
+      ],
+      "correct": 3,
+      "explanation": "Sốc nóng: SVR giảm sâu do giãn mạch, CO tăng bù -> da ấm hồng, mạch nảy. Sốc lạnh: Giảm thể tích nội mạch + cơ tim bị ức chế -> CO giảm, co mạch ngoại biên -> chi lạnh tái nổi vân tím."
+    },
+    {
+      "id": "bank_im11_soc_nhiem_khuan_05",
+      "text": "Gói can thiệp 1 giờ đầu (Hour-1 Bundle) của Surviving Sepsis Campaign (SSC 2021) gồm 5 bước nào?",
+      "options": [
+        "Đo Lactate máu, Cấy máu trước kháng sinh, Kháng sinh phổ rộng, Bù dịch 30 ml/kg, Dùng Noradrenalin",
+        "Chỉ cần truyền tĩnh mạch 1 chai dung dịch Glucose 5% kết hợp tiêm bắp 1 ống Paracetamol hạ sốt",
+        "Chỉ định mổ mở bụng thăm dò cấp cứu ngay lập tức cho tất cả mọi bệnh nhân có sốt và tụt huyết áp",
+        "Cho bệnh nhân ăn uống thức ăn lỏng và chuyển ngay lên phòng bệnh nội trú theo dõi thường quy"
+      ],
+      "correct": 0,
+      "explanation": "SSC Hour-1 Bundle: (1) Đo Lactate máu; (2) Cấy máu trước kháng sinh; (3) Kháng sinh phổ rộng đường TM; (4) Hồi sức dịch 30 ml/kg dịch tinh thể đẳng trương; (5) Vận mạch Noradrenalin giữ HATB >= 65 mmHg."
+    },
+    {
+      "id": "bank_im11_soc_nhiem_khuan_06",
+      "text": "Nguyên tắc cấy máu trong chẩn đoán Nhiễm khuẩn huyết và Sốc nhiễm khuẩn theo khuyến cáo là gì?",
+      "options": [
+        "Lấy mẫu máu qua ống thông sonde bàng quang lưu để tránh làm tổn thương thành mạch máu ngoại vi",
+        "Cấy máu ít nhất 2 bộ mẫu (ái khí và kỵ khí) ở 2 vị trí tĩnh mạch khác nhau trước khi dùng kháng sinh",
+        "Chỉ cần lấy đúng 1 mẫu máu duy nhất ở tĩnh mạch mu bàn tay tại thời điểm bệnh nhân đang sốt cao",
+        "Chỉ cấy máu sau khi bệnh nhân đã được dùng kháng sinh phổ rộng đường tĩnh mạch đủ 24 giờ liên tục"
+      ],
+      "correct": 1,
+      "explanation": "Cấy tối thiểu 2 bộ mẫu máu ở 2 vị trí tĩnh mạch độc lập trước khi dùng kháng sinh (nhưng không làm chậm trễ việc cho kháng sinh quá 45 phút) để tăng độ nhạy và loại trừ tạp nhiễm."
+    },
+    {
+      "id": "bank_im11_soc_nhiem_khuan_07",
+      "text": "Loại dịch truyền được Surviving Sepsis Campaign (SSC 2021) khuyến cáo ưu tiên lựa chọn hàng đầu là gì?",
+      "options": [
+        "Máu toàn phần tươi lưu trữ dưới 7 ngày kết hợp truyền dung dịch Albumin đậm đặc 20%",
+        "Dung dịch keo nhân tạo Hydroxyethyl Starch (HES) liều cao để giữ thể tích nội mạch tối đa",
+        "Dung dịch tinh thể cân bằng (Ringer Lactate, Plasma-Lyte) được ưu tiên hơn dung dịch NaCl 0.9%",
+        "Dung dịch Glucose 5% truyền xả nhanh với thể tích 30 ml/kg cân nặng trong giờ đầu tiên"
+      ],
+      "correct": 2,
+      "explanation": "SSC 2021 khuyến cáo ưu tiên Dịch tinh thể cân bằng (Ringer Lactate, Plasma-Lyte) hơn NaCl 0.9% vì truyền lượng lớn NaCl 0.9% gây toan tăng Chlor máu và co mạch thận làm tăng suy thận cấp. CẤM dùng HES vì tăng tử vong!"
+    },
+    {
+      "id": "bank_im11_soc_nhiem_khuan_08",
+      "text": "Bốn mục tiêu điều trị sớm theo đích (EGDT) trong 6 giờ đầu theo giáo trình gồm những mốc nào?",
+      "options": [
+        "Chỉ cần duy trì huyết áp tâm thu HATT > 90 mmHg mà không cần đặt ống thông bàng quang theo dõi",
+        "Huyết áp 120/80 mmHg, SpO2 100%, nồng độ đường huyết 5 mmol/L và bệnh nhân hết sốt hoàn toàn",
+        "Áp lực tĩnh mạch trung tâm CVP đạt trên 20 mmHg và nồng độ Hematocrit duy trì trên mức 45%",
+        "CVP đạt 8 – 12 mmHg (12 – 15 nếu thở máy), HATB ≥ 65 mmHg, Nước tiểu ≥ 0,5 ml/kg/h, ScvO2 ≥ 70%"
+      ],
+      "correct": 3,
+      "explanation": "Bốn đích EGDT: CVP 8 - 12 mmHg (12 - 15 nếu thở máy); HATB >= 65 mmHg; Nước tiểu >= 0.5 ml/kg/h; ScvO2 >= 70% (hoặc SvO2 >= 65%)."
+    },
+    {
+      "id": "bank_im11_soc_nhiem_khuan_09",
+      "text": "Thuốc co mạch lựa chọn hàng đầu số 1 (First-line vasopressor) trong Sốc nhiễm khuẩn là gì?",
+      "options": [
+        "Noradrenalin (Norepinephrine), với đích huyết áp trung bình HATB cần đạt là ≥ 65 mmHg",
+        "Dopamin truyền tĩnh mạch liều cao kích thích đồng thời cả thụ thể alpha và beta giao cảm",
+        "Adrenalin tiêm bắp ngắt quãng mỗi 15 phút một lần để duy trì trương lực thành mạch máu",
+        "Phenylephrine truyền tĩnh mạch liên tục đơn thuần chỉ có tác dụng co thắt tiểu động mạch"
+      ],
+      "correct": 0,
+      "explanation": "Noradrenalin là thuốc vận mạch số 1 tuyệt đối (Class I, Level A). Đích huyết áp trung bình chuẩn là HATB >= 65 mmHg."
+    },
+    {
+      "id": "bank_im11_soc_nhiem_khuan_10",
+      "text": "Khi đã tăng liều Noradrenalin lên mức cao mà HATB vẫn chưa đạt 65 mmHg, thuốc thứ hai phối hợp là gì?",
+      "options": [
+        "Isuprel truyền tĩnh mạch liên tục để kích thích tăng cường tần số phát nhịp của nút xoang",
+        "Vasopressin (liều cố định 0,03 đơn vị/phút) để vừa nâng huyết áp vừa giúp giảm liều Noradrenalin",
+        "Atropine tiêm tĩnh mạch liều cao lặp lại để ngăn ngừa phản xạ nhịp tim chậm do co mạch",
+        "Dopamin liều thấp kích thích thụ thể dopaminergic nhằm tăng cường lượng máu tưới qua thận"
+      ],
+      "correct": 1,
+      "explanation": "SSC khuyến cáo phối hợp thêm Vasopressin liều cố định 0.03 UI/phút (kích thích thụ thể V1 cơ trơn mạch máu) khi cần Noradrenalin liều cao, giúp giảm liều Noradrenalin và hạn chế loạn nhịp."
+    },
+    {
+      "id": "bank_im11_soc_nhiem_khuan_11",
+      "text": "Chỉ định và phác đồ dùng Corticosteroid trong Sốc nhiễm khuẩn theo hướng dẫn SSC 2021 là gì?",
+      "options": [
+        "Chỉ dùng khi có kết quả xét nghiệm định lượng nồng độ hormone Cortisol tự do trong máu giảm",
+        "Dùng Dexamethasone 20 mg tiêm tĩnh mạch cho mọi bệnh nhân sốc ngay từ giờ đầu tiếp cận",
+        "Chỉ định khi Sốc nhiễm khuẩn kháng trị (cần Noradrenalin ≥ 0,25 µg/kg/p); Hydrocortison 200 mg/ngày",
+        "Chống chỉ định tuyệt đối Corticoid trong mọi tình huống nhiễm khuẩn vì làm ức chế miễn dịch"
+      ],
+      "correct": 2,
+      "explanation": "Hydrocortison 200 mg/ngày chỉ định trong sốc nhiễm khuẩn kháng trị (Refractory septic shock) khi cần Noradrenalin >= 0.25 mcg/kg/p sau ít nhất 4 giờ hồi sức dịch."
+    },
+    {
+      "id": "bank_im11_soc_nhiem_khuan_12",
+      "text": "Khái niệm 'Kiểm soát nguồn nhiễm' (Source Control) trong sốc nhiễm khuẩn bao gồm các biện pháp nào?",
+      "options": [
+        "Chỉ cần tăng gấp đôi liều thuốc kháng sinh phổ rộng đường tĩnh mạch đang dùng cho bệnh nhân trên lâm sàng tại giường bệnh",
+        "Cho bệnh nhân tắm xà phòng sát khuẩn toàn thân và thay toàn bộ ga trải giường phòng bệnh trên lâm sàng tại giường bệnh",
+        "Tiến hành rửa dạ dày bằng dung dịch than hoạt kết hợp thụt tháo đại tràng làm sạch ruột trên lâm sàng tại giường bệnh",
+        "Can thiệp ngoại khoa/thủ thuật cấp cứu loại bỏ ổ nhiễm trùng trong 6 – 12h: Dẫn lưu mủ, cắt ruột thừa, rút CVC"
+      ],
+      "correct": 3,
+      "explanation": "Source Control là chìa khóa sống còn: Dẫn lưu ổ mủ/áp xe, mổ cắt tạng thủng, rút bỏ catheter nhiễm trùng trong 6 - 12 giờ đầu thì hồi sức nội khoa mới thành công."
+    },
+    {
+      "id": "bank_im11_soc_nhiem_khuan_13",
+      "text": "Mục tiêu kiểm soát đường huyết ở bệnh nhân Sốc nhiễm khuẩn nằm khoa Hồi sức tích cực (ICU) là gì?",
+      "options": [
+        "Duy trì nồng độ Glucose máu trong khoảng 140 – 180 mg/dL (7,7 – 10,0 mmol/L) bằng truyền Insulin",
+        "Chỉ điều chỉnh đường huyết khi bệnh nhân xuất hiện biến chứng hôn mê nhiễm toan ceton nặng",
+        "Duy trì nồng độ đường huyết ở mức rất thấp dưới 4,0 mmol/L để vi khuẩn không có đường phát triển",
+        "Cho đường huyết tăng tự do trên 15 mmol/L để cung cấp năng lượng tối đa cho tế bào não"
+      ],
+      "correct": 0,
+      "explanation": "Thử nghiệm NICE-SUGAR: Đích đường huyết an toàn tối ưu cho bệnh nhân ICU là 7.7 - 10.0 mmol/L (140 - 180 mg/dL). Khởi đầu dùng insulin khi đường máu > 10 mmol/L (180 mg/dL)."
+    },
+    {
+      "id": "bank_im11_soc_nhiem_khuan_14",
+      "text": "Ngưỡng chỉ định Truyền khối hồng cầu trong Sốc nhiễm khuẩn (khi không có chảy máu cấp, không NMCT) là gì?",
+      "options": [
+        "Chỉ truyền máu khi nồng độ Hemoglobin tụt dốc nguy kịch xuống dưới 40 g/L và có hôn mê",
+        "Chiến lược truyền máu hạn chế: Chỉ truyền khối hồng cầu khi nồng độ Hemoglobin Hb < 70 g/L (7 g/dL)",
+        "Truyền máu thường quy cho tất cả bệnh nhân sốc bất kể nồng độ Hemoglobin đo được là bao nhiêu",
+        "Bắt buộc truyền máu ngay khi nồng độ Hemoglobin máu giảm xuống dưới ngưỡng 100 g/L (10 g/dL)"
+      ],
+      "correct": 1,
+      "explanation": "Thử nghiệm TRISS: Ở bệnh nhân sốc nhiễm khuẩn, chiến lược truyền máu hạn chế (ngưỡng Hb < 70 g/L) có tỷ lệ sống sót tương đương và ít biến chứng quá tải tuần hoàn hơn."
+    },
+    {
+      "id": "bank_im11_soc_nhiem_khuan_15",
+      "text": "Biến chứng Phổi nguy hiểm thường xuất hiện vào ngày thứ 2 – 3 của Sốc nhiễm khuẩn do bão cytokine là gì?",
+      "options": [
+        "Xẹp phổi hoàn toàn một bên phổi do dị vật thức ăn rơi bít tắc phế quản gốc bên phải",
+        "Tràn khí màng phổi áp lực tự phát do vỡ bóng khí phế thũng dưới màng phổi hai bên",
+        "Hội chứng suy hô hấp cấp tiến triển (ARDS) do tổn thương màng phế nang mao mạch tăng tính thấm",
+        "Tắc nghẽn hoàn toàn đường hô hấp trên do phù nề thanh môn dị ứng cấp tính dữ dội"
+      ],
+      "correct": 2,
+      "explanation": "Sốc nhiễm khuẩn là nguyên nhân gián tiếp (ngoài phổi) thường gặp nhất gây ARDS do bão cytokine phá hủy tế bào nội mô mao mạch phổi làm thoát protein tràn ngập phế nang."
+    },
+    {
+      "id": "bank_im11_soc_nhiem_khuan_16",
+      "text": "Tại sao trong Sốc nhiễm khuẩn thể tăng động ban đầu, bệnh nhân lại có biểu hiện da ấm và mạch nảy?",
+      "options": [
+        "Do huyết áp tâm thu tăng cao làm tăng lưu lượng dòng máu tưới qua các mao mạch dưới da",
+        "Do bệnh nhân bị tăng nồng độ Calci máu kích thích trực tiếp lên trương lực thành cơ trơn",
+        "Do nhiệt độ môi trường xung quanh phòng bệnh nhân nằm tăng cao làm giãn mạch sinh lý",
+        "Do độc tố vi khuẩn kích hoạt men iNOS sinh quá mức Nitric Oxide gây giãn mạch toàn thể, CO tăng bù"
+      ],
+      "correct": 3,
+      "explanation": "Độc tố vi khuẩn kích hoạt enzyme inducible Nitric Oxide Synthase (iNOS) giải phóng lượng lớn NO làm liệt mạch giãn toạc hệ tiểu động mạch -> SVR tụt dốc, tim đập nhanh tống máu bù -> da ấm hồng, mạch nảy."
+    },
+    {
+      "id": "bank_im11_soc_nhiem_khuan_17",
+      "text": "Thời gian vàng bắt buộc phải bắt đầu dùng Kháng sinh phổ rộng đường tĩnh mạch trong Sốc nhiễm khuẩn là bao lâu?",
+      "options": [
+        "Ngay lập tức trong vòng 1 giờ đầu tiên kể từ khi nhận diện sốc nhiễm khuẩn (Hour-1)",
+        "Chờ sau 24 đến 48 giờ khi phòng xét nghiệm vi sinh trả về kết quả kháng sinh đồ chính thức",
+        "Chờ sau khi đã hoàn tất toàn bộ quá trình bù dịch 30 ml/kg và huyết áp đã hồi phục hoàn toàn",
+        "Chỉ dùng kháng sinh khi bệnh nhân xuất hiện sốt cao rét run trên 39,5 độ C tại giường"
+      ],
+      "correct": 0,
+      "explanation": "Mỗi 1 giờ chậm trễ kháng sinh làm tăng tỷ lệ tử vong lên 7.6% (Kumar et al). SSC 2021 khuyến cáo bắt buộc dùng kháng sinh phổ rộng đường TM ngay trong vòng 1 giờ đầu."
+    },
+    {
+      "id": "bank_im11_soc_nhiem_khuan_18",
+      "text": "Dấu ấn sinh học nào có giá trị cao nhất giúp phân biệt Nhiễm khuẩn huyết do vi khuẩn với các nguyên nhân viêm không do nhiễm khuẩn?",
+      "options": [
+        "Số lượng bạch cầu đa nhân trung tính trong công thức máu ngoại vi trên lâm sàng tại giường bệnh",
+        "Procalcitonin (PCT) máu (tăng rất cao và đặc hiệu trong nhiễm khuẩn nặng do vi khuẩn)",
+        "Nồng độ Acid Uric máu và nồng độ men gan AST/ALT trên lâm sàng tại giường bệnh",
+        "Tốc độ máu lắng giờ đầu đo bằng phương pháp Westergren trên lâm sàng tại giường bệnh"
+      ],
+      "correct": 1,
+      "explanation": "Procalcitonin (PCT) do các tế bào nhu mô toàn thân tiết ra dưới tác dụng của độc tố vi khuẩn. PCT tăng rất nhanh sau 3-6 giờ và đặc hiệu cao cho nhiễm khuẩn vi khuẩn (ít tăng trong viêm vô khuẩn hoặc nhiễm virus)."
+    },
+    {
+      "id": "bank_im11_soc_nhiem_khuan_19",
+      "text": "Khi nào thuốc tăng co bóp cơ tim Dobutamin được khuyến cáo bổ sung phối hợp trong điều trị Sốc nhiễm khuẩn?",
+      "options": [
+        "Chỉ định cho tất cả mọi bệnh nhân sốc nhiễm khuẩn ngay từ phút đầu tiên tiếp cận tại cấp cứu trên lâm sàng tại giường bệnh",
+        "Chỉ dùng khi bệnh nhân có xuất hiện các cơn nhịp nhanh thất đa hình thái trên máy theo dõi monitor",
+        "Khi bệnh nhân có bằng chứng suy giảm chức năng co bóp thất trái HOẶC ScvO2 vẫn < 70% dù đã bù đủ dịch và nâng áp",
+        "Dùng thay thế hoàn toàn cho thuốc co mạch Noradrenalin khi bệnh nhân có biểu hiện thiểu niệu trên lâm sàng tại giường bệnh"
+      ],
+      "correct": 2,
+      "explanation": "Dobutamin chỉ định trong sốc nhiễm khuẩn khi có: (1) Rối loạn chức năng cơ tim (bão cytokine ức chế cơ tim); hoặc (2) Dấu hiệu giảm tưới máu dai dẳng (ScvO2 < 70%, Lactate không giảm) dù đã bù đủ dịch và HATB >= 65 mmHg."
+    },
+    {
+      "id": "bank_im11_soc_nhiem_khuan_20",
+      "text": "Dung dịch keo nhân tạo Hydroxyethyl Starch (HES) có vị trí nào trong hướng dẫn SSC 2021 về Sốc nhiễm khuẩn?",
+      "options": [
+        "Chỉ dùng cho các bệnh nhân có suy giảm chức năng gan mạn tính và xơ gan cổ trướng trên lâm sàng tại giường bệnh của bệnh nhân cấp cứu",
+        "Là dung dịch truyền được khuyến cáo ưu tiên lựa chọn hàng đầu để hồi sức thể tích ban đầu trên lâm sàng tại giường bệnh",
+        "Dùng phối hợp thường quy với dịch tinh thể đẳng trương theo tỷ lệ 1 : 1 trong 6 giờ đầu trên lâm sàng tại giường bệnh",
+        "CHỐNG CHỈ ĐỊNH TUYỆT ĐỐI (Strong recommendation): HES làm tăng có ý nghĩa tỷ lệ tử vong và tăng tỷ lệ suy thận cần lọc máu"
+      ],
+      "correct": 3,
+      "explanation": "Các thử nghiệm lâm sàng lớn (6S, CHEST): Dùng HES trong sốc nhiễm khuẩn làm tăng đáng kể nguy cơ tử vong và tăng tỷ lệ phải chạy thận nhân tạo. SSC khuyến cáo KHÔNG DÙNG HES để hồi sức sốc nhiễm khuẩn!"
+    }
+  ]
+}

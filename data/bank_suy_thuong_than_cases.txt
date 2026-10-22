@@ -1,0 +1,85 @@
+=== IM-54b: Ca Lâm Sàng Chuyên Sâu - Suy Tuyến Thượng Thận ===
+Bộ 10 ca lâm sàng chuyên sâu về chẩn đoán Bệnh Addison tự miễn, cấp cứu Cơn suy thượng thận cấp trụy mạch, sạm da trục POMC-ACTH-MSH, Lao thượng thận vôi hóa trên CT, Hội chứng Sheehan và Hội chứng Waterhouse-Friderichsen.
+
+Câu 1: Bệnh nhân nam 36 tuổi, đến khám vì mệt mỏi kiệt sức tăng dần 6 tháng nay, gầy sút 7 kg, chán ăn, thèm ăn mặn dữ dội, hay hoa mắt chóng mặt khi đứng dậy. Khám lâm sàng: Huyết áp tư thế nằm 100/65 mmHg, khi đứng dậy tụt xuống 75/50 mmHg (tụt HA tư thế rõ rệt). Quan sát thấy da toàn thân sạm màu nâu đồng, đậm nhất ở vùng hở (mặt, cổ, mu bàn tay), các nếp gấp chỉ bàn tay đen thẫm, niêm mạc má và lợi có nhiều mảng sắc tố màu xám đen. Xét nghiệm: Na+ 126 mEq/L (hạ), K+ 5.8 mEq/L (tăng), Glucose 62 mg/dL. Chẩn đoán lâm sàng đầu tiên nghĩ tới là:
+A. Hội chứng suy nhược mạn tính do stress tâm lý
+B. Suy vỏ thượng thận nguyên phát (Bệnh Addison)
+C. Suy tuyến yên thứ phát sau viêm màng não
+D. Đái tháo đường type 2 giai đoạn sớm
+Đáp án: B
+Giải thích: Tam chứng kinh điển của Bệnh Addison: (1) Suy nhược kiệt sức, gầy sút cân, thèm ăn muối; (2) Tụt huyết áp tư thế (do thiếu cả Aldosterone gây mất muối nước và thiếu Cortisol làm trơ thụ thể alpha-1 adrenergic); (3) Sạm da niêm mạc đặc trưng (do thiếu cortisol kích thích tăng tiết POMC -> tạo ACTH và MSH kích thích sắc tố melanin). Điện giải đồ điển hình: Hạ Natri, Tăng Kali máu.
+
+Câu 2: Ở bệnh nhân nam 36 tuổi nghi ngờ bệnh Addison trên, xét nghiệm cận lâm sàng TIÊU CHUẨN VÀNG để khẳng định chẩn đoán suy tuyến thượng thận là:
+A. Đo nồng độ Adrenaline máu lúc nghỉ ngơi
+B. Nghiệm pháp kích thích Synacthen liều chuẩn (Short Synacthen Test: tiêm bắp hoặc tĩnh mạch 250 mcg ACTH tổng hợp và đo Cortisol sau 30, 60 phút)
+C. Chụp X-quang cột sống thắt lưng
+D. Định lượng nồng độ Canxi ion hóa trong máu
+Đáp án: B
+Giải thích: Nghiệm pháp kích thích ACTH liều chuẩn 250 mcg (Short Synacthen Test) là tiêu chuẩn vàng. Ở người bình thường, vỏ thượng thận được kích hoạt sẽ nâng nồng độ Cortisol đỉnh sau 30 hoặc 60 phút lên >= 18 mcg/dL (>= 500 nmol/L). Nếu Cortisol đỉnh không đạt ngưỡng 18 mcg/dL khẳng định chẩn đoán suy tuyến thượng thận.
+
+Câu 3: Sau khi tiêm 250 mcg Synacthen, nồng độ Cortisol đỉnh sau 60 phút của bệnh nhân chỉ đạt 7.5 mcg/dL (suy thượng thận xác định). Đồng thời xét nghiệm nồng độ ACTH huyết tương lúc 8h sáng của bệnh nhân là 420 pg/mL (tăng rất cao, gấp 8 lần bình thường), nồng độ Renin huyết tương tăng cao, Aldosterone giảm thấp. Kết quả này giúp định vị tổn thương ở đâu?
+A. Tổn thương tại Vùng dưới đồi (Suy tam phát)
+B. Tổn thương trực tiếp tại Vỏ tuyến thượng thận (Suy thượng thận nguyên phát - Addison)
+C. Tổn thương tại Thùy trước tuyến yên (Suy thượng thận thứ phát)
+D. Suy thượng thận chức năng do dùng thuốc dexamethasone
+Đáp án: B
+Giải thích: Tuyến thượng thận bị suy giảm bài tiết cortisol và aldosterone, làm mất phản hồi âm tính khiến tuyến yên phản ứng tăng tiết ACTH lên rất cao (> 100 pg/mL). Sự kết hợp giữa Cortisol thấp + ACTH rất cao + Renin cao / Aldosterone thấp là bằng chứng tuyệt đối khẳng định tổn thương nguyên phát tại vỏ tuyến thượng thận.
+
+Câu 4: Bệnh nhân nữ 45 tuổi, có tiền sử bệnh Addison đang điều trị duy trì bằng Hydrocortisone 20 mg/ngày và Fludrocortisone 0.1 mg/ngày. Sáng nay bệnh nhân bị sốt cao 39 độ C do viêm phổi thùy, kèm nôn ói liên tục không uống được thuốc. Trưa cùng ngày, bệnh nhân rơi vào lơ mơ, tụt huyết áp 60/35 mmHg, mạch nhanh nhỏ 125 ck/phút, da lạnh ẩm. Chẩn đoán cấp cứu khẩn cấp là:
+A. Sốc phản vệ do thức ăn
+B. Cơn suy thượng thận cấp (Acute Adrenal Crisis) do stress nhiễm trùng trên nền bệnh Addison
+C. Cơn bão giáp trạng kịch phát
+D. Hạ đường huyết do quá liều insulin
+Đáp án: B
+Giải thích: Bệnh cảnh tối cấp của Cơn suy thượng thận cấp (Adrenal crisis): Bệnh nhân suy thượng thận gặp yếu tố stress nặng (nhiễm trùng hô hấp sốt cao, nôn ói không giữ được thuốc) không được tăng liều cortisol kịp thời -> Tụt huyết áp trơ với vận mạch, trụy tim mạch sốc không hồi phục và suy sụp ý thức. Tỷ lệ tử vong rất cao nếu không cấp cứu ngay.
+
+Câu 5: Thái độ cấp cứu TỐI KHẨN CẤP tại chỗ cho bệnh nhân có Cơn suy thượng thận cấp trụy mạch ở trên gồm:
+A. Chờ kết quả xét nghiệm Cortisol khẩn về mới quyết định điều trị
+B. Tiêm tĩnh mạch bolus ngay Hydrocortisone 100 mg, truyền nhanh dung dịch NaCl 0.9% kèm Glucose 5%, sau đó duy trì Hydrocortisone 200 mg/24h
+C. Chỉ cần truyền máu toàn phần và tiêm thuốc trợ tim Digoxin
+D. Uống ngay 1 viên Fludrocortisone 0.1 mg với nước ấm
+Đáp án: B
+Giải thích: Xử trí Cơn suy thượng thận cấp: (1) Tuyệt đối KHÔNG CHỜ kết quả xét nghiệm; (2) Tiêm tĩnh mạch ngay lập tức 100mg Hydrocortisone; (3) Hồi sức thể tích tích cực bằng dung dịch muối đẳng trương NaCl 0.9% và Glucose (chống hạ natri máu, tụt HA và hạ đường huyết); (4) Duy trì Hydrocortisone 200mg/ngày (tiêm TM 50mg mỗi 6h hoặc truyền liên tục).
+💡 Clinical Pearl (Thuốc thay thế): Nếu tại cơ sở cấp cứu không có sẵn Hydrocortisone, thuốc thay thế tối ưu là DEXAMETHASONE 4mg tiêm tĩnh mạch. Ưu điểm đặc biệt của Dexamethasone là KHÔNG PHẢN ỨNG CHÉO trong xét nghiệm định lượng Cortisol máu, do đó không làm sai lệch kết quả nếu bác sĩ cần làm nghiệm pháp kích thích Synacthen chẩn đoán xác định sau đó!
+
+Câu 6: Tại sao trong giai đoạn cấp cứu Cơn suy thượng thận cấp với Hydrocortisone liều cao (100 - 200 mg/ngày), bác sĩ KHÔNG CẦN phải cho thêm thuốc giữ muối Fludrocortisone (Florinef)?
+A. Vì Fludrocortisone gây độc cho thận khi tụt huyết áp
+B. Vì ở liều cao này (>= 50 - 100 mg/ngày), bản thân Hydrocortisone đã có hoạt tính gắn và kích hoạt thụ thể Mineralocorticoid đủ mạnh tương đương Fludrocortisone
+C. Vì bệnh nhân không bị thiếu Aldosterone trong cơn cấp
+D. Vì Fludrocortisone làm tăng bài xuất glucose qua nước tiểu
+Đáp án: B
+Giải thích: Hydrocortisone có cấu trúc gắn được cả vào thụ thể Glucocorticoid và Mineralocorticoid. Ở liều cấp cứu >= 100mg/ngày, hoạt tính mineralocorticoid của Hydrocortisone đã bão hòa hoàn toàn thụ thể tại thận, nên không cần bổ sung Fludrocortisone.
+📌 Điểm chuyển tiếp quan trọng: Khi tình trạng bệnh nhân ổn định và liều Hydrocortisone được giảm dần xuống < 50mg/ngày, hoạt tính giữ muối nước không còn đủ, BẮT BUỘC phải bắt đầu phối hợp thêm Fludrocortisone (Florinef) liều 0.05 - 0.1 mg/ngày uống buổi sáng.
+
+Câu 7: Bệnh nhân nam 52 tuổi được chẩn đoán Bệnh Addison do căn nguyên Lao hai bên tuyến thượng thận. Dấu hiệu hình ảnh học đặc trưng nhất trên phim chụp cắt lớp vi tính (CT scanner) ổ bụng ở bệnh nhân này là gì?
+A. Hai tuyến thượng thận teo nhỏ hoàn toàn không bắt thuốc
+B. Hai tuyến thượng thận phì đại to, bờ không đều kèm nhiều nốt vôi hóa (calcification) rải rác bên trong nhu mô
+C. Khối u đơn độc thùy trái kích thước 10 cm chứa đầy mỡ
+D. Hình ảnh tuyến thượng thận bình thường không có bất thường
+Đáp án: B
+Giải thích: Lao là căn nguyên nhiễm trùng hàng đầu gây bệnh Addison. Quá trình viêm hoại tử bã đậu mạn tính của vi khuẩn lao dẫn đến lắng đọng canxi tạo nên hình ảnh đặc trưng: Tuyến thượng thận to hai bên ở giai đoạn hoạt động và xuất hiện nhiều nốt vôi hóa điển hình trên phim CT.
+
+Câu 8: Một phụ nữ 32 tuổi, tiền sử băng huyết sau sinh nặng phải truyền 6 đơn vị máu cách đây 2 năm (Hội chứng Sheehan). Sau sinh bà hoàn toàn mất sữa, không thấy kinh nguyệt trở lại, người mệt mỏi, rụng lông mu và nách, huyết áp thấp 85/55 mmHg, da trắng bệch nhợt nhạt. Xét nghiệm: Cortisol máu thấp, FT4 thấp, ACTH thấp, TSH thấp. Điểm khác biệt quan trọng nhất về màu sắc da của bệnh nhân này so với bệnh Addison là gì?
+A. Bệnh nhân Sheehan da vàng đậm như nghệ
+B. Bệnh nhân Sheehan da trắng nhạt/mất sắc tố (Alabaster skin) chứ KHÔNG sạm da, vì tuyến yên bị hoại tử không tiết được ACTH và MSH
+C. Bệnh nhân Sheehan có sạm da loang lổ vùng lưng
+D. Màu da hoàn toàn giống hệt bệnh Addison
+Đáp án: B
+Giải thích: Hội chứng Sheehan là suy đa tuyến yên sau sinh do hoại tử tuyến yên vì thiếu máu cục bộ trong băng huyết. Vì thùy trước tuyến yên bị hoại tử nên nồng độ ACTH và MSH giảm rất thấp -> Không kích thích tế bào sắc tố da, làm bệnh nhân có làn da trắng bệch như thạch cao (alabaster skin), đối lập hoàn toàn với làn da sạm đen đồng của bệnh Addison.
+
+Câu 9: Quy tắc 'Sick-day rules' (Quy tắc tự chăm sóc khi ốm) được bác sĩ hướng dẫn cho bệnh nhân Addison điều trị ngoại trú: 'Khi bị sốt từ 38 độ C trở lên do viêm họng hoặc cảm cúm, hành động đúng của bệnh nhân là...':
+A. Ngừng ngay thuốc vì corticoid làm giảm sức đề kháng chống vi khuẩn
+B. Uống tăng gấp đôi (Double dose) hoặc gấp ba (Triple dose) liều Hydrocortisone hàng ngày cho đến khi hết sốt
+C. Giảm nửa liều Hydrocortisone và uống nhiều nước đường
+D. Giữ nguyên liều thuốc cũ và tự uống thêm thuốc an thần
+Đáp án: B
+Giải thích: Sinh lý cơ thể bình thường khi bị ốm/sốt sẽ tăng tiết cortisol gấp 2-3 lần để duy trì huyết áp và chống viêm. Bệnh nhân Addison không thể tự tiết hormone, nếu giữ nguyên liều sinh lý sẽ rơi vào Cơn suy thượng thận cấp tử vong. Bắt buộc phải tăng liều gấp đôi (double) khi sốt > 38°C hoặc gấp ba (triple) khi sốt > 39°C.
+
+Câu 10: Trẻ nhỏ 4 tuổi đột ngột sốt cao co giật, lơ mơ, trên da xuất hiện nhiều ban xuất huyết hoại tử hình sao màu tím đen lan nhanh khắp ngực bụng và đùi, huyết áp tụt sâu không đo được. Chọc dò dịch não tủy và cấy máu phát hiện Song cầu khuẩn gram âm hình hạt cà phê (Neisseria meningitidis). Tử thiết cho thấy xuất huyết hoại tử ồ ạt hai bên tuyến thượng thận. Tên của hội chứng cấp tính đe dọa tính mạng này là:
+A. Hội chứng Sheehan
+B. Hội chứng Waterhouse - Friderichsen
+C. Hội chứng Cushing ngoại sinh
+D. Hội chứng Nelson
+Đáp án: B
+Giải thích: Hội chứng Waterhouse - Friderichsen là tình trạng suy tuyến thượng thận tối cấp do xuất huyết hoại tử lan tỏa hai bên tuyến thượng thận trong bệnh cảnh nhiễm khuẩn huyết tối cấp do Não mô cầu (Neisseria meningitidis), đặc trưng bởi sốc nhiễm khuẩn, ban hoại tử xuất huyết hình sao và tử vong rất nhanh nếu không cấp cứu kịp thời.
+

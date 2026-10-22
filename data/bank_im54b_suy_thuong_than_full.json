@@ -1,0 +1,1448 @@
+{
+  "id": "bank_im54b_suy_thuong_than_full",
+  "title": "IM-54b: Suy Tuyến Thượng Thận (Trọn Bộ 120 Câu Lý Thuyết & Case Lâm Sàng)",
+  "description": "Ngân hàng quy mô cực lớn gồm 10 ca lâm sàng chuyên sâu kèm 110 câu hỏi trắc nghiệm bao phủ 100% từng ngóc ngách lý thuyết, phân tử, thụ thể, chẩn đoán và điều trị của bài học.",
+  "createdAt": "2026-09-05T16:42:11.304409+00:00",
+  "questions": [
+    {
+      "id": "stt_case_01",
+      "text": "Bệnh nhân nam 36 tuổi, đến khám vì mệt mỏi kiệt sức tăng dần 6 tháng nay, gầy sút 7 kg, chán ăn, thèm ăn mặn dữ dội, hay hoa mắt chóng mặt khi đứng dậy. Khám lâm sàng: Huyết áp tư thế nằm 100/65 mmHg, khi đứng dậy tụt xuống 75/50 mmHg (tụt HA tư thế rõ rệt). Quan sát thấy da toàn thân sạm màu nâu đồng, đậm nhất ở vùng hở (mặt, cổ, mu bàn tay), các nếp gấp chỉ bàn tay đen thẫm, niêm mạc má và lợi có nhiều mảng sắc tố màu xám đen. Xét nghiệm: Na+ 126 mEq/L (hạ), K+ 5.8 mEq/L (tăng), Glucose 62 mg/dL. Chẩn đoán lâm sàng đầu tiên nghĩ tới là:",
+      "options": [
+        "Hội chứng suy nhược mạn tính do stress tâm lý",
+        "Suy vỏ thượng thận nguyên phát (Bệnh Addison)",
+        "Suy tuyến yên thứ phát sau viêm màng não",
+        "Đái tháo đường type 2 giai đoạn sớm"
+      ],
+      "correct": 1,
+      "explanation": "Tam chứng kinh điển của Bệnh Addison: (1) Suy nhược kiệt sức, gầy sút cân, thèm ăn muối; (2) Tụt huyết áp tư thế (do thiếu cả Aldosterone gây mất muối nước và thiếu Cortisol làm trơ thụ thể alpha-1 adrenergic); (3) Sạm da niêm mạc đặc trưng (do thiếu cortisol kích thích tăng tiết POMC -> tạo ACTH và MSH kích thích sắc tố melanin). Điện giải đồ điển hình: Hạ Natri, Tăng Kali máu."
+    },
+    {
+      "id": "stt_case_02",
+      "text": "Ở bệnh nhân nam 36 tuổi nghi ngờ bệnh Addison trên, xét nghiệm cận lâm sàng TIÊU CHUẨN VÀNG để khẳng định chẩn đoán suy tuyến thượng thận là:",
+      "options": [
+        "Đo nồng độ Adrenaline máu lúc nghỉ ngơi",
+        "Nghiệm pháp kích thích Synacthen liều chuẩn (Short Synacthen Test: tiêm bắp hoặc tĩnh mạch 250 mcg ACTH tổng hợp và đo Cortisol sau 30, 60 phút)",
+        "Chụp X-quang cột sống thắt lưng",
+        "Định lượng nồng độ Canxi ion hóa trong máu"
+      ],
+      "correct": 1,
+      "explanation": "Nghiệm pháp kích thích ACTH liều chuẩn 250 mcg (Short Synacthen Test) là tiêu chuẩn vàng. Ở người bình thường, vỏ thượng thận được kích hoạt sẽ nâng nồng độ Cortisol đỉnh sau 30 hoặc 60 phút lên >= 18 mcg/dL (>= 500 nmol/L). Nếu Cortisol đỉnh không đạt ngưỡng 18 mcg/dL khẳng định chẩn đoán suy tuyến thượng thận."
+    },
+    {
+      "id": "stt_case_03",
+      "text": "Sau khi tiêm 250 mcg Synacthen, nồng độ Cortisol đỉnh sau 60 phút của bệnh nhân chỉ đạt 7.5 mcg/dL (suy thượng thận xác định). Đồng thời xét nghiệm nồng độ ACTH huyết tương lúc 8h sáng của bệnh nhân là 420 pg/mL (tăng rất cao, gấp 8 lần bình thường), nồng độ Renin huyết tương tăng cao, Aldosterone giảm thấp. Kết quả này giúp định vị tổn thương ở đâu?",
+      "options": [
+        "Tổn thương tại Vùng dưới đồi (Suy tam phát)",
+        "Tổn thương trực tiếp tại Vỏ tuyến thượng thận (Suy thượng thận nguyên phát - Addison)",
+        "Tổn thương tại Thùy trước tuyến yên (Suy thượng thận thứ phát)",
+        "Suy thượng thận chức năng do dùng thuốc dexamethasone"
+      ],
+      "correct": 1,
+      "explanation": "Tuyến thượng thận bị suy giảm bài tiết cortisol và aldosterone, làm mất phản hồi âm tính khiến tuyến yên phản ứng tăng tiết ACTH lên rất cao (> 100 pg/mL). Sự kết hợp giữa Cortisol thấp + ACTH rất cao + Renin cao / Aldosterone thấp là bằng chứng tuyệt đối khẳng định tổn thương nguyên phát tại vỏ tuyến thượng thận."
+    },
+    {
+      "id": "stt_case_04",
+      "text": "Bệnh nhân nữ 45 tuổi, có tiền sử bệnh Addison đang điều trị duy trì bằng Hydrocortisone 20 mg/ngày và Fludrocortisone 0.1 mg/ngày. Sáng nay bệnh nhân bị sốt cao 39 độ C do viêm phổi thùy, kèm nôn ói liên tục không uống được thuốc. Trưa cùng ngày, bệnh nhân rơi vào lơ mơ, tụt huyết áp 60/35 mmHg, mạch nhanh nhỏ 125 ck/phút, da lạnh ẩm. Chẩn đoán cấp cứu khẩn cấp là:",
+      "options": [
+        "Sốc phản vệ do thức ăn",
+        "Cơn suy thượng thận cấp (Acute Adrenal Crisis) do stress nhiễm trùng trên nền bệnh Addison",
+        "Cơn bão giáp trạng kịch phát",
+        "Hạ đường huyết do quá liều insulin"
+      ],
+      "correct": 1,
+      "explanation": "Bệnh cảnh tối cấp của Cơn suy thượng thận cấp (Adrenal crisis): Bệnh nhân suy thượng thận gặp yếu tố stress nặng (nhiễm trùng hô hấp sốt cao, nôn ói không giữ được thuốc) không được tăng liều cortisol kịp thời -> Tụt huyết áp trơ với vận mạch, trụy tim mạch sốc không hồi phục và suy sụp ý thức. Tỷ lệ tử vong rất cao nếu không cấp cứu ngay."
+    },
+    {
+      "id": "stt_case_05",
+      "text": "Thái độ cấp cứu TỐI KHẨN CẤP tại chỗ cho bệnh nhân có Cơn suy thượng thận cấp trụy mạch ở trên gồm:",
+      "options": [
+        "Chờ kết quả xét nghiệm Cortisol khẩn về mới quyết định điều trị",
+        "Tiêm tĩnh mạch bolus ngay Hydrocortisone 100 mg, truyền nhanh dung dịch NaCl 0.9% kèm Glucose 5%, sau đó duy trì Hydrocortisone 200 mg/24h",
+        "Chỉ cần truyền máu toàn phần và tiêm thuốc trợ tim Digoxin",
+        "Uống ngay 1 viên Fludrocortisone 0.1 mg với nước ấm"
+      ],
+      "correct": 1,
+      "explanation": "Xử trí Cơn suy thượng thận cấp: (1) Tuyệt đối KHÔNG CHỜ kết quả xét nghiệm; (2) Tiêm tĩnh mạch ngay lập tức 100mg Hydrocortisone; (3) Hồi sức thể tích tích cực bằng dung dịch muối đẳng trương NaCl 0.9% và Glucose (chống hạ natri máu, tụt HA và hạ đường huyết); (4) Duy trì Hydrocortisone 200mg/ngày (tiêm TM 50mg mỗi 6h hoặc truyền liên tục).\n💡 Clinical Pearl (Thuốc thay thế): Nếu tại cơ sở cấp cứu không có sẵn Hydrocortisone, thuốc thay thế tối ưu là DEXAMETHASONE 4mg tiêm tĩnh mạch. Ưu điểm đặc biệt của Dexamethasone là KHÔNG PHẢN ỨNG CHÉO trong xét nghiệm định lượng Cortisol máu, do đó không làm sai lệch kết quả nếu bác sĩ cần làm nghiệm pháp kích thích Synacthen chẩn đoán xác định sau đó!"
+    },
+    {
+      "id": "stt_case_06",
+      "text": "Tại sao trong giai đoạn cấp cứu Cơn suy thượng thận cấp với Hydrocortisone liều cao (100 - 200 mg/ngày), bác sĩ KHÔNG CẦN phải cho thêm thuốc giữ muối Fludrocortisone (Florinef)?",
+      "options": [
+        "Vì Fludrocortisone gây độc cho thận khi tụt huyết áp",
+        "Vì ở liều cao này (>= 50 - 100 mg/ngày), bản thân Hydrocortisone đã có hoạt tính gắn và kích hoạt thụ thể Mineralocorticoid đủ mạnh tương đương Fludrocortisone",
+        "Vì bệnh nhân không bị thiếu Aldosterone trong cơn cấp",
+        "Vì Fludrocortisone làm tăng bài xuất glucose qua nước tiểu"
+      ],
+      "correct": 1,
+      "explanation": "Hydrocortisone có cấu trúc gắn được cả vào thụ thể Glucocorticoid và Mineralocorticoid. Ở liều cấp cứu >= 100mg/ngày, hoạt tính mineralocorticoid của Hydrocortisone đã bão hòa hoàn toàn thụ thể tại thận, nên không cần bổ sung Fludrocortisone.\n📌 Điểm chuyển tiếp quan trọng: Khi tình trạng bệnh nhân ổn định và liều Hydrocortisone được giảm dần xuống < 50mg/ngày, hoạt tính giữ muối nước không còn đủ, BẮT BUỘC phải bắt đầu phối hợp thêm Fludrocortisone (Florinef) liều 0.05 - 0.1 mg/ngày uống buổi sáng."
+    },
+    {
+      "id": "stt_case_07",
+      "text": "Bệnh nhân nam 52 tuổi được chẩn đoán Bệnh Addison do căn nguyên Lao hai bên tuyến thượng thận. Dấu hiệu hình ảnh học đặc trưng nhất trên phim chụp cắt lớp vi tính (CT scanner) ổ bụng ở bệnh nhân này là gì?",
+      "options": [
+        "Hai tuyến thượng thận teo nhỏ hoàn toàn không bắt thuốc",
+        "Hai tuyến thượng thận phì đại to, bờ không đều kèm nhiều nốt vôi hóa (calcification) rải rác bên trong nhu mô",
+        "Khối u đơn độc thùy trái kích thước 10 cm chứa đầy mỡ",
+        "Hình ảnh tuyến thượng thận bình thường không có bất thường"
+      ],
+      "correct": 1,
+      "explanation": "Lao là căn nguyên nhiễm trùng hàng đầu gây bệnh Addison. Quá trình viêm hoại tử bã đậu mạn tính của vi khuẩn lao dẫn đến lắng đọng canxi tạo nên hình ảnh đặc trưng: Tuyến thượng thận to hai bên ở giai đoạn hoạt động và xuất hiện nhiều nốt vôi hóa điển hình trên phim CT."
+    },
+    {
+      "id": "stt_case_08",
+      "text": "Một phụ nữ 32 tuổi, tiền sử băng huyết sau sinh nặng phải truyền 6 đơn vị máu cách đây 2 năm (Hội chứng Sheehan). Sau sinh bà hoàn toàn mất sữa, không thấy kinh nguyệt trở lại, người mệt mỏi, rụng lông mu và nách, huyết áp thấp 85/55 mmHg, da trắng bệch nhợt nhạt. Xét nghiệm: Cortisol máu thấp, FT4 thấp, ACTH thấp, TSH thấp. Điểm khác biệt quan trọng nhất về màu sắc da của bệnh nhân này so với bệnh Addison là gì?",
+      "options": [
+        "Bệnh nhân Sheehan da vàng đậm như nghệ",
+        "Bệnh nhân Sheehan da trắng nhạt/mất sắc tố (Alabaster skin) chứ KHÔNG sạm da, vì tuyến yên bị hoại tử không tiết được ACTH và MSH",
+        "Bệnh nhân Sheehan có sạm da loang lổ vùng lưng",
+        "Màu da hoàn toàn giống hệt bệnh Addison"
+      ],
+      "correct": 1,
+      "explanation": "Hội chứng Sheehan là suy đa tuyến yên sau sinh do hoại tử tuyến yên vì thiếu máu cục bộ trong băng huyết. Vì thùy trước tuyến yên bị hoại tử nên nồng độ ACTH và MSH giảm rất thấp -> Không kích thích tế bào sắc tố da, làm bệnh nhân có làn da trắng bệch như thạch cao (alabaster skin), đối lập hoàn toàn với làn da sạm đen đồng của bệnh Addison."
+    },
+    {
+      "id": "stt_case_09",
+      "text": "Quy tắc 'Sick-day rules' (Quy tắc tự chăm sóc khi ốm) được bác sĩ hướng dẫn cho bệnh nhân Addison điều trị ngoại trú: 'Khi bị sốt từ 38 độ C trở lên do viêm họng hoặc cảm cúm, hành động đúng của bệnh nhân là...':",
+      "options": [
+        "Ngừng ngay thuốc vì corticoid làm giảm sức đề kháng chống vi khuẩn",
+        "Uống tăng gấp đôi (Double dose) hoặc gấp ba (Triple dose) liều Hydrocortisone hàng ngày cho đến khi hết sốt",
+        "Giảm nửa liều Hydrocortisone và uống nhiều nước đường",
+        "Giữ nguyên liều thuốc cũ và tự uống thêm thuốc an thần"
+      ],
+      "correct": 1,
+      "explanation": "Sinh lý cơ thể bình thường khi bị ốm/sốt sẽ tăng tiết cortisol gấp 2-3 lần để duy trì huyết áp và chống viêm. Bệnh nhân Addison không thể tự tiết hormone, nếu giữ nguyên liều sinh lý sẽ rơi vào Cơn suy thượng thận cấp tử vong. Bắt buộc phải tăng liều gấp đôi (double) khi sốt > 38°C hoặc gấp ba (triple) khi sốt > 39°C."
+    },
+    {
+      "id": "stt_case_10",
+      "text": "Trẻ nhỏ 4 tuổi đột ngột sốt cao co giật, lơ mơ, trên da xuất hiện nhiều ban xuất huyết hoại tử hình sao màu tím đen lan nhanh khắp ngực bụng và đùi, huyết áp tụt sâu không đo được. Chọc dò dịch não tủy và cấy máu phát hiện Song cầu khuẩn gram âm hình hạt cà phê (Neisseria meningitidis). Tử thiết cho thấy xuất huyết hoại tử ồ ạt hai bên tuyến thượng thận. Tên của hội chứng cấp tính đe dọa tính mạng này là:",
+      "options": [
+        "Hội chứng Sheehan",
+        "Hội chứng Waterhouse - Friderichsen",
+        "Hội chứng Cushing ngoại sinh",
+        "Hội chứng Nelson"
+      ],
+      "correct": 1,
+      "explanation": "Hội chứng Waterhouse - Friderichsen là tình trạng suy tuyến thượng thận tối cấp do xuất huyết hoại tử lan tỏa hai bên tuyến thượng thận trong bệnh cảnh nhiễm khuẩn huyết tối cấp do Não mô cầu (Neisseria meningitidis), đặc trưng bởi sốc nhiễm khuẩn, ban hoại tử xuất huyết hình sao và tử vong rất nhanh nếu không cấp cứu kịp thời."
+    },
+    {
+      "id": "stt_card_001",
+      "text": "Định nghĩa bệnh Suy tuyến thượng thận (Adrenal Insufficiency)?",
+      "options": [
+        "Vì tổn thương nguyên phát nằm tại thùy trước tuyến yên hoặc vùng dưới đồi làm giảm sút bài tiết ACTH và POMC → Nồng độ ACTH và α-MSH trong máu rất thấp → Không kích hoạt thụ thể MC1R trên tế bào hắc tố → Da bệnh nhân không tăng sắc tố mà trắng bợt, xanh xao do kèm theo thiếu máu và giảm sắc tố.",
+        "Suy tuyến thượng thận là tình trạng bệnh lý xảy ra do vỏ tuyến thượng thận giảm sản xuất và bài tiết các hormon sinh tồn vào máu, chủ yếu là hormon glucocorticoid (Cortisol), trong nhiều trường hợp kèm theo thiếu hụt mineralocorticoid (Aldosteron) và hormon sinh dục (Androgen thượng thận).",
+        "Điện giải đồ: Hạ Natri máu (Tăng Kali máu (> 5.0 mmol/L).",
+        "Vì lớp cầu của vỏ thượng thận (tiết Aldosteron) chịu sự điều hòa chủ yếu bởi hệ Renin - Angiotensin (RAAS) và nồng độ Kali huyết thanh, không phụ thuộc vào ACTH của tuyến yên → Khi tuyến yên bị suy giảm ACTH, lớp cầu vẫn tiết đủ Aldosteron để tái hấp thu Na+ và thải K+ tại ống thận → Kali máu không bị tăng cao."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\n• Suy tuyến thượng thận là tình trạng bệnh lý xảy ra do vỏ tuyến thượng thận giảm sản xuất và bài tiết các hormon sinh tồn vào máu, chủ yếu là hormon glucocorticoid (Cortisol), trong nhiều trường hợp kèm theo thiếu hụt mineralocorticoid (Aldosteron) và hormon sinh dục (Androgen thượng thận).\n• Gặp ở mọi lứa tuổi và ở cả hai giới.\n\n🔍 Góc nhìn chuyên sâu:\nLà hội chứng thiếu hụt cortisol toàn thân, có thể đe dọa tính mạng nếu xảy ra cấp tính."
+    },
+    {
+      "id": "stt_card_002",
+      "text": "Phân biệt 3 thể lâm sàng chính của Suy tuyến thượng thận?",
+      "options": [
+        "Suy thượng thận tiên phát (Bệnh Addison): Tổn thương phá hủy trực tiếp ≥ 90% vỏ thượng thận hai bên (thiếu đồng thời Cortisol, Aldosteron, Androgen; ACTH tăng rất cao gây sạm da).",
+        "Uống Hydrocortisone 20 mg trước khi làm thủ thuật 1 giờ, sau đó tăng gấp đôi liều uống trong ngày làm thủ thuật, ngày hôm sau trở lại liều duy trì bình thường.",
+        "Bệnh tự miễn (Viêm thượng thận tự miễn): Chiếm 70% - 80%, kháng thể Anti 21-hydroxylase (+), liên quan HLA-B8, HLA-DW3, Nữ:Nam = 3:1, CT scan thấy teo 2 bên thượng thận.",
+        "Vì cortisol sinh lý có tác dụng thúc đẩy quá trình tự chết theo chương trình của bạch cầu ái toan; khi thiếu cortisol đời sống của bạch cầu ái toan trong máu ngoại vi bị kéo dài."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\n1. Suy thượng thận tiên phát (Bệnh Addison): Tổn thương phá hủy trực tiếp ≥ 90% vỏ thượng thận hai bên (thiếu đồng thời Cortisol, Aldosteron, Androgen; ACTH tăng rất cao gây sạm da).\n2. Suy thượng thận thứ phát: Tổn thương tuyến yên (giảm ACTH) hoặc do dùng corticoid kéo dài (thiếu Cortisol, bảo tồn Aldosteron, không sạm da).\n3. Cơn suy thượng thận cấp (Acute Adrenal Crisis): Tình trạng cấp cứu tối khẩn cấp do thiếu hụt cortisol tuyệt đối gây trụy mạch sốc.\n\n🔍 Góc nhìn chuyên sâu:\nPhân biệt tiên phát vs thứ phát dựa vào triệu chứng sạm da và nồng độ ACTH máu."
+    },
+    {
+      "id": "stt_card_003",
+      "text": "Các nguyên nhân thường gặp nhất của Suy thượng thận tiên phát (Bệnh Addison)?",
+      "options": [
+        "Bệnh tự miễn (Viêm thượng thận tự miễn): Chiếm 70% - 80%, kháng thể Anti 21-hydroxylase (+), liên quan HLA-B8, HLA-DW3, Nữ:Nam = 3:1, CT scan thấy teo 2 bên thượng thận.",
+        "Do thiếu cortisol trong hệ thần kinh trung ương làm suy giảm chuyển hóa năng lượng tế bào não, kết hợp với tình trạng hạ Natri máu và hạ đường huyết mạn tính.",
+        "Bệnh nhân sốc tụt HA (65/40 mmHg), lơ mơ, đau bụng dữ dội, nôn mửa sau ngừng thuốc đông y trộn dexamethasone.",
+        "Vì ở người bình thường nồng độ cortisol giảm dần về chiều tối; ở người suy thượng thận nồng độ cortisol vốn đã thấp chạm đáy làm tế bào hoàn toàn thiếu năng lượng chuyển hóa vào cuối ngày."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\n1. Bệnh tự miễn (Viêm thượng thận tự miễn): Chiếm 70% - 80%, kháng thể Anti 21-hydroxylase (+), liên quan HLA-B8, HLA-DW3, Nữ:Nam = 3:1, CT scan thấy teo 2 bên thượng thận.\n2. Lao tuyến thượng thận: Thường xuất hiện sau 1 - 2 năm nhiễm lao, X-quang/CT có vôi hóa 2 bên thượng thận.\n3. Do thuốc: Mitotane, Ketoconazol, Metyrapon.\n4. Cắt 2 bên tuyến thượng thận toàn phần.\n5. Xuất huyết hoại tử thượng thận (H/c Waterhouse-Friderichsen) hoặc ung thư di căn 2 bên.\n\n🔍 Góc nhìn chuyên sâu:\nTại các nước phát triển tự miễn là hàng đầu; tại các nước đang phát triển cần đặc biệt tầm soát lao thượng thận."
+    },
+    {
+      "id": "stt_card_004",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Tự kháng thể xuất hiện đặc hiệu trong 70% - 80% trường hợp Bệnh Addison tự miễn là [...].\"",
+      "options": [
+        "Anti 21-hydroxylase",
+        "1 - 2 năm",
+        "Lao tuyến thượng thận",
+        "Não mô cầu (Neisseria meningitidis)"
+      ],
+      "correct": 0,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nTự kháng thể xuất hiện đặc hiệu trong 70% - 80% trường hợp Bệnh Addison tự miễn là {{c1::Anti 21-hydroxylase}}."
+    },
+    {
+      "id": "stt_card_005",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Hình ảnh vôi hóa hai bên tuyến thượng thận trên phim X-quang hoặc CT scan ổ bụng là dấu hiệu đặc trưng của tổn thương do [...] xuất hiện sau [...] nhiễm lao.\"",
+      "options": [
+        "Não mô cầu (Neisseria meningitidis)",
+        "1 - 2 năm",
+        "Anti 21-hydroxylase",
+        "Lao tuyến thượng thận"
+      ],
+      "correct": 3,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nHình ảnh vôi hóa hai bên tuyến thượng thận trên phim X-quang hoặc CT scan ổ bụng là dấu hiệu đặc trưng của tổn thương do {{c1::Lao tuyến thượng thận}} xuất hiện sau {{c1::1 - 2 năm}} nhiễm lao."
+    },
+    {
+      "id": "stt_card_006",
+      "text": "Hội chứng Waterhouse-Friderichsen là gì?",
+      "options": [
+        "Do tự kháng thể Anti 21-hydroxylase và tế bào lympho T tự miễn thâm nhiễm phá hủy dần dần các tế bào biểu mô vỏ thượng thận và thay thế bằng mô xơ teo nhỏ.",
+        "Là biến chứng xuất huyết hoại tử hai bên tuyến thượng thận tối cấp trong bệnh cảnh nhiễm khuẩn huyết bùng phát do vi khuẩn Não mô cầu (Neisseria meningitidis), phế cầu hoặc trực khuẩn mủ xanh, gây sốc nhiễm khuẩn và suy thượng thận cấp tử vong nhanh chóng.",
+        "Thiếu cortisol làm giảm tưới máu mạc treo ruột, suy giảm trương lực cơ trơn đường tiêu hóa và giảm bài tiết acid dịch vị.",
+        "Thiếu Cortisol: Giảm tính nhạy cảm của thụ thể α1-adrenergic trên thành mạch với Catecholamine → Giãn mạch ngoại vi."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nLà biến chứng xuất huyết hoại tử hai bên tuyến thượng thận tối cấp trong bệnh cảnh nhiễm khuẩn huyết bùng phát do vi khuẩn Não mô cầu (Neisseria meningitidis), phế cầu hoặc trực khuẩn mủ xanh, gây sốc nhiễm khuẩn và suy thượng thận cấp tử vong nhanh chóng.\n\n🔍 Góc nhìn chuyên sâu:\nThường xuất hiện ban xuất huyết hoại tử hình sao lan tỏa trên da."
+    },
+    {
+      "id": "stt_card_007",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Hội chứng Waterhouse-Friderichsen là biến chứng xuất huyết hoại tử hai bên tuyến thượng thận tối cấp trong bệnh cảnh nhiễm khuẩn huyết do vi khuẩn [...].\"",
+      "options": [
+        "1 - 2 năm",
+        "Lao tuyến thượng thận",
+        "Não mô cầu (Neisseria meningitidis)",
+        "Anti 21-hydroxylase"
+      ],
+      "correct": 2,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nHội chứng Waterhouse-Friderichsen là biến chứng xuất huyết hoại tử hai bên tuyến thượng thận tối cấp trong bệnh cảnh nhiễm khuẩn huyết do vi khuẩn {{c1::Não mô cầu (Neisseria meningitidis)}}."
+    },
+    {
+      "id": "stt_card_008",
+      "text": "Nguyên nhân phổ biến nhất của Suy thượng thận thứ phát hiện nay?",
+      "options": [
+        "Do đột biến gen AIRE, bao gồm tam chứng:",
+        "BẮT BUỘC ĐIỀU TRỊ SUY THƯỢNG THẬN TRƯỚC SUY GIÁP (bù Hydrocortisone trước ít nhất 3 - 5 ngày rồi mới bắt đầu dùng Levothyroxine).",
+        "Để khi gặp tai nạn giao thông, chấn thương hoặc hôn mê bất tỉnh, nhân viên y tế cấp cứu nhận biết được ngay bệnh nhân bị suy thượng thận để tiêm ngay Hydrocortisone liều stress cứu sống bệnh nhân.",
+        "Ngừng đột ngột sau liệu trình điều trị corticoid kéo dài (liều ≥ 20 mg Prednisolone/ngày kéo dài ≥ 3 tuần), do nồng độ corticoid ngoại sinh ức chế trục HPA làm teo vỏ thượng thận hai bên (gặp ở người uống thuốc khớp gia truyền, thuốc tễ trộn dexamethasone)."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nNgừng đột ngột sau liệu trình điều trị corticoid kéo dài (liều ≥ 20 mg Prednisolone/ngày kéo dài ≥ 3 tuần), do nồng độ corticoid ngoại sinh ức chế trục HPA làm teo vỏ thượng thận hai bên (gặp ở người uống thuốc khớp gia truyền, thuốc tễ trộn dexamethasone).\n\n🔍 Góc nhìn chuyên sâu:\nCác nguyên nhân khác gồm: u tuyến yên, hoại tử tuyến yên sau sinh mất máu (Hội chứng Sheehan), phẫu thuật, xạ trị sọ não."
+    },
+    {
+      "id": "stt_card_009",
+      "text": "Hội chứng tự miễn đa tuyến Type 1 (APS-1 / APECED) gồm những bệnh lý nào?",
+      "options": [
+        "Do đột biến gen AIRE, bao gồm tam chứng:",
+        "Vì Fludrocortisone có thời gian tác dụng sinh học kéo dài tại thụ thể Mineralocorticoid ở ống thận (t1/2 tác dụng sinh học > 18 - 36 giờ), đủ để duy trì giữ Natri và huyết áp ổn định suốt 24 giờ.",
+        "Vì sự phơi nhiễm liên tục không có thời gian nghỉ làm mất nhịp tiết sinh học tự nhiên của trục HPA, ức chế liên tục sự phân chia và dinh dưỡng của tế bào vỏ thượng thận.",
+        "Cortisol sinh lý có tác dụng thúc đẩy quá trình chết theo chương trình (Apoptosis) của bạch cầu ái toan và giữ bạch cầu lympho trong tủy xương."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nDo đột biến gen AIRE, bao gồm tam chứng:\n1. Nhiễm nấm Candida da niêm mạc mạn tính (xuất hiện sớm nhất thời thơ ấu).\n2. Suy tuyến cận giáp tự miễn (Hạ calci máu).\n3. Suy tuyến thượng thận tiên phát (Bệnh Addison).\n\n🔍 Góc nhìn chuyên sâu:\nBệnh di truyền lặn trên nhiễm sắc thể thường."
+    },
+    {
+      "id": "stt_card_010",
+      "text": "Hội chứng tự miễn đa tuyến Type 2 (APS-2 / Hội chứng Schmidt) gồm những bệnh lý nào?",
+      "options": [
+        "Bao gồm tam chứng:",
+        "Để khi gặp tai nạn giao thông, chấn thương hoặc hôn mê bất tỉnh, nhân viên y tế cấp cứu nhận biết được ngay bệnh nhân bị suy thượng thận để tiêm ngay Hydrocortisone liều stress cứu sống bệnh nhân.",
+        "Vì ở người bình thường nồng độ cortisol giảm dần về chiều tối; ở người suy thượng thận nồng độ cortisol vốn đã thấp chạm đáy làm tế bào hoàn toàn thiếu năng lượng chuyển hóa vào cuối ngày.",
+        "Liều Hydrocortisone duy trì thường tăng nhẹ khoảng 20% - 40% trong 3 tháng cuối thai kỳ do nhu cầu sinh lý tăng cao; trong quá trình chuyển dạ đẻ bắt buộc tiêm Hydrocortisone 100mg liều stress tĩnh mạch."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nBao gồm tam chứng:\n1. Suy tuyến thượng thận tiên phát (Bệnh Addison).\n2. Bệnh tuyến giáp tự miễn (Viêm giáp Hashimoto gây suy giáp hoặc Basedow).\n3. Đái tháo đường Type 1.\n\n🔍 Góc nhìn chuyên sâu:\nHay gặp ở phụ nữ trưởng thành, liên quan chặt chẽ với kháng nguyên HLA-DR3, HLA-DR4."
+    },
+    {
+      "id": "stt_card_011",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Hội chứng tự miễn đa tuyến Type 2 (Hội chứng Schmidt) bao gồm tam chứng: Suy thượng thận tự miễn + [...] + [...].\"",
+      "options": [
+        "Anti 21-hydroxylase",
+        "Bệnh tuyến giáp tự miễn (Hashimoto/Basedow)",
+        "Lao tuyến thượng thận",
+        "1 - 2 năm"
+      ],
+      "correct": 1,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nHội chứng tự miễn đa tuyến Type 2 (Hội chứng Schmidt) bao gồm tam chứng: Suy thượng thận tự miễn + {{c1::Bệnh tuyến giáp tự miễn (Hashimoto/Basedow)}} + {{c1::Đái tháo đường Type 1}}."
+    },
+    {
+      "id": "stt_card_012",
+      "text": "Cơ chế sinh lý bệnh của triệu chứng Sạm da và Niêm mạc trong Bệnh Addison?",
+      "options": [
+        "Thiếu Cortisol làm mất ức chế ngược âm tính (negative feedback) → Tuyến yên tăng cường sản xuất và phân cắt tiền chất POMC để giải phóng lượng lớn ACTH và α-MSH.",
+        "Vì lớp cầu của vỏ thượng thận (tiết Aldosteron) chịu sự điều hòa chủ yếu bởi hệ Renin - Angiotensin (RAAS) và nồng độ Kali huyết thanh, không phụ thuộc vào ACTH của tuyến yên → Khi tuyến yên bị suy giảm ACTH, lớp cầu vẫn tiết đủ Aldosteron để tái hấp thu Na+ và thải K+ tại ống thận → Kali máu không bị tăng cao.",
+        "Vì Fludrocortisone có thời gian tác dụng sinh học kéo dài tại thụ thể Mineralocorticoid ở ống thận (t1/2 tác dụng sinh học > 18 - 36 giờ), đủ để duy trì giữ Natri và huyết áp ổn định suốt 24 giờ.",
+        "Là biến chứng xuất huyết hoại tử hai bên tuyến thượng thận tối cấp trong bệnh cảnh nhiễm khuẩn huyết bùng phát do vi khuẩn Não mô cầu (Neisseria meningitidis), phế cầu hoặc trực khuẩn mủ xanh, gây sốc nhiễm khuẩn và suy thượng thận cấp tử vong nhanh chóng."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\n• Thiếu Cortisol làm mất ức chế ngược âm tính (negative feedback) → Tuyến yên tăng cường sản xuất và phân cắt tiền chất POMC để giải phóng lượng lớn ACTH và α-MSH.\n• ACTH và α-MSH gắn vào thụ thể MC1R trên màng tế bào hắc tố (Melanocyte) ở lớp biểu bì → Tăng tổng hợp Melanin.\n• Biểu hiện: Sạm da màu đồng thau ở vùng hở, vùng tì đè cọ xát, nếp chỉ tay và các dát đen màu xám chì/mực loang ở niêm mạc má, lợi, lưỡi.\n\n🔍 Góc nhìn chuyên sâu:\nTrong suy thượng thận thứ phát do tuyến yên không tiết được ACTH nên hoàn toàn KHÔNG CÓ sạm da (da trắng bợt)."
+    },
+    {
+      "id": "stt_card_013",
+      "text": "Tại sao trong Suy thượng thận thứ phát bệnh nhân lại có sắc da trắng bợt, không bị sạm da?",
+      "options": [
+        "Vì khi bị ốm sốt nhiễm trùng, cơ thể người bình thường sẽ tự động tăng tiết cortisol gấp 2 - 3 lần để chống stress và duy trì trương lực mạch; bệnh nhân suy thượng thận không tự tiết được nên nếu không tăng liều sẽ bị sốc suy thượng thận cấp.",
+        "Để người nhà hoặc bệnh nhân có thể tự tiêm bắp cấp cứu ngay lập tức khi bị nôn mửa nhiều hoặc tiêu chảy cấp không uống và giữ được thuốc viên trong dạ dày.",
+        "Vì tổn thương nguyên phát nằm tại thùy trước tuyến yên hoặc vùng dưới đồi làm giảm sút bài tiết ACTH và POMC → Nồng độ ACTH và α-MSH trong máu rất thấp → Không kích hoạt thụ thể MC1R trên tế bào hắc tố → Da bệnh nhân không tăng sắc tố mà trắng bợt, xanh xao do kèm theo thiếu máu và giảm sắc tố.",
+        "Để cho vùng dưới đồi và tuyến yên có đủ thời gian phục hồi lại khả năng bài tiết CRH và ACTH, giúp đánh thức mô vỏ thượng thận teo nhỏ dần dần tái tạo và tự sản xuất cortisol."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\nVì tổn thương nguyên phát nằm tại thùy trước tuyến yên hoặc vùng dưới đồi làm giảm sút bài tiết ACTH và POMC → Nồng độ ACTH và α-MSH trong máu rất thấp → Không kích hoạt thụ thể MC1R trên tế bào hắc tố → Da bệnh nhân không tăng sắc tố mà trắng bợt, xanh xao do kèm theo thiếu máu và giảm sắc tố.\n\n🔍 Góc nhìn chuyên sâu:\nĐây là dấu hiệu lâm sàng phân định quyết định giữa thể tiên phát và thứ phát."
+    },
+    {
+      "id": "stt_card_014",
+      "text": "Cơ chế gây tụt huyết áp và hạ huyết áp tư thế trong suy tuyến thượng thận?",
+      "options": [
+        "Thiếu Cortisol: Giảm tính nhạy cảm của thụ thể α1-adrenergic trên thành mạch với Catecholamine → Giãn mạch ngoại vi.",
+        "Do thiếu Aldosteron làm ống lượn xa mất khả năng tái hấp thu Natri, gây mất muối và nước ồ ạt qua nước tiểu, làm giảm thể tích dịch ngoại bào và huyết tương.",
+        "Là biến chứng xuất huyết hoại tử hai bên tuyến thượng thận tối cấp trong bệnh cảnh nhiễm khuẩn huyết bùng phát do vi khuẩn Não mô cầu (Neisseria meningitidis), phế cầu hoặc trực khuẩn mủ xanh, gây sốc nhiễm khuẩn và suy thượng thận cấp tử vong nhanh chóng.",
+        "Vì bệnh nhân suy thượng thận cấp có tình trạng hạ đường huyết nặng nề do cạn kiệt nguồn tân tạo glucose tại gan → Bắt buộc truyền Glucose để nâng và duy trì đường huyết bảo vệ não bộ."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\n1. Thiếu Cortisol: Giảm tính nhạy cảm của thụ thể α1-adrenergic trên thành mạch với Catecholamine → Giãn mạch ngoại vi.\n2. Thiếu Aldosteron (trong thể tiên phát): Mất Natri và nước qua nước tiểu → Giảm thể tích tuần hoàn huyết tương.\n\n🔍 Góc nhìn chuyên sâu:\nDẫn đến huyết áp thấp mạn tính (< 90/60 mmHg) và tụt huyết áp tư thế (giảm ≥ 20 mmHg khi đứng dậy) gây chóng mặt, hoa mắt, ngất."
+    },
+    {
+      "id": "stt_card_015",
+      "text": "Tại sao bệnh nhân Bệnh Addison bị Hạ Natri máu, Tăng Kali máu và thèm ăn muối?",
+      "options": [
+        "Khám lâm sàng và xét nghiệm Điện giải đồ (Na+, K+), Glucose máu, Chức năng thận mỗi 3 – 6 tháng.",
+        "Thiếu Cortisol làm mất ức chế ngược âm tính (negative feedback) → Tuyến yên tăng cường sản xuất và phân cắt tiền chất POMC để giải phóng lượng lớn ACTH và α-MSH.",
+        "Tổn thương lớp cầu vỏ thượng thận làm thiếu hụt Aldosteron.",
+        "Ngừng đột ngột sau liệu trình điều trị corticoid kéo dài (liều ≥ 20 mg Prednisolone/ngày kéo dài ≥ 3 tuần), do nồng độ corticoid ngoại sinh ức chế trục HPA làm teo vỏ thượng thận hai bên (gặp ở người uống thuốc khớp gia truyền, thuốc tễ trộn dexamethasone)."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\n• Tổn thương lớp cầu vỏ thượng thận làm thiếu hụt Aldosteron.\n• Ống lượn xa và ống góp mất khả năng tái hấp thu Na+ và mất khả năng bài xuất K+, H+.\n• Dẫn đến mất muối nước ồ ạt qua thận → Hạ Natri máu, đồng thời giữ lại Kali → Tăng Kali máu (> 5.0 mmol/L) và nhiễm toan chuyển hóa.\n• Bệnh nhân xuất hiện Hội chứng thèm ăn muối (Salt craving) rõ rệt.\n\n🔍 Góc nhìn chuyên sâu:\nTrong suy thượng thận thứ phát, hệ RAAS vẫn bảo tồn chức năng tiết Aldosteron nên Kali máu thường hoàn toàn bình thường."
+    },
+    {
+      "id": "stt_card_016",
+      "text": "Tại sao trong Suy thượng thận thứ phát nồng độ Kali máu thường bình thường?",
+      "options": [
+        "Vì lớp cầu của vỏ thượng thận (tiết Aldosteron) chịu sự điều hòa chủ yếu bởi hệ Renin - Angiotensin (RAAS) và nồng độ Kali huyết thanh, không phụ thuộc vào ACTH của tuyến yên → Khi tuyến yên bị suy giảm ACTH, lớp cầu vẫn tiết đủ Aldosteron để tái hấp thu Na+ và thải K+ tại ống thận → Kali máu không bị tăng cao.",
+        "Vì thiếu Aldosteron đã làm thận mất khả năng bài tiết Kali, nồng độ Kali máu đang ở mức rất cao (> 5.5 - 6.5 mmol/L); truyền thêm dịch chứa Kali sẽ làm Kali máu tăng vọt đe dọa ngừng tim rung thất ngay lập tức.",
+        "BẮT BUỘC ĐIỀU TRỊ SUY THƯỢNG THẬN TRƯỚC SUY GIÁP (bù Hydrocortisone trước ít nhất 3 - 5 ngày rồi mới bắt đầu dùng Levothyroxine).",
+        "Bước 1: Lấy máu lúc 8h00 sáng định lượng Cortisol cơ sở (T0)."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nVì lớp cầu của vỏ thượng thận (tiết Aldosteron) chịu sự điều hòa chủ yếu bởi hệ Renin - Angiotensin (RAAS) và nồng độ Kali huyết thanh, không phụ thuộc vào ACTH của tuyến yên → Khi tuyến yên bị suy giảm ACTH, lớp cầu vẫn tiết đủ Aldosteron để tái hấp thu Na+ và thải K+ tại ống thận → Kali máu không bị tăng cao.\n\n🔍 Góc nhìn chuyên sâu:\nNatri máu có thể giảm nhẹ do hòa loãng (tăng tiết ADH bù trừ)."
+    },
+    {
+      "id": "stt_card_017",
+      "text": "Cơ chế gây Hạ đường huyết lúc đói trong bệnh suy thượng thận?",
+      "options": [
+        "Luôn mang theo vòng đeo tay hoặc thẻ cảnh báo y tế ghi rõ bị suy thượng thận đang dùng thuốc.",
+        "Cortisol là hormon đối kháng insulin quan trọng bậc nhất. Thiếu cortisol làm:",
+        "Vì lớp cầu của vỏ thượng thận (tiết Aldosteron) chịu sự điều hòa chủ yếu bởi hệ Renin - Angiotensin (RAAS) và nồng độ Kali huyết thanh, không phụ thuộc vào ACTH của tuyến yên → Khi tuyến yên bị suy giảm ACTH, lớp cầu vẫn tiết đủ Aldosteron để tái hấp thu Na+ và thải K+ tại ống thận → Kali máu không bị tăng cao.",
+        "Vì sự phơi nhiễm liên tục không có thời gian nghỉ làm mất nhịp tiết sinh học tự nhiên của trục HPA, ức chế liên tục sự phân chia và dinh dưỡng của tế bào vỏ thượng thận."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nCortisol là hormon đối kháng insulin quan trọng bậc nhất. Thiếu cortisol làm:\n1. Giảm tân tạo glucose tại gan (giảm hoạt tính enzyme PEPCK).\n2. Giảm phân giải glycogen tại gan.\n3. Tăng nhạy cảm của mô ngoại vi với insulin.\n→ Gan không thể duy trì đường huyết khi nhịn ăn dẫn đến hạ đường huyết lúc đói.\n\n🔍 Góc nhìn chuyên sâu:\nRất nguy hiểm ở trẻ em và bệnh nhân đái tháo đường đi kèm (cần giảm liều insulin)."
+    },
+    {
+      "id": "stt_card_018",
+      "text": "Cơ chế gây Tăng bạch cầu ái toan (Eosinophilia) trong suy thượng thận?",
+      "options": [
+        "Vì ở bệnh nhân Bệnh Addison chưa được bù đủ Fludrocortisone, thận bị giảm khả năng đào thải Kali; ăn quá nhiều đồ giàu Kali (chuối tiêu, cam, nước dừa, khoai lang) có thể làm Kali máu tăng vọt gây loạn nhịp tim.",
+        "Cortisol sinh lý có tác dụng thúc đẩy quá trình chết theo chương trình (Apoptosis) của bạch cầu ái toan và giữ bạch cầu lympho trong tủy xương.",
+        "Vì thiếu Aldosteron làm thận mất Natri liên tục qua nước tiểu; chế độ ăn giàu muối giúp bù đắp lượng muối bị mất để duy trì thể tích huyết tương và huyết áp ổn định.",
+        "Chỉ định: CHỈ DÙNG trong Suy thượng thận tiên phát (Bệnh Addison)."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nCortisol sinh lý có tác dụng thúc đẩy quá trình chết theo chương trình (Apoptosis) của bạch cầu ái toan và giữ bạch cầu lympho trong tủy xương. Khi thiếu hụt cortisol → Kéo dài đời sống của bạch cầu ái toan trong tuần hoàn máu ngoại vi → Gây Tăng số lượng và tỷ lệ bạch cầu ái toan (Eosinophilia) trên công thức máu.\n\n🔍 Góc nhìn chuyên sâu:\nBạch cầu ái toan tăng trên công thức máu ở bệnh nhân mệt mỏi hạ huyết áp là dấu hiệu gợi ý rất cao."
+    },
+    {
+      "id": "stt_card_019",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Công thức máu ở bệnh nhân suy tuyến thượng thận thường xuất hiện dấu hiệu [...] đặc trưng.\"",
+      "options": [
+        "Lao tuyến thượng thận",
+        "1 - 2 năm",
+        "Tăng bạch cầu ái toan (Eosinophilia)",
+        "Anti 21-hydroxylase"
+      ],
+      "correct": 2,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nCông thức máu ở bệnh nhân suy tuyến thượng thận thường xuất hiện dấu hiệu {{c1::Tăng bạch cầu ái toan (Eosinophilia)}} đặc trưng."
+    },
+    {
+      "id": "stt_card_020",
+      "text": "Cơ chế gây Rụng lông nách, Lông mu và Giảm ham muốn ở phụ nữ bị Addison?",
+      "options": [
+        "Vì tổn thương nguyên phát nằm tại tuyến yên (u tuyến yên, hoại tử Sheehan) hoặc do nồng độ corticoid ngoại sinh ức chế trực tiếp tuyến yên không tiết được ACTH.",
+        "Ở phụ nữ, nguồn cung cấp androgen chủ yếu xuất phát từ lớp lưới của vỏ tuyến thượng thận (DHEA, DHEA-S).",
+        "DHEA-S (Dehydroepiandrosterone sulfate) là hormon androgen được sản xuất chuyên biệt bởi lớp lưới của vỏ tuyến thượng thận, có thời gian bán hủy dài và nồng độ ổn định trong máu.",
+        "Giảm liều Hydrocortisone dần dần 2.5 mg mỗi tuần cho đến khi đạt liều duy trì 10 mg/ngày (uống 8h sáng)."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nỞ phụ nữ, nguồn cung cấp androgen chủ yếu xuất phát từ lớp lưới của vỏ tuyến thượng thận (DHEA, DHEA-S). Khi vỏ thượng thận bị phá hủy hoàn toàn → Thiếu hụt androgen thượng thận trầm trọng → Dẫn đến rụng lông nách, lông mu thưa thớt, khô da và giảm sút ham muốn tình dục.\n\n🔍 Góc nhìn chuyên sâu:\nỞ nam giới tinh hoàn vẫn sản xuất đủ testosterone nên ít biểu hiện triệu chứng này."
+    },
+    {
+      "id": "stt_card_021",
+      "text": "Tứ chứng kinh điển của Suy tuyến thượng thận mạn tính (Bệnh Addison)?",
+      "options": [
+        "Vì vỏ thượng thận bị phá hủy không sản xuất được Cortisol → Mất hoàn toàn cơ chế ức chế ngược âm tính (negative feedback) lên thùy trước tuyến yên → Tuyến yên tăng tiết tối đa ACTH.",
+        "Mệt mỏi suy nhược: Mệt mỏi cả thể xác và tinh thần, TĂNG DẦN VỀ CHIỀU TỐI.",
+        "Thiếu cortisol làm mất cơ chế ức chế tiết hormon chống bài niệu ADH từ vùng dưới đồi → Nồng độ ADH tăng cao không thích hợp làm tăng tái hấp thu nước tại ống góp.",
+        "Trước khởi mê: Tiêm tĩnh mạch Hydrocortisone 100 mg (Bolus)."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\n1. Mệt mỏi suy nhược: Mệt mỏi cả thể xác và tinh thần, TĂNG DẦN VỀ CHIỀU TỐI.\n2. Sạm da và niêm mạc: Sạm màu đồng thau, đốm đen mực loang niêm mạc má (chỉ có ở thể tiên phát).\n3. Hạ huyết áp & Tụt huyết áp tư thế: HA Gầy sút cân & Rối loạn tiêu hóa: Sút 2 - 10 kg, chán ăn, buồn nôn, đau bụng âm ỉ, thèm ăn mặn.\n\n🔍 Góc nhìn chuyên sâu:\nXét nghiệm máu thường thấy tăng bạch cầu ái toan, hạ Na+, tăng K+ và hạ glucose máu."
+    },
+    {
+      "id": "stt_card_022",
+      "text": "Đặc điểm của triệu chứng Mệt mỏi trong bệnh suy thượng thận?",
+      "options": [
+        "Mệt mỏi xuất hiện liên tục, cả về thể chất, trí óc và sinh dục, không thuyên giảm khi nghỉ ngơi.",
+        "Tăng cân nhanh, mặt tròn đỏ, béo bụng, tăng huyết áp, phù nề giữ nước, tăng đường huyết, mất ngủ và loãng xương.",
+        "Do thiếu cortisol trong hệ thần kinh trung ương làm suy giảm chuyển hóa năng lượng tế bào não, kết hợp với tình trạng hạ Natri máu và hạ đường huyết mạn tính.",
+        "Là biến chứng xuất huyết hoại tử hai bên tuyến thượng thận tối cấp trong bệnh cảnh nhiễm khuẩn huyết bùng phát do vi khuẩn Não mô cầu (Neisseria meningitidis), phế cầu hoặc trực khuẩn mủ xanh, gây sốc nhiễm khuẩn và suy thượng thận cấp tử vong nhanh chóng."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\n• Mệt mỏi xuất hiện liên tục, cả về thể chất, trí óc và sinh dục, không thuyên giảm khi nghỉ ngơi.\n• Đặc điểm nổi bật: MỆT MỎI TĂNG DẦN VỀ CHIỀU TỐI (do nồng độ cortisol sinh lý giảm xuống đáy thấp nhất vào cuối ngày).\n\n🔍 Góc nhìn chuyên sâu:\nBệnh nhân cảm thấy kiệt sức ngay cả sau các hoạt động thể lực rất nhẹ."
+    },
+    {
+      "id": "stt_card_023",
+      "text": "Các vị trí sạm da và niêm mạc điển hình nhất trong Bệnh Addison?",
+      "options": [
+        "Vùng da hở: Mặt, cổ, mu bàn tay, cẳng tay.",
+        "Tăng cân nhanh, béo bụng, mặt tròn đỏ, tăng huyết áp, tăng đường huyết, da mỏng dễ bầm tím, mất ngủ, loãng xương → Cần giảm liều Hydrocortisone về liều sinh lý thấp nhất có hiệu quả (10 - 15 mg/ngày).",
+        "Thiếu cortisol làm mất cơ chế ức chế tiết hormon chống bài niệu ADH từ vùng dưới đồi → Nồng độ ADH tăng cao không thích hợp làm tăng tái hấp thu nước tại ống góp.",
+        "Tiền sử băng huyết sau sinh mất sữa, vô kinh, da trắng bợt, sợ lạnh, huyết áp thấp, MRI thấy hố yên rỗng."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\n• Vùng da hở: Mặt, cổ, mu bàn tay, cẳng tay.\n• Vùng cọ xát tì đè: Khuỷu tay, đầu gối, mắt cá chân, vùng thắt lưng quấn cạp quần, nách, bẹn.\n• Nếp nhăn tự nhiên: Nếp gấp chỉ tay trong lòng bàn tay có màu nâu đen nổi bật.\n• Sạm niêm mạc: Các dát màu xám chì hoặc đen như vết mực loang ở niêm mạc má (đối diện răng hàm), lợi, môi và rìa lưỡi.\n\n🔍 Góc nhìn chuyên sâu:\nSạm niêm mạc má là dấu hiệu có độ đặc hiệu cực cao cho Addison."
+    },
+    {
+      "id": "stt_card_024",
+      "text": "Tiêu chuẩn chẩn đoán xác định suy thượng thận dựa vào nồng độ Cortisol máu 8h sáng?",
+      "options": [
+        "Cortisol máu 8h  Khẳng định chắc chắn chẩn đoán Suy tuyến thượng thận.",
+        "Vì ở người bình thường nồng độ cortisol giảm dần về chiều tối; ở người suy thượng thận nồng độ cortisol vốn đã thấp chạm đáy làm tế bào hoàn toàn thiếu năng lượng chuyển hóa vào cuối ngày.",
+        "Bước 1: Lấy máu lúc 8h00 sáng định lượng Cortisol cơ sở (T0).",
+        "Khám lâm sàng đo huyết áp tư thế nằm và đứng, xét nghiệm Điện giải đồ (Na+, K+), Glucose máu đói và chức năng thận định kỳ mỗi 3 đến 6 tháng."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\n• Cortisol máu 8h  Khẳng định chắc chắn chẩn đoán Suy tuyến thượng thận.\n• Cortisol máu 8h > 500 nmol/L (> 18 μg/dL): Loại trừ chẩn đoán suy thượng thận (chức năng bình thường).\n• Cortisol máu 8h từ 100 - 500 nmol/L (3 - 18 μg/dL): Vùng nghi ngờ → Bắt buộc làm Test Synacthen nhanh.\n\n🔍 Góc nhìn chuyên sâu:\nMẫu máu bắt buộc phải lấy đúng lúc 8h00 sáng khi nhịp cortisol đạt đỉnh."
+    },
+    {
+      "id": "stt_card_025",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Nồng độ Cortisol máu lúc 8h00 sáng nhỏ hơn [...] (< 3 μg/dL) cho phép khẳng định chắc chắn chẩn đoán [...].\"",
+      "options": [
+        "1 - 2 năm",
+        "Lao tuyến thượng thận",
+        "< 80 - 100 nmol/L",
+        "Anti 21-hydroxylase"
+      ],
+      "correct": 2,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nNồng độ Cortisol máu lúc 8h00 sáng nhỏ hơn {{c1::< 80 - 100 nmol/L}} (< 3 μg/dL) cho phép khẳng định chắc chắn chẩn đoán {{c1::Suy tuyến thượng thận}}."
+    },
+    {
+      "id": "stt_card_026",
+      "text": "Ý nghĩa của định lượng ACTH huyết tương 8h sáng trong suy thượng thận?",
+      "options": [
+        "Mất Natri liên tục qua thận làm giảm nồng độ Natri dịch ngoại bào, kích hoạt các thụ thể vị giác và trung tâm điều nhiệt vùng dưới đồi tạo phản xạ thèm ăn mặn.",
+        "DHEA-S (Dehydroepiandrosterone sulfate) là hormon androgen được sản xuất chuyên biệt bởi lớp lưới của vỏ tuyến thượng thận, có thời gian bán hủy dài và nồng độ ổn định trong máu.",
+        "Vì trực khuẩn lao xâm nhập gây hoại tử bã đậu tại mô vỏ thượng thận, sau quá trình viêm mạn tính mô hoại tử sẽ bị lắng đọng muối canxi photphat tạo hình ảnh vôi hóa thô rõ trên phim X-quang và CT scan.",
+        "Dùng để phân biệt thể bệnh:"
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nDùng để phân biệt thể bệnh:\n1. ACTH tăng rất cao (> 100 pg/mL, thường 200 - 2000 pg/mL): Khẳng định Suy thượng thận tiên phát (Bệnh Addison).\n2. ACTH giảm thấp hoặc bình thường thấp ( Khẳng định Suy thượng thận thứ phát (do tuyến yên hoặc do thuốc corticoid).\n\n🔍 Góc nhìn chuyên sâu:\nMẫu máu đo ACTH phải được lấy vào ống có chất chống đông EDTA, ướp đá và quay ly tâm ngay."
+    },
+    {
+      "id": "stt_card_027",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Trong Suy thượng thận tiên phát (Addison), nồng độ hormon ACTH huyết tương 8h sáng tăng rất cao trên [...] do mất cơ chế feedback âm tính.\"",
+      "options": [
+        "> 100 pg/mL",
+        "1 - 2 năm",
+        "Lao tuyến thượng thận",
+        "Anti 21-hydroxylase"
+      ],
+      "correct": 0,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nTrong Suy thượng thận tiên phát (Addison), nồng độ hormon ACTH huyết tương 8h sáng tăng rất cao trên {{c1::> 100 pg/mL}} do mất cơ chế feedback âm tính."
+    },
+    {
+      "id": "stt_card_028",
+      "text": "Quy trình thực hiện Test Synacthen nhanh (Short Synacthen Test - ACTH 0.25mg)?",
+      "options": [
+        "Vì sự phơi nhiễm liên tục không có thời gian nghỉ làm mất nhịp tiết sinh học tự nhiên của trục HPA, ức chế liên tục sự phân chia và dinh dưỡng của tế bào vỏ thượng thận.",
+        "Vì thiếu hụt cortisol và tụt huyết áp mạn tính làm giảm lưu lượng máu tưới qua động mạch tử cung - nhau thai, dẫn đến thai nhi bị suy dinh dưỡng bào thai và chậm phát triển trong tử cung (IUGR).",
+        "Bệnh tự miễn (Viêm thượng thận tự miễn): Chiếm 70% - 80%, kháng thể Anti 21-hydroxylase (+), liên quan HLA-B8, HLA-DW3, Nữ:Nam = 3:1, CT scan thấy teo 2 bên thượng thận.",
+        "Bước 1: Lấy máu lúc 8h00 sáng định lượng Cortisol cơ sở (T0)."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\n• Bước 1: Lấy máu lúc 8h00 sáng định lượng Cortisol cơ sở (T0).\n• Bước 2: Tiêm bắp hoặc tiêm tĩnh mạch 1 ống Synacthen Immediate (Tetracosactide) liều 0.25 mg (250 mcg).\n• Bước 3: Lấy máu định lượng lại Cortisol tại thời điểm 30 phút (T30) và 60 phút (T60) sau tiêm.\n\n🔍 Góc nhìn chuyên sâu:\nLà phương pháp tiêu chuẩn vàng chẩn đoán nhanh, an toàn và ít nguy hiểm."
+    },
+    {
+      "id": "stt_card_029",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Trong test Synacthen nhanh, liều tiêm bắp hoặc tĩnh mạch của ACTH tổng hợp (Tetracosactide) là [...] và đo Cortisol lại sau [...].\"",
+      "options": [
+        "0.25 mg (250 mcg)",
+        "1 - 2 năm",
+        "Anti 21-hydroxylase",
+        "Lao tuyến thượng thận"
+      ],
+      "correct": 0,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nTrong test Synacthen nhanh, liều tiêm bắp hoặc tĩnh mạch của ACTH tổng hợp (Tetracosactide) là {{c1::0.25 mg (250 mcg)}} và đo Cortisol lại sau {{c1::30 và 60 phút}}."
+    },
+    {
+      "id": "stt_card_030",
+      "text": "Tiêu chuẩn đánh giá kết quả Test Synacthen nhanh (250 mcg)?",
+      "options": [
+        "Mệt mỏi xuất hiện liên tục, cả về thể chất, trí óc và sinh dục, không thuyên giảm khi nghỉ ngơi.",
+        "Rifampicin là chất cảm ứng cực mạnh enzyme gan CYP3A4, làm tăng tốc độ chuyển hóa và thanh thải Hydrocortisone qua gan gấp 2 - 3 lần → Làm giảm nồng độ cortisol máu và có thể khởi phát cơn suy thượng thận cấp.",
+        "Để khi gặp tai nạn giao thông, chấn thương hoặc hôn mê bất tỉnh, nhân viên y tế cấp cứu nhận biết được ngay bệnh nhân bị suy thượng thận để tiêm ngay Hydrocortisone liều stress cứu sống bệnh nhân.",
+        "BÌNH THƯỜNG: Nồng độ Cortisol máu sau 30 hoặc 60 phút tăng vọt > 500 – 550 nmol/L (> 18 - 20 mcg/dL) hoặc tăng ít nhất 170 nmol/L so với trước tiêm → Loại trừ suy thượng thận."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\n• BÌNH THƯỜNG: Nồng độ Cortisol máu sau 30 hoặc 60 phút tăng vọt > 500 – 550 nmol/L (> 18 - 20 mcg/dL) hoặc tăng ít nhất 170 nmol/L so với trước tiêm → Loại trừ suy thượng thận.\n• BỆNH LÝ (SUY THƯỢNG THẬN): Cortisol máu không tăng hoặc tăng rất ít ( → Khẳng định suy thượng thận.\n\n🔍 Góc nhìn chuyên sâu:\nNếu cortisol không tăng chứng tỏ vỏ thượng thận đã mất khả năng dự trữ bài tiết."
+    },
+    {
+      "id": "stt_card_031",
+      "text": "Mục đích và cách đánh giá Test Synacthen chậm (Synacthene Retard 1mg)?",
+      "options": [
+        "Vùng da hở: Mặt, cổ, mu bàn tay, cẳng tay.",
+        "Mục đích: Đánh giá khả năng hồi phục của vỏ thượng thận sau kích thích kéo dài, giúp phân biệt suy thượng thận tiên phát vs. thứ phát.",
+        "Vì các hạt sắc tố Melanin đã tích tụ sâu trong lớp biểu bì và trung bì cần thời gian thoái hóa và thay mới tế bào biểu bì rất dài qua nhiều tháng đến nhiều năm dù nồng độ ACTH đã hạ.",
+        "Để cho vùng dưới đồi và tuyến yên có đủ thời gian phục hồi lại khả năng bài tiết CRH và ACTH, giúp đánh thức mô vỏ thượng thận teo nhỏ dần dần tái tạo và tự sản xuất cortisol."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\n• Mục đích: Đánh giá khả năng hồi phục của vỏ thượng thận sau kích thích kéo dài, giúp phân biệt suy thượng thận tiên phát vs. thứ phát.\n• Quy trình: Tiêm bắp 1mg Synacthene Retard, đo cortisol tại 30p, 1h, 2h, 3h, 4h, 5h sau tiêm.\n• Đánh giá:\n+ Suy thượng thận tiên phát: Cortisol máu hoàn toàn KHÔNG tăng ở mọi thời điểm (vỏ thượng thận bị phá hủy hoàn toàn).\n+ Suy thượng thận thứ phát: Cortisol máu TĂNG LÊN TỪ TỪ sau nhiều giờ kích thích liên tục.\n\n🔍 Góc nhìn chuyên sâu:\nTest này còn giúp phát hiện các trường hợp suy thượng thận sớm do thiếu hụt ACTH một phần."
+    },
+    {
+      "id": "stt_card_032",
+      "text": "Các biến đổi xét nghiệm sinh hóa và huyết học điển hình trong suy thượng thận?",
+      "options": [
+        "Hồi sức dịch nhanh: Truyền nhanh NaCl 0.9% 1000 ml trong 60 phút đầu (phối hợp Glucose 5%), tổng lượng dịch 3-4L/24h. TUYỆT ĐỐI CẤM truyền dịch có chứa Kali (như Ringer Lactate).",
+        "Điện giải đồ: Hạ Natri máu (Tăng Kali máu (> 5.0 mmol/L).",
+        "Do thiếu cortisol trong hệ thần kinh trung ương làm suy giảm chuyển hóa năng lượng tế bào não, kết hợp với tình trạng hạ Natri máu và hạ đường huyết mạn tính.",
+        "Tăng cân nhanh, béo bụng, mặt tròn đỏ, tăng huyết áp, tăng đường huyết, da mỏng dễ bầm tím, mất ngủ, loãng xương → Cần giảm liều Hydrocortisone về liều sinh lý thấp nhất có hiệu quả (10 - 15 mg/ngày)."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\n1. Điện giải đồ: Hạ Natri máu (Tăng Kali máu (> 5.0 mmol/L).\n2. Đường huyết: Hạ Glucose máu đói.\n3. Chức năng thận: Ure và Creatinin tăng cao (suy thận chức năng trước thận do giảm thể tích).\n4. Công thức máu: Tăng số lượng bạch cầu ái toan (Eosinophilia) và thiếu máu đẳng sắc.\n\n🔍 Góc nhìn chuyên sâu:\nTam chứng sinh hóa: Hạ Na+ + Tăng K+ + Hạ Glucose là dấu hiệu kinh điển."
+    },
+    {
+      "id": "stt_card_033",
+      "text": "Phác đồ bồi phụ hormon Glucocorticoid thay thế sinh lý hàng ngày?",
+      "options": [
+        "Vì thiếu hụt cortisol và tụt huyết áp mạn tính làm giảm lưu lượng máu tưới qua động mạch tử cung - nhau thai, dẫn đến thai nhi bị suy dinh dưỡng bào thai và chậm phát triển trong tử cung (IUGR).",
+        "Thuốc lựa chọn đầu tay: Hydrocortisone (viên 10mg).",
+        "Do đột biến gen AIRE, bao gồm tam chứng:",
+        "Ở phụ nữ, nguồn cung cấp androgen chủ yếu xuất phát từ lớp lưới của vỏ tuyến thượng thận (DHEA, DHEA-S)."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\n• Thuốc lựa chọn đầu tay: Hydrocortisone (viên 10mg).\n• Liều sinh lý duy trì: 15 – 25 mg/ngày (thường 10 - 20 mg/ngày).\n• Cách chia liều bắt chước nhịp sinh học:\n+ Uống 2/3 tổng liều vào buổi sáng sớm (8h00 sau ăn): 10 – 15 mg.\n+ Uống 1/3 tổng liều vào buổi chiều (16h00 – 17h00): 5 – 10 mg.\n+ Tránh uống muộn sau 18h để không gây mất ngủ.\n- Thuốc thay thế: Prednisolone 3.75 - 5 mg/ngày uống 8h sáng.\n\n🔍 Góc nhìn chuyên sâu:\nÁp dụng suốt đời cho cả suy thượng thận tiên phát và thứ phát."
+    },
+    {
+      "id": "stt_card_034",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Liều điều trị duy trì thay thế sinh lý hàng ngày của Hydrocortisone là từ [...], chia uống 2/3 vào [...] và 1/3 vào [...].\"",
+      "options": [
+        "1 - 2 năm",
+        "Anti 21-hydroxylase",
+        "Lao tuyến thượng thận",
+        "15 đến 25 mg/ngày"
+      ],
+      "correct": 3,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nLiều điều trị duy trì thay thế sinh lý hàng ngày của Hydrocortisone là từ {{c1::15 đến 25 mg/ngày}}, chia uống 2/3 vào {{c1::buổi sáng 8h}} và 1/3 vào {{c1::buổi chiều 16h}}."
+    },
+    {
+      "id": "stt_card_035",
+      "text": "Chỉ định và liều dùng của thuốc Mineralocorticoid (Fludrocortisone) trong suy thượng thận?",
+      "options": [
+        "Vì Fludrocortisone có thời gian tác dụng sinh học kéo dài tại thụ thể Mineralocorticoid ở ống thận (t1/2 tác dụng sinh học > 18 - 36 giờ), đủ để duy trì giữ Natri và huyết áp ổn định suốt 24 giờ.",
+        "Chỉ định: CHỈ DÙNG trong Suy thượng thận tiên phát (Bệnh Addison).",
+        "Do mất Natri và nước mạn tính qua nước tiểu làm giảm thể tích tuần hoàn huyết tương kéo dài, dẫn đến giảm áp lực đổ đầy tâm thất và làm bóng tim co nhỏ lại.",
+        "Để mô phỏng chính xác nhịp tiết sinh lý ngày đêm của trục HPA (nồng độ cortisol máu đạt đỉnh cao nhất lúc 8h sáng và giảm dần xuống thấp vào buổi chiều tối)."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\n• Chỉ định: CHỈ DÙNG trong Suy thượng thận tiên phát (Bệnh Addison).\n• Thuốc & Liều dùng: Fludrocortisone (Florinef) 50 – 150 μg/ngày (0.05 – 0.15 mg/ngày), uống 1 lần duy nhất vào buổi sáng sau ăn.\n• Lưu ý: Suy thượng thận thứ phát KHÔNG CẦN dùng Florinef vì chức năng tiết Aldosteron bình thường.\n\n🔍 Góc nhìn chuyên sâu:\nMục tiêu điều trị: Huyết áp tư thế bình thường, Na+ và K+ máu bình thường."
+    },
+    {
+      "id": "stt_card_036",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Liều điều trị của thuốc bồi phụ Mineralocorticoid Fludrocortisone (Florinef) trong Bệnh Addison là từ [...] (0.05 - 0.15 mg/ngày).\"",
+      "options": [
+        "50 đến 150 μg/ngày",
+        "Lao tuyến thượng thận",
+        "1 - 2 năm",
+        "Anti 21-hydroxylase"
+      ],
+      "correct": 0,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nLiều điều trị của thuốc bồi phụ Mineralocorticoid Fludrocortisone (Florinef) trong Bệnh Addison là từ {{c1::50 đến 150 μg/ngày}} (0.05 - 0.15 mg/ngày)."
+    },
+    {
+      "id": "stt_card_037",
+      "text": "Quy tắc dùng thuốc BẮT BUỘC khi điều trị Suy đa tuyến yên (Suy giáp + Suy thượng thận)?",
+      "options": [
+        "BẮT BUỘC ĐIỀU TRỊ SUY THƯỢNG THẬN TRƯỚC SUY GIÁP (bù Hydrocortisone trước ít nhất 3 - 5 ngày rồi mới bắt đầu dùng Levothyroxine).",
+        "Vì nồng độ Cortisol máu sau khi uống thuốc dao động rất nhanh theo dược động học và nồng độ ACTH thường không bị ức chế hoàn toàn về bình thường; chỉnh liều chỉ dựa vào đáp ứng lâm sàng (hết mệt, huyết áp tư thế bình thường) và điện giải đồ (Na+, K+).",
+        "Vì cơ thể bị thiếu hụt Aldosteron liên tục làm thận mất Natri và nước qua nước tiểu → Chế độ ăn giàu muối (thêm 3 - 5g muối/ngày) giúp bù đắp lượng muối bị mất, duy trì thể tích huyết tương và giữ huyết áp ổn định.",
+        "Thuốc: Prednisolone viên 5 mg."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nBẮT BUỘC ĐIỀU TRỊ SUY THƯỢNG THẬN TRƯỚC SUY GIÁP (bù Hydrocortisone trước ít nhất 3 - 5 ngày rồi mới bắt đầu dùng Levothyroxine).\n\n🔍 Góc nhìn chuyên sâu:\nNếu dùng Levothyroxine trước, hormon giáp sẽ làm tăng tốc độ chuyển hóa cơ bản và tăng thoái giáng lượng cortisol ít ỏi còn lại, đẩy bệnh nhân vào Cơn suy thượng thận cấp trụy mạch tử vong."
+    },
+    {
+      "id": "stt_card_038",
+      "text": "Phác đồ cấp cứu Cơn suy thượng thận cấp (Acute Adrenal Crisis) trong 60 phút đầu?",
+      "options": [
+        "Luôn mang theo vòng đeo tay hoặc thẻ cảnh báo y tế ghi rõ bị suy thượng thận đang dùng thuốc.",
+        "Vì trực khuẩn lao xâm nhập gây hoại tử bã đậu tại mô vỏ thượng thận, sau quá trình viêm mạn tính mô hoại tử sẽ bị lắng đọng muối canxi photphat tạo hình ảnh vôi hóa thô rõ trên phim X-quang và CT scan.",
+        "Tiền sử băng huyết sau sinh mất sữa, vô kinh, da trắng bợt, sợ lạnh, huyết áp thấp, MRI thấy hố yên rỗng.",
+        "Hồi sức dịch nhanh: Truyền nhanh NaCl 0.9% 1000 ml trong 60 phút đầu (phối hợp Glucose 5%), tổng lượng dịch 3-4L/24h. TUYỆT ĐỐI CẤM truyền dịch có chứa Kali (như Ringer Lactate)."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\n1. Hồi sức dịch nhanh: Truyền nhanh NaCl 0.9% 1000 ml trong 60 phút đầu (phối hợp Glucose 5%), tổng lượng dịch 3-4L/24h. TUYỆT ĐỐI CẤM truyền dịch có chứa Kali (như Ringer Lactate).\n2. Glucocorticoid tiêm tĩnh mạch ngay: Tiêm tĩnh mạch trực tiếp Hydrocortisone 100 mg (Bolus) ngay lập tức không chờ xét nghiệm, sau đó duy trì 100 mg mỗi 6 giờ (300 - 400 mg/24h).\n3. Giai đoạn ổn định (ngày 2-5): Giảm xuống 50 mg mỗi 6h (200 mg/24h) duy trì 4 - 5 ngày rồi chuyển sang đường uống.\n\n🔍 Góc nhìn chuyên sâu:\nNguyên tắc vàng: Cấp cứu trước — xét nghiệm sau."
+    },
+    {
+      "id": "stt_card_039",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Trong cấp cứu Cơn suy thượng thận cấp, tổng liều tiêm tĩnh mạch Hydrocortisone trong 24 giờ đầu là từ [...] (tiêm tĩnh mạch 100 mg mỗi 6 giờ).\"",
+      "options": [
+        "Anti 21-hydroxylase",
+        "1 - 2 năm",
+        "Lao tuyến thượng thận",
+        "300 đến 400 mg/ngày"
+      ],
+      "correct": 3,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nTrong cấp cứu Cơn suy thượng thận cấp, tổng liều tiêm tĩnh mạch Hydrocortisone trong 24 giờ đầu là từ {{c1::300 đến 400 mg/ngày}} (tiêm tĩnh mạch 100 mg mỗi 6 giờ)."
+    },
+    {
+      "id": "stt_card_040",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Trong cấp cứu Cơn suy thượng thận cấp, loại dịch truyền hồi sức đầu tay bắt buộc là dung dịch [...] và TUYỆT ĐỐI CẤM truyền dung dịch có chứa [...].\"",
+      "options": [
+        "Natri Clorid 0.9% (NaCl 0.9%)",
+        "Lao tuyến thượng thận",
+        "Anti 21-hydroxylase",
+        "1 - 2 năm"
+      ],
+      "correct": 0,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nTrong cấp cứu Cơn suy thượng thận cấp, loại dịch truyền hồi sức đầu tay bắt buộc là dung dịch {{c1::Natri Clorid 0.9% (NaCl 0.9%)}} và TUYỆT ĐỐI CẤM truyền dung dịch có chứa {{c1::Kali}}."
+    },
+    {
+      "id": "stt_card_041",
+      "text": "Quy tắc ngày ốm (Sick-day Rules) và hướng dẫn giáo dục bệnh nhân suy thượng thận?",
+      "options": [
+        "Do thiếu cortisol trong hệ thần kinh trung ương làm suy giảm chuyển hóa năng lượng tế bào não, kết hợp với tình trạng hạ Natri máu và hạ đường huyết mạn tính.",
+        "Thiếu hụt cortisol cấp tính gây giãn mạch mạc treo ruột, rối loạn tưới máu vi tuần hoàn tạng và giảm trương lực cơ trơn đường tiêu hóa kết hợp với tình trạng mất muối nước nặng nề → Gây cơn co thắt ruột và đau bụng cấp dữ dội kèm nôn mửa, dễ bị chẩn đoán nhầm với viêm ruột thừa cấp hoặc thủng tạng rỗng.",
+        "Luôn mang theo vòng đeo tay hoặc thẻ cảnh báo y tế ghi rõ bị suy thượng thận đang dùng thuốc.",
+        "DHEA-S (Dehydroepiandrosterone sulfate) là hormon androgen được sản xuất chuyên biệt bởi lớp lưới của vỏ tuyến thượng thận, có thời gian bán hủy dài và nồng độ ổn định trong máu."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\n1. Luôn mang theo vòng đeo tay hoặc thẻ cảnh báo y tế ghi rõ bị suy thượng thận đang dùng thuốc.\n2. Luôn mang theo thuốc viên và 1 ống tiêm Hydrocortisone 100 mg kèm bơm tiêm để tự tiêm bắp cấp cứu.\n3. Quy tắc ngày ốm: Khi bị sốt, cảm cúm, viêm họng, nhổ răng... PHẢI TĂNG GẤP 2 ĐẾN 3 LẦN LIỀU GLUCOCORTICOID HÀNG NGÀY liên tục trong 3 ngày cho đến khi hết ốm.\n4. Nếu bị nôn mửa hoặc tiêu chảy nặng không giữ được thuốc: Tiêm bắp Hydrocortisone 100 mg và đến viện cấp cứu ngay.\n5. Chế độ ăn: Ăn đủ muối và đường, không kiêng muối.\n\n🔍 Góc nhìn chuyên sâu:\nGiáo dục bệnh nhân là yếu tố quyết định nhất để ngăn ngừa tử vong do cơn suy thượng thận cấp."
+    },
+    {
+      "id": "stt_card_042",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Khi bệnh nhân suy thượng thận bị sốt nhẹ, cảm cúm (quy tắc Sick-day rules), liều Glucocorticoid hàng ngày bắt buộc phải tăng lên gấp [...] trong 3 ngày.\"",
+      "options": [
+        "2 đến 3 lần",
+        "Anti 21-hydroxylase",
+        "Lao tuyến thượng thận",
+        "1 - 2 năm"
+      ],
+      "correct": 0,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nKhi bệnh nhân suy thượng thận bị sốt nhẹ, cảm cúm (quy tắc Sick-day rules), liều Glucocorticoid hàng ngày bắt buộc phải tăng lên gấp {{c1::2 đến 3 lần}} trong 3 ngày."
+    },
+    {
+      "id": "stt_card_043",
+      "text": "Quy trình cai thuốc (giảm liều) corticoid ngoại sinh để đánh thức trục HPA phục hồi?",
+      "options": [
+        "Vì lớp cầu của vỏ thượng thận (tiết Aldosteron) chịu sự điều hòa chủ yếu bởi hệ Renin - Angiotensin (RAAS) và nồng độ Kali huyết thanh, không phụ thuộc vào ACTH của tuyến yên → Khi tuyến yên bị suy giảm ACTH, lớp cầu vẫn tiết đủ Aldosteron để tái hấp thu Na+ và thải K+ tại ống thận → Kali máu không bị tăng cao.",
+        "Giảm liều Hydrocortisone dần dần 2.5 mg mỗi tuần cho đến khi đạt liều duy trì 10 mg/ngày (uống 8h sáng).",
+        "Bệnh nhân sốc tụt HA (65/40 mmHg), lơ mơ, đau bụng dữ dội, nôn mửa sau ngừng thuốc đông y trộn dexamethasone.",
+        "DHEA-S (Dehydroepiandrosterone sulfate) là hormon androgen được sản xuất chuyên biệt bởi lớp lưới của vỏ tuyến thượng thận, có thời gian bán hủy dài và nồng độ ổn định trong máu."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\n1. Giảm liều Hydrocortisone dần dần 2.5 mg mỗi tuần cho đến khi đạt liều duy trì 10 mg/ngày (uống 8h sáng).\n2. Xét nghiệm hàng tháng: Đo Cortisol máu lúc 8h00 sáng (nhịn uống thuốc sáng):\n- Cortisol 8h  275 nmol/L (> 10 μg/dL): Làm nghiệm pháp kích thích Synacthen 250 μg.\n- Nếu Cortisol sau tiêm Synacthen tăng > 500 – 550 nmol/L: Tuyến thượng thận phục hồi hoàn toàn → NGỪNG THUỐC HOÀN TOÀN.\n\n🔍 Góc nhìn chuyên sâu:\nCẤM dừng thuốc đột ngột khi chưa qua test Synacthen đánh giá hồi phục."
+    },
+    {
+      "id": "stt_card_044",
+      "text": "Thuốc Rifampicin điều trị lao tương tác với Hydrocortisone như thế nào?",
+      "options": [
+        "Vì Fludrocortisone có thời gian tác dụng sinh học kéo dài tại thụ thể Mineralocorticoid ở ống thận (t1/2 tác dụng sinh học > 18 - 36 giờ), đủ để duy trì giữ Natri và huyết áp ổn định suốt 24 giờ.",
+        "Rifampicin là chất cảm ứng cực mạnh enzyme gan CYP3A4, làm tăng tốc độ chuyển hóa và thanh thải Hydrocortisone qua gan gấp 2 - 3 lần → Làm giảm nồng độ cortisol máu và có thể khởi phát cơn suy thượng thận cấp.",
+        "Vì thiếu Aldosteron đã làm thận mất khả năng bài tiết Kali, nồng độ Kali máu đang ở mức rất cao (> 5.5 - 6.5 mmol/L); truyền thêm dịch chứa Kali sẽ làm Kali máu tăng vọt đe dọa ngừng tim rung thất ngay lập tức.",
+        "DHEA-S (Dehydroepiandrosterone sulfate) là hormon androgen được sản xuất chuyên biệt bởi lớp lưới của vỏ tuyến thượng thận, có thời gian bán hủy dài và nồng độ ổn định trong máu."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nRifampicin là chất cảm ứng cực mạnh enzyme gan CYP3A4, làm tăng tốc độ chuyển hóa và thanh thải Hydrocortisone qua gan gấp 2 - 3 lần → Làm giảm nồng độ cortisol máu và có thể khởi phát cơn suy thượng thận cấp.\n\n🔍 Góc nhìn chuyên sâu:\nBắt buộc phải tăng gấp đôi liều Hydrocortisone hàng ngày khi bệnh nhân Addison phải dùng thuốc chống lao có Rifampicin."
+    },
+    {
+      "id": "stt_card_045",
+      "text": "Điền từ/chỉ số thích hợp vào chỗ trống [...]:\n\"Rifampicin là thuốc điều trị lao cảm ứng mạnh men gan CYP3A4, do đó khi dùng chung bắt buộc phải [...] Hydrocortisone ở bệnh nhân Addison.\"",
+      "options": [
+        "Lao tuyến thượng thận",
+        "tăng gấp đôi liều",
+        "1 - 2 năm",
+        "Anti 21-hydroxylase"
+      ],
+      "correct": 1,
+      "explanation": "Nội dung chuẩn trong bài giảng:\nRifampicin là thuốc điều trị lao cảm ứng mạnh men gan CYP3A4, do đó khi dùng chung bắt buộc phải {{c1::tăng gấp đôi liều}} Hydrocortisone ở bệnh nhân Addison."
+    },
+    {
+      "id": "stt_card_046",
+      "text": "Tại sao bệnh nhân trong cơn suy thượng thận cấp thường bị đau bụng dữ dội giả bụng ngoại khoa?",
+      "options": [
+        "Do thiếu cortisol cấp tính gây giãn mạch mạc treo ruột, rối loạn tưới máu vi mạch ruột kết hợp mất muối nước nặng gây cơn co thắt cơ trơn ruột dữ dội.",
+        "Tăng huyết áp tư thế nằm, phù hai chi dưới do ứ dịch thể tích tuần hoàn, đau đầu, hạ Kali máu và hoạt tính Renin huyết tương (PRA) bị ức chế.",
+        "Thiếu hụt cortisol cấp tính gây giãn mạch mạc treo ruột, rối loạn tưới máu vi tuần hoàn tạng và giảm trương lực cơ trơn đường tiêu hóa kết hợp với tình trạng mất muối nước nặng nề → Gây cơn co thắt ruột và đau bụng cấp dữ dội kèm nôn mửa, dễ bị chẩn đoán nhầm với viêm ruột thừa cấp hoặc thủng tạng rỗng.",
+        "Thiếu Cortisol làm mất ức chế ngược âm tính (negative feedback) → Tuyến yên tăng cường sản xuất và phân cắt tiền chất POMC để giải phóng lượng lớn ACTH và α-MSH."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\nThiếu hụt cortisol cấp tính gây giãn mạch mạc treo ruột, rối loạn tưới máu vi tuần hoàn tạng và giảm trương lực cơ trơn đường tiêu hóa kết hợp với tình trạng mất muối nước nặng nề → Gây cơn co thắt ruột và đau bụng cấp dữ dội kèm nôn mửa, dễ bị chẩn đoán nhầm với viêm ruột thừa cấp hoặc thủng tạng rỗng.\n\n🔍 Góc nhìn chuyên sâu:\nKhám bụng chỉ đau lan tỏa, không có phản ứng thành bụng hay co cứng thành bụng thật sự."
+    },
+    {
+      "id": "stt_card_047",
+      "text": "Dấu hiệu tim nhỏ hình giọt nước trên X-quang tim phổi trong Bệnh Addison phản ánh điều gì?",
+      "options": [
+        "Vì tổn thương nguyên phát nằm tại tuyến yên (u tuyến yên, hoại tử Sheehan) hoặc do nồng độ corticoid ngoại sinh ức chế trực tiếp tuyến yên không tiết được ACTH.",
+        "Suy tuyến thượng thận là tình trạng bệnh lý xảy ra do vỏ tuyến thượng thận giảm sản xuất và bài tiết các hormon sinh tồn vào máu, chủ yếu là hormon glucocorticoid (Cortisol), trong nhiều trường hợp kèm theo thiếu hụt mineralocorticoid (Aldosteron) và hormon sinh dục (Androgen thượng thận).",
+        "Thiếu hụt cortisol cấp tính gây giãn mạch mạc treo ruột, rối loạn tưới máu vi tuần hoàn tạng và giảm trương lực cơ trơn đường tiêu hóa kết hợp với tình trạng mất muối nước nặng nề → Gây cơn co thắt ruột và đau bụng cấp dữ dội kèm nôn mửa, dễ bị chẩn đoán nhầm với viêm ruột thừa cấp hoặc thủng tạng rỗng.",
+        "Phản ánh tình trạng giảm thể tích tuần hoàn huyết tương mạn tính (Microcardia) do mất muối nước kéo dài qua thận và giảm áp lực đổ đầy buồng tim."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nPhản ánh tình trạng giảm thể tích tuần hoàn huyết tương mạn tính (Microcardia) do mất muối nước kéo dài qua thận và giảm áp lực đổ đầy buồng tim.\n\n🔍 Góc nhìn chuyên sâu:\nBóng tim sẽ trở về kích thước bình thường sau khi được bù đủ dịch và hormon thay thế."
+    },
+    {
+      "id": "stt_card_048",
+      "text": "Xử trí ca lâm sàng Bệnh Addison tự miễn mới chẩn đoán?",
+      "options": [
+        "Cortisol là hormon đối kháng insulin quan trọng bậc nhất. Thiếu cortisol làm:",
+        "Vì lớp cầu của vỏ thượng thận (tiết Aldosteron) không chịu sự kiểm soát của ACTH mà do hệ RAAS điều hòa → Khi suy tuyến yên, lớp cầu vẫn tiết đủ Aldosteron nên không bị thiếu mineralocorticoid.",
+        "Lâm sàng: Mệt mỏi tăng về chiều, sạm da niêm mạc, hạ huyết áp, sút cân, thèm muối.",
+        "Trước khởi mê: Tiêm tĩnh mạch Hydrocortisone 100 mg (Bolus)."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\n1. Lâm sàng: Mệt mỏi tăng về chiều, sạm da niêm mạc, hạ huyết áp, sút cân, thèm muối.\n2. Xét nghiệm: Cortisol 8h  100 pg/mL), Anti 21-hydroxylase (+).\n3. Điều trị: Hydrocortisone 20 mg/ngày (15mg sáng 8h, 5mg chiều 16h) phối hợp Fludrocortisone (Florinef) 0.1 mg/ngày uống vào buổi sáng.\n4. Giáo dục bệnh nhân: Mang thẻ cảnh báo, hướng dẫn quy tắc Sick-day rules và ăn đủ muối.\n\n🔍 Góc nhìn chuyên sâu:\nTheo dõi định kỳ huyết áp tư thế và điện giải đồ Na+, K+."
+    },
+    {
+      "id": "stt_card_049",
+      "text": "Xử trí ca lâm sàng Cơn suy thượng thận cấp do ngừng thuốc khớp gia truyền?",
+      "options": [
+        "Nồng độ Cortisol máu 8h sáng tự nhiên > 275 nmol/L (> 10 mcg/dL).",
+        "Bệnh nhân sốc tụt HA (65/40 mmHg), lơ mơ, đau bụng dữ dội, nôn mửa sau ngừng thuốc đông y trộn dexamethasone.",
+        "Vì lớp cầu của vỏ thượng thận (tiết Aldosteron) không chịu sự kiểm soát của ACTH mà do hệ RAAS điều hòa → Khi suy tuyến yên, lớp cầu vẫn tiết đủ Aldosteron nên không bị thiếu mineralocorticoid.",
+        "DHEA-S (Dehydroepiandrosterone sulfate) là hormon androgen được sản xuất chuyên biệt bởi lớp lưới của vỏ tuyến thượng thận, có thời gian bán hủy dài và nồng độ ổn định trong máu."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\n1. Bệnh nhân sốc tụt HA (65/40 mmHg), lơ mơ, đau bụng dữ dội, nôn mửa sau ngừng thuốc đông y trộn dexamethasone.\n2. Truyền nhanh NaCl 0.9% 1000 ml trong giờ đầu kết hợp Glucose 5%.\n3. Tiêm tĩnh mạch ngay Hydrocortisone 100 mg (Bolus) không chờ xét nghiệm.\n4. Duy trì Hydrocortisone 100 mg mỗi 6h trong 24h đầu.\n5. Sau ổn định chuyển sang phác đồ cai corticoid 4 bước.\n\n🔍 Góc nhìn chuyên sâu:\nTuyệt đối cấm truyền dung dịch có chứa Kali."
+    },
+    {
+      "id": "stt_card_050",
+      "text": "Xử trí ca lâm sàng Bệnh Addison do Lao tuyến thượng thận?",
+      "options": [
+        "Bệnh nhân sốc tụt HA (65/40 mmHg), lơ mơ, đau bụng dữ dội, nôn mửa sau ngừng thuốc đông y trộn dexamethasone.",
+        "Do mất Natri và nước mạn tính qua nước tiểu làm giảm thể tích tuần hoàn huyết tương kéo dài, dẫn đến giảm áp lực đổ đầy tâm thất và làm bóng tim co nhỏ lại.",
+        "Tiền sử điều trị lao phổi 1.5 năm trước, mệt mỏi, sạm da niêm mạc, vôi hóa 2 bên thượng thận trên CT scan.",
+        "Vì sự phơi nhiễm liên tục không có thời gian nghỉ làm mất nhịp tiết sinh học tự nhiên của trục HPA, ức chế liên tục sự phân chia và dinh dưỡng của tế bào vỏ thượng thận."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\n1. Tiền sử điều trị lao phổi 1.5 năm trước, mệt mỏi, sạm da niêm mạc, vôi hóa 2 bên thượng thận trên CT scan.\n2. Xét nghiệm: Cortisol 8h giảm, ACTH tăng rất cao, Anti 21-hydroxylase âm tính.\n3. Điều trị: Hydrocortisone 20 mg/ngày + Fludrocortisone 0.1 mg/ngày suốt đời.\n4. Đánh giá chuyên khoa Lao: Nếu dùng phác đồ kháng lao có Rifampicin bắt buộc phải tăng gấp đôi liều Hydrocortisone.\n\n🔍 Góc nhìn chuyên sâu:\nVôi hóa thượng thận là bằng chứng mô hoại tử bã đậu sau nhiễm lao."
+    },
+    {
+      "id": "stt_card_051",
+      "text": "Xử trí ca lâm sàng Suy đa tuyến yên sau sinh (Hội chứng Sheehan)?",
+      "options": [
+        "Vì cơ thể vốn đã có giảm thể tích tuần hoàn mạn tính và mất trương lực mạch do thiếu cortisol; khi bị mất nước điện giải qua đường tiêu hóa thể tích huyết tương tụt giảm nhanh chóng đẩy bệnh nhân vào sốc trụy mạch suy thượng thận cấp.",
+        "Tiền sử băng huyết sau sinh mất sữa, vô kinh, da trắng bợt, sợ lạnh, huyết áp thấp, MRI thấy hố yên rỗng.",
+        "Vì vỏ thượng thận bị phá hủy không sản xuất được Cortisol → Mất hoàn toàn cơ chế ức chế ngược âm tính (negative feedback) lên thùy trước tuyến yên → Tuyến yên tăng tiết tối đa ACTH.",
+        "Bước 1: Lấy máu lúc 8h00 sáng định lượng Cortisol cơ sở (T0)."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\n1. Tiền sử băng huyết sau sinh mất sữa, vô kinh, da trắng bợt, sợ lạnh, huyết áp thấp, MRI thấy hố yên rỗng.\n2. Xét nghiệm: FT4 giảm sâu, Cortisol 8h giảm sâu, ACTH và TSH giảm hoặc bình thường thấp.\n3. BẮT BUỘC BÙ HYDROCORTISONE TRƯỚC (20 mg/ngày) liên tục trong 3 - 5 ngày.\n4. SAU ĐÓ MỚI DÙNG LEVOTHYROXINE (50 μg/ngày).\n5. Không cần dùng Fludrocortisone.\n\n🔍 Góc nhìn chuyên sâu:\nDùng Levothyroxine trước sẽ gây cơn suy thượng thận cấp tử vong."
+    },
+    {
+      "id": "stt_card_052",
+      "text": "Dấu hiệu quá liều Fludrocortisone (Florinef) cần nhận biết để giảm liều?",
+      "options": [
+        "Vì cortisol sinh lý có tác dụng thúc đẩy quá trình tự chết theo chương trình của bạch cầu ái toan; khi thiếu cortisol đời sống của bạch cầu ái toan trong máu ngoại vi bị kéo dài.",
+        "Bệnh nhân xuất hiện tăng huyết áp, phù hai chi dưới do ứ dịch thể tích tuần hoàn, đau đầu, hạ Kali máu và hoạt tính Renin huyết tương (PRA) bị ức chế hoàn toàn → Cần giảm liều Fludrocortisone (ví dụ từ 0.1mg xuống 0.05mg/ngày).",
+        "Phản ánh tình trạng giảm thể tích tuần hoàn huyết tương mạn tính (Microcardia) do mất muối nước kéo dài qua thận và giảm áp lực đổ đầy buồng tim.",
+        "Dùng để phân biệt thể bệnh:"
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nBệnh nhân xuất hiện tăng huyết áp, phù hai chi dưới do ứ dịch thể tích tuần hoàn, đau đầu, hạ Kali máu và hoạt tính Renin huyết tương (PRA) bị ức chế hoàn toàn → Cần giảm liều Fludrocortisone (ví dụ từ 0.1mg xuống 0.05mg/ngày).\n\n🔍 Góc nhìn chuyên sâu:\nChỉnh liều Florinef dựa vào huyết áp tư thế đứng và nồng độ Kali máu."
+    },
+    {
+      "id": "stt_card_053",
+      "text": "Dấu hiệu quá liều Hydrocortisone trong điều trị duy trì suy thượng thận?",
+      "options": [
+        "Vì trong dịch truyền Ringer Lactate có chứa 4 mmol/L ion Kali (K+).",
+        "Để cho vùng dưới đồi và tuyến yên có đủ thời gian phục hồi lại khả năng bài tiết CRH và ACTH, giúp đánh thức mô vỏ thượng thận teo nhỏ dần dần tái tạo và tự sản xuất cortisol.",
+        "Là biến chứng xuất huyết hoại tử hai bên tuyến thượng thận tối cấp trong bệnh cảnh nhiễm khuẩn huyết bùng phát do vi khuẩn Não mô cầu (Neisseria meningitidis), phế cầu hoặc trực khuẩn mủ xanh, gây sốc nhiễm khuẩn và suy thượng thận cấp tử vong nhanh chóng.",
+        "Tăng cân nhanh, béo bụng, mặt tròn đỏ, tăng huyết áp, tăng đường huyết, da mỏng dễ bầm tím, mất ngủ, loãng xương → Cần giảm liều Hydrocortisone về liều sinh lý thấp nhất có hiệu quả (10 - 15 mg/ngày)."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nTăng cân nhanh, béo bụng, mặt tròn đỏ, tăng huyết áp, tăng đường huyết, da mỏng dễ bầm tím, mất ngủ, loãng xương → Cần giảm liều Hydrocortisone về liều sinh lý thấp nhất có hiệu quả (10 - 15 mg/ngày).\n\n🔍 Góc nhìn chuyên sâu:\nTránh để bệnh nhân bị Hội chứng Cushing do thầy thuốc (Iatrogenic Cushing) khi điều trị thay thế."
+    },
+    {
+      "id": "stt_card_054",
+      "text": "Tại sao không dùng Dexamethasone hoặc Betamethasone để điều trị duy trì thay thế suy thượng thận?",
+      "options": [
+        "Do mất Natri và nước mạn tính qua nước tiểu làm giảm thể tích tuần hoàn huyết tương kéo dài, dẫn đến giảm áp lực đổ đầy tâm thất và làm bóng tim co nhỏ lại.",
+        "Vì Dexamethasone và Betamethasone là các glucocorticoid tác dụng kéo dài (t1/2 > 36 - 54 giờ), có hoạt tính kháng viêm cực mạnh nhưng hoàn toàn không có hoạt tính Mineralocorticoid giữ muối nước, làm mất hoàn toàn nhịp sinh học ngày đêm và rất dễ gây tác dụng phụ teo cơ, loãng xương, đái tháo đường.",
+        "Do thiếu Aldosteron làm ống lượn xa mất khả năng tái hấp thu Natri, gây mất muối và nước ồ ạt qua nước tiểu, làm giảm thể tích dịch ngoại bào và huyết tương.",
+        "Phản ánh tình trạng giảm thể tích tuần hoàn huyết tương mạn tính (Microcardia) do mất muối nước kéo dài qua thận và giảm áp lực đổ đầy buồng tim."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nVì Dexamethasone và Betamethasone là các glucocorticoid tác dụng kéo dài (t1/2 > 36 - 54 giờ), có hoạt tính kháng viêm cực mạnh nhưng hoàn toàn không có hoạt tính Mineralocorticoid giữ muối nước, làm mất hoàn toàn nhịp sinh học ngày đêm và rất dễ gây tác dụng phụ teo cơ, loãng xương, đái tháo đường.\n\n🔍 Góc nhìn chuyên sâu:\nHydrocortisone tác dụng ngắn (t1/2 ≈ 8 - 12h) là lựa chọn sinh lý tối ưu nhất."
+    },
+    {
+      "id": "stt_card_055",
+      "text": "Bệnh nhân suy thượng thận cần xử trí thế nào khi phải trải qua một cuộc đại phẫu thuật?",
+      "options": [
+        "Uống Hydrocortisone 20 mg trước khi làm thủ thuật 1 giờ, sau đó tăng gấp đôi liều uống trong ngày làm thủ thuật, ngày hôm sau trở lại liều duy trì bình thường.",
+        "Mệt mỏi suy nhược: Mệt mỏi cả thể xác và tinh thần, TĂNG DẦN VỀ CHIỀU TỐI.",
+        "Vì các hạt sắc tố Melanin đã tích tụ sâu trong lớp biểu bì và trung bì cần thời gian thoái hóa và thay mới tế bào biểu bì rất dài qua nhiều tháng đến nhiều năm dù nồng độ ACTH đã hạ.",
+        "Trước khởi mê: Tiêm tĩnh mạch Hydrocortisone 100 mg (Bolus)."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\n• Trước khởi mê: Tiêm tĩnh mạch Hydrocortisone 100 mg (Bolus).\n• Trong và 24h sau mổ: Truyền tĩnh mạch liên tục 100 - 200 mg/24h (hoặc tiêm tĩnh mạch 50mg mỗi 6h).\n• Ngày 1 sau mổ: Tiêm tĩnh mạch 50mg mỗi 8h (150mg/ngày).\n• Giảm dần liều trong 3 - 5 ngày để trở về liều uống duy trì bình thường.\n\n🔍 Góc nhìn chuyên sâu:\nĐây là phác đồ bù Hydrocortisone liều stress chu phẫu bắt buộc."
+    },
+    {
+      "id": "stt_card_056",
+      "text": "Bệnh nhân suy thượng thận cần xử trí thế nào khi nhổ răng hoặc làm thủ thuật ngoại khoa nhỏ?",
+      "options": [
+        "Uống Hydrocortisone 20 mg trước khi làm thủ thuật 1 giờ, sau đó tăng gấp đôi liều uống trong ngày làm thủ thuật, ngày hôm sau trở lại liều duy trì bình thường.",
+        "Suy thượng thận tiên phát (Bệnh Addison): Tổn thương phá hủy trực tiếp ≥ 90% vỏ thượng thận hai bên (thiếu đồng thời Cortisol, Aldosteron, Androgen; ACTH tăng rất cao gây sạm da).",
+        "Do mất muối nước làm giảm thể tích tuần hoàn hữu dụng, dẫn đến giảm áp lực tưới máu thận và giảm mức lọc cầu thận gây suy thận chức năng trước thận.",
+        "Thiếu cortisol làm mất cơ chế ức chế tiết hormon chống bài niệu ADH từ vùng dưới đồi → Nồng độ ADH tăng cao không thích hợp làm tăng tái hấp thu nước tại ống góp."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nUống Hydrocortisone 20 mg trước khi làm thủ thuật 1 giờ, sau đó tăng gấp đôi liều uống trong ngày làm thủ thuật, ngày hôm sau trở lại liều duy trì bình thường.\n\n🔍 Góc nhìn chuyên sâu:\nGiúp bảo vệ huyết động và phòng ngừa cơn tụt huyết áp khi bị đau đớn/stress."
+    },
+    {
+      "id": "stt_card_057",
+      "text": "Tại sao bệnh nhân Addison cần được khuyến khích ăn chế độ giàu muối và uống đủ nước?",
+      "options": [
+        "Mệt mỏi xuất hiện liên tục, cả về thể chất, trí óc và sinh dục, không thuyên giảm khi nghỉ ngơi.",
+        "Vì cơ thể bị thiếu hụt Aldosteron liên tục làm thận mất Natri và nước qua nước tiểu → Chế độ ăn giàu muối (thêm 3 - 5g muối/ngày) giúp bù đắp lượng muối bị mất, duy trì thể tích huyết tương và giữ huyết áp ổn định.",
+        "Bao gồm tam chứng:",
+        "Do mất muối nước làm giảm thể tích tuần hoàn hữu dụng, dẫn đến giảm áp lực tưới máu thận và giảm mức lọc cầu thận gây suy thận chức năng trước thận."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nVì cơ thể bị thiếu hụt Aldosteron liên tục làm thận mất Natri và nước qua nước tiểu → Chế độ ăn giàu muối (thêm 3 - 5g muối/ngày) giúp bù đắp lượng muối bị mất, duy trì thể tích huyết tương và giữ huyết áp ổn định.\n\n🔍 Góc nhìn chuyên sâu:\nTuyệt đối không được khuyên bệnh nhân Addison ăn kiêng nhạt."
+    },
+    {
+      "id": "stt_card_058",
+      "text": "Thời điểm xét nghiệm đánh giá kiểm tra định kỳ cho bệnh nhân suy thượng thận điều trị duy trì?",
+      "options": [
+        "Bước 1: Lấy máu lúc 8h00 sáng định lượng Cortisol cơ sở (T0).",
+        "Khám lâm sàng và xét nghiệm Điện giải đồ (Na+, K+), Glucose máu, Chức năng thận mỗi 3 – 6 tháng.",
+        "Chỉ định: CHỈ DÙNG trong Suy thượng thận tiên phát (Bệnh Addison).",
+        "Để người nhà hoặc bệnh nhân có thể tự tiêm bắp cấp cứu ngay lập tức khi bị nôn mửa nhiều hoặc tiêu chảy cấp không uống và giữ được thuốc viên trong dạ dày."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\n• Khám lâm sàng và xét nghiệm Điện giải đồ (Na+, K+), Glucose máu, Chức năng thận mỗi 3 – 6 tháng.\n• Đo huyết áp ở cả 2 tư thế nằm và đứng.\n• Đánh giá các dấu hiệu thiếu liều (mệt mỏi, sạm da tăng, tụt HA) hoặc thừa liều (tăng cân, phù, tăng HA).\n\n🔍 Góc nhìn chuyên sâu:\nKhông dùng nồng độ Cortisol máu hay ACTH để chỉnh liều Hydrocortisone duy trì (chỉ dựa vào lâm sàng và điện giải)."
+    },
+    {
+      "id": "stt_card_059",
+      "text": "Cơ chế gây buồn nôn, nôn mửa và đau bụng âm ỉ trong bệnh suy thượng thận mạn tính?",
+      "options": [
+        "Thuốc lựa chọn đầu tay: Hydrocortisone (viên 10mg).",
+        "Thiếu cortisol làm giảm tưới máu mạc treo ruột, suy giảm trương lực cơ trơn đường tiêu hóa và giảm bài tiết acid dịch vị.",
+        "Giảm liều Hydrocortisone dần dần 2.5 mg mỗi tuần cho đến khi đạt liều duy trì 10 mg/ngày (uống 8h sáng).",
+        "Thiếu Cortisol làm mất ức chế ngược âm tính (negative feedback) → Tuyến yên tăng cường sản xuất và phân cắt tiền chất POMC để giải phóng lượng lớn ACTH và α-MSH."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\n• Thiếu cortisol làm giảm tưới máu mạc treo ruột, suy giảm trương lực cơ trơn đường tiêu hóa và giảm bài tiết acid dịch vị.\n• Tình trạng hạ Natri máu mạn tính gây rối loạn tính thấm tế bào niêm mạc ruột → Dẫn đến chán ăn, buồn nôn, nôn mửa từng đợt và đau bụng âm ỉ lan tỏa.\n\n🔍 Góc nhìn chuyên sâu:\nCác triệu chứng tiêu hóa này sẽ biến mất nhanh chóng sau khi được điều trị bồi phụ Hydrocortisone."
+    },
+    {
+      "id": "stt_card_060",
+      "text": "Tại sao bệnh nhân suy thượng thận có thể xuất hiện triệu chứng thèm ăn muối (Salt craving)?",
+      "options": [
+        "Do thiếu cortisol cấp tính gây giãn mạch mạc treo ruột, rối loạn tưới máu vi mạch ruột kết hợp mất muối nước nặng gây cơn co thắt cơ trơn ruột dữ dội.",
+        "Do thiếu hụt Aldosteron làm ống lượn xa mất khả năng tái hấp thu Natri, gây mất muối liên tục qua nước tiểu → Cơ thể rơi vào trạng thái thiếu hụt natri ngoại bào mạn tính, kích hoạt các thụ thể vị giác và trung tâm vùng dưới đồi tạo cảm giác thèm ăn các đồ ăn mặn đậm đà.",
+        "Vì khi bị ốm sốt nhiễm trùng, cơ thể người bình thường sẽ tự động tăng tiết cortisol gấp 2 - 3 lần để chống stress và duy trì trương lực mạch; bệnh nhân suy thượng thận không tự tiết được nên nếu không tăng liều sẽ bị sốc suy thượng thận cấp.",
+        "Vì thiếu hụt cortisol và tụt huyết áp mạn tính làm giảm lưu lượng máu tưới qua động mạch tử cung - nhau thai, dẫn đến thai nhi bị suy dinh dưỡng bào thai và chậm phát triển trong tử cung (IUGR)."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nDo thiếu hụt Aldosteron làm ống lượn xa mất khả năng tái hấp thu Natri, gây mất muối liên tục qua nước tiểu → Cơ thể rơi vào trạng thái thiếu hụt natri ngoại bào mạn tính, kích hoạt các thụ thể vị giác và trung tâm vùng dưới đồi tạo cảm giác thèm ăn các đồ ăn mặn đậm đà.\n\n🔍 Góc nhìn chuyên sâu:\nBệnh nhân thường có thói quen chấm nhiều muối, ăn dưa cà muối hoặc uống nước khoáng mặn."
+    },
+    {
+      "id": "stt_card_061",
+      "text": "Tại sao bệnh nhân suy thượng thận bị giảm khả năng bài xuất nước tự do?",
+      "options": [
+        "Do thiếu cortisol cấp tính gây giãn mạch mạc treo ruột, rối loạn tưới máu vi mạch ruột kết hợp mất muối nước nặng gây cơn co thắt cơ trơn ruột dữ dội.",
+        "Do nồng độ ACTH và α-MSH tăng cao kích hoạt thụ thể MC1R tại các vùng da có mật độ tế bào hắc tố cao và vùng có tăng sinh tế bào sau chấn thương/sẹo.",
+        "Thiếu cortisol làm mất cơ chế ức chế tiết hormon chống bài niệu ADH từ vùng dưới đồi → Nồng độ ADH tăng cao không thích hợp làm tăng tái hấp thu nước tại ống góp.",
+        "Luôn mang theo vòng đeo tay hoặc thẻ cảnh báo y tế ghi rõ bị suy thượng thận đang dùng thuốc."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\n• Thiếu cortisol làm mất cơ chế ức chế tiết hormon chống bài niệu ADH từ vùng dưới đồi → Nồng độ ADH tăng cao không thích hợp làm tăng tái hấp thu nước tại ống góp.\n• Kết hợp giảm mức lọc cầu thận (eGFR) làm giảm lượng dịch đến quai Henle → Gây ứ nước tự do và hạ Natri máu do hòa loãng.\n\n🔍 Góc nhìn chuyên sâu:\nĐiều trị bằng Hydrocortisone giúp ức chế ADH và phục hồi khả năng bài niệu nước tự do."
+    },
+    {
+      "id": "stt_card_062",
+      "text": "Tại sao bệnh nhân Bệnh Addison có nồng độ Hoạt tính Renin huyết tương (PRA) tăng cao?",
+      "options": [
+        "Vì các hạt sắc tố Melanin đã tích tụ sâu trong lớp biểu bì và trung bì cần thời gian thoái hóa và thay mới tế bào biểu bì rất dài qua nhiều tháng đến nhiều năm dù nồng độ ACTH đã hạ.",
+        "Điện giải đồ: Hạ Natri máu (Tăng Kali máu (> 5.0 mmol/L).",
+        "Vì khi bị ngộ độc thức ăn, say tàu xe hoặc nhiễm khuẩn tiêu hóa gây nôn mửa liên tục, bệnh nhân không thể uống và giữ được thuốc viên trong dạ dày → Nồng độ cortisol sẽ tụt giảm nhanh chóng đẩy bệnh nhân vào cơn suy thượng thận cấp nguy kịch nếu không được tiêm bắp Hydrocortisone 100 mg cấp cứu kịp thời.",
+        "Do thiếu Aldosteron gây mất muối nước làm giảm thể tích huyết tương và giảm áp lực tưới máu tại tiểu động mạch đến của cầu thận → Kích thích tế bào cạnh cầu thận (JGA) tăng cường sản xuất và giải phóng enzyme Renin vào máu để cố gắng kích hoạt hệ RAAS bù trừ."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nDo thiếu Aldosteron gây mất muối nước làm giảm thể tích huyết tương và giảm áp lực tưới máu tại tiểu động mạch đến của cầu thận → Kích thích tế bào cạnh cầu thận (JGA) tăng cường sản xuất và giải phóng enzyme Renin vào máu để cố gắng kích hoạt hệ RAAS bù trừ.\n\n🔍 Góc nhìn chuyên sâu:\nNồng độ Renin huyết tương tăng cao kết hợp Aldosteron giảm là dấu hiệu đặc trưng của tổn thương lớp cầu vỏ thượng thận."
+    },
+    {
+      "id": "stt_card_063",
+      "text": "Ý nghĩa của việc định lượng hormon DHEA-S trong chẩn đoán suy thượng thận?",
+      "options": [
+        "Bệnh nhân sốc tụt HA (65/40 mmHg), lơ mơ, đau bụng dữ dội, nôn mửa sau ngừng thuốc đông y trộn dexamethasone.",
+        "DHEA-S (Dehydroepiandrosterone sulfate) là hormon androgen được sản xuất chuyên biệt bởi lớp lưới của vỏ tuyến thượng thận, có thời gian bán hủy dài và nồng độ ổn định trong máu.",
+        "Do tự kháng thể Anti 21-hydroxylase và tế bào lympho T tự miễn thâm nhiễm phá hủy dần dần các tế bào biểu mô vỏ thượng thận và thay thế bằng mô xơ teo nhỏ.",
+        "Do nồng độ ACTH và α-MSH tăng cao kích hoạt thụ thể MC1R tại các vùng da có mật độ tế bào hắc tố cao và vùng có tăng sinh tế bào sau chấn thương/sẹo."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\n• DHEA-S (Dehydroepiandrosterone sulfate) là hormon androgen được sản xuất chuyên biệt bởi lớp lưới của vỏ tuyến thượng thận, có thời gian bán hủy dài và nồng độ ổn định trong máu.\n• Nồng độ DHEA-S giảm thấp dưới mức tham chiếu phản ánh tình trạng suy giảm chức năng của vỏ thượng thận.\n\n🔍 Góc nhìn chuyên sâu:\nDHEA-S bình thường giúp loại trừ suy thượng thận ở người trẻ tuổi."
+    },
+    {
+      "id": "stt_card_064",
+      "text": "Tại sao trong cấp cứu Cơn suy thượng thận cấp TUYỆT ĐỐI KHÔNG DÙNG dịch truyền Ringer Lactate?",
+      "options": [
+        "Cortisol sinh lý có tác dụng thúc đẩy quá trình chết theo chương trình (Apoptosis) của bạch cầu ái toan và giữ bạch cầu lympho trong tủy xương.",
+        "Suy thượng thận tiên phát (Bệnh Addison): Tổn thương phá hủy trực tiếp ≥ 90% vỏ thượng thận hai bên (thiếu đồng thời Cortisol, Aldosteron, Androgen; ACTH tăng rất cao gây sạm da).",
+        "Vì trong dịch truyền Ringer Lactate có chứa 4 mmol/L ion Kali (K+).",
+        "Thiếu hụt cortisol cấp tính gây giãn mạch mạc treo ruột, rối loạn tưới máu vi tuần hoàn tạng và giảm trương lực cơ trơn đường tiêu hóa kết hợp với tình trạng mất muối nước nặng nề → Gây cơn co thắt ruột và đau bụng cấp dữ dội kèm nôn mửa, dễ bị chẩn đoán nhầm với viêm ruột thừa cấp hoặc thủng tạng rỗng."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\nVì trong dịch truyền Ringer Lactate có chứa 4 mmol/L ion Kali (K+). Bệnh nhân suy thượng thận cấp đã có tình trạng tăng Kali máu nặng nề do thiếu Aldosteron → Truyền dịch chứa Kali sẽ làm Kali máu tăng vọt đe dọa ngừng tim và rung thất tử vong.\n\n🔍 Góc nhìn chuyên sâu:\nChỉ được truyền dung dịch Natri Clorid 0.9% (NaCl 0.9%) phối hợp Glucose 5%."
+    },
+    {
+      "id": "stt_card_065",
+      "text": "Tại sao trong cấp cứu Cơn suy thượng thận cấp cần truyền phối hợp Glucose 5% hoặc Glucose 10%?",
+      "options": [
+        "Thiếu cortisol làm giảm tân tạo đường tại gan, giảm dự trữ glycogen và tăng nhạy cảm của tế bào ngoại vi với insulin.",
+        "Vì cơ thể bị thiếu hụt Aldosteron liên tục làm thận mất Natri và nước qua nước tiểu → Chế độ ăn giàu muối (thêm 3 - 5g muối/ngày) giúp bù đắp lượng muối bị mất, duy trì thể tích huyết tương và giữ huyết áp ổn định.",
+        "Vì thiếu hụt cortisol cấp tính làm giảm tân tạo glucose tại gan và tăng nhạy cảm với insulin, khiến bệnh nhân thường xuyên bị hạ đường huyết nặng nề có thể gây co giật và hôn mê tổn thương não → Bắt buộc truyền dung dịch Glucose để nâng và duy trì đường huyết an toàn.",
+        "Suy thượng thận tiên phát (Bệnh Addison): Tổn thương phá hủy trực tiếp ≥ 90% vỏ thượng thận hai bên (thiếu đồng thời Cortisol, Aldosteron, Androgen; ACTH tăng rất cao gây sạm da)."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\nVì thiếu hụt cortisol cấp tính làm giảm tân tạo glucose tại gan và tăng nhạy cảm với insulin, khiến bệnh nhân thường xuyên bị hạ đường huyết nặng nề có thể gây co giật và hôn mê tổn thương não → Bắt buộc truyền dung dịch Glucose để nâng và duy trì đường huyết an toàn.\n\n🔍 Góc nhìn chuyên sâu:\nTheo dõi đường huyết mao mạch tại giường mỗi 2 - 4 giờ."
+    },
+    {
+      "id": "stt_card_066",
+      "text": "Liều điều trị thay thế bằng Prednisolone khi không có sẵn Hydrocortisone viên?",
+      "options": [
+        "Thiếu Cortisol: Giảm tính nhạy cảm của thụ thể α1-adrenergic trên thành mạch với Catecholamine → Giãn mạch ngoại vi.",
+        "Thuốc: Prednisolone viên 5 mg.",
+        "Vì các hạt sắc tố Melanin đã tích tụ sâu trong lớp biểu bì và trung bì cần thời gian thoái hóa và thay mới tế bào biểu bì rất dài qua nhiều tháng đến nhiều năm dù nồng độ ACTH đã hạ.",
+        "Vì cơ thể vốn đã có giảm thể tích tuần hoàn mạn tính và mất trương lực mạch do thiếu cortisol; khi bị mất nước điện giải qua đường tiêu hóa thể tích huyết tương tụt giảm nhanh chóng đẩy bệnh nhân vào sốc trụy mạch suy thượng thận cấp."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\n• Thuốc: Prednisolone viên 5 mg.\n• Liều dùng sinh lý thay thế: 3.75 – 5 mg/ngày (tương đương 3/4 đến 1 viên 5mg).\n• Cách uống: Uống 1 lần duy nhất vào buổi sáng sớm lúc 8h00 sau khi ăn no.\n\n🔍 Góc nhìn chuyên sâu:\nPrednisolone có thời gian tác dụng bán hủy dài hơn Hydrocortisone (18 - 36h)."
+    },
+    {
+      "id": "stt_card_067",
+      "text": "Tại sao bệnh nhân suy thượng thận khi đi du lịch hoặc công tác xa cần mang theo bộ kit cấp cứu tiêm bắp?",
+      "options": [
+        "Mất muối và nước liên tục qua nước tiểu kết hợp hạ huyết áp làm giảm thể tích tuần hoàn hữu dụng → Giảm áp lực tưới máu tại cầu thận và giảm mức lọc cầu thận (eGFR) → Làm tăng nồng độ Ure và Creatinin máu (tỷ lệ Ure/Creatinin tăng cao).",
+        "Thiếu cortisol làm giảm tân tạo đường tại gan, giảm dự trữ glycogen và tăng nhạy cảm của tế bào ngoại vi với insulin.",
+        "Vì glucocorticoid kích thích hệ thần kinh trung ương và gây tăng đường huyết nhẹ, uống muộn vào ban đêm sẽ gây rối loạn giấc ngủ và mất ngủ kéo dài.",
+        "Vì khi bị ngộ độc thức ăn, say tàu xe hoặc nhiễm khuẩn tiêu hóa gây nôn mửa liên tục, bệnh nhân không thể uống và giữ được thuốc viên trong dạ dày → Nồng độ cortisol sẽ tụt giảm nhanh chóng đẩy bệnh nhân vào cơn suy thượng thận cấp nguy kịch nếu không được tiêm bắp Hydrocortisone 100 mg cấp cứu kịp thời."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nVì khi bị ngộ độc thức ăn, say tàu xe hoặc nhiễm khuẩn tiêu hóa gây nôn mửa liên tục, bệnh nhân không thể uống và giữ được thuốc viên trong dạ dày → Nồng độ cortisol sẽ tụt giảm nhanh chóng đẩy bệnh nhân vào cơn suy thượng thận cấp nguy kịch nếu không được tiêm bắp Hydrocortisone 100 mg cấp cứu kịp thời.\n\n🔍 Góc nhìn chuyên sâu:\nBộ kit gồm: 1 lọ Hydrocortisone 100mg dạng bột pha tiêm, 1 ống nước cất 2ml và 1 bơm tiêm 3ml."
+    },
+    {
+      "id": "stt_card_068",
+      "text": "Cơ chế gây suy thận chức năng trước thận trong bệnh suy thượng thận mạn?",
+      "options": [
+        "Tổn thương lớp cầu vỏ thượng thận làm thiếu hụt Aldosteron.",
+        "Vì glucocorticoid kích thích hệ thần kinh trung ương và gây tăng đường huyết nhẹ, uống muộn vào ban đêm sẽ gây rối loạn giấc ngủ và mất ngủ kéo dài.",
+        "Mất muối và nước liên tục qua nước tiểu kết hợp hạ huyết áp làm giảm thể tích tuần hoàn hữu dụng → Giảm áp lực tưới máu tại cầu thận và giảm mức lọc cầu thận (eGFR) → Làm tăng nồng độ Ure và Creatinin máu (tỷ lệ Ure/Creatinin tăng cao).",
+        "Vì tổn thương nguyên phát nằm tại tuyến yên (u tuyến yên, hoại tử Sheehan) hoặc do nồng độ corticoid ngoại sinh ức chế trực tiếp tuyến yên không tiết được ACTH."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\nMất muối và nước liên tục qua nước tiểu kết hợp hạ huyết áp làm giảm thể tích tuần hoàn hữu dụng → Giảm áp lực tưới máu tại cầu thận và giảm mức lọc cầu thận (eGFR) → Làm tăng nồng độ Ure và Creatinin máu (tỷ lệ Ure/Creatinin tăng cao).\n\n🔍 Góc nhìn chuyên sâu:\nChức năng thận sẽ hồi phục về bình thường hoàn toàn sau khi được bù đủ dịch và muối natri."
+    },
+    {
+      "id": "stt_card_069",
+      "text": "Tại sao bệnh nhân Bệnh Addison bị giảm thể tích tuần hoàn và tụt huyết áp tư thế?",
+      "options": [
+        "Do thiếu Aldosteron làm ống lượn xa mất khả năng tái hấp thu Natri, gây mất muối và nước ồ ạt qua nước tiểu, làm giảm thể tích dịch ngoại bào và huyết tương.",
+        "Vì ở bệnh nhân Bệnh Addison chưa được bù đủ Fludrocortisone, thận bị giảm khả năng đào thải Kali; ăn quá nhiều đồ giàu Kali (chuối tiêu, cam, nước dừa, khoai lang) có thể làm Kali máu tăng vọt gây loạn nhịp tim.",
+        "Giảm liều Hydrocortisone dần dần 2.5 mg mỗi tuần cho đến khi đạt liều duy trì 10 mg/ngày (uống 8h sáng).",
+        "Vì glucocorticoid kích thích hệ thần kinh trung ương và gây tăng đường huyết nhẹ, uống muộn vào ban đêm sẽ gây rối loạn giấc ngủ và mất ngủ kéo dài."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nDo thiếu Aldosteron làm ống lượn xa mất khả năng tái hấp thu Natri, gây mất muối và nước ồ ạt qua nước tiểu, làm giảm thể tích dịch ngoại bào và huyết tương.\n\n🔍 Góc nhìn chuyên sâu:\nHuyết áp tâm thu giảm ≥ 20 mmHg khi đứng dậy gây choáng váng ngất xỉu."
+    },
+    {
+      "id": "stt_card_070",
+      "text": "Tại sao bệnh nhân Bệnh Addison có cảm giác thèm ăn mặn (Salt craving) rất mãnh liệt?",
+      "options": [
+        "Để khi gặp tai nạn giao thông, chấn thương hoặc hôn mê bất tỉnh, nhân viên y tế cấp cứu nhận biết được ngay bệnh nhân bị suy thượng thận để tiêm ngay Hydrocortisone liều stress cứu sống bệnh nhân.",
+        "Để cho vùng dưới đồi và tuyến yên có đủ thời gian phục hồi lại khả năng bài tiết CRH và ACTH, giúp đánh thức mô vỏ thượng thận teo nhỏ dần dần tái tạo và tự sản xuất cortisol.",
+        "Cortisol sinh lý có tác dụng thúc đẩy quá trình chết theo chương trình (Apoptosis) của bạch cầu ái toan và giữ bạch cầu lympho trong tủy xương.",
+        "Mất Natri liên tục qua thận làm giảm nồng độ Natri dịch ngoại bào, kích hoạt các thụ thể vị giác và trung tâm điều nhiệt vùng dưới đồi tạo phản xạ thèm ăn mặn."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nMất Natri liên tục qua thận làm giảm nồng độ Natri dịch ngoại bào, kích hoạt các thụ thể vị giác và trung tâm điều nhiệt vùng dưới đồi tạo phản xạ thèm ăn mặn.\n\n🔍 Góc nhìn chuyên sâu:\nBệnh nhân thường có thói quen ăn đồ ăn rất mặn hoặc chấm muối trực tiếp."
+    },
+    {
+      "id": "stt_card_071",
+      "text": "Tại sao bệnh nhân suy thượng thận có biểu hiện mệt mỏi tăng nhiều về cuối buổi chiều?",
+      "options": [
+        "Vì ở người bình thường nồng độ cortisol giảm dần về chiều tối; ở người suy thượng thận nồng độ cortisol vốn đã thấp chạm đáy làm tế bào hoàn toàn thiếu năng lượng chuyển hóa vào cuối ngày.",
+        "Vì thiếu Aldosteron làm thận mất Natri liên tục qua nước tiểu; chế độ ăn giàu muối giúp bù đắp lượng muối bị mất để duy trì thể tích huyết tương và huyết áp ổn định.",
+        "Do thiếu cortisol cấp tính gây giãn mạch mạc treo ruột, rối loạn tưới máu vi mạch ruột kết hợp mất muối nước nặng gây cơn co thắt cơ trơn ruột dữ dội.",
+        "Luôn mang theo vòng đeo tay hoặc thẻ cảnh báo y tế ghi rõ bị suy thượng thận đang dùng thuốc."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nVì ở người bình thường nồng độ cortisol giảm dần về chiều tối; ở người suy thượng thận nồng độ cortisol vốn đã thấp chạm đáy làm tế bào hoàn toàn thiếu năng lượng chuyển hóa vào cuối ngày.\n\n🔍 Góc nhìn chuyên sâu:\nKhác với mệt mỏi do suy nhược thần kinh (thường mệt nhiều lúc mới ngủ dậy buổi sáng)."
+    },
+    {
+      "id": "stt_card_072",
+      "text": "Tại sao bệnh nhân Bệnh Addison có sạm đen nổi bật ở các nếp gấp chỉ tay và sẹo mới?",
+      "options": [
+        "Trước khởi mê: Tiêm tĩnh mạch Hydrocortisone 100 mg (Bolus).",
+        "Do nồng độ ACTH và α-MSH tăng cao kích hoạt thụ thể MC1R tại các vùng da có mật độ tế bào hắc tố cao và vùng có tăng sinh tế bào sau chấn thương/sẹo.",
+        "BÌNH THƯỜNG: Nồng độ Cortisol máu sau 30 hoặc 60 phút tăng vọt > 500 – 550 nmol/L (> 18 - 20 mcg/dL) hoặc tăng ít nhất 170 nmol/L so với trước tiêm → Loại trừ suy thượng thận.",
+        "Mất muối và nước liên tục qua nước tiểu kết hợp hạ huyết áp làm giảm thể tích tuần hoàn hữu dụng → Giảm áp lực tưới máu tại cầu thận và giảm mức lọc cầu thận (eGFR) → Làm tăng nồng độ Ure và Creatinin máu (tỷ lệ Ure/Creatinin tăng cao)."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nDo nồng độ ACTH và α-MSH tăng cao kích hoạt thụ thể MC1R tại các vùng da có mật độ tế bào hắc tố cao và vùng có tăng sinh tế bào sau chấn thương/sẹo.\n\n🔍 Góc nhìn chuyên sâu:\nSẹo mới hình thành sau khi mắc bệnh sẽ có màu đen sẫm; sẹo cũ trước khi mắc bệnh thường không sạm."
+    },
+    {
+      "id": "stt_card_073",
+      "text": "Tại sao nồng độ ACTH huyết tương trong Suy thượng thận tiên phát lại tăng rất cao (> 100 pg/mL)?",
+      "options": [
+        "Vì sự phơi nhiễm liên tục không có thời gian nghỉ làm mất nhịp tiết sinh học tự nhiên của trục HPA, ức chế liên tục sự phân chia và dinh dưỡng của tế bào vỏ thượng thận.",
+        "Vì vỏ thượng thận bị phá hủy không sản xuất được Cortisol → Mất hoàn toàn cơ chế ức chế ngược âm tính (negative feedback) lên thùy trước tuyến yên → Tuyến yên tăng tiết tối đa ACTH.",
+        "Vì Rifampicin là chất cảm ứng enzyme gan CYP3A4 cực mạnh, làm tăng tốc độ chuyển hóa và thải trừ Hydrocortisone qua gan gấp 2 - 3 lần làm nồng độ cortisol máu giảm sút nghiêm trọng.",
+        "Bao gồm tam chứng:"
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nVì vỏ thượng thận bị phá hủy không sản xuất được Cortisol → Mất hoàn toàn cơ chế ức chế ngược âm tính (negative feedback) lên thùy trước tuyến yên → Tuyến yên tăng tiết tối đa ACTH.\n\n🔍 Góc nhìn chuyên sâu:\nNồng độ ACTH thường đạt từ 200 đến 2000 pg/mL."
+    },
+    {
+      "id": "stt_card_074",
+      "text": "Tại sao nồng độ ACTH huyết tương trong Suy thượng thận thứ phát lại giảm thấp (< 10 - 20 pg/mL)?",
+      "options": [
+        "Bệnh tự miễn (Viêm thượng thận tự miễn): Chiếm 70% - 80%, kháng thể Anti 21-hydroxylase (+), liên quan HLA-B8, HLA-DW3, Nữ:Nam = 3:1, CT scan thấy teo 2 bên thượng thận.",
+        "Vì khi bị ngộ độc thức ăn, say tàu xe hoặc nhiễm khuẩn tiêu hóa gây nôn mửa liên tục, bệnh nhân không thể uống và giữ được thuốc viên trong dạ dày → Nồng độ cortisol sẽ tụt giảm nhanh chóng đẩy bệnh nhân vào cơn suy thượng thận cấp nguy kịch nếu không được tiêm bắp Hydrocortisone 100 mg cấp cứu kịp thời.",
+        "Do tự kháng thể Anti 21-hydroxylase và tế bào lympho T tự miễn thâm nhiễm phá hủy dần dần các tế bào biểu mô vỏ thượng thận và thay thế bằng mô xơ teo nhỏ.",
+        "Vì tổn thương nguyên phát nằm tại tuyến yên (u tuyến yên, hoại tử Sheehan) hoặc do nồng độ corticoid ngoại sinh ức chế trực tiếp tuyến yên không tiết được ACTH."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nVì tổn thương nguyên phát nằm tại tuyến yên (u tuyến yên, hoại tử Sheehan) hoặc do nồng độ corticoid ngoại sinh ức chế trực tiếp tuyến yên không tiết được ACTH.\n\n🔍 Góc nhìn chuyên sâu:\nLà cơ sở để phân định chắc chắn giữa thể tiên phát và thể thứ phát."
+    },
+    {
+      "id": "stt_card_075",
+      "text": "Tại sao bệnh nhân suy thượng thận có tăng nồng độ Ure và Creatinin máu?",
+      "options": [
+        "Rifampicin là chất cảm ứng cực mạnh enzyme gan CYP3A4, làm tăng tốc độ chuyển hóa và thanh thải Hydrocortisone qua gan gấp 2 - 3 lần → Làm giảm nồng độ cortisol máu và có thể khởi phát cơn suy thượng thận cấp.",
+        "Thiếu cortisol làm giảm tân tạo đường tại gan, giảm dự trữ glycogen và tăng nhạy cảm của tế bào ngoại vi với insulin.",
+        "Do mất muối nước làm giảm thể tích tuần hoàn hữu dụng, dẫn đến giảm áp lực tưới máu thận và giảm mức lọc cầu thận gây suy thận chức năng trước thận.",
+        "Thuốc: Prednisolone viên 5 mg."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\nDo mất muối nước làm giảm thể tích tuần hoàn hữu dụng, dẫn đến giảm áp lực tưới máu thận và giảm mức lọc cầu thận gây suy thận chức năng trước thận.\n\n🔍 Góc nhìn chuyên sâu:\nChức năng thận sẽ trở về bình thường hoàn toàn sau khi truyền đủ dịch NaCl 0.9%."
+    },
+    {
+      "id": "stt_card_076",
+      "text": "Tại sao bệnh nhân suy thượng thận có tăng tỷ lệ bạch cầu ái toan (Eosinophilia)?",
+      "options": [
+        "Do thiếu cortisol trong hệ thần kinh trung ương làm suy giảm chuyển hóa năng lượng tế bào não, kết hợp với tình trạng hạ Natri máu và hạ đường huyết mạn tính.",
+        "Giảm liều Hydrocortisone dần dần 2.5 mg mỗi tuần cho đến khi đạt liều duy trì 10 mg/ngày (uống 8h sáng).",
+        "Vì cortisol sinh lý có tác dụng thúc đẩy quá trình tự chết theo chương trình của bạch cầu ái toan; khi thiếu cortisol đời sống của bạch cầu ái toan trong máu ngoại vi bị kéo dài.",
+        "Cortisol sinh lý có tác dụng thúc đẩy quá trình chết theo chương trình (Apoptosis) của bạch cầu ái toan và giữ bạch cầu lympho trong tủy xương."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\nVì cortisol sinh lý có tác dụng thúc đẩy quá trình tự chết theo chương trình của bạch cầu ái toan; khi thiếu cortisol đời sống của bạch cầu ái toan trong máu ngoại vi bị kéo dài.\n\n🔍 Góc nhìn chuyên sâu:\nBạch cầu ái toan tăng trên công thức máu ở bệnh nhân mệt mỏi tụt huyết áp là dấu chỉ điểm rất có giá trị."
+    },
+    {
+      "id": "stt_card_077",
+      "text": "Tại sao bệnh nhân suy thượng thận dễ bị hạ đường huyết lúc đói hoặc khi bỏ bữa?",
+      "options": [
+        "Thuốc lựa chọn đầu tay: Hydrocortisone (viên 10mg).",
+        "Thiếu cortisol làm giảm tân tạo đường tại gan, giảm dự trữ glycogen và tăng nhạy cảm của tế bào ngoại vi với insulin.",
+        "Mất muối và nước liên tục qua nước tiểu kết hợp hạ huyết áp làm giảm thể tích tuần hoàn hữu dụng → Giảm áp lực tưới máu tại cầu thận và giảm mức lọc cầu thận (eGFR) → Làm tăng nồng độ Ure và Creatinin máu (tỷ lệ Ure/Creatinin tăng cao).",
+        "Vì cơ thể vốn đã có giảm thể tích tuần hoàn mạn tính và mất trương lực mạch do thiếu cortisol; khi bị mất nước điện giải qua đường tiêu hóa thể tích huyết tương tụt giảm nhanh chóng đẩy bệnh nhân vào sốc trụy mạch suy thượng thận cấp."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nThiếu cortisol làm giảm tân tạo đường tại gan, giảm dự trữ glycogen và tăng nhạy cảm của tế bào ngoại vi với insulin.\n\n🔍 Góc nhìn chuyên sâu:\nHạ đường huyết có thể gây co giật và hôn mê sâu ở bệnh nhân trong cơn suy thượng thận cấp."
+    },
+    {
+      "id": "stt_card_078",
+      "text": "Tại sao hình ảnh X-quang ổ bụng thấy vôi hóa hai bên thượng thận lại gợi ý căn nguyên do Lao?",
+      "options": [
+        "Vì trực khuẩn lao xâm nhập gây hoại tử bã đậu tại mô vỏ thượng thận, sau quá trình viêm mạn tính mô hoại tử sẽ bị lắng đọng muối canxi photphat tạo hình ảnh vôi hóa thô rõ trên phim X-quang và CT scan.",
+        "Do thiếu cortisol cấp tính gây giãn mạch mạc treo ruột, rối loạn tưới máu vi mạch ruột kết hợp mất muối nước nặng gây cơn co thắt cơ trơn ruột dữ dội.",
+        "BÌNH THƯỜNG: Nồng độ Cortisol máu sau 30 hoặc 60 phút tăng vọt > 500 – 550 nmol/L (> 18 - 20 mcg/dL) hoặc tăng ít nhất 170 nmol/L so với trước tiêm → Loại trừ suy thượng thận.",
+        "Thuốc lựa chọn đầu tay: Hydrocortisone (viên 10mg)."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nVì trực khuẩn lao xâm nhập gây hoại tử bã đậu tại mô vỏ thượng thận, sau quá trình viêm mạn tính mô hoại tử sẽ bị lắng đọng muối canxi photphat tạo hình ảnh vôi hóa thô rõ trên phim X-quang và CT scan.\n\n🔍 Góc nhìn chuyên sâu:\nThường xuất hiện từ 1 đến 2 năm sau đợt nhiễm lao tiên phát."
+    },
+    {
+      "id": "stt_card_079",
+      "text": "Tại sao bệnh nhân tự miễn Addison có hình ảnh tuyến thượng thận teo nhỏ trên CT scan?",
+      "options": [
+        "Do nồng độ ACTH và α-MSH tăng cao kích hoạt thụ thể MC1R tại các vùng da có mật độ tế bào hắc tố cao và vùng có tăng sinh tế bào sau chấn thương/sẹo.",
+        "Vì Rifampicin là chất cảm ứng enzyme gan CYP3A4 cực mạnh, làm tăng tốc độ chuyển hóa và thải trừ Hydrocortisone qua gan gấp 2 - 3 lần làm nồng độ cortisol máu giảm sút nghiêm trọng.",
+        "Vì thiếu Aldosteron làm thận mất Natri liên tục qua nước tiểu; chế độ ăn giàu muối giúp bù đắp lượng muối bị mất để duy trì thể tích huyết tương và huyết áp ổn định.",
+        "Do tự kháng thể Anti 21-hydroxylase và tế bào lympho T tự miễn thâm nhiễm phá hủy dần dần các tế bào biểu mô vỏ thượng thận và thay thế bằng mô xơ teo nhỏ."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nDo tự kháng thể Anti 21-hydroxylase và tế bào lympho T tự miễn thâm nhiễm phá hủy dần dần các tế bào biểu mô vỏ thượng thận và thay thế bằng mô xơ teo nhỏ.\n\n🔍 Góc nhìn chuyên sâu:\nTuyến thượng thận teo mỏng cả hai bên mà không có nốt vôi hóa."
+    },
+    {
+      "id": "stt_card_080",
+      "text": "Tại sao trong Cơn suy thượng thận cấp bệnh nhân lại đau bụng dữ dội giả viêm phúc mạc?",
+      "options": [
+        "Vì khi bị ốm sốt nhiễm trùng, cơ thể người bình thường sẽ tự động tăng tiết cortisol gấp 2 - 3 lần để chống stress và duy trì trương lực mạch; bệnh nhân suy thượng thận không tự tiết được nên nếu không tăng liều sẽ bị sốc suy thượng thận cấp.",
+        "Do thiếu cortisol cấp tính gây giãn mạch mạc treo ruột, rối loạn tưới máu vi mạch ruột kết hợp mất muối nước nặng gây cơn co thắt cơ trơn ruột dữ dội.",
+        "Uống Hydrocortisone 20 mg trước khi làm thủ thuật 1 giờ, sau đó tăng gấp đôi liều uống trong ngày làm thủ thuật, ngày hôm sau trở lại liều duy trì bình thường.",
+        "Vì khi bị ngộ độc thức ăn, say tàu xe hoặc nhiễm khuẩn tiêu hóa gây nôn mửa liên tục, bệnh nhân không thể uống và giữ được thuốc viên trong dạ dày → Nồng độ cortisol sẽ tụt giảm nhanh chóng đẩy bệnh nhân vào cơn suy thượng thận cấp nguy kịch nếu không được tiêm bắp Hydrocortisone 100 mg cấp cứu kịp thời."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nDo thiếu cortisol cấp tính gây giãn mạch mạc treo ruột, rối loạn tưới máu vi mạch ruột kết hợp mất muối nước nặng gây cơn co thắt cơ trơn ruột dữ dội.\n\n🔍 Góc nhìn chuyên sâu:\nKhám bụng chỉ thấy đau lan tỏa, mềm, không có co cứng thành bụng thật sự."
+    },
+    {
+      "id": "stt_card_081",
+      "text": "Tại sao trong Cơn suy thượng thận cấp TUYỆT ĐỐI CẤM truyền dung dịch có chứa Kali (Ringer Lactate)?",
+      "options": [
+        "Vì trực khuẩn lao xâm nhập gây hoại tử bã đậu tại mô vỏ thượng thận, sau quá trình viêm mạn tính mô hoại tử sẽ bị lắng đọng muối canxi photphat tạo hình ảnh vôi hóa thô rõ trên phim X-quang và CT scan.",
+        "Vì thiếu Aldosteron đã làm thận mất khả năng bài tiết Kali, nồng độ Kali máu đang ở mức rất cao (> 5.5 - 6.5 mmol/L); truyền thêm dịch chứa Kali sẽ làm Kali máu tăng vọt đe dọa ngừng tim rung thất ngay lập tức.",
+        "Bước 1: Lấy máu lúc 8h00 sáng định lượng Cortisol cơ sở (T0).",
+        "Vì khi bị ốm sốt nhiễm trùng, cơ thể người bình thường sẽ tự động tăng tiết cortisol gấp 2 - 3 lần để chống stress và duy trì trương lực mạch; bệnh nhân suy thượng thận không tự tiết được nên nếu không tăng liều sẽ bị sốc suy thượng thận cấp."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nVì thiếu Aldosteron đã làm thận mất khả năng bài tiết Kali, nồng độ Kali máu đang ở mức rất cao (> 5.5 - 6.5 mmol/L); truyền thêm dịch chứa Kali sẽ làm Kali máu tăng vọt đe dọa ngừng tim rung thất ngay lập tức.\n\n🔍 Góc nhìn chuyên sâu:\nChỉ được truyền dung dịch Natri Clorid 0.9% phối hợp Glucose 5%."
+    },
+    {
+      "id": "stt_card_082",
+      "text": "Tại sao trong cấp cứu Cơn suy thượng thận cấp bắt buộc phải truyền dung dịch Glucose 5% hoặc Glucose 10%?",
+      "options": [
+        "Mất muối và nước liên tục qua nước tiểu kết hợp hạ huyết áp làm giảm thể tích tuần hoàn hữu dụng → Giảm áp lực tưới máu tại cầu thận và giảm mức lọc cầu thận (eGFR) → Làm tăng nồng độ Ure và Creatinin máu (tỷ lệ Ure/Creatinin tăng cao).",
+        "Vì bệnh nhân suy thượng thận cấp có tình trạng hạ đường huyết nặng nề do cạn kiệt nguồn tân tạo glucose tại gan → Bắt buộc truyền Glucose để nâng và duy trì đường huyết bảo vệ não bộ.",
+        "Lâm sàng: Mệt mỏi tăng về chiều, sạm da niêm mạc, hạ huyết áp, sút cân, thèm muối.",
+        "Do thiếu cortisol trong hệ thần kinh trung ương làm suy giảm chuyển hóa năng lượng tế bào não, kết hợp với tình trạng hạ Natri máu và hạ đường huyết mạn tính."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nVì bệnh nhân suy thượng thận cấp có tình trạng hạ đường huyết nặng nề do cạn kiệt nguồn tân tạo glucose tại gan → Bắt buộc truyền Glucose để nâng và duy trì đường huyết bảo vệ não bộ.\n\n🔍 Góc nhìn chuyên sâu:\nTheo dõi đường huyết mao mạch mỗi 2 - 4 giờ."
+    },
+    {
+      "id": "stt_card_083",
+      "text": "Tại sao liều duy trì hàng ngày của Hydrocortisone phải chia làm 2/3 uống buổi sáng và 1/3 uống buổi chiều?",
+      "options": [
+        "BẮT BUỘC ĐIỀU TRỊ SUY THƯỢNG THẬN TRƯỚC SUY GIÁP (bù Hydrocortisone trước ít nhất 3 - 5 ngày rồi mới bắt đầu dùng Levothyroxine).",
+        "Để mô phỏng chính xác nhịp tiết sinh lý ngày đêm của trục HPA (nồng độ cortisol máu đạt đỉnh cao nhất lúc 8h sáng và giảm dần xuống thấp vào buổi chiều tối).",
+        "Hồi sức dịch nhanh: Truyền nhanh NaCl 0.9% 1000 ml trong 60 phút đầu (phối hợp Glucose 5%), tổng lượng dịch 3-4L/24h. TUYỆT ĐỐI CẤM truyền dịch có chứa Kali (như Ringer Lactate).",
+        "Do mất muối nước làm giảm thể tích tuần hoàn hữu dụng, dẫn đến giảm áp lực tưới máu thận và giảm mức lọc cầu thận gây suy thận chức năng trước thận."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nĐể mô phỏng chính xác nhịp tiết sinh lý ngày đêm của trục HPA (nồng độ cortisol máu đạt đỉnh cao nhất lúc 8h sáng và giảm dần xuống thấp vào buổi chiều tối).\n\n🔍 Góc nhìn chuyên sâu:\nUống 10 - 15mg lúc 8h sáng và 5 - 10mg lúc 16h chiều."
+    },
+    {
+      "id": "stt_card_084",
+      "text": "Tại sao bệnh nhân suy thượng thận tránh uống Hydrocortisone muộn sau 18h tối?",
+      "options": [
+        "Vì glucocorticoid kích thích hệ thần kinh trung ương và gây tăng đường huyết nhẹ, uống muộn vào ban đêm sẽ gây rối loạn giấc ngủ và mất ngủ kéo dài.",
+        "Tăng cân nhanh, mặt tròn đỏ, béo bụng, tăng huyết áp, phù nề giữ nước, tăng đường huyết, mất ngủ và loãng xương.",
+        "Vì Dexamethasone và Betamethasone là các glucocorticoid tác dụng kéo dài (t1/2 > 36 - 54 giờ), có hoạt tính kháng viêm cực mạnh nhưng hoàn toàn không có hoạt tính Mineralocorticoid giữ muối nước, làm mất hoàn toàn nhịp sinh học ngày đêm và rất dễ gây tác dụng phụ teo cơ, loãng xương, đái tháo đường.",
+        "Tiền sử băng huyết sau sinh mất sữa, vô kinh, da trắng bợt, sợ lạnh, huyết áp thấp, MRI thấy hố yên rỗng."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nVì glucocorticoid kích thích hệ thần kinh trung ương và gây tăng đường huyết nhẹ, uống muộn vào ban đêm sẽ gây rối loạn giấc ngủ và mất ngủ kéo dài.\n\n🔍 Góc nhìn chuyên sâu:\nLiều buổi chiều nên uống cố định vào khoảng 16h00 - 17h00."
+    },
+    {
+      "id": "stt_card_085",
+      "text": "Tại sao Fludrocortisone (Florinef) chỉ cần uống 1 lần duy nhất vào buổi sáng?",
+      "options": [
+        "Vì Fludrocortisone có thời gian tác dụng sinh học kéo dài tại thụ thể Mineralocorticoid ở ống thận (t1/2 tác dụng sinh học > 18 - 36 giờ), đủ để duy trì giữ Natri và huyết áp ổn định suốt 24 giờ.",
+        "Do thiếu hụt Aldosteron làm ống lượn xa mất khả năng tái hấp thu Natri, gây mất muối liên tục qua nước tiểu → Cơ thể rơi vào trạng thái thiếu hụt natri ngoại bào mạn tính, kích hoạt các thụ thể vị giác và trung tâm vùng dưới đồi tạo cảm giác thèm ăn các đồ ăn mặn đậm đà.",
+        "Vì lớp cầu của vỏ thượng thận (tiết Aldosteron) chịu sự điều hòa chủ yếu bởi hệ Renin - Angiotensin (RAAS) và nồng độ Kali huyết thanh, không phụ thuộc vào ACTH của tuyến yên → Khi tuyến yên bị suy giảm ACTH, lớp cầu vẫn tiết đủ Aldosteron để tái hấp thu Na+ và thải K+ tại ống thận → Kali máu không bị tăng cao.",
+        "Trước khởi mê: Tiêm tĩnh mạch Hydrocortisone 100 mg (Bolus)."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nVì Fludrocortisone có thời gian tác dụng sinh học kéo dài tại thụ thể Mineralocorticoid ở ống thận (t1/2 tác dụng sinh học > 18 - 36 giờ), đủ để duy trì giữ Natri và huyết áp ổn định suốt 24 giờ.\n\n🔍 Góc nhìn chuyên sâu:\nUống liều 0.05 - 0.15 mg/ngày vào buổi sáng sau ăn."
+    },
+    {
+      "id": "stt_card_086",
+      "text": "Tại sao bệnh nhân Suy thượng thận thứ phát KHÔNG CẦN dùng thuốc Fludrocortisone?",
+      "options": [
+        "Ngừng đột ngột sau liệu trình điều trị corticoid kéo dài (liều ≥ 20 mg Prednisolone/ngày kéo dài ≥ 3 tuần), do nồng độ corticoid ngoại sinh ức chế trục HPA làm teo vỏ thượng thận hai bên (gặp ở người uống thuốc khớp gia truyền, thuốc tễ trộn dexamethasone).",
+        "Khám lâm sàng và xét nghiệm Điện giải đồ (Na+, K+), Glucose máu, Chức năng thận mỗi 3 – 6 tháng.",
+        "Bệnh tự miễn (Viêm thượng thận tự miễn): Chiếm 70% - 80%, kháng thể Anti 21-hydroxylase (+), liên quan HLA-B8, HLA-DW3, Nữ:Nam = 3:1, CT scan thấy teo 2 bên thượng thận.",
+        "Vì lớp cầu của vỏ thượng thận (tiết Aldosteron) không chịu sự kiểm soát của ACTH mà do hệ RAAS điều hòa → Khi suy tuyến yên, lớp cầu vẫn tiết đủ Aldosteron nên không bị thiếu mineralocorticoid."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nVì lớp cầu của vỏ thượng thận (tiết Aldosteron) không chịu sự kiểm soát của ACTH mà do hệ RAAS điều hòa → Khi suy tuyến yên, lớp cầu vẫn tiết đủ Aldosteron nên không bị thiếu mineralocorticoid.\n\n🔍 Góc nhìn chuyên sâu:\nDùng thêm Florinef ở thể thứ phát sẽ gây thừa muối nước và tăng huyết áp."
+    },
+    {
+      "id": "stt_card_087",
+      "text": "Tại sao khi bệnh nhân suy thượng thận bị sốt nhẹ/cảm cúm bắt buộc phải tăng gấp đôi liều Glucocorticoid (Sick-day rules)?",
+      "options": [
+        "Cortisol là hormon đối kháng insulin quan trọng bậc nhất. Thiếu cortisol làm:",
+        "Vì khi bị ốm sốt nhiễm trùng, cơ thể người bình thường sẽ tự động tăng tiết cortisol gấp 2 - 3 lần để chống stress và duy trì trương lực mạch; bệnh nhân suy thượng thận không tự tiết được nên nếu không tăng liều sẽ bị sốc suy thượng thận cấp.",
+        "Mất Natri liên tục qua thận làm giảm nồng độ Natri dịch ngoại bào, kích hoạt các thụ thể vị giác và trung tâm điều nhiệt vùng dưới đồi tạo phản xạ thèm ăn mặn.",
+        "Vì trong dịch truyền Ringer Lactate có chứa 4 mmol/L ion Kali (K+)."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nVì khi bị ốm sốt nhiễm trùng, cơ thể người bình thường sẽ tự động tăng tiết cortisol gấp 2 - 3 lần để chống stress và duy trì trương lực mạch; bệnh nhân suy thượng thận không tự tiết được nên nếu không tăng liều sẽ bị sốc suy thượng thận cấp.\n\n🔍 Góc nhìn chuyên sâu:\nUống liều gấp đôi trong 3 ngày ốm, sau đó giảm về liều bình thường."
+    },
+    {
+      "id": "stt_card_088",
+      "text": "Tại sao bệnh nhân suy thượng thận cần có sẵn ống tiêm Hydrocortisone 100mg tại nhà?",
+      "options": [
+        "Để người nhà hoặc bệnh nhân có thể tự tiêm bắp cấp cứu ngay lập tức khi bị nôn mửa nhiều hoặc tiêu chảy cấp không uống và giữ được thuốc viên trong dạ dày.",
+        "Vì Rifampicin là chất cảm ứng enzyme gan CYP3A4 cực mạnh, làm tăng tốc độ chuyển hóa và thải trừ Hydrocortisone qua gan gấp 2 - 3 lần làm nồng độ cortisol máu giảm sút nghiêm trọng.",
+        "Vì trong dịch truyền Ringer Lactate có chứa 4 mmol/L ion Kali (K+).",
+        "Vùng da hở: Mặt, cổ, mu bàn tay, cẳng tay."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nĐể người nhà hoặc bệnh nhân có thể tự tiêm bắp cấp cứu ngay lập tức khi bị nôn mửa nhiều hoặc tiêu chảy cấp không uống và giữ được thuốc viên trong dạ dày.\n\n🔍 Góc nhìn chuyên sâu:\nSau khi tiêm bắp cấp cứu phải đưa bệnh nhân đến bệnh viện ngay."
+    },
+    {
+      "id": "stt_card_089",
+      "text": "Tại sao thuốc chống lao Rifampicin bắt buộc phải tăng gấp đôi liều Hydrocortisone khi dùng chung?",
+      "options": [
+        "Vì khi bị ốm sốt nhiễm trùng, cơ thể người bình thường sẽ tự động tăng tiết cortisol gấp 2 - 3 lần để chống stress và duy trì trương lực mạch; bệnh nhân suy thượng thận không tự tiết được nên nếu không tăng liều sẽ bị sốc suy thượng thận cấp.",
+        "Vì Rifampicin là chất cảm ứng enzyme gan CYP3A4 cực mạnh, làm tăng tốc độ chuyển hóa và thải trừ Hydrocortisone qua gan gấp 2 - 3 lần làm nồng độ cortisol máu giảm sút nghiêm trọng.",
+        "Vì Dexamethasone và Betamethasone là các glucocorticoid tác dụng kéo dài (t1/2 > 36 - 54 giờ), có hoạt tính kháng viêm cực mạnh nhưng hoàn toàn không có hoạt tính Mineralocorticoid giữ muối nước, làm mất hoàn toàn nhịp sinh học ngày đêm và rất dễ gây tác dụng phụ teo cơ, loãng xương, đái tháo đường.",
+        "Cortisol sinh lý có tác dụng thúc đẩy quá trình chết theo chương trình (Apoptosis) của bạch cầu ái toan và giữ bạch cầu lympho trong tủy xương."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nVì Rifampicin là chất cảm ứng enzyme gan CYP3A4 cực mạnh, làm tăng tốc độ chuyển hóa và thải trừ Hydrocortisone qua gan gấp 2 - 3 lần làm nồng độ cortisol máu giảm sút nghiêm trọng.\n\n🔍 Góc nhìn chuyên sâu:\nGiảm liều Hydrocortisone trở lại sau khi ngừng dùng Rifampicin."
+    },
+    {
+      "id": "stt_card_090",
+      "text": "Tại sao trong Suy đa tuyến yên bắt buộc phải bù Hydrocortisone TRƯỚC Levothyroxine?",
+      "options": [
+        "Vì trong dịch truyền Ringer Lactate có chứa 4 mmol/L ion Kali (K+).",
+        "Vì hormon giáp (T4) làm tăng tốc độ chuyển hóa cơ bản và tăng thoái giáng nồng độ cortisol dự trữ ít ỏi trong cơ thể; nếu chưa bù cortisol mà dùng T4 sẽ đẩy bệnh nhân vào cơn suy thượng thận cấp tử vong ngay.",
+        "Mất muối và nước liên tục qua nước tiểu kết hợp hạ huyết áp làm giảm thể tích tuần hoàn hữu dụng → Giảm áp lực tưới máu tại cầu thận và giảm mức lọc cầu thận (eGFR) → Làm tăng nồng độ Ure và Creatinin máu (tỷ lệ Ure/Creatinin tăng cao).",
+        "Mệt mỏi xuất hiện liên tục, cả về thể chất, trí óc và sinh dục, không thuyên giảm khi nghỉ ngơi."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nVì hormon giáp (T4) làm tăng tốc độ chuyển hóa cơ bản và tăng thoái giáng nồng độ cortisol dự trữ ít ỏi trong cơ thể; nếu chưa bù cortisol mà dùng T4 sẽ đẩy bệnh nhân vào cơn suy thượng thận cấp tử vong ngay.\n\n🔍 Góc nhìn chuyên sâu:\nBù Hydrocortisone trước ít nhất 3 - 5 ngày."
+    },
+    {
+      "id": "stt_card_091",
+      "text": "Tại sao bệnh nhân suy thượng thận ngoại sinh do thuốc corticoid phải cai thuốc giảm liều từ từ 2.5mg/tuần?",
+      "options": [
+        "Vì trong dịch truyền Ringer Lactate có chứa 4 mmol/L ion Kali (K+).",
+        "Để cho vùng dưới đồi và tuyến yên có đủ thời gian phục hồi lại khả năng bài tiết CRH và ACTH, giúp đánh thức mô vỏ thượng thận teo nhỏ dần dần tái tạo và tự sản xuất cortisol.",
+        "Vì cơ thể vốn đã có giảm thể tích tuần hoàn mạn tính và mất trương lực mạch do thiếu cortisol; khi bị mất nước điện giải qua đường tiêu hóa thể tích huyết tương tụt giảm nhanh chóng đẩy bệnh nhân vào sốc trụy mạch suy thượng thận cấp.",
+        "Do thiếu hụt Aldosteron làm ống lượn xa mất khả năng tái hấp thu Natri, gây mất muối liên tục qua nước tiểu → Cơ thể rơi vào trạng thái thiếu hụt natri ngoại bào mạn tính, kích hoạt các thụ thể vị giác và trung tâm vùng dưới đồi tạo cảm giác thèm ăn các đồ ăn mặn đậm đà."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nĐể cho vùng dưới đồi và tuyến yên có đủ thời gian phục hồi lại khả năng bài tiết CRH và ACTH, giúp đánh thức mô vỏ thượng thận teo nhỏ dần dần tái tạo và tự sản xuất cortisol.\n\n🔍 Góc nhìn chuyên sâu:\nQuá trình hồi phục trục HPA thường mất từ 6 tháng đến 1 năm."
+    },
+    {
+      "id": "stt_card_092",
+      "text": "Tại sao bệnh nhân Addison phải đeo vòng tay cảnh báo y tế ghi rõ bệnh lý suy thượng thận?",
+      "options": [
+        "Là biến chứng xuất huyết hoại tử hai bên tuyến thượng thận tối cấp trong bệnh cảnh nhiễm khuẩn huyết bùng phát do vi khuẩn Não mô cầu (Neisseria meningitidis), phế cầu hoặc trực khuẩn mủ xanh, gây sốc nhiễm khuẩn và suy thượng thận cấp tử vong nhanh chóng.",
+        "Vì Rifampicin là chất cảm ứng enzyme gan CYP3A4 cực mạnh, làm tăng tốc độ chuyển hóa và thải trừ Hydrocortisone qua gan gấp 2 - 3 lần làm nồng độ cortisol máu giảm sút nghiêm trọng.",
+        "Thiếu cortisol làm giảm tân tạo đường tại gan, giảm dự trữ glycogen và tăng nhạy cảm của tế bào ngoại vi với insulin.",
+        "Để khi gặp tai nạn giao thông, chấn thương hoặc hôn mê bất tỉnh, nhân viên y tế cấp cứu nhận biết được ngay bệnh nhân bị suy thượng thận để tiêm ngay Hydrocortisone liều stress cứu sống bệnh nhân."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nĐể khi gặp tai nạn giao thông, chấn thương hoặc hôn mê bất tỉnh, nhân viên y tế cấp cứu nhận biết được ngay bệnh nhân bị suy thượng thận để tiêm ngay Hydrocortisone liều stress cứu sống bệnh nhân.\n\n🔍 Góc nhìn chuyên sâu:\nLà biện pháp an toàn sinh mạng bắt buộc cho mọi bệnh nhân Addison."
+    },
+    {
+      "id": "stt_card_093",
+      "text": "Tại sao không dùng nồng độ ACTH hay Cortisol máu để chỉnh liều Hydrocortisone duy trì hàng ngày?",
+      "options": [
+        "Bệnh nhân sốc tụt HA (65/40 mmHg), lơ mơ, đau bụng dữ dội, nôn mửa sau ngừng thuốc đông y trộn dexamethasone.",
+        "Vì tổn thương nguyên phát nằm tại thùy trước tuyến yên hoặc vùng dưới đồi làm giảm sút bài tiết ACTH và POMC → Nồng độ ACTH và α-MSH trong máu rất thấp → Không kích hoạt thụ thể MC1R trên tế bào hắc tố → Da bệnh nhân không tăng sắc tố mà trắng bợt, xanh xao do kèm theo thiếu máu và giảm sắc tố.",
+        "Tiền sử băng huyết sau sinh mất sữa, vô kinh, da trắng bợt, sợ lạnh, huyết áp thấp, MRI thấy hố yên rỗng.",
+        "Vì nồng độ Cortisol máu sau khi uống thuốc dao động rất nhanh theo dược động học và nồng độ ACTH thường không bị ức chế hoàn toàn về bình thường; chỉnh liều chỉ dựa vào đáp ứng lâm sàng (hết mệt, huyết áp tư thế bình thường) và điện giải đồ (Na+, K+)."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nVì nồng độ Cortisol máu sau khi uống thuốc dao động rất nhanh theo dược động học và nồng độ ACTH thường không bị ức chế hoàn toàn về bình thường; chỉnh liều chỉ dựa vào đáp ứng lâm sàng (hết mệt, huyết áp tư thế bình thường) và điện giải đồ (Na+, K+).\n\n🔍 Góc nhìn chuyên sâu:\nTránh tăng liều quá mức dựa vào ACTH dẫn đến hội chứng Cushing do thuốc."
+    },
+    {
+      "id": "stt_card_094",
+      "text": "Dấu hiệu quá liều Glucocorticoid trong điều trị suy thượng thận thay thế?",
+      "options": [
+        "Tăng cân nhanh, mặt tròn đỏ, béo bụng, tăng huyết áp, phù nề giữ nước, tăng đường huyết, mất ngủ và loãng xương.",
+        "Vì tổn thương nguyên phát nằm tại tuyến yên (u tuyến yên, hoại tử Sheehan) hoặc do nồng độ corticoid ngoại sinh ức chế trực tiếp tuyến yên không tiết được ACTH.",
+        "Thuốc lựa chọn đầu tay: Hydrocortisone (viên 10mg).",
+        "Thiếu cortisol làm mất cơ chế ức chế tiết hormon chống bài niệu ADH từ vùng dưới đồi → Nồng độ ADH tăng cao không thích hợp làm tăng tái hấp thu nước tại ống góp."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nTăng cân nhanh, mặt tròn đỏ, béo bụng, tăng huyết áp, phù nề giữ nước, tăng đường huyết, mất ngủ và loãng xương.\n\n🔍 Góc nhìn chuyên sâu:\nCần giảm liều Hydrocortisone về mức sinh lý thấp nhất có hiệu quả."
+    },
+    {
+      "id": "stt_card_095",
+      "text": "Dấu hiệu quá liều Mineralocorticoid (Fludrocortisone) trong điều trị Addison?",
+      "options": [
+        "Cortisol sinh lý có tác dụng thúc đẩy quá trình chết theo chương trình (Apoptosis) của bạch cầu ái toan và giữ bạch cầu lympho trong tủy xương.",
+        "Vì thiếu Aldosteron đã làm thận mất khả năng bài tiết Kali, nồng độ Kali máu đang ở mức rất cao (> 5.5 - 6.5 mmol/L); truyền thêm dịch chứa Kali sẽ làm Kali máu tăng vọt đe dọa ngừng tim rung thất ngay lập tức.",
+        "Thuốc lựa chọn đầu tay: Hydrocortisone (viên 10mg).",
+        "Tăng huyết áp tư thế nằm, phù hai chi dưới do ứ dịch thể tích tuần hoàn, đau đầu, hạ Kali máu và hoạt tính Renin huyết tương (PRA) bị ức chế."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nTăng huyết áp tư thế nằm, phù hai chi dưới do ứ dịch thể tích tuần hoàn, đau đầu, hạ Kali máu và hoạt tính Renin huyết tương (PRA) bị ức chế.\n\n🔍 Góc nhìn chuyên sâu:\nCần giảm liều Fludrocortisone từ 0.1mg xuống 0.05mg/ngày."
+    },
+    {
+      "id": "stt_card_096",
+      "text": "Tại sao bệnh nhân suy thượng thận mạn tính có tim nhỏ hình giọt nước trên X-quang tim phổi?",
+      "options": [
+        "Do tự kháng thể Anti 21-hydroxylase và tế bào lympho T tự miễn thâm nhiễm phá hủy dần dần các tế bào biểu mô vỏ thượng thận và thay thế bằng mô xơ teo nhỏ.",
+        "Do mất Natri và nước mạn tính qua nước tiểu làm giảm thể tích tuần hoàn huyết tương kéo dài, dẫn đến giảm áp lực đổ đầy tâm thất và làm bóng tim co nhỏ lại.",
+        "Ngừng đột ngột sau liệu trình điều trị corticoid kéo dài (liều ≥ 20 mg Prednisolone/ngày kéo dài ≥ 3 tuần), do nồng độ corticoid ngoại sinh ức chế trục HPA làm teo vỏ thượng thận hai bên (gặp ở người uống thuốc khớp gia truyền, thuốc tễ trộn dexamethasone).",
+        "Vì cortisol sinh lý có tác dụng thúc đẩy quá trình tự chết theo chương trình của bạch cầu ái toan; khi thiếu cortisol đời sống của bạch cầu ái toan trong máu ngoại vi bị kéo dài."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nDo mất Natri và nước mạn tính qua nước tiểu làm giảm thể tích tuần hoàn huyết tương kéo dài, dẫn đến giảm áp lực đổ đầy tâm thất và làm bóng tim co nhỏ lại.\n\n🔍 Góc nhìn chuyên sâu:\nBóng tim sẽ trở về kích thước bình thường sau khi bù đủ dịch và hormon thay thế."
+    },
+    {
+      "id": "stt_card_097",
+      "text": "Phác đồ bù Hydrocortisone liều stress khi bệnh nhân suy thượng thận phải trải qua đại phẫu thuật?",
+      "options": [
+        "Trước khởi mê: Tiêm tĩnh mạch Hydrocortisone 100 mg (Bolus).",
+        "Do đột biến gen AIRE, bao gồm tam chứng:",
+        "Vì Dexamethasone là glucocorticoid tác dụng kéo dài (> 36h), hoàn toàn không có hoạt tính giữ muối nước (không có tính mineralocorticoid), làm mất nhịp sinh học và rất dễ gây tác dụng phụ teo cơ, loãng xương.",
+        "Vì khi bị ốm sốt nhiễm trùng, cơ thể người bình thường sẽ tự động tăng tiết cortisol gấp 2 - 3 lần để chống stress và duy trì trương lực mạch; bệnh nhân suy thượng thận không tự tiết được nên nếu không tăng liều sẽ bị sốc suy thượng thận cấp."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\n• Trước khởi mê: Tiêm tĩnh mạch Hydrocortisone 100 mg (Bolus).\n• Trong và 24h sau mổ: Truyền tĩnh mạch liên tục 100 - 200 mg/24h (hoặc tiêm TM 50mg mỗi 6h).\n• Giảm dần liều trong 3 - 5 ngày để trở về liều uống duy trì bình thường.\n\n🔍 Góc nhìn chuyên sâu:\nĐảm bảo huyết động ổn định trong suốt cuộc phẫu thuật lớn."
+    },
+    {
+      "id": "stt_card_098",
+      "text": "Phác đồ bù Hydrocortisone khi bệnh nhân suy thượng thận làm thủ thuật nhỏ (nhổ răng, nội soi)?",
+      "options": [
+        "Uống Hydrocortisone 20 mg trước khi làm thủ thuật 1 giờ, sau đó tăng gấp đôi liều uống trong ngày làm thủ thuật, ngày hôm sau trở lại liều duy trì bình thường.",
+        "Tiền sử điều trị lao phổi 1.5 năm trước, mệt mỏi, sạm da niêm mạc, vôi hóa 2 bên thượng thận trên CT scan.",
+        "Thuốc: Prednisolone viên 5 mg.",
+        "Chỉ định: CHỈ DÙNG trong Suy thượng thận tiên phát (Bệnh Addison)."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nUống Hydrocortisone 20 mg trước khi làm thủ thuật 1 giờ, sau đó tăng gấp đôi liều uống trong ngày làm thủ thuật, ngày hôm sau trở lại liều duy trì bình thường.\n\n🔍 Góc nhìn chuyên sâu:\nGiúp bảo vệ huyết động và phòng ngừa cơn tụt huyết áp do đau/stress."
+    },
+    {
+      "id": "stt_card_099",
+      "text": "Tại sao bệnh nhân Addison phải duy trì chế độ ăn giàu muối (Natri) hàng ngày?",
+      "options": [
+        "Ngừng đột ngột sau liệu trình điều trị corticoid kéo dài (liều ≥ 20 mg Prednisolone/ngày kéo dài ≥ 3 tuần), do nồng độ corticoid ngoại sinh ức chế trục HPA làm teo vỏ thượng thận hai bên (gặp ở người uống thuốc khớp gia truyền, thuốc tễ trộn dexamethasone).",
+        "Tiền sử điều trị lao phổi 1.5 năm trước, mệt mỏi, sạm da niêm mạc, vôi hóa 2 bên thượng thận trên CT scan.",
+        "Do thiếu Aldosteron làm ống lượn xa mất khả năng tái hấp thu Natri, gây mất muối và nước ồ ạt qua nước tiểu, làm giảm thể tích dịch ngoại bào và huyết tương.",
+        "Vì thiếu Aldosteron làm thận mất Natri liên tục qua nước tiểu; chế độ ăn giàu muối giúp bù đắp lượng muối bị mất để duy trì thể tích huyết tương và huyết áp ổn định."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nVì thiếu Aldosteron làm thận mất Natri liên tục qua nước tiểu; chế độ ăn giàu muối giúp bù đắp lượng muối bị mất để duy trì thể tích huyết tương và huyết áp ổn định.\n\n🔍 Góc nhìn chuyên sâu:\nTuyệt đối cấm khuyên bệnh nhân Addison ăn kiêng nhạt."
+    },
+    {
+      "id": "stt_card_100",
+      "text": "Tại sao bệnh nhân suy thượng thận sau điều trị triệu chứng sạm da lại mờ đi rất chậm?",
+      "options": [
+        "Tổn thương lớp cầu vỏ thượng thận làm thiếu hụt Aldosteron.",
+        "Vì các hạt sắc tố Melanin đã tích tụ sâu trong lớp biểu bì và trung bì cần thời gian thoái hóa và thay mới tế bào biểu bì rất dài qua nhiều tháng đến nhiều năm dù nồng độ ACTH đã hạ.",
+        "Phản ánh tình trạng giảm thể tích tuần hoàn huyết tương mạn tính (Microcardia) do mất muối nước kéo dài qua thận và giảm áp lực đổ đầy buồng tim.",
+        "Ngừng đột ngột sau liệu trình điều trị corticoid kéo dài (liều ≥ 20 mg Prednisolone/ngày kéo dài ≥ 3 tuần), do nồng độ corticoid ngoại sinh ức chế trục HPA làm teo vỏ thượng thận hai bên (gặp ở người uống thuốc khớp gia truyền, thuốc tễ trộn dexamethasone)."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nVì các hạt sắc tố Melanin đã tích tụ sâu trong lớp biểu bì và trung bì cần thời gian thoái hóa và thay mới tế bào biểu bì rất dài qua nhiều tháng đến nhiều năm dù nồng độ ACTH đã hạ.\n\n🔍 Góc nhìn chuyên sâu:\nCần giải thích để bệnh nhân yên tâm tiếp tục điều trị."
+    },
+    {
+      "id": "stt_card_101",
+      "text": "Tại sao không dùng Dexamethasone để điều trị duy trì thay thế cho bệnh nhân suy thượng thận?",
+      "options": [
+        "Ngừng đột ngột sau liệu trình điều trị corticoid kéo dài (liều ≥ 20 mg Prednisolone/ngày kéo dài ≥ 3 tuần), do nồng độ corticoid ngoại sinh ức chế trục HPA làm teo vỏ thượng thận hai bên (gặp ở người uống thuốc khớp gia truyền, thuốc tễ trộn dexamethasone).",
+        "Bệnh nhân sốc tụt HA (65/40 mmHg), lơ mơ, đau bụng dữ dội, nôn mửa sau ngừng thuốc đông y trộn dexamethasone.",
+        "Vì hormon giáp (T4) làm tăng tốc độ chuyển hóa cơ bản và tăng thoái giáng nồng độ cortisol dự trữ ít ỏi trong cơ thể; nếu chưa bù cortisol mà dùng T4 sẽ đẩy bệnh nhân vào cơn suy thượng thận cấp tử vong ngay.",
+        "Vì Dexamethasone là glucocorticoid tác dụng kéo dài (> 36h), hoàn toàn không có hoạt tính giữ muối nước (không có tính mineralocorticoid), làm mất nhịp sinh học và rất dễ gây tác dụng phụ teo cơ, loãng xương."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nVì Dexamethasone là glucocorticoid tác dụng kéo dài (> 36h), hoàn toàn không có hoạt tính giữ muối nước (không có tính mineralocorticoid), làm mất nhịp sinh học và rất dễ gây tác dụng phụ teo cơ, loãng xương.\n\n🔍 Góc nhìn chuyên sâu:\nHydrocortisone tác dụng ngắn (t1/2 ≈ 8 - 12h) là lựa chọn sinh lý tối ưu nhất."
+    },
+    {
+      "id": "stt_card_102",
+      "text": "Tại sao bệnh nhân dùng corticoid liều thấp dưới liều sinh lý kéo dài vẫn có nguy cơ teo thượng thận?",
+      "options": [
+        "Vì thiếu hụt cortisol cấp tính làm giảm tân tạo glucose tại gan và tăng nhạy cảm với insulin, khiến bệnh nhân thường xuyên bị hạ đường huyết nặng nề có thể gây co giật và hôn mê tổn thương não → Bắt buộc truyền dung dịch Glucose để nâng và duy trì đường huyết an toàn.",
+        "Vì sự phơi nhiễm liên tục không có thời gian nghỉ làm mất nhịp tiết sinh học tự nhiên của trục HPA, ức chế liên tục sự phân chia và dinh dưỡng của tế bào vỏ thượng thận.",
+        "Vì glucocorticoid kích thích hệ thần kinh trung ương và gây tăng đường huyết nhẹ, uống muộn vào ban đêm sẽ gây rối loạn giấc ngủ và mất ngủ kéo dài.",
+        "Luôn mang theo vòng đeo tay hoặc thẻ cảnh báo y tế ghi rõ bị suy thượng thận đang dùng thuốc."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nVì sự phơi nhiễm liên tục không có thời gian nghỉ làm mất nhịp tiết sinh học tự nhiên của trục HPA, ức chế liên tục sự phân chia và dinh dưỡng của tế bào vỏ thượng thận.\n\n🔍 Góc nhìn chuyên sâu:\nThời gian dùng thuốc quan trọng hơn mức liều đối với nguy cơ teo tuyến thượng thận."
+    },
+    {
+      "id": "stt_card_103",
+      "text": "Quy tắc điều chỉnh liều Hydrocortisone ở bệnh nhân suy thượng thận khi có thai?",
+      "options": [
+        "Liều Hydrocortisone duy trì thường tăng nhẹ khoảng 20% - 40% trong 3 tháng cuối thai kỳ do nhu cầu sinh lý tăng cao; trong quá trình chuyển dạ đẻ bắt buộc tiêm Hydrocortisone 100mg liều stress tĩnh mạch.",
+        "Thiếu cortisol làm mất cơ chế ức chế tiết hormon chống bài niệu ADH từ vùng dưới đồi → Nồng độ ADH tăng cao không thích hợp làm tăng tái hấp thu nước tại ống góp.",
+        "Do thiếu cortisol cấp tính gây giãn mạch mạc treo ruột, rối loạn tưới máu vi mạch ruột kết hợp mất muối nước nặng gây cơn co thắt cơ trơn ruột dữ dội.",
+        "Thuốc lựa chọn đầu tay: Hydrocortisone (viên 10mg)."
+      ],
+      "correct": 0,
+      "explanation": "📖 Văn bản gốc:\nLiều Hydrocortisone duy trì thường tăng nhẹ khoảng 20% - 40% trong 3 tháng cuối thai kỳ do nhu cầu sinh lý tăng cao; trong quá trình chuyển dạ đẻ bắt buộc tiêm Hydrocortisone 100mg liều stress tĩnh mạch.\n\n🔍 Góc nhìn chuyên sâu:\nFludrocortisone thường giữ nguyên liều hoặc chỉnh theo huyết áp tư thế."
+    },
+    {
+      "id": "stt_card_104",
+      "text": "Tại sao phụ nữ bị Bệnh Addison có nguy cơ sinh con nhẹ cân nếu không được điều trị đủ liều?",
+      "options": [
+        "Vì sự phơi nhiễm liên tục không có thời gian nghỉ làm mất nhịp tiết sinh học tự nhiên của trục HPA, ức chế liên tục sự phân chia và dinh dưỡng của tế bào vỏ thượng thận.",
+        "Vì thiếu hụt cortisol và tụt huyết áp mạn tính làm giảm lưu lượng máu tưới qua động mạch tử cung - nhau thai, dẫn đến thai nhi bị suy dinh dưỡng bào thai và chậm phát triển trong tử cung (IUGR).",
+        "Do đột biến gen AIRE, bao gồm tam chứng:",
+        "BẮT BUỘC ĐIỀU TRỊ SUY THƯỢNG THẬN TRƯỚC SUY GIÁP (bù Hydrocortisone trước ít nhất 3 - 5 ngày rồi mới bắt đầu dùng Levothyroxine)."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nVì thiếu hụt cortisol và tụt huyết áp mạn tính làm giảm lưu lượng máu tưới qua động mạch tử cung - nhau thai, dẫn đến thai nhi bị suy dinh dưỡng bào thai và chậm phát triển trong tử cung (IUGR).\n\n🔍 Góc nhìn chuyên sâu:\nBù đủ Hydrocortisone giúp thai nhi phát triển cân nặng bình thường."
+    },
+    {
+      "id": "stt_card_105",
+      "text": "Tại sao bệnh nhân suy thượng thận có thể xuất hiện các triệu chứng tâm thần (trầm cảm, lo âu, lú lẫn)?",
+      "options": [
+        "Bệnh nhân sốc tụt HA (65/40 mmHg), lơ mơ, đau bụng dữ dội, nôn mửa sau ngừng thuốc đông y trộn dexamethasone.",
+        "Bệnh tự miễn (Viêm thượng thận tự miễn): Chiếm 70% - 80%, kháng thể Anti 21-hydroxylase (+), liên quan HLA-B8, HLA-DW3, Nữ:Nam = 3:1, CT scan thấy teo 2 bên thượng thận.",
+        "Do thiếu cortisol trong hệ thần kinh trung ương làm suy giảm chuyển hóa năng lượng tế bào não, kết hợp với tình trạng hạ Natri máu và hạ đường huyết mạn tính.",
+        "Do tự kháng thể Anti 21-hydroxylase và tế bào lympho T tự miễn thâm nhiễm phá hủy dần dần các tế bào biểu mô vỏ thượng thận và thay thế bằng mô xơ teo nhỏ."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\nDo thiếu cortisol trong hệ thần kinh trung ương làm suy giảm chuyển hóa năng lượng tế bào não, kết hợp với tình trạng hạ Natri máu và hạ đường huyết mạn tính.\n\n🔍 Góc nhìn chuyên sâu:\nCác rối loạn tâm thần này sẽ biến mất nhanh chóng sau khi bù đủ Hydrocortisone."
+    },
+    {
+      "id": "stt_card_106",
+      "text": "Tại sao bệnh nhân suy thượng thận có thể xuất hiện cơn hạ huyết áp kịch phát sau khi bị tiêu chảy cấp?",
+      "options": [
+        "Vì tổn thương nguyên phát nằm tại thùy trước tuyến yên hoặc vùng dưới đồi làm giảm sút bài tiết ACTH và POMC → Nồng độ ACTH và α-MSH trong máu rất thấp → Không kích hoạt thụ thể MC1R trên tế bào hắc tố → Da bệnh nhân không tăng sắc tố mà trắng bợt, xanh xao do kèm theo thiếu máu và giảm sắc tố.",
+        "Vì cơ thể vốn đã có giảm thể tích tuần hoàn mạn tính và mất trương lực mạch do thiếu cortisol; khi bị mất nước điện giải qua đường tiêu hóa thể tích huyết tương tụt giảm nhanh chóng đẩy bệnh nhân vào sốc trụy mạch suy thượng thận cấp.",
+        "Luôn mang theo vòng đeo tay hoặc thẻ cảnh báo y tế ghi rõ bị suy thượng thận đang dùng thuốc.",
+        "Vì thiếu Aldosteron làm thận mất Natri liên tục qua nước tiểu; chế độ ăn giàu muối giúp bù đắp lượng muối bị mất để duy trì thể tích huyết tương và huyết áp ổn định."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nVì cơ thể vốn đã có giảm thể tích tuần hoàn mạn tính và mất trương lực mạch do thiếu cortisol; khi bị mất nước điện giải qua đường tiêu hóa thể tích huyết tương tụt giảm nhanh chóng đẩy bệnh nhân vào sốc trụy mạch suy thượng thận cấp.\n\n🔍 Góc nhìn chuyên sâu:\nPhải tiêm bắp Hydrocortisone 100mg và truyền bù dịch ngay khi bị tiêu chảy."
+    },
+    {
+      "id": "stt_card_107",
+      "text": "Kháng nguyên HLA nào liên quan mật thiết nhất với Bệnh Addison tự miễn?",
+      "options": [
+        "Thiếu cortisol làm giảm tân tạo đường tại gan, giảm dự trữ glycogen và tăng nhạy cảm của tế bào ngoại vi với insulin.",
+        "Bệnh Addison tự miễn liên quan chặt chẽ với các kháng nguyên bạch cầu người HLA-B8, HLA-DW3, HLA-DR3 và HLA-DR4.",
+        "Suy tuyến thượng thận là tình trạng bệnh lý xảy ra do vỏ tuyến thượng thận giảm sản xuất và bài tiết các hormon sinh tồn vào máu, chủ yếu là hormon glucocorticoid (Cortisol), trong nhiều trường hợp kèm theo thiếu hụt mineralocorticoid (Aldosteron) và hormon sinh dục (Androgen thượng thận).",
+        "Trước khởi mê: Tiêm tĩnh mạch Hydrocortisone 100 mg (Bolus)."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nBệnh Addison tự miễn liên quan chặt chẽ với các kháng nguyên bạch cầu người HLA-B8, HLA-DW3, HLA-DR3 và HLA-DR4.\n\n🔍 Góc nhìn chuyên sâu:\nGiải thích tính chất gia đình và sự kết hợp với các bệnh tự miễn khác như ĐTĐ 1, Basedow, Hashimoto."
+    },
+    {
+      "id": "stt_card_108",
+      "text": "Thời điểm xét nghiệm đánh giá định kỳ cho bệnh nhân suy thượng thận điều trị duy trì?",
+      "options": [
+        "Do mất Natri và nước mạn tính qua nước tiểu làm giảm thể tích tuần hoàn huyết tương kéo dài, dẫn đến giảm áp lực đổ đầy tâm thất và làm bóng tim co nhỏ lại.",
+        "Tiền sử điều trị lao phổi 1.5 năm trước, mệt mỏi, sạm da niêm mạc, vôi hóa 2 bên thượng thận trên CT scan.",
+        "Thiếu Cortisol: Giảm tính nhạy cảm của thụ thể α1-adrenergic trên thành mạch với Catecholamine → Giãn mạch ngoại vi.",
+        "Khám lâm sàng đo huyết áp tư thế nằm và đứng, xét nghiệm Điện giải đồ (Na+, K+), Glucose máu đói và chức năng thận định kỳ mỗi 3 đến 6 tháng."
+      ],
+      "correct": 3,
+      "explanation": "📖 Văn bản gốc:\nKhám lâm sàng đo huyết áp tư thế nằm và đứng, xét nghiệm Điện giải đồ (Na+, K+), Glucose máu đói và chức năng thận định kỳ mỗi 3 đến 6 tháng.\n\n🔍 Góc nhìn chuyên sâu:\nĐánh giá dấu hiệu thiếu liều (mệt mỏi, sạm da, tụt HA) hoặc thừa liều (tăng cân, phù, tăng HA)."
+    },
+    {
+      "id": "stt_card_109",
+      "text": "Tiêu chuẩn phục hồi hoàn toàn trục HPA sau cai corticoid ngoại sinh?",
+      "options": [
+        "Vì thiếu Aldosteron đã làm thận mất khả năng bài tiết Kali, nồng độ Kali máu đang ở mức rất cao (> 5.5 - 6.5 mmol/L); truyền thêm dịch chứa Kali sẽ làm Kali máu tăng vọt đe dọa ngừng tim rung thất ngay lập tức.",
+        "Tiền sử điều trị lao phổi 1.5 năm trước, mệt mỏi, sạm da niêm mạc, vôi hóa 2 bên thượng thận trên CT scan.",
+        "Nồng độ Cortisol máu 8h sáng tự nhiên > 275 nmol/L (> 10 mcg/dL).",
+        "Vì cơ thể vốn đã có giảm thể tích tuần hoàn mạn tính và mất trương lực mạch do thiếu cortisol; khi bị mất nước điện giải qua đường tiêu hóa thể tích huyết tương tụt giảm nhanh chóng đẩy bệnh nhân vào sốc trụy mạch suy thượng thận cấp."
+      ],
+      "correct": 2,
+      "explanation": "📖 Văn bản gốc:\n1. Nồng độ Cortisol máu 8h sáng tự nhiên > 275 nmol/L (> 10 mcg/dL).\n2. Làm test kích thích Synacthen nhanh (250 mcg): Nồng độ Cortisol máu sau tiêm tăng vọt > 500 – 550 nmol/L (> 18 - 20 mcg/dL).\n\n🔍 Góc nhìn chuyên sâu:\nĐủ điều kiện để ngừng thuốc glucocorticoid hoàn toàn mà không sợ suy thượng thận cấp."
+    },
+    {
+      "id": "stt_card_110",
+      "text": "Tại sao bệnh nhân suy thượng thận không nên ăn quá nhiều thực phẩm chứa hàm lượng Kali cao?",
+      "options": [
+        "BÌNH THƯỜNG: Nồng độ Cortisol máu sau 30 hoặc 60 phút tăng vọt > 500 – 550 nmol/L (> 18 - 20 mcg/dL) hoặc tăng ít nhất 170 nmol/L so với trước tiêm → Loại trừ suy thượng thận.",
+        "Vì ở bệnh nhân Bệnh Addison chưa được bù đủ Fludrocortisone, thận bị giảm khả năng đào thải Kali; ăn quá nhiều đồ giàu Kali (chuối tiêu, cam, nước dừa, khoai lang) có thể làm Kali máu tăng vọt gây loạn nhịp tim.",
+        "Ở phụ nữ, nguồn cung cấp androgen chủ yếu xuất phát từ lớp lưới của vỏ tuyến thượng thận (DHEA, DHEA-S).",
+        "Bệnh nhân xuất hiện tăng huyết áp, phù hai chi dưới do ứ dịch thể tích tuần hoàn, đau đầu, hạ Kali máu và hoạt tính Renin huyết tương (PRA) bị ức chế hoàn toàn → Cần giảm liều Fludrocortisone (ví dụ từ 0.1mg xuống 0.05mg/ngày)."
+      ],
+      "correct": 1,
+      "explanation": "📖 Văn bản gốc:\nVì ở bệnh nhân Bệnh Addison chưa được bù đủ Fludrocortisone, thận bị giảm khả năng đào thải Kali; ăn quá nhiều đồ giàu Kali (chuối tiêu, cam, nước dừa, khoai lang) có thể làm Kali máu tăng vọt gây loạn nhịp tim.\n\n🔍 Góc nhìn chuyên sâu:\nChế độ ăn cần cân đối khi nồng độ Kali máu chưa ổn định."
+    }
+  ]
+}

@@ -1,0 +1,1705 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MedMCQ Pro - Trình Thi Trắc Nghiệm Y Khoa & Quản Lý Đề</title>
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Inter', 'sans-serif'],
+            mono: ['JetBrains Mono', 'monospace'],
+          },
+          colors: {
+            brand: {
+              50: '#f0fdf4',
+              100: '#dcfce7',
+              500: '#22c55e',
+              600: '#16a34a',
+              700: '#15803d',
+              800: '#166534',
+            },
+            clinical: {
+              50: '#f8fafc',
+              100: '#f1f5f9',
+              200: '#e2e8f0',
+              500: '#0284c7',
+              600: '#0369a1',
+              700: '#075985',
+              800: '#0c4a6e',
+              900: '#0f172a',
+            }
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    .eliminated {
+      text-decoration: line-through;
+      opacity: 0.45;
+      background-color: #f1f5f9 !important;
+      border-color: #cbd5e1 !important;
+    }
+    .prose-content p { margin-bottom: 0.5rem; }
+    /* Custom scrollbars */
+    ::-webkit-scrollbar { width: 6px; height: 6px; }
+    ::-webkit-scrollbar-track { background: #f1f5f9; }
+    ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 4px; }
+    ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
+  </style>
+</head>
+<body class="bg-slate-50 text-slate-800 font-sans min-h-screen flex flex-col antialiased selection:bg-clinical-500 selection:text-white">
+
+  <!-- TOP NAVIGATION BAR -->
+  <header class="bg-white border-b border-slate-200 sticky top-0 z-40 shadow-xs">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
+      <div class="flex items-center space-x-3 cursor-pointer" onclick="app.showTab('banks')">
+        <div class="w-10 h-10 rounded-xl bg-gradient-to-tr from-clinical-600 to-teal-500 flex items-center justify-center text-white font-bold text-xl shadow-md shadow-clinical-500/20">
+          ⚕
+        </div>
+        <div>
+          <span class="text-lg font-extrabold tracking-tight text-slate-900 flex items-center gap-1.5">
+            MedMCQ <span class="text-xs px-2 py-0.5 rounded-full bg-clinical-100 text-clinical-700 font-semibold border border-clinical-200">PRO RUNNER</span>
+          </span>
+          <p class="text-xs text-slate-500 hidden sm:block">Trình luyện thi & Quản lý ngân hàng trắc nghiệm Y khoa</p>
+        </div>
+      </div>
+
+      <!-- Sync & Action Bar -->
+      <div class="flex items-center gap-2">
+        <div id="sync-status-box" class="flex items-center gap-1.5 px-3 py-1.5 rounded-xl border border-slate-200 bg-slate-50 text-xs font-semibold text-slate-600 transition-all">
+          <span id="sync-indicator-dot" class="w-2.5 h-2.5 rounded-full bg-amber-400"></span>
+          <span id="sync-status-text" class="hidden md:inline">Chưa liên kết file</span>
+          <button id="btn-connect-file" onclick="app.connectSyncFile()" class="ml-1 text-clinical-600 hover:text-clinical-800 font-bold hover:underline">
+            🔗 Chọn file sync
+          </button>
+          <button id="btn-sync-now" onclick="app.syncNow()" class="hidden ml-1 text-brand-600 hover:text-brand-800 font-bold hover:underline" title="Ghi đè dữ liệu mới nhất vào file">
+            🔄 Sync ngay
+          </button>
+        </div>
+
+        <!-- Main Navigation Tabs -->
+        <nav class="flex items-center gap-1 sm:gap-2">
+          <button id="nav-banks" onclick="app.showTab('banks')" class="px-3 sm:px-4 py-2 rounded-lg text-sm font-semibold transition-all flex items-center gap-2 bg-clinical-50 text-clinical-700 border border-clinical-200 shadow-xs">
+            <span>📚</span> <span class="hidden sm:inline">Ngân hàng đề</span>
+          </button>
+          <button id="nav-create" onclick="app.showTab('create')" class="px-3 sm:px-4 py-2 rounded-lg text-sm font-medium text-slate-600 hover:bg-slate-100 hover:text-slate-900 transition-all flex items-center gap-2">
+            <span>✍️</span> <span class="hidden sm:inline">Tạo / Nhập đề</span>
+          </button>
+          <button id="nav-history" onclick="app.showTab('history')" class="px-3 sm:px-4 py-2 rounded-lg text-sm font-medium text-slate-600 hover:bg-slate-100 hover:text-slate-900 transition-all flex items-center gap-2">
+            <span>📊</span> <span class="hidden sm:inline">Lịch sử làm bài</span>
+          </button>
+        </nav>
+      </div>
+  </header>
+
+  <!-- MAIN CONTAINER -->
+  <main class="flex-1 max-w-7xl w-full mx-auto p-4 sm:p-6 lg:p-8">
+
+    <!-- ================= TAB 1: QUESTION BANKS (HOME) ================= -->
+    <section id="tab-banks" class="space-y-6">
+      <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 bg-gradient-to-r from-slate-900 to-clinical-900 text-white p-6 rounded-2xl shadow-lg">
+        <div>
+          <h1 class="text-2xl font-bold tracking-tight">Ngân hàng câu hỏi trắc nghiệm</h1>
+          <p class="text-slate-300 text-sm mt-1">Chọn một bộ câu hỏi để bắt đầu luyện tập (Tutor Mode) hoặc thi thử (Exam Mode).</p>
+        </div>
+        <div class="flex items-center gap-3">
+          <button onclick="app.showTab('create')" class="px-4 py-2.5 bg-clinical-500 hover:bg-clinical-600 text-white font-semibold rounded-xl text-sm transition-all flex items-center gap-2 shadow-md hover:shadow-lg">
+            <span>+ Nhập đề mới</span>
+          </button>
+          <button onclick="app.exportAllBanks()" title="Tải về toàn bộ ngân hàng câu hỏi" class="px-3.5 py-2.5 bg-white/10 hover:bg-white/20 text-white font-medium rounded-xl text-sm transition-all border border-white/20 flex items-center gap-2">
+            <span>💾 Backup tất cả</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Bank List Grid -->
+      <div id="bank-list" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <!-- Injected via JS -->
+      </div>
+    </section>
+
+
+    <!-- ================= TAB 2: CREATE / IMPORT QUESTIONS ================= -->
+    <section id="tab-create" class="hidden space-y-6 max-w-4xl mx-auto">
+      <div class="bg-white p-6 sm:p-8 rounded-2xl border border-slate-200 shadow-sm space-y-6">
+        <div class="border-b border-slate-100 pb-4">
+          <h2 class="text-xl font-bold text-slate-900 flex items-center gap-2">
+            <span>✍️</span> Tạo & Nhập Ngân Hàng Câu Hỏi Mới
+          </h2>
+          <p class="text-sm text-slate-500 mt-1">Hỗ trợ dán văn bản tự nhiên (AI parse tự động) hoặc tải file JSON có sẵn.</p>
+        </div>
+
+        <!-- Meta info -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+          <div>
+            <label class="block text-xs font-bold uppercase tracking-wider text-slate-600 mb-1.5">Tên bộ câu hỏi <span class="text-red-500">*</span></label>
+            <input id="bank-input-title" type="text" placeholder="VD: Bệnh học Tim mạch - Suy tim cấp" class="w-full px-4 py-2.5 rounded-xl border border-slate-300 text-sm focus:ring-2 focus:ring-clinical-500 focus:border-clinical-500 outline-none">
+          </div>
+          <div>
+            <label class="block text-xs font-bold uppercase tracking-wider text-slate-600 mb-1.5">Mô tả tóm tắt</label>
+            <input id="bank-input-desc" type="text" placeholder="VD: 20 câu trắc nghiệm chẩn đoán & điều trị theo ESC 2023" class="w-full px-4 py-2.5 rounded-xl border border-slate-300 text-sm focus:ring-2 focus:ring-clinical-500 focus:border-clinical-500 outline-none">
+          </div>
+        </div>
+
+        <!-- Import Mode Toggle -->
+        <div>
+          <div class="flex items-center justify-between mb-2">
+            <label class="block text-xs font-bold uppercase tracking-wider text-slate-600">Nội dung câu hỏi</label>
+            <div class="flex items-center gap-2 text-xs">
+              <button type="button" onclick="app.loadCushingSampleToInput()" class="text-clinical-600 hover:text-clinical-800 font-semibold underline">Dán mẫu Cushing</button>
+              <span class="text-slate-300">|</span>
+              <label class="text-clinical-600 hover:text-clinical-800 font-semibold cursor-pointer">
+                <span>📁 Tải từ file .JSON / .TXT</span>
+                <input type="file" id="file-import-input" accept=".json,.txt" class="hidden" onchange="app.handleFileImport(event)">
+              </label>
+            </div>
+          </div>
+
+          <!-- Raw Input Textarea -->
+          <textarea id="bank-input-raw" rows="14" placeholder="Dán nội dung câu hỏi tại đây theo định dạng tự nhiên:
+
+Câu 1: Bệnh Addison do tổn thương lớp nào của vỏ thượng thận?
+A. Lớp cầu (Zona glomerulosa)
+B. Lớp bó (Zona fasciculata)
+C. Toàn bộ vỏ thượng thận
+D. Tủy thượng thận
+Đáp án: C
+Giải thích: Bệnh Addison là suy vỏ thượng thận nguyên phát, phá hủy toàn bộ các lớp của vỏ thượng thận.
+
+Câu 2: ..." class="w-full p-4 font-mono text-sm rounded-xl border border-slate-300 bg-slate-50 focus:bg-white focus:ring-2 focus:ring-clinical-500 focus:border-clinical-500 outline-none transition-all"></textarea>
+        </div>
+
+        <!-- Actions -->
+        <div class="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-slate-100">
+          <div class="text-xs text-slate-500">
+            💡 Parser nhận diện tự động: <code>Câu 1: ...</code>, <code>A. B. C. D.</code>, <code>Đáp án: ...</code>, <code>Giải thích: ...</code>
+          </div>
+          <div class="flex items-center gap-3 w-full sm:w-auto">
+            <button type="button" onclick="app.previewParsedQuestions()" class="w-full sm:w-auto px-4 py-2.5 rounded-xl border border-slate-300 hover:bg-slate-50 text-slate-700 font-semibold text-sm transition-all">
+              🔍 Xem trước (Preview)
+            </button>
+            <button type="button" onclick="app.saveNewBank()" class="w-full sm:w-auto px-5 py-2.5 rounded-xl bg-clinical-600 hover:bg-clinical-700 text-white font-semibold text-sm shadow-md transition-all">
+              💾 Lưu Ngân Hàng Đề
+            </button>
+          </div>
+        </div>
+
+        <!-- Preview Modal Container -->
+        <div id="parse-preview-box" class="hidden bg-slate-50 p-4 rounded-xl border border-slate-200 space-y-4">
+          <!-- Injected via JS -->
+        </div>
+      </div>
+    </section>
+
+
+    <!-- ================= TAB 3: QUIZ EXECUTION RUNNER ================= -->
+    <section id="tab-quiz" class="hidden space-y-6">
+
+      <!-- Quiz Header & Controller Bar -->
+      <div class="bg-white border border-slate-200 rounded-2xl p-4 sm:p-5 shadow-xs flex flex-wrap items-center justify-between gap-4 sticky top-20 z-30">
+        <div class="flex items-center gap-3">
+          <button onclick="quizEngine.exitQuizPrompt()" class="p-2 rounded-lg hover:bg-slate-100 text-slate-500 hover:text-slate-800 transition-colors" title="Thoát bài thi">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>
+          </button>
+          <div>
+            <h2 id="quiz-bank-title" class="font-bold text-slate-900 text-base sm:text-lg leading-tight truncate max-w-xs sm:max-w-md">Tên Bộ Đề</h2>
+            <div class="flex items-center gap-2 text-xs text-slate-500 mt-0.5">
+              <span id="quiz-mode-badge" class="px-2 py-0.5 rounded-md font-semibold">TUTOR MODE</span>
+              <span>•</span>
+              <span id="quiz-progress-text">Câu 1 / 10</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Timer & Controls -->
+        <div class="flex items-center gap-3 ml-auto">
+          <!-- Timer box -->
+          <div id="quiz-timer-box" class="flex items-center gap-2 px-3 py-1.5 bg-slate-100 border border-slate-200 rounded-xl font-mono text-sm font-semibold text-slate-700">
+            <span>⏱️</span>
+            <span id="quiz-timer-display">00:00</span>
+          </div>
+
+          <!-- Flag Question button -->
+          <button id="quiz-flag-btn" onclick="quizEngine.toggleFlag()" class="px-3 py-1.5 rounded-xl border border-slate-200 hover:border-amber-300 hover:bg-amber-50 text-slate-600 hover:text-amber-700 text-xs font-semibold flex items-center gap-1.5 transition-all">
+            <span id="quiz-flag-icon">🚩</span> <span class="hidden sm:inline">Cờ xem lại</span>
+          </button>
+
+          <!-- Finish / Submit button -->
+          <button onclick="quizEngine.submitQuiz()" class="px-4 py-1.5 rounded-xl bg-brand-600 hover:bg-brand-700 text-white font-semibold text-xs shadow-sm transition-all">
+            Nộp bài
+          </button>
+        </div>
+      </div>
+
+      <!-- Quiz Body Layout: 2 Columns (Question Card + Question Matrix Nav) -->
+      <div class="grid grid-cols-1 lg:grid-cols-4 gap-6">
+
+        <!-- Question View Panel (Left 3 cols) -->
+        <div class="lg:col-span-3 space-y-6">
+          <div class="bg-white border border-slate-200 rounded-2xl p-6 sm:p-8 shadow-sm space-y-6">
+
+            <!-- Question Number & Status -->
+            <div class="flex items-center justify-between border-b border-slate-100 pb-4">
+              <div class="flex items-center gap-2">
+                <span class="px-3 py-1 bg-clinical-100 text-clinical-800 rounded-lg text-xs font-extrabold uppercase tracking-wider">
+                  Câu hỏi <span id="current-q-index">1</span>
+                </span>
+                <span id="current-q-flag-indicator" class="hidden px-2 py-0.5 bg-amber-100 text-amber-800 rounded text-xs font-semibold">🚩 Đã gắn cờ</span>
+              </div>
+              <div class="text-xs text-slate-400 font-medium">
+                Phím tắt: [1-4] hoặc [A-D] chọn, [←] [→] chuyển câu
+              </div>
+            </div>
+
+            <!-- Question Stem -->
+            <div id="current-q-text" class="text-base sm:text-lg font-semibold text-slate-900 leading-relaxed">
+              Nội dung câu hỏi...
+            </div>
+
+            <!-- Options List (A, B, C, D) -->
+            <div id="current-q-options" class="space-y-3">
+              <!-- Rendered via JS -->
+            </div>
+
+            <!-- Feedback & Explanation (for Tutor mode or after submit) -->
+            <div id="current-q-explanation-box" class="hidden p-5 rounded-2xl border space-y-3 transition-all">
+              <div class="flex items-center gap-2 font-bold text-sm" id="explanation-status-header">
+                <!-- Status icon + text -->
+              </div>
+              <div class="text-sm text-slate-700 leading-relaxed" id="current-q-explanation-text">
+                <!-- Explanation text -->
+              </div>
+            </div>
+
+            <!-- Bottom Navigation Bar -->
+            <div class="flex items-center justify-between pt-4 border-t border-slate-100">
+              <button id="btn-prev-q" onclick="quizEngine.prevQuestion()" class="px-4 py-2 rounded-xl border border-slate-200 hover:bg-slate-50 text-slate-700 text-sm font-semibold flex items-center gap-2 transition-all">
+                <span>←</span> Câu trước
+              </button>
+              <span class="text-xs text-slate-500 font-medium hidden sm:inline" id="quick-counter">Câu 1 trên 8</span>
+              <button id="btn-next-q" onclick="quizEngine.nextQuestion()" class="px-5 py-2 rounded-xl bg-clinical-600 hover:bg-clinical-700 text-white text-sm font-semibold flex items-center gap-2 shadow-xs transition-all">
+                Câu tiếp theo <span>→</span>
+              </button>
+            </div>
+
+          </div>
+        </div>
+
+        <!-- Question Matrix & Navigation (Right 1 col) -->
+        <div class="space-y-6">
+          <div class="bg-white border border-slate-200 rounded-2xl p-5 shadow-sm space-y-4">
+            <h3 class="font-bold text-slate-800 text-sm flex items-center justify-between">
+              <span>Bảng câu hỏi</span>
+              <span id="matrix-answered-count" class="text-xs font-semibold text-clinical-600 bg-clinical-50 px-2 py-0.5 rounded-full">0/0 Đã chọn</span>
+            </h3>
+
+            <!-- Grid of Buttons -->
+            <div id="question-matrix-grid" class="grid grid-cols-5 gap-2 max-h-72 overflow-y-auto p-1">
+              <!-- Injected via JS -->
+            </div>
+
+            <!-- Legend -->
+            <div class="pt-3 border-t border-slate-100 space-y-1.5 text-xs text-slate-500">
+              <div class="flex items-center gap-2">
+                <span class="w-3.5 h-3.5 rounded bg-clinical-600 border border-clinical-700"></span>
+                <span>Đã trả lời</span>
+              </div>
+              <div class="flex items-center gap-2">
+                <span class="w-3.5 h-3.5 rounded bg-white border border-slate-300"></span>
+                <span>Chưa trả lời</span>
+              </div>
+              <div class="flex items-center gap-2">
+                <span class="w-3.5 h-3.5 rounded bg-amber-100 border border-amber-400"></span>
+                <span>Đã gắn cờ xem lại (🚩)</span>
+              </div>
+            </div>
+
+            <!-- Strike-through helper info -->
+            <div class="pt-3 border-t border-slate-100 text-xs text-slate-500 leading-normal">
+              💡 <strong>Mẹo:</strong> Bấm biểu tượng <span class="font-mono text-rose-500 font-bold">✕</span> bên cạnh đáp án để gạch bỏ các phương án loại trừ.
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+
+    <!-- ================= TAB 4: QUIZ RESULT SUMMARY ================= -->
+    <section id="tab-result" class="hidden max-w-4xl mx-auto space-y-6">
+      <div class="bg-white border border-slate-200 rounded-3xl p-6 sm:p-10 shadow-sm text-center space-y-6">
+        <div class="w-20 h-20 rounded-3xl bg-brand-50 border border-brand-200 text-brand-600 flex items-center justify-center text-3xl mx-auto shadow-inner" id="result-badge-icon">
+          🏆
+        </div>
+        
+        <div class="space-y-2">
+          <h2 class="text-2xl sm:text-3xl font-black text-slate-900" id="result-title">Hoàn thành bài thi!</h2>
+          <p class="text-slate-500 text-sm" id="result-subtitle">Bộ câu hỏi: Bệnh Addison & Rối loạn Tuyến Thượng Thận</p>
+        </div>
+
+        <!-- Score metric cards -->
+        <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 max-w-2xl mx-auto">
+          <div class="p-4 rounded-2xl bg-slate-50 border border-slate-200">
+            <div class="text-2xl font-black text-slate-900" id="result-score-percent">85%</div>
+            <div class="text-xs font-semibold text-slate-500 uppercase tracking-wider mt-1">Độ chính xác</div>
+          </div>
+          <div class="p-4 rounded-2xl bg-slate-50 border border-slate-200">
+            <div class="text-2xl font-black text-brand-600" id="result-correct-count">7/8</div>
+            <div class="text-xs font-semibold text-slate-500 uppercase tracking-wider mt-1">Số câu đúng</div>
+          </div>
+          <div class="p-4 rounded-2xl bg-slate-50 border border-slate-200">
+            <div class="text-2xl font-black text-rose-600" id="result-incorrect-count">1/8</div>
+            <div class="text-xs font-semibold text-slate-500 uppercase tracking-wider mt-1">Số câu sai</div>
+          </div>
+          <div class="p-4 rounded-2xl bg-slate-50 border border-slate-200">
+            <div class="text-2xl font-black text-slate-900" id="result-time-taken">03:42</div>
+            <div class="text-xs font-semibold text-slate-500 uppercase tracking-wider mt-1">Thời gian làm</div>
+          </div>
+        </div>
+
+        <!-- Action buttons -->
+        <div class="flex flex-wrap items-center justify-center gap-3 pt-4">
+          <button onclick="quizEngine.reviewFullAttempt()" class="px-5 py-2.5 rounded-xl bg-clinical-600 hover:bg-clinical-700 text-white font-semibold text-sm shadow-md transition-all">
+            📖 Xem lại chi tiết từng câu
+          </button>
+          <button onclick="quizEngine.retakeQuiz()" class="px-5 py-2.5 rounded-xl border border-slate-300 hover:bg-slate-50 text-slate-700 font-semibold text-sm transition-all">
+            🔄 Làm lại đề này
+          </button>
+          <button onclick="app.showTab('banks')" class="px-5 py-2.5 rounded-xl border border-slate-300 hover:bg-slate-50 text-slate-700 font-semibold text-sm transition-all">
+            📚 Về danh sách đề
+          </button>
+        </div>
+      </div>
+
+      <!-- Detail Question Review Section (Collapsible list) -->
+      <div id="result-review-list" class="space-y-4">
+        <!-- Injected via JS -->
+      </div>
+    </section>
+
+
+    <!-- ================= TAB 5: ATTEMPTS HISTORY ================= -->
+    <section id="tab-history" class="hidden space-y-6 max-w-5xl mx-auto">
+      <div class="flex items-center justify-between">
+        <div>
+          <h2 class="text-xl font-bold text-slate-900">Lịch sử bài làm & Báo cáo kết quả</h2>
+          <p class="text-sm text-slate-500">Xem lại các lần làm bài, tiến độ ôn tập và độ chính xác của bạn.</p>
+        </div>
+        <div class="flex items-center gap-2">
+          <button onclick="app.exportHistoryJson()" class="px-3.5 py-2 rounded-xl border border-slate-200 bg-white hover:bg-slate-50 text-slate-700 text-xs font-semibold shadow-2xs">
+            💾 Xuất file lịch sử
+          </button>
+          <button onclick="app.clearHistory()" class="px-3.5 py-2 rounded-xl border border-rose-200 bg-rose-50 hover:bg-rose-100 text-rose-700 text-xs font-semibold">
+            🗑️ Xóa lịch sử
+          </button>
+        </div>
+      </div>
+
+      <!-- History Table / Cards -->
+      <div id="history-container" class="space-y-3">
+        <!-- Injected via JS -->
+      </div>
+    </section>
+
+  </main>
+
+  <!-- START QUIZ CONFIG MODAL -->
+  <div id="quiz-config-modal" class="fixed inset-0 bg-slate-900/60 backdrop-blur-xs flex items-center justify-center p-4 z-50 hidden">
+    <div class="bg-white rounded-3xl max-w-md w-full p-6 sm:p-8 space-y-6 shadow-2xl border border-slate-100">
+      <div>
+        <div class="flex items-center justify-between">
+          <span class="px-3 py-1 bg-clinical-100 text-clinical-800 rounded-full text-xs font-bold uppercase tracking-wider" id="modal-bank-badge">Ngân hàng đề</span>
+          <button onclick="app.closeConfigModal()" class="text-slate-400 hover:text-slate-600 text-xl font-bold">&times;</button>
+        </div>
+        <h3 class="text-xl font-bold text-slate-900 mt-2" id="modal-bank-title">Tên bộ câu hỏi</h3>
+        <p class="text-xs text-slate-500 mt-1" id="modal-bank-desc">Mô tả bộ câu hỏi</p>
+      </div>
+
+      <!-- Options -->
+      <div class="space-y-4">
+        <div>
+          <label class="block text-xs font-bold uppercase tracking-wider text-slate-600 mb-2">Chế độ làm bài</label>
+          <div class="grid grid-cols-2 gap-3">
+            <label class="cursor-pointer border-2 border-clinical-600 bg-clinical-50/60 rounded-2xl p-3.5 flex flex-col gap-1 transition-all has-[:checked]:border-clinical-600 has-[:checked]:bg-clinical-50">
+              <div class="flex items-center justify-between">
+                <span class="font-bold text-sm text-slate-900">Luyện tập (Tutor)</span>
+                <input type="radio" name="quiz-mode" value="tutor" checked class="accent-clinical-600">
+              </div>
+              <span class="text-xs text-slate-500 leading-tight">Hiện đáp án & giải thích ngay sau khi chọn.</span>
+            </label>
+            <label class="cursor-pointer border-2 border-slate-200 hover:border-slate-300 rounded-2xl p-3.5 flex flex-col gap-1 transition-all has-[:checked]:border-clinical-600 has-[:checked]:bg-clinical-50">
+              <div class="flex items-center justify-between">
+                <span class="font-bold text-sm text-slate-900">Thi thử (Exam)</span>
+                <input type="radio" name="quiz-mode" value="exam" class="accent-clinical-600">
+              </div>
+              <span class="text-xs text-slate-500 leading-tight">Chỉ hiện kết quả và giải thích khi nộp bài.</span>
+            </label>
+          </div>
+        </div>
+
+        <div class="space-y-2 pt-2 border-t border-slate-100">
+          <label class="flex items-center gap-2.5 text-xs text-slate-700 cursor-pointer">
+            <input type="checkbox" id="cfg-shuffle-questions" checked class="w-4 h-4 rounded text-clinical-600 accent-clinical-600">
+            <span>Xáo trộn ngẫu nhiên thứ tự câu hỏi</span>
+          </label>
+          <label class="flex items-center gap-2.5 text-xs text-slate-700 cursor-pointer">
+            <input type="checkbox" id="cfg-shuffle-options" checked class="w-4 h-4 rounded text-clinical-600 accent-clinical-600">
+            <span>Xáo trộn ngẫu nhiên các lựa chọn (A, B, C, D)</span>
+          </label>
+        </div>
+      </div>
+
+      <div class="flex items-center justify-end gap-3 pt-2">
+        <button onclick="app.closeConfigModal()" class="px-4 py-2.5 rounded-xl border border-slate-200 text-slate-600 hover:bg-slate-50 text-sm font-semibold">
+          Hủy
+        </button>
+        <button onclick="quizEngine.startQuizFromModal()" class="px-6 py-2.5 rounded-xl bg-clinical-600 hover:bg-clinical-700 text-white font-semibold text-sm shadow-md">
+          Bắt đầu làm bài
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <footer class="bg-white border-t border-slate-200 py-6 mt-12 text-center text-xs text-slate-400">
+    <p>MedMCQ Pro Runner • Dữ liệu lưu trữ an toàn trực tiếp trên trình duyệt (LocalStorage) • Hoạt động 100% Offline</p>
+  </footer>
+
+  <!-- JAVASCRIPT APPLICATION LOGIC -->
+  <script>
+    /* ==========================================================
+       SAMPLE BANKS DATA (PRELOADED)
+       ========================================================== */
+    const DEFAULT_BANKS = [
+      {
+        id: "bank_addison_001",
+        title: "Bệnh Addison & Tuyến Thượng Thận",
+        description: "Bộ 8 câu hỏi chuyên sâu về suy vỏ thượng thận nguyên phát, chẩn đoán, phác đồ phối hợp thuốc và cơ chế bệnh sinh.",
+        createdAt: "2026-09-04T12:00:00.000Z",
+        questions: [
+          {
+            id: "q1",
+            text: "Bệnh nhân mắc bệnh Addison (suy vỏ thượng thận nguyên phát) có chỉ định điều trị thay thế hormone mạn tính tiêu chuẩn nào sau đây?",
+            options: [
+              "Chỉ cần dùng Hydrocortisone đơn độc",
+              "Hydrocortisone phối hợp với Fludrocortisone (Florinef)",
+              "Chỉ dùng Fludrocortisone đơn độc",
+              "Dexamethasone phối hợp với Spironolactone"
+            ],
+            correct: 1,
+            explanation: "Trong bệnh Addison, toàn bộ vỏ thượng thận bị phá hủy dẫn đến thiếu đồng thời cả Cortisol (lớp bó) và Aldosterone (lớp cầu). Ở liều sinh lý hàng ngày (15-25 mg), Hydrocortisone không đủ hoạt tính giữ muối nước để bù cho lượng Aldosterone thiếu hụt, do đó bắt buộc phải phối hợp Hydrocortisone + Fludrocortisone (Florinef 0.05 - 0.2 mg/ngày)."
+          },
+          {
+            id: "q2",
+            text: "Hiện tượng tụt huyết áp tư thế ở bệnh nhân Addison xuất hiện chủ yếu do cơ chế phối hợp nào?",
+            options: [
+              "Tăng nồng độ ACTH và giãn mạch toàn thân",
+              "Thiếu Aldosterone gây giảm thể tích tuần hoàn và thiếu Cortisol làm trơ thụ thể alpha-1 với catecholamine",
+              "Cường phó giao cảm và tăng tiết acetylcholine tại thụ thể muscarinic",
+              "Tăng canxi máu gây rối loạn dẫn truyền cơ tim và ức chế co bóp thất trái"
+            ],
+            correct: 1,
+            explanation: "Tụt huyết áp tư thế trong bệnh Addison là do 2 cơ chế chính: (1) Thiếu Aldosterone dẫn đến mất muối và nước qua nước tiểu, gây giảm thể tích nội mạch mạn tính; (2) Thiếu Cortisol làm mất tính nhạy cảm đồng vận (permissive effect) của thụ thể alpha-1 adrenergic mạch máu với catecholamine, khiến mạch máu không co lại hiệu quả khi đứng dậy."
+          },
+          {
+            id: "q3",
+            text: "Triệu chứng sạm da (hyperpigmentation) đặc trưng trong bệnh Addison thường xuất hiện nhiều nhất ở các vị trí nào?",
+            options: [
+              "Chỉ xuất hiện ở vùng da ít tiếp xúc với ánh nắng như nách và bẹn",
+              "Vùng tiếp xúc ánh nắng, nếp gấp bàn tay, niêm mạc má và vết sẹo mới",
+              "Khắp bề mặt móng tay và tóc",
+              "Vùng da quanh mắt dạng kính râm đơn độc"
+            ],
+            correct: 1,
+            explanation: "Do cortisol máu giảm thấp, tuyến yên tăng tiết ồ ạt tiền chất POMC. Quá trình phân giải POMC tạo ra cả ACTH và MSH, kích thích tế bào hắc tố sản sinh melanin. Sạm da rõ nhất ở vùng hở tiếp xúc ánh sáng, nếp gấp chỉ tay, khớp ngón, sẹo mới và đặc biệt là niêm mạc má/khoang miệng."
+          },
+          {
+            id: "q4",
+            text: "Trong cấp cứu Cơn suy thượng thận cấp (Adrenal Crisis), lựa chọn glucocorticoid đầu tay và cách xử trí ban đầu đúng là:",
+            options: [
+              "Hydrocortisone 100 mg tiêm tĩnh mạch ngay lập tức kèm bù dịch NaCl 0.9%",
+              "Prednisolone 5 mg uống kèm dung dịch Dextrose 5%",
+              "Dexamethasone 0.5 mg uống buổi tối",
+              "Florinef 0.1 mg uống ngay kèm kali clorid truyền tĩnh mạch"
+            ],
+            correct: 0,
+            explanation: "Cơn suy thượng thận cấp là cấp cứu đe dọa tính mạng. Xử trí khẩn cấp gồm: Bolus ngay 100 mg Hydrocortisone IV, sau đó 200 mg/24h, đồng thời bù dịch tích cực bằng NaCl 0.9% và Dextrose nếu có hạ đường huyết. Ở liều cao này, Hydrocortisone đã bão hòa thụ thể mineralocorticoid nên không cần dùng Fludrocortisone giai đoạn cấp."
+          },
+          {
+            id: "q5",
+            text: "Rối loạn điện giải đồ điển hình nào thường gặp nhất ở bệnh nhân mắc bệnh Addison chưa được điều trị?",
+            options: [
+              "Tăng Natri máu, Hạ Kali máu",
+              "Hạ Natri máu, Tăng Kali máu, Toan chuyển hóa nhẹ",
+              "Hạ Natri máu, Hạ Kali máu, Kiềm chuyển hóa",
+              "Tăng Natri máu, Tăng Kali máu, Canxi máu bình thường"
+            ],
+            correct: 1,
+            explanation: "Thiếu Aldosterone dẫn đến giảm tái hấp thu Na+ và giảm thải K+, H+ ở ống thận xa -> dẫn đến mất Na+ qua nước tiểu gây Hạ Natri máu, ứ trệ K+ gây Tăng Kali máu và giữ H+ gây Toan chuyển hóa nhẹ."
+          },
+          {
+            id: "q6",
+            text: "Điểm khác biệt then chốt giữa Suy thượng thận nguyên phát (bệnh Addison) và Suy thượng thận thứ phát (do tuyến yên hoặc lạm dụng corticoid) là:",
+            options: [
+              "Suy thượng thận thứ phát luôn có tăng kali máu nặng nề hơn",
+              "Suy thượng thận thứ phát không có sạm da và hệ Aldosterone thường vẫn được bảo tồn",
+              "Bệnh Addison có nồng độ ACTH máu giảm rất thấp",
+              "Suy thượng thận thứ phát bắt buộc phải dùng Fludrocortisone liều cao"
+            ],
+            correct: 1,
+            explanation: "Trong suy thượng thận thứ phát, ACTH giảm (không có sạm da). Trục RAAS được điều hòa chủ yếu bởi thể tích tuần hoàn và nồng độ Kali máu chứ không phụ thuộc nhiều vào ACTH, nên lớp cầu vẫn tiết được Aldosterone -> bệnh nhân thứ phát hiếm khi bị tăng kali máu và KHÔNG cần bổ sung Fludrocortisone."
+          },
+          {
+            id: "q7",
+            text: "Quy tắc 'Sick-day rules' cho bệnh nhân Addison khi bị sốt, nhiễm trùng đường hô hấp hoặc căng thẳng vừa phải khuyến cáo:",
+            options: [
+              "Ngừng toàn bộ thuốc để gan thận nghỉ ngơi",
+              "Giảm một nửa liều Hydrocortisone hàng ngày",
+              "Gấp đôi hoặc gấp ba liều Hydrocortisone đường uống thông thường",
+              "Chỉ tăng liều Florinef lên 5 lần, giữ nguyên Hydrocortisone"
+            ],
+            correct: 2,
+            explanation: "Bệnh nhân Addison không thể tự tăng tiết cortisol khi sốt/stress, do đó để phòng ngừa cơn suy thượng thận cấp (adrenal crisis), bệnh nhân cần tăng gấp đôi (double) hoặc gấp ba (triple) liều Hydrocortisone đường uống cho đến khi tình trạng nhiễm trùng/sốt thoái lui."
+          },
+          {
+            id: "q8",
+            text: "Tiêu chuẩn chẩn đoán xác định suy vỏ thượng thận bằng nghiệm pháp kích thích Synacthen liều chuẩn (Short Synacthen Test 250 mcg ACTH) thường dựa vào nồng độ Cortisol đỉnh sau 30-60 phút đạt ngưỡng nào?",
+            options: [
+              "Cortisol đỉnh < 5 mcg/dL",
+              "Cortisol đỉnh < 18 mcg/dL (khoảng 500 nmol/L)",
+              "Cortisol đỉnh > 30 mcg/dL",
+              "Chỉ dựa vào nồng độ Renin máu sau tiêm"
+            ],
+            correct: 1,
+            explanation: "Ở người bình thường, tiêm 250 mcg Synacthen sẽ kích thích vỏ thượng thận sản xuất cortisol mạnh mẽ, đạt đỉnh >= 18 mcg/dL (hoặc >= 500 nmol/L). Nếu nồng độ Cortisol đỉnh sau 30 hoặc 60 phút < 18 mcg/dL thì khẳng định có suy tuyến thượng thận."
+          }
+        ]
+      }
+    ];
+
+    /* ==========================================================
+       SMART AUTO-PARSER (Handles Natural Vietnamese/English MCQ text)
+       ========================================================== */
+    class McqParser {
+      static parseRawText(text) {
+        if (!text || !text.trim()) return [];
+
+        // Split text into chunks separated by Question prefixes or double newlines
+        // Matches: Câu 1, Câu 01, Bài 1, Q1, Question 1, 1.
+        const lines = text.split('\n');
+        const questions = [];
+        let currentQ = null;
+        let readingPart = null; // 'text' | 'option' | 'explanation'
+
+        const qStartRegex = /^(?:Câu|Bài|Question|Q)?\s*(\d+)[\s.:)]+/i;
+        const optRegex = /^\s*([A-D])[\s.:)]+(.+)$/i;
+        const ansRegex = /^\s*(?:Đáp\s*án|Answer|Key|ĐA)[\s.:)]+\s*([A-D])/i;
+        const expRegex = /^\s*(?:Giải\s*thích|Explanation|Ghi\s*chú|Note|Lý\s*do)[\s.:)]+\s*(.*)$/i;
+
+        for (let rawLine of lines) {
+          const line = rawLine.trim();
+          if (!line) continue;
+
+          // Check if question starts
+          const qMatch = line.match(qStartRegex);
+          if (qMatch && !line.match(optRegex) && !line.match(ansRegex) && !line.match(expRegex)) {
+            if (currentQ && currentQ.options.length >= 2) {
+              questions.push(currentQ);
+            }
+            const qStem = line.replace(qStartRegex, '').trim();
+            currentQ = {
+              id: 'q_' + Math.random().toString(36).substring(2, 9),
+              text: qStem,
+              options: [],
+              correct: -1,
+              explanation: ''
+            };
+            readingPart = 'text';
+            continue;
+          }
+
+          // Check Option A, B, C, D
+          const optMatch = line.match(optRegex);
+          if (optMatch && currentQ) {
+            const letter = optMatch[1].toUpperCase();
+            const optText = optMatch[2].trim();
+            currentQ.options.push(optText);
+            readingPart = 'option';
+            continue;
+          }
+
+          // Check Correct Answer
+          const ansMatch = line.match(ansRegex);
+          if (ansMatch && currentQ) {
+            const letter = ansMatch[1].toUpperCase();
+            const charCode = letter.charCodeAt(0) - 65; // A->0, B->1, C->2, D->3
+            currentQ.correct = charCode;
+            readingPart = 'answer';
+            continue;
+          }
+
+          // Check Explanation
+          const expMatch = line.match(expRegex);
+          if (expMatch && currentQ) {
+            currentQ.explanation = expMatch[1].trim();
+            readingPart = 'explanation';
+            continue;
+          }
+
+          // Continuation lines
+          if (currentQ) {
+            if (readingPart === 'text') {
+              currentQ.text += ' ' + line;
+            } else if (readingPart === 'explanation') {
+              currentQ.explanation += (currentQ.explanation ? ' ' : '') + line;
+            } else if (readingPart === 'option' && currentQ.options.length > 0) {
+              currentQ.options[currentQ.options.length - 1] += ' ' + line;
+            }
+          }
+        }
+
+        if (currentQ && currentQ.options.length >= 2) {
+          questions.push(currentQ);
+        }
+
+        // Validate and ensure default correct answer if missing
+        return questions.map((q, idx) => {
+          if (q.correct < 0 || q.correct >= q.options.length) {
+            q.correct = 0; // default to A if omitted
+          }
+          if (!q.explanation) {
+            q.explanation = "Không có giải thích kèm theo.";
+          }
+          return q;
+        });
+      }
+    }
+
+    /* ==========================================================
+       STORAGE MANAGER (LocalStorage abstraction)
+       ========================================================== */
+    class StorageManager {
+      static STORAGE_BANKS_KEY = 'medmcq_banks_v1';
+      static STORAGE_HIST_KEY = 'medmcq_history_v1';
+      static fileHandle = null;
+      static syncFileName = null;
+
+      static getBanks() {
+        try {
+          const raw = localStorage.getItem(this.STORAGE_BANKS_KEY);
+          if (!raw) {
+            localStorage.setItem(this.STORAGE_BANKS_KEY, JSON.stringify(DEFAULT_BANKS));
+            return DEFAULT_BANKS;
+          }
+          const parsed = JSON.parse(raw);
+          return Array.isArray(parsed) && parsed.length > 0 ? parsed : DEFAULT_BANKS;
+        } catch (e) {
+          console.error("Failed to read banks from localStorage", e);
+          return DEFAULT_BANKS;
+        }
+      }
+
+      static saveBanks(banks) {
+        localStorage.setItem(this.STORAGE_BANKS_KEY, JSON.stringify(banks));
+        this.triggerAutoFileSync();
+      }
+
+      static getHistory() {
+        try {
+          const raw = localStorage.getItem(this.STORAGE_HIST_KEY);
+          return raw ? JSON.parse(raw) : [];
+        } catch (e) {
+          return [];
+        }
+      }
+
+      static saveAttempt(attempt) {
+        const hist = this.getHistory();
+        hist.unshift(attempt);
+        localStorage.setItem(this.STORAGE_HIST_KEY, JSON.stringify(hist));
+        this.triggerAutoFileSync();
+      }
+
+      static clearHistory() {
+        localStorage.removeItem(this.STORAGE_HIST_KEY);
+        this.triggerAutoFileSync();
+      }
+
+      static getFullSyncPayload() {
+        return {
+          version: "1.0",
+          lastSyncedAt: new Date().toISOString(),
+          banks: this.getBanks(),
+          history: this.getHistory()
+        };
+      }
+
+      static async triggerAutoFileSync() {
+        if (this.fileHandle) {
+          try {
+            await this.writeToConnectedFile();
+            this.updateSyncUI('synced', `Đã đồng bộ vào ${this.syncFileName}`);
+          } catch (err) {
+            console.warn("Auto sync failed:", err);
+            this.updateSyncUI('error', 'Lỗi đồng bộ file');
+          }
+        }
+      }
+
+      static async writeToConnectedFile() {
+        if (!this.fileHandle) return false;
+        const payload = this.getFullSyncPayload();
+        const jsonStr = JSON.stringify(payload, null, 2);
+        const writable = await this.fileHandle.createWritable();
+        await writable.write(jsonStr);
+        await writable.close();
+        return true;
+      }
+
+      static updateSyncUI(status, message) {
+        const dot = document.getElementById('sync-indicator-dot');
+        const text = document.getElementById('sync-status-text');
+        const btnConnect = document.getElementById('btn-connect-file');
+        const btnSync = document.getElementById('btn-sync-now');
+        if (!dot || !text) return;
+
+        if (status === 'synced') {
+          dot.className = 'w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse';
+          text.innerText = message || `File: ${this.syncFileName}`;
+          btnConnect.innerText = 'Đổi file';
+          btnSync.classList.remove('hidden');
+        } else if (status === 'error') {
+          dot.className = 'w-2.5 h-2.5 rounded-full bg-rose-500';
+          text.innerText = message || 'Lỗi file';
+          btnSync.classList.remove('hidden');
+        } else {
+          dot.className = 'w-2.5 h-2.5 rounded-full bg-amber-400';
+          text.innerText = 'Chưa liên kết file';
+          btnConnect.innerText = '🔗 Chọn file sync';
+          btnSync.classList.add('hidden');
+        }
+      }
+    }
+
+    /* ==========================================================
+       QUIZ EXECUTION ENGINE
+       ========================================================== */
+    class QuizEngine {
+      constructor() {
+        this.activeBank = null;
+        this.mode = 'tutor'; // 'tutor' | 'exam'
+        this.questions = [];
+        this.currentIndex = 0;
+        this.userAnswers = {}; // { qIndex: selectedOptionIndex }
+        this.flagged = new Set();
+        this.eliminated = {}; // { qIndex: Set of option indices }
+        this.startTime = null;
+        this.timerInterval = null;
+        this.elapsedSeconds = 0;
+      }
+
+      openConfigModal(bankId) {
+        const banks = StorageManager.getBanks();
+        const bank = banks.find(b => b.id === bankId);
+        if (!bank) return alert("Không tìm thấy bộ câu hỏi!");
+
+        this.activeBank = bank;
+        document.getElementById('modal-bank-title').innerText = bank.title;
+        document.getElementById('modal-bank-desc').innerText = bank.description || `${bank.questions.length} câu hỏi`;
+        document.getElementById('quiz-config-modal').classList.remove('hidden');
+      }
+
+      startQuizFromModal() {
+        const mode = document.querySelector('input[name="quiz-mode"]:checked').value;
+        const shuffleQ = document.getElementById('cfg-shuffle-questions').checked;
+        const shuffleOpt = document.getElementById('cfg-shuffle-options').checked;
+        app.closeConfigModal();
+
+        this.initQuiz(this.activeBank, mode, shuffleQ, shuffleOpt);
+      }
+
+      initQuiz(bank, mode, shuffleQ, shuffleOpt) {
+        this.activeBank = bank;
+        this.mode = mode;
+        this.currentIndex = 0;
+        this.userAnswers = {};
+        this.flagged = new Set();
+        this.eliminated = {};
+        this.elapsedSeconds = 0;
+
+        // Clone questions
+        let qList = JSON.parse(JSON.stringify(bank.questions));
+
+        if (shuffleQ) {
+          qList.sort(() => Math.random() - 0.5);
+        }
+
+        if (shuffleOpt) {
+          qList = qList.map(q => {
+            const originalCorrectText = q.options[q.correct];
+            const indexedOptions = q.options.map((opt, i) => ({ opt, originalIndex: i }));
+            indexedOptions.sort(() => Math.random() - 0.5);
+            const newOptions = indexedOptions.map(o => o.opt);
+            const newCorrect = newOptions.indexOf(originalCorrectText);
+            return {
+              ...q,
+              options: newOptions,
+              correct: newCorrect
+            };
+          });
+        }
+
+        this.questions = qList;
+
+        // Start Timer
+        if (this.timerInterval) clearInterval(this.timerInterval);
+        this.startTime = Date.now();
+        this.timerInterval = setInterval(() => {
+          this.elapsedSeconds++;
+          const mins = String(Math.floor(this.elapsedSeconds / 60)).padStart(2, '0');
+          const secs = String(this.elapsedSeconds % 60).padStart(2, '0');
+          document.getElementById('quiz-timer-display').innerText = `${mins}:${secs}`;
+        }, 1000);
+
+        // Update UI
+        document.getElementById('quiz-bank-title').innerText = bank.title;
+        const modeBadge = document.getElementById('quiz-mode-badge');
+        if (mode === 'tutor') {
+          modeBadge.innerText = 'TUTOR MODE';
+          modeBadge.className = 'px-2 py-0.5 rounded-md font-semibold bg-clinical-100 text-clinical-800';
+        } else {
+          modeBadge.innerText = 'EXAM MODE';
+          modeBadge.className = 'px-2 py-0.5 rounded-md font-semibold bg-amber-100 text-amber-800';
+        }
+
+        app.showTab('quiz');
+        this.renderQuestion();
+        this.renderMatrix();
+      }
+
+      renderQuestion() {
+        const q = this.questions[this.currentIndex];
+        const total = this.questions.length;
+
+        document.getElementById('current-q-index').innerText = `${this.currentIndex + 1}`;
+        document.getElementById('quiz-progress-text').innerText = `Câu ${this.currentIndex + 1} / ${total}`;
+        document.getElementById('quick-counter').innerText = `Câu ${this.currentIndex + 1} trên ${total}`;
+        document.getElementById('current-q-text').innerText = q.text;
+
+        // Flag indicator
+        const isFlagged = this.flagged.has(this.currentIndex);
+        const flagIndicator = document.getElementById('current-q-flag-indicator');
+        const flagIcon = document.getElementById('quiz-flag-icon');
+        if (isFlagged) {
+          flagIndicator.classList.remove('hidden');
+          flagIcon.innerText = '🚩';
+        } else {
+          flagIndicator.classList.add('hidden');
+          flagIcon.innerText = '🏳️';
+        }
+
+        // Render Options
+        const optionsContainer = document.getElementById('current-q-options');
+        optionsContainer.innerHTML = '';
+        const userChoice = this.userAnswers[this.currentIndex];
+        const hasAnswered = userChoice !== undefined;
+        const currentElims = this.eliminated[this.currentIndex] || new Set();
+
+        const letters = ['A', 'B', 'C', 'D', 'E', 'F'];
+
+        q.options.forEach((optText, optIdx) => {
+          const letter = letters[optIdx] || '?';
+          const isSelected = userChoice === optIdx;
+          const isCorrect = q.correct === optIdx;
+          const isElim = currentElims.has(optIdx);
+
+          const card = document.createElement('div');
+          card.className = `group relative flex items-start gap-3 p-4 rounded-2xl border-2 transition-all cursor-pointer select-none ${
+            isElim ? 'eliminated' : ''
+          }`;
+
+          // Styling based on state and mode
+          if (this.mode === 'tutor' && hasAnswered) {
+            if (isCorrect) {
+              card.className += ' bg-brand-50 border-brand-500 text-brand-900';
+            } else if (isSelected && !isCorrect) {
+              card.className += ' bg-rose-50 border-rose-500 text-rose-900';
+            } else {
+              card.className += ' bg-white border-slate-200 opacity-60';
+            }
+          } else {
+            if (isSelected) {
+              card.className += ' bg-clinical-50 border-clinical-600 text-clinical-900 shadow-xs';
+            } else {
+              card.className += ' bg-white border-slate-200 hover:border-slate-300 hover:bg-slate-50/60';
+            }
+          }
+
+          // Option content
+          card.innerHTML = `
+            <div class="w-7 h-7 rounded-xl font-bold flex items-center justify-center shrink-0 text-xs transition-colors ${
+              isSelected ? 'bg-clinical-600 text-white' : 'bg-slate-100 text-slate-700 group-hover:bg-slate-200'
+            }">${letter}</div>
+            <div class="flex-1 text-sm font-medium leading-relaxed pt-0.5">${optText}</div>
+            <button type="button" title="Gạch bỏ lựa chọn" class="opacity-30 group-hover:opacity-100 hover:text-rose-600 text-slate-400 p-1 rounded-md text-xs font-mono" onclick="event.stopPropagation(); quizEngine.toggleEliminate(${optIdx})">
+              ✕
+            </button>
+          `;
+
+          // Handle click to select
+          card.onclick = () => {
+            if (this.mode === 'tutor' && hasAnswered) return; // locked in tutor once answered
+            this.selectAnswer(optIdx);
+          };
+
+          optionsContainer.appendChild(card);
+        });
+
+        // Explanation Box
+        const expBox = document.getElementById('current-q-explanation-box');
+        if (this.mode === 'tutor' && hasAnswered) {
+          expBox.classList.remove('hidden');
+          const isCorrect = userChoice === q.correct;
+          const statusHeader = document.getElementById('explanation-status-header');
+          if (isCorrect) {
+            expBox.className = 'p-5 rounded-2xl border bg-brand-50 border-brand-200 text-brand-900';
+            statusHeader.innerHTML = '✅ <span class="text-brand-700">Chính xác! Đáp án đúng: ' + letters[q.correct] + '</span>';
+          } else {
+            expBox.className = 'p-5 rounded-2xl border bg-rose-50 border-rose-200 text-rose-900';
+            statusHeader.innerHTML = '❌ <span class="text-rose-700">Chưa chính xác! Đáp án đúng: ' + letters[q.correct] + '</span>';
+          }
+          document.getElementById('current-q-explanation-text').innerHTML = q.explanation;
+        } else {
+          expBox.classList.add('hidden');
+        }
+
+        // Navigation button states
+        document.getElementById('btn-prev-q').disabled = this.currentIndex === 0;
+        document.getElementById('btn-prev-q').classList.toggle('opacity-40', this.currentIndex === 0);
+        const btnNext = document.getElementById('btn-next-q');
+        if (this.currentIndex === total - 1) {
+          btnNext.innerHTML = 'Nộp bài <span>✓</span>';
+        } else {
+          btnNext.innerHTML = 'Câu tiếp theo <span>→</span>';
+        }
+      }
+
+      selectAnswer(optIdx) {
+        this.userAnswers[this.currentIndex] = optIdx;
+        this.renderQuestion();
+        this.renderMatrix();
+      }
+
+      toggleEliminate(optIdx) {
+        if (!this.eliminated[this.currentIndex]) {
+          this.eliminated[this.currentIndex] = new Set();
+        }
+        const set = this.eliminated[this.currentIndex];
+        if (set.has(optIdx)) set.delete(optIdx);
+        else set.add(optIdx);
+        this.renderQuestion();
+      }
+
+      toggleFlag() {
+        if (this.flagged.has(this.currentIndex)) {
+          this.flagged.delete(this.currentIndex);
+        } else {
+          this.flagged.add(this.currentIndex);
+        }
+        this.renderQuestion();
+        this.renderMatrix();
+      }
+
+      nextQuestion() {
+        if (this.currentIndex < this.questions.length - 1) {
+          this.currentIndex++;
+          this.renderQuestion();
+          this.renderMatrix();
+        } else {
+          this.submitQuiz();
+        }
+      }
+
+      prevQuestion() {
+        if (this.currentIndex > 0) {
+          this.currentIndex--;
+          this.renderQuestion();
+          this.renderMatrix();
+        }
+      }
+
+      jumpToQuestion(idx) {
+        this.currentIndex = idx;
+        this.renderQuestion();
+        this.renderMatrix();
+      }
+
+      renderMatrix() {
+        const container = document.getElementById('question-matrix-grid');
+        container.innerHTML = '';
+        let answeredCount = 0;
+
+        this.questions.forEach((q, idx) => {
+          const isAnswered = this.userAnswers[idx] !== undefined;
+          if (isAnswered) answeredCount++;
+          const isCurrent = this.currentIndex === idx;
+          const isFlagged = this.flagged.has(idx);
+
+          const btn = document.createElement('button');
+          btn.className = `h-9 rounded-xl font-mono text-xs font-bold transition-all relative flex items-center justify-center ${
+            isCurrent ? 'ring-2 ring-clinical-500 ring-offset-2' : ''
+          } ${
+            isAnswered ? 'bg-clinical-600 text-white' : 'bg-slate-100 text-slate-700 hover:bg-slate-200'
+          } ${
+            isFlagged ? 'border-2 border-amber-400' : 'border border-transparent'
+          }`;
+
+          btn.innerText = idx + 1;
+
+          if (isFlagged) {
+            const flagBadge = document.createElement('span');
+            flagBadge.className = 'absolute -top-1 -right-1 text-[9px]';
+            flagBadge.innerText = '🚩';
+            btn.appendChild(flagBadge);
+          }
+
+          btn.onclick = () => this.jumpToQuestion(idx);
+          container.appendChild(btn);
+        });
+
+        document.getElementById('matrix-answered-count').innerText = `${answeredCount}/${this.questions.length} Đã chọn`;
+      }
+
+      submitQuiz() {
+        const total = this.questions.length;
+        const answeredCount = Object.keys(this.userAnswers).length;
+        if (answeredCount < total) {
+          const unans = total - answeredCount;
+          if (!confirm(`Bạn còn ${unans} câu chưa trả lời. Bạn có chắc chắn muốn nộp bài không?`)) {
+            return;
+          }
+        }
+
+        if (this.timerInterval) clearInterval(this.timerInterval);
+
+        // Calculate score
+        let correctCount = 0;
+        this.questions.forEach((q, idx) => {
+          if (this.userAnswers[idx] === q.correct) {
+            correctCount++;
+          }
+        });
+
+        const percent = Math.round((correctCount / total) * 100);
+        const mins = String(Math.floor(this.elapsedSeconds / 60)).padStart(2, '0');
+        const secs = String(this.elapsedSeconds % 60).padStart(2, '0');
+        const timeFormatted = `${mins}:${secs}`;
+
+        // Create attempt object
+        const attempt = {
+          id: 'att_' + Date.now(),
+          bankId: this.activeBank.id,
+          bankTitle: this.activeBank.title,
+          mode: this.mode,
+          date: new Date().toISOString(),
+          correctCount,
+          totalQuestions: total,
+          percent,
+          duration: timeFormatted,
+          durationSec: this.elapsedSeconds,
+          questions: this.questions,
+          userAnswers: this.userAnswers
+        };
+
+        StorageManager.saveAttempt(attempt);
+
+        // Render Result Tab
+        this.renderResultScreen(attempt);
+      }
+
+      renderResultScreen(attempt) {
+        document.getElementById('result-subtitle').innerText = `Bộ câu hỏi: ${attempt.bankTitle}`;
+        document.getElementById('result-score-percent').innerText = `${attempt.percent}%`;
+        document.getElementById('result-correct-count').innerText = `${attempt.correctCount}/${attempt.totalQuestions}`;
+        document.getElementById('result-incorrect-count').innerText = `${attempt.totalQuestions - attempt.correctCount}/${attempt.totalQuestions}`;
+        document.getElementById('result-time-taken').innerText = attempt.duration;
+
+        const badgeIcon = document.getElementById('result-badge-icon');
+        const resultTitle = document.getElementById('result-title');
+        if (attempt.percent >= 80) {
+          badgeIcon.innerText = '🏆';
+          resultTitle.innerText = 'Xuất sắc! Nắm vững kiến thức!';
+        } else if (attempt.percent >= 50) {
+          badgeIcon.innerText = '👍';
+          resultTitle.innerText = 'Khá tốt! Hãy ôn lại các câu sai.';
+        } else {
+          badgeIcon.innerText = '📚';
+          resultTitle.innerText = 'Cần ôn luyện thêm kiến thức.';
+        }
+
+        // Render detailed questions review
+        this.renderReviewList(attempt);
+        app.showTab('result');
+      }
+
+      renderReviewList(attempt) {
+        const container = document.getElementById('result-review-list');
+        container.innerHTML = '<h3 class="text-lg font-bold text-slate-900 pt-6">Chi tiết từng câu hỏi:</h3>';
+
+        const letters = ['A', 'B', 'C', 'D', 'E', 'F'];
+
+        attempt.questions.forEach((q, idx) => {
+          const userChoice = attempt.userAnswers[idx];
+          const isCorrect = userChoice === q.correct;
+          const isUnanswered = userChoice === undefined;
+
+          const card = document.createElement('div');
+          card.className = `p-6 rounded-2xl border-2 bg-white space-y-4 ${
+            isCorrect ? 'border-brand-200' : 'border-rose-200'
+          }`;
+
+          card.innerHTML = `
+            <div class="flex items-center justify-between">
+              <span class="font-extrabold text-xs px-2.5 py-1 rounded-lg ${
+                isCorrect ? 'bg-brand-100 text-brand-800' : 'bg-rose-100 text-rose-800'
+              }">
+                CÂU ${idx + 1}: ${isCorrect ? 'ĐÚNG ✓' : (isUnanswered ? 'CHƯA TRẢ LỜI ⚠' : 'SAI ✕')}
+              </span>
+            </div>
+            <div class="font-bold text-slate-900 text-base leading-snug">${q.text}</div>
+            <div class="space-y-2">
+              ${q.options.map((opt, oIdx) => {
+                const isSelected = userChoice === oIdx;
+                const isTheCorrect = q.correct === oIdx;
+                let optClass = 'bg-slate-50 border-slate-200 text-slate-700';
+                if (isTheCorrect) optClass = 'bg-brand-50 border-brand-500 text-brand-900 font-semibold';
+                if (isSelected && !isTheCorrect) optClass = 'bg-rose-50 border-rose-400 text-rose-900 font-semibold';
+
+                return `
+                  <div class="flex items-center gap-3 p-3 rounded-xl border text-sm ${optClass}">
+                    <span class="w-6 h-6 rounded-lg bg-white/80 flex items-center justify-center font-bold text-xs shrink-0">${letters[oIdx]}</span>
+                    <span>${opt}</span>
+                    ${isTheCorrect ? '<span class="ml-auto text-brand-600 font-bold text-xs">Đáp án đúng</span>' : ''}
+                    ${isSelected && !isTheCorrect ? '<span class="ml-auto text-rose-600 font-bold text-xs">Bạn đã chọn</span>' : ''}
+                  </div>
+                `;
+              }).join('')}
+            </div>
+            <div class="p-4 rounded-xl bg-slate-50 border border-slate-200 text-xs text-slate-700 leading-relaxed">
+              <strong class="text-slate-900 block mb-1">💡 Giải thích chi tiết:</strong>
+              ${q.explanation}
+            </div>
+          `;
+
+          container.appendChild(card);
+        });
+      }
+
+      reviewFullAttempt() {
+        const reviewBox = document.getElementById('result-review-list');
+        reviewBox.scrollIntoView({ behavior: 'smooth' });
+      }
+
+      retakeQuiz() {
+        if (this.activeBank) {
+          this.openConfigModal(this.activeBank.id);
+        } else {
+          app.showTab('banks');
+        }
+      }
+
+      exitQuizPrompt() {
+        if (confirm("Bạn có chắc chắn muốn thoát khỏi bài thi hiện tại không? Tiến trình bài này sẽ không được lưu.")) {
+          if (this.timerInterval) clearInterval(this.timerInterval);
+          app.showTab('banks');
+        }
+      }
+    }
+
+    /* ==========================================================
+       MAIN APP CONTROLLER
+       ========================================================== */
+    class App {
+      constructor() {
+        this.quizEngine = new QuizEngine();
+        window.quizEngine = this.quizEngine;
+        this.initKeyboardShortcuts();
+      }
+
+      init() {
+        this.renderBankList();
+        this.renderHistory();
+      }
+
+      showTab(tabName) {
+        ['banks', 'create', 'quiz', 'result', 'history'].forEach(tab => {
+          const el = document.getElementById(`tab-${tab}`);
+          if (el) el.classList.add('hidden');
+          const navBtn = document.getElementById(`nav-${tab}`);
+          if (navBtn) {
+            navBtn.className = 'px-3 sm:px-4 py-2 rounded-lg text-sm font-medium text-slate-600 hover:bg-slate-100 hover:text-slate-900 transition-all flex items-center gap-2';
+          }
+        });
+
+        const activeEl = document.getElementById(`tab-${tabName}`);
+        if (activeEl) activeEl.classList.remove('hidden');
+
+        const activeNav = document.getElementById(`nav-${tabName}`);
+        if (activeNav) {
+          activeNav.className = 'px-3 sm:px-4 py-2 rounded-lg text-sm font-semibold transition-all flex items-center gap-2 bg-clinical-50 text-clinical-700 border border-clinical-200 shadow-xs';
+        }
+
+        if (tabName === 'banks') this.renderBankList();
+        if (tabName === 'history') this.renderHistory();
+      }
+
+      renderBankList() {
+        const container = document.getElementById('bank-list');
+        const banks = StorageManager.getBanks();
+        container.innerHTML = '';
+
+        if (banks.length === 0) {
+          container.innerHTML = `
+            <div class="col-span-full p-12 bg-white rounded-3xl border border-slate-200 text-center space-y-4">
+              <div class="text-4xl">📭</div>
+              <h3 class="text-lg font-bold text-slate-800">Chưa có ngân hàng câu hỏi nào</h3>
+              <p class="text-sm text-slate-500">Bấm nút bên dưới để tạo hoặc dán câu hỏi từ văn bản.</p>
+              <button onclick="app.showTab('create')" class="px-5 py-2.5 bg-clinical-600 text-white font-semibold rounded-xl text-sm">
+                + Nhập câu hỏi ngay
+              </button>
+            </div>
+          `;
+          return;
+        }
+
+        banks.forEach(bank => {
+          const card = document.createElement('div');
+          card.className = 'bg-white rounded-2xl border border-slate-200 p-6 flex flex-col justify-between hover:border-clinical-400 hover:shadow-md transition-all space-y-4 group';
+
+          card.innerHTML = `
+            <div class="space-y-2">
+              <div class="flex items-center justify-between">
+                <span class="px-2.5 py-0.5 rounded-full text-xs font-bold bg-clinical-50 text-clinical-700 border border-clinical-200">
+                  ${bank.questions.length} câu hỏi
+                </span>
+                <div class="flex items-center gap-1 opacity-60 group-hover:opacity-100 transition-opacity">
+                  <button title="Xuất file JSON" onclick="app.exportSingleBank('${bank.id}')" class="p-1.5 hover:bg-slate-100 rounded-lg text-slate-500 hover:text-slate-800">
+                    💾
+                  </button>
+                  <button title="Xóa bộ đề" onclick="app.deleteBank('${bank.id}')" class="p-1.5 hover:bg-rose-50 rounded-lg text-slate-400 hover:text-rose-600">
+                    🗑️
+                  </button>
+                </div>
+              </div>
+              <h3 class="font-bold text-slate-900 text-lg group-hover:text-clinical-700 transition-colors line-clamp-2">${bank.title}</h3>
+              <p class="text-slate-500 text-xs line-clamp-3 leading-relaxed">${bank.description || 'Chưa có mô tả'}</p>
+            </div>
+
+            <div class="pt-4 border-t border-slate-100 flex items-center justify-between">
+              <span class="text-[11px] text-slate-400">${new Date(bank.createdAt).toLocaleDateString('vi-VN')}</span>
+              <button onclick="quizEngine.openConfigModal('${bank.id}')" class="px-4 py-2 bg-clinical-600 hover:bg-clinical-700 text-white font-semibold text-xs rounded-xl shadow-xs transition-all flex items-center gap-1.5">
+                <span>Làm bài</span> <span>→</span>
+              </button>
+            </div>
+          `;
+
+          container.appendChild(card);
+        });
+      }
+
+      renderHistory() {
+        const container = document.getElementById('history-container');
+        const history = StorageManager.getHistory();
+        container.innerHTML = '';
+
+        if (history.length === 0) {
+          container.innerHTML = `
+            <div class="p-12 bg-white rounded-3xl border border-slate-200 text-center space-y-3">
+              <div class="text-3xl">📊</div>
+              <p class="text-slate-500 text-sm">Chưa có bài thi nào được hoàn thành.</p>
+            </div>
+          `;
+          return;
+        }
+
+        history.forEach(att => {
+          const card = document.createElement('div');
+          card.className = 'bg-white p-5 rounded-2xl border border-slate-200 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 hover:shadow-xs transition-all';
+
+          const isHigh = att.percent >= 80;
+
+          card.innerHTML = `
+            <div class="space-y-1">
+              <div class="flex items-center gap-2">
+                <span class="px-2 py-0.5 rounded text-xs font-bold uppercase tracking-wide ${
+                  att.mode === 'tutor' ? 'bg-clinical-100 text-clinical-800' : 'bg-amber-100 text-amber-800'
+                }">${att.mode}</span>
+                <span class="text-xs text-slate-400">${new Date(att.date).toLocaleString('vi-VN')}</span>
+              </div>
+              <h4 class="font-bold text-slate-900 text-base">${att.bankTitle}</h4>
+              <div class="text-xs text-slate-500 flex items-center gap-3">
+                <span>⏱️ Thời gian: ${att.duration}</span>
+                <span>•</span>
+                <span>🎯 Đúng: ${att.correctCount}/${att.totalQuestions} câu</span>
+              </div>
+            </div>
+
+            <div class="flex items-center gap-4 w-full sm:w-auto justify-between sm:justify-end">
+              <div class="text-right">
+                <div class="text-2xl font-black ${isHigh ? 'text-brand-600' : 'text-slate-800'}">${att.percent}%</div>
+                <div class="text-[10px] uppercase font-bold text-slate-400">Độ chính xác</div>
+              </div>
+              <button onclick='app.viewPastAttemptDetails(${JSON.stringify(att).replace(/'/g, "&apos;")})' class="px-4 py-2 rounded-xl border border-slate-200 hover:bg-slate-50 text-slate-700 text-xs font-semibold">
+                Xem lại
+              </button>
+            </div>
+          `;
+
+          container.appendChild(card);
+        });
+      }
+
+      viewPastAttemptDetails(attempt) {
+        this.quizEngine.activeBank = { id: attempt.bankId, title: attempt.bankTitle };
+        this.quizEngine.renderResultScreen(attempt);
+      }
+
+      closeConfigModal() {
+        document.getElementById('quiz-config-modal').classList.add('hidden');
+      }
+
+      loadCushingSampleToInput() {
+        document.getElementById('bank-input-title').value = "Hội chứng Cushing - Chẩn đoán & Lâm sàng";
+        document.getElementById('bank-input-desc').value = "4 câu trắc nghiệm chuyên đề chẩn đoán phân biệt và tiêu chuẩn lui bệnh sau phẫu thuật TSS";
+        document.getElementById('bank-input-raw').value = `Câu 1: Xét nghiệm sàng lọc ban đầu đầu tay (first-line screening test) được khuyến cáo để chẩn đoán Hội chứng Cushing là gì?
+A. Định lượng ACTH huyết tương lúc 8 giờ sáng
+B. Cortisol tự do trong nước tiểu 24 giờ (24h UFC), Cortisol nước bọt ban đêm hoặc 1mg Dexamethasone qua đêm
+C. Chụp MRI tuyến yên có tiêm thuốc đối quang từ ngay lập tức
+D. Nghiệm pháp ức chế Dexamethasone liều cao 8mg
+Đáp án: B
+Giải thích: Theo khuyến cáo Endocrine Society, chẩn đoán Cushing cần tối thiểu 2 xét nghiệm sàng lọc ban đầu dương tính từ: 24h UFC, Cortisol nước bọt nửa đêm, hoặc 1mg DST qua đêm.
+
+Câu 2: Dấu hiệu lâm sàng nào sau đây có độ đặc hiệu cao nhất giúp phân biệt Hội chứng Cushing thật sự với béo phì thông thường?
+A. Tăng cân và béo vùng bụng
+B. Da mỏng, dễ bầm tím tự nhiên, rạn da đỏ tím rộng (> 1 cm) và yếu cơ gốc chi gần
+C. Tăng huyết áp nguyên phát
+D. Rối loạn dung nạp glucose nhẹ
+Đáp án: B
+Giải thích: Da teo mỏng, dễ bầm tím tự nhiên, vết rạn da đỏ tím rộng > 1cm và yếu cơ gốc chi gần là các dấu hiệu đặc hiệu cao (discriminating signs) của Cushing.
+
+Câu 3: Nguyên nhân phổ biến nhất gây ra Hội chứng Cushing trên thực tế lâm sàng hiện nay là:
+A. U tuyến yên tăng tiết ACTH
+B. U tuyến thượng thận tăng tiết Cortisol
+C. U lạc chỗ tăng tiết ACTH
+D. Ngoại sinh do sử dụng thuốc Corticoid kéo dài
+Đáp án: D
+Giải thích: Nguyên nhân phổ biến nhất là Hội chứng Cushing ngoại sinh do dùng thuốc glucocorticoid kéo dài điều trị bệnh khớp, da liễu hoặc thuốc đông y pha tạp.
+
+Câu 4: Sau phẫu thuật cắt u tuyến yên qua xương bướm (TSS) điều trị Bệnh Cushing, nồng độ Cortisol huyết tương sáng sớm đo trong tuần đầu sau mổ đạt giá trị nào là tiêu chuẩn chỉ điểm lui bệnh thành công?
+A. Cortisol huyết tương < 2 mcg/dL (hoặc < 5 mcg/dL)
+B. Cortisol huyết tương trong khoảng 15 - 20 mcg/dL
+C. Cortisol huyết tương > 25 mcg/dL
+D. Không cần đo cortisol, chỉ cần xét nghiệm ACTH > 100 pg/mL
+Đáp án: A
+Giải thích: Cortisol huyết tương sáng sớm giảm sâu (< 2 mcg/dL hoặc < 5 mcg/dL) trong tuần đầu sau mổ là tiêu chuẩn tin cậy nhất chứng minh phẫu thuật đã lấy sạch u và bệnh nhân lui bệnh thành công.`;
+      }
+
+      previewParsedQuestions() {
+        const raw = document.getElementById('bank-input-raw').value;
+        const questions = McqParser.parseRawText(raw);
+        const previewBox = document.getElementById('parse-preview-box');
+
+        if (questions.length === 0) {
+          alert("Không nhận diện được câu hỏi nào! Hãy kiểm tra lại định dạng Câu 1:, A. B. C. D., Đáp án:...");
+          return;
+        }
+
+        previewBox.classList.remove('hidden');
+        previewBox.innerHTML = `
+          <div class="flex items-center justify-between border-b border-slate-200 pb-2">
+            <span class="font-bold text-xs text-clinical-700 uppercase">Đã nhận diện thành công ${questions.length} câu hỏi</span>
+            <button onclick="document.getElementById('parse-preview-box').classList.add('hidden')" class="text-xs text-slate-400 hover:text-slate-600">Đóng preview</button>
+          </div>
+          <div class="space-y-3 max-h-80 overflow-y-auto pr-2">
+            ${questions.map((q, i) => `
+              <div class="p-3 bg-white rounded-xl border border-slate-200 text-xs space-y-1.5">
+                <div class="font-bold text-slate-900">Câu ${i + 1}: ${q.text}</div>
+                <div class="grid grid-cols-2 gap-1 text-slate-600">
+                  ${q.options.map((opt, oi) => `
+                    <div class="${oi === q.correct ? 'font-bold text-brand-700 bg-brand-50 p-1 rounded' : 'p-1'}">
+                      ${String.fromCharCode(65 + oi)}. ${opt}
+                    </div>
+                  `).join('')}
+                </div>
+                <div class="text-[11px] text-slate-500 italic">💡 ${q.explanation}</div>
+              </div>
+            `).join('')}
+          </div>
+        `;
+      }
+
+      saveNewBank() {
+        const title = document.getElementById('bank-input-title').value.trim();
+        const desc = document.getElementById('bank-input-desc').value.trim();
+        const raw = document.getElementById('bank-input-raw').value.trim();
+
+        if (!title) return alert("Vui lòng nhập tên bộ câu hỏi!");
+        if (!raw) return alert("Vui lòng nhập nội dung câu hỏi!");
+
+        const questions = McqParser.parseRawText(raw);
+        if (questions.length === 0) {
+          return alert("Không nhận diện được câu hỏi nào. Vui lòng kiểm tra lại cấu trúc văn bản!");
+        }
+
+        const newBank = {
+          id: 'bank_' + Date.now(),
+          title,
+          description: desc || `${questions.length} câu hỏi trắc nghiệm`,
+          createdAt: new Date().toISOString(),
+          questions
+        };
+
+        const banks = StorageManager.getBanks();
+        banks.unshift(newBank);
+        StorageManager.saveBanks(banks);
+
+        // Clear form
+        document.getElementById('bank-input-title').value = '';
+        document.getElementById('bank-input-desc').value = '';
+        document.getElementById('bank-input-raw').value = '';
+        document.getElementById('parse-preview-box').classList.add('hidden');
+
+        alert(`Đã lưu thành công bộ đề "${title}" với ${questions.length} câu hỏi!`);
+        this.showTab('banks');
+      }
+
+      handleFileImport(event) {
+        const file = event.target.files[0];
+        if (!file) return;
+
+        const reader = new FileReader();
+        reader.onload = (e) => {
+          const content = e.target.result;
+          try {
+            const parsed = JSON.parse(content);
+
+            // Trường hợp 1: File Master chứa nhiều bộ đề (như noi_tiet_FULL_482_cau.json có key 'banks')
+            if (parsed.banks && Array.isArray(parsed.banks) && parsed.banks.length > 0) {
+              const totalQ = parsed.banks.reduce((acc, b) => acc + (b.questions ? b.questions.length : 0), 0);
+              if (confirm(`Tìm thấy ${parsed.banks.length} bộ đề (${totalQ} câu hỏi) trong file "${file.name}".\n\nBạn có muốn nạp TRỰC TIẾP toàn bộ các bộ đề này vào danh sách ngân hàng câu hỏi không?`)) {
+                let currentBanks = StorageManager.getBanks();
+                // Gộp các bộ đề mới vào, tránh trùng lặp id
+                const newBankIds = new Set(parsed.banks.map(b => b.id));
+                currentBanks = currentBanks.filter(b => !newBankIds.has(b.id));
+                parsed.banks.forEach(b => currentBanks.push(b));
+                StorageManager.saveBanks(currentBanks);
+                this.renderBankList();
+                alert(`🎉 Đã nạp thành công ${parsed.banks.length} bộ đề (${totalQ} câu hỏi) vào ứng dụng!`);
+                this.showTab('banks');
+                return;
+              }
+            }
+
+            // Trường hợp 2: File JSON chứa 1 bộ đề đơn lẻ (có mảng 'questions')
+            if (parsed.questions && Array.isArray(parsed.questions)) {
+              document.getElementById('bank-input-title').value = parsed.title || file.name.replace(/\.[^/.]+$/, "");
+              document.getElementById('bank-input-desc').value = parsed.description || "";
+              let rawStr = '';
+              parsed.questions.forEach((q, i) => {
+                rawStr += `Câu ${i + 1}: ${q.text}\n`;
+                q.options.forEach((opt, oi) => {
+                  rawStr += `${String.fromCharCode(65 + oi)}. ${opt}\n`;
+                });
+                rawStr += `Đáp án: ${String.fromCharCode(65 + q.correct)}\n`;
+                rawStr += `Giải thích: ${q.explanation || ''}\n\n`;
+              });
+              document.getElementById('bank-input-raw').value = rawStr.trim();
+              alert(`Đã nạp ${parsed.questions.length} câu hỏi vào khung soạn thảo! Bạn chỉ cần nhấn "Lưu bộ câu hỏi" bên dưới để hoàn tất.`);
+              return;
+            }
+          } catch (err) {
+            // Trường hợp 3: File text thuần túy (.txt)
+            document.getElementById('bank-input-raw').value = content;
+            document.getElementById('bank-input-title').value = file.name.replace(/\.[^/.]+$/, "");
+            alert("Đã tải nội dung văn bản từ file .TXT thành công!");
+          }
+        };
+        reader.readAsText(file, "UTF-8");
+        // Reset input để có thể chọn lại cùng file
+        event.target.value = '';
+      }
+
+      exportSingleBank(bankId) {
+        const banks = StorageManager.getBanks();
+        const bank = banks.find(b => b.id === bankId);
+        if (!bank) return;
+
+        const jsonStr = JSON.stringify(bank, null, 2);
+        const blob = new Blob([jsonStr], { type: 'application/json' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `${bank.title.toLowerCase().replace(/\s+/g, '_')}.json`;
+        a.click();
+        URL.revokeObjectURL(url);
+      }
+
+      exportAllBanks() {
+        const banks = StorageManager.getBanks();
+        const jsonStr = JSON.stringify(banks, null, 2);
+        const blob = new Blob([jsonStr], { type: 'application/json' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `medmcq_all_banks_${Date.now()}.json`;
+        a.click();
+        URL.revokeObjectURL(url);
+      }
+
+      exportHistoryJson() {
+        const hist = StorageManager.getHistory();
+        const jsonStr = JSON.stringify(hist, null, 2);
+        const blob = new Blob([jsonStr], { type: 'application/json' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `medmcq_history_${Date.now()}.json`;
+        a.click();
+        URL.revokeObjectURL(url);
+      }
+
+      deleteBank(bankId) {
+        if (!confirm("Bạn có chắc chắn muốn xóa bộ đề này không?")) return;
+        let banks = StorageManager.getBanks();
+        banks = banks.filter(b => b.id !== bankId);
+        StorageManager.saveBanks(banks);
+        this.renderBankList();
+      }
+
+      clearHistory() {
+        if (!confirm("Bạn có chắc chắn muốn xóa toàn bộ lịch sử thi không?")) return;
+        StorageManager.clearHistory();
+        this.renderHistory();
+      }
+      async connectSyncFile() {
+        if (!window.showSaveFilePicker && !window.showOpenFilePicker) {
+          alert("Trình duyệt này không hỗ trợ File System API trực tiếp. Hãy sử dụng Chrome hoặc Edge trên máy tính để dùng tính năng ghi đè file.");
+          return;
+        }
+
+        try {
+          const options = {
+            suggestedName: 'medmcq_synced_database.json',
+            types: [{
+              description: 'JSON Database File',
+              accept: { 'application/json': ['.json'] }
+            }]
+          };
+
+          // Cho phép người dùng chọn tạo file mới hoặc chọn file có sẵn
+          const handle = await window.showSaveFilePicker(options);
+          StorageManager.fileHandle = handle;
+          StorageManager.syncFileName = handle.name;
+
+          // Đọc nội dung file đã chọn
+          try {
+            const file = await handle.getFile();
+            const text = await file.text();
+            if (text && text.trim().length > 0) {
+              const data = JSON.parse(text);
+              if (data.banks && Array.isArray(data.banks) && data.banks.length > 0) {
+                const totalQ = data.banks.reduce((acc, b) => acc + (b.questions ? b.questions.length : 0), 0);
+                if (confirm(`Tìm thấy ${data.banks.length} bộ đề (${totalQ} câu hỏi) trong file "${handle.name}".\n\nBạn có muốn NẠP toàn bộ câu hỏi từ file này vào ứng dụng không?`)) {
+                  StorageManager.saveBanks(data.banks);
+                  if (data.history) localStorage.setItem(StorageManager.STORAGE_HIST_KEY, JSON.stringify(data.history));
+                  this.renderBankList();
+                  this.renderHistory();
+                  StorageManager.updateSyncUI('synced', `File: ${handle.name}`);
+                  alert(`Đã nạp thành công ${data.banks.length} bộ đề (${totalQ} câu hỏi) từ file "${handle.name}"!`);
+                  return;
+                }
+              }
+            }
+          } catch (readErr) {
+            console.log("File mới hoặc lỗi đọc, sẽ đồng bộ:", readErr);
+          }
+
+          // Nếu file mới tinh hoặc người dùng không nạp, mới ghi dữ liệu từ app vào file
+          await StorageManager.writeToConnectedFile();
+          StorageManager.updateSyncUI('synced', `File: ${handle.name}`);
+          alert(`Đã liên kết thành công với file "${handle.name}".`);
+        } catch (err) {
+          if (err.name !== 'AbortError') {
+            console.error(err);
+            alert("Không thể kết nối file: " + err.message);
+          }
+        }
+      }
+
+      async syncNow() {
+        if (!StorageManager.fileHandle) {
+          this.connectSyncFile();
+          return;
+        }
+        try {
+          await StorageManager.writeToConnectedFile();
+          StorageManager.updateSyncUI('synced', `Đã đồng bộ lúc ${new Date().toLocaleTimeString('vi-VN')}`);
+          alert(`Đã ghi đè và đồng bộ dữ liệu mới nhất vào file "${StorageManager.syncFileName}"!`);
+        } catch (err) {
+          alert("Lỗi khi ghi file: " + err.message);
+          StorageManager.updateSyncUI('error', 'Lỗi đồng bộ');
+        }
+      }
+
+
+      initKeyboardShortcuts() {
+        window.addEventListener('keydown', (e) => {
+          // If typing in input or textarea, don't trigger quiz shortcuts
+          if (['INPUT', 'TEXTAREA'].includes(document.activeElement.tagName)) return;
+
+          const quizTab = document.getElementById('tab-quiz');
+          if (quizTab.classList.contains('hidden')) return;
+
+          // Keys 1, 2, 3, 4
+          if (['1', '2', '3', '4'].includes(e.key)) {
+            const optIdx = parseInt(e.key) - 1;
+            this.quizEngine.selectAnswer(optIdx);
+          }
+          // Keys A, B, C, D
+          if (['a', 'b', 'c', 'd'].includes(e.key.toLowerCase())) {
+            const optIdx = e.key.toLowerCase().charCodeAt(0) - 97;
+            this.quizEngine.selectAnswer(optIdx);
+          }
+          // Arrow right or 'N' for next
+          if (e.key === 'ArrowRight' || e.key.toLowerCase() === 'n') {
+            this.quizEngine.nextQuestion();
+          }
+          // Arrow left or 'P' for prev
+          if (e.key === 'ArrowLeft' || e.key.toLowerCase() === 'p') {
+            this.quizEngine.prevQuestion();
+          }
+          // 'F' for flag
+          if (e.key.toLowerCase() === 'f') {
+            this.quizEngine.toggleFlag();
+          }
+        });
+      }
+    }
+
+    // Initialize application on DOM ready
+    document.addEventListener('DOMContentLoaded', () => {
+      window.app = new App();
+      app.init();
+    });
+  </script>
+</body>
+</html>

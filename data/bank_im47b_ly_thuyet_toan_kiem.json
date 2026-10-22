@@ -1,0 +1,247 @@
+{
+  "id": "bank_im47b_ly_thuyet_toan_kiem",
+  "title": "IM-47b: Lý Thuyết Nền Tảng & Công Thức Khí Máu Toan Kiềm (20 Câu Fact-Based)",
+  "description": "Ngân hàng 20 câu hỏi trắc nghiệm lý thuyết và công thức khí máu thuần túy: Henderson-Hasselbalch, Kassirer-Bleich, quy tắc cùng/ngược chiều, công thức Winter, bù trừ cấp/mạn, Anion Gap, toan Lactic và Cl- niệu.",
+  "questions": [
+    {
+      "id": "bank_im47b_ly_thuyet_toan_kiem_01",
+      "text": "Trị số sinh lý chuẩn của Khí máu động mạch (ABG) Trị số sinh lý bình thường của máu động mạch người khỏe mạnh ở mực nước biển là bao nhiêu?",
+      "options": [
+        "pH 7.25 – 7.35, PaCO2 50 – 60 mmHg, HCO3- 18 – 22 mmol/L.",
+        "pH 7,37 – 7,43 (trung bình 7,40), PaCO2 36 – 44 mmHg (trung bình 40 mmHg), HCO3- 22 – 26 mmol/L (trung bình 24 mmol/L).",
+        "pH 7.45 – 7.55, PaCO2 20 – 30 mmHg, HCO3- 28 – 32 mmol/L.",
+        "pH 7.00 – 7.20, PaCO2 40 mmHg, HCO3- 24 mmol/L."
+      ],
+      "correct": 0,
+      "explanation": "Trị số sinh lý máu động mạch: pH = 7.35 – 7.45 (chuẩn 7.40, tương ứng nồng độ H+ = 40 nEq/L); PaCO2 = 35 – 45 mmHg (chuẩn 40 mmHg); HCO3- = 22 – 26 mmol/L (chuẩn 24 mmol/L). ---"
+    },
+    {
+      "id": "bank_im47b_ly_thuyet_toan_kiem_02",
+      "text": "Tỷ lệ nồng độ Bicarbonate / Acid Carbonic trong phương trình Henderson - Hasselbalch Theo phương trình Henderson - Hasselbalch, ở pH sinh lý 7,40, tỷ lệ giữa nồng độ kiềm Bicarbonate [HCO3-] và Acid Carbonic hòa tan [H2CO3] trong máu là bao nhiêu?",
+      "options": [
+        "1 : 1.",
+        "20 : 1.",
+        "10 : 1.",
+        "50 : 1."
+      ],
+      "correct": 0,
+      "explanation": "[HCO3-] = 24 mmol/L; [H2CO3] = 0.03 * PaCO2 = 0.03 * 40 = 1.2 mmol/L. Tỷ số = 24 / 1.2 = 20 : 1. log(20) = 1.3 -> pH = 6.1 + 1.3 = 7.40. pH máu phụ thuộc vào tỷ lệ 20 : 1 này chứ không phụ thuộc vào giá trị tuyệt đối. ---"
+    },
+    {
+      "id": "bank_im47b_ly_thuyet_toan_kiem_03",
+      "text": "Phương trình Kassirer - Bleich tính toán nhanh nồng độ ion H+ Phương trình Kassirer - Bleich dùng để kiểm tra tính nhất quán nội tại của máy đo khí máu được tính theo công thức nào?",
+      "options": [
+        "[H+] = PaCO2 + [HCO3-].",
+        "[H+] (nEq/L) = 24 * PaCO2 / [HCO3-].",
+        "[H+] = 40 - pH.",
+        "[H+] = [HCO3-] / PaCO2."
+      ],
+      "correct": 0,
+      "explanation": "[H+] nEq/L = 24 * PaCO2 / [HCO3-]. Ở pH = 7.40, [H+] = 40 nEq/L (24 * 40 / 24 = 40). Cứ pH đổi 0.1 thì [H+] đổi ngược chiều khoảng 8 - 10 nEq/L. Nếu tính ra [H+] không khớp với pH in trên phiếu thì máy xét nghiệm bị sai số. ---"
+    },
+    {
+      "id": "bank_im47b_ly_thuyet_toan_kiem_04",
+      "text": "Phân bố vai trò của Hệ thống đệm nội bào vs ngoại bào Hệ thống đệm nội bào (gồm protein tế bào, hemoglobin trong hồng cầu và phosphate hữu cơ) chịu trách nhiệm đệm bao nhiêu phần trăm lượng acid không bay hơi sinh ra trong cơ thể?",
+      "options": [
+        "10%.",
+        "Khoảng 50% (nửa còn lại do hệ đệm Bicarbonate ngoại bào đảm nhận).",
+        "99%.",
+        "0%."
+      ],
+      "correct": 0,
+      "explanation": "Acid bay hơi H2CO3 phân ly thành CO2 đào thải qua phổi. Acid không bay hơi (H2SO4, H3PO4) sinh ra từ chuyển hóa tế bào được đệm 50% bởi hệ đệm nội bào (hemoglobin, protein bào tương) và 50% bởi hệ đệm Bicarbonate ngoại bào trước khi được thận đào thải. ---"
+    },
+    {
+      "id": "bank_im47b_ly_thuyet_toan_kiem_05",
+      "text": "Quy luật biến đổi Cùng chiều vs Ngược chiều giữa pH và PaCO2 Mối tương quan chiều hướng biến đổi giữa pH và PaCO2 giúp nhận diện rối loạn toan kiềm nguyên phát ban đầu như thế nào?",
+      "options": [
+        "Luôn cùng chiều trong mọi bệnh cảnh.",
+        "Biến đổi CÙNG CHIỀU (cùng tăng hoặc cùng giảm) khẳng định rối loạn nguyên phát là CHUYỂN HÓA; Biến đổi NGƯỢC CHIỀU (pH tăng thì PaCO2 giảm, hoặc pH giảm thì PaCO2 tăng) khẳng định rối loạn nguyên phát là HÔ HẤP.",
+        "Luôn ngược chiều trong mọi bệnh cảnh.",
+        "Không có quy luật nào."
+      ],
+      "correct": 0,
+      "explanation": "Toan chuyển hóa: pH giảm, PaCO2 giảm (cùng chiều). Kiềm chuyển hóa: pH tăng, PaCO2 tăng (cùng chiều). Toan hô hấp: PaCO2 tăng làm pH giảm (ngược chiều). Kiềm hô hấp: PaCO2 giảm làm pH tăng (ngược chiều). ---"
+    },
+    {
+      "id": "bank_im47b_ly_thuyet_toan_kiem_06",
+      "text": "Giới hạn bù trừ sinh lý của cơ thể Một nguyên tắc cơ bản trong sinh lý học bù trừ toan kiềm là gì?",
+      "options": [
+        "Cơ thể luôn bù trừ vượt mức đưa pH vượt qua ngưỡng đối diện.",
+        "Cơ thể KHÔNG BAO GIỜ bù trừ quá mức đưa pH vượt qua giới hạn bình thường 7,40 sang phía đối diện; nếu pH vượt qua 7,40 khẳng định chắc chắn có rối loạn hỗn hợp độc lập đi kèm.",
+        "Thận không bao giờ bù trừ cho phổi.",
+        "Phổi luôn đưa pH về 7.40 tuyệt đối trong mọi bệnh lý."
+      ],
+      "correct": 0,
+      "explanation": "Đáp ứng bù trừ sinh lý chỉ làm pH tiến gần về bình thường chứ không bao giờ bù trừ quá mức đưa pH vượt qua 7.40. Nếu một bệnh nhân có toan hô hấp mà pH lại > 7.40, chắc chắn có thêm kiềm chuyển hóa phối hợp. ---"
+    },
+    {
+      "id": "bank_im47b_ly_thuyet_toan_kiem_07",
+      "text": "Công thức Winter tính PaCO2 bù trừ dự kiến trong Toan chuyển hóa Trong Toan chuyển hóa nguyên phát, công thức Winter dùng để tính nồng độ PaCO2 bù trừ dự kiến của phổi là gì?",
+      "options": [
+        "PaCO2 = [HCO3-] + 15.",
+        "PaCO2 dự kiến = 1,5 * [HCO3-] + (8 ± 2).",
+        "PaCO2 = 40 - [HCO3-].",
+        "PaCO2 = 0.7 * [HCO3-] + 20."
+      ],
+      "correct": 0,
+      "explanation": "Công thức Winter: PaCO2 = 1.5 * [HCO3-] + 8 +- 2. Nếu PaCO2 đo được > dự kiến -> kèm Toan hô hấp (suy hô hấp kiệt cơ). Nếu PaCO2 đo được < dự kiến -> kèm Kiềm hô hấp (tăng thông khí quá mức). ---"
+    },
+    {
+      "id": "bank_im47b_ly_thuyet_toan_kiem_08",
+      "text": "Công thức tính PaCO2 bù trừ dự kiến trong Kiềm chuyển hóa Trong Kiềm chuyển hóa nguyên phát, công thức tính PaCO2 dự kiến bù trừ bằng giảm thông khí của phổi là gì?",
+      "options": [
+        "PaCO2 = 1.5 * [HCO3-] + 8.",
+        "PaCO2 dự kiến = 0,7 * [HCO3-] + (20 ± 1,5) (hoặc PaCO2 tăng 0,7 mmHg cho mỗi 1 mEq/L HCO3- tăng thêm).",
+        "PaCO2 = 40 + [HCO3-].",
+        "PaCO2 luôn giữ nguyên 40 mmHg."
+      ],
+      "correct": 0,
+      "explanation": "Trong kiềm chuyển hóa: PaCO2 dự kiến = 0.7 * [HCO3-] + (20 +- 1.5). Phổi bù trừ bằng thở chậm nông giữ lại CO2, nhưng hiếm khi tăng quá 55 - 60 mmHg do phản xạ thiếu oxy kích thích thở. ---"
+    },
+    {
+      "id": "bank_im47b_ly_thuyet_toan_kiem_09",
+      "text": "Quy tắc bù trừ trong Toan hô hấp CẤP vs Toan hô hấp MẠN Mức độ tăng nồng độ Bicarbonate (HCO3-) huyết tương để bù trừ cho mỗi 10 mmHg PaCO2 tăng thêm trong Toan hô hấp Cấp tính và Mạn tính lần lượt là bao nhiêu?",
+      "options": [
+        "Cấp tăng 5 mmol/L, Mạn tăng 10 mmol/L.",
+        "Toan hô hấp CẤP: [HCO3-] tăng 1 mEq/L cho mỗi 10 mmHg PaCO2 tăng; Toan hô hấp MẠN: [HCO3-] tăng 3,5 – 4 mEq/L cho mỗi 10 mmHg PaCO2 tăng (do thận tăng tái hấp thu sau 2 – 5 ngày).",
+        "Cả cấp và mạn đều tăng 1 mEq/L.",
+        "Cấp tăng 3.5 mEq/L, Mạn tăng 1 mEq/L."
+      ],
+      "correct": 0,
+      "explanation": "Cấp tính: hệ đệm tế bào chỉ giải phóng 1 mEq/L HCO3- cho mỗi 10 mmHg CO2 tăng (tối đa đưa HCO3- lên 28 - 30). Mạn tính: thận mất 48 - 72h tăng tái hấp thu và sinh mới kiềm đưa HCO3- tăng 3.5 - 4 mEq/L cho mỗi 10 mmHg CO2 (tối đa đưa HCO3- lên 42 - 45). ---"
+    },
+    {
+      "id": "bank_im47b_ly_thuyet_toan_kiem_10",
+      "text": "Quy tắc bù trừ trong Kiềm hô hấp CẤP vs Kiềm hô hấp MẠN Mức độ giảm nồng độ Bicarbonate (HCO3-) huyết tương để bù trừ cho mỗi 10 mmHg PaCO2 giảm trong Kiềm hô hấp Cấp tính và Mạn tính lần lượt là bao nhiêu?",
+      "options": [
+        "Cấp giảm 5 mmol/L, Mạn giảm 1 mmol/L.",
+        "Kiềm hô hấp CẤP: [HCO3-] giảm 2 mEq/L cho mỗi 10 mmHg PaCO2 giảm; Kiềm hô hấp MẠN: [HCO3-] giảm 4 – 5 mEq/L cho mỗi 10 mmHg PaCO2 giảm (thận tăng đào thải kiềm sau 2 – 3 ngày).",
+        "Cả cấp và mạn đều giảm 2 mEq/L.",
+        "Không bao giờ giảm quá 24 mEq/L."
+      ],
+      "correct": 0,
+      "explanation": "Kiềm hô hấp cấp: H+ nội bào ra trung hòa làm HCO3- giảm nhẹ 2 mEq/L cho mỗi 10 mmHg CO2 tụt (sàn khoảng 18 mmol/L). Kiềm hô hấp mạn: thận giảm tái hấp thu kiềm làm HCO3- giảm mạnh 4 - 5 mEq/L cho mỗi 10 mmHg CO2 tụt (sàn đưa HCO3- xuống 12 - 15 mmol/L). ---"
+    },
+    {
+      "id": "bank_im47b_ly_thuyet_toan_kiem_11",
+      "text": "Công thức tính Khoảng trống Anion (Anion Gap - AG) máu Khoảng trống Anion trong máu được tính theo công thức nào và giá trị bình thường là bao nhiêu?",
+      "options": [
+        "AG = [Na+] - [Cl-]; bình thường 20 mmol/L.",
+        "AG = [Na+] - ([Cl-] + [HCO3-]); giá trị bình thường là 8 – 12 mmol/L (nếu tính thêm K+: AG = ([Na+] + [K+]) - ([Cl-] + [HCO3-]) với giá trị bình thường 12 ± 4 mmol/L).",
+        "AG = [Cl-] - [HCO3-]; bình thường 15 mmol/L.",
+        "AG = [Na+] + [Glucose]; bình thường 140 mmol/L."
+      ],
+      "correct": 0,
+      "explanation": "Anion Gap đại diện cho các anion không đo được trong huyết tương (chủ yếu là Albumin mang điện âm, phosphate, sulfate, acid hữu cơ). Công thức chuẩn: AG = Na - (Cl + HCO3-), bình thường 8 – 12 mmol/L. ---"
+    },
+    {
+      "id": "bank_im47b_ly_thuyet_toan_kiem_12",
+      "text": "Công thức hiệu chỉnh Khoảng trống Anion theo Albumin máu Vì Albumin mang điện tích âm là thành phần chính tạo nên Anion Gap bình thường, khi Albumin máu giảm, công thức hiệu chỉnh AG là gì?",
+      "options": [
+        "AG hiệu chỉnh = AG tính toán + 2,5 * (4,0 - Albumin [g/dL]) (cứ Albumin giảm 1 g/dL thì AG giảm giả tạo 2,5 mmol/L).",
+        "AG hiệu chỉnh = AG tính toán - Albumin.",
+        "AG hiệu chỉnh = AG * Albumin / 4.",
+        "Không cần hiệu chỉnh."
+      ],
+      "correct": 0,
+      "explanation": "Cứ Albumin giảm 1 g/dL (10 g/L) thì AG giảm 2.5 mmol/L. Ở bệnh nhân suy dinh dưỡng, xơ gan có Albumin = 2.0 g/dL, AG bình thường của họ chỉ là 12 - 5 = 7 mmol/L! Nếu đo được AG = 12 thì thực tế bệnh nhân đã bị tăng AG (+5 mmol/L acid lạ). ---"
+    },
+    {
+      "id": "bank_im47b_ly_thuyet_toan_kiem_13",
+      "text": "Các nguyên nhân kinh điển gây Toan chuyển hóa tăng Anion Gap (HAGMA) Nhóm nguyên nhân nào sau đây đặc trưng gây Toan chuyển hóa có Khoảng trống Anion TĂNG (HAGMA)?",
+      "options": [
+        "Tiêu chảy cấp mất nước và Toan hóa ống thận RTA.",
+        "Nhóm MUDPILES / GOLDMARK: Toan Lactic, Toan Ceton (ĐTĐ, rượu, đói), Suy thận giai đoạn cuối (ứ đọng sulfate, phosphate), Ngộ độc cồn ngoại sinh (Methanol, Ethylene glycol, Salicylate, Propylene glycol, 5-Oxoproline).",
+        "Dùng thuốc lợi tiểu Acetazolamide.",
+        "Hồi sức bằng truyền quá nhiều dịch NaCl 0.9%."
+      ],
+      "correct": 0,
+      "explanation": "HAGMA xảy ra khi có sự xuất hiện của các anion acid lạ không đo được (lactate, beta-hydroxybutyrate, formate, oxalate, sulfate...). Các nguyên nhân gây NAGMA (AG bình thường) gồm: mất HCO3- qua tiêu hóa (tiêu chảy, rò tụy), mất qua thận (RTA, Diamox) hoặc truyền thừa NaCl 0.9%. ---"
+    },
+    {
+      "id": "bank_im47b_ly_thuyet_toan_kiem_14",
+      "text": "Phân loại Toan Lactic: Type A vs Type B Điểm khác biệt cơ bản giữa Toan Lactic Type A và Toan Lactic Type B là gì?",
+      "options": [
+        "Type A do dùng thuốc, Type B do nhiễm trùng.",
+        "Type A xảy ra do THIẾU OXY MÔ VÀ SUY GIẢM TƯỚI MÁU (sốc các loại, ngừng tuần hoàn, thiếu máu cục bộ mô); Type B xảy ra TRONG ĐIỀU KIỆN TƯỚI MÁU VÀ OXY MÔ BÌNH THƯỜNG (do suy gan, thuốc Metformin, Linezolid, ung thư, thiếu Vitamin B1).",
+        "Type A nồng độ lactate thấp hơn Type B.",
+        "Type B chỉ gặp ở trẻ sơ sinh."
+      ],
+      "correct": 0,
+      "explanation": "Type A: Thiếu máu/thiếu oxy mô -> chuyển hóa kỵ khí (gặp trong mọi thể sốc, ngừng tim, co giật liên tục). Type B: Oxy mô bình thường nhưng ti thể không sử dụng được hoặc gan không chuyển hóa được lactate (Metformin ức chế chuỗi hô hấp ti thể, suy gan nặng, thiếu Thiamine). ---"
+    },
+    {
+      "id": "bank_im47b_ly_thuyet_toan_kiem_15",
+      "text": "Công thức tính Lượng Bicarbonate thiếu hụt cần bù Khi có chỉ định bù Natri Bicarbonate trong toan chuyển hóa nặng, công thức tính lượng kiềm thiếu hụt (mmol) là gì?",
+      "options": [
+        "Lượng HCO3- thiếu = 0,4 * Cân nặng (kg) * (24 - [HCO3-]đo).",
+        "Lượng HCO3- thiếu = Cân nặng * 2.",
+        "Lượng HCO3- thiếu = pH * 100.",
+        "Lượng HCO3- thiếu = Na đo - Cl đo."
+      ],
+      "correct": 0,
+      "explanation": "Lượng Bicarbonate thiếu (mmol) = Thể tích phân bố (0.4 – 0.5 ở toan vừa, 0.7 – 0.8 ở toan nặng) * Cân nặng (kg) * (HCO3- đích - HCO3- đo). Trong cấp cứu, ban đầu chỉ đặt mục tiêu đưa HCO3- lên 10 - 12 mmol/L (đưa pH lên an toàn khoảng 7.20), chỉ bù 1/2 lượng tính toán rồi đánh giá lại. ---"
+    },
+    {
+      "id": "bank_im47b_ly_thuyet_toan_kiem_16",
+      "text": "Nguy cơ \"Toan nội bào nghịch thường\" khi lạm dụng NaHCO3 Cơ chế sinh lý học nào giải thích việc truyền nhanh Natri Bicarbonate trong toan lactic lại có thể gây toan nội bào nghịch thường làm ức chế co bóp cơ tim?",
+      "options": [
+        "Bicarbonate làm đông vón máu trong tim.",
+        "Phản ứng đệm sinh ra khí CO2; khí CO2 khuếch tán vào nội bào tim và não nhanh hơn nhiều so với ion HCO3- tích điện âm, làm tụt pH bên trong tế bào cơ tim gây giảm co bóp cơ tim và tụt huyết áp.",
+        "Bicarbonate làm giảm đường huyết não.",
+        "Bicarbonate làm tăng đào thải Calci qua thận."
+      ],
+      "correct": 0,
+      "explanation": "H+ + HCO3- <-> H2CO3 <-> H2O + CO2. CO2 hòa tan cao trong lipid màng tế bào nên tràn vào nội bào ngay lập tức, kết hợp với nước nội bào tạo lại H+ làm tụt pH nội bào cơ tim. Chỉ bù kiềm khi đã đảm bảo thông khí phổi đào thải kịp CO2. ---"
+    },
+    {
+      "id": "bank_im47b_ly_thuyet_toan_kiem_17",
+      "text": "Phân loại Kiềm chuyển hóa theo Nồng độ Chlor nước tiểu (Cl- niệu) Xét nghiệm nồng độ Chlor nước tiểu phân chia Kiềm chuyển hóa thành 2 nhóm bệnh sinh như thế nào?",
+      "options": [
+        "Cl- niệu > 100 mmol/L là do thận.",
+        "Nhóm ĐÁP ỨNG VỚI CHLOR (Cl- niệu < 10 – 20 mmol/L, V_ECF giảm do nôn mửa, hút dịch vị, dùng lợi tiểu); Nhóm KHÔNG ĐÁP ỨNG VỚI CHLOR (Cl- niệu > 20 mmol/L, V_ECF bình thường/tăng do cường Aldosterone, Hội chứng Cushing, hạ Kali nặng).",
+        "Cl- niệu không có giá trị phân loại.",
+        "Cl- niệu luôn bằng Natri niệu."
+      ],
+      "correct": 0,
+      "explanation": "Cl- niệu < 10 - 20 mmol/L: cơ thể cạn kiệt Chlor do mất dịch dạ dày (HCl) hoặc lợi tiểu, thận giữ lại toàn bộ Chlor -> điều trị dứt điểm bằng truyền NaCl 0.9% + bù KCl. Cl- niệu > 20 mmol/L: do thừa mineralocorticoid hoặc hạ Kali nặng kích thích ống thận bơm H+ -> truyền muối không có tác dụng, phải dùng Spironolactone hoặc phẫu thuật u. ---"
+    },
+    {
+      "id": "bank_im47b_ly_thuyet_toan_kiem_18",
+      "text": "Tác động của Kiềm máu lên Đường cong phân ly Oxy - Hemoglobin Tình trạng Kiềm máu nặng (pH > 7,55) làm dịch chuyển đường cong phân ly Hb-O2 theo hướng nào và gây hậu quả gì?",
+      "options": [
+        "Lệch sang PHẢI, làm tăng nhả oxy cho mô.",
+        "Lệch sang TRÁI (Hiệu ứng Bohr nghịch đảo), làm tăng ái lực gắn kết giữa Hemoglobin và Oxy, khiến hồng cầu giữ chặt oxy không chịu giải phóng cho tế bào, gây thiếu oxy mô tế bào dù SpO2 đo được vẫn 100%.",
+        "Không làm thay đổi đường cong phân ly.",
+        "Làm phá hủy hoàn toàn phân tử Hemoglobin."
+      ],
+      "correct": 0,
+      "explanation": "Kiềm máu, hạ nhiệt độ, giảm CO2 và giảm 2,3-DPG làm đường cong Hb-O2 lệch sang TRÁI -> tăng ái lực Hb với O2 -> ức chế giải phóng oxy tại mao mạch mô -> ngạt tế bào. ---"
+    },
+    {
+      "id": "bank_im47b_ly_thuyet_toan_kiem_19",
+      "text": "Chỉ định thuốc lợi tiểu Acetazolamide trong Kiềm chuyển hóa Thuốc lợi tiểu Acetazolamide (Diamox liều 250 – 500 mg tiêm TM hoặc uống) được chỉ định trong tình huống Kiềm chuyển hóa nào?",
+      "options": [
+        "Kiềm chuyển hóa do mất nước nôn mửa.",
+        "Kiềm chuyển hóa ở bệnh nhân có tình trạng THỪA THỂ TÍCH DỊCH (phù toàn thân, suy tim xung huyết) có chống chỉ định truyền dịch muối NaCl 0.9%, thuốc ức chế men Carbonic Anhydrase tại ống lượn gần giúp thận đào thải Bicarbonate ra nước tiểu để hạ pH máu an toàn.",
+        "Chỉ định cho bệnh nhân toan chuyển hóa.",
+        "Chỉ định cho ngộ độc Aspirin."
+      ],
+      "correct": 0,
+      "explanation": "Ở bệnh nhân suy tim thừa dịch bị kiềm chuyển hóa do dùng lợi tiểu quai, không thể truyền NaCl 0.9% vì sẽ gây phù phổi cấp. Acetazolamide khóa enzyme CA ở ống gần giúp thận tống kiềm ra nước tiểu mà không cần nạp thêm dịch muối. ---"
+    },
+    {
+      "id": "bank_im47b_ly_thuyet_toan_kiem_20",
+      "text": "Tỷ số Delta (Delta Ratio) trong Toan chuyển hóa tăng Anion Gap Tỷ số Delta Ratio = Delta AG / Delta HCO3- = (AG đo - 12) / (24 - HCO3- đo) giúp phát hiện rối loạn hỗn hợp như thế nào?",
+      "options": [
+        "Tỷ số luôn bằng 1 ở mọi bệnh nhân.",
+        "Delta Ratio từ 1,0 – 1,6: HAGMA đơn thuần; Delta Ratio < 0,8: HAGMA phối hợp Toan chuyển hóa Anion Gap bình thường (NAGMA); Delta Ratio > 2,0: HAGMA phối hợp Kiềm chuyển hóa.",
+        "Delta Ratio > 2.0 là toan hô hấp.",
+        "Delta Ratio < 0.4 là kiềm hô hấp."
+      ],
+      "correct": 0,
+      "explanation": "Cứ 1 phân tử acid lạ sinh ra sẽ làm tăng AG lên 1 và tiêu hao đúng 1 phân tử HCO3- (tỷ lệ 1:1). Nếu tỷ số < 0.8: HCO3- giảm sâu hơn mức tăng AG -> có thêm NAGMA (như tiêu chảy mất kiềm). Nếu tỷ số > 2.0: HCO3- giảm ít hơn mức tăng AG -> có thêm Kiềm chuyển hóa (như nôn ói giữ lại kiềm)."
+    }
+  ]
+}

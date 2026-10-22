@@ -1,0 +1,85 @@
+=== IM-54: Hội Chứng Cushing (Cushing's Syndrome) ===
+Bộ 10 câu hỏi trắc nghiệm chuyên sâu về Trục HPA, Nhịp ngày đêm cortisol, Cushing ngoại sinh vs Bệnh Cushing, Bộ 3 test sàng lọc ban đầu, Nghiệm pháp liều cao HDDST, Tiêu chuẩn vàng BIPSS, Nguy cơ huyết khối VTE và Tiêu chuẩn lui bệnh sau mổ TSS.
+
+Câu 1: Phân biệt bản chất giữa thuật ngữ 'Hội chứng Cushing' (Cushing's syndrome) và 'Bệnh Cushing' (Cushing's disease)?
+A. Hội chứng Cushing chỉ gặp ở trẻ em, Bệnh Cushing chỉ gặp ở người già
+B. Hội chứng Cushing là tình trạng phơi nhiễm mạn tính với thừa Cortisol do mọi nguyên nhân; Bệnh Cushing là thể bệnh cụ thể do khối u tuyến yên tăng tiết ACTH
+C. Hội chứng Cushing do u thượng thận, Bệnh Cushing do dùng thuốc corticoid
+D. Hai thuật ngữ hoàn toàn đồng nghĩa và có thể dùng thay thế nhau mà không cần phân biệt
+Đáp án: B
+Giải thích: Hội chứng Cushing là thuật ngữ rộng chỉ tình trạng dư thừa cortisol máu mạn tính do bất kỳ nguyên nhân nào. Bệnh Cushing (chiếm 70% nguyên nhân nội sinh) là thể bệnh do khối u tế bào ưa kiềm thùy trước tuyến yên tăng tiết ACTH.
+
+Câu 2: Nguyên nhân phổ biến nhất gây ra Hội chứng Cushing trong thực hành lâm sàng hiện nay tại Việt Nam là:
+A. U biểu mô vỏ thượng thận (Adenoma thượng thận)
+B. U tuyến yên tiết ACTH
+C. Hội chứng Cushing ngoại sinh do lạm dụng thuốc Glucocorticoid (thuốc tiêm khớp, thuốc nam trộn corticoid)
+D. Ung thư phổi tế bào nhỏ tiết ACTH lạc chỗ
+Đáp án: C
+Giải thích: Nguyên nhân hay gặp nhất là ngoại sinh do dùng corticoid kéo dài (dexamethasone, prednisolone...) tự ý điều trị hen, khớp, dị ứng hoặc uống thuốc hoàn tán đông y không rõ nguồn gốc bị pha trộn corticoid.
+
+Câu 3: Nhịp tiết sinh học ngày đêm (Circadian rhythm) của Cortisol ở người bình thường khỏe mạnh đặc trưng bởi:
+A. Nồng độ đạt đỉnh cao nhất lúc 6h - 8h sáng và giảm xuống đáy thấp nhất lúc nửa đêm (23h - 24h)
+B. Nồng độ hằng định không thay đổi suốt 24 giờ
+C. Nồng độ đạt đỉnh cao nhất lúc nửa đêm và hạ thấp nhất vào buổi sáng
+D. Chỉ tiết ra từng đợt sau mỗi bữa ăn trưa
+Đáp án: A
+Giải thích: Trục HPA bình thường có nhịp sinh học chặt chẽ: Đỉnh Cortisol máu lúc 6h - 8h sáng (10 - 20 mcg/dL) để đánh thức cơ thể; giảm dần về chiều và xuống đáy thấp nhất lúc nửa đêm (< 1.8 - 3.6 mcg/dL). Mất nhịp ngày đêm (cortisol đêm không hạ) là dấu hiệu sớm nhất của Cushing.
+
+Câu 4: Bộ 3 xét nghiệm sàng lọc ban đầu đầu tay (First-line screening tests) được Hiệp hội Nội tiết (Endocrine Society) khuyến cáo chẩn đoán Hội chứng Cushing là:
+A. Định lượng ACTH sáng, chụp CT bụng, chụp MRI sọ não
+B. Cortisol tự do nước tiểu 24h (24h UFC), Cortisol nước bọt ban đêm (Late-night salivary cortisol), và Nghiệm pháp ức chế Dexamethasone liều thấp qua đêm 1mg (1mg DST)
+C. Nghiệm pháp ức chế Dexamethasone liều cao 8mg, sinh thiết thượng thận, siêu âm tim
+D. Đo nồng độ Renin huyết tương và Aldosterone niệu
+Đáp án: B
+Giải thích: Theo Guideline chuẩn hóa của Endocrine Society, chẩn đoán xác định tăng cortisol máu mạn tính cần ít nhất 2 xét nghiệm dương tính từ 3 test sàng lọc: (1) Cortisol tự do nước tiểu 24h (24h UFC); (2) Cortisol nước bọt lúc 23h (ít nhất 2 lần); (3) Nghiệm pháp 1mg DST qua đêm (uống 1mg Dexamethasone lúc 23h, đo Cortisol lúc 8h sáng hôm sau).
+📌 Lưu ý về ngưỡng chẩn đoán: Guideline Endocrine Society 2008 thống nhất lấy ngưỡng Cortisol sáng sau 1mg DST < 1.8 mcg/dL (50 nmol/L) để tối đa hóa độ nhạy sàng lọc (> 95%), tránh bỏ sót bệnh (một số phòng lab cũ trước đây dùng ngưỡng 5 mcg/dL có độ nhạy thấp hơn).
+
+Câu 5: Dấu hiệu lâm sàng nào sau đây có độ đặc hiệu cao nhất (Discriminating features) giúp phân biệt Hội chứng Cushing thật sự với béo phì thông thường?
+A. Tăng cân và béo vùng bụng
+B. Tăng huyết áp tâm thu
+C. Da mỏng teo, dễ bầm tím tự nhiên, vết rạn da màu đỏ tím rộng > 1cm và yếu teo cơ gốc chi gần
+D. Rối loạn dung nạp glucose nhẹ
+Đáp án: C
+Giải thích: Béo bụng, tăng cân, tăng huyết áp rất thường gặp ở béo phì đơn thuần. Dấu hiệu phân biệt có độ đặc hiệu cao của Cushing là do dị hóa protein: Da teo mỏng như giấy sáp (fragile skin), dễ xuất huyết dưới da dù không va chạm, rạn da rộng > 1cm màu tím sẫm (purple striae) và teo cơ gốc chi (khó leo cầu thang, không đứng dậy được khỏi ghế thấp nếu không dùng tay vịn).
+
+Câu 6: Sau khi đã khẳng định có tăng Cortisol máu nội sinh, bước tiếp theo để phân loại Hội chứng Cushing là gì?
+A. Chụp ngay MRI tuyến yên
+B. Định lượng nồng độ ACTH huyết tương buổi sáng (8h) để phân biệt thể phụ thuộc ACTH vs. không phụ thuộc ACTH
+C. Phẫu thuật cắt cả hai tuyến thượng thận
+D. Chụp xạ hình xương toàn thân
+Đáp án: B
+Giải thích: Đo ACTH huyết tương lúc 8h sáng là bước phân loại cốt lõi: Nếu ACTH < 5 pg/mL -> Thể không phụ thuộc ACTH (nguyên nhân tại tuyến thượng thận); Nếu ACTH > 15 - 20 pg/mL -> Thể phụ thuộc ACTH (U tuyến yên hoặc U tiết ACTH ngoại vị).
+
+Câu 7: Nghiệm pháp ức chế Dexamethasone liều cao (High-dose DST: 8mg qua đêm hoặc 2mg mỗi 6h trong 48h) được sử dụng nhằm mục đích gì?
+A. Phân biệt giữa Bệnh Cushing (u tuyến yên) và Hội chứng tiết ACTH lạc chỗ (u ngoại vị như K phổi)
+B. Chẩn đoán phân biệt với bệnh đái tháo đường
+C. Điều trị dứt điểm khối u thượng thận
+D. Sàng lọc ban đầu ở phòng khám đa khoa
+Đáp án: A
+Giải thích: Các tế bào u tuyến yên trong Bệnh Cushing vẫn giữ được một phần thụ thể feedback nên bị ức chế bài tiết khi dùng Dexamethasone liều rất cao (Cortisol giảm > 50% so với nền). Ngược lại, u lạc chỗ (K phổi tế bào nhỏ, u carcinoid) hoạt động hoàn toàn tự chủ nên không bị ức chế (Cortisol không giảm).
+
+Câu 8: Tiêu chuẩn vàng (Gold standard) để chẩn đoán phân biệt vị trí u tiết ACTH giữa tuyến yên và u lạc chỗ khi hình ảnh MRI tuyến yên không rõ ràng (< 6mm) là:
+A. Chụp PET-CT toàn thân
+B. Lấy máu tĩnh mạch xoang đá dưới hai bên đồng thời (BIPSS - Bilateral Inferior Petrosal Sinus Sampling) có kích thích bằng CRH/Desmopressin
+C. Nghiệm pháp nhịn đói 72 giờ
+D. Chọc hút tế bào kim nhỏ tuyến yên qua mũi
+Đáp án: B
+Giải thích: BIPSS là tiêu chuẩn vàng định vị nguồn tiết ACTH: Đặt catheter luồn đồng thời vào 2 xoang đá dưới (nơi nhận lưu lượng máu trực tiếp từ tuyến yên) và tĩnh mạch ngoại vi. Tỷ số ACTH xoang đá/ngoại vi >= 2 ở trạng thái nền hoặc >= 3 sau tiêm kích thích CRH khẳng định 100% u nằm tại tuyến yên.
+⚠️ Lưu ý lâm sàng: BIPSS có độ nhạy ~95% và độ đặc hiệu ~100%, tuy nhiên đây là một thủ thuật can thiệp mạch máu xâm lấn có nguy cơ tai biến, do đó chỉ được chỉ định khi hình ảnh MRI tuyến yên âm tính, tổn thương vi u không rõ ràng (< 6mm) hoặc kết quả các xét nghiệm sinh hóa không thống nhất với u tuyến yên.
+
+Câu 9: Tại sao bệnh nhân mắc Hội chứng Cushing nặng có nguy cơ cao bị biến chứng thuyên tắc huyết khối tĩnh mạch (VTE) sâu và thuyên tắc phổi?
+A. Do tăng nồng độ các yếu tố đông máu (Yếu tố VIII, Von Willebrand, Fibrinogen) và giảm hoạt tính tiêu sợi huyết
+B. Do giảm số lượng tiểu cầu nghiêm trọng
+C. Do nồng độ kali máu tăng quá cao gây đông vón hồng cầu
+D. Do mất protein C và S hoàn toàn qua đường tiêu hóa
+Đáp án: A
+Giải thích: Thừa Cortisol mạn tính tạo ra tình trạng tăng đông máu dữ dội: Gan tăng tổng hợp Fibrinogen, Yếu tố VIII, vWF, đồng thời ức chế tiêu sợi huyết (tăng PAI-1). Nguy cơ huyết khối tĩnh mạch tăng gấp 10 - 18 lần so với người bình thường, đòi hỏi phải dùng kháng đông dự phòng (LMWH) chu phẫu.
+
+Câu 10: Sau phẫu thuật cắt u tuyến yên qua xoang bướm (TSS) điều trị thành công Bệnh Cushing, nồng độ Cortisol huyết tương sáng sớm đo trong tuần đầu sau mổ đạt giá trị nào là dấu hiệu chỉ điểm lui bệnh (Remission)?
+A. Cortisol huyết tương sáng sớm tụt sâu < 2 mcg/dL (hoặc < 5 mcg/dL)
+B. Cortisol huyết tương tăng vọt > 30 mcg/dL
+C. Cortisol huyết tương ổn định ở mức 15 - 20 mcg/dL
+D. Chỉ cần đo ACTH > 100 pg/mL
+Đáp án: A
+Giải thích: Khi khối u tiết ACTH bị cắt sạch, các tế bào tuyến yên lành xung quanh vốn bị ức chế lâu ngày sẽ bị 'tê liệt' tạm thời -> Cortisol tụt giảm sâu (< 2 mcg/dL hay < 50 nmol/L). Đây là tiêu chuẩn vàng chứng minh sạch u và bệnh nhân cần được bù Hydrocortisone tạm thời.
+

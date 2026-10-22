@@ -1,0 +1,322 @@
+=== IM-08: Sốc và Giảm Tưới Máu Mô Toàn Diện (40 Câu Chuẩn Hóa Cân Đối) ===
+
+Câu 1: Định nghĩa chuẩn xác và bản chất sinh lý bệnh học cốt lõi của Sốc (Shock) là gì?
+A. Tình trạng tụt huyết áp kéo dài do mất nước nặng làm sụt giảm lưu lượng máu động mạch cảnh
+B. Hội chứng suy tuần hoàn cấp tính do phản xạ ức chế giao cảm làm giãn toàn bộ giường mao mạch
+C. Hội chứng suy tuần hoàn cấp gây mất cân bằng nghiêm trọng giữa cung cấp và tiêu thụ oxy mô
+D. Trạng thái thiếu oxy mô toàn thể bắt nguồn từ suy giảm chức năng thông khí cơ học tại phổi
+Đáp án: C
+Giải thích: Bản chất cốt lõi của sốc không chỉ là hạ huyết áp, mà là sự mất cân bằng giữa cung cấp oxy (DO2) và nhu cầu tiêu thụ oxy (VO2) của tế bào mô, dẫn đến giảm tưới máu tổ chức, chuyển hóa yếm khí và suy đa tạng.
+
+Câu 2: Trong sốc, con đường chuyển hóa năng lượng tế bào bị biến đổi như thế nào khi chu trình Krebs ngừng trệ?
+A. Chuyển sang đường phân yếm khí, pyruvate biến thành lactate và chỉ tạo 2 ATP cho mỗi glucose
+B. Tăng cường oxy hóa acid béo tại bào tương, tạo ra một lượng lớn thể ceton và 4 phân tử ATP
+C. Tăng phân giải glycogen thành glucose tự do dưới tác dụng của glucagon và tạo 6 phân tử ATP
+D. Chuyển hướng thoái giáng protein cơ vân thành acid amin duy trì tân tạo đường và tạo 8 ATP
+Đáp án: A
+Giải thích: Thiếu oxy làm ngừng chuỗi hô hấp ti thể. Pyruvate bị enzyme LDH chuyển thành Acid Lactic qua đường phân yếm khí, chỉ tạo ra 2 ATP (so với 36 - 38 ATP khi có oxy), dẫn đến cạn kiệt năng lượng tế bào.
+
+Câu 3: Hậu quả trực tiếp của tình trạng cạn kiệt năng lượng ATP tế bào trong giai đoạn sốc nặng là gì?
+A. Kích thích tăng sinh màng tế bào và đẩy nhanh tốc độ phân bào nhằm tái tạo tế bào hoại tử
+B. Tăng cường hoạt tính bơm Na+/K+-ATPase nhằm duy trì điện thế màng tế bào ở mức sinh lý bình thường
+C. Làm tăng hấp thu ion Canxi vào mạng nội cơ tương và kích hoạt tổng hợp enzyme chống oxy hóa
+D. Liệt bơm Na+/K+-ATPase làm Na+ và nước tràn vào nội bào gây phù nề, vỡ lysosome tự tiêu tế bào
+Đáp án: D
+Giải thích: Thiếu ATP làm tê liệt bơm Na+/K+-ATPase: Natri không được bơm ra ngoài kéo nước vào trong tế bào gây phù nề, Canxi tràn vào bào tương kích hoạt enzyme tiêu hủy, làm vỡ màng lysosome và hoại tử tế bào lan rộng.
+
+Câu 4: Ngưỡng nồng độ Acid Lactic máu động mạch khẳng định có tình trạng chuyển hóa yếm khí trong sốc là bao nhiêu?
+A. Lactate máu tăng vượt quá 0,5 mmol/L kết hợp giảm nhẹ nồng độ kiềm dư Bicarbonate trong máu
+B. Lactate máu tăng trên 2,0 mmol/L, và mức trên 4,0 mmol/L cảnh báo tổn thương chuyển hóa nặng
+C. Lactate máu tăng vượt quá 8,0 mmol/L kết hợp tăng khoảng trống kiềm dư Base Excess động mạch
+D. Lactate máu tăng vượt quá 1,0 mmol/L kèm theo xuất hiện hiện tượng kiềm hóa nước tiểu mạn tính
+Đáp án: B
+Giải thích: Lactate > 2,0 mmol/L khẳng định có chuyển hóa yếm khí. Mức > 4,0 mmol/L phản ánh giảm tưới máu mô mức độ nặng nề và tỷ lệ tử vong tăng vọt.
+
+Câu 5: Ý nghĩa lâm sàng của chỉ số Độ thanh thải Lactate (Lactate Clearance) trong quá trình hồi sức sốc là gì?
+A. Đánh giá mức độ phục hồi lưu lượng dòng máu qua hệ thống động mạch thận và tưới máu ống thận
+B. Phản ánh toàn diện tốc độ đào thải các chất acid không bay hơi qua đường hô hấp phế nang và qua da
+C. Đánh giá phục hồi tưới máu mô, với mục tiêu cần giảm tối thiểu 10% – 20% sau mỗi 2 – 4 giờ
+D. Xác định nguyên nhân gây sốc do trực khuẩn Gram âm hay do vi khuẩn Gram dương tiết độc tố
+Đáp án: C
+Giải thích: Độ thanh thải Lactate = [(Lactate đầu - Lactate sau) / Lactate đầu] * 100%. Mức giảm >= 10 - 20% sau mỗi 2 - 4 giờ chứng minh mô tế bào đã nhận được oxy trở lại và gan đang chuyển hóa dọn dẹp lactate hiệu quả.
+
+Câu 6: Tại sao tình trạng Toan chuyển hóa nặng (pH < 7,15 – 7,20) lại làm huyết áp tụt sâu hơn và tạo vòng xoắn tử vong?
+A. Gây ức chế sức co bóp cơ tim và làm trơ, mất tính đáp ứng của thụ thể mạch máu với vận mạch
+B. Làm tăng tính thấm thành mạch toàn thân và kích thích tăng tiết hormone bài niệu nhĩ ANP
+C. Làm co thắt toàn bộ các tiểu động mạch tạng và ngăn cản dòng máu chảy về tĩnh mạch chủ
+D. Kích hoạt quá trình tiêu sợi huyết cấp tính toàn thân và phá hủy cấu trúc phân tử protein của màng tế bào
+Đáp án: A
+Giải thích: Môi trường toan nặng (pH < 7,15): ion H+ ức chế co bóp cơ tim; đồng thời làm biến đổi cấu trúc thụ thể alpha-1 adrenergic trên mạch máu khiến các thuốc co mạch catecholamin mất tác dụng.
+
+Câu 7: Phản xạ thở nhanh sâu Kussmaul (nhịp thở > 25 lần/phút) ở bệnh nhân sốc là đáp ứng sinh lý nhằm mục đích gì?
+A. Làm tăng áp lực dương trong khoang màng phổi để hỗ trợ tuần hoàn tĩnh mạch hồi lưu về tim
+B. Kích thích trung tâm hô hấp tại hành tủy làm tăng tiết hormone Adrenaline nội sinh vào máu
+C. Hạn chế sự mất nước qua đường hô hấp và duy trì ổn định nồng độ oxy hòa tan trong huyết tương
+D. Tăng thông khí phế nang đào thải tối đa CO2, giúp bù trừ hô hấp cho toan chuyển hóa
+Đáp án: D
+Giải thích: Thở Kussmaul là phản xạ bù trừ hô hấp: Tăng đào thải khí CO2 (acid bay hơi) qua phổi để bù trừ cho toan chuyển hóa, kéo pH máu dịch chuyển về phía bình thường.
+
+Câu 8: Bộ tiêu chuẩn chẩn đoán xác định Sốc theo giáo trình bao gồm những yếu tố bắt buộc nào?
+A. Có biểu hiện nhiễm trùng huyết, sốt cao trên 39 độ C và tăng nồng độ bạch cầu máu ngoại vi
+B. Tụt huyết áp, có giảm tưới máu 3 cửa sổ lâm sàng và có bằng chứng toan chuyển hóa yếm khí
+C. Hạ huyết áp tư thế đứng, nhịp tim chậm dưới 60 lần/phút và bóng tim to trên phim chụp X-quang
+D. Thiểu niệu kéo dài trên 24 giờ kết hợp với nồng độ men tim Troponin tăng cao gấp 5 lần bình thường
+Đáp án: B
+Giải thích: Chẩn đoán xác định sốc bắt buộc hội tụ đủ 3 yếu tố: (1) Tụt huyết áp; (2) Dấu hiệu lâm sàng giảm tưới máu mô (3 cửa sổ: não, da, thận); (3) Dấu ấn chuyển hóa yếm khí (Lactate > 2 mmol/L, toan chuyển hóa).
+
+Câu 9: Cạm bẫy lâm sàng số 1: Tại sao trong Giai đoạn Sốc bù trừ, thầy thuốc rất dễ chủ quan bỏ sót chẩn đoán sốc?
+A. Vì phản xạ giao cảm co mạch ngoại biên giúp duy trì huyết áp động mạch ở mức hoàn toàn bình thường
+B. Vì các xét nghiệm chức năng gan thận và nồng độ điện giải máu vẫn hoàn toàn trong giới hạn sinh lý
+C. Vì bệnh nhân hoàn toàn tỉnh táo và chưa có cảm giác khát nước hay mệt mỏi suy nhược trên lâm sàng
+D. Vì lượng nước tiểu đo được trong giai đoạn này thường tăng cao do phản ứng lợi niệu thẩm thấu cấp
+Đáp án: A
+Giải thích: Trong sốc bù trừ: Phản xạ giao cảm tiết catecholamin gây co mạch ngoại biên dồn máu về tim và não giúp giữ huyết áp hoàn toàn bình thường. Thấy huyết áp bình thường mà bỏ qua sốc là bệnh nhân sẽ mất bù tử vong.
+
+Câu 10: Cạm bẫy lâm sàng số 2: Tình huống nào sau đây khẳng định bệnh nhân tăng huyết áp mạn tính ĐÃ BỊ SỐC NẶNG?
+A. Huyết áp nền 140/90 mmHg đo được 120/80 mmHg sau khi dùng thuốc hạ áp nhóm ức chế men chuyển
+B. Huyết áp tâm thu dao động trong khoảng 130 - 140 mmHg nhưng nhịp tim tăng lên 95 lần/phút
+C. Huyết áp đo ở hai tay chênh lệch nhau 15 mmHg nhưng bệnh nhân hoàn toàn tỉnh táo hồng hào
+D. Huyết áp nền 170/100 mmHg tụt xuống 110/70 mmHg (tụt > 40 mmHg) kèm lơ mơ và thiểu niệu
+Đáp án: D
+Giải thích: Ở người tăng huyết áp mạn tính, khi huyết áp tụt > 40 mmHg so với nền (từ 170 xuống 110 mmHg, giảm 60 mmHg), áp lực tưới máu cơ quan bị sụp đổ hoàn toàn. Bệnh nhân đã bị sốc nặng dù số đo 110/70 mmHg trông như bình thường.
+
+Câu 11: Dấu hiệu Huyết áp kẹt (kẹp) trong sốc phản ánh cơ chế biến đổi sinh lý bệnh học nào?
+A. Tình trạng giãn nở quá mức của động mạch chủ ngực kết hợp với tăng sức cản vi mạch ngoại biên
+B. Hiện tượng hở van động mạch chủ cấp tính làm tụt huyết áp tâm trương về mức tiệm cận 0 mmHg
+C. Huyết áp tâm trương tăng do co mạch phản xạ kết hợp thể tích nhát bóp tống máu tâm thu giảm
+D. Sự suy giảm đột ngột trương lực thành mạch máu do liệt toàn bộ hệ thống hạch giao cảm tạng
+Đáp án: C
+Giải thích: Huyết áp kẹt (hiệu áp <= 20 mmHg): Thể tích nhát bóp giảm làm HATT giảm; phản xạ co mạch ngoại vi tối đa đẩy HATD tăng lên -> hai con số ép sát nhau, là dấu hiệu kinh điển của sốc giảm thể tích hoặc sốc tim.
+
+Câu 12: Điểm khác biệt căn bản giữa tình trạng Hạ huyết áp mạn tính sinh lý và Sốc tuần hoàn là gì?
+A. Hạ huyết áp mạn tính sinh lý có nồng độ Acid Lactic máu động mạch tăng cao trên 4 mmol/L
+B. Hạ huyết áp sinh lý không có giảm tưới máu mô, tri giác tỉnh, da ấm hồng, Lactate bình thường
+C. Hạ huyết áp mạn tính luôn đi kèm với tình trạng thở nhanh sâu Kussmaul và thiểu niệu rõ rệt
+D. Hạ huyết áp mạn tính sinh lý chỉ xuất hiện ở người cao tuổi có kèm bệnh đái tháo đường lâu năm
+Đáp án: B
+Giải thích: Hạ huyết áp cơ địa/sinh lý (thường ở phụ nữ gầy): Huyết áp thấp nhưng không có giảm tưới máu mô, không có chuyển hóa yếm khí (Lactate < 2 mmol/L), tri giác tỉnh, da ấm hồng, nước tiểu tốt. Sốc bắt buộc phải có suy sụp tưới máu mô.
+
+Câu 13: Tình huống nào sau đây là nguyên nhân gây Tăng nồng độ Acid Lactic máu KHÔNG DO SỐC giảm tưới máu?
+A. Ngộ độc thuốc Metformin, suy gan cấp nặng hoặc cơn co giật động kinh kéo dài
+B. Chấn thương đứt động mạch đùi gây mất máu cấp tính dẫn đến sụp đổ thể tích tuần hoàn hữu dụng
+C. Nhồi máu cơ tim thất trái diện rộng biến chứng suy bơm làm sụt giảm cung lượng tim cấp tính
+D. Sốc phản vệ mức độ nguy kịch sau khi tiêm kháng sinh tĩnh mạch gây giãn toàn bộ mao mạch
+Đáp án: A
+Giải thích: Tăng lactate không do sốc (Type B): Metformin ức chế chuỗi hô hấp ti thể, suy gan cấp không chuyển hóa được lactate, co giật kéo dài tăng co cơ yếm khí, ung thư tiến triển (hiệu ứng Warburg).
+
+Câu 14: Công thức tính Huyết áp trung bình (Mean Arterial Pressure - MAP / HATB) chuẩn xác tại giường bệnh là gì?
+A. HATB = (HATT + HATD) / 2 (lấy trung bình cộng đơn thuần của hai trị số huyết áp đo được)
+B. HATB = [ (2 * HATT) + HATD ] / 3 (nhân đôi huyết áp tâm thu rồi chia trung bình cho 3)
+C. HATB = HATT - HATD (lấy hiệu số đo được giữa huyết áp tâm thu và huyết áp tâm trương)
+D. HATB = [HATT + (2 * HATD)] / 3 (hoặc HATB = HATD + 1/3 hiệu số huyết áp)
+Đáp án: D
+Giải thích: Vì thì tâm trương kéo dài gấp đôi thì tâm thu trong chu chuyển tim, công thức chuẩn là: HATB = [HATT + 2*HATD] / 3. Đích hồi sức tối thiểu là duy trì HATB >= 65 mmHg để đảm bảo áp lực tưới máu cơ quan.
+
+Câu 15: Tam chứng lâm sàng giảm tưới máu tổ chức mô ('3 cửa sổ lâm sàng') tại giường gồm những cơ quan nào?
+A. Cửa sổ Gan (vàng da), Cửa sổ Lách (lách to ứ huyết) và Cửa sổ Tụy (tăng nồng độ men lipase máu)
+B. Cửa sổ Mắt (phù gai thị), Cửa sổ Tai (ù tai) và Cửa sổ Họng (khàn tiếng nuốt vướng)
+C. Cửa sổ Não (rối loạn tri giác), Cửa sổ Da (lạnh ẩm, vân tím), Cửa sổ Thận (thiểu niệu/vô niệu)
+D. Cửa sổ Phổi (ran ẩm dâng), Cửa sổ Tim (tiếng T3 ngựa phi) và Cửa sổ Dạ dày (chướng bụng)
+Đáp án: C
+Giải thích: Ba cửa sổ lâm sàng kinh điển của sốc: (1) Não: bồn chồn vật vã rồi lơ mơ, hôn mê; (2) Da: lạnh ẩm, tái nhợt, CRT > 2s, nổi vân tím; (3) Thận: thiểu niệu < 20 ml/h hoặc vô niệu.
+
+Câu 16: Dấu hiệu Nổi vân tím (Mottling score) tại vùng da quanh khớp gối có ý nghĩa lâm sàng then chốt nào?
+A. Là tổn thương viêm da tiếp xúc dị ứng không liên quan đến tiên lượng sống còn của bệnh nhân
+B. Phản ánh co thắt vi mạch ngoại vi; điểm càng lan rộng lên đùi và bẹn, nguy cơ tử vong càng cao
+C. Là dấu hiệu chỉ điểm đặc hiệu duy nhất khẳng định bệnh nhân mắc sốc phản vệ do thuốc
+D. Là triệu chứng lành tính chỉ xuất hiện khi nhiệt độ môi trường xung quanh phòng bệnh bị hạ thấp
+Đáp án: B
+Giải thích: Thang điểm Mottling (0 - 5) phản ánh mức độ ngừng trệ vi tuần hoàn da. Điểm càng lan rộng từ gối lên đùi và bẹn thì nguy cơ tử vong trong 14 ngày càng tăng vọt (lên tới 80 - 90%).
+
+Câu 17: Mốc thể tích nước tiểu xác định tình trạng Thiểu niệu và Vô niệu trong theo dõi cấp cứu sốc là bao nhiêu?
+A. Thiểu niệu khi < 20 ml/giờ (< 0,5 ml/kg/h) và Vô niệu khi thể tích nước tiểu < 10 ml/giờ
+B. Thiểu niệu khi < 50 ml/giờ và Vô niệu khi thể tích nước tiểu hoàn toàn bằng 0 ml tuyệt đối
+C. Thiểu niệu khi < 100 ml/giờ và Vô niệu khi thể tích nước tiểu thu được giảm xuống dưới 50 ml/giờ
+D. Thiểu niệu khi < 500 ml/24 giờ và Vô niệu khi thể tích nước tiểu thu được dưới 300 ml/24 giờ
+Đáp án: A
+Giải thích: Theo giáo trình IM-08: Thiểu niệu khi nước tiểu < 20 ml/giờ (< 0.5 ml/kg/h); Vô niệu khi nước tiểu < 10 ml/giờ. Nước tiểu là chỉ số nhạy nhất đánh giá tưới máu tạng.
+
+Câu 18: Thời gian đổ đầy mao mạch (Capillary Refill Time - CRT) bình thường là bao nhiêu và đánh giá như thế nào?
+A. Bình thường < 5 giây; ấn vào lòng bàn tay bệnh nhân và quan sát mức độ xuất huyết dưới da
+B. Bình thường > 3 giây; quan sát thời gian biến mất của các mảng vân tím bệnh lý ở quanh khớp gối
+C. Bình thường từ 4 đến 6 giây; đánh giá bằng cách đo nhiệt độ bề mặt mu bàn chân của người bệnh
+D. Bình thường ≤ 2 giây; ấn đầu móng tay 5 giây cho trắng rồi thả, đếm giây để hồng trở lại
+Đáp án: D
+Giải thích: CRT bình thường <= 2 giây. Thử nghiệm ANDROMEDA-SHOCK chứng minh hồi sức sốc theo đích CRT (< 2s) giúp giảm tử vong và giảm suy đa tạng tốt hơn so với chỉ theo dõi nồng độ Lactate máu.
+
+Câu 19: Đặc điểm nhận diện Giai đoạn 1: Sốc bù trừ (Compensated Shock) trên lâm sàng là gì?
+A. Huyết áp tụt sâu kèm theo hôn mê và toan lactic máu động mạch tăng vọt trên 6 mmol/L cấp tính
+B. Bệnh nhân xuất hiện hội chứng đông máu nội mạch rải rác DIC và suy hô hấp cấp tiến triển ARDS
+C. Huyết áp động mạch bình thường, dấu hiệu kín đáo (mạch hơi nhanh, chi hơi lạnh, CRT hơi chậm)
+D. Bệnh nhân bài niệu nhiều do thận bị mất khả năng cô đặc nước tiểu hoàn toàn trong giai đoạn đầu
+Đáp án: C
+Giải thích: Sốc bù trừ: Phản xạ giao cảm co mạch giúp huyết áp bình thường. Các dấu hiệu cảnh báo kín đáo là mạch hơi nhanh, thở hơi nhanh, da se lạnh, nước tiểu bắt đầu giảm. Khả năng hồi phục gần 100% nếu can thiệp đúng.
+
+Câu 20: Đặc điểm nhận diện Giai đoạn 2: Sốc mất bù (Decompensated Shock) trên lâm sàng là gì?
+A. Huyết áp động mạch hoàn toàn ổn định nhưng nồng độ men gan AST/ALT tăng cao đột ngột
+B. Cơ chế bù trừ thất bại: Huyết áp tụt rõ, bộc lộ rầm rộ tam chứng giảm tưới máu (lơ mơ, da lạnh, thiểu niệu)
+C. Hoại tử tế bào không hồi phục và bệnh nhân tử vong không thể can thiệp trong vòng 10 phút đầu
+D. Bệnh nhân tỉnh táo hoàn toàn và chỉ có triệu chứng đau đầu thoáng qua khi thay đổi tư thế nằm
+Đáp án: B
+Giải thích: Sốc mất bù: Cơ chế giao cảm bị quá tải -> huyết áp tụt rõ rệt, tam chứng giảm tưới máu bộc lộ rầm rộ, toan lactic tăng cao. Vẫn có thể đảo ngược nếu hồi sức tích cực trong giờ vàng.
+
+Câu 21: Đặc điểm nhận diện Giai đoạn 3: Sốc không hồi phục (Irreversible Shock) và Suy đa tạng (MODS) là gì?
+A. Tế bào chết hàng loạt, đông máu nội mạch rải rác (DIC), suy đa tạng, tử vong rất cao (> 80 – 90%)
+B. Chỉ cần truyền 500 ml dịch tinh thể đẳng trương là huyết áp hồi phục hoàn toàn về mức bình thường
+C. Bệnh nhân hồi phục hoàn toàn chức năng các cơ quan sau khi được sử dụng kháng sinh phổ rộng liều cao
+D. Huyết áp tăng vọt lên mức tăng huyết áp kịch phát do phản xạ bài tiết của tủy thượng thận toàn thân
+Đáp án: A
+Giải thích: Sốc không hồi phục: Hoại tử tế bào lan rộng, vỡ lysosome, DIC và suy đa tạng MODS (suy thận, ARDS, suy gan, suy tim). Lúc này dù dùng vận mạch nâng được huyết áp thì bệnh nhân vẫn tử vong vì các tạng đã chết.
+
+Câu 22: Bốn thông số huyết động học đo qua catheter Swan-Ganz / PiCCO dùng để phân loại sốc gồm những gì?
+A. Đường huyết mao mạch, nồng độ Ure, Creatinin máu và nồng độ Calci ion hóa tự do trong huyết thanh
+B. Chỉ số thể tích hồng cầu, số lượng tiểu cầu, thời gian prothrombin ngoại sinh và nồng độ fibrinogen
+C. Nhiệt độ trung tâm, tần số thở, độ bão hòa SpO2 ngoại vi và áp lực thẩm thấu huyết tương toàn phần
+D. Áp lực tiền gánh (CVP/PCWP), Cung lượng tim (CO/CI), Sức cản mạch (SVR), Bão hòa oxy tĩnh mạch (ScvO2)
+Đáp án: D
+Giải thích: Bộ tứ huyết động học chuẩn mực: Tiền gánh (CVP/PCWP), Chức năng bơm (CO/CI), Hậu gánh (SVR), và Chuyển hóa oxy tế bào (ScvO2/SvO2).
+
+Câu 23: Đặc trưng biến đổi huyết động học của SỐC GIẢM THỂ TÍCH (Hypovolemic Shock) là gì?
+A. CVP tăng rất cao, PCWP tăng rất cao, Cung lượng tim CO tăng vọt, Sức cản mạch hệ thống SVR giảm sâu
+B. CVP và PCWP giảm sâu, Cung lượng tim CO giảm, Sức cản mạch SVR tăng cao, ScvO2 giảm
+C. CVP bình thường, SVR giảm rất sâu, Cung lượng tim CO tăng cao, ScvO2 tăng cao bất thường
+D. CVP giảm sâu, SVR giảm sâu, Cung lượng tim CO bình thường, ScvO2 hoàn toàn bình thường
+Đáp án: B
+Giải thích: Sốc giảm thể tích: Lòng mạch rỗng -> CVP và PCWP tụt dốc -> CO giảm -> co mạch bù làm SVR tăng cao -> mô rút kiệt oxy làm ScvO2 giảm sâu.
+
+Câu 24: Đặc trưng biến đổi huyết động học của SỐC DO TIM (Cardiogenic Shock) là gì?
+A. CVP giảm sâu, PCWP giảm sâu, Cung lượng tim CO giảm nặng, Sức cản mạch SVR tăng cao
+B. CVP bình thường, PCWP bình thường, Cung lượng tim CO tăng cao, Sức cản mạch hệ thống SVR giảm sâu
+C. CVP tăng rất cao, PCWP tăng rất cao, Cung lượng tim CO giảm nặng, SVR tăng cao, ScvO2 giảm sâu
+D. CVP tăng cao, PCWP giảm sâu, Cung lượng tim CO bình thường, Sức cản mạch hệ thống SVR giảm sâu
+Đáp án: C
+Giải thích: Sốc tim: Bơm tim liệt -> CO giảm nặng -> ứ máu buồng tim và phổi làm CVP và PCWP tăng rất cao (> 18 mmHg) -> co mạch bù làm SVR tăng cao -> ScvO2 giảm sâu.
+
+Câu 25: Đặc trưng biến đổi huyết động học của SỐC PHÂN BỐ thể tăng động (Sốc nhiễm khuẩn nóng / Sốc phản vệ) là gì?
+A. Sức cản mạch SVR giảm rất sâu, Cung lượng tim CO tăng cao, ScvO2 tăng cao bất thường (> 75% – 80%)
+B. SVR tăng rất cao, Cung lượng tim CO giảm nặng, Tiền gánh CVP tăng rất cao do ứ trệ buồng tim
+C. CVP giảm sâu, PCWP giảm sâu, SVR tăng cao do co thắt mạch ngoại vi, ScvO2 giảm sâu kéo dài
+D. CVP và PCWP tăng cao, SVR bình thường, CO giảm nhẹ, ScvO2 hoàn toàn trong giới hạn sinh lý bình thường
+Đáp án: A
+Giải thích: Sốc phân bố (sốc nóng, phản vệ): Liệt mạch toàn thể làm SVR giảm rất sâu (da ấm, mạch nảy). Tim đập bù trừ làm CO tăng cao. Ti thể ngộ độc không dùng được oxy làm ScvO2 tăng cao bất thường (> 75 - 80%).
+
+Câu 26: Tại sao trong Sốc nhiễm khuẩn thể tăng động, độ bão hòa oxy tĩnh mạch ScvO2 lại TĂNG CAO BẤT THƯỜNG (> 75% – 80%)?
+A. Do phổi tăng cường khuếch tán oxy qua màng phế nang mao mạch gấp 3 lần bình thường
+B. Do huyết áp tụt làm hồng cầu nhả toàn bộ lượng oxy dự trữ vào lòng mạch máu ngoại vi
+C. Do bệnh nhân được truyền lượng lớn máu toàn phần có nồng độ oxy hòa tan trong huyết tương cao
+D. Do độc tố làm tê liệt ti thể khiến tế bào không sử dụng được oxy, oxy trôi thẳng sang tĩnh mạch
+Đáp án: D
+Giải thích: Nghịch lý ScvO2 tăng trong sốc nhiễm khuẩn: Tế bào không thể sử dụng oxy do ti thể bị độc tố ức chế (Cytopathic hypoxia). Máu giàu oxy trôi qua giường mao mạch bị giãn thẳng về tĩnh mạch làm ScvO2 tăng cao.
+
+Câu 27: Đặc trưng biến đổi huyết động học của Sốc do thần kinh (Neurogenic Shock do chấn thương đứt tủy cổ) là gì?
+A. Huyết áp tụt sâu kèm nhịp tim nhanh kịch phát trên 140 lần/phút và SVR tăng cao phản xạ
+B. Huyết áp tụt, SVR giảm rất sâu do mất trương lực giao cảm, KÈM NHỊP TIM CHẬM NGHỊCH THƯỜNG
+C. Huyết áp tăng kịch phát kèm nhịp tim chậm và áp lực tĩnh mạch trung tâm CVP tăng cao bất thường
+D. Cung lượng tim CO tăng vọt, SVR tăng cao, CVP và PCWP tăng rất cao do ứ trệ máu hệ thống
+Đáp án: B
+Giải thích: Sốc thần kinh (đứt tủy cổ): Mất đường dẫn truyền giao cảm -> giãn mạch toàn thân (SVR tụt sâu). Đồng thời mất phân bố giao cảm tim (T1-T4) -> mất phản xạ tim nhanh bù trừ -> biểu hiện cặp đôi độc nhất: HẠ HUYẾT ÁP KÈM NHỊP TIM CHẬM.
+
+Câu 28: Đặc trưng biến đổi huyết động học của Sốc tắc nghẽn do Ép tim cấp (Cardiac Tamponade) là gì?
+A. CVP giảm sâu trong khi áp lực mao mạch phổi bít PCWP tăng vọt trên 30 mmHg do ứ trệ dòng máu
+B. Sức cản mạch hệ thống SVR giảm rất sâu tương tự như trong sốc nhiễm khuẩn nóng do liệt thành mạch
+C. Hiện tượng CÂN BẰNG ÁP LỰC TÂM TRƯƠNG: CVP, áp lực thất phải và PCWP tăng cao xấp xỉ bằng nhau, CO giảm
+D. Cung lượng tim CO tăng cao bù trừ giúp duy trì huyết áp tâm thu ở mức ổn định trong giai đoạn đầu
+Đáp án: C
+Giải thích: Ép tim cấp: Dịch màng tim áp lực dương đè ép 4 buồng tim -> tạo nên hiện tượng Cân bằng áp lực tâm trương (CVP = Áp lực thất phải = PCWP = 15 - 20 mmHg) -> tim không giãn nở đổ đầy được -> CO giảm nặng gây tụt huyết áp.
+
+Câu 29: Đặc trưng biến đổi huyết động học của Sốc tắc nghẽn do Thuyên tắc động mạch phổi cấp diện rộng là gì?
+A. CVP tăng rất cao do suy tim phải cấp, nhưng PCWP bình thường hoặc giảm thấp do thất trái đói dịch, CO giảm
+B. Cả CVP và PCWP đều giảm sâu tương tự như trong sốc giảm thể tích mất máu do cạn kiệt dịch tuần hoàn
+C. SVR giảm sâu như sốc phân bố và cung lượng tim CO tăng cao bù trừ giúp duy trì áp lực tưới máu
+D. Áp lực động mạch phổi bít tăng cao vượt quá 35 mmHg kèm theo nhịp tim chậm và tăng huyết áp kẹt
+Đáp án: A
+Giải thích: Thuyên tắc phổi diện rộng: Cục máu đông bít thân ĐM phổi -> ứ máu tim phải (CVP tăng rất cao, suy thất phải cấp). Máu không qua được phổi để về tim trái -> thất trái đói dịch (PCWP giảm thấp, thất trái rỗng) -> CO giảm nặng gây sốc.
+
+Câu 30: Thông số huyết động duy nhất nào sau đây giúp phân biệt nhanh chóng Sốc phân bố với tất cả các thể sốc khác?
+A. Nồng độ bão hòa oxy máu động mạch SaO2 đo bằng máy đo khí máu động mạch tại giường bệnh
+B. Áp lực tĩnh mạch trung tâm CVP đo qua đường truyền tĩnh mạch luồn vào tĩnh mạch cảnh trong
+C. Tần số nhịp tim và sự xuất hiện của các rối loạn dẫn truyền trên máy theo dõi monitor liên tục
+D. Sức cản mạch máu hệ thống (SVR): Chỉ Sốc phân bố có SVR GIẢM SÂU, các sốc khác SVR đều TĂNG CAO
+Đáp án: D
+Giải thích: Quy tắc vàng phân loại sốc: Nhìn vào SVR! Trong sốc giảm thể tích, sốc tim, sốc tắc nghẽn, cơ thể phản xạ co mạch tối đa để giữ huyết áp -> SVR luôn TĂNG. Chỉ duy nhất trong Sốc phân bố, mạch máu bị liệt giãn toạc -> SVR GIẢM SÂU.
+
+Câu 31: Tư thế nằm cấp cứu ban đầu bắt buộc cho bệnh nhân sốc (ngoại trừ sốc tim có phù phổi cấp) là gì?
+A. Nằm đầu cao 90 độ hai chân buông thõng xuống dưới giường để giải phóng áp lực cho cơ hoành
+B. Nằm đầu thấp, nâng cao hai chân góc 30 – 45 độ (PLR) để dồn 300 – 500 ml máu tĩnh mạch về tim
+C. Nằm nghiêng an toàn sang bên trái để tránh chèn ép tĩnh mạch chủ dưới bởi các tạng trong ổ bụng
+D. Nằm ngửa cổ ưỡn tối đa và kê gối dưới thắt lưng bệnh nhân để tạo thuận lợi cho tuần hoàn tạng
+Đáp án: B
+Giải thích: Tư thế đầu thấp nâng cao 2 chân 30 độ (nghiệm pháp nâng chân thụ động PLR): Giúp dồn khoảng 300 - 500 ml máu tĩnh mạch tự thân từ chi dưới về buồng tim phải, làm tăng tiền gánh và nâng nhanh huyết áp nuôi não.
+
+Câu 32: Yêu cầu kỹ thuật bắt buộc khi thiết lập đường truyền tĩnh mạch hồi sức dịch chống sốc ban đầu là gì?
+A. Đặt kim luồn nhỏ số 22G hoặc 24G ở mu bàn tay để hạn chế tối đa cảm giác đau cho bệnh nhân
+B. Bắt buộc phải chờ bác sĩ chuyên khoa đặt xong catheter tĩnh mạch trung tâm mới bắt đầu truyền dịch
+C. Thiết lập ngay ít nhất 2 đường truyền ngoại vi kim lớn (cỡ 14G hoặc 16G) ở tĩnh mạch lớn cẳng tay/khuỷu
+D. Chỉ cần truyền dịch qua kim bướm lấy máu xét nghiệm thông thường có nối dây truyền dịch chuẩn
+Đáp án: C
+Giải thích: Theo định luật Poiseuille, kim luồn ngoại biên lớn (14G/16G) ngắn và to cho phép xả dịch với tốc độ cực nhanh (200 - 300 ml/phút), nhanh hơn nhiều so với catheter tĩnh mạch trung tâm dài và lòng nhỏ. Bắt buộc có 2 đường truyền lớn ngay.
+
+Câu 33: Nghiệm pháp truyền dịch thử thách (Fluid Challenge Test) trong hồi sức sốc ban đầu được thực hiện như thế nào?
+A. Truyền xả nhanh 500 – 1.000 ml dịch tinh thể đẳng trương trong 20 – 30 phút, đánh giá mạch, HA và CVP
+B. Truyền nhỏ giọt tĩnh mạch chậm dung dịch Glucose 5% với tốc độ 20 giọt/phút duy trì trong 12 giờ
+C. Truyền tĩnh mạch nhanh 500 ml dung dịch Albumin 20% kết hợp tiêm bắp Furosemide liều cao
+D. Truyền máu toàn phần tươi ngay lập tức mà không cần kiểm tra áp lực tĩnh mạch trung tâm CVP ban đầu
+Đáp án: A
+Giải thích: Theo giáo trình IM-08: Xả nhanh 500 - 1.000 ml dịch tinh thể trong 20 - 30 phút. Nếu huyết áp tăng, mạch chậm lại, nước tiểu tăng -> tiếp tục bù dịch. Nếu CVP tăng vọt hoặc nghe phổi có ran ẩm -> tim quá tải, ngừng dịch ngay.
+
+Câu 34: Thuốc vận mạch co mạch được khuyến cáo lựa chọn hàng đầu số 1 (First-line) trong Sốc nhiễm khuẩn là gì?
+A. Dopamin truyền tĩnh mạch liều thấp kích thích chọn lọc các thụ thể dopaminergic tại thận
+B. Dobutamin truyền tĩnh mạch liều cao kích thích co bóp tim và làm giãn nhẹ giường mao mạch ngoại vi
+C. Adrenalin tiêm bắp ngắt quãng mỗi 15 phút một lần để duy trì trương lực thành mạch máu hệ thống
+D. Noradrenalin (Norepinephrine), truyền liên tục qua bơm tiêm điện bắt đầu từ liều 0,05 – 1,0 µg/kg/phút
+Đáp án: D
+Giải thích: Noradrenalin là thuốc vận mạch số 1: Kích thích chọn lọc cực mạnh alpha-1 gây co mạch nâng nhanh huyết áp, kích thích vừa phải beta-1 duy trì co bóp tim, ít gây nhịp nhanh loạn xạ và giảm tử vong hơn so với Dopamin.
+
+Câu 35: Tác dụng dược lý phụ thuộc liều lượng của thuốc vận mạch Dopamin gồm 3 mức liều nào?
+A. Liều nào cũng có tác dụng co mạch và nâng huyết áp động mạch hoàn toàn tương đương nhau trong lâm sàng
+B. Liều thấp (1 – 3 µg/kg/p) giãn mạch thận; Liều trung bình (5 – 10 µg) tăng bóp tim; Liều cao (10 – 20 µg) co mạch
+C. Liều thấp làm hạ huyết áp; Liều trung bình làm giãn cơ trơn phế quản; Liều cao gây lợi niệu thẩm thấu
+D. Dopamin chỉ có tác dụng kích thích phó giao cảm làm chậm tần số nhịp tim ở mọi mức liều sử dụng
+Đáp án: B
+Giải thích: Dopamin: Liều thấp (1 - 3 mcg/kg/p) thụ thể dopaminergic; Liều trung bình (5 - 10 mcg/kg/p) thụ thể beta-1; Liều cao (> 10 - 20 mcg/kg/p) thụ thể alpha-1 co mạch. Tuy nhiên Dopamin gây loạn nhịp tim nhiều nên hiện nay Noradrenalin đã thay thế.
+
+Câu 36: Chỉ định và cơ chế tác dụng của thuốc trợ tim Dobutamin trong hồi sức sốc là gì?
+A. Thuốc co mạch ngoại biên nâng huyết áp số 1 trong mọi tình huống sốc giảm thể tích mất nước
+B. Thuốc làm chậm nhịp tim và giảm nhu cầu tiêu thụ oxy của cơ tim trong nhồi máu cơ tim cấp
+C. Kích thích chọn lọc beta-1 tăng mạnh sức co bóp cơ tim; chỉ định đầu tay trong Sốc tim (khi HATT > 85 mmHg)
+D. Thuốc kháng viêm steroid dùng để ức chế cơn bão cytokine giải phóng trong sốc nhiễm trùng nặng nề
+Đáp án: C
+Giải thích: Dobutamin kích thích chọn lọc beta-1 cơ tim làm tăng sức co bóp cơ tim và thể tích nhát bóp (tăng CO/CI), liều truyền 2.5 - 20 mcg/kg/phút. Thuốc đầu tay cho sốc tim do tổn thương cơ tim khi huyết áp còn duy trì được.
+
+Câu 37: Chỉ định và liều dùng của Corticosteroid (Hydrocortison) trong Sốc nhiễm khuẩn theo giáo trình là gì?
+A. Chỉ định trong Sốc nhiễm khuẩn kháng trị (cần vận mạch liều cao); liều Hydrocortison 50 mg tiêm TM mỗi 6 giờ
+B. Dùng liều bolus tĩnh mạch 1.000 mg cho tất cả bệnh nhân sốc ngay từ phút đầu tiên tiếp cận tại cấp cứu
+C. Chống chỉ định tuyệt đối Corticoid trong mọi trường hợp sốc nhiễm khuẩn vì làm tăng nguy cơ nhiễm trùng
+D. Chỉ dùng dạng khí dung qua máy thở để chống phù nề đường hô hấp ở bệnh nhân có suy hô hấp kèm theo
+Đáp án: A
+Giải thích: Hydrocortison chỉ định trong sốc nhiễm khuẩn kháng trị (trơ với bù dịch và cần Noradrenalin liều cao) nhằm điều trị suy thượng thận tương đối do stress: Liều chuẩn 50 mg tiêm TM mỗi 6h (tổng liều 200 mg/24h).
+
+Câu 38: Quy tắc an toàn sống còn số 1 trước khi khởi động truyền thuốc co mạch (Noradrenalin) cho bệnh nhân sốc là gì?
+A. Phải tiêm kháng sinh phổ rộng liều cao trước ít nhất 30 phút để kiểm soát vi khuẩn trong lòng mạch
+B. Phải đặt ống nội khí quản thở máy xâm nhập cho tất cả bệnh nhân để đảm bảo oxy hóa máu động mạch
+C. Phải làm nghiệm pháp dung nạp glucose đường tĩnh mạch để loại trừ tình trạng đái tháo đường tiềm ẩn
+D. Bắt buộc phải bồi phụ đủ thể tích dịch tuần hoàn trước hoặc truyền dịch song song tích cực
+Đáp án: D
+Giải thích: Điều răn tối cao: 'KHÔNG BAO GIỜ CO MẠCH TRÊN MỘT LÒNG MẠCH RỖNG!' Co mạch khi chưa bù dịch sẽ cắt đứt hoàn toàn dòng máu đến giường mao mạch các tạng, gây hoại tử ngón chân ngón tay và nhồi máu ruột tử vong.
+
+Câu 39: Tại sao thuốc vận mạch co mạch liều cao (Noradrenalin, Adrenalin) bắt buộc phải truyền qua Catheter Tĩnh mạch trung tâm?
+A. Để thuốc không bị hòa loãng bởi dòng máu tĩnh mạch ngoại vi trước khi đổ về buồng tim phải
+B. Để tránh nguy cơ thoát mạch (Extravasation) gây co thắt mạch nuôi làm thiếu máu hoại tử mô da xung quanh
+C. Để thuốc ngấm trực tiếp vào cơ tim phát huy tác dụng tăng sức co bóp nhanh hơn so với tiêm ngoại vi
+D. Vì các tĩnh mạch ngoại vi có hệ thống van một chiều ngăn cản phân tử thuốc vận mạch di chuyển về tim
+Đáp án: B
+Giải thích: Thuốc vận mạch kích thích alpha-1 cực mạnh: Nếu truyền qua ven ngoại vi bị thoát mạch ra ngoài, mô dưới da xung quanh sẽ bị co mạch triệt để gây hoại tử đen da và cơ (Skin necrosis). Bắt buộc phải truyền qua CVC.
+
+Câu 40: Theo Sơ đồ lưu đồ chiến lược tiếp cận và điều trị sốc (2004), dấu hiệu lâm sàng ban đầu để phân nhánh là gì?
+A. Đo nồng độ men gan AST và ALT trong máu để đánh giá mức độ hoại tử tế bào gan do thiếu máu
+B. Chụp cắt lớp vi tính lồng ngực có tiêm thuốc cản quang để loại trừ thuyên tắc động mạch phổi cấp
+C. Đánh giá tình trạng thể tích dịch tuần hoàn (V) kết hợp Khám đầu chi: LẠNH hay ẤM?
+D. Đo thời gian đông máu cơ bản và đếm số lượng tiểu cầu để phát hiện hội chứng đông máu nội mạch
+Đáp án: C
+Giải thích: Theo lưu đồ 2004: Bước rẽ nhánh ban đầu là: ĐÁNH GIÁ TÌNH TRẠNG THỂ TÍCH (V) - Khám đầu chi: LẠNH hay ẤM? Giảm V + Lạnh -> Hướng 1 (Sốc giảm thể tích); Giảm V + Ấm -> Hướng 2 (Sốc nhiễm khuẩn); Tăng V (quá tải) -> Hướng 3 (Sốc tim/tắc nghẽn).
+

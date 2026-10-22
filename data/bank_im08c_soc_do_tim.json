@@ -1,0 +1,247 @@
+{
+  "id": "bank_im08c_soc_do_tim",
+  "title": "IM-08c: Sốc Do Tim Toàn Diện (20 Câu Chuẩn Hóa Cân Đối)",
+  "description": "Bộ ngân hàng trắc nghiệm chuẩn hóa loại bỏ bẫy câu dài nhất, cân đối 4 lựa chọn ngang nhau, bao phủ tiêu chuẩn CI/PCWP, NMCT > 40%, biến chứng cơ học, Sơ đồ 1 và Sơ đồ 2 chiến lược điều trị.",
+  "questions": [
+    {
+      "id": "bank_im08c_soc_do_tim_01",
+      "text": "Định nghĩa lâm sàng chuẩn xác của Sốc do tim (Cardiogenic Shock) là gì?",
+      "options": [
+        "Hội chứng suy sụp tuần hoàn do suy giảm tiên phát sức co bóp cơ tim làm sụp đổ cung lượng tim",
+        "Tình trạng tụt huyết áp do mất dịch tuần hoàn hoặc do phản xạ ức chế giao cảm ngoại biên",
+        "Tình trạng thiếu máu cơ tim thoáng qua tự hồi phục sau khi ngậm thuốc giãn mạch dưới lưỡi",
+        "Trạng thái ngừng đập đột ngột của tim do rối loạn dẫn truyền điện học vô tâm thu cấp tính"
+      ],
+      "correct": 0,
+      "explanation": "Sốc do tim là suy sụp tuần hoàn do suy giảm tiên phát sức co bóp cơ tim, dẫn đến giảm thể tích nhát bóp và cung lượng tim không đảm bảo tưới máu tổ chức mô."
+    },
+    {
+      "id": "bank_im08c_soc_do_tim_02",
+      "text": "Tiêu chuẩn huyết động đo qua catheter Swan-Ganz chẩn đoán xác định Sốc tim gồm những mốc nào?",
+      "options": [
+        "Chỉ số tim CI bình thường nhưng áp lực động mạch phổi bít tụt dốc về mức tiệm cận 0 mmHg",
+        "Chỉ số tim CI < 1,8 L/phút/m2 (hoặc < 2,2 có vận mạch) KÈM áp lực đổ đầy thất trái PCWP > 15 – 18 mmHg",
+        "HATT < 120 mmHg, lượng nước tiểu > 50 ml/giờ, và chỉ số tim CI duy trì trên 3,0 L/phút/m2",
+        "Áp lực tĩnh mạch trung tâm CVP < 3 cmH2O, PCWP < 6 mmHg, và sức cản ngoại biên SVR giảm"
+      ],
+      "correct": 1,
+      "explanation": "Bốn tiêu chuẩn vàng: HATT <= 90 mmHg > 1h; tưới máu ngoại vi kém; nước tiểu <= 30 ml/h; CI < 1.8 L/phút/m2 (hoặc < 2.2 khi có vận mạch) VÀ PCWP > 15 - 18 mmHg (khẳng định ứ máu buồng tim)."
+    },
+    {
+      "id": "bank_im08c_soc_do_tim_03",
+      "text": "Nguyên nhân hàng đầu chiếm trên 70 – 80% các trường hợp sốc tim trên thực hành lâm sàng là gì?",
+      "options": [
+        "Cơn nhịp chậm xoang do tăng trương lực dây thần kinh phế vị ở vận động viên điền kinh",
+        "Viêm màng ngoài tim co thắt mạn tính làm hạn chế đổ đầy tâm trương của hai tâm thất",
+        "Nhồi máu cơ tim cấp diện rộng (STEMI) làm tổn thương hoại tử vượt quá 40% khối cơ thất trái",
+        "Bệnh cơ tim phì đại tắc nghẽn có chênh áp qua đường ra thất trái trong lúc nghỉ ngơi"
+      ],
+      "correct": 2,
+      "explanation": "Nhồi máu cơ tim cấp diện rộng là nguyên nhân thường gặp nhất (> 70 - 80%), đặc biệt khi tắc thân chung LMCA hoặc đoạn gần LAD làm hoại tử > 40% khối lượng cơ thất trái."
+    },
+    {
+      "id": "bank_im08c_soc_do_tim_04",
+      "text": "Ba biến chứng cơ học cấp tính sau Nhồi máu cơ tim có thể làm bùng phát sốc tim đột ngột là gì?",
+      "options": [
+        "Suy tuyến thượng thận cấp, suy tuyến giáp phù niêm và hạ đường huyết do cạn glycogen",
+        "Tắc động mạch mạc treo tràng trên, nhồi máu lách và tắc động mạch thận hai bên cấp tính",
+        "Tràn khí màng phổi áp lực, tràn dịch màng phổi dưỡng chấp và xẹp phổi thùy dưới cấp tính",
+        "Thủng vách liên thất, đứt cơ nhú van hai lá, và vỡ thành tự do thất trái gây ép tim cấp"
+      ],
+      "correct": 3,
+      "explanation": "Biến chứng cơ học sau NMCT: Thủng vách liên thất, đứt cơ nhú gây hở 2 lá cấp, vỡ thành tự do gây tràn máu màng tim ép tim cấp tử vong."
+    },
+    {
+      "id": "bank_im08c_soc_do_tim_05",
+      "text": "Vòng xoắn bệnh lý luẩn quẩn (Vicious Cycle) trong sốc tim diễn tiến theo cơ chế nào?",
+      "options": [
+        "Tim suy -> Tụt huyết áp -> Giảm tưới máu động mạch vành -> Hoại tử cơ tim lan rộng -> Tim suy nặng hơn",
+        "Co bóp cơ tim tăng vọt -> Huyết áp động mạch tăng cao -> Vỡ các mạch máu nhỏ ở não trên lâm sàng tại giường bệnh",
+        "Tăng đào thải muối qua thận -> Hạ Natri máu nhược trương -> Phù nề tế bào cơ tim cấp trên lâm sàng tại giường bệnh",
+        "Tăng thông khí phế nang -> Giảm CO2 máu -> Co thắt phế quản phản xạ -> Ngừng hô hấp trên lâm sàng tại giường bệnh"
+      ],
+      "correct": 0,
+      "explanation": "Vòng xoắn tử vong của sốc tim: Tim suy -> tụt huyết áp -> vành không có máu nuôi -> cơ tim càng thiếu máu và hoại tử lan rộng -> tim càng suy sụp, kết hợp co mạch bù trừ bóp nghẹt quả tim suy."
+    },
+    {
+      "id": "bank_im08c_soc_do_tim_06",
+      "text": "Tại sao phản xạ co mạch ngoại vi bù trừ (SVR tăng rất cao) về sau lại làm tim suy sụp nặng nề hơn?",
+      "options": [
+        "Làm tăng tính thấm thành mạch mao mạch phổi gây tràn dịch màng phổi lượng nhiều hai bên",
+        "Co mạch làm tăng gánh nặng hậu gánh, khiến thất trái suy phải bóp chống lại sức cản quá lớn",
+        "Kích thích trung tâm phế vị ở hành tủy gây nhịp tim chậm làm cung lượng tim sụt giảm sâu",
+        "Làm giảm thể tích nhát bóp do tĩnh mạch ngoại biên bị giãn toạc giam giữ lượng lớn dịch"
+      ],
+      "correct": 1,
+      "explanation": "Hậu gánh tăng là 'kẻ thù' của thất trái suy: Thất trái đang đờ đẫn lại phải gồng mình bóp thắng sức cản ngoại biên co thắt cứng ngắc (SVR > 1.800) -> cung lượng tim càng tụt dốc, ứ trệ máu ngược dòng lên phổi càng dữ dội."
+    },
+    {
+      "id": "bank_im08c_soc_do_tim_07",
+      "text": "Theo Sơ đồ 2 xử trí sốc tim theo mức huyết áp, ở nhánh bệnh nhân có HATT > 100 mmHg, phác đồ là gì?",
+      "options": [
+        "Dùng ngay thuốc vận mạch co mạch Noradrenalin truyền tĩnh mạch liên tục qua bơm tiêm điện",
+        "Bắt buộc đặt bóng đối xung động mạch chủ IABP ngay lập tức trước khi dùng thuốc giãn mạch",
+        "Dùng thuốc giãn mạch Nitroglycerin phối hợp thuốc lợi tiểu quai Furosemide và Morphine",
+        "Truyền xả nhanh 1.000 ml dịch tinh thể đẳng trương kết hợp tiêm bắp Adrenaline cấp cứu"
+      ],
+      "correct": 2,
+      "explanation": "HATT > 100 mmHg: Ưu tiên giảm tiền gánh và hậu gánh bằng Nitroglycerin (10 - 20 mcg/p) + Furosemide (0.5 - 1 mg/kg) + Morphine (2 - 4 mg)."
+    },
+    {
+      "id": "bank_im08c_soc_do_tim_08",
+      "text": "Theo Sơ đồ 2, ở nhánh bệnh nhân có HATT từ 70 – 100 mmHg và KHÔNG CÓ dấu hiệu sốc, thuốc đầu tay là gì?",
+      "options": [
+        "Truyền dịch keo nhân tạo HES tốc độ nhanh kết hợp thở oxy gọng mũi lưu lượng thấp",
+        "Dopamin liều cao kích thích co mạch ngoại biên nâng huyết áp tâm thu lên trên 140 mmHg",
+        "Tiêm tĩnh mạch chậm Digoxin liều cao kết hợp truyền dung dịch Albumin 20% thể tích lớn",
+        "Dobutamin truyền tĩnh mạch liều 2,5 – 10 µg/kg/phút để tăng cường sức co bóp cơ tim"
+      ],
+      "correct": 3,
+      "explanation": "HATT 70 - 100 mmHg KHÔNG CÓ dấu hiệu sốc -> Thuốc đầu tay là DOBUTAMIN (2.5 - 10 mcg/kg/phút) để tăng co bóp cơ tim cải thiện tống máu."
+    },
+    {
+      "id": "bank_im08c_soc_do_tim_09",
+      "text": "Theo Sơ đồ 2, ở nhánh bệnh nhân có HATT từ 70 – 100 mmHg và CÓ TRIỆU CHỨNG SỐC, thuốc chỉ định là gì?",
+      "options": [
+        "Dopamin truyền tĩnh mạch liều 5 – 15 µg/kg/phút vừa tăng co bóp tim vừa co mạch nâng áp",
+        "Thuốc giãn mạch Nitroglycerin ngậm dưới lưỡi kết hợp xịt họng thuốc giãn phế quản",
+        "Furosemide tiêm tĩnh mạch liều cao 200 mg kết hợp thở máy không xâm lấn áp lực dương",
+        "Chỉ bồi phụ dịch thể tích lớn bằng Ringer Lactate mà không dùng bất kỳ thuốc vận mạch nào"
+      ],
+      "correct": 0,
+      "explanation": "HATT 70 - 100 mmHg CÓ dấu hiệu sốc -> Dopamin liều trung bình đến cao (5 - 15 mcg/kg/phút) vừa kích thích beta-1 tăng bóp tim vừa kích thích alpha-1 co mạch nâng áp."
+    },
+    {
+      "id": "bank_im08c_soc_do_tim_10",
+      "text": "Theo Sơ đồ 2, ở nhánh bệnh nhân có tụt huyết áp nặng nề HATT < 70 mmHg, thuốc cấp bách số 1 là gì?",
+      "options": [
+        "Thuốc chẹn kênh Canxi Nicardipine truyền tĩnh mạch để làm giãn động mạch vành bị co thắt",
+        "Noradrenalin truyền tĩnh mạch nâng nhanh huyết áp cứu tưới máu vành, sau đó mới phối hợp Dobutamin",
+        "Dobutamin truyền tĩnh mạch đơn thuần liều cao để kích thích trực tiếp sức co bóp thất trái",
+        "Digoxin tiêm tĩnh mạch chậm kết hợp uống thuốc ức chế men chuyển liều khởi đầu thấp"
+      ],
+      "correct": 1,
+      "explanation": "HATT < 70 mmHg -> Thuốc số 1 là NORADRENALIN (0.5 - 30 mcg/phút). Bắt buộc co mạch nâng ngay áp lực tưới máu vành và não, sau đó mới phối hợp Dobutamin."
+    },
+    {
+      "id": "bank_im08c_soc_do_tim_11",
+      "text": "Quy tắc bồi phụ thể tích dịch theo Áp lực tĩnh mạch trung tâm (CVP) trong Sốc tim được hướng dẫn thế nào?",
+      "options": [
+        "Truyền xả nhanh 2.000 ml dịch tinh thể cho mọi bệnh nhân bất kể mức áp lực CVP ban đầu",
+        "Duy trì CVP mục tiêu ở mức rất cao trên 20 cmH2O để đảm bảo áp lực đổ đầy buồng thất trái",
+        "Hạn chế dịch; chỉ test dịch nhỏ khi CVP < 7 cmH2O; duy trì CVP tối ưu ở mức 7 – 11 cmH2O",
+        "Chống chỉ định tuyệt đối truyền bất kỳ giọt dịch nào trong mọi tình huống sốc do tim"
+      ],
+      "correct": 2,
+      "explanation": "Sốc tim bù dịch rất thận trọng từng túi nhỏ 100 - 200ml khi CVP thấp, đích CVP an toàn là 7 - 11 cmH2O. Quá 12 cmH2O là nguy cơ phù phổi cấp bùng phát."
+    },
+    {
+      "id": "bank_im08c_soc_do_tim_12",
+      "text": "Chỉ định và cơ chế tác dụng của Isuprel (Isoproterenol) trong sốc tim theo giáo trình là gì?",
+      "options": [
+        "Dùng để co thắt mạch máu ngoại biên nâng huyết áp thay thế hoàn toàn cho thuốc Noradrenalin",
+        "Chỉ định cho bệnh nhân rung thất hoặc nhanh thất vô mạch trơ với các nhát sốc điện phá rung",
+        "Dùng làm thuốc giãn phế quản đường khí dung ở bệnh nhân có phù phổi cấp co thắt hen tim",
+        "Chỉ định khi sốc tim có kèm Nhịp tim chậm nặng hoặc Block AV hoàn toàn; liều 0,5 – 5 µg/phút"
+      ],
+      "correct": 3,
+      "explanation": "Isuprel (chủ vận beta không chọn lọc) dùng khi sốc tim kèm nhịp chậm hoặc block AV để nâng nhịp tim và tăng co bóp (liều 0.5 - 5 mcg/phút) trong khi chuẩn bị máy tạo nhịp."
+    },
+    {
+      "id": "bank_im08c_soc_do_tim_13",
+      "text": "Biện pháp can thiệp triệt để giúp giảm tử vong ngoạn mục ở bệnh nhân sốc tim do Nhồi máu cơ tim cấp là gì?",
+      "options": [
+        "Can thiệp tái thông động mạch vành cấp cứu: Can thiệp PCI đặt stent hoặc mổ bắc cầu CABG khẩn",
+        "Thở máy không xâm nhập CPAP qua mặt nạ kết hợp truyền liên tục thuốc trợ tim Dobutamin",
+        "Chạy thận nhân tạo liên tục CVVH để rút các chất độc chuyển hóa và ổn định toan kiềm",
+        "Điều trị nội khoa bảo tồn bằng thuốc kháng đông Heparin kết hợp thuốc tiêu sợi huyết liều cao"
+      ],
+      "correct": 0,
+      "explanation": "Thử nghiệm SHOCK: Tái thông mạch vành cấp cứu (Primary PCI) mở thông nhánh thủ phạm cứu vãn cơ tim là biện pháp DUY NHẤT đảo ngược vòng xoắn bệnh lý và giảm tử vong ngoạn mục."
+    },
+    {
+      "id": "bank_im08c_soc_do_tim_14",
+      "text": "Bóng đối xung động mạch chủ (IABP) hỗ trợ huyết động trong sốc tim theo cơ chế sinh lý nào?",
+      "options": [
+        "Hút máu trực tiếp từ tâm nhĩ trái tống thẳng vào hệ thống động mạch chủ lên ở thì tâm thu",
+        "Bơm bóng căng ở thì tâm trương (tăng tưới máu vành) và xẹp ở đầu tâm thu (giảm hậu gánh thất trái)",
+        "Lọc bỏ các chất độc chuyển hóa và các cytokine gây viêm trong máu động mạch bệnh nhân",
+        "Chèn ép cơ học trực tiếp lên thành tâm thất trái để hỗ trợ lực bóp cơ học của tim suy"
+      ],
+      "correct": 1,
+      "explanation": "Bơm bóng ở tâm trương -> dồn máu vào vành và não; Xẹp bóng ở tâm thu -> giảm hậu gánh thất trái, giúp tim tống máu dễ dàng hơn và giảm tiêu thụ oxy cơ tim."
+    },
+    {
+      "id": "bank_im08c_soc_do_tim_15",
+      "text": "Chống chỉ định tuyệt đối của việc đặt Bóng đối xung động mạch chủ (IABP) trong sốc tim là gì?",
+      "options": [
+        "Nhồi máu cơ tim thất trái có đoạn ST chênh lên ở các chuyển đạo trước tim V1 đến V4",
+        "Bệnh nhân có suy giảm chức năng thận mạn tính đang điều trị lọc máu chu kỳ định kỳ",
+        "Hở van động mạch chủ mức độ vừa đến nặng HOẶC Phình bóc tách động mạch chủ ngực",
+        "Bệnh nhân có tăng huyết áp kịch phát hoặc có tiền sử đái tháo đường phụ thuộc insulin"
+      ],
+      "correct": 2,
+      "explanation": "Chống chỉ định tuyệt đối IABP: (1) Hở van ĐMC (bóng nở tâm trương sẽ ép máu phụt ngược vào thất trái làm vỡ thất trái và OAP tử vong); (2) Bóc tách ĐMC (gây rách toạc lòng mạch)."
+    },
+    {
+      "id": "bank_im08c_soc_do_tim_16",
+      "text": "Sốc do Nhồi máu cơ tim thất phải có đặc trưng lâm sàng và nguyên tắc điều trị dịch đối lập thế nào?",
+      "options": [
+        "Chỉ định mổ thay van ba lá cấp cứu ngay lập tức mà không được làm nghiệm pháp truyền dịch",
+        "Hạn chế dịch nghiêm ngặt và dùng ngay thuốc giãn mạch Nitroglycerin kết hợp lợi tiểu Lasix",
+        "Bắt buộc tiêm ngay Morphine liều cao kết hợp thở máy xâm nhập cài đặt mức PEEP cao trên 15",
+        "Tam chứng: Tụt HA + Tĩnh mạch cổ nổi + PHỔI HOÀN TOÀN SẠCH RAN; Điều trị cốt lõi là BÙ DỊCH TÍCH CỰC"
+      ],
+      "correct": 3,
+      "explanation": "Nhồi máu thất phải: Thất phải liệt -> máu không qua phổi được -> thất trái đói dịch tụt HA, TM cổ nổi to nhưng phổi sạch ran. Bắt buộc BÙ DỊCH TÍCH CỰC để đẩy máu qua phổi. CẤM dùng Nitroglycerin và lợi tiểu!"
+    },
+    {
+      "id": "bank_im08c_soc_do_tim_17",
+      "text": "Thuốc tiêu sợi huyết Streptokinase trong sốc tim do nhồi máu theo giáo trình dùng liều lượng thế nào?",
+      "options": [
+        "1.500.000 UI pha trong 100 ml Glucose 5% truyền tĩnh mạch trong vòng 30 – 60 phút",
+        "10.000.000 UI tiêm bolus tĩnh mạch trực tiếp trong vòng 1 phút dưới máy theo dõi monitor",
+        "Chỉ được dùng đường uống dạng viên nang giải phóng kéo dài kết hợp với thuốc kháng đông",
+        "100.000 UI tiêm bắp sâu ở cơ delta cánh tay và nhắc lại mỗi 6 giờ một lần trong ngày"
+      ],
+      "correct": 0,
+      "explanation": "Theo giáo trình trang 157: Khi không có Cathlab làm PCI, Streptokinase liều 1.500.000 UI truyền TM trong 30 - 60 phút là biện pháp tái thông vành cứu vãn."
+    },
+    {
+      "id": "bank_im08c_soc_do_tim_18",
+      "text": "Thuốc chống đông Heparin trọng lượng phân tử thấp Fraxiparine trong nhồi máu cơ tim theo giáo trình dùng thế nào?",
+      "options": [
+        "Uống 1 viên vào buổi sáng sau bữa ăn và kiểm tra thời gian máu chảy máu đông hàng ngày",
+        "Tiêm dưới da 0,1 ml / 10 kg cân nặng mỗi 12 giờ một lần",
+        "Truyền tĩnh mạch liên tục qua bơm tiêm điện với tốc độ cố định 1 ống mỗi ngày suốt tuần",
+        "Tiêm bắp sâu 10 ml vào vùng cơ mông của bệnh nhân mỗi 24 giờ một lần duy nhất trong ngày"
+      ],
+      "correct": 1,
+      "explanation": "Theo giáo trình trang 157: Fraxiparine (Nadroparin) tiêm dưới da 0.1 ml/10 kg cân nặng mỗi 12 giờ."
+    },
+    {
+      "id": "bank_im08c_soc_do_tim_19",
+      "text": "Thiết bị hỗ trợ tuần hoàn cơ học qua da Impella hỗ trợ thất trái trong sốc tim theo nguyên lý nào?",
+      "options": [
+        "Tạo nhịp tim bằng xung điện trường ngoài lồng ngực với tần số cố định 100 lần mỗi phút",
+        "Bơm dịch ưu trương trực tiếp vào khoang màng ngoài tim để kích thích phản xạ co bóp cơ tim",
+        "Máy bơm dòng trục vi mô đặt vào thất trái, trực tiếp hút máu tống vào động mạch chủ 2,5 – 5 L/phút",
+        "Đặt bóng chèn vào lòng tĩnh mạch chủ dưới để ngăn cản dòng máu hồi lưu về tâm nhĩ phải"
+      ],
+      "correct": 2,
+      "explanation": "Impella hút máu trực tiếp từ thất trái tống vào ĐMC (2.5 - 5.0 L/p), vừa giải áp buồng thất trái (giảm công tim), vừa nâng huyết áp trung bình đảm bảo tưới máu vành và tạng."
+    },
+    {
+      "id": "bank_im08c_soc_do_tim_20",
+      "text": "Thang điểm SCAI Shock Stages (2022) phân tầng Sốc tim thành 5 giai đoạn A, B, C, D, E lần lượt là gì?",
+      "options": [
+        "Class I không hạn chế, Class II hạn chế nhẹ, Class III hạn chế nhiều, Class IV nằm tại giường",
+        "Giai đoạn tiền sốc, Giai đoạn sốc cương, Giai đoạn sốc nhược, Giai đoạn sốc mất bù, Giai đoạn hồi phục",
+        "Độ 1 nhẹ, Độ 2 trung bình, Độ 3 nặng, Độ 4 rất nặng, Độ 5 tử vong không thể cứu vãn trên lâm sàng tại giường bệnh",
+        "Stage A (At Risk), Stage B (Beginning), Stage C (Classic), Stage D (Deteriorating), Stage E (Extremis)"
+      ],
+      "correct": 3,
+      "explanation": "SCAI 2022: Stage A (At risk: có nguy cơ); Stage B (Beginning: tiền sốc); Stage C (Classic: sốc tim kinh điển); Stage D (Deteriorating: sốc xấu đi/kháng trị); Stage E (Extremis: hấp hối/ngừng tuần hoàn)."
+    }
+  ]
+}

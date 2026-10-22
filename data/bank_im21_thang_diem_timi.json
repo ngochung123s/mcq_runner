@@ -1,0 +1,127 @@
+{
+  "id": "bank_im21_thang_diem_timi",
+  "title": "IM-21: Thang Điểm TIMI Trong Nhồi Máu Cơ Tim (10 Câu Chuyên Sâu)",
+  "description": "Bộ câu hỏi chuyên sâu phân tầng nguy cơ TIMI NSTEMI (7 điểm), TIMI STEMI (14 điểm), phân độ dòng chảy TIMI Flow Grade (0-3) và hiện tượng No-reflow trong PCI.",
+  "questions": [
+    {
+      "id": "bank_im21_thang_diem_timi_01",
+      "text": "Thang điểm **TIMI Risk Score cho Hội chứng vành cấp không ST chênh lên (NSTE-ACS / NSTEMI)** gồm 7 yếu tố nguy cơ (mỗi yếu tố tính 1 điểm, tổng từ 0 đến 7 điểm). Bệnh nhân nam 62 tuổi, tiền sử tăng huyết áp và đái tháo đường (2 yếu tố nguy cơ tim mạch), đang uống Aspirin 100 mg/ngày dự phòng, vào viện vì đau thắt ngực khi nghỉ 2 cơn trong 24 giờ qua. Điện tâm đồ có ST chênh xuống 1,5 mm ở V4-V6. Xét nghiệm Troponin I tăng cao $2{,}5\\ \\text{ng/mL}$. Tiền sử chụp mạch vành 1 năm trước có hẹp $60\\%$ đoạn giữa LAD. Điểm số TIMI Risk Score của bệnh nhân này là bao nhiêu?",
+      "options": [
+        "3 điểm.",
+        "4 điểm.",
+        "**5 điểm**.",
+        "6 điểm."
+      ],
+      "correct": 2,
+      "explanation": "Bảy tiêu chí kinh điển của TIMI cho NSTEMI (Mẹo nhớ: **AMERICA**): 1. **Age $\\ge 65$:** Bệnh nhân 62 tuổi $\\rightarrow$ **0 điểm** (Bẫy tuổi!). 2. **Markers (Men tim tăng):** Troponin I tăng $\\rightarrow$ **+1 điểm**. 3. **ECG (ST chênh $\\ge 0{,}5\\ \\text{mm}$):** ST chênh xuống 1,5 mm $\\rightarrow$ **+1 điểm**. 4. **Risk factors ($\\ge 3$ yếu tố nguy cơ tim mạch):** Bệnh nhân chỉ có 2 yếu tố (THA, ĐTĐ) $\\rightarrow$ **0 điểm** (Bẫy số lượng yếu tố nguy cơ!). 5. **Ischemia ($\\ge 2$ cơn đau thắt ngực trong 24h qua):** Đau 2 cơn $\\rightarrow$ **+1 điểm**. 6. **Coronary stenosis (Tiền sử hẹp ĐMV $\\ge 50\\%$ đã biết):** Hẹp LAD 60% $\\rightarrow$ **+1 điểm**. 7. **Aspirin use (Có dùng Aspirin trong vòng 7 ngày qua):** Đang dùng Aspirin $\\rightarrow$ **+1 điểm**. $\\rightarrow$ Tổng điểm $= 0 + 1 + 1 + 0 + 1 + 1 + 1 = \\mathbf{5\\ \\text{điểm}}$ (Thuộc nhóm Nguy cơ cao, tỷ lệ tử vong/NMCT/tái thiếu máu cục bộ cần tái tưới máu trong 14 ngày lên tới $26{,}2\\%$). ---"
+    },
+    {
+      "id": "bank_im21_thang_diem_timi_02",
+      "text": "Khác biệt căn bản với NSTEMI (mỗi yếu tố chỉ tính 1 điểm), thang điểm **TIMI Risk Score cho STEMI** (Nhồi máu cơ tim có ST chênh lên) có tổng điểm từ **0 đến 14 điểm**, trong đó có 3 yếu tố nguy cơ nặng nề được chấm **TRỌNG SỐ ĐIỂM RẤT CAO (+2 hoặc +3 điểm)**. Đó là 3 yếu tố nào?",
+      "options": [
+        "Nam giới (+3), Hút thuốc lá (+2), Đái tháo đường (+2).",
+        "**(1) Tuổi $\\ge 75$ (+3 điểm) hoặc Tuổi 65 – 74 (+2 điểm); (2) Huyết áp tâm thu $< 100\\ \\text{mmHg}$ (+3 điểm); (3) Nhịp tim nhanh $> 100\\ \\text{lần/phút}$ (+2 điểm)**.",
+        "ST chênh lên $> 5\\ \\text{mm}$ (+3), Men tim tăng gấp 10 lần (+2), Rung nhĩ (+2).",
+        "Tiền sử suy tim (+3), Cân nặng $> 100\\ \\text{kg}$ (+2), Tiền sử đột quỵ (+2)."
+      ],
+      "correct": 1,
+      "explanation": "Bảng điểm TIMI STEMI (tổng 14 điểm): - **Tuổi $\\ge 75$:** **+3 điểm** (Tuổi 65 - 74: **+2 điểm**). - **Huyết áp tâm thu $< 100\\ \\text{mmHg}$:** **+3 điểm** (dấu hiệu tiền sốc/sốc tim). - **Nhịp tim nhanh $> 100\\ \\text{l/p}$:** **+2 điểm** (phản xạ giao cảm do suy bơm). - **Phân độ Killip II – IV:** **+2 điểm**. - **Vị trí nhồi máu thành trước HOẶC có Block nhánh trái (LBBB) mới:** **+1 điểm**. - **Tiền sử ĐTĐ, THA hoặc Đau thắt ngực:** **+1 điểm**. - **Cân nặng $< 67\\ \\text{kg}$:** **+1 điểm**. - **Thời gian từ khi đau đến khi điều trị $> 4\\ \\text{giờ}$:** **+1 điểm**. Một bệnh nhân già $\\ge 75$ tuổi vào viện vì sốc tim (HA $< 100$, nhịp tim nhanh $> 100$) đã có ngay $3 + 3 + 2 = 8$ điểm $\\rightarrow$ tỷ lệ tử vong 30 ngày lên tới $> 30 - 40\\%$! ---"
+    },
+    {
+      "id": "bank_im21_thang_diem_timi_03",
+      "text": "Tại sao trong thang điểm TIMI NSTEMI, việc bệnh nhân **đang sử dụng Aspirin đều đặn trong vòng 7 ngày trước đó** lại bị tính là một yếu tố nguy cơ (+1 điểm làm tăng điểm số tử vong)?",
+      "options": [
+        "Vì Aspirin gây loét dạ dày làm tăng nguy cơ chảy máu tử vong.",
+        "Bệnh nhân đang được bảo vệ bởi thuốc chống kết tập tiểu cầu Aspirin mà huyết khối vẫn hình thành gây nhồi máu cơ tim chứng tỏ mảng xơ vữa cực kỳ bất ổn định, huyết khối giàu fibrin hoặc có hiện tượng **\"Kháng Aspirin\" (Aspirin resistance)**; những bệnh nhân này có tiên lượng thiếu máu cục bộ tái phát và thất bại điều trị nội khoa cao hơn nhiều so với người chưa từng dùng Aspirin.",
+        "Vì Aspirin làm giảm tác dụng của Heparin.",
+        "Do Aspirin làm co thắt mạch vành hạ lưu."
+      ],
+      "correct": 1,
+      "explanation": "Đây là câu hỏi bẫy tư duy lâm sàng: Rất nhiều người nghĩ uống Aspirin là \"tốt\" nên không thể là yếu tố làm tăng điểm nguy cơ. Nhưng nếu một bệnh nhân **đã uống Aspirin mà vẫn bị nhồi máu cơ tim**, điều đó phản ánh bệnh lý xơ vữa mạch vành của họ thuộc thể tiến triển ác tính và kháng trị. Thử nghiệm TIMI 11B chứng minh nhóm bệnh nhân này có tỷ lệ biến cố tim mạch tái phát cao hơn rõ rệt. ---"
+    },
+    {
+      "id": "bank_im21_thang_diem_timi_04",
+      "text": "Theo khuyến cáo của Hội Tim mạch Châu Âu (ESC 2023) và Hội Tim mạch Hoa Kỳ (ACC/AHA), việc phân tầng điểm số TIMI Risk Score ở bệnh nhân NSTE-ACS định hướng thời điểm chụp và can thiệp mạch vành qua da (Invasive Strategy) như thế nào?",
+      "options": [
+        "Bệnh nhân nào cũng phải can thiệp trong vòng 2 giờ.",
+        "**TIMI 0 – 2 điểm (Nguy cơ thấp, tỷ lệ biến cố 14 ngày < 8%)**: Có thể lựa chọn chiến lược can thiệp có chọn lọc hoặc điều trị nội khoa bảo tồn, làm nghiệm pháp gắng sức trước khi xuất viện;",
+        "TIMI 5 - 7 điểm thì chống chỉ định đặt stent.",
+        "Điểm TIMI chỉ dùng để kê đơn thuốc xuất viện, không liên quan đến can thiệp."
+      ],
+      "correct": 1,
+      "explanation": "Thang điểm TIMI (cùng với thang điểm GRACE) là công cụ phân loại bệnh nhân để quyết định \"Ai cần can thiệp sớm, ai có thể chờ đợi\". Điểm TIMI cao ($\\ge 5$ điểm) chứng minh lợi ích vượt trội của việc tái thông mạch vành sớm bằng PCI trong 24 giờ đầu giúp giảm tử vong và giảm tái nhồi máu so với điều trị nội khoa bảo tồn đơn thuần. ---"
+    },
+    {
+      "id": "bank_im21_thang_diem_timi_05",
+      "text": "Tại sao trong thang điểm TIMI Risk Score cho STEMI, tiêu chuẩn **Cân nặng cơ thể $< 67\\ \\text{kg}$** lại bị tính là một yếu tố làm tăng nguy cơ tử vong (+1 điểm)?",
+      "options": [
+        "Người gầy có kích thước mạch vành nhỏ hơn nên dễ tắc lại.",
+        "Cân nặng thấp thường liên quan đến thể trạng suy kiệt, người cao tuổi, có bệnh mạn tính phối hợp; đồng thời bệnh nhân nhẹ cân $(< 67\\ \\text{kg})$ có nguy cơ rất cao bị **quá liều thuốc chống đông (Heparin) và thuốc tiêu sợi huyết (Tenecteplase/Alteplase)** dẫn đến biến chứng xuất huyết nội sọ và xuất huyết lớn đe dọa tính mạng.",
+        "Người gầy có nồng độ Troponin máu cao hơn.",
+        "Người nhẹ cân không hấp thu được thuốc chẹn beta."
+      ],
+      "correct": 1,
+      "explanation": "Các thử nghiệm tiêu sợi huyết kinh điển (InTIME II, GUSTO): Bệnh nhân nhẹ cân $(< 67\\ \\text{kg}$) nếu không chỉnh liều thuốc kháng đông và tiêu sợi huyết theo cân nặng sẽ bị nồng độ thuốc tự do trong máu tăng vọt, làm tăng tỷ lệ xuất huyết não tử vong lên gấp 3 lần. Do đó cân nặng $< 67\\ \\text{kg}$ là một chỉ dấu cảnh báo nguy cơ độc lập trong bảng điểm TIMI STEMI. ## PHẦN 2: PHÂN ĐỘ DÒNG CHẢY MẠCH VÀNH TIMI FLOW & NO-REFLOW — CÂU 6 ĐẾN 15"
+    },
+    {
+      "id": "bank_im21_thang_diem_timi_06",
+      "text": "Trong buồng can thiệp tim mạch (Cathlab), bác sĩ chụp mạch vành qua da để đánh giá tái thông sau đặt stent. Hình ảnh chụp cản quang cho thấy: Thuốc cản quang đi qua được vị trí stent và **lấp đầy được toàn bộ đoạn mạch phía hạ lưu**, tuy nhiên **tốc độ thuốc cản quang đi vào và tốc độ rửa trôi thuốc chậm hơn rõ rệt** so với các nhánh mạch vành bình thường không bị tổn thương bên cạnh. Phân độ dòng chảy mạch vành theo thang điểm TIMI ở tổn thương này là gì?",
+      "options": [
+        "TIMI 0 (No flow).",
+        "TIMI 1 (Faint / Penetration flow).",
+        "**TIMI 2 (Slow / Partial flow)**.",
+        "TIMI 3 (Normal / Complete flow)."
+      ],
+      "correct": 2,
+      "explanation": "Bốn phân độ dòng chảy TIMI Flow Grade chuẩn: - **TIMI 0 (Tắc hoàn toàn - No flow):** Thuốc cản quang bị chặn đứng hoàn toàn tại vị trí tắc, không có một giọt cản quang nào đi qua tổn thương. - **TIMI 1 (Dòng chảy mờ nhạt - Penetration without perfusion):** Thuốc cản quang lọt qua được chỗ tắc nhưng **KHÔNG THỂ lấp đầy được toàn bộ đoạn mạch phía hạ lưu**. - **TIMI 2 (Dòng chảy chậm - Partial / Slow flow):** Thuốc lấp đầy được toàn bộ đoạn mạch hạ lưu, nhưng **tốc độ lấp đầy và rửa trôi chậm hơn rõ rệt** so với nhánh mạch lành lặn (phải mất $\\ge 3$ nhát bóp của tim mới lấp đầy). - **TIMI 3 (Dòng chảy bình thường - Complete perfusion):** Thuốc cản quang lấp đầy hoàn toàn và rửa trôi nhanh chóng với tốc độ bình thường tương đương nhánh mạch lành lặn (ĐÂY LÀ MỤC TIÊU SỐNG CÒN CỦA MỌI CA CAN THIỆP PCI!). ---"
+    },
+    {
+      "id": "bank_im21_thang_diem_timi_07",
+      "text": "Một bệnh nhân STEMI thành trước được đặt stent phủ thuốc tái thông nhánh LAD thành công. Hình ảnh chụp kiểm tra thấy lòng stent nở tối đa, không có bóc tách thành mạch, không có huyết khối bám lòng mạch chính, nhưng dòng chảy cản quang phía hạ lưu đột ngột chậm rì (TIMI Flow Grade 1 hoặc 2), huyết áp tụt và ST chênh lên trở lại. Đây là hiện tượng **Không tái tưới máu (No-Reflow)**. Hai cơ chế bệnh sinh cốt lõi của No-reflow trong PCI cấp cứu là gì?",
+      "options": [
+        "Do bệnh nhân bị dị ứng thuốc cản quang và co thắt phế quản.",
+        "**(1) Thuyên tắc vi mạch từ xa (Distal microvascular embolization):** Các mảnh vỡ vi huyết khối và mảnh vụn mảng xơ vữa giàu lipid bị quả bóng nong ép văng xuống làm bít tắc toàn bộ giường vi mao mạch hạ lưu; **(2) Tổn thương tái tưới máu vi mạch:** Tế bào nội mô mao mạch bị phù nề, co thắt tiểu động mạch vành và bạch cầu đa nhân trung tính kết dính bít kín lòng mao mạch.",
+        "Do stent bị tuột khỏi vị trí.",
+        "Do bệnh nhân bị tràn máu màng ngoài tim."
+      ],
+      "correct": 1,
+      "explanation": "Hiện tượng No-reflow xảy ra ở $10 - 30\\%$ ca can thiệp STEMI: \"Ống cống chính đã thông nhưng mạng lưới ống nước nhỏ phía hạ lưu bị tắc nghẽn hoàn toàn\". Mặc dù stent mở rộng thênh thang, cơ tim phía dưới vẫn bị chết vì thiếu máu tưới do mạng lưới vi mạch bị vi huyết khối và phù nề nội mô bít kín. Bệnh nhân có No-reflow (TIMI $\\le 2$) có tỷ lệ tử vong và suy tim cao gấp 3-5 lần so với bệnh nhân đạt TIMI 3! ---"
+    },
+    {
+      "id": "bank_im21_thang_diem_timi_08",
+      "text": "Khi xảy ra hiện tượng No-reflow / Slow-flow trong buồng can thiệp, thuốc nào sau đây được các guideline khuyến cáo **tiêm trực tiếp vào lòng động mạch vành hạ lưu qua vi ống thông (Microcatheter)** để giãn giường vi mạch mạch vành?",
+      "options": [
+        "Tiêm Adrenaline liều cao hoặc Noradrenaline nội mạch vành.",
+        "**Adenosine (liều 60 – 120 µg tiêm nội mạch vành)** HOẶC **Nitroprusside (liều 50 – 200 µg tiêm nội mạch vành)** HOẶC **Thuốc chẹn kênh Canxi (Nicardipine / Verapamil / Diltiazem)**.",
+        "Tiêm tĩnh mạch Heparin liều gấp đôi.",
+        "Tiêm Atropine liều cao."
+      ],
+      "correct": 1,
+      "explanation": "Để mở toang giường vi mao mạch hạ lưu đang bị co thắt dữ dội, các thuốc giãn vi mạch cực mạnh được bơm chọn lọc vào sâu trong lòng mạch vành hạ lưu qua catheter hút huyết khối hoặc microcatheter: - **Adenosine:** Kích thích thụ thể $A_{2A}$ gây giãn mạnh các tiểu động mạch vành vi mạch (liều $60 - 120\\\\ \\mu\\text{g}$ tiêm nội mạch vành, có thể lặp lại). - **Sodium Nitroprusside:** Giải phóng trực tiếp Nitric Oxide (NO) gây giãn cơ trơn vi mạch không phụ thuộc nội mô (liều $50 - 200\\\\ \\mu\\text{g}$). - **Nicardipine / Verapamil:** Chẹn kênh calci cơ trơn mạch máu. Tuyệt đối không tiêm Adrenaline/Noradrenaline vào lòng mạch vành vì sẽ làm co thắt mạch vành hạ lưu nặng nề hơn! ---"
+    },
+    {
+      "id": "bank_im21_thang_diem_timi_09",
+      "text": "Tại sao một bệnh nhân sau can thiệp PCI đạt dòng chảy cản quang trong thân mạch vành chính ở mức tối đa **TIMI 3**, nhưng nếu nồng độ ngấm thuốc nhu mô cơ tim chỉ đạt **MBG 0 hoặc MBG 1 (Myocardial Blush Grade 0 - 1)** thì tiên lượng hồi phục chức năng tim vẫn rất tồi tệ?",
+      "options": [
+        "Vì MBG phản ánh tình trạng xơ vữa động mạch chủ.",
+        "**Thang điểm TIMI chỉ đánh giá dòng chảy ở các thân động mạch thượng tâm mạc lớn (Macrovascular flow), trong khi MBG đánh giá sự tưới máu thực sự ở cấp độ vi mao mạch và tế bào cơ tim (Microvascular perfusion)**; nếu MBG 0 (hoàn toàn không thấy cơ tim ngấm thuốc) hoặc MBG 1 (ngấm thuốc mờ nhạt tối thiểu), chứng tỏ giường vi mạch đã bị hoại tử hoặc tắc nghẽn hoàn toàn, cơ tim không nhận được oxy dù thân mạch chính đã thông suốt.",
+        "Do MBG chỉ dùng cho phẫu thuật bắc cầu mạch vành.",
+        "Do MBG phản ánh áp lực trong buồng thất trái."
+      ],
+      "correct": 1,
+      "explanation": "Thang điểm MBG (Myocardial Blush Grade) đánh giá mức độ \"đỏ ửng ngấm thuốc\" của vùng cơ tim được cấp máu: - **MBG 0:** Cơ tim hoàn toàn không ngấm thuốc cản quang (vùng hoại tử vi mạch). - **MBG 1:** Ngấm thuốc mờ nhạt, thuốc rửa trôi rất chậm. - **MBG 2:** Ngấm thuốc vừa phải nhưng chậm hơn so với vùng cơ tim lành. - **MBG 3:** Nhu mô cơ tim ngấm thuốc đậm đặc và rửa trôi nhanh chóng bình thường. Bệnh nhân đạt **TIMI 3 nhưng MBG 0-1** có tỷ lệ tử vong trong 1 năm cao gấp 4 lần so với bệnh nhân đạt cả **TIMI 3 và MBG 3**! ---"
+    },
+    {
+      "id": "bank_im21_thang_diem_timi_10",
+      "text": "Để khắc phục tính chủ quan và định tính của thang điểm TIMI Flow Grade (0 đến 3), phương pháp đo lường bán định lượng **Đếm số khung hình TIMI (Corrected TIMI Frame Count - cTFC)** được thực hiện như thế nào?",
+      "options": [
+        "Đếm số giây từ khi bơm thuốc đến khi thuốc tan hết.",
+        "Đếm **số lượng khung hình chụp mạch (ở tốc độ chuẩn 30 khung hình/giây)** từ khoảnh khắc thuốc cản quang bắt đầu đi vào lỗ vào động mạch vành cho đến khi thuốc chạm đến mốc giải phẫu chuẩn ở đoạn xa tận cùng của nhánh mạch máu; nhánh LAD có chiều dài lớn hơn nên số khung hình đếm được phải **chia cho hệ số 1,7 (Corrected TFC)**; dòng chảy bình thường có $\\text{cTFC} \\le 27$ khung hình.",
+        "Đếm số nhát bóp của tim trên máy monitor.",
+        "Đếm số lượng bóng khí lọt vào catheter."
+      ],
+      "correct": 1,
+      "explanation": "Kỹ thuật Gibson cTFC: Máy chụp mạch vành quay ở tốc độ $30\\\\ \\\\text{fps}$ (khung hình/giây). Người ta đếm chính xác từng khung hình từ lúc cản quang vào gốc mạch máu đến khi chạm mốc giải phẫu tận cùng (nhánh chẽ đôi mỏm tim của LAD, nhánh bờ thứ nhất của LCx, nhánh sau thất của RCA). Vì LAD dài hơn các nhánh khác, số khung hình của LAD chia cho $1{,}7$. Giá trị $\\text{cTFC} \\le 27$ khung hình phản ánh dòng chảy TIMI 3 tốc độ cao tối ưu. Nếu $\\text{cTFC} > 40$ chứng tỏ dòng chảy vi mạch bị chậm (Slow-flow) dù nhìn mắt thường có vẻ thông."
+    }
+  ]
+}

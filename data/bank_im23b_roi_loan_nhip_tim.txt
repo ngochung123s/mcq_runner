@@ -1,0 +1,394 @@
+=== IM-23b: Các Rối Loạn Nhịp Tim Toàn Diện (55 Câu Chuyên Sâu) ===
+
+Câu 1: Pha 0 của Điện thế hoạt động tế bào cơ tim co bóp đáp ứng nhanh (tế bào cơ nhĩ, cơ thất và mạng Purkinje) đặc trưng bởi dòng ion nào sau đây?
+A. Dòng Canxi chậm qua kênh L-type (I_Ca-L)
+B. Dòng Natri nhanh đi ồ ạt vào trong tế bào qua kênh Natri điện thế nhanh (I_Na)
+C. Dòng Kali đi ra ngoài tế bào qua kênh I_Kr
+D. Dòng ion Funny (I_f) đi vào tế bào
+Đáp án: B
+Giải thích: Pha 0 (Khử cực nhanh) của tế bào cơ tim co bóp xảy ra khi điện thế màng chạm ngưỡng (-70 đến -65 mV), các kênh Natri nhanh mở toang làm dòng ion Na+ (I_Na) tràn ồ ạt vào nội bào trong vài mili giây, đưa điện thế màng vọt từ -90 mV lên +20 đến +30 mV. Khác với nút xoang và nút nhĩ thất (tế bào đáp ứng chậm), pha 0 của nút xoang do dòng Canxi chậm I_Ca-L đảm nhận.
+
+Câu 2: Pha 2 (Pha bình nguyên - Plateau phase) của điện thế hoạt động tế bào cơ thất là giai đoạn tạo nên đoạn ST trên điện tâm đồ. Pha này được duy trì nhờ sự cân bằng giữa hai dòng ion nào?
+A. Dòng Natri đi vào và dòng Chlor đi ra
+B. Dòng Canxi chậm đi vào tế bào qua kênh L-type (I_Ca-L) cân bằng với dòng Kali đi ra ngoài tế bào (I_Ks, I_Kr)
+C. Dòng Kali đi vào và dòng Magnesi đi ra
+D. Dòng ion Funny I_f và dòng Natri
+Đáp án: B
+Giải thích: Pha 2 (Bình nguyên) là đặc trưng độc nhất của cơ tim, kéo dài 200 - 300 ms: Dòng Ca2+ chậm đi vào qua kênh L-type (kích hoạt giải phóng Calci từ lưới nội cơ tương gây co cơ) cân bằng chính xác với dòng K+ đi ra ngoài màng tế bào. Sự cân bằng điện tích này giữ cho điện thế màng đi ngang quanh mức 0 mV, tương ứng với đoạn ST đẳng điện trên ECG.
+
+Câu 3: Đặc tính tự động tính (Automaticity) phát nhịp tự nhiên của Nút Xoang (và Nút Nhĩ Thất) trong Pha 4 khử cực chậm tâm trương được quyết định chủ yếu bởi dòng ion nào?
+A. Dòng ion Natri nhanh I_Na
+B. Dòng ion Funny (I_f) hỗn hợp Na+/K+ được hoạt hóa bởi tình trạng phân cực sâu và AMP vòng (cùng với dòng Canxi T-type)
+C. Dòng ion Chlor khuếch tán thụ động
+D. Bơm trao đổi Na+/Ca2+
+Đáp án: B
+Giải thích: Tế bào nút xoang và nút AV không có điện thế nghỉ cố định mà có hiện tượng Khử cực chậm tâm trương tự nhiên trong Pha 4. Dòng ion chủ chốt mở ra khi màng tế bào ở trạng thái tái cực sâu (-60 mV) là dòng ion Funny (I_f - Funny current), mang cả ion Na+ và K+ vào trong tế bào kéo điện thế màng nâng dần về ngưỡng phát xung. Thuốc Ivabradine chẹn chọn lọc kênh I_f giúp làm chậm nhịp xoang mà không ảnh hưởng co bóp cơ tim.
+
+Câu 4: Ba điều kiện bắt buộc (Tam giác Mines) để hình thành và duy trì Cơ chế Vòng vào lại (Reentry Mechanism) — cơ chế của hơn 80% các cơn tim nhanh lâm sàng là gì?
+A. Tăng huyết áp, thiếu máu cơ tim và suy tim ứ huyết
+B. Tồn tại 2 đường dẫn truyền chức năng kết nối với nhau; Có hiện tượng Block một chiều (Unidirectional block) ở một đường; Tốc độ dẫn truyền qua đường còn lại đủ chậm để đường bị block có thời gian hồi phục tính trơ
+C. Có ổ phát xung lạc chỗ, tăng nồng độ Calci nội bào và nhiễm toan máu
+D. Điện thế màng mất ổn định, tăng trương lực phó giao cảm và hạ Kali máu
+Đáp án: B
+Giải thích: Tam giác điều kiện kinh điển của Vòng vào lại (Reentry): (1) Có 2 đường dẫn truyền song song nối với nhau ở 2 đầu; (2) Có Block một chiều ở một nhánh (thường do nhánh này có thời kỳ trơ dài hơn); (3) Nhánh còn lại có tốc độ dẫn truyền chậm (Slow conduction), chậm đến mức khi xung động đi hết nhánh này và vòng ngược lại nhánh bị block thì nhánh đó đã thoát trơ và sẵn sàng nhận kích thích mới, tạo vòng quay khép kín liên tục.
+
+Câu 5: Cơ chế Hoạt động nảy cò (Triggered Activity) do Hiện tượng Hậu khử cực sớm (Early Afterdepolarizations - EAD) xuất hiện trong pha 2 hoặc pha 3 của điện thế hoạt động, là cơ chế bệnh sinh trực tiếp kích hoạt loại rối loạn nhịp nguy kịch nào?
+A. Cơn nhịp nhanh vào lại nút nhĩ thất (AVNRT)
+B. Cơn Xoắn đỉnh (Torsades de Pointes) trên nền khoảng QT kéo dài
+C. Rung nhĩ đáp ứng thất nhanh
+D. Cuồng nhĩ điển hình phụ thuộc eo van ba lá
+Đáp án: B
+Giải thích: EAD (Hậu khử cực sớm) xảy ra khi thời gian tái cực bị kéo dài bất thường (QT kéo dài do thuốc, hạ Kali/Magnesi, hoặc LQTS bẩm sinh). Kênh Calci L-type thoát khỏi trạng thái bất hoạt và mở lại trong pha 2 hoặc pha 3, tạo nên một điện thế khử cực nảy cò sớm. Nếu một nhát EAD vượt ngưỡng điện thế, nó sẽ kích hoạt cơn Xoắn đỉnh (Torsades de Pointes) hoặc Rung thất.
+
+Câu 6: Hiện tượng Hậu khử cực muộn (Delayed Afterdepolarizations - DAD) xuất hiện sau khi màng tế bào đã tái cực hoàn toàn (Pha 4) do tình trạng quá tải Calci nội bào, là cơ chế bệnh sinh điển hình của loạn nhịp tim do nguyên nhân nào?
+A. Hội chứng Brugada Type 1
+B. Ngộ độc thuốc trợ tim Digoxin (Digitalis toxicity) và Nhịp nhanh thất do tăng tiết Catecholamin (CPVT)
+C. Hội chứng Wolff-Parkinson-White
+D. Block nhánh trái hoàn toàn
+Đáp án: B
+Giải thích: DAD xuất hiện trong Pha 4 khi bào tương bị quá tải Calci nghiêm trọng (gặp điển hình trong ngộ độc Digoxin ức chế bơm Na+/K+ làm tích tụ Calci nội bào, hoặc do tăng kích thích giao cảm Catecholamin). Lượng Calci dư thừa bị lưới nội cơ tương tống xuất tự phát kích hoạt kênh trao đổi Na+/Ca2+ (bơm 3 Na+ vào, 1 Ca2+ ra) tạo dòng điện ròng khử cực màng nảy cò gây ngoại tâm thu thất, nhịp đôi, hoặc nhịp nhanh thất đa ổ.
+
+Câu 7: Theo phác đồ Hồi sinh tim phổi nâng cao (ACLS), khi tiếp cận một bệnh nhân có Rối loạn nhịp nhanh (tần số tim > 150 lần/phút), dấu hiệu nào sau đây xác định bệnh nhân có 'Suy giảm huyết động' (Unstable) bắt buộc phải SỐC ĐIỆN CHUYỂN NHỊP ĐỒNG BỘ NGAY LẬP TỨC?
+A. Bệnh nhân có cảm giác hồi hộp đánh trống ngực
+B. Có ít nhất 1 trong 5 dấu hiệu đe dọa tính mạng: (1) Tụt huyết áp / Choáng; (2) Rối loạn tri giác cấp tính; (3) Đau thắt ngực cấp kiểu thiếu máu cơ tim; (4) Dấu hiệu suy tim cấp / Phù phổi cấp; (5) Dấu hiệu tưới máu mô kém (chi lạnh ẩm, thiểu niệu)
+C. Nồng độ Troponin tăng nhẹ
+D. Bệnh nhân có sốt cao 39 độ C
+Đáp án: B
+Giải thích: Quy tắc an toàn số 1 của ACLS: Nhịp nhanh + Không ổn định huyết động (Hạ HA/Sốc, Đau ngực thiếu máu cục bộ, Phù phổi cấp, Rối loạn ý thức) -> BẮT BUỘC PHẢI SỐC ĐIỆN ĐỒNG BỘ CẤP CỨU (Synchronized Cardioversion). Tuyệt đối không trì hoãn sốc điện để làm xét nghiệm máu hay thử các thuốc chống loạn nhịp khi huyết động đang suy sụp!
+
+Câu 8: Tại sao trong sốc điện chuyển nhịp các cơn nhịp nhanh (SVT, Rung nhĩ, Nhanh thất có mạch), máy sốc điện BẮT BUỘC phải cài đặt ở chế độ 'ĐỒNG BỘ' (SYNCHRONIZED)?
+A. Để máy tự động sạc năng lượng mức cao nhất
+B. Để máy phóng xung điện chính xác vào đỉnh của sóng R (phức bộ QRS), tránh phóng điện rơi vào sóng T (thời kỳ trơ tương đối của tâm thất - hiện tượng R-on-T) kích hoạt Rung thất tử vong
+C. Để máy tự động chọn mức năng lượng 360 Joules
+D. Để đồng bộ nhịp thở của bệnh nhân với máy thở
+Đáp án: B
+Giải thích: Chế độ Đồng bộ (Sync mode) nhận diện sóng R và phát xung điện đồng thì với phức bộ QRS. Nếu không bật chế độ Sync (hoặc sốc phá rung không đồng bộ), xung điện có thể rơi ngẫu nhiên vào đỉnh hoặc sườn sau sóng T (hiện tượng R-on-T, vùng cảm nhiễm rung thất) -> lập tức biến một cơn nhịp nhanh thất hoặc SVT có huyết động thành cơn RUNG THẤT ngừng tuần hoàn!
+
+Câu 9: Hai dạng rối loạn nhịp trong ngừng tuần hoàn thuộc nhóm CÓ CHỈ ĐỊNH PHÁ RUNG (Shockable Rhythms) theo ACLS là gì?
+A. Vô tâm thu (Asystole) và Phân ly điện cơ (PEA)
+B. Rung thất (Ventricular Fibrillation - VF) và Nhanh thất vô mạch (Pulseless Ventricular Tachycardia - pVT)
+C. Rung nhĩ đáp ứng thất nhanh và Cuồng nhĩ
+D. Nhịp chậm xoang nặng và Block AV độ III
+Đáp án: B
+Giải thích: Nhóm sốc điện phá rung được: Rung thất (VF) và Nhanh thất vô mạch (pVT) -> Can thiệp số 1 là Khử rung phá rung không đồng bộ ngay lập tức (Defibrillation 120 - 200J Biphasic hoặc 360J Monophasic) kết hợp CPR 30:2. Nhóm KHÔNG sốc điện: Vô tâm thu (Asystole) và Phân ly điện cơ (PEA) -> Không sốc điện, chỉ ép tim liên tục, tiêm Adrenaline 1mg mỗi 3 - 5 phút và tầm soát 5H & 5T.
+
+Câu 10: Các nguyên nhân có thể đảo ngược được của ngừng tim và loạn nhịp ác tính trong hệ thống 5H và 5T của ACLS bao gồm những gì?
+A. 5H: Hypoxia, Hypovolemia, Hydrogen ion (Acidosis), Hypo/Hyperkalemia, Hypothermia; 5T: Tension pneumothorax, Tamponade (cardiac), Toxins, Thrombosis (pulmonary), Thrombosis (coronary)
+B. 5H: Hypertension, Hyperglycemia, Hypercalcemia, Headache, Heart failure; 5T: Tachycardia, Tremor, Trauma, Thyroid, Tumor
+C. 5H: Hypoglycemia đơn thuần; 5T: Tracheostomy đơn thuần
+D. 5H: Hydrocephalus, Hematoma; 5T: Tuberculosis, Tetanus
+Đáp án: A
+Giải thích: Quy tắc 5H và 5T bắt buộc phải thuộc lòng trong hồi sức tim mạch: 5H (Giảm thể tích, Thiếu oxy, Toan chuyển hóa, Rối loạn Kali máu, Hạ thân nhiệt); 5T (Tràn khí màng phổi áp lực, Chèn ép tim cấp, Ngộ độc độc chất, Thuyên tắc phổi, Tắc mạch vành cấp).
+
+Câu 11: Tiêu chuẩn chẩn đoán Nhịp chậm xoang (Sinus Bradycardia) trên Điện tâm đồ là gì?
+A. Nhịp tim < 80 lần/phút, không thấy sóng P
+B. Có đầy đủ tiêu chuẩn nhịp xoang (sóng P xoang dương ở D1, D2, aVF, âm ở aVR, mỗi sóng P đi kèm một phức bộ QRS) nhưng tần số tim < 60 lần/phút
+C. Khoảng PR kéo dài > 0,20 giây
+D. Phức bộ QRS giãn rộng > 0,12 giây
+Đáp án: B
+Giải thích: Nhịp chậm xoang: Sóng P có nguồn gốc nút xoang bình thường, sau mỗi P là một QRS, khoảng PR bình thường (0.12 - 0.20s), nhưng tần số phát nhịp của nút xoang < 60 lần/phút (ở vận động viên chuyên nghiệp hoặc lúc ngủ sâu nhịp có thể 40 - 50 l/p sinh lý).
+
+Câu 12: Hội chứng Suy nút xoang (Sick Sinus Syndrome - SSS) biểu hiện bằng thể lâm sàng kinh điển nào làm bệnh nhân thường xuyên bị choáng ngất?
+A. Cơn đau thắt ngực Prinzmetal
+B. Hội chứng Nhịp nhanh - Nhịp chậm (Tachycardia-Bradycardia Syndrome): Các cơn nhịp nhanh kịch phát (Rung nhĩ, Cuồng nhĩ) xen kẽ với các khoảng ngưng xoang kéo dài hoặc nhịp chậm xoang nặng
+C. Block nhánh phải hoàn toàn
+D. Cơn co giật động kinh vắng ý thức
+Đáp án: B
+Giải thích: SSS là bệnh lý thoái hóa/xơ hóa nút xoang. Thể kinh điển là Hội chứng Nhịp nhanh - Nhịp chậm: Cơn nhịp nhanh nhĩ/rung nhĩ làm ức chế vượt tần số (overdrive suppression) nút xoang vốn đã suy yếu. Khi cơn nhanh đột ngột chấm dứt, nút xoang không thể phục hồi phát nhịp ngay, tạo ra khoảng ngưng xoang kéo dài nhiều giây (Asystole/Sinus arrest) gây ngất xỉu (cơn Adams-Stokes). Điều trị bắt buộc: Cấy máy tạo nhịp vĩnh viễn (để chống nhịp chậm) sau đó mới dùng được thuốc hạ nhịp kiểm soát cơn nhanh.
+
+Câu 13: Tiêu chuẩn chẩn đoán Block Nhĩ Thất Độ I (First-Degree AV Block) trên Điện tâm đồ là gì?
+A. Mất hoàn toàn mối liên hệ giữa sóng P và phức bộ QRS
+B. Khoảng PR (hoặc PQ) kéo dài cố định > 0,20 giây (> 5 ô nhỏ) trên tất cả các chuyển đạo, và MỌI SÓNG P ĐỀU DẪN TRUYỀN ĐƯỢC XUỐNG THẤT (tỷ lệ dẫn 1:1, không có nhát bóp nào bị rơi)
+C. Khoảng PR dài dần ra cho đến khi có một sóng P bị block
+D. Khoảng PR ngắn < 0,12 giây kèm sóng delta
+Đáp án: B
+Giải thích: Block AV độ I thực chất là tình trạng chậm dẫn truyền nhĩ - thất (thường tại nút AV): Mỗi sóng P đều dẫn được xuống thất (tỷ lệ 1:1), nhưng thời gian dẫn truyền từ nhĩ xuống thất bị kéo dài cố định PR > 0.20s. Bệnh nhân thường không có triệu chứng và lành tính.
+
+Câu 14: Đặc điểm Điện tâm đồ của Block Nhĩ Thất Độ II Kiểu Mobitz I (Chu kỳ Wenckebach) là gì?
+A. Khoảng PR cố định hoàn toàn trước nhát sóng P bị rơi
+B. Khoảng PR dài dần ra qua từng chu chuyển tim cho đến khi có MỘT SÓNG P BỊ BLOCK HOÀN TOÀN không dẫn truyền được xuống thất (rơi mất một phức bộ QRS); sau nhát rơi, chu kỳ lặp lại với khoảng PR trở về ngắn nhất
+C. Mọi sóng P đều không dẫn truyền xuống thất
+D. Khoảng PP không đều nhưng PR cố định
+Đáp án: B
+Giải thích: Block AV độ II Mobitz I (Wenckebach): Vị trí tổn thương thường nằm cao tại Nút Nhĩ Thất (Nodal block), mang tính chất trơ mệt mỏi sinh lý: Khoảng PR dài dần ra (PR1 < PR2 < PR3) cho đến khi 1 sóng P bị block không có QRS theo sau. Tiên lượng thường lành tính, đáp ứng tốt với Atropin và hiếm khi tiến triển thành block độ III.
+
+Câu 15: Tại sao Block Nhĩ Thất Độ II Kiểu Mobitz II lại nguy hiểm hơn rất nhiều so với Mobitz I và có chỉ định Cấy máy tạo nhịp vĩnh viễn tuyệt đối?
+A. Vì Mobitz II luôn gây tăng huyết áp kịch phát
+B. Vì tổn thương giải phẫu nằm sâu dưới nút AV (tại bó His hoặc hai nhánh bó His - Infranodal block), các khoảng PR trước nhát rơi HOÀN TOÀN CỐ ĐỊNH, sóng P đột ngột bị block không báo trước; có nguy cơ rất cao tiến triển thành Block AV Độ III và ngừng tim
+C. Vì Mobitz II chỉ gặp ở trẻ sơ sinh
+D. Vì Mobitz II không đáp ứng với máy sốc điện
+Đáp án: B
+Giải thích: Mobitz II là tổn thương thực thể hệ thống dẫn truyền dưới nút (bó His/nhánh): Khoảng PR cố định hoàn toàn trước và sau nhát rơi. Một sóng P đột ngột không dẫn xuống thất mà không có cảnh báo trước (phức bộ QRS thường giãn rộng do block nhánh kèm theo). Mobitz II không bao giờ tự lành, không đáp ứng với Atropin và thường xuyên tiến triển đột ngột thành vô tâm thu hoặc Block AV hoàn toàn gây đột tử -> CHỈ ĐỊNH CẤY MÁY TẠO NHỊP VĨNH VIỄN CLASS I!
+
+Câu 16: Tiêu chuẩn chẩn đoán Block Nhĩ Thất Độ III (Block AV hoàn toàn - Complete Heart Block) trên Điện tâm đồ là gì?
+A. Tần số tim nhanh > 100 lần/phút
+B. Hiện tượng Phân ly nhĩ thất hoàn toàn (AV Dissociation): Sóng P phát nhịp độc lập từ nút xoang (tần số 60 - 90 l/p) và Phức bộ QRS phát nhịp độc lập từ bộ nối hoặc tâm thất (tần số chậm 30 - 45 l/p); không có bất kỳ mối liên hệ dẫn truyền nào giữa nhĩ và thất (khoảng PR biến thiên ngẫu nhiên, khoảng PP đều, khoảng RR đều)
+C. Khoảng PR kéo dài > 0.30s nhưng mọi sóng P vẫn dẫn được xuống thất
+D. Sóng P âm ở D2, D3, aVF
+Đáp án: B
+Giải thích: Block AV độ III (CHB): Xung động nhĩ hoàn toàn bị cắt đứt không thể đi qua vùng tổn thương để xuống thất. Nhĩ đập theo nhịp xoang (PP đều, nhanh hơn). Thất đập theo nhịp thoát tự phát (Escape rhythm) từ bộ nối (QRS hẹp, tần số 40-50 l/p) hoặc từ thất (QRS rộng, tần số 20-40 l/p). Khoảng RR đều tăm tắp, khoảng PP đều tăm tắp, sóng P rơi tự do rải rác đè cả vào phức bộ QRS và sóng T (Phân ly nhĩ thất).
+
+Câu 17: Thuốc cấp cứu đầu tay lựa chọn theo phác đồ ACLS cho bệnh nhân Nhịp chậm có suy giảm huyết động (tụt HA, đau ngực, lơ mơ) là gì và liều lượng tối đa là bao nhiêu?
+A. Adrenaline tiêm bắp 0.5 mg
+B. Atropine sulfat tiêm tĩnh mạch nhanh liều khởi đầu 1,0 mg (nhắc lại mỗi 3 – 5 phút, tổng liều tối đa 3,0 mg)
+C. Amiodarone 300 mg tiêm tĩnh mạch
+D. Digoxin 0.5 mg tiêm tĩnh mạch
+Đáp án: B
+Giải thích: Thuốc lựa chọn hàng đầu cho nhịp chậm có huyết động không ổn định là ATROPINE: Liều chuẩn ACLS hiện tại là 1.0 mg tiêm TM nhanh (trước đây là 0.5mg), nhắc lại mỗi 3-5 phút đến tổng liều tối đa 3.0 mg (liều ức chế hoàn toàn phó giao cảm ở người lớn). Lưu ý: Liều < 0.5 mg bị cấm vì có thể gây nghịch ngôn làm chậm nhịp tim hơn do kích thích thụ thể trung ương.
+
+Câu 18: Khi Atropine thất bại hoặc ở bệnh nhân Block AV độ II Mobitz II / Block AV độ III tổn thương dưới nút, bước xử trí cấp cứu tiếp theo được ưu tiên là gì?
+A. Tiêm tĩnh mạch Verapamil
+B. Tạo nhịp tạm thời qua da (Transcutaneous Pacing - TCP) ngay lập tức kết hợp truyền tĩnh mạch liên tục thuốc vận mạch tăng nhịp tim (Dopamine 5 – 20 µg/kg/phút HOẶC Adrenaline 2 – 10 µg/phút)
+C. Sốc điện chuyển nhịp 200 Joules
+D. Cho thở oxy lưu lượng cao đơn thuần
+Đáp án: B
+Giải thích: Atropine chỉ có tác dụng khi tổn thương nằm tại nút nhĩ thất (tăng trương lực phế vị). Nếu tổn thương dưới nút (Mobitz II, Block AV III QRS rộng), Atropine hoàn toàn vô tác dụng. Bắt buộc phải gắn máy Tạo nhịp qua da (TCP) ngay lập tức để duy trì cung lượng tim, phối hợp truyền Dopamine hoặc Adrenaline tĩnh mạch trong khi chuẩn bị đặt máy tạo nhịp tạm thời qua tĩnh mạch (Transvenous pacing).
+
+Câu 19: Tiêu chuẩn chẩn đoán Block nhánh phải hoàn toàn (CRBBB - Complete Right Bundle Branch Block) trên Điện tâm đồ gồm những tiêu chí nào?
+A. QRS rộng > 0,12s, dạng QS sâu ở V1
+B. Thời gian phức bộ QRS kéo dài ≥ 0,12 giây (≥ 3 ô nhỏ); Dạng sóng rSR' (hình tai thỏ - Rabbit ears) hoặc rR' ở các chuyển đạo trước tim phải V1 – V2; Sóng S rộng và tù ở các chuyển đạo bên trái D1, aVL, V5 – V6
+C. ST chênh lên dạng vòm ở V1, V2
+D. Khoảng PR ngắn lại kèm sóng delta
+Đáp án: B
+Giải thích: Block nhánh phải hoàn toàn (CRBBB): (1) QRS >= 0.12s; (2) Dạng rSR' hoặc rsR' ở V1, V2 với đỉnh R' thứ hai cao hơn r đầu; (3) Sóng S sâu, rộng, tù ở D1, aVL, V5, V6 (thể hiện khử cực muộn của tâm thất phải); (4) Đoạn ST chênh xuống và T âm tính thứ phát ở V1, V2.
+
+Câu 20: Tiêu chuẩn chẩn đoán Block nhánh trái hoàn toàn (CLBBB - Complete Left Bundle Branch Block) trên Điện tâm đồ gồm những tiêu chí nào?
+A. Thời gian phức bộ QRS kéo dài ≥ 0,12 giây; Sóng R rộng, đỉnh bằng hoặc có khía (chữ M) ở các chuyển đạo bên trái D1, aVL, V5 – V6; Mất hoàn toàn sóng Q sinh lý ở D1, V5, V6; Dạng sóng rS nhỏ hoặc QS sâu rộng ở V1 – V2
+B. QRS hẹp < 0,10 giây kèm sóng Q sâu ở D2, D3, aVF
+C. Sóng P hai pha ở V1
+D. Dạng rSR' ở V1
+Đáp án: A
+Giải thích: Block nhánh trái hoàn toàn (CLBBB): Vách liên thất bị khử cực ngược chiều từ phải sang trái (mất sóng Q vách ở D1, V5, V6). Thất trái khử cực muộn qua cơ tim chậm chạp tạo sóng R rộng có móc/khía ở D1, aVL, V5, V6 và sóng QS/rS rất sâu ở V1, V2. LBBB mới xuất hiện trên bệnh nhân đau ngực cấp được xem là tương đương STEMI!
+
+Câu 21: Tại sao sự xuất hiện mới của Block nhánh trái (LBBB) trên bệnh nhân có hội chứng mạch vành cấp lại che lấp các dấu hiệu nhồi máu cơ tim kinh điển trên ECG và cần dùng tiêu chuẩn Sgarbossa để chẩn đoán?
+A. Vì LBBB làm tim ngừng đập
+B. Vì trong LBBB, quá trình khử cực và tái cực tâm thất bị biến đổi thứ phát toàn bộ (ST-T luôn biến đổi ngược chiều với QRS), che lấp hình ảnh ST chênh lên của nhồi máu cơ tim
+C. Vì LBBB làm giảm nồng độ men tim trong máu
+D. Vì LBBB làm mất toàn bộ sóng R
+Đáp án: B
+Giải thích: Trong LBBB bình thường, đoạn ST và sóng T luôn biến đổi bất hòa hợp (Discordant) ngược hướng với QRS (QRS âm thì ST chênh lên nhẹ, QRS dương thì ST chênh xuống). Để chẩn đoán nhồi máu cơ tim cấp trên nền LBBB, tiêu chuẩn Sgarbossa tìm các dấu hiệu hòa hợp bệnh lý: (1) ST chênh lên >= 1mm CÙNG CHIỀU với QRS dương (5 điểm); (2) ST chênh xuống >= 1mm ở V1-V3 (3 điểm); (3) ST chênh lên quá mức >= 5mm ngược chiều với QRS âm (2 điểm, hoặc tiêu chuẩn Sgarbossa cải biên Smith tỷ lệ ST/S <= -0.25).
+
+Câu 22: Block hai phân nhánh (Bifascicular Block) thường được định nghĩa trên Điện tâm đồ là sự phối hợp của hai tổn thương nào?
+A. Block xoang nhĩ kết hợp Block nhĩ thất độ I
+B. Block nhánh phải hoàn toàn (CRBBB) KẾT HỢP VỚI Block phân nhánh trái trước (LAFB - trục lệch trái mạnh) HOẶC Block phân nhánh trái sau (LPFB - trục lệch phải)
+C. Block nhánh trái kết hợp dày nhĩ trái
+D. Block độ II Mobitz I kết hợp ngoại tâm thu
+Đáp án: B
+Giải thích: Hệ thống dẫn truyền thất gồm 3 phân nhánh: Nhánh phải, Phân nhánh trái trước (LAFB), và Phân nhánh trái sau (LPFB). Block 2 phân nhánh = Block nhánh phải (RBBB) + Block phân nhánh trái trước (trục QRS từ -45 đến -90 độ) hoặc Phân nhánh trái sau (trục > +120 độ). Bệnh nhân chỉ còn duy nhất một phân nhánh sống sót duy trì dẫn truyền nhĩ thất; nếu phân nhánh này tổn thương nốt sẽ tiến triển thành Block AV hoàn toàn!
+
+Câu 23: Đặc điểm giải phẫu điện sinh lý và cơ chế vòng vào lại trong Cơn tim nhanh vào lại nút nhĩ thất (AVNRT) thể điển hình (Slow-Fast) là gì?
+A. Do cầu Kent nối nhĩ và thất ngoài nút AV
+B. Nút nhĩ thất bị phân đôi chức năng thành 2 đường: Đường chậm (Slow pathway - dẫn truyền chậm, thời kỳ trơ ngắn) và Đường nhanh (Fast pathway - dẫn truyền nhanh, thời kỳ trơ dài); trong thể điển hình xung động đi xuôi qua đường chậm xuống thất và đi ngược qua đường nhanh lên nhĩ
+C. Do ổ phát nhịp tự động trong tĩnh mạch phổi
+D. Do vòng vào lại quanh sẹo nhồi máu cơ tim thất trái
+Đáp án: B
+Giải thích: AVNRT là dạng SVT phổ biến nhất ở người trẻ (đặc biệt là nữ giới): Bản chất là vòng vào lại nằm trọn trong vùng nút nhĩ thất. Thể điển hình (Slow-Fast, chiếm 90%): Xung động dẫn truyền xuôi theo đường chậm xuống khử cực thất, đồng thời dẫn ngược cực nhanh theo đường nhanh lên khử cực nhĩ -> Nhĩ và thất bị khử cực gần như cùng một thời điểm, do đó sóng P' bị chôn vùi trong QRS hoặc nhô ra ở phần cuối QRS tạo hình ảnh giả sóng r' ở V1 (Pseudo r' in V1) hoặc giả sóng s ở D2, D3, aVF (Pseudo s).
+
+Câu 24: Tam chứng kinh điển trên Điện tâm đồ lúc nhịp xoang nghỉ ngơi của Hội chứng Wolff-Parkinson-White (WPW) gồm những gì?
+A. Khoảng PR kéo dài > 0.20s, QRS hẹp, T âm
+B. (1) Khoảng PR ngắn bất thường (< 0,12 giây); (2) Phức bộ QRS giãn rộng (> 0,12 giây) do có Sóng Delta (khử cực sớm sườn thoái thoải ở đầu phức bộ QRS); (3) Biến đổi thứ phát của đoạn ST và sóng T ngược hướng với sóng delta
+C. Sóng P nhọn dạng P phế, PR dài, trục phải
+D. Sóng U cao, khoảng QT dài, rung thất
+Đáp án: B
+Giải thích: Tam chứng WPW lúc nghỉ do tồn tại đường dẫn truyền phụ nhĩ-thất (Cầu Kent): (1) PR ngắn < 0.12s vì xung động đi tắt qua cầu Kent không bị trì hoãn sinh lý ở nút AV; (2) Sóng Delta và QRS rộng do cơ thất vùng cạnh cầu Kent bị khử cực sớm (Pre-excitation) lan truyền chậm qua tế bào cơ tim; (3) Biến đổi ST-T thứ phát ngược hướng delta.
+
+Câu 25: Trong cơn tim nhanh vào lại nhĩ - thất (AVRT) ở bệnh nhân có đường dẫn truyền phụ, phân biệt thể Dẫn truyền xuôi (Orthodromic AVRT) và Thể dẫn truyền ngược (Antidromic AVRT) như thế nào?
+A. Orthodromic có QRS rộng, Antidromic có QRS hẹp
+B. Thể xuôi (Orthodromic, chiếm 90 - 95%): Xung động đi XUÔI qua Nút AV xuống thất và đi NGƯỢC qua đường phụ lên nhĩ -> Phức bộ QRS HẸP (< 0,12s); Thể ngược (Antidromic, 5 - 10%): Xung động đi XUÔI qua đường phụ xuống thất và đi NGƯỢC qua nút AV lên nhĩ -> Phức bộ QRS RỘNG VÀ DỊ DẠNG (> 0,12s, toàn bộ thất bị kích thích sớm)
+C. Hai thể đều có phức bộ QRS hẹp giống nhau
+D. Antidromic đáp ứng với Atropin
+Đáp án: B
+Giải thích: Orthodromic AVRT (chiếm đa số): Đi xuôi qua hệ His-Purkinje bình thường nên thất khử cực đồng bộ -> QRS hẹp bình thường. Antidromic AVRT (hiếm hơn): Đi xuôi qua cầu Kent vào thẳng cơ thất nên thất khử cực dị dạng lan truyền cơ-cơ -> QRS rất rộng, dễ nhầm lẫn với Cơn tim nhanh thất (VT)!
+
+Câu 26: CẢNH BÁO CHẾT NGƯỜI: Ở bệnh nhân có Hội chứng WPW xuất hiện Rung nhĩ có dẫn truyền qua đường phụ (Pre-excited Atrial Fibrillation: ECG nhịp không đều, tần số cực nhanh 200 - 300 l/p, QRS rộng dị dạng biến đổi hình thái), nhóm thuốc nào sau đây bị CHỐNG CHỈ ĐỊNH TUYỆT ĐỐI?
+A. Thuốc chống loạn nhịp Nhóm Ic (Flecainide, Propafenone) và Procainamide
+B. Các thuốc chẹn nút nhĩ thất: Adenosine, Thuốc chẹn kênh Calci (Verapamil, Diltiazem), Thuốc chẹn Beta giao cảm, và Digoxin
+C. Sốc điện chuyển nhịp đồng bộ
+D. Amiodarone đường tĩnh mạch
+Đáp án: B
+Giải thích: CẠM BẪY TỬ VONG SỐ 1: Trong Rung nhĩ kèm WPW, nút AV đóng vai trò như 'người bảo vệ' lọc bớt xung nhĩ. Các thuốc Adenosine, Verapamil, Chẹn Beta, Digoxin làm chẹn đứng nút AV -> toàn bộ hàng trăm xung động rung nhĩ (300-600 l/p) sẽ tràn qua đường phụ (cầu Kent có thời kỳ trơ cực ngắn) đổ dồn dập xuống thất -> lập tức biến Rung nhĩ thành RUNG THẤT và ngừng tim đột ngột! Thuốc lựa chọn là Procainamide, Ibutilide hoặc SỐC ĐIỆN NGAY LẬP TỨC nếu bất ổn huyết động.
+
+Câu 27: Đặc điểm Điện tâm đồ kinh điển của Cuồng động nhĩ (Atrial Flutter - AFL) thể điển hình phụ thuộc eo van ba lá (CTI-dependent) là gì?
+A. Mất hoàn toàn sóng nhĩ, đường đẳng điện lăn tăn
+B. Sóng cuồng nhĩ hình răng cưa (Sawtooth waves / Sóng F) liên tục, đều tăm tắp, mất đường đẳng điện, nhìn rõ nhất ở D2, D3, aVF; tần số nhĩ khoảng 300 lần/phút (250 – 350 l/p); dẫn truyền nhĩ thất thường gặp nhất là tỷ lệ 2:1 (tần số thất khoảng 150 lần/phút) hoặc 4:1
+C. Sóng P nhọn cao đối xứng, tần số 100 l/p
+D. Phức bộ QRS giãn rộng > 0,16s
+Đáp án: B
+Giải thích: Cuồng nhĩ điển hình (Typical AFL) do vòng vào lại lớn quay quanh vòng van ba lá và eo động mạch chủ - van ba lá (Cavotricuspid Isthmus - CTI). Tần số nhĩ cực kỳ ổn định khoảng 300 l/p, tạo sóng răng cưa F đều tăm tắp ở chuyển đạo dưới. Vì nút AV không dẫn kịp tần số 300, tỷ lệ dẫn thường là 2:1 (tần số thất đúng 150 l/p) hoặc 4:1 (tần số thất đúng 75 l/p). Triệt đốt CTI qua ống thông (Catheter Ablation) đạt tỷ lệ khỏi bệnh > 95%.
+
+Câu 28: Thủ thuật kích thích phế vị (Vagal maneuvers) nào sau đây được khuyến cáo theo thử nghiệm REVERT để tăng tỷ lệ cắt cơn nhịp nhanh kịch phát trên thất (SVT) từ 17% lên trên 43%?
+A. Ấn nhãn cầu hai bên thật mạnh
+B. Nghiệm pháp Valsalva cải biên (Modified Valsalva maneuver): Thổi vào ống tiêm 10ml đạt áp lực 40 mmHg trong 15 giây ở tư thế nửa ngồi, sau đó cho bệnh nhân nằm ngửa phẳng ngay lập tức và nâng cao hai chân 45 độ trong 15 giây
+C. Xoa xoang cảnh hai bên cùng lúc
+D. Cho bệnh nhân uống nước đá lạnh liên tục
+Đáp án: B
+Giải thích: Nghiệm pháp Valsalva cải biên (thử nghiệm REVERT - Lancet 2015): Thổi vào bơm tiêm 10ml làm pít-tông dịch chuyển (áp lực 40 mmHg) trong 15s ở tư thế ngồi 45 độ, sau đó hạ bệnh nhân nằm ngửa và nâng cao 2 chân 45 độ trong 15s. Động tác nâng chân làm tăng đột ngột lượng máu hồi lưu về tĩnh mạch chủ, kích hoạt phản xạ áp thụ quan xoang cảnh cực mạnh giải phóng Acetylcholine chẹn tạm thời nút AV và cắt cơn SVT ngoạn mục (tỷ lệ thành công 43%). Tuyệt đối cấm ấn nhãn cầu vì gây bong võng mạc!
+
+Câu 29: Thuốc cắt cơn đầu tay cho Cơn tim nhanh kịch phát trên thất (SVT) có huyết động ổn định sau khi kích thích phế vị thất bại là gì và kỹ thuật tiêm tĩnh mạch bắt buộc là gì?
+A. Amiodarone truyền chậm trong 30 phút
+B. Adenosine tiêm tĩnh mạch bolus cực nhanh liều khởi đầu 6 mg (nếu không cắt cơn sau 1 – 2 phút thì tiêm liều thứ hai 12 mg), tiêm qua ven lớn gần tim nhất có thể và xả nhanh ngay 20 ml dung dịch NaCl 0.9% kèm nâng cao tay
+C. Lidocaine tiêm tĩnh mạch chậm 1 mg/kg
+D. Atropine 1 mg tiêm tĩnh mạch
+Đáp án: B
+Giải thích: Adenosine là thuốc lựa chọn số 1 cắt cơn SVT liên quan nút AV (AVNRT, AVRT). Thuốc gắn vào thụ thể A1 tại nút AV làm mở kênh Kali gây quá phân cực tế bào và khóa dẫn truyền nút AV trong vài giây. Thời gian bán hủy của Adenosine cực ngắn (< 10 giây do bị hồng cầu và nội mô bắt giữ). Do đó bắt buộc phải TIÊM BOLUS NHANH TRONG 1-2 GIÂY qua đường truyền tĩnh mạch lớn ở cẳng tay/khuỷu, nối chạc ba xả ngay 20ml dịch muối và giơ cao tay để thuốc kịp chạm vào tim trước khi bị phân hủy!
+
+Câu 30: Ba trụ cột toàn diện trong chiến lược quản lý Rung nhĩ (Atrial Fibrillation - AF) theo con đường ABC (ABC Pathway) của Hội Tim mạch Châu Âu (ESC Guidelines) gồm những gì?
+A. A: Aspirin; B: Blood pressure; C: Cholesterol
+B. A (Anticoagulation / Avoid stroke): Kháng đông dự phòng đột quỵ não; B (Better symptom management): Kiểm soát triệu chứng bằng kiểm soát tần số thất (Rate control) hoặc kiểm soát nhịp xoang (Rhythm control); C (Cardiovascular risk / Comorbidity): Tối ưu hóa các yếu tố nguy cơ tim mạch và bệnh đồng mắc
+C. A: Ablation; B: Beta-blocker; C: Cardioversion
+D. A: Amiodarone; B: Biphasic; C: Catheter
+Đáp án: B
+Giải thích: Con đường ABC (Atrial fibrillation Better Care): Trụ cột A: Đánh giá nguy cơ đột quỵ bằng thang điểm CHA2DS2-VASc và dùng thuốc kháng đông NOAC/VKA; Trụ cột B: Kiểm soát triệu chứng (dùng chẹn beta, chẹn calci, digoxin để kiểm soát tần số, hoặc chuyển nhịp bằng sốc điện/thuốc/triệt đốt); Trụ cột C: Kiểm soát các bệnh nền tim mạch (THA, ĐTĐ, suy tim, béo phì, ngưng thở khi ngủ).
+
+Câu 31: Thang điểm CHA2DS2-VASc đánh giá nguy cơ đột quỵ tắc mạch ở bệnh nhân Rung nhĩ không do bệnh van tim: Hai yếu tố nào sau đây được tính 2 ĐIỂM?
+A. Tăng huyết áp và Đái tháo đường
+B. Tuổi ≥ 75 tuổi (A2) VÀ Tiền sử Đột quỵ não / Cơn thiếu máu não thoáng qua TIA / Thuyên tắc huyết khối mạch hệ thống (S2)
+C. Suy tim và Giới tính nữ
+D. Bệnh mạch máu và Tuổi 65 - 74
+Đáp án: B
+Giải thích: Thang điểm CHA2DS2-VASc: C (Congestive heart failure - 1đ); H (Hypertension - 1đ); A2 (Age >= 75 - 2 ĐIỂM); D (Diabetes - 1đ); S2 (Stroke/TIA/Thromboembolism - 2 ĐIỂM); V (Vascular disease - 1đ); A (Age 65-74 - 1đ); Sc (Sex category: Nữ - 1đ). Chỉ định dùng thuốc kháng đông đường uống (ưu tiên NOAC/DOAC): Nam >= 2 điểm, Nữ >= 3 điểm (Class I); Nam 1 điểm, Nữ 2 điểm (Class IIa).
+
+Câu 32: Chiến lược dùng thuốc cắt cơn Rung nhĩ theo nguyên tắc 'Viên thuốc bỏ túi' (Pill-in-the-pocket approach) cho phép bệnh nhân ngoại trú tự uống một liều duy nhất thuốc nào tại nhà khi xuất hiện cơn rung nhĩ kịch phát?
+A. Aspirin 500 mg kết hợp Clopidogrel
+B. Flecainide (200 – 300 mg) HOẶC Propafenone (450 – 600 mg) uống kèm thuốc chẹn Beta giao cảm
+C. Digoxin 0.5 mg uống liều cao
+D. Amiodarone 1.200 mg uống một lần
+Đáp án: B
+Giải thích: Chiến lược Pill-in-the-pocket (Viên thuốc bỏ túi): Dành cho bệnh nhân có cơn rung nhĩ kịch phát tái phát có triệu chứng rõ rệt nhưng KHÔNG CÓ BỆNH TIM CẤU TRÚC (không suy tim, không bệnh mạch vành). Bệnh nhân tự uống 1 liều Flecainide 200-300mg hoặc Propafenone 450-600mg (trước đó 30 phút uống chẹn beta để ngừa cuồng nhĩ dẫn 1:1). Chỉ áp dụng sau khi đã thử nghiệm an toàn trong bệnh viện.
+
+Câu 33: Chỉ số Gánh nặng ngoại tâm thu thất (PVC Burden) trên bản ghi Holter Điện tâm đồ 24 giờ vượt quá ngưỡng bao nhiêu phần trăm thì có nguy cơ cao tiến triển thành Bệnh cơ tim do loạn nhịp (PVC-induced Cardiomyopathy) và có chỉ định triệt đốt điện sinh lý?
+A. PVC Burden > 1%
+B. PVC Burden > 10% – 15% tổng số nhát bóp trong ngày (hoặc > 10.000 – 20.000 nhát PVC/24h)
+C. PVC Burden > 50%
+D. Chỉ cần xuất hiện 100 nhát PVC
+Đáp án: B
+Giải thích: PVC Burden = (Tổng số nhát PVC / Tổng số nhát bóp 24h) * 100%. Khi PVC Burden > 10 - 15% (thường > 10.000 - 20.000 nhát/ngày), sự mất đồng bộ co bóp thất trái kéo dài sẽ gây giãn buồng tim và suy giảm phân suất tống máu EF (Bệnh cơ tim do PVC). Triệt đốt RF ổ ngoại vị hoặc dùng thuốc có thể hồi phục hoàn toàn chức năng thất trái.
+
+Câu 34: Định nghĩa Cơn tim nhanh thất không bền bỉ (Non-sustained VT - NSVT) và Cơn tim nhanh thất bền bỉ (Sustained VT) trên Điện tâm đồ là gì?
+A. NSVT kéo dài < 1 phút, Sustained VT kéo dài > 1 phút
+B. Cơn tim nhanh thất (VT) là chuỗi từ ≥ 3 nhát ngoại tâm thu thất liên tiếp tần số > 100 l/p; NSVT tự kết thúc trong vòng < 30 giây và không gây suy sụp huyết động; Sustained VT kéo dài ≥ 30 giây HOẶC gây suy sụp huyết động đòi hỏi phải can thiệp cắt cơn khẩn cấp trước 30 giây
+C. NSVT có QRS hẹp, Sustained VT có QRS rộng
+D. NSVT không đáp ứng với thuốc, Sustained VT tự khỏi
+Đáp án: B
+Giải thích: Định nghĩa chuẩn: VT = Chuỗi >= 3 phức bộ có nguồn gốc thất, tần số > 100 l/p. Phân định theo thời gian: Non-sustained VT (tự hết < 30 giây, huyết động ổn); Sustained VT (kéo dài >= 30 giây hoặc tụt HA/ngất phải sốc điện chuyển nhịp trước 30 giây).
+
+Câu 35: Bốn dấu hiệu kinh điển khẳng định chắc chắn bản chất của một cơn Nhịp nhanh phức bộ QRS rộng là NHANH THẤT (VT) chứ không phải SVT dẫn truyền lệch hướng gồm những gì?
+A. Nhịp tim đều, không sốt, huyết áp bình thường, không đau ngực
+B. (1) Hiện tượng Phân ly nhĩ thất (AV Dissociation - sóng P đập chậm độc lập với QRS); (2) Nhát bắt được thất (Capture beats); (3) Nhát bóp hỗn hợp (Fusion beats); (4) Hiện tượng Đồng hướng (Concordance) toàn bộ dương hoặc toàn bộ âm từ V1 đến V6
+C. QRS hẹp, có sóng delta, PR ngắn
+D. Sóng P đi trước mọi phức bộ QRS
+Đáp án: B
+Giải thích: 4 dấu ấn vàng khẳng định VT: (1) Phân ly nhĩ thất (dấu hiệu đặc hiệu nhất 100% cho VT); (2) Nhát bắt được (Capture beat: nhát bóp QRS hẹp bình thường xuất hiện lạc lõng giữa cơn nhanh rộng do nhịp xoang lọt xuống); (3) Nhát hỗn hợp (Fusion beat: QRS lai giữa nhát xoang và nhát thất); (4) Đồng hướng (Concordance: V1-V6 đều dương hoặc đều âm).
+
+Câu 36: Bước 1 trong Thuật toán 4 bước của Brugada (Brugada Criteria) chẩn đoán phân biệt Cơn tim nhanh phức bộ QRS rộng (WCT) đánh giá dấu hiệu gì?
+A. Đo khoảng PR ở chuyển đạo D2
+B. Tìm xem có sự VẮNG MẶT của dạng sóng RS (Absence of an RS complex) ở tất cả các chuyển đạo trước tim từ V1 đến V6 hay không? (Nếu không có dạng RS ở bất kỳ chuyển đạo nào từ V1-V6 -> Khẳng định chắc chắn là Nhanh thất VT!)
+C. Xem xét sóng P có dương ở D1 không
+D. Đo thời gian từ lúc bắt đầu đau ngực
+Đáp án: B
+Giải thích: Thuật toán Brugada 4 bước: Bước 1: Vắng mặt hoàn toàn phức bộ RS ở V1-V6 (tất cả chỉ là R đơn thuần, qR, hoặc QS đơn thuần - hiện tượng đồng hướng) -> Kết luận ngay là VT! Nếu có RS ở ít nhất 1 chuyển đạo -> sang Bước 2: Đo khoảng cách từ đầu sóng R đến đáy sâu nhất của sóng S (khoảng RS) xem có > 100 ms không (nếu > 100 ms -> VT). Bước 3: Tìm phân ly nhĩ thất (nếu có -> VT). Bước 4: Tiêu chuẩn hình thái học.
+
+Câu 37: Tiêu chuẩn Vereckei aVR (2008) chẩn đoán phân biệt Cơn tim nhanh phức bộ QRS rộng chỉ cần quan sát duy nhất chuyển đạo aVR. Dấu hiệu ban đầu nào ở aVR khẳng định ngay là Cơn tim nhanh thất (VT)?
+A. aVR có dạng QS sâu
+B. aVR có sóng R ban đầu đơn độc (Initial R wave) HOẶC độ rộng sóng r hoặc q ban đầu > 40 ms
+C. aVR có đoạn ST chênh xuống
+D. aVR có sóng T dương
+Đáp án: B
+Giải thích: Tiêu chuẩn Vereckei aVR cực kỳ tiện lợi tại phòng cấp cứu: Chuyển đạo aVR bình thường nhìn vào đáy tim từ vai phải nên QRS luôn âm tính sâu. Nếu trong cơn WCT, aVR có sóng R ban đầu (Initial R wave, nghĩa là xung động đi ngược từ mỏm tim lên đáy tim về phía vai phải) -> Chẩn đoán xác định 100% là NHIP NHANH THẤT (VT)!
+
+Câu 38: Quy tắc an toàn lâm sàng số 1 khi đối mặt với một bệnh nhân có Cơn tim nhanh phức bộ QRS rộng (WCT) tại phòng cấp cứu mà chưa thể phân biệt chắc chắn là VT hay SVT dẫn truyền lệch hướng là gì?
+A. Cứ tiêm Verapamil hoặc Diltiazem thử trước để chẩn đoán
+B. LUÔN LUÔN XEM VÀ XỬ TRÍ NHƯ MỘT CƠN TIM NHANH THẤT (VT) CHO ĐẾN KHI CÓ BẰNG CHỨNG NGƯỢC LẠI; tuyệt đối cấm dùng thuốc chẹn kênh Canxi (Verapamil / Diltiazem) vì sẽ gây tụt huyết áp trụy mạch và rung thất tử vong nếu bệnh nhân là VT!
+C. Chờ đợi kết quả men tim sau 4 giờ
+D. Cho bệnh nhân uống nước đường ấm
+Đáp án: B
+Giải thích: ĐIỀU RĂN TỐI CAO TẠI CẤP CỨU: Hơn 80% các ca WCT là Cơn tim nhanh thất (VT) (ở bệnh nhân có tiền sử nhồi máu cơ tim con số này là > 95%). Tiêm Verapamil/Diltiazem cho bệnh nhân VT sẽ làm giãn mạch tụt huyết áp và ức chế cơ tim gây rung thất ngừng tim tức thì! Do đó: WCT chưa rõ loại -> LUÔN XỬ TRÍ NHƯ VT (Amiodarone, Procainamide hoặc Sốc điện chuyển nhịp).
+
+Câu 39: Phác đồ dùng thuốc chống loạn nhịp theo ACLS trong cấp cứu Ngừng tuần hoàn do Rung thất (VF) hoặc Nhanh thất vô mạch (pVT) trơ với các nhát sốc điện phá rung ban đầu là gì?
+A. Digoxin 0.5 mg tiêm tĩnh mạch sau nhát sốc thứ nhất
+B. Amiodarone: Bolus tĩnh mạch 300 mg sau nhát sốc thứ 3; nếu còn rung thất tiêm tiếp liều thứ hai 150 mg sau nhát sốc thứ 5 (HOẶC thay thế bằng Lidocaine: liều đầu 1 – 1,5 mg/kg, liều sau 0,5 – 0,75 mg/kg)
+C. Atropine 3 mg tiêm tĩnh mạch ngay
+D. Verapamil 10 mg tiêm tĩnh mạch nhanh
+Đáp án: B
+Giải thích: Phác đồ ACLS cho VF/pVT: Sốc điện nhát 1 -> CPR 2 phút -> Sốc điện nhát 2 -> CPR 2 phút + Adrenaline 1mg -> Sốc điện nhát 3 -> CPR 2 phút + AMIODARONE 300 mg bolus nhanh (hoặc Lidocaine 1 - 1.5 mg/kg). Nếu tiếp tục trơ sau nhát sốc 5 -> Amiodarone liều 2 là 150 mg.
+
+Câu 40: Cơn Xoắn đỉnh (Torsades de Pointes - TdP) là một dạng nhịp nhanh thất đa hình thái đặc biệt, xuất hiện trên nền khoảng QT kéo dài. Thuốc cấp cứu lựa chọn số 1 tiêm tĩnh mạch ngay lập tức là gì?
+A. Amiodarone 150 mg
+B. Magnesi Sulfat (MgSO4) liều 2 gam tiêm tĩnh mạch chậm trong 1 – 2 phút (pha trong 50 – 100 ml Glucose 5%)
+C. Metoprolol 5 mg tiêm tĩnh mạch
+D. Flecainide 100 mg
+Đáp án: B
+Giải thích: Cơn Xoắn đỉnh (TdP): Phức bộ QRS xoay quanh đường đẳng điện như một dải ruy-băng. Thuốc cấp cứu số 1 là Magnesi Sulfat 2g tiêm TM. Magnesi dập tắt các hiện tượng khử cực sớm EADs. Chống chỉ định dùng Amiodarone hoặc Sotalol vì làm kéo dài thêm khoảng QT gây ngừng tim!
+
+Câu 41: Đặc điểm hình ảnh Điện tâm đồ Type 1 kinh điển của Hội chứng Brugada (Type 1 Brugada Pattern) là gì?
+A. Sóng T cao nhọn đối xứng ở V1 - V4
+B. Đoạn ST chênh lên dạng vòm (Coved-type) ≥ 2 mm (≥ 0,2 mV) ở các chuyển đạo trước tim phải V1 – V2, tiếp nối theo sau là một sóng T âm tính đối xứng và không có khoảng cách đẳng điện giữa ST và T
+C. ST chênh lên dạng yên ngựa (Saddle-back) ở V5, V6
+D. Khoảng QT kéo dài > 500 ms
+Đáp án: B
+Giải thích: Hội chứng Brugada (đột biến mất chức năng gen kênh Natri SCN5A): Hình ảnh Type 1 là tiêu chuẩn vàng chẩn đoán: ST chênh lên dạng vòm (Coved type) >= 2mm ở V1 hoặc V2, theo sau là sóng T âm sâu. Đây là type duy nhất có giá trị chẩn đoán xác định hội chứng Brugada. (Type 2 dạng yên ngựa saddle-back chỉ mang tính nghi ngờ, cần làm test thuốc chẹn kênh Natri Ajmaline/Flecainide để bộc lộ Type 1).
+
+Câu 42: Biện pháp điều trị duy nhất có bằng chứng giảm tử vong do đột tử tim mạch ở bệnh nhân Hội chứng Brugada có nguy cơ cao (đã từng ngất hoặc ngừng tuần hoàn được cứu sống) là gì?
+A. Uống thuốc chẹn Beta giao cảm suốt đời
+B. Cấy Máy phá rung tự động dưới da (ICD - Implantable Cardioverter-Defibrillator)
+C. Uống thuốc Flecainide dự phòng
+D. Nong và đặt stent mạch vành
+Đáp án: B
+Giải thích: Hội chứng Brugada không có thuốc uống dự phòng đột tử hiệu quả lâu dài (Quinidine chỉ dùng ngắn hạn cắt bão điện học hoặc ở trẻ em). Biện pháp bảo vệ mạng sống duy nhất được khuyến cáo Class I ở bệnh nhân Brugada có triệu chứng ngất hoặc tiền sử ngừng tim là CẤY MÁY PHÁ RUNG TỰ ĐỘNG (ICD)!
+
+Câu 43: Trong Hội chứng QT dài bẩm sinh (LQTS), 3 phân nhóm chính (LQT1, LQT2, LQT3) có yếu tố khởi phát cơn ngất/xoắn đỉnh đặc thù khác nhau như thế nào?
+A. LQT1 do tiếng chuông báo thức; LQT2 do bơi lội; LQT3 do ăn nhiều muối
+B. LQT1 (gen KCNQ1): Kích hoạt bởi gắng sức thể lực, đặc biệt là BƠI LỘI; LQT2 (gen KCNH2): Kích hoạt bởi ÂM THANH GIẬT MÌNH ĐỘT NGỘT (tiếng chuông điện thoại, đồng hồ báo thức reo); LQT3 (gen SCN5A): Loạn nhịp xảy ra khi ĐANG NGHỈ NGƠI HOẶC TRONG LÚC NGỦ BAN ĐÊM
+C. Cả 3 thể đều kích hoạt khi sốt cao
+D. LQTS chỉ xuất hiện khi gắng sức chạy bộ
+Đáp án: B
+Giải thích: 3 thể LQTS kinh điển: LQT1 (đột biến I_Ks): Cấm bơi lội và gắng sức; đáp ứng rất tốt với thuốc chẹn beta. LQT2 (đột biến I_Kr): Nhạy cảm với âm thanh giật mình lúc ngủ (chuông reo, tiếng sấm). LQT3 (đột biến tăng chức năng I_Na): Xoắn đỉnh xảy ra ban đêm lúc nhịp tim chậm; đáp ứng tốt với thuốc chẹn kênh Natri Mexiletine.
+
+Câu 44: Phân loại thuốc chống loạn nhịp theo hệ thống Vaughan-Williams chia thành 4 nhóm chính. Cơ chế tác dụng của Thuốc Nhóm I (Class I) là gì?
+A. Chẹn thụ thể Beta giao cảm
+B. Chẹn kênh Natri nhanh (I_Na), làm giảm tốc độ khử cực Pha 0 của điện thế hoạt động
+C. Chẹn kênh Kali kéo dài thời gian tái cực
+D. Chẹn kênh Canxi chậm L-type
+Đáp án: B
+Giải thích: Phân loại Vaughan-Williams: Nhóm I: Chẹn kênh Natri (Ia kéo dài APD: Quinidine, Procainamide; Ib rút ngắn APD: Lidocaine, Mexiletine; Ic không đổi APD: Flecainide, Propafenone). Nhóm II: Chẹn Beta giao cảm. Nhóm III: Chẹn kênh Kali kéo dài thời gian tái cực (Amiodarone, Sotalol). Nhóm IV: Chẹn kênh Canxi non-DHP (Verapamil, Diltiazem).
+
+Câu 45: Thử nghiệm lâm sàng nổi tiếng CAST (Cardiac Arrhythmia Suppression Trial) đã đưa ra cảnh báo sống còn nào về việc sử dụng thuốc chống loạn nhịp Nhóm Ic (Flecainide, Encainide) ở bệnh nhân sau Nhồi máu cơ tim?
+A. Thuốc làm tăng 100% tỷ lệ sống còn sau nhồi máu
+B. Thuốc tuy triệt tiêu hoàn toàn ngoại tâm thu thất nhưng làm TĂNG GẤP 3 LẦN TỶ LỆ TỬ VONG DO RỐI LOẠN NHỊP TIM; do đó thuốc chống loạn nhịp Nhóm Ic bị CHỐNG CHỈ ĐỊNH TUYỆT ĐỐI ở bệnh nhân có Bệnh tim cấu trúc (bệnh mạch vành xơ vữa, sẹo nhồi máu cơ tim, suy tim)
+C. Thuốc gây loét dạ dày xuất huyết
+D. Thuốc gây tăng huyết áp kịch phát
+Đáp án: B
+Giải thích: Thử nghiệm CAST (NEJM 1989) là bài học kinh điển nhất của dược lý tim mạch: Ức chế dòng Natri quá mạnh ở vùng cơ tim thiếu máu/sẹo nhồi máu làm chậm dẫn truyền tạo điều kiện bùng phát các vòng vào lại ác tính gây rung thất tử vong! Nguyên tắc vàng: Flecainide và Propafenone CHỈ ĐƯỢC DÙNG CHO TRÁI TIM HOÀN TOÀN KHỎE MẠNH VỀ CẤU TRÚC (Lone AF hoặc SVT không có bệnh tim thực thể).
+
+Câu 46: Thuốc chống loạn nhịp Nhóm III Amiodarone (Cordarone) có hiệu quả điều trị rất mạnh trên cả loạn nhịp nhĩ và loạn nhịp thất, nhưng có tỷ lệ tác dụng phụ ngoài tim tích lũy rất cao. Cơ quan nào sau đây có thể bị biến chứng xơ hóa đe dọa tử vong cần chụp X-quang phổi định kỳ?
+A. Xơ gan teo
+B. Độc tính trên phổi gây Viêm phổi kẽ và Xơ phổi tiến triển (Amiodarone Pulmonary Toxicity)
+C. Xơ tủy xương
+D. Xơ cứng bì
+Đáp án: B
+Giải thích: Amiodarone chứa 37% iod theo trọng lượng và tan rất mạnh trong mỡ, tích tụ lâu dài trong cơ thể. Các độc tính ngoài tim đáng sợ: (1) Độc tính phổi (viêm phổi kẽ, xơ phổi đe dọa tử vong ở 5-10% bệnh nhân); (2) Rối loạn chức năng tuyến giáp (cả suy giáp và cường giáp do iod); (3) Độc tế bào gan; (4) Lắng đọng giác mạc (microdeposits) và viêm dây thần kinh thị giác; (5) Da đổi màu xám xanh (Blue-gray skin discoloration) khi tiếp xúc ánh nắng.
+
+Câu 47: Thuốc Adenosine dùng trong cắt cơn SVT có tác dụng phụ thoáng qua nào khiến bệnh nhân có cảm giác cận kề cái chết trong vài giây đầu sau tiêm?
+A. Gây sốt rét run
+B. Cảm giác nghẹt thở dữ dội, tức ngực bỏng rát, đỏ bừng mặt, và ngừng tim tạm thời trên monitor (khoảng ngưng tim vô tâm thu vài giây) trước khi nút xoang tái lập lại nhịp
+C. Co giật toàn thể
+D. Mất thị lực tạm thời
+Đáp án: B
+Giải thích: Trước khi tiêm Adenosine, BẮT BUỘC phải trấn an và giải thích trước cho bệnh nhân: Thuốc gây ngừng tim tạm thời ở nút AV trong 2 - 5 giây, bệnh nhân sẽ có cảm giác tức ngực dữ dội, nghẹt thở, nóng bừng mặt như sắp chết ('sense of impending doom'). Cảm giác này sẽ tự biến mất hoàn toàn sau 10 - 15 giây do thuốc bị phân hủy cực nhanh.
+
+Câu 48: Thuốc Vernakalant là thuốc tiêm tĩnh mạch thế hệ mới được chỉ định đặc hiệu trong tình huống lâm sàng nào của Rung nhĩ?
+A. Kiểm soát tần số thất lâu dài ở bệnh nhân suy tim
+B. Chuyển nhịp nhanh Rung nhĩ mới khởi phát (thời gian < 7 ngày, hoặc < 3 ngày sau phẫu thuật tim) về nhịp xoang trong vòng 10 – 15 phút với tỷ lệ thành công cao và chọn lọc trên tâm nhĩ
+C. Dự phòng đột quỵ thay thế thuốc kháng đông
+D. Điều trị nhịp chậm xoang
+Đáp án: B
+Giải thích: Vernakalant là thuốc chuyển nhịp nhĩ chọn lọc: ức chế kênh I_Kur (chỉ có ở tâm nhĩ, không có ở tâm thất) và kênh I_to. Thuốc kéo dài thời kỳ trơ của nhĩ giúp chuyển rung nhĩ mới khởi phát về nhịp xoang cực nhanh (trung bình 10 phút sau truyền) mà ít gây nguy cơ loạn nhịp thất hay hạ huyết áp như các thuốc truyền thống.
+
+Câu 49: Sóng Epsilon trên Điện tâm đồ ở các chuyển đạo trước tim phải (V1 – V3) là dấu ấn chẩn đoán đặc hiệu của bệnh lý cơ tim sinh loạn nhịp nào?
+A. Bệnh cơ tim phì đại tắc nghẽn (HCM)
+B. Bệnh cơ tim thất phải sinh loạn nhịp (ARVC - Arrhythmogenic Right Ventricular Cardiomyopathy)
+C. Bệnh cơ tim giãn vô căn
+D. Viêm cơ tim cấp do virus
+Đáp án: B
+Giải thích: Sóng Epsilon: Là một sóng nhỏ (notch/wiggle) xuất hiện ở cuối phức bộ QRS và đầu đoạn ST ở các chuyển đạo V1, V2, V3 (phản ánh sự chậm trễ khử cực từng vùng của cơ thất phải bị thoái hóa mỡ và xơ hóa). Đây là tiêu chuẩn chẩn đoán chính của Bệnh cơ tim thất phải sinh loạn nhịp (ARVC - đột biến các protein thể liên kết desmosome), một nguyên nhân hàng đầu gây đột tử ở vận động viên trẻ tuổi!
+

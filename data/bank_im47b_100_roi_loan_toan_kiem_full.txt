@@ -1,0 +1,802 @@
+=== IM-47b: Rối Loạn Cân Bằng Kiềm Toan & Khí Máu Động Mạch (100 Câu Chuyên Sâu) ===
+
+Câu 1: Một bệnh nhân nam 68 tuổi có tiền sử Bệnh phổi tắc nghẽn mạn tính (COPD) giai đoạn GOLD D, đang dùng thuốc lợi tiểu Furosemide để điều trị phù do tâm phế mạn. Khí máu động mạch (ABG) đo được tại phòng cấp cứu: $\text{pH} = 7{,}40$, $\text{PaCO}_2 = 65\ \text{mmHg}$, $\text{HCO}_3^- = 40\ \text{mmol/L}$, $\text{PaO}_2 = 58\ \text{mmHg}$. Bác sĩ nội trú kết luận: "Bệnh nhân hoàn toàn không có rối loạn thăng bằng toan kiềm vì pH nằm đúng điểm vàng sinh lý 7,40". Nhận định này **ĐÚNG hay SAI** và chẩn đoán thực sự là gì?
+A. Hoàn toàn đúng vì pH = 7,40 là tiêu chuẩn vàng loại trừ mọi rối loạn toan kiềm.
+B. Sai lầm nghiêm trọng; đây là một **Rối loạn kiềm toan hỗn hợp phức tạp**: Toan hô hấp mạn tính (do COPD ứ CO2) kết hợp với Kiềm chuyển hóa (do dùng lợi tiểu mất ion H+ và Cl-); hai rối loạn này đối lập nhau tình cờ triệt tiêu làm pH trở về 7,40.
+C. Đúng vì thận đã bù trừ hoàn hảo đưa pH về 7,40.
+D. Bệnh nhân chỉ bị kiềm hô hấp cấp.
+Đáp án: B
+Giải thích: Quy tắc vàng số 1 trong đọc khí máu động mạch: **"Bình thường cơ thể KHÔNG BAO GIỜ bù trừ quá mức hoặc bù trừ hoàn toàn đưa pH về đúng 7,40"**. Nếu chỉ là Toan hô hấp mạn đơn thuần, với $\text{PaCO}_2 = 65\ \text{mmHg}$ (tăng $25\ \text{mmHg}$ trên mức cơ sở $40$), thận bù tối đa đưa $\text{HCO}_3^-$ lên: $24 + (25 / 10 \times 3{,}5) \approx 33\ \text{mmol/L}$, khi đó $\text{pH}$ phải nằm ở mức toan nhẹ ($7{,}32 - 7{,}34$). Ở đây $\text{HCO}_3^-$ tăng vọt lên tới $40\ \text{mmol/L}$ và $\text{pH} = 7{,}40$ chứng tỏ bệnh nhân có thêm một rối loạn **Kiềm chuyển hóa nguyên phát độc lập đi kèm** (do Furosemide). Đánh giá pH bình thường mà bỏ qua $\text{PaCO}_2$ và $\text{HCO}_3^-$ là sai lầm chết người! ---
+
+Câu 2: Theo phương trình Henderson - Hasselbalch: $\text{pH} = 6{,}1 + \log([\text{HCO}_3^-] / [0{,}03 \times \text{PaCO}_2])$. Trong điều kiện sinh lý bình thường ở $\text{pH} = 7{,}40$, tỷ lệ giữa nồng độ kiềm Bicarbonate và Acid Carbonic hòa tan trong máu là bao nhiêu?
+A. $1 : 1$.
+B. $10 : 1$.
+C. $20 : 1$.
+D. $40 : 1$.
+Đáp án: C
+Giải thích: Ở người bình thường: $[\text{HCO}_3^-] = 24\ \text{mmol/L}$, $\text{PaCO}_2 = 40\ \text{mmHg} \rightarrow [\text{H}_2\text{CO}_3] = 0{,}03 \times 40 = 1{,}2\ \text{mmol/L}$. Tỷ số $= 24 / 1{,}2 = \mathbf{20 : 1}$. $\log(20) \approx 1{,}3 \rightarrow \text{pH} = 6{,}1 + 1{,}3 = 7{,}40$. Điểm mấu chốt: **pH máu phụ thuộc vào TỶ SỐ giữa Bicarbonate và CO2 chứ không phụ thuộc vào giá trị tuyệt đối**. Nếu cả tử số và mẫu số cùng tăng hoặc cùng giảm theo tỷ lệ $20 : 1$ thì pH vẫn giữ nguyên $7{,}40$. ---
+
+Câu 3: Bác sĩ nhận được phiếu kết quả khí máu động mạch từ phòng xét nghiệm: $\text{pH} = 7{,}20$, $\text{PaCO}_2 = 80\ \text{mmHg}$, $[\text{HCO}_3^-] = 15\ \text{mmol/L}$. Trước khi ra quyết định điều trị, bác sĩ dùng phương trình Kassirer - Bleich ($[\text{H}^+] = 24 \times \text{PaCO}_2 / [\text{HCO}_3^-]$) để kiểm tra tính nhất quán (nội suy) của máy khí máu. Kết quả kiểm tra cho thấy điều gì?
+A. Kết quả hoàn toàn hợp lý, tiến hành điều trị ngay.
+B. Kết quả hoàn toàn vô lý do sai số của máy xét nghiệm; ở $\text{pH} = 7{,}20$ nồng độ $[\text{H}^+]$ thực tế phải là $63\ \text{nEq/L}$, trong khi tính theo công thức $[\text{H}^+] = 24 \times 80 / 15 = 128\ \text{nEq/L}$ (tương ứng $\text{pH} < 6{,}9$), phiếu xét nghiệm bị lỗi kỹ thuật bắt buộc phải làm lại mẫu khác.
+C. Bệnh nhân bị toan chuyển hóa cực nặng.
+D. Máy khí máu bị nhiễm bọt khí oxy.
+Đáp án: B
+Giải thích: Mẹo phòng thi và ICU: Ở $\text{pH} = 7{,}40$, $[\text{H}^+] = 40\ \text{nEq/L}$. Cứ $\text{pH}$ giảm $0{,}1$ đơn vị thì $[\text{H}^+]$ tăng tương ứng $10\ \text{nEq/L}$ (tại $\text{pH} = 7{,}20 \rightarrow [\text{H}^+] \approx 63\ \text{nEq/L}$). Thay vào Kassirer - Bleich: $[\text{H}^+] = 24 \times 80 / 15 = 128\ \text{nEq/L}$ (lệch gấp đôi so với $63$). Điều này chứng minh máy đo khí máu đã bị lỗi điện cực hoặc mẫu máu bị trộn lẫn, các con số mâu thuẫn hoàn toàn với định luật hóa học. Bác sĩ lâm sàng sáng suốt phải phát hiện ra để không xử trí sai lầm! ---
+
+Câu 4: Khái niệm **Toan máu (Acidemia)** và **Nhiễm toan (Acidosis)** khác nhau như thế nào trong y học học thuật?
+A. Hai khái niệm này hoàn toàn đồng nghĩa và dùng thay thế cho nhau.
+B. **Acidemia (Toan máu)** là một trạng thái xét nghiệm khi $\text{pH} < 7{,}35$; trong khi **Acidosis (Nhiễm toan)** là một quá trình bệnh sinh sinh ra acid hoặc làm mất kiềm (ví dụ: Toan ceton, toan lactic). Một bệnh nhân có thể bị "Nhiễm toan" (Acidosis) nhưng không hề bị "Toan máu" (Acidemia) nếu có quá trình nhiễm kiềm (Alkalosis) đi kèm bù trừ giữ cho $\text{pH} \ge 7{,}35$.
+C. Acidemia là toan hô hấp, Acidosis là toan chuyển hóa.
+D. Acidemia xảy ra trong tế bào, Acidosis xảy ra ngoài lòng mạch.
+Đáp án: B
+Giải thích: Đuôi "-emia" nghĩa là "trong máu" (chỉ tình trạng nồng độ $\text{H}^+$ máu cao $\rightarrow \text{pH} < 7{,}35$). Đuôi "-osis" nghĩa là "quá trình bệnh lý" (Process). Ví dụ một bệnh nhân tiểu đường bị toan ceton (Acidosis) nhưng nôn mửa liên tục gây kiềm chuyển hóa (Alkalosis), kết quả xét nghiệm máu có $\text{pH} = 7{,}42$ $\rightarrow$ Bệnh nhân KHÔNG bị toan máu (No acidemia), nhưng bệnh nhân VẪN ĐANG CÓ quá trình toan ceton (Diabetic ketoacidosis) cần điều trị! ---
+
+Câu 5: Bệnh nhân nữ 22 tuổi bị Toan ceton đái tháo đường (DKA). Khí máu động mạch: $\text{pH} = 7{,}15$, $[\text{HCO}_3^-] = 10\ \text{mmol/L}$, $\text{PaCO}_2 = 30\ \text{mmHg}$. Thở nhanh sâu $28\ \text{l/p}$. Đánh giá nào sau đây về đáp ứng bù trừ hô hấp của bệnh nhân là **CHÍNH XÁC NHẤT**?
+A. Bù trừ hô hấp hoàn toàn bình thường vì $\text{PaCO}_2 < 35\ \text{mmHg}$ chứng tỏ có tăng thông khí bù trừ.
+B. Bệnh nhân có **Toan hô hấp đi kèm (Suy hô hấp tiềm ẩn)**; vì theo công thức Winter, $\text{PaCO}_2$ dự kiến phải hạ sâu xuống mức $1{,}5 \times 10 + 8 \pm 2 = 23 \pm 2\ \text{mmHg}$ ($21 - 25\ \text{mmHg}$); việc $\text{PaCO}_2$ đo được là $30\ \text{mmHg}$ (cao hơn dự kiến) chứng tỏ cơ hô hấp đã bắt đầu kiệt sức không thải đủ CO2.
+C. Bệnh nhân có Kiềm hô hấp đi kèm vì $\text{PaCO}_2$ giảm dưới 40.
+D. Toan chuyển hóa đơn thuần bù trừ tối ưu.
+Đáp án: B
+Giải thích: Đây là cạm bẫy kinh điển nhất của thi Nội trú và Cấp cứu! Nhiều người nhìn thấy $\text{PaCO}_2 = 30\ \text{mmHg}$ (thấp hơn bình thường $40$) liền nghĩ ngay là "phổi đang bù trừ tốt". NHƯNG trong toan chuyển hóa nặng với $\text{HCO}_3^- = 10$, phản xạ thở Kussmaul bình thường của một người khỏe mạnh phải dập tắt $\text{PaCO}_2$ xuống tận $21 - 25\ \text{mmHg}$. Ở đây phổi chỉ đưa xuống được $30\ \text{mmHg}$ $\rightarrow$ Chứng tỏ bệnh nhân đã bắt đầu **kiệt cơ hô hấp hoặc có bệnh lý phổi đi kèm** làm ứ đọng $\text{CO}_2$ tương đối $\rightarrow$ Chẩn đoán chính xác: **Toan chuyển hóa KÈM Toan hô hấp**! ---
+
+Câu 6: Trong Toan chuyển hóa cực kỳ nặng nề, thông khí phế nang có thể tăng gấp 4 – 5 lần để đào thải $\text{CO}_2$. Giới hạn sàn thấp nhất mà phổi của con người có thể hạ nồng độ $\text{PaCO}_2$ xuống được là khoảng bao nhiêu?
+A. $0\ \text{mmHg}$.
+B. Khoảng $10 – 12\ \text{mmHg}$.
+C. $25\ \text{mmHg}$.
+D. $35\ \text{mmHg}$.
+Đáp án: B
+Giải thích: Dù bệnh nhân có thở nhanh sâu đến mức nào, thể tích khoảng chết giải phẫu của đường thở ($150\ \text{ml}$) và giới hạn công cơ hô hấp không bao giờ cho phép $\text{PaCO}_2$ tụt xuống dưới **$10 – 12\ \text{mmHg}$**. Do đó, nếu $\text{HCO}_3^-$ tụt sâu xuống $< 4 - 5\ \text{mmol/L}$, phổi đã chạm "ngưỡng trần bù trừ", không thể hạ $\text{CO}_2$ thêm được nữa và pH máu sẽ lao dốc thảm hại $< 7{,}00$, đẩy bệnh nhân vào nguy cơ ngừng tim. ---
+
+Câu 7: Trong Kiềm chuyển hóa nguyên phát (ví dụ do nôn ói mất acid dịch vị), phổi bù trừ bằng cách giảm thông khí phế nang để giữ lại $\text{CO}_2$. Tuy nhiên, $\text{PaCO}_2$ hiếm khi tăng vượt quá ngưỡng nào sau đây ở một người không thở máy?
+A. Không vượt quá $45\ \text{mmHg}$.
+B. Không vượt quá $55 – 60\ \text{mmHg}$ (hiếm khi $> 65\ \text{mmHg}$), vì phản xạ thiếu oxy não và mô do giảm thông khí ($	ext{PaO}_2$ tụt) sẽ kích hoạt trung tâm hô hấp buộc bệnh nhân phải thở.
+C. Có thể tăng lên $100\ \text{mmHg}$ mà không bị giới hạn.
+D. Không bao giờ tăng quá $40\ \text{mmHg}$.
+Đáp án: B
+Giải thích: Khi phổi thở chậm nông để giữ $\text{CO}_2$ nâng độ toan máu, nồng độ oxy phế nang sẽ sụt giảm tương ứng $\rightarrow \text{PaO}_2$ tụt dốc. Khi $\text{PaO}_2$ giảm xuống $< 60\ \text{mmHg}$, thụ thể hóa học xoang cảnh nhận cảm thiếu oxy sẽ phát xung động khẩn cấp đè bẹp phản xạ ức chế $\rightarrow$ ép bệnh nhân phải thở lại. Vì vậy, trong kiềm chuyển hóa đơn thuần, $\text{PaCO}_2$ không thể bù trừ tăng quá **$55 - 60\ \text{mmHg}$**. Nếu $\text{PaCO}_2 > 60\ \text{mmHg}$, chắc chắn bệnh nhân có thêm bệnh lý suy hô hấp toan hô hấp thực thể đi kèm! ---
+
+Câu 8: vs Thận (ngày)) Khi xuất hiện một rối loạn toan kiềm, thời gian bắt đầu và thời gian đạt đỉnh bù trừ tối đa của **Hệ Hô hấp (Phổi)** và **Hệ Chuyển hóa (Thận)** khác nhau như thế nào?
+A. Phổi và Thận đều đạt hiệu quả tối đa sau 15 phút.
+B. Phổi đáp ứng tức thì trong vài phút và đạt đỉnh sau 12 – 24 giờ; trong khi Thận đáp ứng chậm sau vài giờ nhưng phải mất **2 – 5 ngày (48 – 72 giờ)** mới đạt được mức bù trừ tối đa.
+C. Thận đáp ứng trong vài giây, Phổi mất 3 ngày.
+D. Cả hai hệ thống đều mất 1 tuần để bắt đầu hoạt động.
+Đáp án: B
+Giải thích: Đây là nguyên lý cốt lõi phân biệt giữa **Cấp tính** và **Mạn tính** trong toan/kiềm hô hấp: - Thay đổi $\text{PaCO}_2$ kích thích trung tâm hô hấp ngay lập tức qua dịch não tủy $\rightarrow$ thông khí thay đổi sau vài phút. - Ngược lại, thận cần thời gian để thay đổi biểu hiện gen và tổng hợp các kênh vận chuyển ion ($	ext{Na}^+/\text{H}^+$ exchanger, $	ext{H}^+$-ATPase) tại ống thận $\rightarrow$ thận mất $48 - 72\ \text{giờ}$ mới hoàn tất việc tăng/giảm tái hấp thu Bicarbonate. Do đó, một đợt suy hô hấp mới xảy ra dưới 24h thì nồng độ $\text{HCO}_3^-$ máu hầu như chưa kịp thay đổi nhiều! ---
+
+Câu 9: Hai bệnh nhân X và Y cùng có nồng độ $\text{PaCO}_2 = 70\ \text{mmHg}$ (tăng $30\ \text{mmHg}$ trên mức chuẩn $40$). Bệnh nhân X bị ngừng thở do ngộ độc thuốc phiện cấp tính 30 phút trước. Bệnh nhân Y bị bệnh phổi tắc nghẽn mạn tính COPD 10 năm nay. Nồng độ $\text{HCO}_3^-$ máu dự kiến của hai bệnh nhân này lần lượt là bao nhiêu?
+A. Cả hai đều có $\text{HCO}_3^- = 24\ \text{mmol/L}$.
+B. Bệnh nhân X (cấp): $\text{HCO}_3^- \approx 27\ \text{mmol/L}$; Bệnh nhân Y (mạn): $\text{HCO}_3^- \approx 34{,}5\ \text{mmol/L}$.
+C. Bệnh nhân X (cấp): $\text{HCO}_3^- \approx 35\ \text{mmol/L}$; Bệnh nhân Y (mạn): $\text{HCO}_3^- \approx 27\ \text{mmol/L}$.
+D. Cả hai đều có $\text{HCO}_3^- = 45\ \text{mmol/L}$.
+Đáp án: B
+Giải thích: Quy tắc phòng thi bắt buộc phải thuộc lòng: - **Toan hô hấp CẤP:** Cứ $\text{PaCO}_2$ tăng $10\ \text{mmHg} \rightarrow [\text{HCO}_3^-]$ chỉ tăng nhẹ **$1\ \text{mEq/L}$** (do đệm tế bào). $$\Delta\text{PaCO}_2 = 70 - 40 = 30 \rightarrow [\text{HCO}_3^-] = 24 + (3 \times 1) = \mathbf{27\ \text{mmol/L}}.$$ - **Toan hô hấp MẠN:** Thận đã bù trừ hoàn toàn, cứ $\text{PaCO}_2$ tăng $10\ \text{mmHg} \rightarrow [\text{HCO}_3^-]$ tăng **$3{,}5\ \text{mEq/L}$** (hoặc $3 - 4\ \text{mEq/L}$). $$\Delta\text{PaCO}_2 = 30 \rightarrow [\text{HCO}_3^-] = 24 + (3 \times 3{,}5) = 24 + 10{,}5 = \mathbf{34{,}5\ \text{mmol/L}}.$$ ---
+
+Câu 10: Một người leo núi lên đỉnh Everest bị thở nhanh do thiếu oxy độ cao làm $\text{PaCO}_2$ giảm xuống $20\ \text{mmHg}$ (giảm $20\ \text{mmHg}$ so với mức chuẩn $40$). Nếu tình trạng này duy trì liên tục suốt 4 ngày (mạn tính), nồng độ $\text{HCO}_3^-$ máu dự kiến của người này sẽ giảm xuống khoảng bao nhiêu để bù trừ?
+A. Giảm xuống $22\ \text{mmol/L}$.
+B. Giảm xuống khoảng $14 – 16\ \text{mmol/L}$.
+C. Giảm xuống $5\ \text{mmol/L}$.
+D. Không giảm vì kiềm hô hấp không được thận bù trừ.
+Đáp án: B
+Giải thích: Quy tắc bù trừ trong Kiềm hô hấp: - **Kiềm hô hấp CẤP:** Cứ $\text{PaCO}_2$ giảm $10\ \text{mmHg} \rightarrow [\text{HCO}_3^-]$ giảm **$2\ \text{mEq/L}$**. - **Kiềm hô hấp MẠN:** Thận tăng đào thải kiềm ra nước tiểu, cứ $\text{PaCO}_2$ giảm $10\ \text{mmHg} \rightarrow [\text{HCO}_3^-]$ giảm **$4 – 5\ \text{mEq/L}$** (trung bình giảm $4{,}5$). Ở ca này $\text{PaCO}_2$ giảm $20\ \text{mmHg}$ mạn tính ($4$ ngày) $\rightarrow [\text{HCO}_3^-]$ giảm: $2 \times 4{,}5 = 9\ \text{mEq/L}$. Nồng độ Bicarbonate máu dự kiến $= 24 - 9 = \mathbf{15\ \text{mmol/L}}$ ($14 - 16\ \text{mmol/L}$). ---
+
+Câu 11: Tại sao hệ đệm **$	ext{HCO}_3^- / 	ext{CO}_2$** lại là hệ thống đệm ngoại bào quyền lực và hiệu quả nhất của cơ thể, mặc dù hằng số pKa của nó chỉ là $6{,}1$ (cách khá xa điểm pH sinh lý $7{,}40$)?
+A. Vì phân tử Bicarbonate có kích thước cực nhỏ.
+B. Vì đây là một **HỆ THỐNG MỞ (Open Buffer System)**: Nồng độ của cả hai thành phần đều được điều hòa độc lập và vô tận bởi hai cơ quan sống còn: Khí $\text{CO}_2$ được đào thải liên tục qua Phổi (hệ hô hấp), trong khi ion $\text{HCO}_3^-$ được tái hấp thu và tạo mới liên tục qua Thận (hệ chuyển hóa).
+C. Do nồng độ Bicarbonate trong tế bào cao gấp 100 lần ngoại bào.
+D. Do enzyme Carbonic Anhydrase chỉ có ở màng tế bào.
+Đáp án: B
+Giải thích: Trong hóa học vô cơ (hệ kín), một hệ đệm chỉ hoạt động tối ưu quanh khoảng $\text{pH} = \text{pKa} \pm 1$ ($5{,}1 - 7{,}1$). Tuy nhiên trong cơ thể sống, khi ion $\text{H}^+$ kết hợp với $\text{HCO}_3^-$ sinh ra $\text{CO}_2$, phổi lập tức thở ra tống khứ $\text{CO}_2$ ra ngoài môi trường không giới hạn; đồng thời thận tiếp tục tái tạo lại $\text{HCO}_3^-$. Tính chất "mở" hai đầu này biến hệ đệm Bicarbonate thành tấm khiên bảo vệ nội môi vô địch của cơ thể. ---
+
+Câu 12: Khi phân tích một kết quả khí máu động mạch, mối tương quan biến đổi giữa $\text{pH}$ và $\text{PaCO}_2$ giúp xác định rối loạn nguyên phát ban đầu như thế nào?
+A. Nếu pH và PaCO2 biến đổi **CÙNG CHIỀU** (cùng tăng hoặc cùng giảm) $\rightarrow$ Rối loạn nguyên phát chắc chắn là **CHUYỂN HÓA**; Nếu pH và PaCO2 biến đổi **NGƯỢC CHIỀU** (pH tăng thì PaCO2 giảm, hoặc pH giảm thì PaCO2 tăng) $\rightarrow$ Rối loạn nguyên phát chắc chắn là **HÔ HẤP**.
+B. Luôn luôn ngược chiều trong mọi trường hợp.
+C. Luôn luôn cùng chiều trong mọi trường hợp.
+D. Không có quy luật nào.
+Đáp án: A
+Giải thích: Mẹo nhận diện thần tốc trong 3 giây: - **Toan chuyển hóa:** $\text{pH} \downarrow$ kéo theo $\text{PaCO}_2 \downarrow$ (cùng giảm). - **Kiềm chuyển hóa:** $\text{pH} \uparrow$ kéo theo $\text{PaCO}_2 \uparrow$ (cùng tăng). - **Toan hô hấp:** $\text{PaCO}_2 \uparrow$ làm $\text{pH} \downarrow$ (ngược chiều). - **Kiềm hô hấp:** $\text{PaCO}_2 \downarrow$ làm $\text{pH} \uparrow$ (ngược chiều). ---
+
+Câu 13: Trong trường hợp không thể lấy được máu động mạch (khó bắt mạch, tụt huyết áp), có thể dùng kết quả **Khí máu tĩnh mạch trung tâm (ScvO2 / VBG)** để đánh giá thăng bằng toan kiềm và thông khí không? Mức chênh lệch sinh lý bình thường là bao nhiêu?
+A. Tuyệt đối không dùng được vì tĩnh mạch không có oxy.
+B. Hoàn toàn có thể dùng để đánh giá $\text{pH}$ và $[\text{HCO}_3^-]$; bình thường $\text{pH}$ máu tĩnh mạch chỉ **thấp hơn động mạch khoảng $0{,}03 – 0{,}05$ đơn vị**, $[\text{HCO}_3^-]$ **cao hơn động mạch $1 – 2\ \text{mmol/L}$**; riêng $\text{PvCO}_2$ cao hơn $\text{PaCO}_2$ khoảng **$4 – 6\ \text{mmHg}$** (trong sốc tuần hoàn mức chênh CO2 có thể rộng hơn).
+C. Máu tĩnh mạch có pH cao hơn máu động mạch.
+D. Nồng độ Bicarbonate tĩnh mạch gấp đôi động mạch.
+Đáp án: B
+Giải thích: Trên lâm sàng, việc chọc động mạch quay nhiều lần gây đau đớn và nguy cơ tụ máu. Rất nhiều nghiên cứu chứng minh: $\text{pH}$ và $\text{HCO}_3^-$ của máu tĩnh mạch tương quan cực kỳ chặt chẽ với máu động mạch ($\text{pH}_{\text{động mạch}} \approx \text{pH}_{\text{tĩnh mạch}} + 0{,}04$). Do đó hoàn toàn có thể theo dõi khí máu tĩnh mạch để chỉnh máy thở hoặc đánh giá toan chuyển hóa. Chỉ duy nhất chỉ số $\text{PaO}_2$ là bắt buộc phải lấy máu động mạch mới đánh giá được oxy hóa máu. ---
+
+Câu 14: Điều dưỡng lấy máu động mạch quay làm khí máu nhưng quên không đuổi hết bọt khí ra khỏi ống tiêm trước khi chuyển đến phòng xét nghiệm sau 30 phút. Bọt khí môi trường lọt vào mẫu máu sẽ làm sai lệch kết quả khí máu như thế nào?
+A. Làm $\text{PaO}_2$ tăng giả tạo (hướng về $150\ \text{mmHg}$) và làm $\text{PaCO}_2$ giảm giả tạo (khuếch tán vào bọt khí), dẫn đến $\text{pH}$ tăng giả tạo.
+B. Làm $\text{PaO}_2$ tụt về 0 và $\text{PaCO}_2$ tăng vọt.
+C. Không làm thay đổi kết quả.
+D. Làm Bicarbonate tụt dốc.
+Đáp án: A
+Giải thích: Không khí phòng có áp suất oxy riêng phần $\text{PO}_2 \approx 150\ \text{mmHg}$ ($0{,}21 \times 713$) và $\text{PCO}_2 \approx 0\ \text{mmHg}$. Khi có bọt khí trong mẫu máu, oxy từ bọt khí sẽ hòa tan vào máu làm **$\text{PaO}_2$ tăng giả tạo**, trong khi $\text{CO}_2$ từ máu khuếch tán vào bọt khí làm **$\text{PaCO}_2$ giảm giả tạo**. Mất $\text{CO}_2$ sẽ kéo theo **$\text{pH}$ bị kiềm hóa giả tạo**. Bắt buộc phải búng đuổi sạch bọt khí và đậy nắp kín ngay sau khi rút kim! ---
+
+Câu 15: Nếu mẫu máu động mạch lấy xong để ở nhiệt độ phòng ($25 - 30^\circ\text{C}$) suốt 1 giờ mới đem chạy máy xét nghiệm (không bảo quản trong thùng đá lạnh). Quá trình chuyển hóa tiếp diễn của bạch cầu và hồng cầu sống trong ống nghiệm sẽ làm sai lệch các thông số như thế nào?
+A. $\text{PaO}_2$ tăng, $\text{PaCO}_2$ giảm, $\text{pH}$ tăng.
+B. $\text{PaO}_2$ giảm (do tế bào tiếp tục tiêu thụ oxy), $\text{PaCO}_2$ tăng và $\text{Lactate}$ tăng (do chuyển hóa sinh acid), dẫn đến $\text{pH}$ giảm giả tạo (toan máu nhân tạo).
+C. Kết quả hoàn toàn không đổi.
+D. Nồng độ Glucose máu tăng lên.
+Đáp án: B
+Giải thích: Các tế bào máu (đặc biệt là bạch cầu và hồng cầu) vẫn tiếp tục hô hấp tế bào trong ống nghiệm kín: Tiêu thụ oxy làm $\text{PaO}_2$ tụt dốc (giảm $5 - 10\ \text{mmHg}$ mỗi 10 phút), đồng thời sản sinh $\text{CO}_2$ và phân giải đường kỵ khí sinh Acid Lactic làm $\text{pH}$ tụt thấp giả tạo. Nếu không thể phân tích trong vòng 10 - 15 phút, bắt buộc phải bảo quản mẫu máu trong túi nước đá ($0 - 4^\circ\text{C}$) để ức chế chuyển hóa tế bào (kéo dài độ ổn định lên tới 1 giờ). ---
+
+Câu 16: Bác sĩ lấy máu động mạch bằng bơm tiêm thường tráng thuốc chống đông Heparin lỏng ($1.000\ \text{UI/ml}$). Do hút tráng quá nhiều dịch Heparin đọng lại ở phần chết của bơm tiêm ($0{,}2 - 0{,}3\ \text{ml}$ heparin trên mẫu máu $1\ \text{ml}$), sai số xét nghiệm nào sau đây sẽ xảy ra?
+A. Gây kiềm chuyển hóa giả tạo.
+B. Dung dịch Heparin có tính toan và làm pha loãng mẫu máu, dẫn đến làm giảm giả tạo nồng độ $\text{PaCO}_2$ và $\text{HCO}_3^-$, đồng thời làm tăng giả tạo $\text{PaO}_2$ (hướng về phân áp oxy của dung dịch heparin).
+C. Làm tăng vọt Natri máu.
+D. Làm máu bị đông đặc ngay trong máy.
+Đáp án: B
+Giải thích: Hiện tượng "Pha loãng bởi Heparin" (Heparin dilution artifact): Heparin lỏng pha loãng huyết tương làm nồng độ $\text{PaCO}_2$ và $\text{HCO}_3^-$ giảm giả tạo tới $20 - 30\%$. Hiện nay tiêu chuẩn vàng bắt buộc phải sử dụng **bơm tiêm chuyên dụng chứa sẵn Heparin khô đông khô (Lyophilized lithium heparin)** để loại trừ hoàn toàn sai số pha loãng thể tích. ---
+
+Câu 17: Trong bệnh phổi tắc nghẽn mạn tính (COPD) giai đoạn cuối có tăng $\text{CO}_2$ máu cực kỳ nặng nề ($	ext{PaCO}_2 = 90 - 100\ \text{mmHg}$), giới hạn trần tối đa mà thận khỏe mạnh có thể tăng tái hấp thu và giữ lại Bicarbonate trong máu là khoảng bao nhiêu?
+A. Không giới hạn, có thể lên tới $80\ \text{mmol/L}$.
+B. Giới hạn trần tối đa chỉ đạt khoảng **$42 – 45\ \text{mmol/L}$**; nếu nồng độ $[\text{HCO}_3^-] > 45\ \text{mmol/L}$, chắc chắn có tình trạng Kiềm chuyển hóa đi kèm (ví dụ dùng thuốc lợi tiểu, nôn ói).
+C. Giới hạn trần là $30\ \text{mmol/L}$.
+D. Giới hạn trần là $24\ \text{mmol/L}$.
+Đáp án: B
+Giải thích: Ống thận có ngưỡng bão hòa tối đa trong việc bài tiết ion $\text{H}^+$ và giữ lại kiềm. Các nghiên cứu sinh lý chứng minh nồng độ Bicarbonate trong toan hô hấp mạn tính đơn thuần không bao giờ vượt quá **$42 - 45\ \text{mmol/L}$**. Nếu thấy một bệnh nhân COPD có $[\text{HCO}_3^-] = 50\ \text{mmol/L}$, bác sĩ không được nghĩ "đây là thận bù trừ giỏi", mà phải đi tìm ngay nguyên nhân Kiềm chuyển hóa phối hợp (thường do dùng lợi tiểu Furosemide làm mất $\text{Cl}^-$ hoặc bù kiềm quá tay). ---
+
+Câu 18: Máy phân tích khí máu động mạch luôn làm ấm và đo mẫu máu ở nhiệt độ chuẩn $37^\circ\text{C}$. Một bệnh nhân đuối nước bị hạ thân nhiệt nghiêm trọng với nhiệt độ cơ thể thực tế đo qua nhiệt kế hậu môn là **$30^\circ	ext{C}$**. Kết quả máy in ra (chưa hiệu chỉnh nhiệt độ) cho thấy $\text{pH} = 7{,}40$, $\text{PaCO}_2 = 40\ \text{mmHg}$, $\text{PaO}_2 = 80\ \text{mmHg}$. Tình trạng khí máu THỰC TẾ trong cơ thể bệnh nhân ở $30^\circ	ext{C}$ là gì?
+A. Thực tế trong cơ thể bệnh nhân: $\text{pH}$ kiềm hơn ($\text{pH} > 7{,}50$), $\text{PaCO}_2$ thấp hơn và $\text{PaO}_2$ thấp hơn nhiều so với kết quả máy in.
+B. Thực tế bệnh nhân bị toan máu nặng hơn.
+C. Kết quả thực tế giống hệt kết quả máy in ở $37^\circ\text{C}$.
+D. Khí máu không phụ thuộc nhiệt độ.
+Đáp án: A
+Giải thích: Định luật vật lý về độ hòa tan của chất khí trong chất lỏng: **Nhiệt độ càng giảm thì độ hòa tan của chất khí càng tăng**, dẫn đến phân áp khí tự do ($	ext{PaO}_2$ và $\text{PaCO}_2$) giảm sút. Đồng thời độ phân ly của nước giảm làm nồng độ ion $\text{H}^+$ giảm $\rightarrow$ **pH tăng lên (kiềm hơn)**. Khi máy xét nghiệm sưởi ấm mẫu máu từ $30^\circ\text{C}$ lên $37^\circ\text{C}$, khí bị đẩy ra khỏi dịch làm $\text{PaCO}_2$ và $\text{PaO}_2$ tăng vọt lên, làm $\text{pH}$ giảm xuống. Hầu hết các hướng dẫn hiện đại khuyến cáo dùng chiến lược "Alpha-stat" (không hiệu chỉnh nhiệt độ) để điều chỉnh thông khí. ---
+
+Câu 19: Tại sao tình trạng Nhiễm kiềm máu nặng ($	ext{pH} > 7{,}55 – 7{,}60$) lại gây thiếu oxy mô trầm trọng đe dọa hoại tử tế bào dù cho độ bão hòa oxy máu mao mạch ($	ext{SpO}_2$) đo được vẫn đạt $99 - 100\%$?
+A. Do kiềm máu phá hủy hồng cầu gây tan máu cấp.
+B. **Hiệu ứng Bohr nghịch đảo:** Kiềm máu làm đường cong phân ly Oxy - Hemoglobin lệch mạnh sang **TRÁI**, làm tăng ái lực gắn kết giữa Hemoglobin và Oxy cực mạnh; phân tử Hemoglobin "ôm chặt" lấy oxy và không chịu nhả oxy cho các mô và cơ quan tế bào, dẫn đến thiếu oxy mô tế bào nghiêm trọng trong khi máu vẫn đỏ tươi.
+C. Do kiềm máu làm co toàn bộ động mạch chủ.
+D. Do kiềm máu ức chế chuỗi hô hấp tế bào ti thể.
+Đáp án: B
+Giải thích: Đây là nghịch lý sinh lý học cực kỳ nguy hiểm: Bác sĩ nhìn thấy $\text{SpO}_2 = 100\%$ liền yên tâm, nhưng bệnh nhân thực chất đang chết ngạt ở cấp độ tế bào! Khi $\text{pH}$ kiềm cao, liên kết $\text{Hb-O}_2$ bền vững đến mức áp lực oxy tại mô phải tụt xuống mức cực thấp thì Hemoglobin mới chịu nhả một lượng nhỏ oxy. Hậu quả là tế bào chuyển sang chuyển hóa kỵ khí sinh Acid Lactic. ---
+
+Câu 20: Khi tình trạng Toan máu mất bù mức độ nặng xảy ra với **$	ext{pH} < 7{,}10 – 7{,}20$**, biến chứng tim mạch trực tiếp nguy hiểm nhất là gì?
+A. Tăng co bóp cơ tim làm vỡ tim.
+B. Nồng độ ion $\text{H}^+$ quá cao cạnh tranh trực tiếp với ion $\text{Ca}^{2+}$ trên các sợi protein co cơ troponin, gây **ức chế co bóp cơ tim nặng nề (giảm cung lượng tim)**, đồng thời làm **trơ và mất hoàn toàn tính đáp ứng của thụ thể mạch máu với các thuốc vận mạch Catecholamin (Noradrenalin, Adrenalin)**, dẫn đến sốc tụt huyết áp trơ và loạn nhịp thất chết người.
+C. Gây tăng huyết áp kịch phát do co mạch toàn thân.
+D. Gây vôi hóa van tim cấp tính.
+Đáp án: B
+Giải thích: Khi $\text{pH} < 7{,}15$, cơ tim bị "liệt co bóp" do $\text{H}^+$ cản trở Calci gắn vào troponin C. Nguy hiểm hơn, các thụ thể alpha-1 và beta-1 giao cảm trên mạch máu bị toan máu làm biến đổi cấu trúc, khiến các thuốc vận mạch như Noradrenalin dù truyền liều cao ngất ngưởng cũng không thể gây co mạch nâng áp được (hiện tượng trơ vận mạch do toan). Đây là cơ sở khoa học duy nhất cho phép **chỉ định bù Bicarbonate khi $	ext{pH} < 7{,}10 – 7{,}20$** nhằm phục hồi lại tính đáp ứng của mạch máu với thuốc vận mạch cứu sống bệnh nhân. ## PHẦN 2: TOAN CHUYỂN HÓA & KHOẢNG TRỐNG ANION (ANION GAP) — CÂU 21 ĐẾN 50
+
+Câu 21: Bệnh nhân nữ 55 tuổi bị xơ gan mất bù và suy kiệt nặng, vào viện vì sốc nhiễm khuẩn. Xét nghiệm: $\text{Na}^+ = 135\ \text{mmol/L}$, $\text{Cl}^- = 105\ \text{mmol/L}$, $\text{HCO}_3^- = 18\ \text{mmol/L}$, $\text{Albumin}\ \text{máu} = 15\ \text{g/L}$ ($1{,}5\ \text{g/dL}$, mức bình thường là $4{,}0\ \text{g/dL}$). Bác sĩ tính $\text{AG} = 135 - (105 + 18) = 12\ \text{mmol/L}$ và kết luận: "Bệnh nhân bị Toan chuyển hóa có khoảng trống Anion bình thường (NAGMA)". Kết luận này **ĐÚNG hay SAI** và tại sao?
+A. Đúng vì AG = 12 nằm trong khoảng tham chiếu sinh lý 8 - 12 mmol/L.
+B. Sai lầm nghiêm trọng; phân tử Albumin tích điện âm là thành phần chính tạo nên khoảng trống Anion bình thường; khi Albumin giảm 1 g/dL thì AG cơ sở giảm tương ứng 2,5 mmol/L; AG hiệu chỉnh của bệnh nhân này thực tế là $12 + 2{,}5 \times (4{,}0 - 1{,}5) = 18{,}25\ \text{mmol/L}$ (tăng cao rõ rệt), chẩn đoán chuẩn xác phải là **Toan chuyển hóa tăng Anion Gap (HAGMA)** do nhiễm khuẩn sốc (Toan Lactic).
+C. Đúng vì xơ gan không thể sinh ra toan lactic.
+D. Sai vì công thức AG bắt buộc phải cộng thêm nồng độ Kali.
+Đáp án: B
+Giải thích: Đây là cạm bẫy "bỏ sót toan lactic / toan ceton" phổ biến nhất tại phòng ICU! Công thức hiệu chỉnh khoảng trống Anion theo Albumin: $$\text{AG}_{\text{hiệu chỉnh}} = \text{AG}_{\text{tính toán}} + 2{,}5 \times (4{,}0 - \text{Albumin [g/dL]}).$$ Ở bệnh nhân xơ gan hoặc suy kiệt có Albumin máu giảm sâu, "ngưỡng bình thường" của AG của chính bệnh nhân đó không còn là 12 nữa mà chỉ là $5 - 6\ \text{mmol/L}$! Một con số $\text{AG} = 12$ ở bệnh nhân này thực chất đã là một mức tăng khoảng trống anion rất lớn ($+6\ \text{mmol/L}$ của acid lạ). Nếu không hiệu chỉnh, bác sĩ sẽ hoàn toàn bỏ sót tình trạng sốc toan lactic đang âm thầm hủy hoại bệnh nhân! ---
+
+Câu 22: Bệnh nhân nam 40 tuổi nghiện rượu nặng, nôn ói liên tục 3 ngày nay, vào viện trong tình trạng lơ mơ. Xét nghiệm sinh hóa: $\text{Na}^+ = 140\ \text{mmol/L}$, $\text{Cl}^- = 86\ \text{mmol/L}$, $\text{HCO}_3^- = 18\ \text{mmol/L}$. Bác sĩ tính được $\text{AG} = 140 - (86 + 18) = 36\ \text{mmol/L}$ (tăng rất cao). Nhận định nào sau đây về các rối loạn toan kiềm ẩn giấu sau kết quả này dựa trên **Tỷ số Delta - Delta ($\Delta\text{AG} / \Delta\text{HCO}_3^-$)** là **CHÍNH XÁC NHẤT**?
+A. Bệnh nhân chỉ bị Toan chuyển hóa tăng Anion Gap (HAGMA) đơn thuần do toan ceton rượu.
+B. Bệnh nhân có **HAGMA phối hợp với Kiềm chuyển hóa (Metabolic Alkalosis)**; vì $\Delta\text{AG} = 36 - 12 = 24$, trong khi $\Delta\text{HCO}_3^- = 24 - 18 = 6$; Tỷ số $\Delta\text{AG} / \Delta\text{HCO}_3^- = 24 / 6 = 4{,}0$ ($> 2{,}0$), chứng tỏ mức tăng acid lạ nhiều gấp 4 lần mức giảm Bicarbonate; nồng độ Bicarbonate không giảm sâu là do có tình trạng Kiềm chuyển hóa (do nôn mất acid dạ dày) nâng đỡ Bicarbonate lên.
+C. Bệnh nhân có HAGMA phối hợp Toan chuyển hóa Anion Gap bình thường (NAGMA).
+D. Bệnh nhân bị kiềm hô hấp cấp.
+Đáp án: B
+Giải thích: Công cụ $\Delta - \Delta$ là vũ khí tối thượng của bác sĩ ICU để bóc tách các lớp rối loạn hỗn hợp: - Bình thường trong HAGMA đơn thuần, cứ $1\ \text{mmol}$ acid lạ xuất hiện sẽ làm tiêu hao đúng $1\ \text{mmol}\ \text{HCO}_3^-$ $\rightarrow$ Tỷ số $\Delta\text{AG} / \Delta\text{HCO}_3^- = 1 : 1$ (khoảng $1{,}0 - 1{,}6$). - **Nếu Tỷ số $> 2{,}0$:** $\text{HCO}_3^-$ bị giảm ít hơn dự kiến $\rightarrow$ BẮT BUỘC CÓ **KIỀM CHUYỂN HÓA ĐI KÈM** (ở ca này do nôn mửa mất $\text{HCl}$ dịch vị nâng $\text{HCO}_3^-$ lên). - **Nếu Tỷ số $< 1{,}0$ (thường $< 0{,}8$):** $\text{HCO}_3^-$ bị giảm sâu hơn mức tăng của acid lạ $\rightarrow$ BẮT BUỘC CÓ **TOAN CHUYỂN HÓA NAGMA ĐI KÈM** (ví dụ tiêu chảy mất thêm $\text{HCO}_3^-$). ---
+
+Câu 23: Bệnh nhân nữ 60 tuổi đái tháo đường type 2 đang dùng thuốc hạ đường huyết **Metformin liều cao 2.000 mg/ngày**. Bệnh nhân đi khám vì mệt mỏi, đau bụng buồn nôn. Khám thấy huyết áp bình thường $125/80\ \text{mmHg}$, mạch $76\ \text{l/p}$, tưới máu chi ấm, không có dấu hiệu sốc. Xét nghiệm máu: $\text{Lactate} = 8\ \text{mmol/L}$ (tăng rất cao), $\text{pH} = 7{,}20$, $\text{Creatinine} = 220\ \mu\text{mol/L}$. Phân loại Toan Lactic ở bệnh nhân này là gì và cơ chế bệnh sinh?
+A. Toan Lactic Type A do thiếu oxy mô thầm lặng.
+B. Toan Lactic Type B (cụ thể là Type B2 do thuốc Metformin); xảy ra hoàn toàn KHÔNG DO THIẾU OXY MÔ, mà do Metformin tích tụ khi có suy thận làm ức chế phức hợp I chuỗi hô hấp tế bào ti thể tại gan, ức chế quá trình tân tạo glucose từ lactate làm ứ đọng Lactate máu.
+C. Toan Ceton đái tháo đường mất bù.
+D. Ngộ độc cồn công nghiệp.
+Đáp án: B
+Giải thích: Phân biệt kinh điển: - **Toan Lactic Type A:** Do **THIẾU OXY MÔ VÀ SUY GIẢM TƯỚI MÁU** (sốc nhiễm khuẩn, sốc tim, ngừng tuần hoàn, thiếu máu mạc treo, co giật liên tục). - **Toan Lactic Type B:** Xảy ra trong điều kiện **TƯỚI MÁU VÀ OXY MÔ HOÀN TOÀN BÌNH THƯỜNG**: + *Type B1:* Bệnh lý nền (suy gan nặng không thoái giáng được lactate, ung thư bạch cầu/lymphoma ác tính). + *Type B2:* Do thuốc/độc chất (Metformin, thuốc kháng virus HIV NRTIs, Linezolid, Propofol). + *Type B3:* Bệnh rối loạn chuyển hóa bẩm sinh thiếu hụt enzyme (thiếu hụt Thiamine - Vitamin B1). ---
+
+Câu 24: Tại sao hầu hết các hướng dẫn Hồi sức cấp cứu quốc tế (Surviving Sepsis Campaign) nghiêm cấm việc truyền thường quy dung dịch **Natri Bicarbonate (NaHCO3)** cho bệnh nhân Toan Lactic do sốc giảm tưới máu khi $\text{pH} \ge 7{,}15 – 7{,}20$?
+A. Do Bicarbonate làm hạ đường huyết đột ngột.
+B. Vì phản ứng đệm giải phóng khí $\text{CO}_2$; khí $\text{CO}_2$ khuếch tán vào bên trong tế bào nhanh hơn ion $\text{HCO}_3^-$ tích điện âm, làm tụt pH nội bào sâu sắc (**Hiện tượng toan nội bào nghịch thường**), gây ức chế co bóp cơ tim nặng hơn; đồng thời kiềm hóa ngoại bào làm giảm giải phóng oxy cho mô và gây quá tải muối nước.
+C. Bicarbonate làm đông máu nội mạch rải rác.
+D. Bicarbonate làm hủy hoại tế bào gan.
+Đáp án: B
+Giải thích: Phương trình hóa học: $\text{H}^+ + \text{HCO}_3^- \leftrightarrow \text{H}_2\text{CO}_3 \leftrightarrow \text{H}_2\text{O} + \text{CO}_2$. Khi truyền Bicarbonate, lượng lớn khí $\text{CO}_2$ sinh ra. Ở bệnh nhân sốc tưới máu kém, $\text{CO}_2$ không được tống xuất kịp qua phổi sẽ tràn vào nội bào cơ tim và não (vì $\text{CO}_2$ tan trong màng lipid gấp ngàn lần ion $\text{HCO}_3^-$) $\rightarrow$ kết hợp với nước nội bào tạo lại $\text{H}^+$ làm **pH NỘI BÀO CƠ TIM TỤT SÂU HƠN NỮA** $\rightarrow$ tim ngừng co bóp! Điều trị gốc rễ của toan lactic sốc là **hồi sức dịch, dùng vận mạch khôi phục tưới máu mô** chứ không phải truyền kiềm che giấu con số pH! ---
+
+Câu 25: Một bệnh nhân chấn thương đa cơ quan được truyền 6 lít dung dịch $\text{NaCl}\ 0{,}9\%$ trong 6 giờ đầu. Khí máu động mạch: $\text{pH} = 7{,}26$, $\text{HCO}_3^- = 15\ \text{mmol/L}$, $\text{Na}^+ = 142\ \text{mmol/L}$, $\text{Cl}^- = 118\ \text{mmol/L}$, nồng độ $\text{Lactate} = 1{,}2\ \text{mmol/L}$ (bình thường). Khoảng trống Anion ($\text{AG}$) của bệnh nhân là bao nhiêu và biện pháp xử trí thích hợp tiếp theo là gì?
+A. $\text{AG} = 22\ \text{mmol/L}$; Cho chỉ định lọc máu cấp cứu.
+B. $\text{AG} = 142 - (118 + 15) = 9\ \text{mmol/L}$ (bình thường); Chẩn đoán là Toan chuyển hóa do thừa Chlor máu (NAGMA); xử trí bằng cách chuyển ngay dịch truyền sang các dung dịch tinh thể cân bằng có tính kiềm hóa nhẹ (Ringer Lactate hoặc Plasma-Lyte).
+C. $\text{AG} = 15\ \text{mmol/L}$; Truyền ngay $500\ \text{ml}\ \text{NaHCO}_3\ 4{,}2\%$.
+D. Tiếp tục truyền thêm 3 lít $\text{NaCl}\ 0{,}9\%$.
+Đáp án: B
+Giải thích: $\text{AG} = 142 - 133 = 9\ \text{mmol/L}$ (nằm trong khoảng bình thường 8 - 12). Nồng độ Lactate bình thường chứng tỏ tưới máu mô đã được phục hồi tốt. Tình trạng toan máu ở đây hoàn toàn là do **i-atrogenic (do thầy thuốc truyền quá nhiều muối $\text{NaCl}\ 0{,}9\%$ có nồng độ Chlor cao $154\ \text{mmol/L}$)**. Khi nồng độ $\text{Cl}^-$ máu tăng vọt lên 118, thận tăng bài tiết $\text{HCO}_3^-$ để duy trì cân bằng điện tích, gây Toan tăng Chlor (NAGMA). Chỉ cần ngừng $\text{NaCl}\ 0{,}9\%$ và đổi sang Ringer Lactate hoặc dịch cân bằng, thận sẽ tự đào thải Chlor thừa và phục hồi Bicarbonate sau 24 giờ. ---
+
+Câu 26: Cả 3 thể Toan hóa ống thận (Renal Tubular Acidosis - RTA) đều gây Toan chuyển hóa có Khoảng trống Anion bình thường (NAGMA / Tăng Chlor máu). Dấu hiệu xét nghiệm nào sau đây là **ĐẶC TRƯNG NHẤT** để nhận diện **Toan hóa ống thận Type 1 (Distal RTA - Tổn thương ống lượn xa)**?
+A. Kali máu luôn tăng cao trên 6 mmol/L.
+B. pH nước tiểu luôn luôn KIỀM KHÔNG THÍCH HỢP ($\text{pH}\ \text{niệu} > 5{,}5$), kể cả trong tình trạng toan chuyển hóa toàn thân rất nặng, do tế bào xen kẽ ống lượn xa mất hoàn toàn khả năng bài tiết ion $\text{H}^+$ ra nước tiểu.
+C. Nước tiểu luôn toan hóa tối đa $\text{pH} < 5{,}0$.
+D. Bệnh nhân có tăng đường huyết nặng.
+Đáp án: B
+Giải thích: - **RTA Type 1 (Ống lượn xa):** Ống lượn xa hỏng bơm bài tiết $\text{H}^+$ $\rightarrow$ cơ thể toan nặng nhưng **$\text{pH}\ \text{nước tiểu} > 5{,}5$ liên tục** (nghịch lý không toan hóa được nước tiểu) $\rightarrow$ thường kèm sỏi thận calci phosphat và hạ Kali máu nặng. - **RTA Type 2 (Ống lượn gần):** Ống gần hỏng tái hấp thu $\text{HCO}_3^-$ $\rightarrow$ khi $\text{HCO}_3^-$ máu tụt xuống một mức sàn rất thấp, ống xa vẫn bài tiết $\text{H}^+$ được nên $\text{pH}\ \text{niệu}$ vẫn có thể toan hóa $< 5{,}5$. - **RTA Type 4 (Thiếu/kháng Aldosterone):** Đặc trưng duy nhất có **TĂNG KALI MÁU** (Type 1 và Type 2 đều có hạ Kali máu). ---
+
+Câu 27: Khi tiếp cận một bệnh nhân bị Toan chuyển hóa có Khoảng trống Anion bình thường (NAGMA) chưa rõ nguyên nhân, bác sĩ xét nghiệm các chất điện giải trong nước tiểu và tính **Khoảng trống Anion nước tiểu (Urine AG)** theo công thức: $$\text{Urine AG} = (\text{Na}^+_{\text{niệu}} + \text{K}^+_{\text{niệu}}) - \text{Cl}^-_{\text{niệu}}$$ Ý nghĩa của chỉ số Urine AG giúp phân biệt căn nguyên như thế nào?
+A. Urine AG dương tính chứng tỏ mất kiềm qua đường tiêu hóa do tiêu chảy.
+B. **Urine AG ÂM TÍNH (Urine AG < 0):** Thận còn tốt, tăng tiết $\text{NH}_4^+$ (đi kèm $\text{Cl}^-$) để đào thải acid $\rightarrow$ Khẳng định **mất Bicarbonate qua đường tiêu hóa (Tiêu chảy cấp)**;
+C. Urine AG luôn bằng 0 ở người khỏe mạnh.
+D. Urine AG dùng để chẩn đoán suy tim.
+Đáp án: B
+Giải thích: Đây là công cụ phân loại sinh lý học cực kỳ tinh vi: Thận đào thải acid dưới dạng ion Amoni ($\text{NH}_4^+$). Vì máy xét nghiệm không đo trực tiếp $\text{NH}_4^+$, người ta dùng ion $\text{Cl}^-$ đi kèm để đại diện. - Nếu toan do tiêu chảy: Thận bình thường sẽ tăng sản xuất $\text{NH}_4\text{Cl}$ lên tối đa để tống acid ra $\rightarrow \text{Cl}^-_{\text{niệu}}$ tăng rất cao $\rightarrow (\text{Na} + \text{K}) - \text{Cl} < 0$ (**Urine AG ÂM TÍNH**). - Nếu toan do thận (RTA Type 1): Thận không tạo và không bài tiết được $\text{NH}_4^+$ $\rightarrow \text{Cl}^-_{\text{niệu}}$ thấp $\rightarrow (\text{Na} + \text{K}) - \text{Cl} > 0$ (**Urine AG DƯƠNG TÍNH**). ---
+
+Câu 28: Bệnh nhân nam 45 tuổi được đưa vào viện sau chầu nhậu rượu trắng không rõ nguồn gốc 24 giờ. Bệnh nhân than phiền nhìn mờ, nhìn thấy "như có bão tuyết trước mắt", đau bụng nôn mửa và khó thở thở sâu Kussmaul. Khí máu: $\text{pH} = 7{,}02$, $\text{HCO}_3^- = 6\ \text{mmol/L}$, $\text{AG} = 32\ \text{mmol/L}$, $\text{Osmolar Gap} = 45\ \text{mOsm/kg}$. Khám mắt thấy phù gai thị hai bên. Độc chất chuyển hóa nào của Methanol gây tổn thương võng mạc và toan máu nặng nề?
+A. Formaldehyde.
+B. Acid Formic (Formate), được chuyển hóa từ Methanol qua enzyme Alcohol Dehydrogenase (ADH) và Aldehyde Dehydrogenase.
+C. Acetaldehyde.
+D. Acetone.
+Đáp án: B
+Giải thích: Bản thân phân tử Methanol chỉ gây say nhẹ và làm tăng khoảng trống thẩm thấu (Osmolar Gap). Tuy nhiên, khi vào gan, enzyme Alcohol Dehydrogenase (ADH) chuyển hóa Methanol thành Formaldehyde, sau đó thành **Acid Formic (Formate)**. Acid Formic là chất cực độc đối với ti thể tế bào, ức chế enzyme cytochrome c oxidase gây chết tế bào thần kinh thị giác và võng mạc (dẫn đến mù vĩnh viễn), đồng thời giải phóng ồ ạt ion $\text{H}^+$ gây toan chuyển hóa tăng AG sâu sắc. Thuốc giải độc đặc hiệu là **Fomepizole** hoặc **Ethanol** (để cạnh tranh enzyme ADH) và lọc máu cấp cứu để rút acid formic. ---
+
+Câu 29: Một người thợ sửa xe uống nhầm dung dịch nước làm mát động cơ ô tô (chứa **Ethylene Glycol**). Sau 12 giờ, bệnh nhân vào viện vì hôn mê, toan chuyển hóa tăng Anion Gap cực nặng ($\text{AG} = 35$) và vô niệu hoàn toàn. Soi cặn lắng nước tiểu thấy tràn ngập các tinh thể đặc trưng hình gì?
+A. Tinh thể hình kim của acid uric.
+B. Tinh thể Calci Oxalat hình phong bì thư (envelope-shaped) hoặc hình quả tạ.
+C. Tinh thể hình nắp quan tài của Triple phosphat.
+D. Tinh thể hình đa giác của Cystine.
+Đáp án: B
+Giải thích: Ethylene Glycol được chuyển hóa qua gan thành Glycolaldehyde, Glycolic acid, Glyoxylic acid và cuối cùng là **Oxalic acid**. Oxalic acid kết hợp ngay lập tức với ion $\text{Ca}^{2+}$ trong máu tạo thành muối **Calci Oxalat** không tan. Tinh thể Calci Oxalat (hình phong bì thư trên kính hiển vi) kết tủa ồ ạt trong lòng ống thận gây bít tắc cơ học và hoại tử tế bào ống thận cấp tính dẫn đến suy thận cấp vô niệu hoàn toàn. Đồng thời sự kết tủa này cũng làm bệnh nhân bị **Hạ Calci máu thứ phát** nặng nề. ---
+
+Câu 30: Một thiếu niên 17 tuổi tự tử bằng cách uống 50 viên Aspirin (Acid Acetylsalicylic). Khí máu động mạch sau 6 giờ nhập viện ghi nhận: $\text{pH} = 7{,}45$, $\text{PaCO}_2 = 18\ \text{mmHg}$, $\text{HCO}_3^- = 12\ \text{mmol/L}$, $\text{AG} = 22\ \text{mmol/L}$. Bệnh nhân có thở nhanh sâu, ù tai và nôn mửa. Phân tích khí máu động mạch này phản ánh **RỐI LOẠN TOAN KIỀM GÌ**?
+A. Kiềm hô hấp đơn thuần do thở nhanh.
+B. Toan chuyển hóa tăng Anion Gap đơn thuần.
+C. **Rối loạn hỗn hợp kinh điển: Kiềm hô hấp CẤP PHỐI HỢP VỚI Toan chuyển hóa tăng Anion Gap (HAGMA)**.
+D. Toan hô hấp cấp bù trừ bằng kiềm chuyển hóa.
+Đáp án: C
+Giải thích: Đây là ca bệnh kinh điển trong đề thi độc chất học và nội trú! Salicylate gây ra 2 cơ chế độc lập cùng lúc: 1. **Kiềm hô hấp:** Salicylate kích thích trực tiếp trung tâm hô hấp ở hành não gây tăng thông khí dữ dội $\rightarrow \text{PaCO}_2$ tụt dốc xuống $18\ \text{mmHg}$. 2. **Toan chuyển hóa tăng Anion Gap:** Salicylate làm đứt chuỗi phosphoryl hóa oxy hóa tế bào ti thể, làm tích tụ Acid Lactic, Acid Ceton và bản thân các ion salicylate $\rightarrow \text{AG}$ tăng cao tới $22\ \text{mmol/L}$. Hai quá trình xảy ra đồng thời tạo nên bức tranh: $\text{PaCO}_2$ rất thấp, $\text{HCO}_3^-$ rất thấp, $\text{AG}$ tăng cao và $\text{pH}$ máu dao động tùy thuộc vào rối loạn nào chiếm ưu thế (ở người lớn thường ưu thế kiềm hô hấp nên $\text{pH} \ge 7{,}40$). ---
+
+Câu 31: Trong phác đồ cấp cứu ngộ độc Aspirin (Salicylate) mức độ trung bình đến nặng, biện pháp can thiệp nội khoa then chốt là truyền tĩnh mạch dung dịch **Natri Bicarbonate (NaHCO3)** để nâng pH nước tiểu lên mục tiêu $\ge 7{,}5 – 8{,}0$. Nguyên lý dược động học của biện pháp "Kiềm hóa nước tiểu" (Urinary alkalinization) này là gì?
+A. Bicarbonate trung hòa trực tiếp độc tính của aspirin trong máu.
+B. **Hiện tượng bẫy ion (Ion trapping):** Acid Salicylic là một acid yếu; khi nước tiểu được kiềm hóa ($\text{pH}\ \text{niệu} > 7{,}5$), phân tử acid salicylic chuyển hoàn toàn sang dạng ion hóa mang điện âm ($\text{Salicylate}^-$); dạng ion hóa không thể khuếch tán qua màng lipid tế bào ống thận để tái hấp thu vào máu, do đó bị "bẫy" lại trong lòng ống thận và đào thải ồ ạt ra ngoài gấp 10 – 20 lần bình thường.
+C. Bicarbonate kích thích tủy thận bài tiết chất nhầy bọc aspirin.
+D. Bicarbonate phá hủy cấu trúc vòng benzene của aspirin.
+Đáp án: B
+Giải thích: Định luật phân ly acid yếu Henderson-Hasselbalch: Chỉ có dạng không ion hóa (hòa tan trong lipid) mới khuếch tán ngược từ nước tiểu vào máu. Khi nâng $\text{pH}$ nước tiểu từ $6{,}5$ lên $7{,}5 - 8{,}0$, độ phân ly ion hóa của salicylate tăng vọt, chuyển thành dạng mang điện tích âm $\rightarrow$ không tái hấp thu được $\rightarrow$ tốc độ thanh thải qua thận tăng theo cấp số nhân. Lưu ý sống còn: **Bắt buộc phải bù đủ Kali trước khi kiềm hóa**, vì nếu bệnh nhân bị hạ Kali máu, ống thận sẽ bơm $\text{H}^+$ ra nước tiểu làm toan hóa nước tiểu nghịch thường, phá vỡ hoàn toàn nỗ lực kiềm hóa nước tiểu! ---
+
+Câu 32: Một bệnh nhân nam nghiện rượu nặng, sau một đợt uống rượu triền miên nhiều ngày thì ngừng uống do đau dạ dày và nôn mửa liên tục, nhịn ăn suốt 3 ngày. Vào viện trong tình trạng thở sâu Kussmaul, lơ mơ. Xét nghiệm: $\text{Glucose} = 5\ \text{mmol/L}$ (không tăng), $\text{pH} = 7{,}18$, $\text{HCO}_3^- = 8\ \text{mmol/L}$, $\text{AG} = 28\ \text{mmol/L}$. Thử que nhúng nước tiểu Nitroprusside tìm ceton chỉ thấy vết (+/-). Bác sĩ nghi ngờ kết quả toan ceton. Tại sao que thử ceton nước tiểu thông thường lại âm tính giả trong Toan Ceton do rượu?
+A. Do bệnh nhân nôn hết chất ceton qua dạ dày.
+B. Do chất ceton chiếm ưu thế tuyệt đối trong Toan ceton do rượu là **$\beta$-Hydroxybutyrate** (do tỷ lệ $\text{NADH}/\text{NAD}^+$ trong tế bào gan tăng cực cao dưới tác dụng của rượu); trong khi que thử nước tiểu cổ điển Nitroprusside chỉ phát hiện được **Acetoacetate** mà hoàn toàn KHÔNG phản ứng với $\beta$-Hydroxybutyrate!
+C. Do que thử nước tiểu bị hỏng bởi nồng độ cồn.
+D. Do thận mất chức năng lọc thể ceton.
+Đáp án: B
+Giải thích: Đây là cạm bẫy cực kỳ tinh quái trong phòng cấp cứu: Chuyển hóa ethanol sinh ra lượng khổng lồ $\text{NADH}$, làm phản ứng cân bằng dịch chuyển mạnh: $\text{Acetoacetate} + \text{NADH} \rightarrow \beta\text{-Hydroxybutyrate} + \text{NAD}^+$. Tỷ số $\beta\text{-Hydroxybutyrate} / \text{Acetoacetate}$ bình thường là $1 : 1$, nhưng trong Toan ceton do rượu tăng vọt lên **$10 : 1$**! Bệnh nhân bị nhiễm toan ceton cực nặng nhưng xét nghiệm que nhúng nước tiểu thông thường (chỉ nhạy với Acetoacetate) lại báo âm tính hoặc vết. Bác sĩ phải định lượng trực tiếp $\beta$-Hydroxybutyrate máu mới thấy nồng độ tăng cao ngất ngưởng. Điều trị đặc hiệu là **truyền Glucose 5% + NaCl 0,9% + Vitamin B1 (Thiamine)** (không cần dùng Insulin vì đường huyết không cao). ---
+
+Câu 33: Bệnh nhân nữ 35 tuổi đã phẫu thuật cắt gần toàn bộ ruột non do hoại tử mạc treo. Sau một bữa ăn nhiều cơm và bánh ngọt, bệnh nhân xuất hiện lú lẫn, loạn ngôn, đi đứng loạng choạng như người say rượu. Khí máu có Toan chuyển hóa tăng Anion Gap nặng ($\text{pH} = 7{,}20, \text{AG} = 26$), nhưng xét nghiệm nồng độ Lactate máu thường quy trả về hoàn toàn bình thường ($1{,}1\ \text{mmol/L}$). Cơ chế sinh bệnh của thể toan lạ lùng này là gì?
+A. Bệnh nhân lén uống rượu trong bệnh viện.
+B. Hội chứng nhiễm toan **D-Lactic Acidosis**: Lượng tinh bột không hấp thu hết ở ruột ngắn bị vi khuẩn đường ruột lên men ồ ạt tạo thành đồng phân quang học **D-Lactate**; máy xét nghiệm sinh hóa thông thường chỉ dùng enzyme L-lactate dehydrogenase nên hoàn toàn không đo được D-lactate; D-lactate ngấm qua máu vào não gây ngộ độc thần kinh mô phỏng say rượu.
+C. Suy gan cấp do mất ruột.
+D. Nhiễm toan ống thận do mất kiềm.
+Đáp án: B
+Giải thích: Động vật có vú chỉ sản xuất và chuyển hóa đồng phân **L-Lactate**. Tuy nhiên, các vi khuẩn gram dương kỵ khí trong đại tràng (Lactobacillus) lại lên men carbohydrate tạo ra đồng phân **D-Lactate**. Khi ruột non bị cắt ngắn, carbohydrate chưa tiêu hóa tràn xuống đại tràng $\rightarrow$ vi khuẩn sinh ồ ạt D-Lactate $\rightarrow$ cơ thể con người không có enzyme D-lactate dehydrogenase để thoái giáng $\rightarrow$ D-Lactate tích tụ gây toan máu tăng AG và độc thần kinh trung ương. Máy xét nghiệm máu bệnh viện chỉ đo L-Lactate nên kết quả luôn bình thường giả tạo! ---
+
+Câu 34: Khi có chỉ định bù Natri Bicarbonate cho bệnh nhân Toan chuyển hóa nặng đe dọa tính mạng ($\text{pH} < 7{,}10$), công thức tính lượng kiềm thiếu hụt ($\text{mmol}$) dựa trên thể tích phân bố của Bicarbonate là: $$\text{Lượng Bicarbonate thiếu (mmol)} = \text{Hệ số phân bố} \times \text{Trọng lượng cơ thể (kg)} \times (\text{HCO}_{3\ (\text{đích})}^- - \text{HCO}_{3\ (\text{đo})}^-)$$ Hệ số phân bố của Bicarbonate bình thường là $0{,}5$ ($50\%$), nhưng trong tình trạng toan chuyển hóa nặng ($\text{pH} < 7{,}10$), hệ số này tăng vọt lên khoảng bao nhiêu và mục tiêu đích nồng độ ban đầu là bao nhiêu?
+A. Hệ số giảm còn $0{,}2$; đích bù là $24\ \text{mmol/L}$.
+B. Hệ số phân bố tăng vọt lên **$0{,}7 – 0{,}8$** (thậm chí $1{,}0$ ở toan rất nặng do hệ đệm tế bào bị kiệt quệ); và mục tiêu $\text{HCO}_3^-$ ban đầu chỉ nên đưa lên mức an toàn khoảng **$10 – 12\ \text{mmol/L}$** (đưa $\text{pH} \approx 7{,}20$), tuyệt đối không đưa về bình thường ngay ($24\ \text{mmol/L}$).
+C. Hệ số giữ nguyên $0{,}1$; đưa về bình thường ngay lập tức.
+D. Không cần tính toán, truyền 10 chai mỗi ngày.
+Đáp án: B
+Giải thích: Khi toan máu càng nặng, các hệ đệm nội bào (protein, hemoglobin, xương) bị cạn kiệt, khiến lượng Bicarbonate truyền vào bị "hút" sạch vào nội bào để đệm $\rightarrow$ thể tích phân bố biểu kiến của Bicarbonate tăng vọt từ $50\%$ lên tới $70 - 80\%$ trọng lượng cơ thể. Điểm cốt tử thứ hai: **Mục tiêu cấp cứu ban đầu CHỈ LÀ ĐƯA BỆNH NHÂN THOÁT KHỎI KHU VỰC NGUY HIỂM ($\text{pH} \approx 7{,}20$ tương ứng $\text{HCO}_3^- \approx 10 - 12\ \text{mmol/L}$)**. Bù ồ ạt để đưa $\text{HCO}_3^-$ về $24$ sẽ gây toan nội bào nghịch thường, tụt Kali và hạ Calci ion hóa gây co giật tử vong! ---
+
+Câu 35: Một bệnh nhân toan chuyển hóa nặng được truyền tĩnh mạch nhanh 3 chai dung dịch $\text{NaHCO}_3\ 4{,}2\%$ ($750\ \text{ml}$) trong 30 phút. Ngay sau khi truyền xong, bệnh nhân xuất hiện co thắt thanh quản khó thở dữ dội, hai bàn tay co quắp kiểu bàn tay người đỡ đẻ và lên cơn co giật toàn thân. Biến chứng cấp tính nào đã xảy ra?
+A. Phù não do tăng thể tích dịch truyền.
+B. Tăng nhanh pH máu làm giải phóng các vị trí tích điện âm trên Albumin, làm tăng gắn kết ồ ạt ion $\text{Ca}^{2+}$ tự do vào Albumin, dẫn đến **Hạ Calci máu ion hóa cấp tính** kích hoạt cơn Tetany và co thắt thanh quản.
+C. Bệnh nhân bị tai biến mạch máu não do truyền dịch.
+D. Ngộ độc khí CO2.
+Đáp án: B
+Giải thích: Đây là tai biến kinh điển khi truyền kiềm quá nhanh: Nâng nhanh pH máu làm ion $\text{H}^+$ rời khỏi phân tử Albumin $\rightarrow$ các gốc carboxyl tích điện âm của Albumin lập tức "bắt cóc" ion $\text{Ca}^{2+}$ tự do trong máu. Nồng độ $\text{Ca}^{2+}$ ion hóa tụt dốc không phanh gây tăng tính kích thích thần kinh cơ cực độ $\rightarrow$ co cứng cơ, cơn Tetany và co thắt cơ trơn thanh quản gây ngạt thở cấp. Do đó, trước và trong khi truyền Bicarbonate, **bắt buộc phải kiểm tra và bù Calci tĩnh mạch nếu Calci máu thấp**!
+
+Câu 36: Bệnh nhân nữ 52 tuổi đái tháo đường type 2 đang dùng thuốc ức chế đồng vận chuyển Natri-Glucose 2 (**Empagliflozin / Dapagliflozin 10 mg/ngày**). Bệnh nhân bị nhiễm trùng bàn chân, sốt nhẹ, mệt lả và thở nhanh sâu Kussmaul. Điều dưỡng đo đường huyết mao mạch báo về: $\text{Glucose} = 9{,}5\ \text{mmol/L}$ ($170\ \text{mg/dL}$, không tăng cao). Bác sĩ cấp cứu cho rằng không thể có Toan ceton vì đường huyết $< 200\ \text{mg/dL}$. Xét nghiệm khí máu sau đó: $\text{pH} = 7{,}12$, $\text{HCO}_3^- = 8\ \text{mmol/L}$, $\text{AG} = 26\ \text{mmol/L}$, $\beta\text{-Hydroxybutyrate} = 6{,}5\ \text{mmol/L}$ (rất cao). Bác sĩ đã mắc phải cạm bẫy lâm sàng gì?
+A. Nhầm lẫn với ngộ độc thức ăn.
+B. Bỏ sót **Hội chứng Toan Ceton thể bình đường (Euglycemic DKA - euDKA)** do thuốc ức chế SGLT2; thuốc làm thận đào thải liên tục đường qua nước tiểu giữ cho đường huyết chỉ ở mức bình thường hoặc tăng nhẹ ($< 200 - 250\ \text{mg/dL}$), trong khi cơ thể bị thiếu hụt Insulin tương đối và tăng tiết Glucagon thúc đẩy sinh ồ ạt acid ceton gây toan máu nặng.
+C. Bệnh nhân bị viêm tụy cấp tự miễn.
+D. Sai số xét nghiệm của que đo đường huyết.
+Đáp án: B
+Giải thích: Đây là cảnh báo an toàn đặc biệt (FDA Warning) của nhóm thuốc ức chế $\text{SGLT2i}$: Thuốc ức chế tái hấp thu glucose ở ống lượn gần $\rightarrow$ đường bị tống tháo ra nước tiểu làm đường huyết không bao giờ tăng vọt lên cao ($< 200 - 250\ \text{mg/dL}$). Tuy nhiên khi gặp stress (nhiễm trùng, phẫu thuật, nhịn ăn), tỷ lệ Insulin/Glucagon giảm sâu kích hoạt phân giải mỡ tạo thể ceton ồ ạt. Bác sĩ thấy "đường huyết không cao" liền chủ quan bỏ qua xét nghiệm ceton máu và khí máu, làm chậm trễ điều trị truyền Insulin và Glucose cứu mạng! ---
+
+Câu 37: Bệnh nhân nữ 65 tuổi suy dinh dưỡng, viêm khớp gối mạn tính tự uống Paracetamol liều $3 - 4\ \text{g/ngày}$ liên tục suốt 6 tháng. Vào viện vì lơ mơ, thở nhanh sâu, không có sốc, chức năng gan bình thường, không có suy thận, nồng độ Paracetamol máu ở ngưỡng điều trị. Xét nghiệm khí máu: $\text{pH} = 7{,}18$, $\text{HCO}_3^- = 10\ \text{mmol/L}$, $\text{AG} = 25\ \text{mmol/L}$, $\text{Lactate}$ bình thường, $\text{Ceton}$ âm tính. Chất chuyển hóa acid lạ nào tích tụ gây toan chuyển hóa tăng AG ở ca này?
+A. Acid Salicylic.
+B. **Acid Pyroglutamic (5-Oxoproline)**, do cạn kiệt Glutathione ở gan bởi Paracetamol mạn tính làm phá vỡ cơ chế ức chế ngược chu trình $\gamma$-glutamyl, dẫn đến tích tụ ồ ạt 5-Oxoproline trong máu và nước tiểu.
+C. Acid Uric.
+D. Acid Oxalic.
+Đáp án: B
+Giải thích: Nhiễm toan do tích tụ **5-Oxoproline (Pyroglutamic acidosis)** là nguyên nhân gây toan chuyển hóa tăng AG hiếm gặp nhưng rất hay thi: Gặp ở phụ nữ cao tuổi, suy dinh dưỡng, có nhiễm trùng hoặc bệnh gan mạn dùng Paracetamol kéo dài. Paracetamol làm cạn kiệt kho dự trữ Glutathione $\rightarrow$ mất ức chế enzyme $\gamma$-glutamylcysteine synthetase $\rightarrow$ cơ thể chuyển hướng chuyển hóa thành 5-Oxoproline tích tụ gây toan máu nặng. Chẩn đoán xác định bằng định lượng 5-Oxoproline trong nước tiểu. Điều trị: Ngừng ngay Paracetamol và truyền **N-acetylcystein (NAC)** để tái tạo Glutathione. ---
+
+Câu 38: Toan hóa ống thận Type 2 (Proximal RTA - Tổn thương ống lượn gần) thường nằm trong bệnh cảnh của **Hội chứng Fanconi**. Ngoài tình trạng Toan chuyển hóa tăng Chlor máu (NAGMA), bệnh nhân mắc hội chứng Fanconi còn có các rối loạn bài xuất qua nước tiểu đặc trưng nào sau đây do ống lượn gần bị hỏng chức năng tái hấp thu?
+A. Đái ra máu và protein niệu chọn lọc.
+B. **Đái ra đường dù đường huyết bình thường (Glycosuria with normal blood glucose)**, **Đái ra Acid Amin (Aminoaciduria)**, **Đái ra Phosphat (Phosphaturia)** gây còi xương/nhuyễn xương, và **Hạ Kali máu nặng**.
+C. Đái ra sỏi calci oxalat khổng lồ.
+D. Vô niệu hoàn toàn.
+Đáp án: B
+Giải thích: Ống lượn gần là "nhà máy tái hấp thu" đồ sộ nhất của nephron: hấp thu $85\%$ Bicarbonate, $100\%$ Glucose và Acid amin, và $80\%$ Phosphat. Khi ống gần bị tổn thương toàn bộ (Hội chứng Fanconi do bệnh Wilson tích đồng, đa u tủy xương, hoặc ngộ độc thuốc kháng virus Tenofovir/Cisplatin) $\rightarrow$ tất cả các chất này bị thoát ra nước tiểu: Glucose niệu dương tính dù đường máu bình thường, mất phosphat gây loãng nhuyễn xương đau đớn, mất kiềm gây toan máu và mất Kali qua nước tiểu. ---
+
+Câu 39: Thuốc lợi tiểu **Acetazolamide (Diamox)** ức chế enzyme Carbonic Anhydrase (CA) được sử dụng để điều trị say độ cao (Acute Mountain Sickness) và hạ nhãn áp trong glôcôm. Tác dụng phụ lên thăng bằng toan kiềm của thuốc này là gì?
+A. Gây kiềm chuyển hóa tăng Bicarbonate.
+B. Gây **Toan chuyển hóa có Khoảng trống Anion bình thường (NAGMA / Tăng Chlor máu)** do ức chế enzyme CA tại ống lượn gần làm thận mất khả năng tái hấp thu $\text{HCO}_3^-$, kiềm bị tống tháo ra nước tiểu làm nước tiểu kiềm hóa ($\text{pH}\ \text{niệu} > 7{,}0$) trong khi máu bị toan hóa.
+C. Gây toan lactic Type A.
+D. Gây kiềm hô hấp cấp.
+Đáp án: B
+Giải thích: Enzyme Carbonic Anhydrase tại diềm bàn chải ống lượn gần xúc tác phản ứng tái hấp thu Bicarbonate. Acetazolamide khóa chết enzyme này $\rightarrow$ Bicarbonate bị giữ lại trong lòng ống và đào thải ra nước tiểu $\rightarrow$ nồng độ Bicarbonate máu giảm sâu, gây Toan chuyển hóa tăng Chlor máu (mô phỏng bệnh cảnh Toan ống thận Type 2 do thuốc). Đây chính là lý do Acetazolamide được dùng làm "thuốc giải kiềm" ở bệnh nhân kiềm chuyển hóa bị thừa dịch! ---
+
+Câu 40: Bệnh nhân nam 70 tuổi bị COPD nặng, xét nghiệm khí máu cơ sở lúc ổn định đo được 2 tháng trước: $\text{pH} = 7{,}35$, $\text{PaCO}_2 = 60\ \text{mmHg}$, $\text{HCO}_3^- = 32\ \text{mmol/L}$. Đợt này bệnh nhân bị viêm phổi bội nhiễm nhập viện trong tình trạng ngủ gà, thở chậm nông $10\ \text{l/p}$. Khí máu cấp cứu: $\text{pH} = 7{,}15$, $\text{PaCO}_2 = 90\ \text{mmHg}$, $\text{HCO}_3^- = 35\ \text{mmol/L}$. Phân tích biến đổi khí máu này phản ánh tình trạng gì?
+A. Đợt cấp COPD có Toan chuyển hóa đi kèm.
+B. **Đợt Toan hô hấp CẤP bùng phát TRÊN NỀN Toan hô hấp MẠN TÍNH**: $\text{PaCO}_2$ tăng vọt cấp tính thêm $30\ \text{mmHg}$ (từ $60$ lên $90$) trong đợt này; theo quy luật toan hô hấp cấp tính, $\text{HCO}_3^-$ chỉ tăng thêm được $3\ \text{mmol/L}$ (từ $32$ lên $35$), không đủ bù trừ cho mức tăng CO2 khổng lồ làm $\text{pH}$ tụt dốc thảm hại xuống $7{,}15$ đe dọa hôn mê ngừng thở.
+C. Kiềm chuyển hóa mất bù.
+D. Toan máu do suy thận cấp.
+Đáp án: B
+Giải thích: Đây là bài toán nhận diện thực chiến hàng ngày tại ICU: Khi một bệnh nhân COPD rơi vào đợt cấp suy hô hấp, nồng độ $\text{PaCO}_2$ tăng vọt nhanh chóng trong vài giờ (thành phần cấp). Thận không thể tăng tái hấp thu Bicarbonate ngay trong vài giờ được mà chỉ có hệ đệm tế bào giải phóng thêm $1\ \text{mEq/L}\ \text{HCO}_3^-$ cho mỗi $10\ \text{mmHg}\ \text{CO}_2$ tăng thêm cấp tính $\rightarrow \text{HCO}_3^-$ chỉ tăng từ 32 lên 35 $\rightarrow$ pH tụt sâu xuống 7,15 gây hôn mê toan hô hấp cấp. Bệnh nhân có chỉ định thở máy không xâm nhập (NIV) khẩn cấp hoặc đặt nội khí quản nếu có rối loạn tri giác! ---
+
+Câu 41: Một bệnh nhân chấn thương sọ não nằm ICU được duy trì an thần thở máy bằng dung dịch truyền tĩnh mạch **Propofol liều cao (> 4 – 5 mg/kg/giờ)** liên tục suốt 4 ngày. Đột nhiên bệnh nhân xuất hiện suy tim cấp tụt huyết áp trơ với vận mạch, tiêu cơ vân cấp (CK máu $> 50.000\ \text{UI/L}$), nước tiểu màu nâu đen và Toan chuyển hóa tăng Anion Gap cực nặng với nồng độ **Lactate máu tăng vọt > 15 mmol/L**. Hội chứng nguy kịch đe dọa tử vong này là gì?
+A. Hội chứng cai thuốc an thần.
+B. Hội chứng truyền Propofol (Propofol Infusion Syndrome - PRIS).
+C. Sốc nhiễm trùng bệnh viện bùng phát.
+D. Tăng thân nhiệt ác tính do thuốc mê bốc hơi.
+Đáp án: B
+Giải thích: PRIS là thảm họa hồi sức: Dùng Propofol liều cao ($> 4 - 5\\ \text{mg/kg/h}$) kéo dài trên 48 giờ làm ức chế chuỗi vận chuyển điện tử ti thể và ức chế quá trình oxy hóa acid béo tại tế bào cơ tim và cơ vân $\rightarrow$ cơ tim và cơ vân bị hoại tử ồ ạt, giải phóng Myoglobin và không thể chuyển hóa pyruvate $\rightarrow$ sinh ra lượng khổng lồ Acid Lactic gây toan máu kháng trị, suy tim sốc tim và tỷ lệ tử vong lên tới $> 50 - 80\%$. Bắt buộc phải ngừng Propofol ngay lập tức và hỗ trợ tuần hoàn cơ học/chạy thận nhân tạo liên tục CVVH. ---
+
+Câu 42: Bảng so sánh cận lâm sàng nào sau đây phân biệt **CHÍNH XÁC NHẤT** giữa Toan Ceton đái tháo đường (DKA) và Hội chứng Hôn mê tăng áp lực thẩm thấu do đái tháo đường (HHS)?
+A. DKA có áp lực thẩm thấu máu cao hơn HHS.
+B. **DKA:** Đường huyết tăng vừa ($250 - 600\ \text{mg/dL}$), Toan chuyển hóa tăng Anion Gap nặng ($\text{pH} < 7{,}30$, $\text{HCO}_3^- < 18\ \text{mmol/L}$, $\text{AG} > 12$), thể ceton máu tăng cao đậm đặc;
+C. DKA chỉ gặp ở người già, HHS chỉ gặp ở trẻ nhỏ.
+D. HHS luôn có toan lactic nặng đi kèm.
+Đáp án: B
+Giải thích: Điểm phân biệt bản chất: - **DKA (thiếu Insulin tuyệt đối):** Thúc đẩy phân giải mỡ ồ ạt tạo thể ceton $\rightarrow$ toan chuyển hóa nặng nề là triệu chứng nổi bật, đưa bệnh nhân vào viện sớm trước khi kịp mất quá nhiều nước. - **HHS (còn một lượng nhỏ Insulin nội sinh):** Đủ để ức chế phân giải mỡ (không sinh ceton, không toan máu), nhưng không đủ để đưa đường vào tế bào $\rightarrow$ đường huyết tăng tích tụ hàng tuần lễ lên tới $> 600 - 1.000\ \text{mg/dL}$ gây lợi niệu thẩm thấu khổng lồ làm mất nước sâu sắc ($8 - 10\ \text{lít}$) và áp lực thẩm thấu hiệu dụng $> 320\ \text{mOsm/kg}$. ---
+
+Câu 43: Ở bệnh nhân Bệnh thận mạn tính (CKD) có Toan chuyển hóa mạn tính duy trì ($\text{HCO}_3^- < 22\ \text{mmol/L}$), việc bổ sung muối kiềm đường uống giúp làm chậm tiến triển suy thận và giảm tiêu cơ. Tại sao dung dịch **Natri Citrate (Shohl's solution)** lại bị **CHỐNG CHỈ ĐỊNH TUYỆT ĐỐI** ở bệnh nhân suy thận đang dùng các thuốc gắn phosphat có chứa Nhôm (Aluminium hydroxide)?
+A. Citrate kết hợp với Nhôm tạo thành sỏi niệu đạo.
+B. Muối Citrate làm tăng hấp thu ion Nhôm qua niêm mạc ruột vào máu lên gấp nhiều lần, gây ngộ độc Nhôm cấp tính dẫn đến bệnh lý não do nhôm (Aluminum encephalopathy), co giật và nhuyễn xương tiến triển; ở bệnh nhân này bắt buộc phải dùng **Natri Bicarbonate dạng viên nén**.
+C. Citrate gây loét dạ dày tá tràng dữ dội.
+D. Citrate làm tăng Kali máu ác tính.
+Đáp án: B
+Giải thích: Citrate tạo phức chelate hòa tan với muối Nhôm ở ruột, mở rộng các liên kết vòng tế bào biểu mô ruột và đẩy Nhôm ngấm ồ ạt vào lòng mạch. Thận suy không đào thải được Nhôm $\rightarrow$ Nhôm tích tụ trong não gây sa sút trí tuệ, loạn thần, co giật và lắng đọng ở xương gây bệnh xương nhuyễn kháng trị. Vì vậy ở bệnh nhân suy thận, viên muối **Natri Bicarbonate (Baking soda)** luôn là chế phẩm kiềm hóa đường uống an toàn nhất. ---
+
+Câu 44: Bệnh nhân nam 65 tuổi suy tim mạn phân suất tống máu giảm ($\text{EF} = 20\%$) vào viện vì đợt cấp suy tim có toan hô hấp và suy hô hấp. Bác sĩ thấy $\text{pH} = 7{,}22$ định truyền $500\ \text{ml}$ dung dịch $\text{NaHCO}_3\ 4{,}2\%$. Tai biến nguy kịch tức thì nào có nguy cơ bùng phát?
+A. Tụt huyết áp do giãn mạch.
+B. Cơn Phù phổi cấp huyết động (OAP) chết người do quá tải dịch tuần hoàn và quá tải muối Natri; dung dịch $\text{NaHCO}_3\ 4{,}2\%$ chứa lượng Natri ưu trương rất cao (khoảng $500\ \text{mmol/L}$), truyền vào sẽ hút nước từ mô kẽ vào lòng mạch làm tăng tiền gánh dữ dội, tim suy không thể tống máu làm ứ dịch tràn ngập phế nang.
+C. Hạ đường huyết do kích thích tụy.
+D. Gây sỏi thận cấp tính.
+Đáp án: B
+Giải thích: Mỗi chai $250\ \text{ml}\ \text{NaHCO}_3\ 4{,}2\%$ chứa tới $125\ \text{mmol}\ \text{Na}^+$ (tương đương lượng muối trong gần $1$ lít $\text{NaCl}\ 0{,}9\%$). Bệnh nhân suy tim nặng đang ứ trệ tuần hoàn mà truyền kiềm ưu trương sẽ gây quá tải thể tích cấp tính làm tim trái suy sụp hoàn toàn, khạc bọt hồng và tử vong vì phù phổi cấp. Trong toan hô hấp suy tim, **biện pháp duy nhất là thông khí hỗ trợ (thở máy NIV/IMV) để tống $\text{CO}_2$ qua phổi kết hợp lợi tiểu Furosemide**, cấm truyền kiềm! ---
+
+Câu 45: Bệnh nhân COPD có toan hô hấp mạn tính với $\text{PaCO}_2$ nền là $70\ \text{mmHg}$ và $\text{HCO}_3^-$ nền là $36\ \text{mmol/L}$. Bệnh nhân bị đợt cấp suy hô hấp phải đặt nội khí quản thở máy. Bác sĩ trẻ cài đặt thông số máy thở với thể tích và tần số quá cao, đưa $\text{PaCO}_2$ tụt dốc nhanh chóng từ $70$ xuống $38\ \text{mmHg}$ chỉ trong vòng 2 giờ. Xét nghiệm lại khí máu lúc này sẽ ghi nhận hiện tượng gì?
+A. Khí máu trở về hoàn toàn bình thường.
+B. Hiện tượng **Kiềm chuyển hóa sau tăng CO2 máu (Posthypercapnic Alkalosis)** với $\text{pH}$ tăng vọt lên mức kiềm nặng ($> 7{,}55 – 7{,}60$), do $\text{PaCO}_2$ bị máy thở thổi bay nhanh chóng trong khi thận chưa kịp đào thải lượng Bicarbonate $36\ \text{mmol/L}$ dự trữ ra nước tiểu; gây nguy cơ co giật, loạn nhịp tim và co thắt mạch não.
+C. Bệnh nhân bị toan lactic do máy thở.
+D. Tụt huyết áp do mất phản xạ thở.
+Đáp án: B
+Giải thích: Đây là "lỗi kỹ thuật thở máy kinh điển" của bác sĩ mới vào nghề: Thấy $\text{PaCO}_2 = 70$ liền ra sức tăng tần số thở máy để ép $\text{CO}_2$ về "chuẩn $40\ \text{mmHg}$". Họ quên mất rằng bệnh nhân COPD đã có sẵn mức $\text{HCO}_3^-$ cao ngất ngưởng ($36\ \text{mmol/L}$) do thận tích lũy nhiều ngày. Khi $\text{CO}_2$ bị hạ về 40 quá nhanh trong khi $\text{HCO}_3^-$ vẫn còn 36, theo phương trình Henderson-Hasselbalch, **pH máu sẽ vọt lên $> 7{,}58$ (Nhiễm kiềm chuyển hóa cấp tính)** gây co thắt động mạch não, giảm tưới máu não và loạn nhịp thất! Nguyên tắc thở máy cho COPD: **Chỉ đưa $\text{PaCO}_2$ về mức nền mạn tính của bệnh nhân (khoảng 50 - 60 mmHg) để giữ pH ở mức 7,35 - 7,40**, tuyệt đối không đưa về 40! ---
+
+Câu 46: Một người tuyệt thực nhịn ăn hoàn toàn chỉ uống nước lọc trong 7 ngày để giảm cân. Xét nghiệm máu có Toan chuyển hóa tăng Anion Gap nhẹ ($\text{pH} = 7{,}32$, $\text{HCO}_3^- = 18\ \text{mmol/L}$, $\text{AG} = 17\ \text{mmol/L}$). Tại sao trong Toan Ceton do đói kéo dài, mức độ toan máu hiếm khi nào tiến triển nặng nề ($\text{HCO}_3^-$ hiếm khi $< 16 – 18\ \text{mmol/L}$ và $\text{pH}$ hiếm khi $< 7{,}30$) khác biệt hoàn toàn với Toan Ceton đái tháo đường (DKA)?
+A. Do người nhịn ăn uống nhiều nước làm pha loãng ceton.
+B. Vì ở người nhịn ăn, nồng độ Insulin nền tuy thấp nhưng vẫn còn được tế bào beta tụy tiết ra một lượng nhỏ sinh lý; lượng Insulin nhỏ này đủ để hãm phanh quá trình ly giải mô mỡ không cho giải phóng acid béo quá mức, đồng thời não bộ và các mô tăng cường sử dụng thể ceton làm năng lượng thay thế glucose; do đó nồng độ ceton máu duy trì ở mức ổn định tự giới hạn.
+C. Do gan ngừng chuyển hóa mỡ sau 3 ngày.
+D. Do thận tăng đào thải ceton gấp 100 lần.
+Đáp án: B
+Giải thích: Điểm khác biệt sinh tử giữa Đói sinh lý và Đái tháo đường: - Trong DKA: **Thiếu Insulin TUYỆT ĐỐI** $\rightarrow$ không có phanh hãm $\rightarrow$ thể ceton sinh ra mất kiểm soát đưa $\text{HCO}_3^-$ tụt xuống $< 5\ \text{mmol/L}$ và $\text{pH} < 7{,}00$ gây tử vong. - Trong nhịn đói (Starvation): Tuy tụy giảm tiết insulin nhưng **không bao giờ bằng 0**. Lượng insulin cơ sở đủ để kiềm chế nồng độ thể ceton máu dừng lại ở mức $3 - 5\ \text{mmol/L}$, $\text{HCO}_3^-$ dừng ở mức $16 - 18\ \text{mmol/L}$ và $\text{pH}$ duy trì an toàn $> 7{,}30$. Chỉ cần cho bệnh nhân ăn lại một lượng nhỏ carbohydrate hoặc truyền Glucose 5% là quá trình sinh ceton lập tức tắt ngấm! ---
+
+Câu 47: Một bệnh nhân bị hẹp môn vị nôn mửa thức ăn cũ suốt 1 tuần, nhập viện trong tình trạng mất nước nặng và Kiềm chuyển hóa sâu sắc ($\text{pH} = 7{,}56$, $\text{HCO}_3^- = 42\ \text{mmol/L}$). Bác sĩ xét nghiệm nước tiểu thấy **pH nước tiểu lại có tính toan ($\text{pH}\ \text{niệu} = 5{,}0$)**. Hiện tượng "Nước tiểu toan nghịch thường" (Paradoxical aciduria) này xảy ra do cơ chế sinh lý nào?
+A. Thận bị nhiễm khuẩn đường tiết niệu sinh acid.
+B. Cơ thể cạn kiệt thể tích tuần hoàn và thiếu hụt trầm trọng ion $\text{K}^+$ và $\text{Cl}^-$; tại ống lượn xa, Aldosterone tiết ra tối đa để cố gắng giữ lại Natri cứu vãn thể tích; nhưng do không có đủ ion $\text{K}^+$ nội bào để trao đổi, tế bào ống thận buộc phải bơm ion $\text{H}^+$ ra nước tiểu thay thế cho $\text{K}^+$, làm nước tiểu bị toan hóa dù toàn thân đang bị kiềm máu dữ dội.
+C. Do thức ăn nôn ra chứa acid ngấm vào thận.
+D. Bệnh nhân có toan ống thận Type 1 phối hợp.
+Đáp án: B
+Giải thích: Đây là một trong những nghịch lý kinh điển nhất của sinh lý thận: Máu kiềm thì đáng lẽ thận phải thải kiềm ra làm nước tiểu kiềm ($\text{pH} > 7$). Nhưng ở bệnh nhân nôn mất nước, thiếu dịch và hạ Kali máu nặng: 1. Thể tích tụt kích hoạt Aldosterone hút $\text{Na}^+$ tối đa. 2. Đổi lại, thận phải đẩy một cation ra nước tiểu. Vì bệnh nhân đã bị hạ Kali máu nặng, tế bào ống thận không còn Kali để thải $\rightarrow$ nó đành phải **bơm ion $\text{H}^+$ ra nước tiểu**. 3. Nước tiểu bị toan hóa ($\text{pH} < 5{,}5$), đồng thời mỗi ion $\text{H}^+$ thải ra lại tạo mới một ion $\text{HCO}_3^-$ đưa về máu $\rightarrow$ làm máu càng kiềm nặng hơn! Muốn chữa nghịch lý này: **Chỉ cần truyền $\text{NaCl}\ 0{,}9\%$ bù dịch và bù đủ $\text{KCl}$**, thận nhận đủ $\text{Na}^+$, $\text{Cl}^-$ và $\text{K}^+$ sẽ lập tức ngừng bơm $\text{H}^+$ và tống tháo $\text{HCO}_3^-$ ra nước tiểu để chữa kiềm máu! ---
+
+Câu 48: Bệnh nhân nam 62 tuổi đi ngoài phân lỏng nhiều nhầy mũi như lòng trắng trứng gà kéo dài 2 tháng (mỗi ngày mất $1 - 2\ \text{lít}$ chất nhầy qua hậu môn). Bệnh nhân mệt mỏi, chuột rút. Xét nghiệm máu ghi nhận tình trạng **Kiềm chuyển hóa nặng kèm Hạ Kali máu trầm trọng ($\text{K}^+ = 1{,}9\ \text{mmol/L}$)**. Khối u đại trực tràng nào gây ra hội chứng mất điện giải đặc thù này?
+A. Ung thư biểu mô tuyến đại tràng thể vòng nhẫn.
+B. U nhầy nhung mao đại trực tràng (Villous Adenoma), các tế bào biểu mô u tiết ra lượng khổng lồ chất nhầy chứa nồng độ ion Kali và dịch kiềm cao, gây hội chứng mất nước, hạ Kali máu nặng và kiềm chuyển hóa (Hội chứng McKittrick - Wheelock).
+C. Polyp tăng sản lành tính.
+D. U mô đệm đường tiêu hóa (GIST).
+Đáp án: B
+Giải thích: Đa số các trường hợp tiêu chảy mất dịch tiêu hóa dưới đều gây Toan chuyển hóa mất kiềm (NAGMA). Tuy nhiên, **U nhầy nhung mao đại trực tràng (Hội chứng McKittrick-Wheelock)** là một ngoại lệ nổi tiếng: Khối u nhung mao tiết dịch nhầy cực giàu ion $\text{K}^+$ (nồng độ Kali trong chất nhầy cao gấp 4 lần huyết tương) và chất lỏng nhược trương $\rightarrow$ gây mất nước, hạ Kali máu cực nặng $\rightarrow$ thiếu Kali thứ phát kích thích ống thận bài tiết $\text{H}^+$ và giữ Bicarbonate, dẫn đến Kiềm chuyển hóa nặng nề. Cắt bỏ khối u qua nội soi là điều trị triệt căn. ---
+
+Câu 49: Bệnh nhân nữ 45 tuổi được chẩn đoán Cường Aldosterone tiên phát do u tuyến vỏ thượng thận (Hội chứng Conn). Khí máu có Kiềm chuyển hóa nặng ($\text{HCO}_3^- = 38\ \text{mmol/L}$), $\text{Cl}^-\ \text{niệu} = 45\ \text{mmol/L}$ (nhóm không đáp ứng với truyền muối). Trong thời gian chờ phẫu thuật cắt u, thuốc lợi tiểu nào là **LỰA CHỌN NỘI KHOA HÀNG ĐẦU** để điều chỉnh kiềm máu và giữ Kali?
+A. Furosemide.
+B. Spironolactone (hoặc Eplerenone), thuốc đối kháng cạnh tranh đặc hiệu tại thụ thể Mineralocorticoid của Aldosterone ở ống lượn xa và ống góp.
+C. Hydrochlorothiazide.
+D. Acetazolamide.
+Đáp án: B
+Giải thích: Kiềm chuyển hóa không đáp ứng với Chlor ($\text{Cl}^- \text{niệu} > 20\ \text{mmol/L}$) do thừa Mineralocorticoid thì truyền $\text{NaCl}\ 0{,}9\%$ hoàn toàn vô tác dụng vì cơ thể đang thừa dịch và tăng huyết áp. Thuốc điều trị cơ chế đích là **Spironolactone** (chất ức chế cạnh tranh thụ thể Aldosterone). Thuốc khóa tác dụng của Aldosterone tại tế bào chính và tế bào xen kẽ $\rightarrow$ ngừng thải $\text{K}^+$ và $\text{H}^+$ ra nước tiểu, đồng thời tăng thải $\text{Na}^+$ và hạ huyết áp $\rightarrow$ dập tắt triệt để tình trạng kiềm chuyển hóa. ---
+
+Câu 50: Khi tính Khoảng trống Anion nước tiểu (Urine AG) ở bệnh nhân Toan chuyển hóa tăng Chlor máu nhưng kết quả rơi vào vùng ranh giới hoặc không rõ ràng (ví dụ có mặt các anion lạ như ketoacid hoặc kháng sinh mang điện âm), chỉ số nào sau đây được tính toán để ước lượng chính xác nồng độ ion Amoni ($\text{NH}_4^+$) bài xuất trong nước tiểu?
+A. Tỷ trọng nước tiểu đo bằng khúc xạ kế.
+B. **Khoảng trống Áp lực thẩm thấu nước tiểu (Urine Osmolal Gap - UOG)**:
+C. Độ thanh thải Creatinine 24 giờ.
+D. Nồng độ Calci niệu.
+Đáp án: B
+Giải thích: Đây là đỉnh cao của hóa sinh thận học lâm sàng: Khi nước tiểu chứa các anion lạ (như thể ceton hoặc dẫn xuất kháng sinh Penicillin), các anion này kéo $\text{Na}^+$ và $\text{K}^+$ ra cùng làm chỉ số $\text{Urine AG} = (\text{Na} + \text{K}) - \text{Cl}$ bị dương tính giả dù thận bài tiết $\text{NH}_4^+$ rất tốt. Lúc này, **Khoảng trống thẩm thấu niệu (UOG)** là giải pháp thay thế hoàn hảo: Vì muối $\text{NH}_4^+$ đóng góp phần lớn vào áp lực thẩm thấu chưa đo được, nên lấy $\text{UOG}$ chia đôi sẽ cho nồng độ $\text{NH}_4^+$ thực tế. Nếu $\text{UOG} > 150 - 200\ \text{mOsm/kg}$ $\rightarrow$ thận bài tiết acid rất tốt (nguyên nhân do tiêu chảy); nếu $\text{UOG} < 100\ \text{mOsm/kg}$ $\rightarrow$ thận hỏng bài tiết acid (chẩn đoán xác định Toan hóa ống thận RTA). ## PHẦN 3: KIỀM CHUYỂN HÓA, TOAN HÔ HẤP & KIỀM HÔ HẤP — CÂU 51 ĐẾN 80
+
+Câu 51: Bệnh nhân nữ 28 tuổi vào viện vì yếu cơ toàn thân, chuột rút, huyết áp bình thường $110/70\ \text{mmHg}$, không phù. Khí máu có Kiềm chuyển hóa nặng: $\text{pH} = 7{,}54$, $\text{HCO}_3^- = 38\ \text{mmol/L}$, $\text{K}^+ = 2{,}4\ \text{mmol/L}$. Bệnh nhân khăng khăng phủ nhận việc nôn ói hay dùng thuốc lợi tiểu. Xét nghiệm nào sau đây là **CHÌA KHÓA VÀNG BẮT BUỘC ĐẦU TIÊN** để định hướng căn nguyên?
+A. Siêu âm ổ bụng tìm u tụy.
+B. Định lượng nồng độ Chlor trong nước tiểu ngẫu nhiên ($\text{Cl}^-\ \text{niệu}$):
+C. Chụp cộng hưởng từ tuyến yên.
+D. Định lượng nồng độ Renin máu.
+Đáp án: B
+Giải thích: Mọi guideline tiếp cận Kiềm chuyển hóa trên thế giới đều bắt đầu bằng **nồng độ Chlor nước tiểu ($\text{Cl}^- \text{niệu}$)**: - Ion $\text{Cl}^-$ là anion ngoại bào chính đi kèm với $\text{Na}^+$. Khi cơ thể bị mất dịch dạ dày (chứa nhiều acid $\text{HCl}$), nồng độ $\text{Cl}^-$ toàn thân cạn kiệt $\rightarrow$ thận tái hấp thu gần như $100\%$ ion $\text{Cl}^-$ qua ống lượn xa $\rightarrow \text{Cl}^- \text{niệu} < 10 - 20\ \text{mmol/L}$ (khẳng định thể **Đáp ứng với truyền muối $\text{NaCl}\ 0{,}9\%$**). - Nếu bệnh nhân nói dối về việc móc họng nôn để giảm cân (Hội chứng Bulimia), xét nghiệm Chlor niệu thấp $< 10$ sẽ "bắt quả tang" ngay lập tức cơ chế mất acid dịch vị! ---
+
+Câu 52: Một phụ nữ 30 tuổi tình cờ phát hiện huyết áp luôn ở mức thấp $90/60\ \text{mmHg}$, mệt mỏi, hay bị tê bì đầu chi. Xét nghiệm nhiều lần đều thấy: Kiềm chuyển hóa ($\text{HCO}_3^- = 34\ \text{mmol/L}$), Hạ Kali máu ($\text{K}^+ = 2{,}5\ \text{mmol/L}$), Hạ Magnesi máu nặng ($\text{Mg}^{2+} = 0{,}5\ \text{mmol/L}$). Xét nghiệm nước tiểu: $\text{Cl}^-\ \text{niệu} = 65\ \text{mmol/L}$ (rất cao), $\text{Tỷ số thanh thải Calci/Creatinine niệu} < 0{,}1$ (Hạ Calci niệu đặc trưng). Bệnh nhân mắc hội chứng di truyền nào?
+A. Hội chứng Bartter Type 2.
+B. **Hội chứng Gitelman**, do đột biến bất hoạt gen mã hóa kênh đồng vận chuyển Natri-Chlor ($\text{NCCT}$) nhạy cảm với Thiazide tại ống lượn xa; biểu hiện bệnh sinh và rối loạn điện giải giống hệt như một người "uống thuốc lợi tiểu Thiazide trường diễn bẩm sinh".
+C. Hội chứng Liddle.
+D. U vỏ thượng thận tiết Aldosterone.
+Đáp án: B
+Giải thích: Hội chứng Gitelman là bệnh lý kênh ion ống lượn xa: Hỏng kênh $\text{NCCT}$ $\rightarrow$ mất muối $\text{NaCl}$ qua nước tiểu $\rightarrow \text{Cl}^- \text{niệu}$ tăng cao $> 20 - 40\ \text{mmol/L}$ kèm huyết áp thấp. Giảm thể tích kích thích Aldosterone thứ phát $\rightarrow$ tống tháo Kali gây hạ Kali máu và kiềm chuyển hóa. Hai dấu ấn "chữ ký" độc nhất vô nhị để nhận diện Gitelman (khác biệt với Bartter): **Hạ Magnesi máu nặng** và **Hạ Calci niệu đặc trưng** (do ống lượn xa tăng tái hấp thu Calci bù trừ tương tự như khi uống Thiazide). ---
+
+Câu 53: Tại sao ở bệnh nhân Kiềm chuyển hóa do nôn mửa hoặc dùng lợi tiểu ($\text{Cl}^-\ \text{niệu} < 10\ \text{mmol/L}$), việc truyền dung dịch **Natri Clorid 0,9% kết hợp bù Kali Clorid (KCl)** lại là biện pháp điều trị đặc hiệu dứt điểm tình trạng kiềm máu?
+A. Vì dịch truyền làm loãng nồng độ Bicarbonate trong máu.
+B. Bù $\text{NaCl}\ 0{,}9\%$ giúp khôi phục thể tích tuần hoàn $\rightarrow$ dập tắt phản xạ tiết Aldosterone; đồng thời cung cấp dồi dào ion $\text{Cl}^-$ đến ống lượn xa để kích hoạt chất vận chuyển trao đổi $\text{Cl}^-/\text{HCO}_3^-$ (Pendrin) ở màng tế bào xen kẽ B, giúp thận tống tháo $\text{HCO}_3^-$ ra nước tiểu; kết hợp bù $\text{KCl}$ giúp chấm dứt tình trạng tế bào bài tiết $\text{H}^+$, đưa pH máu trở về bình thường bền vững.
+C. Muối biến đổi trực tiếp thành acid trong lòng mạch.
+D. Dung dịch NaCl 0.9% ức chế phổi không cho thở chậm.
+Đáp án: B
+Giải thích: Cơ chế duy trì kiềm chuyển hóa: Thận bị "bắt cóc" bởi 2 yếu tố: (1) Thiếu thể tích làm Aldosterone tăng cao giữ $\text{Na}^+$ và tống $\text{H}^+$; (2) Thiếu $\text{Cl}^-$ khiến ống lượn xa không có đối ion để bài tiết $\text{HCO}_3^-$ (kênh Pendrin bắt buộc phải có ion $\text{Cl}^-$ trong lòng ống thì mới bơm $\text{HCO}_3^-$ ra ngoài được). Khi ta truyền $\text{NaCl}\ 0{,}9\%$, thể tích hồi phục $\rightarrow$ Aldosterone tắt; thận nhận ngập tràn ion $\text{Cl}^-$ $\rightarrow$ kênh Pendrin hoạt động tối đa đẩy toàn bộ Bicarbonate thừa ra nước tiểu $\rightarrow$ kiềm máu biến mất hoàn toàn! ---
+
+Câu 54: Khi một bệnh nhân bị Kiềm chuyển hóa cực kỳ nặng nề đe dọa tử vong với **$\text{pH} > 7{,}55 – 7{,}60$** kèm theo tình trạng **Quá tải dịch nặng (Phù toàn thân, suy tim xung huyết)** chống chỉ định tuyệt đối việc truyền thêm dịch muối $\text{NaCl}\ 0{,}9\%$, biện pháp cứu viện nội khoa tối hậu tại khoa Hồi sức tích cực (ICU) là gì?
+A. Cho bệnh nhân uống giấm ăn qua sonde dạ dày.
+B. Truyền dung dịch **Acid Hydrochloric loãng (HCl 0,1 N pha trong Glucose 5% hoặc nước cất)** qua **CATHETER TĨNH MẠCH TRUNG TÂM**, với tốc độ tối đa không quá $0{,}2\ \text{mmol/kg/giờ}$ dưới sự theo dõi sát khí máu động mạch liên tục mỗi 2 – 4 giờ.
+C. Tiêm bolus tĩnh mạch ngoại vi dung dịch Acid Acetic.
+D. Tăng thông khí máy thở để thổi bay CO2.
+Đáp án: B
+Giải thích: Đây là vũ khí cứu cánh hiếm khi dùng nhưng bắt buộc phải biết tại ICU: Bệnh nhân suy tim nặng đang phù to, $\text{pH} = 7{,}62$ do dùng lợi tiểu quai quá liều, có loạn nhịp tim thất nguy kịch. Bệnh nhân không thể chịu đựng thêm $1$ giọt dịch muối $\text{NaCl}\ 0{,}9\%$ nào nữa vì sẽ vỡ tim phù phổi. Lợi tiểu Diamox không tác dụng kịp. Biện pháp duy nhất trung hòa kiềm tức thì mà không nạp Natri vào cơ thể là **truyền trực tiếp dung dịch $\text{HCl}\ 0{,}1\ \text{N}$**. Cảnh báo sống còn: **BẮT BUỘC PHẢI TRUYỀN QUA TĨNH MẠCH TRUNG TÂM (CVC)** vì acid sẽ phá hủy gây hoại tử xơ hóa ngay lập tức các tĩnh mạch nhỏ ngoại biên nếu truyền chệch ven! ---
+
+Câu 55: Một thanh niên được phát hiện bất tỉnh trong nhà vệ sinh, xung quanh có kim tiêm. Khám thấy: Hôn mê, đồng tử hai bên co nhỏ như đầu đinh ghim (Pinpoint pupils), thở chậm ngắt quãng $4\ \text{lần/phút}$, tím tái toàn thân, huyết áp $80/50\ \text{mmHg}$. Khí máu động mạch: $\text{pH} = 7{,}08$, $\text{PaCO}_2 = 95\ \text{mmHg}$, $\text{HCO}_3^- = 27\ \text{mmol/L}$, $\text{PaO}_2 = 38\ \text{mmHg}$. Thuốc giải độc đặc hiệu đường tĩnh mạch cứu mạng tức thì là gì?
+A. Flumazenil.
+B. **Naloxone (thuốc đối kháng cạnh tranh đặc hiệu tại thụ thể $\mu$-opioid)**, tiêm tĩnh mạch liều khởi đầu $0{,}4 – 2\ \text{mg}$, có thể nhắc lại mỗi 2 – 3 phút đến khi bệnh nhân tự thở được.
+C. Atropine.
+D. Adrenaline.
+Đáp án: B
+Giải thích: Bệnh nhân có **Tam chứng ngộ độc Opiate/Heroin kinh điển**: (1) Hôn mê ức chế thần kinh trung ương; (2) Co nhỏ đồng tử như đầu kim; (3) Ức chế hô hấp nặng (thở chậm $< 6\ \text{l/p}$) gây Toan hô hấp cấp mất bù trầm trọng ($\text{PaCO}_2 = 95$, $\text{pH} = 7{,}08$). Thuốc giải độc đặc hiệu duy nhất đảo ngược tác dụng ức chế hô hấp của opioid là **Naloxone (Narcan)**. Thuốc khóa thụ thể $\mu$ tại thân não, chỉ sau 1 - 2 phút tiêm tĩnh mạch, bệnh nhân sẽ mở mắt tỉnh lại và nhịp thở phục hồi ngoạn mục! ---
+
+Câu 56: Một cụ ông 72 tuổi bị đợt cấp COPD có khó thở, điều dưỡng tại tuyến dưới cho thở oxy qua mặt nạ túi dự trữ với lưu lượng $15\ \text{lít/phút}$. Sau 45 phút, bệnh nhân không còn khó thở nữa nhưng dần rơi vào trạng thái ngủ gà, gọi hỏi không đáp ứng, đồng tử co nhẹ, vã mồ hôi dính trán. Khí máu kiểm tra: $\text{PaO}_2 = 180\ \text{mmHg}$, nhưng $\text{PaCO}_2$ tăng vọt từ $55$ lên **$105\ \text{mmHg}$**, $\text{pH} = 7{,}10$. Hiện tượng tai biến này được gọi là gì và do 3 cơ chế nào gây ra?
+A. Bệnh nhân bị tai biến nhồi máu não diện rộng.
+B. Hiện tượng **Hôn mê do ngộ độc CO2 (CO2 Narcosis / Hypercapnic coma)**, do 3 cơ chế: (1) Dập tắt phản xạ kích thích thở của tình trạng thiếu oxy (Hypoxic drive); (2) Phá vỡ phản xạ co mạch phổi thiếu oxy (Hypoxic pulmonary vasoconstriction) làm tăng bất tương hợp V/Q; (3) Hiệu ứng Haldane đẩy CO2 từ hemoglobin vào huyết tương.
+C. Do ngộ độc oxy tinh khiết gây phù não.
+D. Do bệnh nhân bị hạ đường huyết đột ngột.
+Đáp án: B
+Giải thích: Đây là tai biến y khoa phổ biến và đau xót nhất khi xử trí cấp cứu COPD! Ba cơ chế sinh lý học gây ứ $\text{CO}_2$ dữ dội khi cho thở oxy liều cao ở bệnh nhân COPD: 1. **Dập tắt Hypoxic drive:** Bệnh nhân COPD tăng $\text{CO}_2$ mạn tính bị trơ với $\text{CO}_2$, nhịp thở chỉ còn duy trì nhờ "động lực thiếu oxy" kích thích thụ thể xoang cảnh. Thở oxy $15\ \text{l/p}$ làm $\text{PaO}_2$ vọt lên $180\ \text{mmHg} \rightarrow$ dập tắt ngay kích thích này $\rightarrow$ bệnh nhân ngừng thở hoặc thở chậm lại. 2. **Phá hủy phản xạ co mạch phổi (Quan trọng nhất):** Bình thường vùng phổi kém thông khí sẽ tự co mạch máu lại để dồn máu sang vùng phổi lành. Oxy liều cao làm giãn toạc các mạch máu ở vùng phổi hỏng $\rightarrow$ máu tưới ồ ạt vào các phế nang chứa đầy đờm không có thông khí $\rightarrow$ làm tăng khoảng chết và tăng shunt nội phổi dữ dội. 3. **Hiệu ứng Haldane:** Máu bão hòa oxy cao làm giảm ái lực của Hemoglobin với $\text{CO}_2 \rightarrow \text{CO}_2$ bị đẩy văng ra huyết tương làm $\text{PaCO}_2$ tăng cao hơn nữa. **Quy tắc an toàn:** Ở bệnh nhân COPD, **CHỈ THỞ OXY LIỀU THẤP QUA GỌNG KÍNH (1 - 2 l/p) HOẶC QUA MẶT NẠ VENTURI (24% - 28%) ĐỂ ĐẠT ĐÍCH SpO2 88% – 92%**, tuyệt đối cấm thở oxy túi dự trữ liều cao! ---
+
+Câu 57: Một nữ sinh viên 20 tuổi bước vào phòng thi đại học đột nhiên lên cơn hoảng loạn, thở hổn hển liên tục $45\ \text{lần/phút}$ trong 20 phút. Cô xuất hiện chóng mặt, hoa mắt, tê rần quanh môi và co rút hai bàn tay cứng đơ đau đớn. Khí máu đo được: $\text{pH} = 7{,}65$, $\text{PaCO}_2 = 16\ \text{mmHg}$, $\text{HCO}_3^- = 22\ \text{mmol/L}$. Hai cơ chế sinh lý nào giải thích triệu chứng chóng mặt và co rút cơ ở bệnh nhân này?
+A. Do thiếu oxy lên não và hạ đường huyết.
+B. **(1) Gây co mạch não:** $\text{PaCO}_2$ tụt dốc kích thích cơ trơn động mạch não co thắt dữ dội làm giảm lưu lượng máu tưới cho não gây chóng mặt, choáng váng; **(2) Gây hạ Calci ion hóa cấp:** Kiềm máu làm tăng gắn ion $\text{Ca}^{2+}$ tự do vào Albumin làm nồng độ Calci ion hóa tụt dốc gây kích thích thần kinh cơ dẫn đến tê môi và cơn Tetany bàn tay.
+C. Do cơ thể bị mất nước cấp tính qua hơi thở.
+D. Do bệnh nhân bị động kinh thùy thái dương.
+Đáp án: B
+Giải thích: Khí $\text{CO}_2$ là chất điều hòa trương lực mạch máu não mạnh nhất: $\text{PaCO}_2$ tăng gây giãn mạch não (tăng áp lực nội sọ); ngược lại $\text{PaCO}_2$ tụt sâu gây **co thắt mạch máu não nghiêm trọng**, làm lưu lượng máu tưới cho vỏ não giảm tới $40 - 50\% \rightarrow$ gây thiếu máu não cục bộ thoáng qua làm bệnh nhân choáng váng, muốn ngất. Kết hợp với việc kiềm máu "bắt cóc" ion Calci tự do tạo ra cơn co quắp Tetany kinh điển. Biện pháp xử trí tại chỗ đơn giản và hiệu quả nhất là **cho bệnh nhân thở lại vào túi giấy (Paper bag rebreathing)** để hít lại lượng khí $\text{CO}_2$ vừa thở ra, nâng nhanh $\text{PaCO}_2$ lên bình thường. ---
+
+Câu 58: Bệnh nhân viêm tụy cấp phải thở máy xâm nhập mode VCV với thể tích lưu thông $V_t = 500\ \text{ml}$, tần số cài đặt $16\ \text{l/p}$. Do bệnh nhân bị đau bụng dữ dội và kích động, bệnh nhân tự thở kích hoạt thêm nhịp thở của máy thở đưa tần số thở thực tế lên tới $32\ \text{lần/phút}$ (thông khí phút lên tới $16\ \text{lít/phút}$). Khí máu: $\text{pH} = 7{,}58$, $\text{PaCO}_2 = 22\ \text{mmHg}$, $\text{HCO}_3^- = 20\ \text{mmol/L}$. Biện pháp can thiệp chuẩn xác nhất của bác sĩ ICU là gì?
+A. Giảm thể tích Vt của máy thở xuống 200 ml.
+B. **Kiểm soát giảm đau và an thần tối ưu (dùng Fentanyl / Morphin kết hợp Propofol)** để cắt đứt cơn kích thích đau đớn của bệnh nhân, đưa nhịp thở tự nhiên của bệnh nhân chậm lại về mức sinh lý.
+C. Chuyển sang thở oxy gọng kính.
+D. Truyền dung dịch Acid HCl để trung hòa kiềm.
+Đáp án: B
+Giải thích: Đây là Kiềm hô hấp do thông khí nhân tạo quá mức (Iatrogenic respiratory alkalosis). Bệnh nhân thở kích hoạt máy thở liên tục không phải vì máy cài sai, mà vì **ĐAU ĐỚN VÀ LO ÂU DO VIÊM TỤY CẤP**. Cơn đau kích hoạt trung tâm hô hấp qua vỏ não. Việc chỉ giảm thông số máy thở mà không điều trị đau sẽ làm bệnh nhân chống máy dữ dội hơn. Biện pháp đúng đắn là dùng thuốc giảm đau nhóm Opioid (Fentanyl) đường tĩnh mạch; khi hết đau, bệnh nhân sẽ thở êm dịu theo đúng tần số máy cài đặt và $\text{PaCO}_2$ sẽ hồi phục về $40\ \text{mmHg}$. ---
+
+Câu 59: Tại sao ở các bệnh nhân nặng nằm viện (sau mổ, sau chấn thương, viêm phổi), sự xuất hiện đột ngột của một tình trạng **Kiềm hô hấp không giải thích được ($\text{PaCO}_2 < 30\ \text{mmHg}$ kèm thở nhanh nhẹ)** lại là dấu hiệu cảnh báo lâm sàng sớm nhất báo hiệu tình trạng **Nhiễm khuẩn huyết (Sepsis)** sắp bùng phát?
+A. Do vi khuẩn tiêu thụ hết khí CO2 trong máu.
+B. Các độc tố nội độc tố (Endotoxin / LPS) của vi khuẩn và các Cytokine tiền viêm (TNF-$\alpha$, IL-1, IL-6) kích thích trực tiếp lên trung tâm điều hòa hô hấp tại hành não gây tăng thông khí phế nang ngay từ giai đoạn rất sớm, trước khi bệnh nhân xuất hiện sốt cao hay tụt huyết áp.
+C. Do phổi bị giãn phế nang tự phát.
+D. Do bệnh nhân bị thiếu máu cấp tính.
+Đáp án: B
+Giải thích: Mẹo lâm sàng cực nhạy của chuyên ngành Cấp cứu - Hồi sức: Ở bệnh nhân có nguy cơ nhiễm trùng, dấu hiệu sốc nhiễm khuẩn giai đoạn đầu (Warm shock / Sốc ấm) không phải là tụt huyết áp mà là **THỞ NHANH VÀ KIỀM HÔ HẤP**. Các độc tố vi khuẩn kích hoạt thụ thể hô hấp ở thân não rất sớm. Sau đó, khi tưới máu mô suy sụp, toan lactic mới xuất hiện đè lên tạo thành rối loạn hỗn hợp: Kiềm hô hấp phối hợp Toan chuyển hóa tăng AG. Nhận diện sớm kiềm hô hấp giúp bác sĩ cấy máu và dùng kháng sinh sớm cứu sống bệnh nhân. ---
+
+Câu 60: Trong cấp cứu ngừng tuần hoàn (Cardiac Arrest), loại rối loạn thăng bằng toan kiềm nào luôn luôn xuất hiện đồng thời và phối hợp hủy diệt cơ thể trong những phút đầu tiên?
+A. Toan chuyển hóa đơn thuần do toan lactic.
+B. **Rối loạn hỗn hợp cực kỳ nguy kịch: TOAN HÔ HẤP CẤP PHỐI HỢP VỚI TOAN CHUYỂN HÓA TĂNG ANION GAP**: Bệnh nhân ngừng thở làm $\text{CO}_2$ ứ trệ hoàn toàn trong máu (Toan hô hấp cấp); đồng thời tim ngừng đập làm ngừng trệ tuần hoàn toàn thân, tế bào thiếu máu thiếu oxy chuyển sang đường phân kỵ khí ồ ạt sinh ra lượng khổng lồ Acid Lactic (Toan chuyển hóa tăng AG); làm $\text{pH}$ máu tụt dốc không phanh xuống $< 6{,}9 – 7{,}0$.
+C. Kiềm hô hấp do hồi sức ép tim.
+D. Toan chuyển hóa tăng Chlor máu.
+Đáp án: B
+Giải thích: Ngừng tim là thảm họa toan kép (Double Acidosis): Phổi không thở được $\rightarrow \text{PaCO}_2$ vọt lên $70 - 90\ \text{mmHg}$; mô không có máu tưới $\rightarrow \text{Lactate}$ vọt lên $> 10 - 15\ \text{mmol/L}$. Cơ tim bị ngập chìm trong môi trường toan hỗn hợp làm mất hoàn toàn tính đáp ứng với Adrenaline và không thể khử rung thành công. Do đó, ưu tiên sống còn của Hồi sinh tim phổi nâng cao (ACLS) là: **ÉP TIM LIÊN TỤC CHẤT LƯỢNG CAO (khôi phục tưới máu giảm toan lactic) VÀ THÔNG KHÍ BÓP BÓNG CÓ OXY (thải CO2 giảm toan hô hấp)**.
+
+Câu 61: Bệnh nhân viêm tụy cấp hoại tử được đặt ống thông dạ dày (sonde Levin) hút ngắt quãng liên tục, mỗi ngày rút ra khoảng $2 – 3\ \text{lít}$ dịch vị xanh trong suốt 5 ngày. Xét nghiệm máu: $\text{pH} = 7{,}55$, $\text{HCO}_3^- = 40\ \text{mmol/L}$, $\text{Cl}^- = 75\ \text{mmol/L}$, $\text{K}^+ = 2{,}2\ \text{mmol/L}$. Thuốc ức chế tiết acid đường tĩnh mạch nào sau đây có thể phối hợp điều trị để ngăn chặn quá trình sinh thêm ion $\text{HCO}_3^-$ từ dạ dày?
+A. Kháng sinh Ceftriaxone.
+B. **Thuốc ức chế bơm proton (PPI như Esomeprazole / Pantoprazole 40 mg tiêm TM mỗi 12h)**, ức chế trực tiếp bơm $\text{H}^+/\text{K}^+$-ATPase ở tế bào thành dạ dày; mỗi khi bơm này bài tiết 1 ion $\text{H}^+$ vào lòng dạ dày thì nó đồng thời tạo ra 1 ion $\text{HCO}_3^-$ đưa vào máu; ức chế bơm PPI sẽ cắt đứt quá trình sinh Bicarbonate mới vào tuần hoàn.
+C. Thuốc nhuận tràng Sorbitol.
+D. Thuốc lợi tiểu Spironolactone.
+Đáp án: B
+Giải thích: Sinh lý học tế bào thành dạ dày: Bơm $\text{H}^+/\text{K}^+$-ATPase bơm $\text{H}^+$ vào dạ dày, đổi lại giải phóng $\text{HCO}_3^-$ vào máu tĩnh mạch dạ dày (hiện tượng "Thủy triều kiềm" - Alkaline tide). Khi ta hút dịch dạ dày ra ngoài, cơ thể bị mất ion $\text{H}^+$ vĩnh viễn trong khi lượng $\text{HCO}_3^-$ sinh ra vẫn tích lũy trong máu gây Kiềm chuyển hóa. Tiêm PPI liều cao khóa chết bơm proton $\rightarrow$ tế bào thành ngừng tạo acid $\rightarrow$ ngừng bơm Bicarbonate vào máu, giúp kiểm soát kiềm chuyển hóa rất hiệu quả bên cạnh việc bù $\text{NaCl}\ 0{,}9\%$ và $\text{KCl}$! ---
+
+Câu 62: Bệnh nhân nữ 75 tuổi suy tim mạn có phù, được tiêm tĩnh mạch Furosemide liều cao $80\ \text{mg}$ mỗi 8 giờ. Sau 3 ngày, bệnh nhân sụt $5\ \text{kg}$, hết phù, nhưng rơi vào trạng thái lơ mơ, mệt lả. Khí máu: $\text{pH} = 7{,}54$, $\text{HCO}_3^- = 36\ \text{mmol/L}$. Cơ chế chính gây ra hiện tượng **"Kiềm chuyển hóa thể co rút" (Contraction Alkalosis)** ở bệnh nhân này là gì?
+A. Do Furosemide kích thích trung tâm hô hấp gây thở chậm.
+B. Thuốc lợi tiểu quai làm thận đào thải ồ ạt một lượng lớn nước và muối $\text{NaCl}$ không chứa Bicarbonate ra ngoài, làm thể tích dịch ngoại bào bị co rút lại đột ngột; trong khi đó tổng lượng phân tử Bicarbonate trong cơ thể không đổi, bị "nén" lại trong một thể tích dịch ngoại bào nhỏ hẹp hơn làm nồng độ $\text{HCO}_3^-$ trong máu tăng vọt lên tương đối.
+C. Furosemide chuyển hóa thành chất kiềm trong máu.
+D. Do bệnh nhân nhịn thở kéo dài.
+Đáp án: B
+Giải thích: Định nghĩa nồng độ: $\text{Nồng độ} = \text{Lượng chất tan} / \text{Thể tích dung môi}$. Khi dùng lợi tiểu quai quá mạnh, nước tiểu thải ra chứa nồng độ $\text{NaCl}$ cao nhưng nồng độ $\text{HCO}_3^-$ bằng 0 (nước tiểu không có kiềm). Thể tích dịch ngoại bào bị teo rút nhanh chóng từ $15\ \text{lít}$ xuống $10\ \text{lít}$, nhưng toàn bộ lượng Bicarbonate cũ vẫn bị nhốt lại trong lòng mạch $\rightarrow$ nồng độ $\text{HCO}_3^-$ trên mỗi lít huyết tương tự động tăng vọt lên! Kết hợp với việc giảm thể tích kích thích Aldosterone tăng tiết tống thêm ion $\text{H}^+$ làm bệnh nhân bị kiềm chuyển hóa sâu sắc. ---
+
+Câu 63: Một nạn nhân tai nạn giao thông gãy trật đốt sống cổ $C_4 – C_5$ dập tủy hoàn toàn. Sau tai nạn 30 phút, bệnh nhân thở yếu ớt hoàn toàn bằng cơ hoành, lồng ngực không di động, tím tái. Tại sao tổn thương tủy sống từ mức **$C_3 – C_5$ trở lên** lại gây liệt hô hấp hoàn toàn và toan hô hấp cấp đe dọa ngừng thở tử vong trong tích tắc?
+A. Vì tủy cổ chi phối trực tiếp cơ trơn khí phế quản.
+B. Vì trung tâm vận động chi phối **Cơ hoành (Dây thần kinh hoành - Phrenic nerve)** xuất phát từ các rễ thần kinh cổ **$C_3, C_4, C_5$** ("$C_3, C_4, C_5$ keeps the diaphragm alive"); tổn thương tại hoặc trên tầng này làm tê liệt hoàn toàn cả cơ hoành lẫn các cơ liên sườn, bệnh nhân mất hoàn toàn khả năng tự thở.
+C. Do tủy cổ điều hòa áp lực thẩm thấu máu.
+D. Do tràn khí màng phổi hai bên.
+Đáp án: B
+Giải thích: Câu thần chú giải phẫu học thần kinh kinh điển: **"$C_3, C_4, C_5$ keeps the diaphragm alive"** (Rễ C3-C5 nuôi dưỡng cơ hoành sống sót). Cơ hoành đóng góp tới $75\%$ công thông khí khi hít vào. Tổn thương tủy cổ cao từ C5 trở lên làm cắt đứt đường dẫn truyền vận động từ thân não xuống dây thần kinh hoành $\rightarrow$ liệt cơ hoành tức thì. Bệnh nhân chỉ còn thoi thóp nhờ vài cơ hô hấp phụ ở cổ (cơ ức đòn chũm) và nhanh chóng rơi vào Toan hô hấp mất bù ngừng thở. Bắt buộc phải đặt nội khí quản thở máy xâm nhập khẩn cấp ngay tại hiện trường! ---
+
+Câu 64: Bệnh nhân nam sau phẫu thuật cắt khối tá tụy (phẫu thuật Whipple) có ống dẫn lưu dịch tụy ra ngoài với lưu lượng $1.000\ \text{ml/ngày}$. Sau 3 ngày, bệnh nhân xuất hiện thở nhanh sâu Kussmaul. Khí máu động mạch: $\text{pH} = 7{,}22$, $\text{HCO}_3^- = 12\ \text{mmol/L}$, $\text{Na}^+ = 138\ \text{mmol/L}$, $\text{Cl}^- = 116\ \text{mmol/L}$, $\text{AG} = 10\ \text{mmol/L}$. Tại sao mất dịch tụy ra ngoài lại gây ra Toan chuyển hóa có Khoảng trống Anion bình thường (NAGMA / Tăng Chlor máu) cực kỳ nặng nề?
+A. Do dịch tụy chứa độc tố làm hoại tử thận.
+B. Dịch tụy và dịch mật là dịch tiêu hóa kiềm nhất trong cơ thể, chứa nồng độ ion $\text{HCO}_3^-$ cực kỳ đậm đặc (lên tới $100 – 140\ \text{mmol/L}$, cao gấp 5 lần nồng độ Bicarbonate trong huyết tương); mất $1$ lít dịch tụy tương đương mất trực tiếp hơn $100\ \text{mmol}$ kiềm nguyên chất ra khỏi máu; để bù trừ điện tích âm, thận phải giữ lại ion $\text{Cl}^-$ gây toan máu tăng Chlor.
+C. Do dịch tụy làm tiêu hủy albumin máu.
+D. Do tụy ngừng sản xuất Insulin.
+Đáp án: B
+Giải thích: Tụy ngoại tiết sản xuất dịch tụy giàu Bicarbonate để trung hòa acid dạ dày khi thức ăn xuống tá tràng. Khi bị rò dịch tụy, rò dịch mật hoặc dẫn lưu hồi tràng ra da lưu lượng lớn, cơ thể bị "chảy máu kiềm" ồ ạt. Mỗi lít dịch mất đi kéo theo một lượng kiềm khổng lồ $\rightarrow \text{HCO}_3^-$ máu tụt dốc thảm hại. Thận bình thường sẽ tăng tái hấp thu $\text{Cl}^-$ để bù trừ trung hòa điện tích $\rightarrow$ tạo nên Toan chuyển hóa tăng Chlor máu (NAGMA). Điều trị bắt buộc là **bù thể tích bằng dung dịch kiềm (Natri Bicarbonate đẳng trương 1,4%) tương đương với lượng dịch tụy mất qua dẫn lưu**! ---
+
+Câu 65: Bệnh nhân nam 50 tuổi béo phì nặng ($\text{BMI} = 42\ \text{kg/m}^2$), buồn ngủ ban ngày gà gật, ngáy to và có những cơn ngừng thở khi ngủ được người nhà quan sát. Khí máu động mạch ban ngày khi bệnh nhân đang thức tỉnh hoàn toàn: $\text{pH} = 7{,}36$, $\text{PaCO}_2 = 56\ \text{mmHg}$, $\text{HCO}_3^- = 32\ \text{mmol/L}$, $\text{PaO}_2 = 62\ \text{mmHg}$. Chẩn đoán xác định bệnh lý này là gì?
+A. Bệnh phổi tắc nghẽn mạn tính COPD do hút thuốc.
+B. **Hội chứng Béo phì giảm thông khí (Obesity Hypoventilation Syndrome - OHS / Hội chứng Pickwick)**: Khẳng định khi BMI $\ge 30\ \text{kg/m}^2$ kèm tình trạng ứ đọng $\text{CO}_2$ máu ban ngày ($\text{PaCO}_2 > 45\ \text{mmHg}$) mà không do các bệnh lý phổi hay thần kinh cơ khác giải thích.
+C. Ngưng thở tắc nghẽn khi ngủ đơn thuần (OSA).
+D. Suy giáp trạng phù niêm.
+Đáp án: B
+Giải thích: Phân biệt kinh điển giữa OSA và OHS: - **Ngưng thở tắc nghẽn khi ngủ (OSA) đơn thuần:** Chỉ bị xẹp đường thở và tụt oxy từng cơn trong lúc ngủ; khi thức dậy ban ngày, thông khí phế nang phục hồi hoàn toàn $\rightarrow \text{PaCO}_2$ ban ngày bình thường ($< 45\ \text{mmHg}$). - **Hội chứng Pickwick (OHS):** Khối mỡ thành ngực và ổ bụng quá khổng lồ đè nén lồng ngực làm tăng công hô hấp dữ dội, kết hợp với trung tâm hô hấp bị kháng Leptin $\rightarrow$ bệnh nhân bị **giảm thông khí phế nang liên tục $24/24\text{h}$ kể cả khi thức tỉnh ban ngày** ($\text{PaCO}_2 > 45\ \text{mmHg}$ liên tục kèm thận bù trừ tăng Bicarbonate). Điều trị nền tảng bắt buộc là thở máy áp lực dương không xâm nhập (CPAP hoặc BiPAP) khi ngủ kết hợp giảm cân. ---
+
+Câu 66: Tại sao ở bệnh nhân Xơ gan giai đoạn mất bù cổ trướng nặng, xét nghiệm khí máu động mạch rất thường xuyên ghi nhận tình trạng **Kiềm hô hấp mạn tính ($\text{PaCO}_2 < 30 – 35\ \text{mmHg}$)** ngay cả khi bệnh nhân không hề có khó thở hay bệnh lý phổi?
+A. Do gan xơ không chuyển hóa được khí CO2.
+B. Suy giảm chức năng gan làm giảm thoái giáng và tích tụ nồng độ cao các hormone trong máu, đặc biệt là **Progesterone** và các chất chuyển hóa thần kinh; Progesterone là chất kích thích trực tiếp trung tâm hô hấp ở hành não làm tăng thông khí phế nang trường diễn; kết hợp với cổ trướng chèn ép cơ hoành kích thích các thụ thể áp lực ở phổi gây thở nhanh.
+C. Do gan xơ tăng tiêu thụ oxy.
+D. Do bệnh nhân bị thiếu máu mạn tính.
+Đáp án: B
+Giải thích: Đây là đặc điểm sinh lý học thú vị ở bệnh nhân xơ gan: Progesterone kích hoạt trung tâm hô hấp tại thân não (giống hệt hiện tượng thở nhanh gây kiềm hô hấp sinh lý ở phụ nữ mang thai 3 tháng cuối). Ngoài ra, tình trạng tăng áp cửa và shunt mạch máu phổi (Hội chứng gan phổi) cũng kích thích phản xạ thở nhanh. Hậu quả là bệnh nhân xơ gan hầu như luôn có một nền kiềm hô hấp mạn tính nhẹ. Nếu bác sĩ kê thêm thuốc lợi tiểu quai/thiazide, bệnh nhân sẽ bị "chồng" thêm Kiềm chuyển hóa tạo nên tình trạng nhiễm kiềm hỗn hợp cực kỳ nguy hiểm làm khởi phát **Hôn mê gan (Bệnh não gan)**! ---
+
+Câu 67: Tại sao ở bệnh nhân xơ gan mất bù, tình trạng Nhiễm kiềm máu (do dùng thuốc lợi tiểu hoặc nôn mửa) lại là yếu tố khởi phát hàng đầu đẩy bệnh nhân vào cơn **Hôn mê gan (Hepatic Encephalopathy)** kịch phát?
+A. Kiềm máu làm tăng phân hủy tế bào gan giải phóng men gan.
+B. Khí Amoniac trong cơ thể tồn tại dưới 2 dạng cân bằng: Dạng ion không tan trong lipid ($\text{NH}_4^+$) và Dạng khí hòa tan cao trong màng lipid ($\text{NH}_3$); khi máu bị kiềm hóa (thiếu ion $\text{H}^+$), phản ứng cân bằng dịch chuyển sang dạng $\text{NH}_3$ tự do:
+C. Kiềm máu gây tắc mạch cửa gan.
+D. Kiềm máu làm giảm đường huyết não.
+Đáp án: B
+Giải thích: Đây là cơ chế hóa sinh cực kỳ tinh tế giải thích tại sao bác sĩ gan mật "sợ nhiễm kiềm hơn sợ nhiễm toan": - Ở $\text{pH}$ bình thường, $98\%$ amoniac tồn tại dưới dạng ion $\text{NH}_4^+$ (không thấm qua màng lipid của hàng rào máu não). - Khi $\text{pH}$ máu tăng lên kiềm (ví dụ $\text{pH} = 7{,}55$), cân bằng hóa học bị đẩy mạnh tạo ra dạng khí $\text{NH}_3$ tự do $\rightarrow \text{NH}_3$ xuyên thủng hàng rào máu não ngấm thẳng vào nhu mô não $\rightarrow$ tế bào sao chuyển hóa $\text{NH}_3$ thành glutamine gây phù tế bào não, kích hoạt cơn co giật và hôn mê gan tử vong. Do đó, **ngăn ngừa và điều chỉnh kiềm máu là mục tiêu sống còn trong điều trị bệnh não gan**! ---
+
+Câu 68: Một thiếu niên 16 tuổi có thói quen "hít keo dán ống nước" (chứa dung môi hữu cơ **Toluene**) được đưa vào cấp cứu vì yếu liệt tứ chi và lơ mơ. Khí máu động mạch: $\text{pH} = 7{,}15$, $\text{HCO}_3^- = 10\ \text{mmol/L}$, $\text{Cl}^- = 115\ \text{mmol/L}$, $\text{AG} = 12\ \text{mmol/L}$ (Toan chuyển hóa tăng Chlor máu), $\text{K}^+ = 1{,}8\ \text{mmol/L}$ (Hạ Kali máu cực nặng), $\text{pH}\ \text{niệu} = 6{,}5$. Cơ chế độc chất của Toluene gây tổn thương thận như thế nào?
+A. Toluene gây sỏi niệu quản hai bên.
+B. Toluene được chuyển hóa thành **Acid Hippuric**; chất này gây độc trực tiếp lên ống lượn xa làm tổn thương bơm bài tiết ion $\text{H}^+$, gây ra **Toan hóa ống thận Type 1 (Distal RTA) mắc phải** kèm theo hạ Kali máu nặng nề; đồng thời ion Hippurate được đào thải qua nước tiểu kéo theo $\text{Na}^+$ và $\text{K}^+$ làm mất điện giải qua thận.
+C. Toluene phá hủy tuyến thượng thận.
+D. Toluene gây suy hô hấp do phù phổi.
+Đáp án: B
+Giải thích: Hít keo dán (Toluene sniffing) là một nguyên nhân gây Toan chuyển hóa thường gặp ở thanh thiếu niên nghiện chất: Toluene chuyển hóa thành Benzoic acid và Hippuric acid. Toluene là chất độc đặc hiệu với tế bào ống thận xa, gây Toan hóa ống thận Type 1 kinh điển: Máu toan nhưng nước tiểu kiềm ($\text{pH} > 5{,}5$), mất Kali qua nước tiểu làm liệt mềm tứ chi do hạ Kali máu, và toan máu tăng Chlor. Điều trị bắt buộc là truyền bù Kali và kiềm hóa bằng Bicarbonate. ---
+
+Câu 69: Bệnh nhân viêm nội tâm mạc nhiễm khuẩn được truyền tĩnh mạch liều rất cao **Natri Ampicillin hoặc Carbenicillin (20 – 30 gam/ngày)**. Ngày thứ 4, bệnh nhân xuất hiện Kiềm chuyển hóa và Hạ Kali máu ($\text{K}^+ = 2{,}6\ \text{mmol/L}$). Cơ chế nào giải thích việc dùng kháng sinh nhóm Penicillin liều cao lại gây kiềm hóa máu và mất Kali?
+A. Kháng sinh gây tổn thương trực tiếp cầu thận.
+B. Các phân tử thuốc kháng sinh Penicillin phân ly trong máu tạo thành các **Anion không thể tái hấp thu (Non-reabsorbable anions)** mang điện tích âm rất lớn tại ống lượn xa; để trung hòa điện thế âm này trong lòng ống thận, tế bào ống lượn xa bắt buộc phải tăng cường bơm các cation $\text{K}^+$ và $\text{H}^+$ ra nước tiểu, dẫn đến mất đồng thời cả ion $\text{H}^+$ (gây Kiềm chuyển hóa) và ion $\text{K}^+$ (gây Hạ Kali máu).
+C. Kháng sinh tiêu diệt vi khuẩn đường ruột làm giảm hấp thu acid.
+D. Thuốc kích thích tuyến yên tiết ACTH.
+Đáp án: B
+Giải thích: Hiện tượng "Anion không tái hấp thu" (Non-reabsorbable anion effect): Mỗi phân tử Carbenicillin hoặc Ampicillin mang điện tích âm mạnh và lọc qua cầu thận nhưng không được ống thận tái hấp thu. Sự hiện diện của lượng lớn điện tích âm trong lòng ống góp tạo ra một lực hút tĩnh điện cực mạnh kéo các ion dương ($\text{H}^+$ và $\text{K}^+$) từ tế bào biểu mô thoát vào nước tiểu $\rightarrow$ gây ra hội chứng mất Kali và Kiềm chuyển hóa do thuốc. Bác sĩ cần nhận diện cơ chế để bù đủ Kali clorid cho bệnh nhân. ---
+
+Câu 70: Dấu hiệu biến đổi thăng bằng toan kiềm điển hình và phổ biến nhất trên khí máu động mạch của một bệnh nhân bị **Thuyên tắc động mạch phổi cấp (Pulmonary Embolism)** là gì?
+A. Toan hô hấp cấp do tắc mạch phổi làm ứ CO2.
+B. **Kiềm hô hấp cấp ($\text{pH} > 7{,}45$, $\text{PaCO}_2 < 35\ \text{mmHg}$) kết hợp với Thiếu oxy máu ($\text{PaO}_2$ giảm) và Độ chênh $\text{P(A-a)O}_2$ tăng cao rõ rệt**; do cục huyết khối làm tắc mạch phổi kích thích các thụ thể nhận cảm cơ học ở nhu mô phổi (J-receptors) gây phản xạ thở nhanh sâu dữ dội thổi bay khí $\text{CO}_2$.
+C. Toan chuyển hóa tăng Anion Gap đơn thuần.
+D. Khí máu hoàn toàn bình thường trong mọi trường hợp thuyên tắc phổi.
+Đáp án: B
+Giải thích: Mẹo phòng thi kinh điển: Rất nhiều người nghĩ tắc mạch phổi sẽ gây ứ $\text{CO}_2$ (Toan hô hấp). Sự thật hoàn toàn ngược lại: Cục máu đông gây thiếu oxy máu và kích hoạt thụ thể J-receptors ở phế nang $\rightarrow$ kích hoạt phản xạ thở nhanh gấp gáp (Hyperventilation) $\rightarrow \text{CO}_2$ khuếch tán qua các vùng phổi lành rất nhanh nên bị đào thải ồ ạt $\rightarrow$ tạo nên **Kiềm hô hấp cấp tính kèm tăng độ chênh $\text{P(A-a)O}_2$**. Chỉ khi nào thuyên tắc phổi diện rộng gây sốc tim tụt huyết áp và kiệt cơ hô hấp thì Toan chuyển hóa (Lactic) và Toan hô hấp mới xuất hiện ở giai đoạn cuối! ---
+
+Câu 71: Bệnh nhân nam 60 tuổi tiền sử phẫu thuật cắt toàn bộ bàng quang do ung thư và được tạo hình dẫn lưu niệu quản vào đại tràng Sigma (Ureterosigmoidostomy) 5 năm trước. Bệnh nhân vào viện vì mệt mỏi, yếu cơ, khí máu ghi nhận tình trạng **Toan chuyển hóa tăng Chlor máu (NAGMA) nặng nề** ($\text{HCO}_3^- = 11\ \text{mmol/L}$, $\text{Cl}^- = 120\ \text{mmol/L}$) kèm theo Hạ Kali máu. Cơ chế gây toan máu ở bệnh nhân có dẫn lưu nước tiểu vào ruột là gì?
+A. Do vi khuẩn đại tràng sinh ra acid hữu cơ ngấm vào máu.
+B. Nước tiểu chứa nồng độ $\text{Cl}^-$ và $\text{NH}_4^+$ cao bị lưu giữ lâu trong lòng đại tràng Sigma; niêm mạc đại tràng có các kênh trao đổi ion tự nhiên sẽ **tái hấp thu ion $\text{Cl}^-$ từ nước tiểu vào máu và bài tiết ngược lại ion $\text{HCO}_3^-$ từ máu vào lòng ruột** (qua kênh trao đổi $\text{Cl}^-/\text{HCO}_3^-$), làm cơ thể bị mất kiềm Bicarbonate liên tục qua phân.
+C. Bệnh nhân bị suy thận cấp sau mổ.
+D. Đại tràng bị hoại tử do nước tiểu.
+Đáp án: B
+Giải thích: Niêm mạc đại tràng không được thiết kế để chứa nước tiểu. Khi nước tiểu lưu lại trong đại tràng Sigma, kênh trao đổi $\text{Cl}^-/\text{HCO}_3^-$ của biểu mô ruột hoạt động liên tục: hút ion $\text{Cl}^-$ của nước tiểu trả về máu và tống ion $\text{HCO}_3^-$ của máu ra phân. Bệnh nhân càng nhịn đi ngoài thì thời gian tiếp xúc càng lâu và toan máu càng nặng nề! Do biến chứng toan chuyển hóa tăng Chlor và hạ Kali máu quá nặng nề này, ngày nay phẫu thuật dẫn lưu niệu quản vào đại tràng sigma hầu như đã bị khai tử và thay thế bằng kỹ thuật tạo hình bàng quang bằng một đoạn hồi tràng biệt lập (Ileal conduit). ---
+
+Câu 72: Một người phụ nữ 50 tuổi bị ợ chua liên tục, tự ý nhai cả hộp thuốc kháng acid **Tums (mỗi viên chứa 1.000 mg Calci Carbonat)** mỗi ngày suốt 2 tuần (tổng cộng $> 10$ viên/ngày). Khí máu có Kiềm chuyển hóa: $\text{pH} = 7{,}52$, $\text{HCO}_3^- = 36\ \text{mmol/L}$, $\text{Calci toàn phần} = 13\ \text{mg/dL}$, $\text{Creatinine}$ tăng từ $70$ lên $160\ \mu\text{mol/L}$. Cơ chế duy trì tình trạng kiềm chuyển hóa trong Hội chứng Calci - Kiềm (Milk-Alkali Syndrome) là gì?
+A. Calci ức chế bài tiết acid của dạ dày vĩnh viễn.
+B. Lượng gốc kiềm Carbonat ($\text{CO}_3^{2-}$) nạp vào quá lớn vượt quá khả năng bài tiết của thận; đồng thời tình trạng tăng Calci máu gây co mạch thận làm giảm mức lọc cầu thận và gây đái tháo nhạt do thận làm mất nước; giảm thể tích và suy thận làm thận không thể đào thải Bicarbonate ra ngoài, "khóa chặt" cơ thể trong tình trạng kiềm máu nặng.
+C. Thuốc làm teo biểu mô ống thận.
+D. Thuốc kích thích tuyến cận giáp tăng tiết PTH.
+Đáp án: B
+Giải thích: Bình thường thận khỏe mạnh có khả năng đào thải một lượng kiềm khổng lồ qua nước tiểu. Kiềm chuyển hóa chỉ có thể duy trì khi có **yếu tố làm suy giảm khả năng bài tiết kiềm của thận**. Trong Hội chứng Milk-Alkali: Tăng Calci máu làm co tiểu động mạch thận $\rightarrow$ giảm GFR; đồng thời Calci khóa kênh Aquaporin ở ống góp $\rightarrow$ đái nhiều mất nước $\rightarrow$ kích hoạt Aldosterone. Thận vừa suy, vừa thiếu dịch, vừa thừa kiềm $\rightarrow$ không thể thải được Bicarbonate $\rightarrow$ kiềm chuyển hóa ngày càng trầm trọng. Điều trị đơn giản: **Ngừng ngay Calci Carbonat và truyền dung dịch $\text{NaCl}\ 0{,}9\%$ để bù nước và hạ Calci**, bệnh nhân sẽ tự hồi phục hoàn toàn! ---
+
+Câu 73: Bệnh nhân suy thận mạn giai đoạn cuối lọc máu chu kỳ 3 lần/tuần, bỏ 2 buổi lọc máu liên tiếp để đi du lịch. Vào viện trong tình trạng khó thở dữ dội, phù phổi, $\text{pH} = 7{,}10$, $\text{HCO}_3^- = 8\ \text{mmol/L}$, $\text{AG} = 28\ \text{mmol/L}$, $\text{K}^+ = 7{,}2\ \text{mmol/L}$. Nguồn gốc của các acid lạ làm tăng khoảng trống Anion ở bệnh nhân suy thận vô niệu là gì?
+A. Do tế bào thận hoại tử giải phóng acid.
+B. Do sự ứ đọng tích tụ liên tục của các **Acid vô cơ không bay hơi** sinh ra từ quá trình chuyển hóa đạm nội sinh hàng ngày (chủ yếu là **Acid Sulfuric $\text{H}_2\text{SO}_4$** từ các acid amin chứa lưu huỳnh như Methionine, Cysteine; và **Acid Phosphoric $\text{H}_3\text{PO}_4$** từ phospholipid), thận vô niệu không thể đào thải các anion Sulfate và Phosphate này ra ngoài.
+C. Do gan ngừng chuyển hóa mỡ.
+D. Do bệnh nhân thở chậm tích tụ CO2.
+Đáp án: B
+Giải thích: Mỗi ngày cơ thể người bình thường thoái hóa protein tạo ra khoảng $1\ \text{mmol/kg}$ acid không bay hơi ($\text{H}_2\text{SO}_4, \text{H}_3\text{PO}_4$). Ở người khỏe mạnh, thận bài tiết toàn bộ lượng acid này dưới dạng $\text{NH}_4^+$ và acid chuẩn độ. Ở bệnh nhân suy thận vô niệu, các anion Sulfat, Phosphat, Urat không được lọc qua cầu thận $\rightarrow$ ứ đọng lại trong máu làm tăng khoảng trống Anion ($\text{AG}$ tăng), đồng thời tiêu hao toàn bộ lượng kiềm dự trữ $\text{HCO}_3^-$ gây toan chuyển hóa đe dọa tính mạng. Chỉ định duy nhất giải quyết triệt để là **Lọc máu cấp cứu (Hemodialysis)**! ---
+
+Câu 74: Tại sao ở bệnh nhân Bệnh thận mạn tính (CKD) có tình trạng Toan chuyển hóa mạn tính kéo dài ($\text{HCO}_3^- < 20\ \text{mmol/L}$), bệnh nhân lại bị mất xương nhanh chóng, loãng xương nặng và teo cơ tiến triển?
+A. Do toan máu phá hủy trực tiếp tủy xương.
+B. Khi máu bị toan mạn tính, hệ đệm của xương phải tham gia trung hòa acid: Muối Calci kiềm ($\text{CaCO}_3$ và $\text{Ca}_3(\text{PO}_4)_2$) từ bè xương bị hòa tan liên tục vào máu để cung cấp gốc Carbonat đệm cho ion $\text{H}^+$, đồng thời toan máu kích thích trực tiếp tế bào hủy xương (Osteoclast) và kích hoạt con đường phân giải protein cơ vân ubiquitin-proteasome; dẫn đến mất khoáng xương và teo cơ suy kiệt.
+C. Do toan máu làm tăng đào thải Calci qua phân.
+D. Do toan máu ức chế hấp thu Vitamin D tại da.
+Đáp án: B
+Giải thích: Xương là kho đệm Bicarbonate và Phosphat khổng lồ của cơ thể (chứa $80\%$ lượng Carbonate toàn thân). Khi thận suy không đệm nổi acid, xương buộc phải "hy sinh" cấu trúc của mình: toan hóa máu kích thích hủy cốt bào giải phóng Calci Carbonat ra máu để cứu vãn pH $\rightarrow$ xương bị rỗng xốp xơ hóa (Loạn dưỡng xương do thận). Đồng thời môi trường toan kích thích enzym phân hủy protein cơ vân làm bệnh nhân teo cơ kiệt quệ. Đây là lý do vì sao KDIGO khuyến cáo bắt buộc phải **uống Natri Bicarbonate duy trì nồng độ $\text{HCO}_3^- \ge 22\ \text{mmol/L}$** ở mọi bệnh nhân bệnh thận mạn! ---
+
+Câu 75: Để tính độ chênh phân áp oxy phế nang - động mạch ($\text{P(A-a)O}_2$), bác sĩ bắt buộc phải tính áp lực oxy trong phế nang ($\text{P}_{\text{A}}\text{O}_2$) theo **Phương trình khí phế nang (Alveolar Gas Equation)**: $$\text{P}_{\text{A}}\text{O}_2 = \text{FiO}_2 \times (\text{P}_{\text{khí quyển}} - \text{P}_{\text{hơi nước}}) - \frac{\text{PaCO}_2}{\text{R}}$$ Ở một người bình thường thở khí phòng ($\text{FiO}_2 = 0{,}21$) tại mực nước biển ($\text{P}_{\text{khí quyển}} = 760\ \text{mmHg}$, áp suất hơi nước bão hòa ở $37^\circ\text{C}$ là $\text{P}_{\text{hơi nước}} = 47\ \text{mmHg}$), với thương số hô hấp sinh lý $\text{R} = 0{,}8$ và $\text{PaCO}_2 = 40\ \text{mmHg}$, giá trị $\text{P}_{\text{A}}\text{O}_2$ tính ra là bao nhiêu?
+A. $50\ \text{mmHg}$.
+B. Khoảng **$100\ \text{mmHg}$** ($0{,}21 \times 713 - 40 / 0{,}8 = 150 - 50 = 100\ \text{mmHg}$).
+C. $150\ \text{mmHg}$.
+D. $200\ \text{mmHg}$.
+Đáp án: B
+Giải thích: Công thức tính nhẩm kinh điển phòng thi: Tại mực nước biển, khi thở khí trời: $\text{P}_{\text{hít vào}}\text{O}_2 = 0{,}21 \times (760 - 47) = 0{,}21 \times 713 \approx 150\ \text{mmHg}$. Khí phế nang: $\text{P}_{\text{A}}\text{O}_2 = 150 - (\text{PaCO}_2 / 0{,}8) = 150 - (1{,}25 \times \text{PaCO}_2)$. Với $\text{PaCO}_2 = 40\ \text{mmHg} \rightarrow \text{P}_{\text{A}}\text{O}_2 = 150 - 50 = \mathbf{100\ \text{mmHg}}$. Nếu người này có $\text{PaO}_2$ động mạch đo được là $95\ \text{mmHg} \rightarrow \text{P(A-a)O}_2 = 100 - 95 = 5\ \text{mmHg}$ (hoàn toàn bình thường $< 15 - 20\ \text{mmHg}$). ---
+
+Câu 76: O2 thay đổi theo Tuổi) Độ chênh phân áp oxy phế nang - động mạch ($\text{P(A-a)O}_2$) phản ánh tính toàn vẹn của màng phế nang mao mạch. Ở một người khỏe mạnh bình thường, giá trị bình thường của $\text{P(A-a)O}_2$ có cố định suốt đời không và công thức ước tính theo tuổi là gì?
+A. Cố định luôn luôn $< 5\ \text{mmHg}$ ở mọi lứa tuổi.
+B. Giá trị $\text{P(A-a)O}_2$ tăng dần theo tuổi thọ do sự xơ hóa sinh lý của màng phế nang mao mạch; công thức ước tính giới hạn trên bình thường theo tuổi khi thở khí phòng là: **$\text{P(A-a)O}_2\ (\text{bình thường}) = (\text{Tuổi} / 4) + 4$** (hoặc $\text{Tuổi} / 3$); ví dụ ở người 80 tuổi, $\text{P(A-a)O}_2$ có thể lên tới $24\ \text{mmHg}$ mà vẫn là sinh lý bình thường.
+C. Giảm dần theo tuổi, người già có P(A-a)O2 bằng 0.
+D. Chỉ thay đổi ở phụ nữ mang thai.
+Đáp án: B
+Giải thích: Tuổi tác làm giảm độ đàn hồi của nhu mô phổi và làm dày nhẹ khoảng kẽ mạch máu $\rightarrow$ bất tương hợp V/Q sinh lý tăng nhẹ theo năm tháng. Công thức bỏ túi: $$\text{P(A-a)O}_{2\ \text{tối đa}} = \frac{\text{Tuổi}}{4} + 4.$$ - Người 20 tuổi: $(20/4) + 4 = 9\ \text{mmHg}$. - Cụ già 80 tuổi: $(80/4) + 4 = 24\ \text{mmHg}$. Nếu một cụ già 80 tuổi có $\text{P(A-a)O}_2 = 20\ \text{mmHg}$, đó là biến đổi sinh lý theo tuổi chứ không phải là bệnh lý màng phế nang mao mạch! ---
+
+Câu 77: O2 và Đáp ứng với Oxy) Một bệnh nhân bị thiếu oxy máu nặng với $\text{PaO}_2 = 45\ \text{mmHg}$ khi thở khí phòng. Khi bác sĩ cho bệnh nhân thở oxy $100\%$ ($\text{FiO}_2 = 1{,}0$), nồng độ $\text{PaO}_2$ vẫn trơ lì không tăng (chỉ đạt $52\ \text{mmHg}$) và $\text{P(A-a)O}_2$ tăng rất cao ($> 300\ \text{mmHg}$). Dấu hiệu này khẳng định chắc chắn cơ chế bệnh sinh là gì?
+A. Giảm thông khí phế nang do ngộ độc thuốc phiện.
+B. Giảm áp suất oxy khí thở do lên vùng núi cao.
+C. Bất tương hợp thông khí - tưới máu (V/Q mismatch) trong hen phế quản.
+D. **Shunt nội phổi thực sự (Right-to-Left Shunt)** do phế nang bị đông đặc hoặc xẹp hoàn toàn (như trong ARDS nặng hoặc Viêm phổi thùy diện rộng).
+Đáp án: D
+Giải thích: Bảng phân loại 5 cơ chế thiếu oxy máu kinh điển: 1. **Áp suất oxy thấp (lên cao):** $\text{P(A-a)O}_2$ BÌNH THƯỜNG, đáp ứng tốt với oxy. 2. **Giảm thông khí (suy bơm):** $\text{P(A-a)O}_2$ BÌNH THƯỜNG, đáp ứng tốt với oxy. 3. **Rối loạn khuếch tán:** $\text{P(A-a)O}_2$ TĂNG, đáp ứng tốt với oxy. 4. **Bất tương hợp V/Q:** $\text{P(A-a)O}_2$ TĂNG, **ĐÁP ỨNG RẤT TỐT VỚI OXY** (chỉ cần thở oxy gọng kính là $\text{PaO}_2$ vọt lên). 5. **SHUNT (Shunt nội phổi / ngoài phổi):** $\text{P(A-a)O}_2$ TĂNG RẤT CAO, **HOÀN TOÀN KHÔNG ĐÁP ỨNG VỚI OXY THUẦN TÚY (TRƠ VỚI FiO2 100%)**! Đây là tiêu chuẩn vàng chẩn đoán phân biệt Shunt! ---
+
+Câu 78: Bệnh nhân nữ 45 tuổi có những đợt tiêu chảy toàn nước ồ ạt như xối xả ($4 – 5\ \text{lít/ngày}$ phân nước như trà loãng) kéo dài nhiều tháng, không đáp ứng với thuốc cầm tiêu chảy. Xét nghiệm máu: **Kiềm chuyển hóa nặng, Hạ Kali máu nghiêm trọng ($\text{K}^+ = 1{,}8\ \text{mmol/L}$) và Giảm tiết acid dạ dày (Achlorhydria)**. Chụp CT bụng phát hiện khối u ở đuôi tụy. Hội chứng nội tiết u tụy này được gọi là gì?
+A. Hội chứng Zollinger - Ellison (Gastrinoma).
+B. **Hội chứng WDHA (Watery Diarrhea, Hypokalemia, Achlorhydria)** hay Hội chứng Verner - Morrison do **Khối u tế bào đảo tụy tiết VIP (VIPoma - Vasoactive Intestinal Peptide)**.
+C. U tiết Glucagon (Glucagonoma).
+D. U tiết Somatostatin (Somatostatinoma).
+Đáp án: B
+Giải thích: Khối u tiết peptide ruột hoạt mạch VIP (VIPoma) gây **Hội chứng WDHA kinh điển (Tả tụy - Pancreatic cholera)**: (1) **Watery diarrhea:** Tiêu chảy toàn nước ồ ạt; (2) **Hypokalemia:** Mất lượng lớn ion Kali qua phân; (3) **Achlorhydria:** VIP ức chế hoàn toàn dạ dày bài tiết acid $\text{HCl}$. Vì dạ dày bị mất acid dịch vị và hạ Kali máu nặng kích thích thận giữ Bicarbonate $\rightarrow$ bệnh nhân rơi vào Kiềm chuyển hóa (rất đặc biệt vì hầu hết tiêu chảy khác đều gây toan chuyển hóa). Thuốc điều trị nội khoa làm giảm triệu chứng thần kỳ là chất tương tự somatostatin **Octreotide**! ---
+
+Câu 79: Bệnh nhân nam 25 tuổi tiền sử hen phế quản vào viện vì cơn khó thở dữ dội, tím môi, nói từng từ ngắt quãng, nghe phổi thấy tiếng ran rít ran ngáy giảm dần (phổi câm - Silent chest). Khí máu động mạch: $\text{pH} = 7{,}35$, $\text{PaCO}_2 = 42\ \text{mmHg}$, $\text{PaO}_2 = 55\ \text{mmHg}$. Bác sĩ nội trú nhận định: "PaCO2 = 42 mmHg là hoàn toàn bình thường, chứng tỏ cơn hen chưa đến mức nguy hiểm". Nhận định này **ĐÚNG hay SAI** và nguy cơ thực sự là gì?
+A. Đúng vì hen nguy kịch thì PaCO2 phải trên 60 mmHg.
+B. **SAI LẦM CHẾT NGƯỜI; đây là dấu hiệu của Cơn Hen phế quản ác tính đe dọa ngừng thở trong tích tắc**: Bình thường trong cơn hen cấp, bệnh nhân thở nhanh co kéo dữ dội nên $\text{PaCO}_2$ bắt buộc phải tụt dốc rất thấp ($< 30\ \text{mmHg}$ do kiềm hô hấp); việc $\text{PaCO}_2$ tăng trở lại mức "bình thường" ($42\ \text{mmHg}$) và $\text{pH}$ bắt đầu chuyển toan là bằng chứng cơ hô hấp đã bị kiệt sức hoàn toàn, bệnh nhân sắp ngừng thở và cần đặt ống nội khí quản thở máy cấp cứu ngay!
+C. Đúng vì phổi câm chứng tỏ phế quản đã hết co thắt.
+D. Bệnh nhân chỉ cần xịt thêm 1 nhát Salbutamol.
+Đáp án: B
+Giải thích: Đây là cạm bẫy "con số bình thường giả tạo nguy hiểm nhất trong cấp cứu hô hấp": - Giai đoạn 1 cơn hen (Nhẹ - Vừa): Thở nhanh $\rightarrow$ Kiềm hô hấp ($\text{PaCO}_2 < 35\ \text{mmHg}, \text{pH} > 7{,}45$). - Giai đoạn 2 (Bắt đầu nguy hiểm): Tắc nghẽn nặng hơn $\rightarrow$ $\text{PaCO}_2$ tăng dần lên mức "bình thường" ($38 - 42\ \text{mmHg}$) do cơ hoành mệt mỏi. **"Một PaCO2 bình thường ở một bệnh nhân đang thở nhanh co kéo là một dấu hiệu cực kỳ bất thường và báo động đỏ!"** - Giai đoạn 3 (Cận tử): Kiệt cơ hoàn toàn $\rightarrow \text{PaCO}_2$ tăng vọt $> 50 - 70\ \text{mmHg}$, toan hô hấp nặng và ngừng thở. ---
+
+Câu 80: Công thức **Tỷ số Delta (Delta Ratio)** trong toan chuyển hóa tăng Anion Gap được tính bằng: $$\text{Delta Ratio} = \frac{\Delta\text{AG}}{\Delta\text{HCO}_3^-} = \frac{\text{AG}_{\text{đo}} - 12}{24 - \text{HCO}_{3\ (\text{đo})}^-}$$ Một bệnh nhân có kết quả xét nghiệm tính ra **$\text{Delta Ratio} = 0{,}4$** ($< 0{,}8$). Kết quả này kết luận chắc chắn bệnh nhân đang mắc đồng thời **HAI RỐI LOẠN CHUYỂN HÓA** nào sau đây?
+A. Toan chuyển hóa tăng AG kết hợp Kiềm chuyển hóa.
+B. **Toan chuyển hóa tăng Anion Gap (HAGMA) KẾT HỢP VỚI Toan chuyển hóa có Anion Gap bình thường (NAGMA / Toan tăng Chlor máu)**; do nồng độ Bicarbonate bị sụt giảm sâu hơn rất nhiều so với mức tăng của khoảng trống Anion (ví dụ bệnh nhân đái tháo đường vừa có toan ceton vừa bị tiêu chảy mất nước nặng).
+C. Kiềm hô hấp cấp phối hợp Kiềm chuyển hóa.
+D. Bệnh nhân hoàn toàn khỏe mạnh.
+Đáp án: B
+Giải thích: Bảng phân loại chuẩn mực của Tỷ số Delta (Delta Ratio): - **$\text{Delta Ratio} = 1{,}0 – 1{,}6$:** Toan chuyển hóa tăng Anion Gap đơn thuần (HAGMA đơn thuần như DKA hoặc toan lactic thông thường). - **$\text{Delta Ratio} < 0{,}8$ (ở đây là $0{,}4$):** Mức giảm của $\text{HCO}_3^-$ vượt trội hơn nhiều so với mức tăng của $\text{AG} \rightarrow$ Bắt buộc phải có thêm một nguyên nhân làm mất trực tiếp Bicarbonate $\rightarrow$ **HAGMA phối hợp NAGMA** (Ví dụ: Bệnh nhân sốc toan lactic kèm tiêu chảy mất kiềm, hoặc bệnh nhân DKA được hồi sức bằng quá nhiều dung dịch $\text{NaCl}\ 0{,}9\%$ gây thêm toan tăng chlor máu). - **$\text{Delta Ratio} > 2{,}0$:** Mức giảm của $\text{HCO}_3^-$ ít hơn mức tăng của $\text{AG} \rightarrow$ **HAGMA phối hợp Kiềm chuyển hóa** (Ví dụ: Toan ceton kèm nôn mửa mất acid dịch vị). ## PHẦN 4: CA LÂM SÀNG TÍCH HỢP ĐA TẦNG & RỐI LOẠN TAM TRÙNG (TRIPLE DISORDERS) — CÂU 81 ĐẾN 100
+
+Câu 81: Một bệnh nhân nam 28 tuổi mắc đái tháo đường type 1 bỏ tiêm insulin 4 ngày, kèm theo nôn mửa liên tục 2 ngày và sốt cao thở nhanh sâu. Khí máu động mạch và điện giải đồ đo được: - $\text{pH} = 7{,}42$ (bình thường!), $\text{PaCO}_2 = 20\ \text{mmHg}$, $\text{HCO}_3^- = 13\ \text{mmol/L}$. - $\text{Na}^+ = 140\ \text{mmol/L}$, $\text{Cl}^- = 85\ \text{mmol/L}$, $\text{Glucose} = 28\ \text{mmol/L}$, $\text{Ceton máu} = 6{,}0\ \text{mmol/L}$. Phân tích toàn diện 6 bước khí máu động mạch chỉ ra bệnh nhân này đang mắc cùng lúc **BA RỐI LOẠN TOAN KIỀM ĐỘC LẬP (TRIPLE DISORDER)** nào?
+A. Toan chuyển hóa đơn thuần bù trừ bằng thở nhanh.
+B. **Rối loạn tam trùng kinh điển**:
+C. Kiềm hô hấp cấp bù trừ hoàn hảo bởi toan ống thận.
+D. Ngộ độc cồn Methanol kết hợp suy tim.
+Đáp án: B
+Giải thích: Đây là "bài toán đỉnh cao của các chuyên gia Hồi sức tích cực": - Bước 1: $\text{pH} = 7{,}42$ (bình thường) $\rightarrow$ Nguy cơ bị lừa là "bình thường". - Bước 2: $\text{AG} = 140 - (85 + 13) = \mathbf{42\ \text{mmol/L}}$ (tăng khổng lồ $+30$) $\rightarrow$ Chắc chắn có **HAGMA** rất nặng do Toan Ceton! - Bước 3: Đánh giá tỷ số $\Delta - \Delta$: $\text{HCO}_3^-$ đo được là $13$ (giảm $11$). Nếu chỉ có toan ceton, $\text{HCO}_3^-$ phải giảm đúng $30\ \text{mmol/L}$ (tụt xuống dưới $0$). Việc $\text{HCO}_3^-$ vẫn còn $13$ chứng tỏ có một lực lượng kiềm hóa mạnh mẽ đẩy lên $\rightarrow$ Khẳng định có **KIỀM CHUYỂN HÓA** đi kèm do nôn mửa! - Bước 4: Kiểm tra bù trừ hô hấp theo Winter: Với $\text{HCO}_3^- = 13$, $\text{PaCO}_2$ dự đoán $= 1{,}5 \times 13 + 8 = 27{,}5\ \text{mmHg}$. Nhưng $\text{PaCO}_2$ thực tế tụt xuống tận $20\ \text{mmHg}$ $\rightarrow$ Phổi thở nhanh vượt mức bù trừ $\rightarrow$ Khẳng định có thêm **KIỀM HÔ HẤP** nguyên phát độc lập! Ba rối loạn (2 kiềm + 1 toan cực nặng) giằng co triệt tiêu lẫn nhau tạo nên con số $\text{pH} = 7{,}42$ đánh lừa bác sĩ thiếu kinh nghiệm! ---
+
+Câu 82: Bệnh nhân nam 75 tuổi tiền sử COPD nặng và suy tim mạn đang uống Furosemide. Nhập viện vì sốc nhiễm khuẩn viêm phổi: $\text{HA} = 70/40\ \text{mmHg}$, $\text{Lactate} = 8\ \text{mmol/L}$. Khí máu động mạch và điện giải: - $\text{pH} = 7{,}28$, $\text{PaCO}_2 = 60\ \text{mmHg}$, $\text{HCO}_3^- = 28\ \text{mmol/L}$. - $\text{Na}^+ = 138\ \text{mmol/L}$, $\text{Cl}^- = 86\ \text{mmol/L}$. Bộ ba rối loạn thăng bằng toan kiềm của bệnh nhân này gồm những gì?
+A. Toan hô hấp đơn thuần do COPD.
+B. **Toan hô hấp mạn (do COPD ứ CO2) + Toan chuyển hóa tăng Anion Gap (do sốc nhiễm khuẩn sinh toan Lactic với AG = 24) + Kiềm chuyển hóa (do dùng lợi tiểu Furosemide mạn tính mất Chlor)**.
+C. Toan chuyển hóa tăng Chlor máu đơn thuần.
+D. Kiềm hô hấp phối hợp toan ceton.
+Đáp án: B
+Giải thích: Phân tích từng cấu phần: 1. $\text{AG} = 138 - (86 + 28) = 24\ \text{mmol/L}$ (tăng $+12$) $\rightarrow$ Có **HAGMA (Toan Lactic do sốc)**. 2. $\text{PaCO}_2 = 60\ \text{mmHg}$ ở bệnh nhân COPD thở chậm kiệt sức $\rightarrow$ Có **Toan hô hấp**. 3. Đánh giá Bicarbonate: Ở bệnh nhân toan hô hấp mạn với $\text{PaCO}_2 = 60$ ($\Delta\text{PaCO}_2 = 20$), thận bù đáng lẽ đưa $\text{HCO}_3^-$ lên $24 + 7 = 31$. Khi có thêm toan lactic làm mất $12\ \text{mmol}$ kiềm, đáng lẽ $\text{HCO}_3^-$ phải tụt xuống $31 - 12 = 19\ \text{mmol/L}$. Việc $\text{HCO}_3^-$ thực tế đo được lên tới $28\ \text{mmol/L}$ kèm $\text{Cl}^-$ máu hạ thấp ($86$) khẳng định bệnh nhân có thêm **Kiềm chuyển hóa nền** do dùng Furosemide trường diễn. ---
+
+Câu 83: Tại khoa Cấp cứu, một bệnh nhân viêm phổi tắc nghẽn mạn tính COPD đợt cấp có chỉ định **ĐẶT ỐNG NỘI KHÍ QUẢN THỞ MÁY XÂM NHẬP CẤP CỨU NGAY LẬP TỨC** khi xuất hiện dấu hiệu nào sau đây, bất kể kết quả khí máu động mạch là bao nhiêu?
+A. Khi $\text{PaO}_2 < 60\ \text{mmHg}$.
+B. Khi bệnh nhân xuất hiện **Rối loạn tri giác nặng (hôn mê, ngủ gà sâu Glasgow $\le 10 – 12$ điểm)**, **Kiệt cơ hô hấp hoàn toàn (thở ngực bụng nghịch thường, nhịp thở chậm dần $< 10\ \text{lần/phút}$)**, hoặc **Huyết động bất ổn định (sốc tụt huyết áp $\text{HATT} < 90\ \text{mmHg}$, loạn nhịp tim ác tính)**.
+C. Khi $\text{PaCO}_2 > 50\ \text{mmHg}$.
+D. Khi SpO2 đo được $< 90\%$.
+Đáp án: B
+Giải thích: Quy tắc vàng trong Cấp cứu Hồi sức: **"ĐIỀU TRỊ BỆNH NHÂN CHỨ KHÔNG ĐIỀU TRỊ TỜ GIẤY XÉT NGHIỆM KHÍ MÁU"**! Rất nhiều bác sĩ trẻ ngần ngại đặt nội khí quản vì "đang chờ lấy máu làm khí máu" trong khi bệnh nhân đang thở ngáp cá hoặc hôn mê tụt lưỡi. Khí máu động mạch chỉ là công cụ hỗ trợ. Khi bệnh nhân đã kiệt cơ hoành (thở nghịch thường), lơ mơ hôn mê không bảo vệ được đường thở hoặc tụt huyết áp sốc, **chỉ định đặt nội khí quản thở máy là TUYỆT ĐỐI VÀ KHẨN CẤP DỰA TRÊN LÂM SÀNG**, không được phép chậm trễ chờ đợi khí máu! ---
+
+Câu 84: Bệnh nhân nữ 25 tuổi uống 40 viên thuốc chống trầm cảm 3 vòng **Amitriptyline** tự sát. Vào viện trong tình trạng hôn mê, co giật, tụt huyết áp $\text{HA} = 70/40\ \text{mmHg}$. Điện tâm đồ ghi nhận: Nhịp nhanh xoang, **phức bộ QRS giãn rộng $160\ \text{ms}$** (ngưỡng nguy kịch $> 100 - 120\ \text{ms}$), có sóng R cao $> 3\ \text{mm}$ ở chuyển đạo aVR. Thuốc cấp cứu giải độc đặc hiệu đường tĩnh mạch bắt buộc phải dùng ngay là gì và mục tiêu điều trị là gì?
+A. Truyền ngay dung dịch Acid HCl để trung hòa Amitriptyline.
+B. **Bolus và truyền tĩnh mạch liên tục dung dịch Natri Bicarbonate (NaHCO3 8,4%)** để nâng pH máu lên mức kiềm **$7{,}50 – 7{,}55$** và thu hẹp phức bộ QRS về $< 100\ \text{ms}$.
+C. Tiêm tĩnh mạch Flumazenil.
+D. Tiêm Atropine liều cao.
+Đáp án: B
+Giải thích: Đây là một trong những chỉ định dùng Bicarbonate ngoạn mục nhất trong độc chất học: Amitriptyline chẹn kênh Natri nhanh ($I_{\text{Na}}$) trên màng tế bào cơ tim làm chậm dẫn truyền trong thất $\rightarrow$ QRS giãn rộng $> 120\ \text{ms}$ gây rung thất và tụt huyết áp. Liệu pháp **Natri Bicarbonate** cứu mạng nhờ 2 cơ chế hiệp đồng: 1. Cung cấp một lượng lớn ion $\text{Na}^+$ ưu trương để cạnh tranh và đẩy bật phân tử Amitriptyline ra khỏi kênh Natri tim. 2. Kiềm hóa máu ($\text{pH}$ đạt $7{,}50 - 7{,}55$) làm phân tử Amitriptyline chuyển sang dạng không ion hóa trung tính, làm giảm ái lực gắn kết của thuốc vào thụ thể cơ tim. QRS sẽ thu hẹp lại sau vài phút tiêm thuốc! ---
+
+Câu 85: Bệnh nhân nam 65 tuổi tiền sử nhồi máu cơ tim, vào cấp cứu vì cơn Phù phổi cấp huyết động (OAP): Khó thở dữ dội khi nằm, vã mồ hôi đầm đìa, khạc bọt hồng, nghe phổi tràn ngập ran ẩm dâng nhanh từ hai đáy lên đỉnh phổi, huyết áp tăng vọt $210/110\ \text{mmHg}$. Khí máu động mạch đo được lúc vào viện điển hình nhất là gì?
+A. Toan hô hấp đơn thuần.
+B. **Thiếu oxy máu nặng ($\text{PaO}_2 < 50 – 60\ \text{mmHg}$, $\text{P(A-a)O}_2$ tăng rất cao) kèm theo Kiềm hô hấp giai đoạn đầu ($\text{PaCO}_2 < 35\ \text{mmHg}$ do thở nhanh gắng sức)**; nếu bệnh nhân kiệt cơ hô hấp ở giai đoạn muộn sẽ nhanh chóng chuyển thành **Toan hô hấp phối hợp Toan chuyển hóa Lactic**.
+C. Kiềm chuyển hóa đơn thuần.
+D. Khí máu hoàn toàn bình thường.
+Đáp án: B
+Giải thích: Tiến triển khí máu kinh điển trong Phù phổi cấp: - **Giai đoạn sớm:** Dịch phù tràn vào phế nang làm tăng shunt nội phổi gây thiếu oxy máu trầm trọng $\rightarrow$ bệnh nhân thở nhanh co kéo dữ dội ($35 - 40\ \text{l/p}$) $\rightarrow$ đào thải khí $\text{CO}_2 \rightarrow$ **Giảm oxy máu KÈM Kiềm hô hấp cấp**. - **Giai đoạn muộn (Báo động đỏ):** Cơ hô hấp bị kiệt sức, phế nang ngập chìm trong dịch không còn trao đổi khí $\rightarrow \text{CO}_2$ bị ứ lại cấp tính ($\text{PaCO}_2 > 50 - 70\ \text{mmHg}$); tim suy không tống máu gây toan lactic $\rightarrow$ chuyển dịch sang **Toan hỗn hợp cực nặng (Toan hô hấp + Toan chuyển hóa)** $\rightarrow$ ngừng tim! ---
+
+Câu 86: Tại sao ở bệnh nhân đợt cấp COPD có suy hô hấp tăng $\text{CO}_2$ máu, mục tiêu điều trị Oxy liệu pháp trong mọi phác đồ quốc tế (GOLD, BTS) chỉ đặt ra ở mức **$\text{SpO}_2 = 88\% – 92\%$** (hoặc $\text{PaO}_2 = 60 – 70\ \text{mmHg}$), mà tuyệt đối không nâng lên mức $\text{SpO}_2 = 98\% – 100\%$?
+A. Để tiết kiệm bình oxy y tế.
+B. Vì mức $\text{SpO}_2 = 88\% – 92\%$ đảm bảo cung cấp đủ oxy cho mô hoạt động (nằm trên đoạn dốc phẳng an toàn của đường cong phân ly Oxy-Hemoglobin), trong khi tránh được nguy cơ tăng oxy máu quá mức làm dập tắt phản xạ thở Hypoxic drive, tránh phá vỡ phản xạ co mạch phổi sinh lý và tránh hiệu ứng Haldane; qua đó ngăn ngừa thảm họa ứ đọng $\text{CO}_2$ kịch phát gây hôn mê toan hô hấp.
+C. Vì nồng độ oxy cao làm teo cơ hoành.
+D. Vì oxy liều cao gây xơ phổi tức thì.
+Đáp án: B
+Giải thích: Đường cong phân ly $\text{Hb-O}_2$: Khi $\text{SpO}_2 = 90\%$, phân áp oxy $\text{PaO}_2$ đã đạt khoảng $60\ \text{mmHg}$, mức oxy này đảm bảo cung cấp oxy đầy đủ cho các cơ quan quan trọng (não, tim, thận) hoạt động bình thường. Cố tình nâng $\text{SpO}_2$ từ $90\%$ lên $100\%$ chỉ làm tăng thêm một lượng rất nhỏ oxy hòa tan nhưng lại đánh đổi bằng nguy cơ cực kỳ lớn: làm $\text{PaCO}_2$ tăng vọt từ $60$ lên $100\ \text{mmHg}$ đẩy bệnh nhân vào hôn mê toan hô hấp phải đặt nội khí quản! Do đó, **ĐÍCH 88% - 92% LÀ RÀO CHẮN AN TOÀN SỐ 1 CHO BỆNH NHÂN COPD**! ---
+
+Câu 87: Bệnh nhân nam 40 tuổi nhiễm HIV đang điều trị bằng phác đồ ARV có chứa thuốc ức chế men sao chép ngược Nucleoside (**NRTIs như Zidovudine, Didanosine, Stavudine**). Bệnh nhân vào viện vì suy kiệt, đau bụng dữ dội, gan to và thở nhanh sâu. Xét nghiệm: Toan chuyển hóa tăng Anion Gap cực nặng ($\text{pH} = 7{,}10$, $\text{HCO}_3^- = 7\ \text{mmol/L}$, $\text{AG} = 28$), nồng độ **Lactate máu tăng vọt > 10 mmol/L**, men gan tăng cao. Cơ chế độc tính ti thể của thuốc NRTI gây toan lactic là gì?
+A. Thuốc làm hoại tử tế bào ống thận cấp.
+B. Thuốc nhóm NRTIs ức chế chọn lọc enzyme **DNA Polymerase-$\gamma$** của ti thể tế bào, làm đột biến và cạn kiệt DNA ti thể, dẫn đến phá hủy chuỗi hô hấp tế bào ti thể tại gan và cơ vân, làm gan mất hoàn toàn khả năng oxy hóa acid béo và ngừng chuyển hóa lactate, gây ra hội chứng **Nhiễm toan Lactic kết hợp Gan nhiễm mỡ vi thể (Microvesicular steatosis)** có tỷ lệ tử vong rất cao.
+C. Thuốc gây tắc tĩnh mạch trên gan.
+D. Thuốc kích thích tế bào lympho sinh acid.
+Đáp án: B
+Giải thích: Độc tính ti thể do NRTIs (Mitochondrial toxicity) là biến chứng kinh hoàng của các thuốc kháng virus đời cũ. Ti thể là "nhà máy điện" duy nhất oxy hóa lactate. Khi DNA Polymerase-$\gamma$ bị ức chế, ti thể bị phá hủy hàng loạt $\rightarrow$ tế bào gan bị thoái hóa mỡ dạng hạt nhỏ và không thể chuyển hóa lactate $\rightarrow$ toan lactic tăng vọt kèm suy gan cấp. Khi phát hiện bệnh nhân dùng ARV có toan lactic tăng cao, bắt buộc phải ngừng ngay lập tức các thuốc NRTIs và điều trị hồi sức tích cực bằng lọc máu liên tục CVVH và bổ sung các chất đồng vận ti thể (Riboflavin, Coenzyme Q10, L-carnitine). ---
+
+Câu 88: Một bệnh nhân đợt cấp COPD được thông khí nhân tạo qua máy thở không xâm nhập (BiPAP) điều trị thành công: Sau 24 giờ, bệnh nhân tỉnh táo, hết khó thở, $\text{PaCO}_2$ giảm từ $85$ xuống $50\ \text{mmHg}$. Tuy nhiên xét nghiệm lại khí máu lúc này lại ghi nhận: $\text{pH} = 7{,}52$, $\text{HCO}_3^- = 40\ \text{mmol/L}$. Bác sĩ muốn dùng thuốc để hỗ trợ thận đào thải bớt lượng Bicarbonate thừa này nhằm tránh ức chế trung tâm hô hấp khi cai máy thở. Thuốc lợi tiểu nào là **LỰA CHỌN TỐI ƯU**?
+A. Furosemide.
+B. **Acetazolamide (Diamox 250 – 500 mg tiêm tĩnh mạch hoặc uống mỗi 12 – 24 giờ)**, ức chế men Carbonic Anhydrase tại ống lượn gần để tăng đào thải Bicarbonate ra nước tiểu, giúp đưa nồng độ $\text{HCO}_3^-$ máu về mức an toàn.
+C. Spironolactone.
+D. Hydrochlorothiazide.
+Đáp án: B
+Giải thích: Sau khi giải quyết được tình trạng ứ $\text{CO}_2$, lượng Bicarbonate mà thận đã tích lũy từ trước ($40\ \text{mmol/L}$) sẽ gây ra tình trạng **Kiềm chuyển hóa sau tăng CO2 (Post-hypercapnic alkalosis)**. Kiềm máu cao ($\text{pH} > 7{,}50$) sẽ gây ức chế trung tâm hô hấp làm bệnh nhân thở chậm lại, gây khó khăn khi cai máy thở. **Acetazolamide (Diamox)** là vũ khí hoàn hảo ở đây: Thuốc khóa enzym CA ở ống lượn gần $\rightarrow$ thận tống tháo trực tiếp ion $\text{HCO}_3^-$ ra nước tiểu $\rightarrow$ hạ nhanh nồng độ Bicarbonate máu về bình thường, giúp kích thích trung tâm hô hấp thức tỉnh để bệnh nhân tự thở và cai máy thở thành công! ---
+
+Câu 89: Ở bệnh nhân ARDS mức độ nặng đang được thở máy bảo vệ phổi (chiến lược ARDSNet với $V_t = 6\ \text{ml/kg}$ PBW, Pplateau $\le 30\ \text{cmH}_2\text{O}$), khi nào chiến lược **Chấp nhận tăng CO2 máu (Permissive Hypercapnia)** được coi là **THẤT BẠI** và bắt buộc phải xem xét chỉ định can thiệp **Tim phổi nhân tạo ngoài cơ thể (ECMO)**?
+A. Khi $\text{PaCO}_2 > 45\ \text{mmHg}$.
+B. Khi tình trạng toan hô hấp mất bù quá mức làm **$\text{pH}$ máu động mạch tụt sâu $< 7{,}15 – 7{,}20$** mặc dù đã tối ưu hóa tần số thở lên tối đa ($35\ \text{l/p}$), kết hợp với oxy hóa máu suy sụp nặng ($\text{PaO}_2/\text{FiO}_2 < 80$ kéo dài $> 6\ \text{giờ}$) gây rối loạn huyết động và loạn nhịp tim không thể kiểm soát.
+C. Khi SpO2 $< 95\%$.
+D. Khi bệnh nhân có sốt cao.
+Đáp án: B
+Giải thích: Khái niệm "Permissive Hypercapnia" chỉ an toàn khi $\text{pH} \ge 7{,}20$. Khi $\text{pH} < 7{,}15$, toan máu cực nặng sẽ làm liệt co bóp cơ tim, giãn mạch tụt huyết áp trơ với vận mạch và tăng áp lực động mạch phổi gây suy thất phải cấp tính (Cor pulmonale cấp). Nếu đã tăng tần số thở lên kịch trần ($35\ \text{l/p}$) mà $\text{pH}$ vẫn $< 7{,}15$ và $\text{PaO}_2/\text{FiO}_2 < 80$, tiếp tục tăng thông khí sẽ gây vỡ phế nang (Barotrauma). Lúc này, **VV-ECMO (Veno-Venous ECMO)** là giải pháp sống còn duy nhất: Màng ECMO ngoài cơ thể sẽ tống khứ toàn bộ khí $\text{CO}_2$ và nạp oxy trực tiếp vào máu, đưa pH về bình thường trong tích tắc và cho phép phổi được nghỉ ngơi hoàn toàn (Resting lung)! ---
+
+Câu 90: Một bệnh nhân co giật liên tục nằm ICU được truyền tĩnh mạch liên tục thuốc an thần chống co giật **Lorazepam (hoặc Diazepam) liều cao** pha trong dung dịch truyền suốt 3 ngày. Bệnh nhân xuất hiện Toan chuyển hóa tăng Anion Gap nặng kèm theo Khoảng trống thẩm thấu tăng cao ($\text{Osmolar Gap} = 30\ \text{mOsm/kg}$) và suy thận cấp. Độc chất nào có trong dung môi pha chế của thuốc tiêm Lorazepam gây ra hội chứng này?
+A. Cồn Methanol.
+B. Dung môi **Propylene Glycol**, được dùng làm tá dược hòa tan thuốc tiêm Lorazepam và Diazepam; khi dùng liều cao kéo dài, Propylene Glycol tích tụ trong máu được chuyển hóa qua gan thành **Acid Lactic (cả D-lactate và L-lactate)** gây toan chuyển hóa tăng AG nặng và độc thận cấp tính.
+C. Chất bảo quản Paraben.
+D. Khí Formaldehyde.
+Đáp án: B
+Giải thích: Đây là "cạm bẫy dược lâm sàng ẩn giấu" tại ICU: Thuốc tiêm Lorazepam và Diazepam không tan trong nước nên các hãng dược bắt buộc phải dùng tá dược hòa tan là **Propylene Glycol** (chiếm tới $80\%$ thể tích lọ thuốc). Khi truyền tĩnh mạch liên tục liều cao ($> 0{,}1\ \text{mg/kg/h}$), lượng Propylene Glycol tích tụ vượt quá công suất chuyển hóa của gan $\rightarrow$ gây tăng Osmolar Gap và chuyển hóa thành acid lactic gây toan máu nặng kèm suy thận cấp. Khi nghi ngờ ngộ độc Propylene Glycol, bắt buộc phải ngừng ngay Lorazepam và chuyển sang các thuốc an thần tan trong nước như Midazolam hoặc Propofol. ---
+
+Câu 91: Một thanh niên 20 tuổi được đưa vào cấp cứu sau khi "bay lắc" tại quán bar, dùng ma túy đá (Methamphetamine) và thuốc lắc (MDMA). Bệnh nhân kích động điên cuồng, co giật, thân nhiệt sốt cao $41^\circ\text{C}$, vã mồ hôi, tiêu cơ vân cấp (CK máu $100.000\ \text{UI/L}$). Khí máu động mạch ghi nhận: $\text{pH} = 6{,}98$, $\text{HCO}_3^- = 6\ \text{mmol/L}$, $\text{Lactate} = 18\ \text{mmol/L}$, $\text{PaCO}_2 = 28\ \text{mmHg}$. Hai nguyên nhân cốt lõi đẩy nồng độ Acid Lactic lên mức cực đại đe dọa ngừng tim ở ca này là gì?
+A. Do ma túy ức chế hô hấp.
+B. **(1) Co cơ kịch phát liên tục:** Co giật và kích động vận động cực độ làm các sợi cơ vân hoạt động yếm khí sinh lượng khổng lồ acid lactic; **(2) Co thắt mạch máu toàn thân do tăng catecholamin cực đại kết hợp sốc giảm thể tích mất nước do sốt cao $41^\circ\text{C}$**, làm sụp đổ lưu lượng máu tưới cho gan và thận, khiến gan mất hoàn toàn khả năng thoái giáng lactate.
+C. Do ngộ độc khí CO trong quán bar.
+D. Do bệnh nhân bị viêm màng não mủ phối hợp.
+Đáp án: B
+Giải thích: Cơn bão giao cảm do Amphetamine/Cocaine: Kích thích thụ thể alpha và beta cực đại làm co thắt toàn bộ giường mạch tạng $\rightarrow$ thiếu máu mô trầm trọng. Đồng thời tăng trương lực cơ liên tục, co giật và sốt cao $41^\circ\text{C}$ làm tiêu thụ năng lượng kỵ khí ở mức khổng lồ $\rightarrow$ Acid Lactic phun trào vào máu với nồng độ $> 15 - 20\ \text{mmol/L}$, đưa pH tụt sâu xuống $< 7{,}00$. Cấp cứu sống còn: **Hạ thân nhiệt tích cực bằng nước đá, kiểm soát co giật bằng Benzodiazepine liều cao, bồi phụ dịch thể tích lớn và kiềm hóa bằng dịch truyền**! ---
+
+Câu 92: Tại sao ở bệnh nhân mắc **Hội chứng Cushing nặng** hoặc **Hội chứng tiết ACTH lạc chỗ (Ectopic ACTH)** do ung thư phổi tế bào nhỏ, bệnh nhân lại luôn biểu hiện tình trạng **Kiềm chuyển hóa nặng nề kết hợp với Hạ Kali máu trầm trọng ($\text{K}^+ < 2{,}0\ \text{mmol/L}$)**?
+A. Do khối u tiết trực tiếp chất kiềm vào máu.
+B. Khi nồng độ hormone **Cortisol trong máu tăng quá cao vượt mức cực đại**, nó làm bão hòa và tê liệt hoàn toàn công suất của enzyme bảo vệ $11\beta$-HSD2 tại thận; lượng Cortisol tự do khổng lồ này tràn ngập gắn vào và kích hoạt toàn bộ các thụ thể Mineralocorticoid (thụ thể của Aldosterone) tại ống lượn xa và ống góp, gây tác dụng giữ Natri và tống tháo ồ ạt ion $\text{K}^+$ và $\text{H}^+$ ra nước tiểu.
+C. Do Cortisol làm giảm hấp thu acid tại dạ dày.
+D. Do bệnh nhân thở nhanh mạn tính.
+Đáp án: B
+Giải thích: Bình thường Cortisol không gây tác dụng mineralocorticoid vì enzyme $11\beta$-HSD2 tại thận nhanh chóng chuyển Cortisol thành Cortisone bất hoạt. Nhưng trong Hội chứng Cushing nặng hoặc đặc biệt là Hội chứng tiết ACTH lạc chỗ, lượng Cortisol sinh ra cao gấp hàng chục đến hàng trăm lần bình thường $\rightarrow$ enzyme $11\beta$-HSD2 bị "quá tải và bất hoạt hoàn toàn" $\rightarrow$ Cortisol tự do hoạt động như một loại Aldosterone siêu mạnh $\rightarrow$ tống toàn bộ Kali và ion $\text{H}^+$ ra nước tiểu, gây ra cặp đôi triệu chứng kinh điển: **Hạ Kali máu ác tính trơ với điều trị và Kiềm chuyển hóa dữ dội**! Thuốc ức chế tổng hợp steroid vỏ thượng thận (Ketoconazole, Metyrapone) kết hợp Spironolactone liều cao là chỉ định bắt buộc. ---
+
+Câu 93: Một nạn nhân được cứu thoát khỏi một vụ cháy xưởng kín, nhập viện trong tình trạng hôn mê, da niêm mạc có màu đỏ anh đào (Cherry-red), thở nhanh sâu Kussmaul. Khí máu động mạch: $\text{pH} = 7{,}05$, $\text{HCO}_3^- = 8\ \text{mmol/L}$, $\text{AG} = 30\ \text{mmol/L}$, nồng độ **Lactate máu tăng vọt lên 16 mmol/L** mặc dù $\text{PaO}_2$ đo được trong máu động mạch vẫn đạt $100\ \text{mmHg}$. Cơ chế gây Toan Lactic cực nặng ở nạn nhân hít phải khói đám cháy là gì?
+A. Do bệnh nhân bị bỏng da gây thoát huyết tương.
+B. **Ngộ độc phối hợp Khí CO và Khí Cyanide (HCN)** giải phóng từ các vật liệu nhựa cháy: Khí CO gắn chặt vào Hemoglobin tạo Carboxyhemoglobin (HbCO) ngăn cản vận chuyển oxy; đồng thời khí **Cyanide ức chế hoàn toàn phức hợp enzyme Cytochrome c Oxidase** trong chuỗi hô hấp tế bào ti thể, làm tế bào hoàn toàn KHÔNG THỂ SỬ DỤNG ĐƯỢC OXY để tạo ATP (ngạt tế bào do ức chế ti thể), buộc toàn bộ cơ thể phải chuyển sang chuyển hóa kỵ khí sinh lượng lớn Acid Lactic.
+C. Do bỏng đường hô hấp trên làm co thắt phế quản.
+D. Do bệnh nhân bị mất nước ưu trương.
+Đáp án: B
+Giải thích: Đây là bài học xương máu trong cấp cứu thảm họa cháy nổ: Nồng độ $\text{PaO}_2$ trong máu động mạch đo được có thể rất cao (oxy hòa tan bình thường), nhưng **tế bào hoàn toàn không thể thở được**! Khí Cyanide khóa chết chuỗi hô hấp ti thể $\rightarrow$ dù có bao nhiêu oxy xung quanh thì ti thể cũng bất lực không tạo được ATP $\rightarrow$ tế bào rơi vào tình trạng thiếu năng lượng kịch phát và chuyển hóa kỵ khí cực đại sinh ra lượng khổng lồ Acid Lactic ($\text{Lactate} > 15\ \text{mmol/L}$). Thuốc giải độc đặc hiệu số 1 cứu mạng là **Hydroxocobalamin (Cyanokit)** tiêm tĩnh mạch: Hydroxocobalamin kết hợp trực tiếp với Cyanide tạo thành Vitamin B12 (Cyanocobalamin) không độc đào thải qua nước tiểu! ---
+
+Câu 94: Khi một bệnh nhân bị Toan hô hấp mạn tính (ví dụ COPD có $\text{PaCO}_2$ tăng cao mạn tính), xét nghiệm điện giải đồ máu hầu như luôn luôn ghi nhận tình trạng **Hạ Chlor máu ($\text{Cl}^- < 95\ \text{mmol/L}$)**. Cơ chế sinh lý thận học nào giải thích hiện tượng này?
+A. Bệnh nhân COPD ăn kém không nạp đủ muối ăn.
+B. Để duy trì nguyên lý **Trung hòa điện tích (Electroneutrality)** trong khoang ngoại bào: Khi thận tăng tái hấp thu và giữ lại nồng độ anion Bicarbonate ($\text{HCO}_3^-$) tăng cao lên tới $35 - 40\ \text{mmol/L}$ để bù trừ toan máu, thận bắt buộc phải **tăng đào thải đồng thời anion Chlor ($\text{Cl}^-$) ra nước tiểu dưới dạng muối Amoni Clorid ($\text{NH}_4\text{Cl}$)**, dẫn đến nồng độ Chlor trong máu tự động sụt giảm tương ứng.
+C. Do phổi đào thải Chlor qua đường thở.
+D. Do Chlor bị kéo vào trong tế bào hồng cầu.
+Đáp án: B
+Giải thích: Tổng điện tích âm của hai anion chính ở ngoại bào là: $[\text{Cl}^-] + [\text{HCO}_3^-] \approx \text{Hằng số}$ (khoảng $125 - 130\ \text{mEq/L}$). Khi nồng độ $\text{HCO}_3^-$ tăng lên từ $24$ lên $36\ \text{mmol/L}$ (tăng $+12$), để giữ cho điện thế ngoại bào cân bằng với nồng độ $\text{Na}^+$, ống thận bắt buộc phải bài xuất ion $\text{Cl}^-$ ra nước tiểu $\rightarrow$ nồng độ $\text{Cl}^-$ máu giảm đúng $12\ \text{mmol/L}$ (từ $102$ tụt xuống $90\ \text{mmol/L}$). Đây là biến đổi bù trừ sinh lý tự nhiên. Nếu bác sĩ thấy $\text{Cl}^-$ máu giảm mà tưởng là "thiếu muối" rồi đi truyền $\text{NaCl}\ 0{,}9\%$ vào sẽ phá vỡ hoàn toàn cơ chế bù trừ của thận! ---
+
+Câu 95: Bệnh nhân nữ 30 tuổi điều trị dự phòng đau nửa đầu Migraine (hoặc động kinh) bằng thuốc **Topiramate**. Sau 1 tháng dùng thuốc, bệnh nhân đi khám vì mệt mỏi, thở nhanh nhẹ. Khí máu động mạch: $\text{pH} = 7{,}28$, $\text{HCO}_3^- = 16\ \text{mmol/L}$, $\text{Cl}^- = 114\ \text{mmol/L}$, $\text{AG} = 10\ \text{mmol/L}$ (Toan chuyển hóa tăng Chlor máu). Cơ chế tác dụng phụ của Topiramate là gì?
+A. Topiramate gây hoại tử tế bào gan.
+B. Thuốc Topiramate có hoạt tính **ức chế enzyme Carbonic Anhydrase (CA Type II và IV)** tại ống thận tương tự như Acetazolamide, làm thận mất khả năng tái hấp thu Bicarbonate tại ống lượn gần và giảm bài tiết acid tại ống lượn xa, dẫn đến Toan chuyển hóa có Anion Gap bình thường (NAGMA / RTA Type 2 mắc phải).
+C. Thuốc làm giảm sản xuất Bicarbonate từ tụy.
+D. Thuốc gây toan lactic kỵ khí.
+Đáp án: B
+Giải thích: Topiramate là một thuốc điều trị động kinh và đau nửa đầu rất phổ biến. Cấu trúc phân tử của nó chứa nhóm sulfamate có tác dụng ức chế mạnh mẽ enzyme Carbonic Anhydrase tại thận. Có tới $30 - 50\%$ bệnh nhân dùng Topiramate bị hạ Bicarbonate máu mạn tính ($16 - 20\ \text{mmol/L}$). Toan máu mạn tính kéo dài làm tăng đào thải Calci niệu và giảm Citrate niệu $\rightarrow$ gây biến chứng **Sỏi thận Calci Phosphat tái phát** ở người dùng Topiramate. Bác sĩ cần xét nghiệm khí máu định kỳ và bù kiềm nếu Bicarbonate tụt $< 18\ \text{mmol/L}$. ---
+
+Câu 96: Một bệnh nhân đái tháo đường vào viện vì nôn mửa liên tục suốt 4 ngày. Khí máu động mạch: $\text{pH} = 7{,}40$, $\text{PaCO}_2 = 40\ \text{mmHg}$, $\text{HCO}_3^- = 24\ \text{mmol/L}$ (Tất cả các thông số khí máu đều chuẩn mực sinh lý $100\%$). Tuy nhiên, bảng xét nghiệm điện giải đồ cơ bản lại ghi nhận: $\text{Na}^+ = 140\ \text{mmol/L}$, $\text{Cl}^- = 86\ \text{mmol/L}$, $\text{Glucose} = 25\ \text{mmol/L}$, $\text{Ceton máu} = 5{,}5\ \text{mmol/L}$. Bác sĩ kết luận bệnh nhân hoàn toàn không có rối loạn toan kiềm. Kết luận này **ĐÚNG hay SAI**?
+A. Hoàn toàn đúng vì cả 3 thông số pH, PaCO2, HCO3- đều đạt điểm vàng chuẩn mực.
+B. **SAI LẦM TAI HẠI NHẤT TRONG PHÂN TÍCH KHÍ MÁU**: Bệnh nhân đang mắc đồng thời **Toan chuyển hóa tăng Anion Gap (HAGMA do DKA) PHỐI HỢP VỚI Kiềm chuyển hóa nặng (do nôn mửa mất HCl)**; Khoảng trống Anion $\text{AG} = 140 - (86 + 24) = 30\ \text{mmol/L}$ (tăng khổng lồ $+18$); lượng acid ceton sinh ra làm giảm $18\ \text{mmol}\ \text{HCO}_3^-$, nhưng lượng acid dạ dày mất đi do nôn lại làm tăng đúng $18\ \text{mmol}\ \text{HCO}_3^-$; hai quá trình bệnh lý nặng nề hoàn toàn triệt tiêu nhau trên các con số khí máu!
+C. Đúng vì bệnh nhân chưa bị suy thận.
+D. Sai vì bệnh nhân bị kiềm hô hấp tiềm ẩn.
+Đáp án: B
+Giải thích: Đây là ví dụ kinh điển nhất chứng minh quy tắc: **"KHÔNG BAO GIỜ ĐƯỢC KẾT LUẬN THĂNG BẰNG TOAN KIỀM KHI CHƯA TÍNH KHOẢNG TRỐNG ANION (ANION GAP)!"** $\text{AG} = 30\ \text{mmol/L}$ (bình thường $8 - 12$). Một con số $\text{AG} = 30$ khẳng định $100\%$ bệnh nhân đang có một quá trình Toan chuyển hóa tăng Anion Gap cực kỳ nghiêm trọng đang diễn ra trong cơ thể! Lý do duy nhất khiến $\text{HCO}_3^-$ không bị tụt mà vẫn giữ ở mức $24$ là vì bệnh nhân nôn mửa mất $\text{HCl}$ dịch vị quá nhiều $\rightarrow$ tạo ra một lượng kiềm chuyển hóa tương đương bù đắp lại. Nếu bác sĩ chỉ nhìn $\text{pH} = 7{,}40$ mà cho bệnh nhân về nhà, bệnh nhân sẽ tử vong vì Toan Ceton ĐTĐ mất bù! ---
+
+Câu 97: Tại sao một bệnh nhân uống dung dịch làm mát động cơ ô tô (Ethylene Glycol) vào cấp cứu trong **3 giờ đầu tiên** sau uống lại có kết quả xét nghiệm: **Khoảng trống Thẩm thấu tăng rất cao (Osmolar Gap > 40 mOsm/kg) nhưng Khoảng trống Anion lại hoàn toàn bình thường (AG = 10 mmol/L và pH bình thường)**; trong khi sau 12 giờ thì Khoảng trống Thẩm thấu lại tụt về bình thường còn Khoảng trống Anion lại tăng vọt lên tới 35 mmol/L kèm toan máu đe dọa ngừng tim?
+A. Do bệnh nhân nôn hết chất độc ra ngoài sau 12 giờ.
+B. **Động học chuyển hóa qua gan của độc chất:** Trong 3 giờ đầu, toàn bộ phân tử Ethylene Glycol nguyên vẹn chưa bị chuyển hóa, là chất thẩm thấu phân tử nhỏ làm tăng vọt Osmolar Gap; sau 6 – 12 giờ, enzyme Alcohol Dehydrogenase (ADH) đã chuyển hóa toàn bộ Ethylene Glycol thành các acid hữu cơ độc tính (Glycolic acid, Oxalic acid) $\rightarrow$ phân tử chất thẩm thấu biến mất (Osmolar Gap giảm về bình thường) và chuyển hóa thành các anion acid tự do làm Anion Gap tăng vọt và gây toan máu dữ dội.
+C. Do thận đào thải độc chất qua nước tiểu.
+D. Do bệnh nhân bị suy tim thứ phát.
+Đáp án: B
+Giải thích: Mối tương quan nghịch đảo giữa Osmolar Gap và Anion Gap theo thời gian trong ngộ độc cồn độc: - **Giai đoạn sớm (< 6h):** Nhiều phân tử mẹ $\rightarrow$ **Osmolar Gap TĂNG CỰC CAO**, Anion Gap bình thường, chưa toan máu. Đây là "cửa sổ vàng" để dùng thuốc giải độc ức chế enzyme ADH (**Fomepizole hoặc Ethanol**) chặn đứng quá trình chuyển hóa! - **Giai đoạn muộn (> 12h):** Toàn bộ phân tử mẹ đã bị oxy hóa thành acid độc $\rightarrow$ **Osmolar Gap GIẢM VỀ BÌNH THƯỜNG**, **Anion Gap TĂNG VỌT KHỔNG LỒ**, toan máu sâu sắc và suy thận cấp vô niệu xuất hiện. Lúc này dùng Fomepizole đã quá muộn, biện pháp duy nhất là chạy thận nhân tạo cấp cứu! ---
+
+Câu 98: Trong phác đồ điều trị cấp cứu Toan Ceton đái tháo đường (DKA) của Hiệp hội Đái tháo đường Hoa Kỳ (ADA), quy tắc kiểm tra nồng độ Kali máu TRƯỚC KHI bắt đầu tiêm truyền Insulin là gì để ngăn ngừa biến chứng ngừng tim đột ngột?
+A. Truyền Insulin ngay lập tức bất kể nồng độ Kali là bao nhiêu.
+B. **Nếu nồng độ Kali máu ban đầu $< 3{,}3\ \text{mmol/L}$ (hoặc mEq/L): CHỐNG CHỈ ĐỊNH TUYỆT ĐỐI BẮT ĐẦU TRUYỀN INSULIN**; bắt buộc phải trì hoãn Insulin và truyền bù Kali tĩnh mạch tích cực trước cho đến khi $\text{K}^+ \ge 3{,}3 – 3{,}5\ \text{mmol/L}$ thì mới được phép bắt đầu truyền Insulin.
+C. Chỉ bù Kali khi bệnh nhân đã hết toan máu sau 24 giờ.
+D. Tiêm Insulin liều gấp đôi nếu Kali máu thấp.
+Đáp án: B
+Giải thích: Đây là "quy tắc an toàn sống còn số 1" trong điều trị DKA: Insulin kích hoạt cực mạnh bơm $\text{Na}^+/\text{K}^+$-ATPase đưa Kali từ máu ồ ạt vào trong tế bào. Nếu nồng độ Kali máu ban đầu đã thấp ($< 3{,}3\ \text{mmol/L}$) mà bác sĩ vội vàng bấm máy truyền Insulin, nồng độ Kali trong máu sẽ bị "hút sạch" tụt xuống $< 1{,}5 - 2{,}0\ \text{mmol/L}$ chỉ trong vòng 30 phút $\rightarrow$ gây liệt cơ hô hấp, rung thất hoặc ngừng tim đột ngột không thể hồi sức! Bắt buộc phải bù Kali đạt $\ge 3{,}3\ \text{mmol/L}$ trước khi bật bơm tiêm điện Insulin! ---
+
+Câu 99: Tiêu chuẩn vàng theo hướng dẫn của ADA để xác định một bệnh nhân Toan Ceton đái tháo đường (DKA) đã **HỒI PHỤC HOÀN TOÀN (Resolution of DKA)** để cho phép ngừng truyền Insulin tĩnh mạch và chuyển sang tiêm Insulin dưới da là gì?
+A. Khi đường huyết mao mạch giảm về mức bình thường $< 7{,}0\ \text{mmol/L}$.
+B. Khi bệnh nhân đạt đủ 3 tiêu chí: **(1) Đường huyết $< 200\ \text{mg/dL}$ (11,1 mmol/L); (2) Đạt ít nhất 2 trong 3 thông số sinh hóa: Nồng độ Bicarbonate $\text{HCO}_3^- \ge 18\ \text{mmol/L}$, pH máu tĩnh mạch $> 7{,}30$, và Khoảng trống Anion trở về bình thường ($\text{AG} \le 12\ \text{mmol/L}$); (3) Bệnh nhân tỉnh táo và ăn uống được qua đường miệng**.
+C. Khi xét nghiệm nước tiểu không còn thấy đường niệu.
+D. Khi bệnh nhân hết sốt và hết đau bụng.
+Đáp án: B
+Giải thích: Sai lầm kinh điển của điều dưỡng và bác sĩ trẻ: Thấy đường huyết giảm từ $30\ \text{mmol/L}$ xuống còn $10\ \text{mmol/L}$ liền vội vàng ngắt bơm tiêm điện Insulin! Đường huyết hạ rất nhanh sau vài giờ bù dịch, nhưng **tình trạng nhiễm toan ceton bên trong tế bào phải mất từ 12 đến 24 giờ mới được dập tắt hoàn toàn**. Tiêu chuẩn hồi phục thực sự bắt buộc phải dựa vào việc **đóng kín khoảng trống Anion ($\text{AG} \le 12$) và phục hồi nồng độ Bicarbonate ($\text{HCO}_3^- \ge 18$)**. Ngắt Insulin sớm khi AG chưa đóng sẽ làm toan ceton bùng phát trở lại ngay lập tức! ---
+
+Câu 100: Quy trình 6 bước chuẩn mực quốc tế để đọc và phân tích toàn diện một kết quả Khí máu động mạch (ABG) tại giường bệnh theo thứ tự logic khoa học không thể đảo lộn là gì?
+A. Đo Oxy trước → Đọc pH → Đọc PaCO2 → Bù dịch.
+B. **Trình tự 6 bước Master Checklist:**
+C. Chỉ cần đọc SpO2 và pH là đủ điều trị.
+D. Tính Anion Gap trước rồi mới đo huyết áp.
+Đáp án: B
+Giải thích: Đây là quy trình chuẩn mực được đào tạo tại các trường y khoa hàng đầu thế giới (Harvard, Johns Hopkins). Tuân thủ nghiêm ngặt 6 bước này đảm bảo bác sĩ lâm sàng không bao giờ bị đánh lừa bởi những con số "bình thường giả tạo", không bỏ sót các rối loạn tiềm ẩn nguy hiểm (như toan lactic ẩn, toan ceton hỗn hợp, hoặc suy hô hấp kiệt cơ tiềm tàng) và đưa ra quyết định xử trí cấp cứu chính xác $100\%$ cứu sống bệnh nhân!
+

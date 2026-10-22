@@ -1,0 +1,427 @@
+{
+  "id": "bank_im82_gout_eular",
+  "title": "IM-82: Bệnh Gout & Tiêu Chuẩn Phân Loại ACR/EULAR 2015 (35 Câu Chuyên Sâu)",
+  "description": "Bộ trắc nghiệm ca lâm sàng và lý thuyết chuyên sâu về thang điểm ACR/EULAR 2015 8 nhóm, phân biệt viêm khớp nhiễm khuẩn, NLRP3, và khuyến cáo EULAR 2016/2020.",
+  "questions": [
+    {
+      "id": "bank_im82_gout_eular_01",
+      "text": "Một cụ ông 65 tuổi đến phòng khám kiểm tra sức khỏe tổng quát. Bệnh nhân hoàn toàn không có triệu chứng đau hay sưng bất kỳ khớp nào từ trước đến nay. Xét nghiệm máu tình cờ ghi nhận nồng độ Acid Uric máu tăng rất cao: $\\text{Serum Urate} = 650\\ \\mu\\text{mol/L}$ ($10{,}9\\ \\text{mg/dL}$). Siêu âm khớp bàn ngón chân cái hai bên thấy có dấu hiệu \"Đường bờ đôi\" (Double contour sign) mờ nhạt. Bác sĩ áp dụng thang điểm ACR/EULAR 2015 tính được 6 điểm và kết luận bệnh nhân mắc bệnh Gout giai đoạn sớm. Áp dụng thang điểm trong tình huống này **ĐÚNG hay SAI**?",
+      "options": [
+        "Đúng vì acid uric máu $> 10\\ \\text{mg/dL}$ kết hợp siêu âm bờ đôi là đủ tiêu chuẩn chẩn đoán Gout.",
+        "**SAI HOÀN TOÀN**; vì bệnh nhân **CHƯA ĐẠT TIÊU CHUẨN LỐI VÀO (Entry Criterion)** của ACR/EULAR 2015: Bắt buộc phải có **ít nhất 1 đợt sưng, đau hoặc ấn đau khớp ngoại biên hoặc bao hoạt dịch**; nếu chưa từng có đợt sưng đau khớp nào thì TUYỆT ĐỐI KHÔNG ĐƯỢC ÁP DỤNG THANG ĐIỂM, tình trạng này chỉ được gọi là \"Tăng acid uric máu không triệu chứng\".",
+        "Đúng vì dấu hiệu đường bờ đôi trên siêu âm là tiêu chuẩn vàng thay thế triệu chứng lâm sàng.",
+        "Đúng và cần khởi động ngay Allopurinol liều cao."
+      ],
+      "correct": 1,
+      "explanation": "Cấu trúc 3 bước của ACR/EULAR 2015: - **Bước 1 (Cửa vào - Entry Criterion):** Có ít nhất 1 đợt sưng, đau hoặc ấn đau một khớp ngoại biên hoặc bao gân. Nếu KHÔNG CÓ $\\rightarrow$ DỪNG LẠI NGAY, không áp dụng thang điểm! - **Bước 2 (Tiêu chuẩn vàng - Sufficient Criterion):** Thấy tinh thể MSU trong dịch khớp hoặc hạt tophi $\\rightarrow$ Chẩn đoán xác định $100\\%$, không cần tính điểm. - **Bước 3:** Chỉ khi đạt Bước 1 mà không làm được Bước 2 thì mới tính điểm 8 domains. Bệnh nhân này chưa từng đau khớp, chỉ là tăng acid uric máu không triệu chứng. Theo khuyến cáo ACR 2020, tăng acid uric máu không triệu chứng **KHÔNG CÓ CHỈ ĐỊNH ĐIỀU TRỊ HẠ ACID URIC (ULT)**! ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_02",
+      "text": "Bệnh nhân nam 45 tuổi vào viện vì sưng đau dữ dội khớp bàn ngón chân cái (MTP 1) phải lần đầu. Bác sĩ chọc hút dịch khớp bàn ngón I: dịch khớp đục, soi dưới kính hiển vi phân cực có bù sáng quang học (Polarized light microscopy). Hình ảnh nào sau đây là **TIÊU CHUẨN VÀNG XÁC CHẨN 100% BỆNH GOUT** mà không cần tính điểm ACR/EULAR 2015?",
+      "options": [
+        "Tinh thể hình thoi hoặc hình hộp chữ nhật, lưỡng chiết quang yếu hoặc cực dương (khi nằm song song với trục ánh sáng thì có màu xanh).",
+        "**Tinh thể Monosodium Urate (MSU) hình kim sắc nhọn, nằm trong hoặc ngoài bạch cầu, có tính LƯỠNG CHIẾT QUANG CỰC ÂM (Negative birefringence)**: Khi tinh thể nằm song song với trục bù sáng thì có **màu vàng rực rỡ**, khi xoay vuông góc với trục bù sáng thì chuyển sang **màu xanh dương**.",
+        "Tinh thể hình phong bì thư của Calci Oxalat.",
+        "Tinh thể hình nắp quan tài của Triple Phosphat."
+      ],
+      "correct": 1,
+      "explanation": "Tiêu chuẩn vàng tuyệt đối của Gout: Tinh thể MSU hình kim, **lưỡng chiết âm (Negatively birefringent)**. Mẹo nhớ phòng thi: **\"Yellow when Parallel\" (Màu Vàng khi Song song với trục bộ lọc quang học)**. Ngược lại, bệnh Giả Gout (Lắng đọng Canxi Pyrophosphat - CPPD) có tinh thể hình thoi/hình que ngắn, **lưỡng chiết cực DƯƠNG (Positively birefringent)**, khi nằm song song với trục thì có **màu Xanh dương (Blue when Parallel)**. Nhầm lẫn màu sắc phân cực là câu hỏi bẫy kinh điển! ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_03",
+      "text": "Khi tính toán thang điểm phân loại ACR/EULAR 2015 cho một bệnh nhân nghi ngờ Gout có đủ tiêu chuẩn lối vào nhưng không có điều kiện soi dịch khớp tìm tinh thể MSU, **ĐIỂM CẮT TỔNG (Cut-off threshold)** tối thiểu để chẩn đoán xác định bệnh Gout là bao nhiêu trên thang điểm tối đa 23 điểm?",
+      "options": [
+        "$\\ge 5 / 23$ điểm.",
+        "$\\ge 8 / 23$ điểm.",
+        "$\\ge 12 / 23$ điểm.",
+        "$\\ge 15 / 23$ điểm."
+      ],
+      "correct": 1,
+      "explanation": "Điểm cắt chính thức của ACR/EULAR 2015 là **$\\ge 8$ điểm** (trên thang điểm tối đa 23 điểm). Tại điểm cắt $\\ge 8$, độ nhạy đạt $92\\%$ và độ đặc hiệu đạt $89\\%$. Thang điểm bao gồm 8 nhóm (Domain): (1) Vị trí khớp; (2) Đặc điểm cơn viêm; (3) Thời gian diễn tiến; (4) Hạt tophi; (5) Acid uric máu; (6) Soi dịch khớp; (7) Hình ảnh học (Siêu âm/DECT); (8) X-quang xói mòn xương. ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_04",
+      "text": "Trong thang điểm ACR/EULAR 2015, có 2 tiêu chí đặc biệt bị gán **ĐIỂM ÂM (Trừ điểm)** vì sự hiện diện của chúng gợi ý bệnh nhân KHÔNG PHẢI BỊ GOUT. Đó là hai tiêu chí nào?",
+      "options": [
+        "Nữ giới (-2 điểm) và Tuổi trẻ (-1 điểm).",
+        "**Soi dịch khớp không thấy tinh thể MSU (-2 điểm)** VÀ **Nồng độ Acid Uric máu $< 4{,}0\\ \\text{mg/dL}$ ($< 240\\ \\mu\\text{mol/L}$) (-4 điểm)**.",
+        "Tốc độ máu lắng bình thường (-3 điểm) và CRP bình thường (-2 điểm).",
+        "Khớp gối bị viêm (-1 điểm) và không có hạt tophi (-2 điểm)."
+      ],
+      "correct": 1,
+      "explanation": "Đây là điểm thiết kế thiên tài của ACR/EULAR: - Nếu nồng độ Acid Uric máu $< 4{,}0\\ \\text{mg/dL}$ ($< 240\\ \\mu\\text{mol/L}$): Bị **TRỪ 4 ĐIỂM (-4 điểm)** vì nguy cơ bị Gout ở ngưỡng này là cực kỳ thấp. - Nếu chọc hút dịch khớp lấy mẫu đúng kỹ thuật bởi chuyên gia mà hoàn toàn không thấy tinh thể MSU: Bị **TRỪ 2 ĐIỂM (-2 điểm)**. Các mức điểm acid uric khác: - $< 4{,}0\\ \\text{mg/dL}$: **-4 điểm**. - $4{,}0 – < 6{,}0\\ \\text{mg/dL}$: **0 điểm**. - $6{,}0 – < 8{,}0\\ \\text{mg/dL}$: **+2 điểm**. - $8{,}0 – < 10{,}0\\ \\text{mg/dL}$: **+3 điểm**. - $\\ge 10{,}0\\ \\text{mg/dL}$ ($\\ge 600\\ \\mu\\text{mol/L}$): **+4 điểm**. ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_05",
+      "text": "Theo Domain 1 (Vị trí khớp hoặc bao hoạt dịch bị tổn thương trong đợt cấp) của ACR/EULAR 2015, mức điểm số cao nhất (+2 điểm) được chấm cho vị trí khớp nào?",
+      "options": [
+        "Khớp gối hoặc khớp háng.",
+        "Khớp cổ tay hoặc khớp khuỷu tay.",
+        "**Khớp bàn ngón chân cái (First Metatarsophalangeal joint - MTP 1 / Podagra)**.",
+        "Khớp cổ chân hoặc khớp bàn ngón tay."
+      ],
+      "correct": 2,
+      "explanation": "Mức điểm Domain 1: - Khớp bàn ngón I (MTP 1): **+2 điểm** (vị trí kinh điển đặc hiệu nhất của Gout). - Khớp cổ chân (Ankle) hoặc Khớp mu chân (Midfoot): **+1 điểm**. - Các khớp khác (khớp gối, cổ tay, ngón tay...): **0 điểm**. ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_06",
+      "text": "Domain 2 của ACR/EULAR 2015 đánh giá 3 đặc điểm lâm sàng của cơn viêm khớp: (1) Đỏ da vùng khớp viêm; (2) Không chịu được áp lực chạm nhẹ (ví dụ đắp tấm chăn mỏng lên cũng đau dữ dội); (3) Khó khăn vận động khớp hoặc đi lại. Nếu bệnh nhân có **đủ cả 3 đặc điểm** trên thì được tính mấy điểm?",
+      "options": [
+        "+1 điểm.",
+        "+2 điểm.",
+        "**+3 điểm**.",
+        "+5 điểm."
+      ],
+      "correct": 2,
+      "explanation": "Mức điểm Domain 2: - Có 1 đặc điểm: **+1 điểm**. - Có 2 đặc điểm: **+2 điểm**. - Có đủ cả 3 đặc điểm: **+3 điểm**. Cơn Gout cấp bùng phát dữ dội với khớp sưng tấy đỏ rực, bệnh nhân đau buốt đến mức \"gió thổi qua hoặc đắp tấm ga trải giường chạm vào cũng thét lên đau đớn\", mất hoàn toàn khả năng đi lại. ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_07",
+      "text": "Domain 3 đánh giá về diễn tiến thời gian của đợt viêm cấp với 2 đặc tính mấu chốt: (1) Đau đạt đỉnh tối đa trong vòng $< 24$ giờ kể từ khi khởi phát; (2) Cơn viêm tự thoái lui hoàn toàn trong vòng $\\le 14$ ngày (khớp trở lại bình thường không còn triệu chứng). Mức điểm chấm cho tiêu chí này nếu bệnh nhân có **$\\ge 2$ đợt viêm điển hình** như vậy là bao nhiêu?",
+      "options": [
+        "+1 điểm.",
+        "+2 điểm.",
+        "**+3 điểm**.",
+        "+4 điểm."
+      ],
+      "correct": 2,
+      "explanation": "Mức điểm Domain 3: - Có 1 đợt điển hình: **+1 điểm**. - Có $\\ge 2$ đợt điển hình (đau đạt đỉnh $< 24\\text{h}$ và thoái lui hoàn toàn $\\le 14$ ngày): **+3 điểm**. - Không có đợt điển hình nào: **0 điểm**. Tính chất khởi phát đột ngột ban đêm, đau đạt đỉnh dữ dội cực nhanh dưới 24h và tự khỏi hoàn toàn sau 1-2 tuần (giai đoạn giữa các cơn hoàn toàn không đau) là \"chữ ký\" lâm sàng phân biệt Gout với các viêm khớp mạn tính như Viêm khớp dạng thấp. ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_08",
+      "text": "Khám lâm sàng phát hiện hạt Tophi điển hình (nốt sần dưới da màu trắng hoặc vàng đục, có thể nhìn thấy cặn urate màu phấn trắng bên dưới lớp da mỏng, thường ở vành tai, mỏm khuỷu, gân gót hoặc cạnh các khớp) được tính bao nhiêu điểm trong thang ACR/EULAR 2015?",
+      "options": [
+        "+1 điểm.",
+        "+2 điểm.",
+        "+3 điểm.",
+        "**+4 điểm**."
+      ],
+      "correct": 3,
+      "explanation": "Hạt tophi lâm sàng có trọng số rất lớn trong thang điểm: **+4 điểm** (bằng điểm với nồng độ acid uric $\\ge 10\\ \\text{mg/dL}$). Nếu phát hiện hạt tophi điển hình (+4) kết hợp viêm khớp bàn ngón I (+2) và đau đạt đỉnh $< 24\\text{h}$ (+1), acid uric $\\ge 6\\ \\text{mg/dL}$ (+2) $\\rightarrow$ tổng điểm đạt $9$ điểm $\\rightarrow$ đủ tiêu chuẩn xác chẩn Gout ngay cả khi không chọc dịch khớp! ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_09",
+      "text": "Bằng chứng hình ảnh học về lắng đọng tinh thể Urate trên Siêu âm khớp (Dấu hiệu đường bờ đôi - Double contour sign) HOẶC trên Chụp cắt lớp vi tính năng lượng kép (DECT - Dual-Energy CT) được tính bao nhiêu điểm trong thang ACR/EULAR 2015?",
+      "options": [
+        "+1 điểm.",
+        "+2 điểm.",
+        "+3 điểm.",
+        "**+4 điểm**."
+      ],
+      "correct": 3,
+      "explanation": "Bằng chứng lắng đọng Urate trên chẩn đoán hình ảnh: **+4 điểm**. - **Siêu âm khớp:** Dấu hiệu **Đường bờ đôi (Double contour sign)** là dải tăng âm bất thường nằm trên bề mặt sụn khớp (tinh thể MSU bám vào sụn), phân biệt với lắng đọng CPPD (nằm bên trong chất sụn). - **DECT (Dual-Energy CT):** Dùng 2 mức năng lượng tia X phân tích thành phần hóa học, mã hóa tinh thể MSU bằng **màu xanh lá cây (Green color-coded)** bao quanh khớp. ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_10",
+      "text": "Hình ảnh xói mòn xương (Erosion) trên phim X-quang quy ước của bệnh nhân Gout mạn tính có đặc điểm hình thái kinh điển nào và được tính mấy điểm trong ACR/EULAR 2015?",
+      "options": [
+        "Khuyết xương dưới sụn kèm hẹp khe khớp lan tỏa (+2 điểm).",
+        "**Khuyết xương bờ ngoài khớp, có viền xơ hóa và bờ xương nhô ra bao quanh hạt tophi tạo thành \"Dấu hiệu móc xương / Vành xương che chở\" (Overhanging edge / Martel's sign)**, khe khớp được bảo tồn tương đối (+4 điểm).",
+        "Loãng xương đầu xương lan tỏa (+1 điểm).",
+        "Cầu gai xương thoái hóa (+2 điểm)."
+      ],
+      "correct": 1,
+      "explanation": "Bằng chứng tổn thương khớp do Gout trên X-quang (Hình ảnh xói mòn bờ rõ kèm vành xương che phủ): được tính **+4 điểm**. Dấu hiệu móc xương (Overhanging margin / Martel's sign) là tổn thương mạn tính đặc trưng do hạt tophi ăn mòn xương từ ngoài vào, trong khi khe khớp vẫn còn được bảo tồn tốt cho đến giai đoạn rất muộn (khác với viêm khớp dạng thấp làm hẹp khe khớp đồng đều rất sớm). ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_11",
+      "text": "Một bệnh nhân nam 50 tuổi vào cấp cứu vì cơn viêm khớp bàn ngón chân cái điển hình lần đầu. Xét nghiệm nồng độ Acid Uric máu lúc đang đau cấp đo được là **$320\\ \\mu\text{mol/L}$ ($5{,}4\\ \text{mg/dL}$ - hoàn toàn trong giới hạn bình thường)**. Bác sĩ trực kết luận: \"Bệnh nhân chắc chắn không phải bị Gout vì acid uric máu không tăng\". Sai lầm của bác sĩ này là gì?",
+      "options": [
+        "Bác sĩ hoàn toàn đúng vì Gout bắt buộc phải tăng acid uric máu.",
+        "**Sai lầm nghiêm trọng; có tới $40 – 50\\%$ bệnh nhân Gout có nồng độ Acid Uric máu bình thường hoặc thậm chí giảm thấp trong cơn Gout cấp**: Do phản ứng viêm kích hoạt hormone ACTH và Cortisol nội sinh làm tăng đào thải acid uric qua nước tiểu; đồng thời cytokine viêm (IL-6) làm tăng bài tiết urate thận; acid uric từ máu kết tinh ồ ạt lắng đọng vào khớp làm nồng độ máu tụt dốc. Bắt buộc phải **đo lại Acid Uric máu sau khi cơn cấp thoái lui hoàn toàn từ 2 đến 4 tuần**!",
+        "Do máy xét nghiệm bị sai số.",
+        "Bệnh nhân bị thiếu hụt dinh dưỡng."
+      ],
+      "correct": 1,
+      "explanation": "Đây là cạm bẫy \"kinh điển bậc nhất\" trong cơ xương khớp: **\"Acid Uric máu bình thường KHÔNG BAO GIỜ loại trừ cơn Gout cấp!\"** Trong cơn viêm cấp, cơ thể phản ứng stress tăng tiết cortisol làm tăng thải urate qua thận, cộng với việc urate kết tinh vào ổ khớp làm nồng độ trong máu giảm giả tạo. Chẩn đoán cơn Gout cấp phải dựa vào lâm sàng và tinh thể dịch khớp, không được dựa vào con số acid uric máu lúc đang đau! ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_12",
+      "text": "Tại sao trước một bệnh nhân có biểu hiện sưng, nóng, đỏ, đau dữ dội tại một khớp ngoại biên cấp tính (kể cả khớp bàn ngón I điển hình), hành động lâm sàng **BẮT BUỘC ĐẦU TIÊN** của bác sĩ là phải loại trừ **Viêm khớp nhiễm khuẩn (Septic Arthritis)** trước khi cho Corticoid toàn thân?",
+      "options": [
+        "Vì Corticoid làm giảm đào thải acid uric.",
+        "**Viêm khớp nhiễm khuẩn là một cấp cứu nội ngoại khoa khẩn cấp**: Nếu chẩn đoán nhầm và cho Corticoid liều cao, thuốc sẽ ức chế miễn dịch làm vi khuẩn nhân lên nhanh chóng, phá hủy sụn khớp không hồi phục trong vòng 24 – 48 giờ và gây sốc nhiễm khuẩn đe dọa tử vong; do đó nếu có nghi ngờ (sốt, khớp gối tràn dịch, có lối vào nhiễm trùng), **bắt buộc phải chọc hút dịch khớp làm xét nghiệm soi nhuộm Gram, đếm tế bào bạch cầu và cấy vi khuẩn trước khi dùng Corticoid**!",
+        "Vì Viêm khớp nhiễm khuẩn luôn có tinh thể MSU.",
+        "Vì Corticoid gây dị ứng chéo với vi khuẩn."
+      ],
+      "correct": 1,
+      "explanation": "Nguyên tắc bất di bất dịch của EULAR và ACR: **\"Đừng bao giờ để một khớp mủ bị bỏ sót dưới chẩn đoán Gout!\"** Lâm sàng cơn Gout cấp và Viêm khớp nhiễm trùng có thể giống nhau $100\\%$ (sốt cao, sưng nóng đỏ đau dữ dội, bạch cầu máu tăng cao). Nếu cho Corticoid hoặc tiêm corticoid vào ổ khớp nhiễm khuẩn, bệnh nhân sẽ bị phá hủy toàn bộ khớp và nhiễm khuẩn huyết tử vong! Chọc dịch khớp: Nếu dịch đục như mủ, bạch cầu $> 50.000/\\mu\text{L}$ với $> 90\\%$ đa nhân trung tính $ ightarrow$ điều trị kháng sinh ngay như viêm khớp nhiễm khuẩn! ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_13",
+      "text": "Phức hợp miễn dịch bẩm sinh nội bào nào đóng vai trò \"công tắc kích hoạt\" trung tâm dẫn đến sự bùng phát cơn viêm khớp Gout cấp tính khi tinh thể Monosodium Urate (MSU) tiếp xúc với đại thực bào?",
+      "options": [
+        "Phức hợp kháng thể IgG và bổ thể C3a.",
+        "**Thể viêm NLRP3 Inflammasome**: Đại thực bào thực bào tinh thể MSU $",
+        "Thụ thể tế bào T (TCR).",
+        "Enzyme Cyclooxygenase-2 (COX-2)."
+      ],
+      "correct": 1,
+      "explanation": "Cơ chế phân tử đoạt giải Nobel y học: Tinh thể MSU hoạt hóa thể viêm **NLRP3 Inflammasome** tại đại thực bào màng hoạt dịch $ ightarrow$ giải phóng **IL-1$\beta$**. IL-1$\beta$ là cytokine chủ chốt tối cao của cơn Gout cấp. Hiểu được cơ chế này giải thích vì sao: (1) **Colchicine** có hiệu quả thần kỳ vì nó ức chế sự lắp ráp của vi ống tế bào, ngăn cản đại thực bào thực bào MSU và ức chế trực tiếp sự kết tập của thể viêm NLRP3; (2) Thuốc sinh học kháng IL-1 (**Anakinra, Canakinumab**) là vũ khí cắt cơn Gout cấp ngoạn mục ở bệnh nhân kháng trị hoặc có chống chỉ định với mọi thuốc khác! ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_14",
+      "text": "Bệnh nhân nữ 75 tuổi vào viện vì sưng đau dữ dội khớp gối phải cấp tính. X-quang khớp gối thấy hình ảnh đường vôi hóa sụn khớp (Chondrocalcinosis) chạy dọc sụn chêm. Chọc dịch khớp soi kính hiển vi phân cực thấy các tinh thể hình que ngắn hoặc hình hộp chữ nhật, lưỡng chiết quang cực dương yếu (màu xanh khi song song với trục ánh sáng). Bệnh nhân này mắc bệnh lý gì?",
+      "options": [
+        "Bệnh Gout mạn tính biến dạng khớp.",
+        "**Bệnh lắng đọng tinh thể Canxi Pyrophosphat (CPPD - Calcium Pyrophosphate Dihydrate deposition disease / Giả Gout - Pseudogout)**.",
+        "Viêm cột sống dính khớp.",
+        "Thoái hóa khớp gối đơn thuần."
+      ],
+      "correct": 1,
+      "explanation": "So sánh kinh điển: - **Gout (MSU):** Tinh thể Monosodium Urate hình kim nhọn, **lưỡng chiết ÂM**, màu vàng khi song song, hay gặp ở nam giới, khớp bàn ngón I. - **Giả Gout (CPPD):** Tinh thể Canxi Pyrophosphat hình hộp/hình thoi ngắn, **lưỡng chiết DƯƠNG**, màu xanh khi song song, hay gặp ở phụ nữ cao tuổi, khớp gối, cổ tay, kèm hình ảnh vôi hóa sụn khớp (Chondrocalcinosis) trên X-quang. ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_15",
+      "text": "Nồng độ bão hòa hóa lý tối đa của muối Monosodium Urate trong huyết tương ở nhiệt độ cơ thể $37^\\circ\text{C}$ và $\text{pH} = 7{,}40$ là bao nhiêu, và tại sao cơn Gout cấp lại hay bùng phát ở khớp bàn ngón chân cái vào ban đêm?",
+      "options": [
+        "$5{,}0\\ \text{mg/dL}$; do ban đêm cơ thể ngừng hoạt động.",
+        "**$6{,}8\\ \text{mg/dL}$ ($404\\ \\mu\text{mol/L}$)**; khi acid uric máu $> 6{,}8\\ \text{mg/dL}$ dung dịch trở nên bão hòa và bắt đầu kết tinh thành tinh thể MSU; các khớp ngoại biên ở xa như khớp bàn ngón chân cái có **nhiệt độ thấp hơn trung tâm ($32 - 34^\\circ\text{C}$)** làm giảm độ tan của urate; ban đêm khi ngủ nước bị tái hấp thu từ khớp vào tuần hoàn làm tăng nồng độ urate cục bộ và nồng độ cortisol nội sinh giảm xuống mức thấp nhất kích hoạt cơn bùng phát.",
+        "$10{,}0\\ \text{mg/dL}$; do ban đêm nồng độ canxi tăng cao.",
+        "$12{,}5\\ \text{mg/dL}$; do tư thế nằm ngửa làm ứ trệ máu."
+      ],
+      "correct": 1,
+      "explanation": "Ngưỡng bão hòa hóa lý của Acid Uric là **$6{,}8\\ \text{mg/dL}$**. Vượt quá ngưỡng này, dung dịch máu bị quá bão hòa (Supersaturated) và có nguy cơ kết tủa. Độ tan của MSU phụ thuộc rất mạnh vào nhiệt độ: nhiệt độ càng giảm thì độ tan càng tụt dốc. Đầu ngón chân là nơi xa tim nhất, lạnh nhất trên cơ thể ($32 - 34^\\circ\text{C}$), do đó tinh thể MSU dễ dàng kết tủa tại đây đầu tiên. Ban đêm, cortisol nội sinh thấp nhất và dịch khớp bị hút bớt làm urate cô đặc lại kích hoạt cơn Podagra rạng sáng kinh điển! ## PHẦN 2: ĐIỀU TRỊ CƠN GOUT CẤP & CHIẾN LƯỢC HẠ ACID URIC MÁU (ULT) — CÂU 16 ĐẾN 35"
+    },
+    {
+      "id": "bank_im82_gout_eular_16",
+      "text": "Theo khuyến cáo của Hiệp hội Thấp khớp học Hoa Kỳ (ACR 2020) và Châu Âu (EULAR 2016), phác đồ sử dụng **Colchicine đường uống để điều trị cơn Gout cấp** trong vòng 24 – 36 giờ đầu từ khi khởi phát triệu chứng là gì?",
+      "options": [
+        "Uống 1 mg mỗi 2 giờ cho đến khi bệnh nhân bị tiêu chảy hoặc nôn mửa thì ngừng (liều tối đa 6 – 8 mg/ngày).",
+        "**Phác đồ liều thấp (Low-dose Colchicine)**: Uống ngay **1,0 mg (hoặc 1,2 mg)** khi khởi phát cơn, sau 1 giờ uống tiếp **0,5 mg (hoặc 0,6 mg)** (tổng liều trong 24 giờ đầu là $1{,}5\\ \\text{mg}$); sau đó từ ngày hôm sau duy trì $0{,}5\\ \\text{mg}$ từ 1 đến 2 lần/ngày cho đến khi hết cơn viêm.",
+        "Tiêm tĩnh mạch Colchicine liều cao 2 mg.",
+        "Uống Colchicine 5 mg một lần duy nhất."
+      ],
+      "correct": 1,
+      "explanation": "Thử nghiệm lâm sàng kinh điển AGREE (Arthritis Rheum 2010): Phác đồ Colchicine liều thấp ($1{,}0\\ \\text{mg}$ ban đầu $+ 0{,}5\\ \\text{mg}$ sau 1 giờ, tổng $1{,}5\\ \\text{mg}$) có **hiệu quả giảm đau và cắt cơn viêm tương đương $100\\%$ so với phác đồ liều cao cổ điển ($4{,}8\\ \\text{mg}$)**, nhưng tỷ lệ tác dụng phụ tiêu chảy và ngộ độc tiêu hóa giảm từ $77\\%$ xuống chỉ còn ngang bằng với giả dược ($19\\%$). Phác đồ liều cao cổ điển uống đến khi tiêu chảy đã bị cấm tuyệt đối vì gây ngộ độc suy tủy và tiêu cơ vân! ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_17",
+      "text": "khi đang bùng phát Cơn cấp) Một bệnh nhân nam 55 tuổi đã được điều trị hạ acid uric máu bằng Allopurinol $300\\ \\text{mg/ngày}$ liên tục suốt 6 tháng qua. Do ăn một bữa hải sản, bệnh nhân bị bùng phát một cơn Gout cấp sưng đau ngón chân cái. Bác sĩ trực ra y lệnh: \"Ngừng ngay Allopurinol vì đang trong cơn viêm cấp, khi nào hết đau mới được uống lại\". Xử trí này **ĐÚNG hay SAI**?",
+      "options": [
+        "Đúng hoàn toàn vì Allopurinol làm cơn đau kéo dài hơn.",
+        "**SAI LẦM NGHIÊM TRỌNG; khuyến cáo ACR 2020 nhấn mạnh: NẾU BỆNH NHÂN ĐANG DÙNG THUỐC HẠ ACID URIC MÁU (ULT) MÀ XUẤT HIỆN CƠN GOUT CẤP, BẮT BUỘC PHẢI TIẾP TỤC DUY TRÌ LIỀU ULT ĐANG DÙNG KHÔNG ĐƯỢC NGỪNG**, đồng thời bổ sung ngay thuốc chống viêm cắt cơn (Colchicine / NSAID / Corticoid); việc ngừng đột ngột Allopurinol sẽ làm dao động nồng độ acid uric trong máu, kích thích tinh thể MSU bong tróc và hòa tan dở dang làm cơn viêm kéo dài dữ dội hơn và tái phát liên tục!",
+        "Đúng vì Allopurinol gây độc thận trong cơn cấp.",
+        "Cần tăng gấp đôi liều Allopurinol ngay trong ngày hôm đó."
+      ],
+      "correct": 1,
+      "explanation": "Nguyên tắc cốt tử trong điều trị Gout: **\"Độ biến thiên nồng độ Acid Uric máu kích hoạt cơn viêm cấp chứ không phải bản thân con số acid uric cao hay thấp\"**. Khi bệnh nhân đang dùng ULT ổn định mà ngừng thuốc đột ngột $\\rightarrow$ acid uric máu tăng vọt trở lại $\\rightarrow$ màng bao bọc các tinh thể MSU bị phá vỡ $\\rightarrow$ các tinh thể trần trụi tiếp xúc với đại thực bào làm cơn viêm bùng phát dữ dội hơn. Vì vậy: **Đang uống thì tiếp tục uống, không ngừng, không tăng liều trong cơn cấp**! ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_18",
+      "text": "Tại sao các guideline của Hội Thấp khớp học Hoa Kỳ (ACR 2020) khuyến cáo mạnh mẽ bắt buộc phải **tầm soát alen HLA-B*5801** trước khi kê đơn **Allopurinol** cho bệnh nhân có nguồn gốc dân tộc Đông Nam Á (bao gồm người Việt Nam), người Hán (Trung Quốc) và người Mỹ gốc Phi?",
+      "options": [
+        "Vì người mang gen này bị kháng thuốc Allopurinol.",
+        "Người mang alen **HLA-B*5801** có nguy cơ cao gấp hàng trăm lần bị biến chứng dị ứng thuốc nặng đe dọa tử vong (**Hội chứng tăng bạch cầu ái toan và triệu chứng toàn thân DRESS, Hội chứng Stevens - Johnson / Hoại tử thượng bì nhiễm độc TEN**); tỷ lệ người Việt Nam mang gen này rất cao (khoảng $10 – 15\\%$); nếu kết quả dương tính với HLA-B*5801, chống chỉ định tuyệt đối Allopurinol và bắt buộc phải thay thế bằng **Febuxostat**!",
+        "Vì gen này làm tăng nguy cơ suy tim do Allopurinol.",
+        "Vì gen này gây tăng acid uric máu kháng trị."
+      ],
+      "correct": 1,
+      "explanation": "Allopurinol là nguyên nhân số 1 gây Hội chứng Stevens-Johnson (SJS) và Hoại tử thượng bì nhiễm độc (TEN) tại Việt Nam với tỷ lệ tử vong lên tới $30 - 50\\%$. Alen HLA-B*5801 trình diện chất chuyển hóa oxypurinol của Allopurinol kích hoạt phản ứng độc tế bào T qua trung gian miễn dịch cực mạnh. Xét nghiệm PCR tìm alen HLA-B*5801 trước khi khởi đầu Allopurinol là tiêu chuẩn an toàn hiện đại. Nếu bệnh nhân mang gen này: **CHUYỂN NGAY SANG FEBUXOSTAT**! ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_19",
+      "text": "Mục tiêu nồng độ Acid Uric huyết thanh cần đạt và duy trì suốt đời theo chiến lược **Treat-to-Target** của ACR 2020 và EULAR 2016 là gì đối với bệnh nhân Gout thông thường và bệnh nhân Gout mạn tính có hạt tophi?",
+      "options": [
+        "Dưới $7{,}0\\ \\text{mg/dL}$ ($420\\ \\mu\\text{mol/L}$) cho tất cả bệnh nhân.",
+        "**Mục tiêu chung: Serum Urate $< 6{,}0\\ \\text{mg/dL}$ ($< 360\\ \\mu\\text{mol/L}$)** để nằm dưới ngưỡng bão hòa hóa lý ($6{,}8\\ \\text{mg/dL}$);",
+        "Chỉ cần đưa acid uric máu về 0 mg/dL.",
+        "Dưới $8{,}0\\ \\text{mg/dL}$ là đạt yêu cầu."
+      ],
+      "correct": 1,
+      "explanation": "Định luật khuếch tán: Muốn các tinh thể MSU đã lắng đọng trong khớp và mô mềm tan ra, nồng độ urate trong dịch ngoại bào bắt buộc phải thấp hơn ngưỡng bão hòa ($< 6{,}0\\ \\text{mg/dL}$). Khi nồng độ máu hạ xuống $< 5{,}0\\ \\text{mg/dL}$, độ chênh nồng độ thẩm thấu đủ lớn để \"rút\" dần các phân tử urate từ hạt tophi hòa tan vào máu để thận đào thải $\\rightarrow$ hạt tophi sẽ teo dần và biến mất sau 1 - 2 năm điều trị tích cực! ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_20",
+      "text": "Tại sao khi bắt đầu khởi động thuốc hạ acid uric máu (Allopurinol hoặc Febuxostat), mọi khuyến cáo quốc tế bắt buộc phải **phối hợp đồng thời thuốc dự phòng bùng phát cơn cấp (Prophylaxis)** bằng **Colchicine liều thấp (0,5 – 1,0 mg/ngày)** liên tục trong vòng **3 đến 6 tháng**?",
+      "options": [
+        "Để tăng cường tác dụng hạ acid uric của Allopurinol.",
+        "Khi bắt đầu dùng ULT, acid uric máu tụt xuống nhanh chóng làm cho bề mặt các khối tinh thể MSU trong khớp bị hòa tan và phân rã thành các mảnh vi tinh thể sắc nhọn rơi vào ổ dịch khớp; các mảnh vụn này bị đại thực bào nuốt vào kích hoạt thể viêm NLRP3 gây bùng phát các **Cơn Gout cấp dội ngược (Paradoxical flares)**; nếu không có Colchicine dự phòng, bệnh nhân sẽ bị đau đớn dữ dội và sợ hãi tự ý bỏ thuốc hạ acid uric!",
+        "Để bảo vệ chức năng gan thận khỏi độc tính của Allopurinol.",
+        "Để làm giảm huyết áp cho bệnh nhân."
+      ],
+      "correct": 1,
+      "explanation": "Đây là \"nguyên nhân số 1 khiến bệnh nhân Gout bỏ thuốc điều trị\": Bác sĩ cho Allopurinol nhưng quên kê Colchicine dự phòng. Sau vài ngày uống Allopurinol, acid uric máu hạ nhanh làm tinh thể MSU bong tróc $\\rightarrow$ bệnh nhân lên cơn đau đớn dữ dội gấp đôi $\\rightarrow$ bệnh nhân nghĩ rằng \"thuốc này làm bệnh nặng hơn\" nên vứt bỏ thuốc và không bao giờ tái khám! Thời gian dự phòng bắt buộc: **Tối thiểu 3 – 6 tháng** (hoặc duy trì cho đến khi đạt mục tiêu acid uric máu và hết hạt tophi). ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_21",
+      "text": "Thử nghiệm lâm sàng nổi tiếng **CARES (NEJM 2018)** và thử nghiệm tiếp theo **FAST (Lancet 2020)** đã đưa ra kết luận gì về tính an toàn tim mạch của thuốc hạ acid uric máu nhóm ức chế xanthine oxidase thế hệ mới **Febuxostat** so với **Allopurinol** ở bệnh nhân Gout có tiền sử bệnh tim mạch xơ vữa?",
+      "options": [
+        "Febuxostat an toàn tuyệt đối và làm giảm 50% nguy cơ nhồi máu cơ tim.",
+        "Thử nghiệm **CARES** đưa ra cảnh báo hộp đen (Black Box Warning) vì Febuxostat tuy không thua kém về biến cố tim mạch gộp (MACE) nhưng làm **tăng có ý nghĩa thống kê tỷ lệ Tử vong do mọi nguyên nhân và Tử vong do tim mạch** so với Allopurinol; tuy nhiên, thử nghiệm **FAST** tại châu Âu năm 2020 sau đó chứng minh Febuxostat không làm tăng tử vong khi dùng liều phù hợp; các guideline hiện nay khuyến cáo **thận trọng và ưu tiên Allopurinol hơn Febuxostat ở bệnh nhân có bệnh tim mạch xơ vữa nặng hoặc suy tim**.",
+        "Febuxostat bị cấm lưu hành hoàn toàn trên toàn thế giới.",
+        "Allopurinol gây suy tim nặng hơn Febuxostat."
+      ],
+      "correct": 1,
+      "explanation": "Đây là chủ đề \"nóng bỏng\" nhất trong các hội nghị tim mạch - cơ xương khớp: Sau thử nghiệm CARES 2018, FDA Hoa Kỳ đã dán nhãn Cảnh báo hộp đen (Black Box Warning) cho Febuxostat vì lo ngại tăng tử vong tim mạch so với Allopurinol. Thử nghiệm FAST 2020 tại Anh và Đan Mạch đã gỡ bỏ bớt gánh nặng tâm lý khi chứng minh tính không thua kém (non-inferiority) về tử vong. Dù vậy, theo ACR 2020, **Allopurinol vẫn là lựa chọn hàng đầu số 1 (First-line)** cho mọi bệnh nhân, chỉ chuyển sang Febuxostat khi dị ứng Allopurinol, mang gen HLA-B*5801 hoặc không đạt mục tiêu điều trị. ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_22",
+      "text": "Theo ACR 2020, liều khởi đầu khuyến cáo của **Allopurinol** ở bệnh nhân có chức năng thận bình thường và ở bệnh nhân có Bệnh thận mạn tính (CKD) giai đoạn 3 – 4 là bao nhiêu để phòng ngừa dị ứng nặng và đợt cấp?",
+      "options": [
+        "Khởi đầu ngay liều 300 mg/ngày cho tất cả mọi người.",
+        "**Nguyên tắc \"Start Low, Go Slow\"**: Khởi đầu liều thấp **$\\le 100\\ \\text{mg/ngày}$** ở người bình thường; và **$\\le 50\\ \\text{mg/ngày}$** ở bệnh nhân có suy thận mạn (CKD giai đoạn $\\ge 3$); sau đó định kỳ xét nghiệm acid uric máu mỗi 2 – 4 tuần và tăng liều dần dần (mỗi lần tăng 50 – 100 mg) cho đến khi đạt nồng độ mục tiêu $< 6{,}0\\ \\text{mg/dL}$ (liều tối đa có thể lên tới $600 - 800\\ \\text{mg/ngày}$ nếu chức năng thận cho phép).",
+        "Khởi đầu liều tối đa 800 mg/ngày ngay tuần đầu.",
+        "Chỉ dùng liều 50 mg suốt đời không được tăng liều."
+      ],
+      "correct": 1,
+      "explanation": "Rất nhiều bác sĩ quen tay kê ngay đơn \"Allopurinol 300 mg/ngày x 1 viên uống\". Đây là sai lầm nguy hiểm: Khởi đầu ngay liều cao 300 mg làm tăng vọt nguy cơ xảy ra hội chứng dị ứng hoại tử thượng bì TEN đe dọa tính mạng, đồng thời làm acid uric máu tụt dốc quá nhanh kích hoạt cơn Gout cấp dội ngược dữ dội. Bắt buộc phải **khởi đầu liều thấp $\\le 100\\ \\text{mg}$ (hoặc $50\\ \\text{mg}$ khi có suy thận)** rồi tăng liều từng nấc mỗi 2-4 tuần (Treat-to-target). ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_23",
+      "text": "Bệnh nhân nam 62 tuổi mắc bệnh Gout mạn tính có nhiều hạt tophi, kèm Bệnh thận mạn tính giai đoạn 4 ($\\text{eGFR} = 22\\ \\text{ml/phút/1{,}73m}^2$). Không có tiền sử bệnh tim mạch xơ vữa. Thuốc hạ acid uric máu nào sau đây có ưu thế chuyển hóa qua gan không phụ thuộc vào chức năng lọc của thận, không cần chỉnh liều ở bệnh nhân suy thận nhẹ đến vừa và là lựa chọn rất thuận tiện?",
+      "options": [
+        "Probenecid.",
+        "**Febuxostat (Feburic / Uloric)**: Chuyển hóa chủ yếu qua gan bằng con đường liên hợp glucuronide và oxy hóa qua cytochrome P450, đào thải đồng đều qua cả gan và thận; không cần chỉnh liều ở bệnh nhân suy thận nhẹ đến trung bình và có thể dùng an toàn ở bệnh nhân suy thận nặng eGFR $15 - 30\\ \\text{ml/ph}$.",
+        "Sulfinpyrazone.",
+        "Colchicine liều cao."
+      ],
+      "correct": 1,
+      "explanation": "- **Allopurinol:** Chất chuyển hóa có hoạt tính Oxypurinol đào thải $100\\%$ qua thận, khi suy thận Oxypurinol bị tích tụ trong máu làm tăng nguy cơ dị ứng DRESS/TEN, bắt buộc phải khởi đầu liều cực thấp $50\\ \\text{mg}$ và chỉnh liều thận trọng. - **Febuxostat:** Không phụ thuộc nhiều vào bài tiết thận (đào thải qua cả phân và nước tiểu). Do đó ở bệnh nhân suy thận vừa và nặng, Febuxostat là vũ khí cực kỳ mạnh mẽ để hạ acid uric máu đạt đích $< 6{,}0\\ \\text{mg/dL}$ mà không lo lắng về tích tụ độc tính thận. Thuốc tăng thải acid uric như Probenecid mất hoàn toàn tác dụng khi eGFR $< 30\\ \\text{ml/ph}$! ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_24",
+      "text": "Bệnh nhân nam 68 tuổi mắc bệnh thận mạn giai đoạn 4 ($\\text{eGFR} = 25\\ \\text{ml/ph}$) và loét dạ dày tá tràng tiến triển, đang bùng phát một cơn Gout cấp sưng đau dữ dội khớp cổ chân. Thuốc chống viêm cắt cơn cấp nào sau đây là **LỰA CHỌN ĐẦU TAY AN TOÀN NHẤT**?",
+      "options": [
+        "Thuốc chống viêm không steroid NSAID (Indomethacin hoặc Diclofenac).",
+        "**Corticosteroid đường toàn thân (Prednisolone uống 30 – 35 mg/ngày trong 5 ngày, hoặc tiêm bắp Methylprednisolone)**, HOẶC **Tiêm Corticosteroid trực tiếp vào nội khớp (nếu chỉ tổn thương 1-2 khớp)**.",
+        "Colchicine liều cao 3 mg/ngày.",
+        "Aspirin liều thấp 100 mg/ngày."
+      ],
+      "correct": 1,
+      "explanation": "Bệnh nhân suy thận nặng (eGFR $< 30$) và có loét dạ dày: - **NSAID (Indomethacin, Naproxen, Celecoxib):** Chống chỉ định tuyệt đối vì gây co thắt tiểu động mạch vào cầu thận làm sụp đổ chức năng thận cấp tính và gây xuất huyết tiêu hóa thủng dạ dày. - **Colchicine:** Đào thải qua thận và qua glycoprotein P; ở bệnh nhân suy thận nặng, Colchicine tích tụ gây ngộ độc suy tủy, tiêu cơ vân hoại tử và nhiễm độc thần kinh cơ. $\\rightarrow$ **Corticosteroid đường uống ngắn ngày (Prednisolone 30-35 mg/ngày trong 5 ngày rồi ngừng)** hoặc tiêm Corticoid nội khớp là \"cứu cánh duy nhất\" an toàn tuyệt đối cho chức năng thận và cắt cơn viêm ngoạn mục! ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_25",
+      "text": "Ở bệnh nhân mắc bệnh Gout có kèm theo Tăng huyết áp và Rối loạn lipid máu, hai thuốc tim mạch nào sau đây được các guideline khuyến cáo ưu tiên lựa chọn vì có tác dụng ức chế kênh URAT-1 tại thận giúp **tăng đào thải Acid Uric qua nước tiểu** như một tác dụng cộng thêm có lợi?",
+      "options": [
+        "Thuốc lợi tiểu Hydrochlorothiazide và thuốc chẹn kênh Calci Amlodipine.",
+        "**Thuốc chẹn thụ thể Angiotensin II Losartan** (cho tăng huyết áp) VÀ **Thuốc hạ mỡ máu nhóm Fibrate Fenofibrate** (cho tăng triglyceride máu).",
+        "Thuốc chẹn Beta giao cảm Metoprolol và Simvastatin.",
+        "Thuốc ức chế men chuyển Enalapril và Ezetimibe."
+      ],
+      "correct": 1,
+      "explanation": "Mẹo điều trị toàn diện: - **Losartan:** Là thuốc chẹn thụ thể ARB duy nhất có tác dụng ức chế cạnh tranh kênh vận chuyển $\\text{URAT-1}$ ở ống lượn gần, làm tăng đào thải acid uric qua nước tiểu và hạ acid uric máu khoảng $10 - 15\\%$. Ngược lại, thuốc lợi tiểu Thiazide và Furosemide làm tăng tái hấp thu urate và là thủ phạm hàng đầu gây bùng phát Gout! - **Fenofibrate:** Cũng có tác dụng ức chế kênh $\\text{URAT-1}$ và $\\text{GLUT-9}$ làm giảm nồng độ acid uric máu tới $20\\%$. Phối hợp Losartan + Fenofibrate là \"cặp bài trùng hoàn hảo\" cho bệnh nhân Gout có hội chứng chuyển hóa! ## PHẦN 3: CÁC KHUYẾN CÁO QUẢN LÝ EULAR 2016 / 2020 & TÌNH HUỐNG LÂM SÀNG KHÓ (CÂU 26 ĐẾN 35)"
+    },
+    {
+      "id": "bank_im82_gout_eular_26",
+      "text": "Theo khuyến cáo của Liên đoàn Chống Thấp khớp Châu Âu (EULAR 2016), một bệnh nhân nam 35 tuổi bị cơn Gout cấp lần đầu tiên trong đời ở ngón chân cái. Trong những tình huống nào sau đây, bác sĩ được khuyến cáo **KHỞI ĐỘNG THUỐC HẠ ACID URIC MÁU (ULT) NGAY TỪ CƠN ĐẦU TIÊN** mà không cần đợi đến khi có cơn tái phát?",
+      "options": [
+        "Khởi động cho tất cả mọi bệnh nhân không cần điều kiện.",
+        "Khởi động ngay khi bệnh nhân có một trong các yếu tố: **(1) Tuổi trẻ khi khởi phát (< 40 tuổi); (2) Nồng độ Acid Uric máu rất cao (> 8 mg/dL hay > 480 µmol/L); (3) Có tổn thương khớp trên chẩn đoán hình ảnh (khuyết xương X-quang hoặc tophi trên siêu âm); (4) Có bệnh kèm theo như Suy thận mạn (CKD), Tăng huyết áp, Đái tháo đường, Bệnh tim thiếu máu cục bộ**.",
+        "Chỉ khởi động khi bệnh nhân bị viêm ít nhất 5 khớp cùng lúc.",
+        "Chống chỉ định khởi động ULT ở cơn đầu tiên trong mọi trường hợp."
+      ],
+      "correct": 1,
+      "explanation": "Quan niệm cũ \"chờ bị 2 cơn/năm mới dùng thuốc hạ acid uric\" đã lỗi thời. EULAR 2016 và ACR 2020 chỉ ra rằng: Nếu bệnh nhân trẻ tuổi (< 40 tuổi) hoặc có acid uric máu rất cao ($> 8\\ \\text{mg/dL}$), hoặc có bệnh tim mạch, suy thận, hoặc đã có bằng chứng tinh thể MSU bào mòn xương $\\rightarrow$ sự lắng đọng urate toàn thân đã ở mức nguy hiểm. Khởi động ULT sớm giúp bảo vệ thận và mạch máu, ngăn ngừa phá hủy khớp vĩnh viễn. ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_27",
+      "text": "Theo EULAR 2016, chiến lược mục tiêu hạ acid uric máu (Treat-to-target) được cá thể hóa theo thời gian như thế nào ở bệnh nhân có hạt Tophi mạn tính?",
+      "options": [
+        "Duy trì mức < 6 mg/dL suốt đời bất kể có tophi hay không.",
+        "Duy trì mục tiêu nghiêm ngặt **$< 5\\ \\text{mg/dL}$ ($< 300\\ \\mu\\text{mol/L}$)** cho đến khi **TOÀN BỘ CÁC HẠT TOPHI TAN HẾT HOÀN TOÀN** và bệnh nhân không còn cơn bùng phát nào; sau đó có thể nới lỏng mục tiêu về mức duy trì lâu dài là **$< 6\\ \\text{mg/dL}$ ($< 360\\ \\mu\\text{mol/L}$)** suốt đời.",
+        "Khi hạt tophi tan hết thì ngừng thuốc hoàn toàn.",
+        "Hạ acid uric máu xuống dưới 2 mg/dL càng thấp càng tốt."
+      ],
+      "correct": 1,
+      "explanation": "Tinh thể MSU trong hạt tophi cần gradient nồng độ rất lớn để khuếch tán hòa tan. Ngưỡng $< 5\\ \\text{mg/dL}$ ($< 300\\ \\mu\\text{mol/L}$) giúp tốc độ tan tophi nhanh gấp đôi so với ngưỡng $< 6\\ \\text{mg/dL}$. Tuy nhiên, sau khi tophi đã tiêu biến hoàn toàn, việc duy trì mức $< 6\\ \\text{mg/dL}$ là đủ để ngăn ngừa kết tinh mới. EULAR cũng cảnh báo: Không nên hạ acid uric máu quá thấp ($< 3\\ \\text{mg/dL}$ kéo dài) vì acid uric là chất chống oxy hóa tự nhiên của hệ thần kinh, hạ quá thấp có thể liên quan đến tăng nguy cơ thoái hóa thần kinh (Parkinson, Alzheimer). ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_28",
+      "text": "Thuốc nhóm tăng đào thải acid uric qua nước tiểu (Uricosuric agents như **Probenecid, Benzbromarone**) bị **CHỐNG CHỈ ĐỊNH TUYỆT ĐỐI** trong tình huống lâm sàng nào sau đây?",
+      "options": [
+        "Bệnh nhân có tiền sử tăng huyết áp.",
+        "Bệnh nhân có **Tiền sử Sỏi thận tiết niệu (Urolithiasis)** HOẶC bệnh nhân có **Suy giảm chức năng thận nặng ($\\text{eGFR} < 30\\ \\text{ml/phút}$)**.",
+        "Bệnh nhân bị dị ứng Allopurinol.",
+        "Bệnh nhân trên 50 tuổi."
+      ],
+      "correct": 1,
+      "explanation": "Thuốc Uricosuric ức chế kênh $\\text{URAT-1}$ ở ống lượn gần làm dồn toàn bộ lượng acid uric vào nước tiểu. Nếu bệnh nhân đã có tiền sử sỏi thận, nồng độ urate nước tiểu tăng vọt sẽ kết tinh thành sỏi acid uric khổng lồ bít tắc đài bể thận gây suy thận cấp. Ngoài ra, khi eGFR $< 30\\ \\text{ml/ph}$, thuốc mất hoàn toàn vị trí tác dụng tại ống thận nên không còn hiệu quả hạ acid uric máu! ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_29",
+      "text": "Thuốc **Pegloticase (Krystexxa)** là một enzyme Uricase tái tổ hợp gắn polyethylene glycol (PEG), được chỉ định cho Gout mạn tính kháng trị có tophi phá hủy khớp. Biến chứng nguy hiểm nhất và hiện tượng mất đáp ứng thuốc xảy ra do cơ chế nào?",
+      "options": [
+        "Thuốc làm hoại tử tế bào gan cấp.",
+        "Cơ thể sinh ra **Kháng thể kháng thuốc (Anti-drug antibodies / Anti-PEG antibodies)**; kháng thể này làm giảm nhanh nồng độ thuốc trong máu (mất tác dụng làm acid uric máu tăng vọt trở lại) và làm tăng nguy cơ bùng phát **Phản ứng phản vệ / Phản ứng truyền dịch nặng nề**; do đó bắt buộc phải theo dõi nồng độ acid uric máu trước mỗi lần truyền, nếu acid uric máu tăng $> 6\\ \\text{mg/dL}$ thì phải ngừng thuốc ngay!",
+        "Thuốc gây xơ cứng bì toàn thể.",
+        "Thuốc gây toan lactic máu."
+      ],
+      "correct": 1,
+      "explanation": "Con người trong quá trình tiến hóa đã bị đột biến mất gen enzyme Uricase (enzyme chuyển acid uric thành Allantoin hòa tan cao). Pegloticase cung cấp enzyme uricase ngoại sinh tiêm truyền tĩnh mạch mỗi 2 tuần, giúp hạ acid uric máu về gần bằng 0 chỉ sau vài giờ. Tuy nhiên, vì là protein ngoại lai, cơ thể người sinh kháng thể kháng thuốc ở $40\\%$ bệnh nhân. Dấu hiệu chỉ điểm kháng thể xuất hiện là nồng độ acid uric máu đo ngay trước buổi truyền tăng $> 6\\ \\text{mg/dL}$. Tiếp tục truyền sẽ kích hoạt sốc phản vệ tử vong! ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_30",
+      "text": "Thuốc sinh học ức chế chọn lọc **Interleukin-1 (IL-1 blocker như Anakinra tiêm dưới da 100 mg/ngày)** được EULAR và ACR khuyến cáo chỉ định trong điều trị Cơn Gout cấp ở đối tượng bệnh nhân nào?",
+      "options": [
+        "Chỉ định đầu tay cho mọi cơn Gout cấp tại phòng khám.",
+        "Chỉ định cho các bệnh nhân có **Cơn Gout cấp tái phát nhiều lần nhưng có CHỐNG CHỈ ĐỊNH hoặc KHÁNG TRỊ / KHÔNG DUNG NẠP với cả 3 nhóm thuốc chống viêm truyền thống (Colchicine, NSAIDs và Corticosteroid)** (ví dụ: Bệnh nhân suy thận nặng kèm loét dạ dày xuất huyết và đái tháo đường mất bù nhiễm trùng).",
+        "Dùng để hạ acid uric máu thay cho Allopurinol.",
+        "Chỉ định cho phụ nữ mang thai."
+      ],
+      "correct": 1,
+      "explanation": "Vì IL-1$\\beta$ là cytokine đích tối cao của thể viêm NLRP3, thuốc chẹn thụ thể IL-1 (Anakinra) hoặc kháng thể đơn dòng kháng IL-1$\\beta$ (Canakinumab) cắt cơn Gout cấp cực kỳ ngoạn mục mà không làm tổn thương dạ dày, không độc thận và không làm tăng đường huyết như Corticoid. Tuy nhiên do giá thành đắt đỏ, nó chỉ được dùng làm \"vũ khí cứu viện tối hậu\" khi bệnh nhân không thể dùng được Colchicine, NSAID và Corticoid. ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_31",
+      "text": "Theo các nghiên cứu dịch tễ học và khuyến cáo dinh dưỡng của EULAR, loại đồ uống không cồn nào sau đây làm tăng nguy cơ bùng phát cơn Gout cấp và tăng nồng độ Acid Uric máu mạnh mẽ tương đương với uống rượu bia?",
+      "options": [
+        "Cà phê đen không đường.",
+        "**Nước ngọt có gas và nước trái cây đóng hộp chứa hàm lượng cao Đường Fructose (High-Fructose Corn Syrup - HFCS)**; do quá trình chuyển hóa Fructose tại gan tiêu thụ nhanh chóng phân tử ATP tạo thành AMP, AMP bị thoái giáng ồ ạt qua con đường purin sinh ra lượng lớn Acid Uric máu chỉ sau vài chục phút uống.",
+        "Trà xanh thảo mộc.",
+        "Sữa tươi ít béo."
+      ],
+      "correct": 1,
+      "explanation": "Đây là cạm bẫy dinh dưỡng phổ biến: Bệnh nhân Gout kiêng bia rượu nhưng lại uống thoải mái nước ngọt có gas, trà sữa hoặc nước cam ép đóng hộp! Enzyme Fructokinase tại gan phosphoryl hóa Fructose mà không có cơ chế ức chế ngược $\\rightarrow$ cạn kiệt phosphat nội bào và tiêu tốn ATP $\\rightarrow \\text{ATP} \\rightarrow \\text{ADP} \\rightarrow \\text{AMP} \\rightarrow$ thoái hóa thành **Acid Uric tăng vọt**. Ngược lại, **Cà phê** (chứa caffeine ức chế xanthine oxidase nhẹ) và **Sữa ít béo (Low-fat dairy)** lại có tác dụng bảo vệ làm giảm acid uric máu! ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_32",
+      "text": "Tại sao trong tất cả các loại đồ uống có cồn, **Bia** lại là thủ phạm nguy hiểm số 1 làm tăng acid uric máu và kích hoạt cơn Gout cấp mạnh hơn nhiều so với rượu vang hoặc rượu mạnh?",
+      "options": [
+        "Vì bia có nồng độ cồn cao hơn rượu mạnh.",
+        "Vì bia là \"cú đấm kép\": (1) Bản thân chất cồn Ethanol cạnh tranh đào thải với acid uric ở ống thận và làm tăng dị hóa ATP; (2) Men bia chứa hàm lượng khổng lồ gốc **Purine tự do (đặc biệt là Guanosine)** cực kỳ dễ hấp thu qua ruột non vào máu để chuyển hóa thành Acid Uric.",
+        "Do bia làm tăng hấp thu Calci ở ruột.",
+        "Do men bia tiêu diệt vi khuẩn đường ruột."
+      ],
+      "correct": 1,
+      "explanation": "Uống rượu mạnh chỉ chịu tác động của Ethanol (tăng thoái hóa ATP thành AMP và tăng acid lactic ức chế bài tiết urate ở thận). Nhưng **Bia** được lên men từ ngũ cốc và nấm men bia giàu purine nhất trong các loại thực phẩm lỏng. Uống $1 - 2$ vại bia cung cấp ngay một lượng purin hấp thu nhanh khổng lồ, kết hợp cồn ức chế thận thải urate $\\rightarrow$ cơn Gout bùng phát ngay trong đêm sau chầu bia! ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_33",
+      "text": "Tại sao bệnh Gout rất hiếm khi khởi phát ở phụ nữ trong độ tuổi sinh đẻ (tiền mãn kinh), nhưng sau độ tuổi mãn kinh (sau 55 – 60 tuổi) thì tỷ lệ mắc bệnh Gout ở nữ giới lại tăng vọt tương đương nam giới?",
+      "options": [
+        "Do phụ nữ trẻ tuổi ăn ít đạm hơn.",
+        "Hormone sinh dục nữ **Estrogen** có tác dụng sinh lý tự nhiên **ức chế protein vận chuyển URAT-1 và GLUT-9 tại ống lượn gần**, làm tăng bài xuất acid uric qua nước tiểu và giữ cho nồng độ acid uric máu ở phụ nữ tiền mãn kinh luôn thấp hơn nam giới khoảng $1\\ \\text{mg/dL}$; sau khi mãn kinh, nồng độ Estrogen sụp đổ làm acid uric máu tăng vọt lên ngang bằng nam giới.",
+        "Do phụ nữ tiền mãn kinh có chu kỳ kinh nguyệt mất máu đào thải acid uric.",
+        "Do hoàng thể tiết enzyme phân giải acid uric."
+      ],
+      "correct": 1,
+      "explanation": "Estrogen là thuốc hạ acid uric tự nhiên của phụ nữ! Nếu một phụ nữ trẻ $< 35$ tuổi chưa mãn kinh mà xuất hiện viêm khớp giống Gout, bác sĩ bắt buộc phải nghĩ đến: (1) Bệnh thận di truyền mất chức năng bài tiết urate; (2) Đột biến gen enzyme chuyển hóa purin (thiếu hụt HGPRT); hoặc (3) Chẩn đoán nhầm với Viêm khớp dạng thấp, Lupus ban đỏ hệ thống hoặc Viêm khớp vảy nến! ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_34",
+      "text": "Một bệnh nhân dùng Febuxostat $40\\ \\text{mg/ngày}$ được 4 tuần, xét nghiệm acid uric máu đạt mục tiêu $340\\ \\mu\\text{mol/L}$ ($5{,}7\\ \\text{mg/dL}$), nhưng men gan tăng nhẹ: $\\text{AST} = 65\\ \\text{UI/L}$, $\\text{ALT} = 72\\ \\text{UI/L}$ (tăng $< 2$ lần giới hạn trên bình thường), Bilirubin bình thường, không có triệu chứng vàng da. Thái độ xử trí chuẩn xác theo khuyến cáo là gì?",
+      "options": [
+        "Ngừng ngay lập tức Febuxostat vĩnh viễn vì gây độc gan.",
+        "**Tiếp tục duy trì liều Febuxostat và theo dõi sát men gan định kỳ mỗi 2 – 4 tuần**: Hiện tượng tăng nhẹ men gan thoáng qua ($< 3$ lần ULN) thường tự giới hạn mà không cần ngừng thuốc; chỉ xem xét ngừng thuốc khi men gan tăng $> 3$ lần giới hạn trên bình thường hoặc có tăng Bilirubin máu kèm theo.",
+        "Tăng gấp đôi liều Febuxostat.",
+        "Cho nhập viện lọc máu giải độc gan."
+      ],
+      "correct": 1,
+      "explanation": "Cả Allopurinol và Febuxostat đều có thể làm tăng nhẹ men gan không triệu chứng ở $5 - 10\\%$ bệnh nhân trong những tháng đầu điều trị. Nếu men gan chỉ tăng nhẹ $< 2 - 3$ lần ULN, việc vội vàng ngừng thuốc sẽ làm gián đoạn chiến lược hạ acid uric máu. Chỉ cần theo dõi sát, đa số trường hợp men gan sẽ tự bình ổn trở lại khi tế bào gan thích nghi. Nếu $\\text{ALT} > 3$ lần ULN hoặc có triệu chứng buồn nôn, vàng da thì mới bắt buộc ngừng thuốc. ---"
+    },
+    {
+      "id": "bank_im82_gout_eular_35",
+      "text": "Ở bệnh nhân Gout mạn tính có tophi biến dạng khớp nặng, bác sĩ đã tăng liều Allopurinol lên tối đa $600\\ \\text{mg/ngày}$ nhưng nồng độ Acid Uric máu vẫn dẫm chân ở mức $7{,}5\\ \\text{mg/dL}$ (không đạt mục tiêu $< 5\\ \\text{mg/dL}$). Chức năng thận của bệnh nhân bình thường (eGFR $90\\ \\text{ml/ph}$). Biện pháp phối hợp thuốc hạ acid uric nào sau đây được khuyến cáo theo ACR 2020?",
+      "options": [
+        "Phối hợp thêm Febuxostat liều cao chung với Allopurinol.",
+        "**Phối hợp một thuốc ức chế Xanthine Oxidase (Allopurinol) với một thuốc TĂNG ĐÀO THẢI ACID URIC QUA THẬN (Uricosuric agent như Probenecid)** để tạo cơ chế hiệp đồng kép \"vừa chặn sinh tổng hợp ở gan, vừa mở van bài tiết ở thận\".",
+        "Uống thêm Colchicine 3 mg/ngày để hạ acid uric.",
+        "Ngừng toàn bộ thuốc và chuyển sang ăn chay tuyệt đối."
+      ],
+      "correct": 1,
+      "explanation": "Tuyệt đối **CẤM phối hợp 2 thuốc cùng nhóm ức chế Xanthine Oxidase (Allopurinol + Febuxostat)** vì cùng một cơ chế phân tử và làm tăng vọt độc tính trên gan! Khi đơn trị liệu ức chế XO liều tối đa thất bại, chiến lược phối hợp chuẩn mực là: **Ức chế XO (Allopurinol/Febuxostat) + Thuốc tăng thải Urate qua thận (Probenecid, Benzbromarone, hoặc Losartan)**. Cơ chế kép này giúp hạ acid uric máu đạt đích sâu sắc $< 5\\ \\text{mg/dL}$ cho các ca tophi khổng lồ kháng trị."
+    }
+  ]
+}
