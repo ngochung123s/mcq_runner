@@ -60,6 +60,7 @@ def main() -> int:
     # survives git checkouts: most questions, then a dedicated single-bank file over a
     # master file, then file name.
     best: dict[str, tuple[tuple, dict, str, float]] = {}
+    variants: dict[str, dict[str, list[str]]] = {}  # id -> question-content fingerprint -> files
     for path in sorted(DATA.glob("*.json")):
         if "backup" in path.name.lower():
             continue
@@ -71,9 +72,17 @@ def main() -> int:
         mtime = path.stat().st_mtime
         for bank in found:
             rank = (len(bank["questions"]), len(found) == 1, path.name)
+            fp = json.dumps([[q.get("text"), q.get("options"), q.get("correct")] for q in bank["questions"]], ensure_ascii=False)
+            variants.setdefault(bank["id"], {}).setdefault(fp, []).append(path.name)
             cur = best.get(bank["id"])
             if cur is None or rank > cur[0]:
                 best[bank["id"]] = (rank, bank, path.name, mtime)
+
+    for bid, fps in sorted(variants.items()):
+        if len(fps) > 1:
+            chosen = best[bid][2]
+            others = sorted(f for files in fps.values() if chosen not in files for f in files)
+            print(f"CHÚ Ý {bid}: {len(fps)} phiên bản khác nhau; dùng {chosen} ({len(best[bid][1]['questions'])} câu), bản khác bị bỏ: {', '.join(others)}")
 
     prefix = "window.MCQ_LIBRARY = "
     old_banks: dict[str, dict] = {}

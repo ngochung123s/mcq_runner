@@ -1316,6 +1316,58 @@ Câu 2: ..."></textarea>
     };
 
     /**
+     * Keeps medmcq_history_v1 small. A question of an attempt that is an unchanged library question is
+     * stored as { _ref: 'bankId::qid', _perm, correct, _srcBank? } and rebuilt from data/library.js on
+     * read; everything else (user banks, which can be deleted; legacy items) keeps its full snapshot.
+     * In memory and in the sync file, attempts are always full.
+     */
+    const HistoryCodec = {
+      _compactCache: new WeakMap(),
+      libQuestion(srcId, qid) {
+        if (Library.banks.length === 0 && window.MCQ_LIBRARY) Library.load();
+        const bank = Library.byId.get(srcId);
+        return bank ? Catalog.qMap(bank).get(qid) : undefined;
+      },
+      canon(o) { return JSON.stringify(Object.keys(o).sort().map((k) => [k, o[k]])); },
+      expandQ(s) {
+        if (!s || !s._ref) return s;
+        const { bankId, qid } = splitKey(s._ref);
+        const orig = this.libQuestion(bankId, qid);
+        const extra = s._srcBank ? { _srcBank: s._srcBank } : {};
+        if (orig && Array.isArray(s._perm) && s._perm.length === orig.options.length) {
+          const out = { ...orig, options: s._perm.map((i) => orig.options[i]), correct: s._perm.indexOf(orig.correct), ...extra };
+          if (Array.isArray(orig.option_explanations)) out.option_explanations = s._perm.map((i) => orig.option_explanations[i]);
+          return out;
+        }
+        const n = Array.isArray(s._perm) ? s._perm.length : 4;
+        return { id: qid, text: '(Câu hỏi này không còn trong thư viện đề.)', options: Array.from({ length: n }, () => '—'), correct: s.correct ?? 0, explanation: '', ...extra };
+      },
+      compactQ(q, bankId) {
+        if (!q || q._ref || q.id === undefined || !Array.isArray(q.options)) return q;
+        const src = q._srcBank || bankId;
+        const orig = this.libQuestion(src, q.id);
+        if (!orig || orig.options.length !== q.options.length) return q;
+        const perm = q.options.map((o) => orig.options.indexOf(o));
+        if (perm.some((i) => i < 0) || new Set(perm).size !== perm.length) return q;
+        const stub = { _ref: qKey(src, q.id), _perm: perm, correct: q.correct, ...(q._srcBank ? { _srcBank: q._srcBank } : {}) };
+        return this.canon(this.expandQ(stub)) === this.canon(q) ? stub : q;
+      },
+      compact(att) {
+        if (!att || !Array.isArray(att.questions)) return att;
+        let c = this._compactCache.get(att);
+        if (!c) {
+          c = { ...att, questions: att.questions.map((q) => this.compactQ(q, att.bankId)) };
+          this._compactCache.set(att, c);
+        }
+        return c;
+      },
+      expand(att) {
+        if (!att || !Array.isArray(att.questions) || !att.questions.some((q) => q && q._ref)) return att;
+        return { ...att, questions: att.questions.map((q) => this.expandQ(q)) };
+      }
+    };
+
+    /**
      * Derived from medmcq_history_v1: per bank its attempts (newest first) and, per question key
      * `${srcBankId}::${qid}`, whether its latest result was wrong/blank. Rebuilt when the history array changes.
      */
@@ -1739,7 +1791,7 @@ Câu 2: ..."></textarea>
         try {
           const raw = localStorage.getItem(this.STORAGE_HIST_KEY);
           const parsed = raw ? JSON.parse(raw) : [];
-          if (Array.isArray(parsed)) list = parsed;
+          if (Array.isArray(parsed)) list = parsed.map((a) => HistoryCodec.expand(a));
         } catch (e) { /* corrupted history reads as empty */ }
         this._hist = list;
         return list;
@@ -1747,7 +1799,7 @@ Câu 2: ..."></textarea>
 
       static setHistory(list) {
         try {
-          localStorage.setItem(this.STORAGE_HIST_KEY, JSON.stringify(list));
+          localStorage.setItem(this.STORAGE_HIST_KEY, JSON.stringify(list.map((a) => HistoryCodec.compact(a))));
         } catch (e) {
           this._hist = null;
           throw e;
