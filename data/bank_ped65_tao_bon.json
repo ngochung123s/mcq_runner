@@ -1,0 +1,968 @@
+{
+ "id": "bank_ped65_tao_bon",
+ "title": "PED-65: Táo bón chức năng ở trẻ em (40 câu ca lâm sàng)",
+ "description": "Tiêu chuẩn Rome IV, cơ chế vòng xoắn nhịn đại tiện, khám và cờ đỏ, phân biệt Hirschsprung, cận lâm sàng, tống tháo và duy trì bằng PEG 3350, nhũ nhi và biến chứng. Theo guideline chuẩn, ngoài barem giáo trình. Một đáp án đúng nhất; có giải thích cho từng phương án.",
+ "updated": "2026-10-24T10:22:58Z",
+ "questions": [
+  {
+   "id": "PED65-A01",
+   "type": "vignette",
+   "topic": "Định nghĩa và Rome IV",
+   "subtopic": "Tiêu chí Rome IV ở trẻ < 4 tuổi",
+   "bloom": "hiểu",
+   "difficulty": 1,
+   "source": "PED-65 G0",
+   "text": "Bé trai 2 tuổi 6 tháng được mẹ đưa đến khám vì đi cầu cứng và ít thường xuyên. Mẹ cho biết bé đi cầu khoảng 2 lần mỗi tuần, phân khô và đôi khi rặn đau, đã kéo dài hơn 3 tháng. Bé đã tự chủ đi cầu từ hơn một năm nay và không có són phân. Khám thể chất bình thường, không sờ thấy khối phân ở bụng, không có bất thường vùng hậu môn. Theo tiêu chuẩn Rome IV, nhận định nào sau đây phù hợp nhất?",
+   "options": [
+    "Đủ tiêu chuẩn vì có ít nhất hai trong năm tiêu chí cơ bản, và triệu chứng đã kéo dài trên một tháng",
+    "Chưa đủ tiêu chuẩn vì bé dưới 4 tuổi, nên cần theo dõi thêm để xem bé có thêm tiêu chí tự chủ hay không",
+    "Chưa đủ tiêu chuẩn vì bé không có khối phân sờ được, nên chưa xếp bé vào nhóm táo bón chức năng",
+    "Đủ tiêu chuẩn vì bé đã có một tiêu chí Rome IV kéo dài, nên có thể chẩn đoán táo bón chức năng từ lần khám này"
+   ],
+   "correct": 0,
+   "explanation": "Rome IV ở trẻ < 4 tuổi cần triệu chứng ≥ 1 tháng và <b>≥ 2 trong 5 tiêu chí cơ bản</b> (≤ 2 lần đi cầu/tuần; giữ phân quá mức; đau/phân cứng khi đi cầu; phân đường kính lớn; khối phân lớn trong trực tràng). Bé có hai tiêu chí cơ bản kéo dài trên 1 tháng.",
+   "option_explanations": [
+    "Đúng — Trẻ dưới 4 tuổi cần ít nhất 2 trong 5 tiêu chí cơ bản trong ≥ 1 tháng; bé có ≤ 2 lần đi cầu/tuần và phân khô, rặn đau.",
+    "Sai — Tiêu chí tự chủ chỉ áp dụng khi trẻ đã tự chủ đi cầu và không cần thêm nếu bé đã đủ hai tiêu chí cơ bản.",
+    "Sai — Khối phân sờ được không phải tiêu chí bắt buộc của Rome IV, nên việc không sờ thấy khối phân không loại trừ chẩn đoán.",
+    "Sai — Cần có ít nhất hai tiêu chí cơ bản (dưới 4 tuổi), không đủ với chỉ một tiêu chí, dù triệu chứng đã kéo dài."
+   ]
+  },
+  {
+   "id": "PED65-A02",
+   "type": "vignette",
+   "topic": "Định nghĩa và Rome IV",
+   "subtopic": "Tiêu chí Rome IV ở trẻ ≥ 4 tuổi",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-65 G0",
+   "text": "Bé gái 6 tuổi đi học mẫu giáo lớp lớn. Gia đình cho biết bé đi cầu trong toilet khoảng 1 lần mỗi tuần, đã có vài lần són phân ra quần lót trong 2 tháng qua, và bé thường đứng co cứng người, bắt chéo chân khi cố nhịn. Các triệu chứng xảy ra ít nhất 1 lần mỗi tuần và đã kéo dài 3 tháng. Khám không phát hiện bệnh thực thể. Theo tiêu chuẩn Rome IV, nhận định nào sau đây phù hợp nhất?",
+   "options": [
+    "Đủ tiêu chuẩn vì chỉ cần một tiêu chí đi cầu ít là có thể chẩn đoán táo bón chức năng ở trẻ trên 4 tuổi",
+    "Đủ tiêu chuẩn vì bé có đi cầu ít và phân cứng, và hai tiêu chí này đã đủ cơ sở để kết luận táo bón chức năng ở trẻ trên 4 tuổi",
+    "Đủ tiêu chuẩn vì có ít nhất hai trong sáu tiêu chí, mỗi tiêu chí xảy ra ít nhất 1 lần mỗi tuần trong 1 tháng",
+    "Chưa đủ tiêu chuẩn vì bé chưa có đau bụng liên quan đến đại tiện, nên cần loại trừ hội chứng ruột kích thích trước"
+   ],
+   "correct": 2,
+   "explanation": "Ở trẻ ≥ 4 tuổi, Rome IV cần <b>≥ 2 trong 6 tiêu chí, mỗi tiêu chí xảy ra ≥ 1 lần/tuần, trong ≥ 1 tháng</b>. Bé có đi cầu ≤ 2 lần/tuần, són phân ≥ 1 lần/tuần và tư thế nhịn phân.",
+   "option_explanations": [
+    "Sai — từ 4 tuổi cần ≥ 2 tiêu chí; một tiêu chí đơn độc chưa đủ (đúng cho trẻ có thêm tiêu chí khác như són phân hoặc tư thế nhịn, như bé này).",
+    "Sai — Phân cứng và đi cầu ít là hai tiêu chí, nhưng với trẻ trên 4 tuổi cần đối chiếu đủ các tiêu chí với tần suất đã quy định.",
+    "Đúng — Trẻ ≥ 4 tuổi cần ≥ 2 trong 6 tiêu chí, mỗi tiêu chí ≥ 1 lần/tuần, trong ≥ 1 tháng; bé có đi cầu ≤ 2 lần/tuần, són phân và tư thế nhịn.",
+    "Sai — Đau bụng liên quan đại tiện là tiêu chí của hội chứng ruột kích thích, không phải điều kiện bắt buộc của táo bón chức năng."
+   ]
+  },
+  {
+   "id": "PED65-A03",
+   "type": "vignette",
+   "topic": "Định nghĩa và Rome IV",
+   "subtopic": "Táo bón không chỉ là đếm số lần đi cầu",
+   "bloom": "phân tích",
+   "difficulty": 2,
+   "source": "PED-65 G0",
+   "text": "Bé trai 4 tuổi đi cầu mỗi ngày một lần, đều đặn, nhưng phân cứng và bé đau khi rặn, thường khóc khi đi cầu. Mẹ không cho rằng bé bị táo bón vì bé đi hàng ngày. Bé thường đứng co cứng người, bắt chéo chân để nhịn đi cầu ít nhất 1 lần mỗi tuần trong 2 tháng nay. Khám bụng không có khối phân sờ được, khám hậu môn không có nứt hậu môn. Điều nào sau đây là nhận định đúng nhất về tình trạng của bé?",
+   "options": [
+    "Bé bị táo bón rõ ràng vì phân cứng, nên cần xét nghiệm thêm để xác định nguyên nhân trước khi điều trị",
+    "Bé bị hội chứng ruột kích thích thể táo bón, nên cần theo dõi thêm để phân biệt với táo bón chức năng",
+    "Bé có thể được xem là táo bón chức năng vì có hai tiêu chí Rome IV (phân cứng kèm đau và tư thế nhịn) khi bé đi cầu mỗi ngày",
+    "Bé không bị táo bón vì đi cầu mỗi ngày là đủ, còn phân cứng kèm đau khi đi cầu chưa đủ cơ sở để xếp vào tiêu chí"
+   ],
+   "correct": 2,
+   "explanation": "Rome IV từ 4 tuổi cần <b>≥ 2 tiêu chí</b>, mỗi tiêu chí xảy ra <b>≥ 1 lần/tuần</b> trong <b>≥ 1 tháng</b>. Bé có phân cứng kèm đau (tiêu chí 1) và tư thế nhịn (tiêu chí 2); đi cầu hằng ngày không loại trừ táo bón.",
+   "option_explanations": [
+    "Sai — Phân cứng là tiêu chí lâm sàng; xét nghiệm thường quy không cần thiết khi không có cờ đỏ.",
+    "Sai — Hội chứng ruột kích thích cần đau bụng liên quan đại tiện kéo dài; bé không có mô tả đó nên không phải chẩn đoán phù hợp nhất.",
+    "Đúng — Phân cứng đau và tư thế nhịn là các tiêu chí Rome IV; bé có thể được xem là táo bón chức năng dù đi cầu mỗi ngày.",
+    "Sai — Tần suất đi cầu hằng ngày không loại trừ táo bón khi có phân cứng và đau; đây là hiểu lầm về tần suất."
+   ]
+  },
+  {
+   "id": "PED65-A04",
+   "type": "vignette",
+   "topic": "Định nghĩa và Rome IV",
+   "subtopic": "Phân biệt són phân do tràn đầy với tiêu chảy",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-65 G0",
+   "text": "Bé gái 7 tuổi được mẹ đưa đến khám vì đi cầu phân lỏng ra quần lót thường xuyên trong 2 tháng. Bé đã được bác sĩ tuyến trước cho thuốc cầm tiêu chảy nhưng không đỡ. Khi hỏi kỹ, mẹ cho biết bé đi cầu phân cứng khoảng 1 lần mỗi 4 đến 5 ngày và bé thường nhịn đi cầu. Khám bụng sờ thấy khối phân ở hố chậu trái, bé không sốt. Điều nào sau đây là chẩn đoán đúng nhất?",
+   "options": [
+    "Són phân do tràn đầy trên nền táo bón chức năng có ứ phân, vì phân lỏng rỉ quanh khối phân kẹt trong trực tràng",
+    "Tiêu chảy kéo dài do nhiễm khuẩn tiêu hóa, vì bé đi cầu phân lỏng thường xuyên và đã được cho thuốc cầm tiêu chảy",
+    "Đái dầm do rối loạn chức năng bàng quang, vì bé có són dịch ra quần vào ban đêm và thường thấm ướt quần lót",
+    "Hội chứng ruột kích thích thể tiêu chảy, vì bé có đi cầu phân lỏng thường xuyên và có đau bụng kèm theo"
+   ],
+   "correct": 0,
+   "explanation": "Són phân do tràn đầy là phân lỏng rỉ quanh khối phân kẹt, <b>KHÔNG phải tiêu chảy</b>. Bé có táo bón chức năng với khối phân sờ được và nhịn đi cầu; điều trị gốc là tống tháo rồi duy trì.",
+   "option_explanations": [
+    "Đúng — Bé đi cầu cứng hiếm, nhịn đi cầu, sờ thấy khối phân: đây là són phân do tràn đầy trên nền táo bón chức năng có ứ phân.",
+    "Sai — Tiêu chảy do nhiễm khuẩn thường kèm sốt hoặc đau bụng cấp; bé không sốt và có khối phân sờ được nên không phù hợp.",
+    "Sai — Đái dầm là són tiểu, không gây phân lỏng ra quần; triệu chứng của bé là đi cầu phân lỏng.",
+    "Sai — Hội chứng ruột kích thích cần đau bụng không giảm khi hết táo bón; bé có khối phân và phân cứng trước đó."
+   ]
+  },
+  {
+   "id": "PED65-A05",
+   "type": "vignette",
+   "topic": "Định nghĩa và Rome IV",
+   "subtopic": "Phân biệt táo bón chức năng với táo bón có nguyên nhân thực thể",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-65 G0",
+   "text": "Bé gái 3 tuổi 2 tháng được đưa đến khám vì nhịn đi cầu, phân cứng và đôi khi có vết máu tươi dính ngoài phân. Tiền sử bé bắt đầu tập đi bô từ 2 tuổi và bố mẹ có nhắc bé nhiều lần khi bé không đi được. Khám thể chất bình thường, có vết nứt hậu môn nhỏ, không sờ thấy khối phân bất thường. Sau khi đánh giá phù hợp, nhận định nào sau đây là đúng nhất?",
+   "options": [
+    "Chẩn đoán cần chờ kết quả chụp X-quang bụng thường quy trước khi quyết định điều trị táo bón cho bé",
+    "Chẩn đoán là táo bón chức năng khi có tiêu chí Rome IV và máu tươi dính ngoài phân do nứt hậu môn, và không có cờ đỏ",
+    "Chẩn đoán là bệnh celiac khi có máu trong phân, nên xét nghiệm kháng thể anti-tTG để xác định chẩn đoán từ đầu",
+    "Chẩn đoán là bệnh Hirschsprung khi có vết máu tươi trong phân ở trẻ lớn hơn 3 tuổi, nên chuyển tuyến"
+   ],
+   "correct": 1,
+   "explanation": "Máu đỏ tươi dính ngoài phân thường do <b>nứt hậu môn</b>, là hệ quả của đi cầu cứng. Bé đủ tiêu chí táo bón chức năng và không có cờ đỏ thực tổn được mô tả.",
+   "option_explanations": [
+    "Sai — X-quang bụng thường quy không cần thiết để chẩn đoán táo bón chức năng; chẩn đoán dựa trên lâm sàng và tiêu chí.",
+    "Đúng — Máu tươi dính ngoài phân do nứt hậu môn là hệ quả của đi cầu cứng; bé có tiêu chí Rome IV và không có cờ đỏ thực tổn được mô tả.",
+    "Sai — Xét nghiệm celiac chỉ cân nhắc khi có cờ đỏ hoặc kháng trị; máu dính ngoài phân có nứt hậu môn không gợi ý celiac.",
+    "Sai — Hirschsprung không chẩn đoán dựa trên tuổi hay máu dính ngoài phân khi đã có nứt hậu môn rõ; cần thêm cờ đỏ để nghĩ tới."
+   ]
+  },
+  {
+   "id": "PED65-A06",
+   "type": "vignette",
+   "topic": "Cơ chế và yếu tố thúc đẩy",
+   "subtopic": "Vòng xoắn bệnh sinh bắt đầu từ đi cầu đau",
+   "bloom": "phân tích",
+   "difficulty": 2,
+   "source": "PED-65 G1",
+   "text": "Bé trai 4 tuổi 1 tháng trước đi cầu phân cứng, có vết nứt hậu môn nhỏ và rất đau. Từ đó bé sợ đi cầu, thường co cứng mông, bắt chéo chân và nhịn khi muốn đi, kéo dài nhiều tuần. Khám hôm nay có khối phân lớn trong trực tràng nhưng bé không còn són phân. Cơ chế nào sau đây giải thích đúng nhất việc bé nhịn đi cầu dẫn đến khối phân lớn hơn?",
+   "options": [
+    "Đại tràng hấp thu nước quá mức do nhu động chậm, làm phân đóng cứng ở đại tràng sigma trước khi xuống trực tràng",
+    "Cơ thắt trong giãn ra quá mức làm trực tràng mất cảm nhận, nên phân lỏng rỉ ra liên tục mà không ứ lại trong trực tràng",
+    "Bé co cơ thắt ngoài và cơ mu–trực tràng để nhịn, phân ứ lại trong trực tràng và mất thêm nước, làm phân cứng và khối lớn dần",
+    "Phản xạ dạ dày–đại tràng bị giảm nhẹ khi bé ăn ít bữa, khiến phân chậm xuống trực tràng và ứ lại dần theo thời gian"
+   ],
+   "correct": 2,
+   "explanation": "Vòng xoắn bệnh sinh: đi cầu đau → sợ → <b>nhịn bằng co cơ thắt ngoài và cơ mu–trực tràng</b> → phân ứ trong trực tràng, mất nước → phân cứng và lớn hơn → đau hơn và trực tràng giãn mạn.",
+   "option_explanations": [
+    "Sai — Hấp thu nước ở đại tràng làm phân cứng khi lưu lâu, nhưng cơ chế chính ở bé này là nhịn phân và ứ đọng trong trực tràng.",
+    "Sai — Cơ thắt trong giãn làm bé có cảm giác muốn đi cầu, không làm phân lỏng rỉ liên tục khi bé không són phân.",
+    "Đúng — Nhịn bằng co cơ thắt ngoài và cơ mu–trực tràng làm phân ứ lại, mất thêm nước, khối phân to cứng dần; đây là vòng xoắn bệnh sinh ở bé này.",
+    "Sai — Phản xạ dạ dày–đại tràng giảm không được mô tả trong ca này và không phải cơ chế chính giải thích việc nhịn đi cầu."
+   ]
+  },
+  {
+   "id": "PED65-A07",
+   "type": "vignette",
+   "topic": "Cơ chế và yếu tố thúc đẩy",
+   "subtopic": "Yếu tố thúc đẩy: chuyển sang ăn dặm và ít chất xơ",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-65 G2",
+   "text": "Bé gái 14 tháng tuổi, cai sữa mẹ đã được vài tháng và ăn dặm từ đó, bữa ăn chủ yếu là cháo, bột và uống sữa công thức. Mẹ cho biết từ 2 tháng nay bé đi cầu 2 lần mỗi tuần, phân cứng và bé rặn đỏ mặt. Khám thể chất bình thường, không có khối phân sờ được. Yếu tố thúc đẩy nào sau đây phù hợp nhất với tình huống này?",
+   "options": [
+    "Bé có dùng thuốc bổ sung sắt kéo dài, và thuốc này có thể là yếu tố thúc đẩy táo bón ở trường hợp này",
+    "Bé có tiền sử gia đình bị bệnh Hirschsprung, nên táo bón được xem là dấu hiệu bệnh thực thể cần xử trí trước",
+    "Chế độ ăn ít chất xơ kèm uống ít nước, làm phân khô và cứng hơn, và đây là yếu tố thúc đẩy phổ biến sau khi cai sữa",
+    "Bé có thói quen tập đi bô sớm và bị ép ngồi bô nhiều lần, và thói quen này là yếu tố thúc đẩy táo bón chính"
+   ],
+   "correct": 2,
+   "explanation": "Yếu tố thúc đẩy gồm <b>chế độ ăn ít xơ và uống ít nước sau cai sữa</b>. Bé ăn dặm chủ yếu bột, cháo và uống ít nước, phù hợp với táo bón chức năng khởi phát sau cai sữa.",
+   "option_explanations": [
+    "Sai — Bé không được mô tả dùng sắt; thuốc chỉ là yếu tố thúc đẩy khi có dùng, không phải yếu tố của ca này.",
+    "Sai — Tiền sử gia đình Hirschsprung không được nêu; táo bón khởi phát sau cai sữa là táo bón chức năng, không phải cờ đỏ thực tổn.",
+    "Đúng — Chuyển từ sữa mẹ sang ăn dặm ít xơ, uống ít nước là yếu tố thúc đẩy điển hình; khởi phát sau cai sữa phù hợp.",
+    "Sai — Bé không được mô tả tập bô sớm; yếu tố này không có trong ca nên không phải yếu tố thúc đẩy của bé."
+   ]
+  },
+  {
+   "id": "PED65-A08",
+   "type": "vignette",
+   "topic": "Cơ chế và yếu tố thúc đẩy",
+   "subtopic": "Phản xạ dạ dày–đại tràng và thời điểm ngồi bô",
+   "bloom": "áp dụng",
+   "difficulty": 1,
+   "source": "PED-65 G1",
+   "text": "Bé trai 3 tuổi đang tập đi bô, mẹ muốn chọn thời điểm để bé ngồi bô mỗi ngày nhằm giúp bé đi cầu đều đặn. Bác sĩ giải thích có một phản xạ liên quan đến bữa ăn giúp đại tràng co bóp mạnh hơn. Thời điểm nào sau đây là phù hợp nhất để bé ngồi bô?",
+   "options": [
+    "Trước khi đi ngủ buổi tối, để bé không bị gián đoạn trong giờ chơi và học",
+    "Khi bé đang chơi, không theo giờ ăn, miễn là bé ngồi bô đủ thường xuyên trong ngày",
+    "Trước bữa ăn khoảng 1 giờ, khi bé chưa có cảm giác muốn đi cầu và đang chơi",
+    "Sau bữa ăn khoảng 5 đến 10 phút, khi phản xạ dạ dày–đại tràng đang hoạt động mạnh"
+   ],
+   "correct": 3,
+   "explanation": "Phản xạ dạ dày–đại tràng làm tăng nhu động đại tràng, <b>mạnh nhất sau bữa ăn</b>; ngồi bô 5–10 phút sau ăn 2–3 lần mỗi ngày là thời điểm tốt nhất.",
+   "option_explanations": [
+    "Sai — Buổi tối trước khi ngủ không phải thời điểm phản xạ dạ dày–đại tràng mạnh nhất.",
+    "Sai — Số lần ngồi bô có vai trò, nhưng không theo giờ ăn sẽ bỏ lỡ thời điểm phản xạ mạnh nhất.",
+    "Sai — Trước bữa ăn phản xạ dạ dày–đại tràng chưa được kích hoạt; ngồi bô lúc này ít hiệu quả hơn sau ăn.",
+    "Đúng — Sau ăn 5–10 phút phản xạ dạ dày–đại tràng mạnh nhất, nên ngồi bô sau ăn tận dụng nhu động đại tràng tăng."
+   ]
+  },
+  {
+   "id": "PED65-A09",
+   "type": "vignette",
+   "topic": "Cơ chế và yếu tố thúc đẩy",
+   "subtopic": "Thuốc làm tăng nguy cơ táo bón chức năng",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-65 G2",
+   "text": "Bé gái 5 tuổi được chẩn đoán viêm phổi và đang dùng thuốc kháng sinh cùng thuốc giảm đau opioid nhẹ trong 2 tuần. Trước đó bé đi cầu bình thường, mỗi ngày 1 lần. Sau 1 tuần bé bắt đầu đi cầu 2 lần mỗi tuần, phân cứng và bé nhịn khi đi cầu. Khám bụng không có khối phân lớn. Điều nào sau đây giải thích đúng nhất tình trạng táo bón của bé?",
+   "options": [
+    "Viêm phổi làm bé mất nước nên phân lỏng ra ngoài, và điều này có thể gây ra tình trạng táo bón kéo dài ở bé",
+    "Opioid làm giảm nhu động ruột và làm phân khô cứng, nên đây là táo bón do thuốc chứ không phải táo bón chức năng nguyên phát",
+    "Táo bón do bé không ăn đủ đạm, nên cần bổ sung đạm sữa bò để điều chỉnh đường ruột trong vài tuần tới",
+    "Kháng sinh có thể gây viêm đại tràng, nên táo bón là dấu hiệu viêm ruột và cần nội soi đại tràng để đánh giá"
+   ],
+   "correct": 1,
+   "explanation": "Thuốc là yếu tố thúc đẩy táo bón, trong đó <b>opioid</b> làm giảm nhu động và phân khô cứng; ca này là táo bón do thuốc, không đặt nhãn chức năng nguyên phát.",
+   "option_explanations": [
+    "Sai — Mất nước làm phân cứng hơn, không làm phân lỏng ra; ca này không mô tả phân lỏng rỉ.",
+    "Đúng — Opioid làm giảm nhu động ruột, phân cứng và khó đi; đây là táo bón do thuốc, cần cân nhắc ngừng hoặc đổi thuốc khi có thể.",
+    "Sai — Thiếu đạm không phải nguyên nhân được mô tả; đạm sữa bò chỉ thử khi kháng trị, không dùng để bổ sung ở ca này.",
+    "Sai — Viêm đại tràng do kháng sinh không được mô tả trong ca; nội soi không được chỉ định khi triệu chứng phù hợp với thuốc."
+   ]
+  },
+  {
+   "id": "PED65-A10",
+   "type": "vignette",
+   "topic": "Lâm sàng và khám",
+   "subtopic": "Hỏi bệnh sử: thời điểm bài tiết phân su",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-65 G3",
+   "text": "Bé trai 6 tháng tuổi được mẹ đưa đến khám vì đi cầu cứng và chậm. Khi hỏi bệnh sử, mẹ cho biết bé được sinh đủ tháng, nhưng bé đi cầu lần đầu sau khoảng 3 ngày. Từ đó bé đi cầu 2 đến 3 ngày mới một lần, phân cứng và bé khóc khi rặn. Khám thể chất hiện tại chưa phát hiện bất thường. Yếu tố lâm sàng nào sau đây là cờ đỏ quan trọng nhất cần làm rõ thêm?",
+   "options": [
+    "Bé đi cầu lần đầu sau hơn 48 giờ sau sinh ở trẻ đủ tháng, kèm đi cầu thưa và phân cứng kéo dài",
+    "Bé đi cầu ít hơn 3 lần mỗi tuần so với mức bình thường của trẻ nhỏ cùng tuổi và cùng chế độ ăn",
+    "Bé khóc khi rặn và phân cứng, nhưng không có triệu chứng nào khác và bé vẫn bú tốt, tăng cân đều",
+    "Bé được nuôi bằng sữa công thức từ khi sinh và đang ăn dặm bột, cháo mỗi ngày từ khi bé được 5 tháng"
+   ],
+   "correct": 0,
+   "explanation": "Chậm bài tiết phân su > 48 giờ ở trẻ đủ tháng là cờ đỏ gợi ý bệnh Hirschsprung hoặc nguyên nhân thực tổn, cần làm rõ và không xử trí như táo bón chức năng đơn thuần.",
+   "option_explanations": [
+    "Đúng — Chậm bài tiết phân su > 48 giờ ở trẻ đủ tháng là cờ đỏ chính, cần làm rõ và có thể gợi ý Hirschsprung.",
+    "Sai — Tần suất đi cầu ở nhũ nhi rất khác nhau; tần suất đơn lẻ không phải cờ đỏ quan trọng nhất trong ca này.",
+    "Sai — Khóc khi rặn và phân cứng là triệu chứng táo bón nhưng không phải cờ đỏ quan trọng nhất; ca này cần ưu tiên yếu tố phân su.",
+    "Sai — Nuôi sữa công thức là yếu tố thúc đẩy táo bón, không phải cờ đỏ thực tổn; cờ đỏ chính là chậm phân su."
+   ]
+  },
+  {
+   "id": "PED65-A11",
+   "type": "vignette",
+   "topic": "Lâm sàng và khám",
+   "subtopic": "Khám hậu môn: nhận diện dấu hiệu bất thường",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-65 G3",
+   "text": "Bé trai 5 tuổi bị táo bón nhiều năm, đi cầu phân cứng và đau. Khi khám hậu môn, bác sĩ nhìn thấy hậu môn nằm lệch về phía trước so với vị trí bình thường và cảm thấy vắng cơ thắt. Bác sĩ cũng ghi nhận phản xạ co hậu môn khi chạm vào vùng quanh hậu môn yếu. Dấu hiệu nào sau đây là cờ đỏ gợi ý nguyên nhân thực tổn cần chuyển tuyến?",
+   "options": [
+    "Sa niêm mạc trực tràng nhỏ khi rặn, đã tự thu lại sau khi nghỉ ngơi và không có triệu chứng nào kèm theo",
+    "Vết nứt hậu môn nhỏ có máu tươi dính ngoài phân, do đi cầu cứng gây ra và đã lành sau khi điều trị đúng",
+    "Khối phân lớn sờ được trong trực tràng ở một bé đang điều trị đúng cách, và khối phân giảm dần sau tống tháo",
+    "Hậu môn lệch phía trước, vắng cơ thắt và mất phản xạ co hậu môn, cần khám chuyên khoa và đánh giá dị tật"
+   ],
+   "correct": 3,
+   "explanation": "Hậu môn lệch phía trước, vắng cơ thắt và mất phản xạ co hậu môn là cờ đỏ gợi ý dị tật hậu môn–trực tràng hoặc nguyên nhân thực tổn, cần chuyển tuyến chuyên khoa.",
+   "option_explanations": [
+    "Sai — Sa niêm mạc nhỏ tự thu lại không được coi là cờ đỏ chính khi không có triệu chứng kèm theo.",
+    "Sai — Nứt hậu môn do đi cầu cứng là hiện tượng thường gặp của táo bón chức năng, không phải cờ đỏ thực tổn khi nứt đơn thuần.",
+    "Sai — Khối phân lớn trong táo bón chức năng có ứ phân và giảm sau tống tháo; không phải cờ đỏ thực tổn.",
+    "Đúng — Hậu môn lệch phía trước, vắng cơ thắt và mất phản xạ co hậu môn là cờ đỏ về dị tật hoặc nguyên nhân thực tổn cần chuyển tuyến."
+   ]
+  },
+  {
+   "id": "PED65-A12",
+   "type": "vignette",
+   "topic": "Lâm sàng và khám",
+   "subtopic": "Khám bụng: sờ khối phân và giải thích chẩn đoán",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-65 G3",
+   "text": "Bé gái 4 tuổi được mẹ đưa đến khám vì đi cầu cứng, đôi khi són phân ra quần và đau bụng vùng dưới. Khi khám bụng, bác sĩ sờ thấy một khối đặc vùng hố chậu trái, không đau nhiều và di động. Thăm trực tràng có khối phân. Điều nào sau đây là nhận định lâm sàng đúng nhất?",
+   "options": [
+    "Khối đặc ở hố chậu trái gợi viêm ruột thừa muộn, nên cần theo dõi sát và cân nhắc mổ nếu triệu chứng tăng",
+    "Khối phân ở hố chậu trái là dấu hiệu của bệnh Hirschsprung, nên cần sinh thiết hút tại tuyến tỉnh trước khi điều trị",
+    "Khối ở hố chậu trái gợi khối u ổ bụng, cần siêu âm và hội chẩn ung thư nhi tại tuyến trung ương",
+    "Khối phân sờ được là dấu hiệu gợi ý ứ phân trong táo bón chức năng, cần tống tháo rồi duy trì điều trị"
+   ],
+   "correct": 3,
+   "explanation": "Khối phân sờ được ở hố chậu trái và phân trong trực tràng là dấu hiệu gợi ý ứ phân trong táo bón chức năng; khi có khối phân kẹt, chỉ định là <b>tống tháo bằng PEG rồi duy trì</b>.",
+   "option_explanations": [
+    "Sai — Viêm ruột thừa muộn có đau, sốt và phản ứng thành bụng; bé này không có các dấu hiệu đó.",
+    "Sai — Khối phân không phải dấu hiệu Hirschsprung; Hirschsprung thường có trực tràng trống, không có khối phân.",
+    "Sai — Khối u ổ bụng thường cố định, đau hoặc kèm sụt cân; khối di động và trực tràng có phân ở bé này gợi ứ phân.",
+    "Đúng — Khối phân sờ được và phân trong trực tràng gợi ứ phân trong táo bón chức năng; chỉ định là tống tháo bằng PEG rồi duy trì."
+   ]
+  },
+  {
+   "id": "PED65-A13",
+   "type": "vignette",
+   "topic": "Lâm sàng và khám",
+   "subtopic": "Khám thăm trực tràng: khi nào cần làm",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-65 G3",
+   "text": "Bé trai 3 tuổi đi cầu phân cứng 1 lần mỗi 4 ngày, không có cờ đỏ về phân su hay gia đình. Khám bụng nhẹ nhàng không sờ thấy khối phân. Bác sĩ đang cân nhắc có nên thăm trực tràng bằng ngón tay thường quy để chẩn đoán. Cách xử trí nào sau đây là hợp lý nhất?",
+   "options": [
+    "Chưa cần thăm trực tràng thường quy vì bé không có cờ đỏ; thăm khi nghi thực tổn hoặc khi lâm sàng không rõ",
+    "Chụp X-quang bụng để xác định khối phân trước khi quyết định điều trị tiếp theo cho bé hôm nay",
+    "Thăm trực tràng bằng ngón tay trước khi cho bất kỳ thuốc nhuận tràng nào, vì đây là bước thường được làm ở trẻ dưới 4 tuổi",
+    "Thăm trực tràng bằng ngón tay thường quy cho trẻ táo bón kéo dài nhiều tháng để loại trừ bệnh thực thể"
+   ],
+   "correct": 0,
+   "explanation": "Thăm trực tràng bằng ngón tay không cần thường quy ở trẻ táo bón chức năng điển hình không có cờ đỏ; chỉ làm khi nghi nguyên nhân thực tổn hoặc khi lâm sàng không rõ.",
+   "option_explanations": [
+    "Đúng — Bé không có cờ đỏ và khám bụng không có khối phân, nên không cần thăm trực tràng thường quy; chỉ làm khi nghi thực tổn hoặc lâm sàng không chắc chắn.",
+    "Sai — Không chụp X-quang bụng thường quy để chẩn đoán táo bón chức năng; X-quang không thay thế được thăm khám lâm sàng.",
+    "Sai — Thăm trực tràng không phải điều kiện trước khi dùng thuốc nhuận tràng; quyết định dựa trên lâm sàng.",
+    "Sai — Thăm trực tràng thường quy không cần cho táo bón kéo dài khi không có cờ đỏ; chỉ làm khi có chỉ định."
+   ]
+  },
+  {
+   "id": "PED65-A14",
+   "type": "vignette",
+   "topic": "Lâm sàng và khám",
+   "subtopic": "Khám cột sống và thần kinh vùng thắt lưng cùng",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-65 G3",
+   "text": "Bé trai 2 tuổi được mẹ đưa đến khám vì táo bón từ nhỏ, đi cầu phân cứng và rặn lâu. Khi khám, bác sĩ thấy một lõm nhỏ vùng cùng cụt có túm lông. Bé có giảm trương lực và yếu cơ chi dưới bên trái khi so sánh bên phải. Phân tích nào sau đây là đúng nhất?",
+   "options": [
+    "Túm lông vùng cùng cụt là dấu hiệu của suy giáp, nên xét nghiệm TSH và theo dõi thêm trước khi khám thần kinh",
+    "Lõm và túm lông vùng cùng cụt có thể gợi ý dị tật ống thần kinh hoặc tủy bám thấp, cần khám thần kinh và chuyển tuyến",
+    "Yếu cơ chi dưới là biểu hiện của táo bón do thiếu vận động, nên tăng cường vận động cho bé tại nhà thường giúp cải thiện",
+    "Lõm vùng cùng cụt là biến thể bình thường ở trẻ nhỏ, nên có thể theo dõi tại tuyến cơ sở và có thể chưa cần khám thần kinh"
+   ],
+   "correct": 1,
+   "explanation": "Lõm và túm lông vùng cùng cụt, giảm trương lực và yếu chi dưới là cờ đỏ gợi ý dị tật ống thần kinh hoặc tủy bám thấp; cần khám thần kinh và chuyển tuyến.",
+   "option_explanations": [
+    "Sai — Túm lông vùng cùng cụt không phải dấu hiệu suy giáp; đây là cờ đỏ của dị tật thần kinh cần khám thần kinh.",
+    "Đúng — Lõm và túm lông vùng cùng cụt kèm yếu và giảm trương lực chi dưới là cờ đỏ gợi ý dị tật ống thần kinh hoặc tủy bám thấp, cần khám và chuyển tuyến.",
+    "Sai — Yếu cơ chi dưới không do thiếu vận động mà gợi ý nguyên nhân thần kinh; tăng vận động không xử trí được nguyên nhân này.",
+    "Sai — Lõm kèm túm lông không phải biến thể bình thường khi có yếu chi dưới; cần khám thêm và chuyển tuyến."
+   ]
+  },
+  {
+   "id": "PED65-A15",
+   "type": "vignette",
+   "topic": "Cờ đỏ và Hirschsprung",
+   "subtopic": "Chậm phân su và táo bón từ sơ sinh",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-65 G4",
+   "text": "Bé trai 8 tháng tuổi được đưa đến khám vì bụng chướng và táo bón từ sau sinh. Khi hỏi bệnh sử, mẹ cho biết bé được sinh đủ tháng nhưng phải sau 3 ngày mới đi cầu phân su. Bé thường nôn dịch xanh và bụng chướng nặng. Khám trực tràng ngón tay thấy trực tràng trống, và khi rút ngón tay phân phóng ra ào ạt. Chẩn đoán nào sau đây là phù hợp nhất và cần xử trí ra sao?",
+   "options": [
+    "Bệnh Hirschsprung nghi ngờ, không điều trị như táo bón chức năng và cần chuyển tuyến chuyên khoa để chụp và sinh thiết hút",
+    "Táo bón chức năng đơn thuần, điều trị bằng PEG theo phác đồ táo bón thông thường tại tuyến cơ sở",
+    "Suy giáp bẩm sinh, nên xét nghiệm TSH và cho thuốc tuyến giáp trước, sau đó đánh giá lại tình trạng táo bón",
+    "Hội chứng ruột kích thích thể táo bón, nên điều trị bằng chế độ ăn nhiều chất xơ, uống nhiều nước và tập thể dục"
+   ],
+   "correct": 0,
+   "explanation": "Chậm phân su, táo bón từ sơ sinh, bụng chướng, trực tràng trống với <b>blast sign</b> gợi ý mạnh Hirschsprung; không điều trị như táo bón chức năng, cần chuyển tuyến chụp và <b>sinh thiết hút</b>.",
+   "option_explanations": [
+    "Đúng — Chậm phân su, bụng chướng, trực tràng trống và blast sign gợi ý Hirschsprung; cần chuyển tuyến chụp, đo áp lực và sinh thiết hút.",
+    "Sai — Ca này có nhiều cờ đỏ (chậm phân su, nôn dịch xanh, trực tràng trống) nên không điều trị như táo bón chức năng đơn thuần.",
+    "Sai — Suy giáp không gợi ý blast sign và chậm phân su; không thể bỏ qua khám trực tràng.",
+    "Sai — IBS không gặp ở nhũ nhi với các cờ đỏ này; chế độ ăn không xử trí được ca này."
+   ]
+  },
+  {
+   "id": "PED65-A16",
+   "type": "vignette",
+   "topic": "Cờ đỏ và Hirschsprung",
+   "subtopic": "Viêm ruột do Hirschsprung: biến chứng cấp cứu",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-65 G4",
+   "text": "Bé gái 3 tháng tuổi đã được chẩn đoán Hirschsprung ở đoạn ngắn nhưng chưa phẫu thuật. Hôm nay bé sốt 39 độ, nôn, bụng chướng căng và đi ngoài nhiều lần phân lỏng hôi, có vẻ mệt lả và da tái. Mạch nhanh, huyết áp giảm nhẹ. Xử trí nào sau đây là ưu tiên nhất?",
+   "options": [
+    "Cho thuốc cầm tiêu chảy và theo dõi tại nhà vì bé đã có chẩn đoán Hirschsprung từ trước và tình trạng có vẻ ổn",
+    "Cấp cứu nhập viện, nghi viêm ruột do Hirschsprung và nguy cơ sốc, cần hồi sức và hội chẩn ngoại khoa",
+    "Xét nghiệm công thức máu và theo dõi ngoại trú, hẹn tái khám sau một tuần nếu bé vẫn còn sốt và mệt",
+    "Thụt tháo bằng phosphate natri để giảm chướng bụng tại nhà, vì đây là điều trị đầu tay khi bụng chướng"
+   ],
+   "correct": 1,
+   "explanation": "Viêm ruột do Hirschsprung gồm sốt, chướng bụng, tiêu chảy hôi và có thể sốc nhiễm khuẩn; đây là <b>cấp cứu ngoại khoa</b>, cần nhập viện và hồi sức ngay.",
+   "option_explanations": [
+    "Sai — Thuốc cầm tiêu chảy không được chỉ định ở viêm ruột do Hirschsprung; bé có dấu hiệu sốc cần cấp cứu.",
+    "Đúng — Sốt, chướng bụng, tiêu chảy hôi, mệt lả và mạch nhanh là dấu hiệu viêm ruột do Hirschsprung cần cấp cứu nhập viện và hồi sức.",
+    "Sai — Bé có dấu hiệu nặng cần nhập viện; theo dõi ngoại trú và hẹn sau một tuần là xử trí chậm.",
+    "Sai — Thụt phosphate natri ở trẻ nhỏ nghi Hirschsprung là chống chỉ định; không dùng ở bé này."
+   ]
+  },
+  {
+   "id": "PED65-A17",
+   "type": "vignette",
+   "topic": "Cờ đỏ và Hirschsprung",
+   "subtopic": "Tiền sử gia đình và các cờ đỏ khác",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-65 G4",
+   "text": "Bé trai 2 tuổi có anh trai ruột đã được chẩn đoán Hirschsprung khi sơ sinh. Bé đi cầu 1 lần mỗi 3 đến 4 ngày, phân cứng, bụng hơi chướng và chậm tăng cân so với đường cong tăng trưởng. Khám hậu môn không có nứt, trương lực hậu môn bình thường. Yếu tố nào sau đây là cờ đỏ quan trọng nhất cần làm rõ?",
+   "options": [
+    "Tiền sử gia đình Hirschsprung ở anh ruột và chậm tăng cân so với đường cong tăng trưởng",
+    "Hậu môn không có nứt và trương lực bình thường, nên có thể kết luận không có bệnh thực thể cần làm rõ thêm",
+    "Bé đã 2 tuổi nên Hirschsprung khó có khả năng khởi phát ở lứa tuổi này, và có thể để sau làm rõ",
+    "Phân cứng và đi cầu không đều, là tiêu chí điển hình của táo bón chức năng ở trẻ lớn hơn 2 tuổi"
+   ],
+   "correct": 0,
+   "explanation": "Tiền sử gia đình Hirschsprung và chậm tăng trưởng đều là cờ đỏ thực tổn; ca này cần làm rõ thêm, ngay cả khi các dấu hiệu khác nhẹ.",
+   "option_explanations": [
+    "Đúng — Tiền sử gia đình Hirschsprung và chậm tăng cân là hai cờ đỏ cần làm rõ và có thể gợi ý nguyên nhân thực tổn.",
+    "Sai — Hậu môn bình thường không loại trừ bệnh thực thể khi còn tiền sử gia đình và chậm tăng cân.",
+    "Sai — Hirschsprung có thể được phát hiện muộn; tuổi không loại trừ bệnh và cờ đỏ vẫn cần làm rõ.",
+    "Sai — Phân cứng và đi cầu không đều là tiêu chí táo bón chức năng, nhưng không phải cờ đỏ quan trọng nhất ở ca này."
+   ]
+  },
+  {
+   "id": "PED65-A18",
+   "type": "vignette",
+   "topic": "Cờ đỏ và Hirschsprung",
+   "subtopic": "Phân dẹt và máu không liên quan nứt hậu môn",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-65 G4",
+   "text": "Bé trai 5 tuổi bị táo bón nhiều tháng, đi cầu có phân dẹt giống dải ruy băng. Mẹ cho biết có vài lần thấy máu đỏ tươi trong phân nhưng không có vết nứt hậu môn khi khám. Bé không sốt, ăn được và tăng trưởng bình thường. Cờ đỏ nào sau đây cần chú ý nhất trong trường hợp này?",
+   "options": [
+    "Tăng trưởng bình thường và bé ăn được, nên các dấu hiệu bất thường có thể theo dõi và điều trị thường quy",
+    "Bé không sốt và không đau bụng, nên có thể xem là không có cờ đỏ và điều trị táo bón thường quy tại tuyến cơ sở",
+    "Phân dẹt và máu trong phân khi không có nứt hậu môn, cần làm rõ nguyên nhân thực tổn trước khi kết luận",
+    "Máu đỏ tươi thường do nứt hậu môn, nên khi không thấy nứt có thể kết luận là táo bón thường quy"
+   ],
+   "correct": 2,
+   "explanation": "Phân dẹt như dải ruy băng và máu trong phân khi <b>không có nứt hậu môn</b> là các cờ đỏ gợi ý nguyên nhân thực tổn, cần khám và làm rõ thêm.",
+   "option_explanations": [
+    "Sai — Tăng trưởng bình thường không loại trừ cờ đỏ; phân dẹt và máu không nứt vẫn cần đánh giá thêm.",
+    "Sai — Không sốt và không đau bụng không loại trừ cờ đỏ; phân dẹt và máu không nứt là cờ đỏ cần làm rõ.",
+    "Đúng — Phân dẹt và máu trong phân khi không có nứt hậu môn là các cờ đỏ cần làm rõ nguyên nhân thực tổn như Hirschsprung hoặc dị tật hậu môn–trực tràng.",
+    "Sai — Máu đỏ tươi khi không có nứt hậu môn là cờ đỏ cần tìm nguyên nhân khác, không phải kết luận táo bón thường quy."
+   ]
+  },
+  {
+   "id": "PED65-A19",
+   "type": "vignette",
+   "topic": "Cờ đỏ và Hirschsprung",
+   "subtopic": "Phân biệt Hirschsprung và táo bón chức năng",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-65 G4",
+   "text": "Bé trai 4 tuổi có táo bón từ khi còn nhỏ. Bé đi cầu 1 lần mỗi 5 ngày, bụng chướng, và trực tràng khi thăm khám trống. Bé không són phân và không có tư thế nhịn phân rõ ràng. Mẹ cho biết bé không có vấn đề về tâm lý và không có tiền sử tập bô quá sớm. Đặc điểm nào sau đây làm nghiêng nhiều hơn về Hirschsprung hơn là táo bón chức năng?",
+   "options": [
+    "Bé có tư thế nhịn phân và phân cứng, là đặc điểm điển hình của táo bón chức năng ở trẻ tuổi mầm non",
+    "Bé có táo bón từ nhỏ, bụng chướng và trực tràng trống mà không có khối phân trong trực tràng khi thăm khám",
+    "Bé có tiền sử tập bô quá sớm và căng thẳng tâm lý, là yếu tố thúc đẩy táo bón chức năng thường gặp",
+    "Bé đi cầu một lần mỗi 5 ngày và không són phân, thường gặp ở các trường hợp táo bón chức năng nặng"
+   ],
+   "correct": 1,
+   "explanation": "So sánh Hirschsprung và táo bón chức năng: táo bón từ nhỏ, bụng chướng, <b>trực tràng trống (không có khối phân)</b> nghiêng về Hirschsprung; táo bón chức năng thường có khối phân trực tràng và són phân.",
+   "option_explanations": [
+    "Sai — Tư thế nhịn phân và phân cứng là đặc điểm của táo bón chức năng, không nghiêng về Hirschsprung.",
+    "Đúng — Táo bón từ nhỏ, bụng chướng và trực tràng trống (không khối phân) nghiêng về Hirschsprung; táo bón chức năng thường có khối phân trực tràng.",
+    "Sai — Tập bô quá sớm và căng thẳng là yếu tố thúc đẩy táo bón chức năng, không gợi ý Hirschsprung.",
+    "Sai — Đi cầu thưa và không són phân gặp được ở cả hai bệnh; đây không phải đặc điểm làm nghiêng về Hirschsprung."
+   ]
+  },
+  {
+   "id": "PED65-A20",
+   "type": "vignette",
+   "topic": "Cờ đỏ và Hirschsprung",
+   "subtopic": "Khi nào chuyển tuyến và xử trí cờ đỏ",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-65 G4",
+   "text": "Bé gái 7 tháng tuổi được đưa đến khám vì táo bón và chậm tăng trưởng. Bé đã được điều trị PEG tại tuyến cơ sở nhưng không đỡ sau 2 tháng. Khám hôm nay phát hiện bé có chậm tăng cân rõ, và mẹ có anh trai ruột bị Hirschsprung. Hành động nào sau đây là đúng nhất?",
+   "options": [
+    "Chuyển tuyến chuyên khoa tiêu hóa nhi hoặc ngoại nhi để đánh giá Hirschsprung, vì có cờ đỏ và đã kháng trị",
+    "Thử loại trừ đạm sữa bò 2 tuần tại tuyến cơ sở, sau đó đánh giá lại; chưa cần chuyển tuyến khi bé còn nhỏ",
+    "Tiếp tục PEG thêm 2 tháng nữa tại tuyến cơ sở, vì điều trị táo bón chức năng thường cần thời gian dài để có đáp ứng",
+    "Ngừng PEG và cho thuốc cầm tiêu chảy để giảm đi cầu, vì bé đã có chậm tăng cân và cần giảm số lần đi cầu"
+   ],
+   "correct": 0,
+   "explanation": "Cờ đỏ (tiền sử gia đình Hirschsprung, chậm tăng cân) cộng với kháng trị sau điều trị đúng là chỉ định <b>chuyển tuyến</b> chuyên khoa để đánh giá Hirschsprung (chụp, đo áp lực, sinh thiết).",
+   "option_explanations": [
+    "Đúng — Có cờ đỏ (tiền sử gia đình Hirschsprung, chậm tăng cân) và kháng trị sau điều trị đúng là chỉ định chuyển tuyến chuyên khoa.",
+    "Sai — Thử đạm sữa bò không thay thế được chuyển tuyến khi có cờ đỏ; không nên trì hoãn đánh giá Hirschsprung.",
+    "Sai — Kéo dài PEG tại cơ sở khi đã có cờ đỏ và kháng trị là chưa phù hợp; cần đánh giá thực tổn trước.",
+    "Sai — Cầm tiêu chảy có thể che khuất vấn đề và không phù hợp; ngừng PEG khi chưa đánh giá thực tổn là chưa đúng."
+   ]
+  },
+  {
+   "id": "PED65-B01",
+   "type": "vignette",
+   "topic": "Cận lâm sàng",
+   "subtopic": "Chỉ định xét nghiệm khi có cờ đỏ",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-65 G5",
+   "text": "Bé trai 4 tuổi, táo bón chức năng đã điều trị PEG 3350 đúng liều khoảng 8 tuần nhưng vẫn đi cầu 1 lần/tuần kèm phân cứng. Khám: thể trạng gầy, chiều cao dưới đường 3 percentile theo tuổi, sờ bụng mềm, không sờ thấy khối phân; khám hậu môn bình thường. Xét nghiệm nào là phù hợp nhất để làm thêm lúc này?",
+   "options": [
+    "Siêu âm đo đường kính trực tràng khi nghi trương lực cơ thắt hậu môn bất thường",
+    "Đo TSH, T4 tự do, calci máu và kháng thể celiac khi kháng trị có chậm tăng trưởng",
+    "Chụp đại tràng cản quang khi nghi vùng chuyển tiếp của bệnh Hirschsprung",
+    "Chụp X-quang bụng không chuẩn bị khi nghi ứ phân nhiều trong ruột"
+   ],
+   "correct": 1,
+   "explanation": "Kháng trị đúng liều kèm <b>chậm tăng trưởng</b> là cờ đỏ: xét nghiệm nhắm đích gồm <b>TSH/T4 tự do</b>, <b>calci máu</b>, <b>kháng thể celiac (anti-tTG IgA)</b>. Các phương án còn lại là chỉ định của bé khác (ứ phân nhiều, nghi Hirschsprung, nghi trương lực cơ thắt bất thường) và không có trong ca này.",
+   "option_explanations": [
+    "Sai — đúng cho bé nghi trương lực cơ thắt bất thường; bé này không có dấu hiệu gợi ý điều đó.",
+    "Đúng — kháng trị đúng liều kèm chậm tăng trưởng là cờ đỏ; xét nghiệm nhắm đích giáp, calci, celiac.",
+    "Sai — đúng cho bé nghi Hirschsprung khi có cờ đỏ về phân su hoặc trực tràng trống; bé này không có dấu hiệu đó.",
+    "Sai — đúng cho bé nghi ứ phân nhiều trong ruột; bé này bụng mềm, không sờ thấy khối phân nên chưa cần X-quang."
+   ]
+  },
+  {
+   "id": "PED65-B02",
+   "type": "vignette",
+   "topic": "Cận lâm sàng",
+   "subtopic": "Không chụp X-quang bụng thường quy",
+   "bloom": "hiểu",
+   "difficulty": 1,
+   "source": "PED-65 G5",
+   "text": "Bé gái 6 tuổi, táo bón chức năng 2 năm, đi cầu 2 lần/tuần, phân cứng, đau khi đi cầu. Bé đi học, đã có tiền sử rặn và nhịn. Khám bụng mềm, không chướng; khám hậu môn có nứt nhỏ, không có cờ đỏ; trực tràng có khối phân sờ được. Gia đình hỏi có cần chụp X-quang bụng để xem mức độ ứ phân không. Điều nào là đúng nhất?",
+   "options": [
+    "Không chụp X-quang bụng thường quy; chẩn đoán dựa trên lâm sàng và nhật ký đi cầu",
+    "Chụp X-quang bụng khi khối phân sờ được để đánh giá mức độ ứ phân trước điều trị",
+    "Chụp X-quang bụng theo định kỳ mỗi đợt tống tháo để theo dõi tiến triển khối phân",
+    "Chụp X-quang bụng khi có khối phân trực tràng để tìm dị tật bẩm sinh đường ruột"
+   ],
+   "correct": 0,
+   "explanation": "Chẩn đoán táo bón chức năng dựa trên <b>lâm sàng</b> (bệnh sử, khám, <b>nhật ký đi cầu</b>). Không chụp X-quang bụng thường quy. Khối phân trực tràng đã sờ được nên không cần X-quang để xác nhận; X-quang chỉ dùng khi lâm sàng không rõ.",
+   "option_explanations": [
+    "Đúng — chẩn đoán và theo dõi dựa trên lâm sàng và nhật ký đi cầu; không chụp X-quang bụng thường quy.",
+    "Sai — chụp để đánh giá mức độ ứ phân là chỉ định của bé có bụng căng không sờ được khối phân; bé này khối phân đã rõ trên lâm sàng.",
+    "Sai — theo dõi tiến triển khối phân không dựa trên X-quang mà dựa trên nhật ký đi cầu và đáp ứng lâm sàng.",
+    "Sai — chụp để tìm dị tật bẩm sinh là chỉ định của bé nghi bệnh bẩm sinh; bé này có tiền sử rặn–nhịn điển hình."
+   ]
+  },
+  {
+   "id": "PED65-B03",
+   "type": "vignette",
+   "topic": "Cận lâm sàng",
+   "subtopic": "Khi nào cân nhắc X-quang bụng",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-65 G5",
+   "text": "Bé trai 7 tuổi, táo bón chức năng nhiều năm, đau bụng quanh rốn và đầy hơi. Khám: bụng chướng căng, không đau khu trú, không sờ rõ khối phân do bụng căng; khám trực tràng bị bé co chặt không thực hiện được (bé sợ hãi, khóc). Không có cờ đỏ khác. Tình huống nào khiến việc chụp X-quang bụng là hợp lý nhất?",
+   "options": [
+    "Bé đã điều trị PEG đúng liều 4 tuần mà chưa đi cầu đều đặn dù đã tuân thủ",
+    "Khám trực tràng không thực hiện được và nghi ứ phân mà lâm sàng chưa đủ rõ",
+    "Bé có đau bụng quanh rốn và đầy hơi nhưng khối phân sờ được rõ trên lâm sàng",
+    "Phụ huynh muốn theo dõi tiến triển của khối phân sau mỗi đợt tống tháo kéo dài"
+   ],
+   "correct": 1,
+   "explanation": "Cân nhắc X-quang bụng khi <b>khám trực tràng không thực hiện được</b> và <b>nghi ứ phân</b> mà lâm sàng chưa rõ. Bé này bụng căng không sờ được khối phân và không khám được trực tràng: đây là trường hợp cân nhắc X-quang.",
+   "option_explanations": [
+    "Sai — đáp ứng chậm sau 4 tuần khi đã tuân thủ chỉ cần rà liều và cách uống, không phải chỉ định X-quang.",
+    "Đúng — khám trực tràng không thực hiện được và nghi ứ phân mà lâm sàng chưa rõ là chỉ định cân nhắc X-quang bụng.",
+    "Sai — đau bụng và đầy hơi kèm khối phân sờ được rõ không cần X-quang; đây là bé có khối phân trên lâm sàng.",
+    "Sai — theo dõi tiến triển khối phân không dựa trên X-quang; dùng nhật ký và đáp ứng lâm sàng."
+   ]
+  },
+  {
+   "id": "PED65-B04",
+   "type": "vignette",
+   "topic": "Cận lâm sàng",
+   "subtopic": "Chẩn đoán lâm sàng và không làm DRE thường quy",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-65 G5",
+   "text": "Bé gái 5 tuổi, táo bón chức năng 1 năm, đi cầu 2 lần/tuần, không són phân, không có tiền sử gia đình bệnh lý bất thường. Khám bụng mềm không chướng, sờ thấy khối phân hố chậu trái. Khám hậu môn bình thường, không có sẹo, không dò. Bác sĩ có nên làm thăm trực tràng bằng ngón tay (DRE) thường quy không?",
+   "options": [
+    "Làm DRE để loại trừ Hirschsprung ở mọi trẻ táo bón kéo dài trên 1 năm",
+    "Làm DRE thường quy để xác định mức độ khối phân trực tràng ở mọi bé táo bón",
+    "Không làm DRE thường quy; chỉ làm khi nghi thực tổn hoặc khi lâm sàng không rõ",
+    "Không làm DRE thường quy; chỉ làm khi trẻ dưới 2 tuổi có triệu chứng nặng kèm chướng"
+   ],
+   "correct": 2,
+   "explanation": "DRE <b>không thường quy</b> ở trẻ táo bón chức năng điển hình; chỉ làm khi <b>nghi thực tổn</b> hoặc <b>lâm sàng không rõ</b>. Bé này đã sờ thấy khối phân hố chậu trái, không có cờ đỏ và khám hậu môn bình thường nên không cần DRE thường quy.",
+   "option_explanations": [
+    "Sai — DRE thường quy để loại trừ Hirschsprung chỉ làm khi có nghi ngờ (cờ đỏ); bé này không có nghi ngờ đó.",
+    "Sai — DRE để xác định mức độ khối phân là bước không cần thiết; bé này đã xác định khối phân bằng sờ bụng.",
+    "Đúng — DRE chỉ khi nghi thực tổn hoặc lâm sàng không rõ; bé này không có cờ đỏ và đã sờ thấy khối phân.",
+    "Sai — tuổi dưới 2 kèm chướng nặng là chỉ định làm DRE khi lâm sàng không rõ; bé này không có chướng."
+   ]
+  },
+  {
+   "id": "PED65-B05",
+   "type": "vignette",
+   "topic": "Tống tháo và duy trì",
+   "subtopic": "Liều PEG tống tháo",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-65 G7",
+   "text": "Bé trai 4 tuổi, cân nặng 16 kg, táo bón chức năng có khối phân sờ được ở hố chậu trái, đi cầu 1 lần/tuần, phân cứng, đau khi đi cầu. Bác sĩ quyết định tống tháo bằng PEG 3350 uống. Liều và thời gian nào phù hợp nhất?",
+   "options": [
+    "PEG 3350 uống 0,2 g/kg/ngày (tổng 3,2 g/ngày) trong 1 ngày, rồi đánh giá lại khối phân",
+    "PEG 3350 uống 0,4 g/kg/ngày (tổng 6,4 g/ngày) trong 2 ngày liên tiếp, rồi chuyển sang duy trì",
+    "PEG 3350 uống 1 đến 1,5 g/kg/ngày (16 đến 24 g/ngày) trong 3 đến 6 ngày, đến khi khối phân được đào thải",
+    "PEG 3350 uống 2 g/kg/ngày (tổng 32 g/ngày) trong 10 ngày liên tiếp, theo dõi tại nhà"
+   ],
+   "correct": 2,
+   "explanation": "Tống tháo PEG 3350 là <b>1 đến 1,5 g/kg/ngày</b> trong <b>3 đến 6 ngày</b>, đến khi khối phân được đào thải. Với bé 16 kg là khoảng 16 đến 24 g/ngày. Các liều còn lại là liều của giai đoạn khác: 0,4 g/kg/ngày là duy trì khởi đầu.",
+   "option_explanations": [
+    "Sai — 0,2 g/kg/ngày chỉ 1 ngày là liều chưa đủ; đúng cho bé có khối phân nhỏ cần đánh giá lại sớm, không phải khối phân kẹt này.",
+    "Sai — 0,4 g/kg/ngày là liều duy trì khởi đầu, chỉ 2 ngày chưa đủ tống tháo; đúng cho bé đang chuyển sang duy trì.",
+    "Đúng — tống tháo PEG 1 đến 1,5 g/kg/ngày trong 3 đến 6 ngày; với 16 kg là khoảng 16 đến 24 g/ngày.",
+    "Sai — 2 g/kg/ngày trong 10 ngày vượt khoảng tống tháo và kéo dài; cần theo dõi sát, không phải điều trị tại nhà."
+   ]
+  },
+  {
+   "id": "PED65-B06",
+   "type": "vignette",
+   "topic": "Tống tháo và duy trì",
+   "subtopic": "Chọn đường tống tháo ở trẻ sợ hãi",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-65 G7",
+   "text": "Bé gái 6 tuổi, táo bón chức năng có khối phân trực tràng sờ được, són phân lỏng. Bé rất sợ đi cầu và khóc khi người lớn đề nghị thụt tháo. Gia đình muốn làm nhanh trong buổi khám. Bác sĩ nên chọn cách nào?",
+   "options": [
+    "Thụt tháo nước muối sinh lý với kỹ thuật nhẹ nhàng, có người giữ bé để hoàn thành nhanh",
+    "Ưu tiên PEG 3350 uống 1 đến 1,5 g/kg/ngày trong 3 đến 6 ngày, trấn an và không thụt khi bé sợ hãi",
+    "Đặt hậu môn glycerin nhẹ nhàng, có người lớn hỗ trợ trấn an bé trong buổi khám",
+    "Thụt tháo phosphate natri trong buổi khám để làm sạch trực tràng nhanh chóng cho bé lớn"
+   ],
+   "correct": 1,
+   "explanation": "Với bé sợ hãi nên <b>ưu tiên đường uống</b>: PEG 3350 1 đến 1,5 g/kg/ngày trong 3 đến 6 ngày, kèm trấn an và không thụt khi bé sợ hãi. Glycerin đặt hậu môn là lựa chọn của nhũ nhi, phosphate natri không dùng cho trẻ dưới 2 tuổi và mất nước; thụt nước muối có giữ bé gây sợ hãi.",
+   "option_explanations": [
+    "Sai — thụt nước muối có giữ bé gây sợ hãi và tổn thương tâm lý; đây là chỉ định của bé cần thụt tháo nhanh, không phải bé sợ hãi này.",
+    "Đúng — ưu tiên đường uống; trấn an và không thụt khi bé sợ hãi; PEG tống tháo 1 đến 1,5 g/kg/ngày trong 3 đến 6 ngày.",
+    "Sai — glycerin đặt hậu môn đúng cho nhũ nhi có khối phân; bé 6 tuổi này sợ hãi nên không đặt hậu môn khi phải giữ bé.",
+    "Sai — phosphate natri chỉ dùng cho trẻ lớn đủ nước; bé 6 tuổi này sợ hãi và có khối phân, không phải lựa chọn ưu tiên khi chưa cần thụt."
+   ]
+  },
+  {
+   "id": "PED65-B07",
+   "type": "vignette",
+   "topic": "Tống tháo và duy trì",
+   "subtopic": "Tránh phosphate natri",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-65 G7",
+   "text": "Bé trai 18 tháng tuổi, táo bón chức năng có khối phân lớn trong trực tràng, mất nước nhẹ do sốt 2 ngày trước. Gia đình hỏi bác sĩ có thể dùng thuốc thụt phosphate natri để tống phân nhanh không. Quyết định nào là đúng nhất?",
+   "options": [
+    "Dùng phosphate natri sau khi đã bù nước đầy đủ trong 24 giờ, rồi mới tống tháo theo lịch",
+    "Dùng phosphate natri khi khối phân trực tràng lớn và cần làm sạch nhanh trong buổi khám",
+    "Dùng phosphate natri với liều thu nhỏ theo cân nặng để giảm nguy cơ khi khối phân đã lớn",
+    "Không dùng phosphate natri khi bé dưới 2 tuổi và đang mất nước; ưu tiên PEG 3350 uống để tống tháo"
+   ],
+   "correct": 3,
+   "explanation": "Phosphate natri <b>tránh ở trẻ dưới 2 tuổi</b> và khi <b>mất nước</b>. Bé 18 tháng đang mất nước: không dùng phosphate natri; <b>ưu tiên PEG 3350 uống</b> để tống tháo. Các phương án còn lại là chỉ định của bé lớn đủ nước, không phải bé này.",
+   "option_explanations": [
+    "Sai — bù nước 24 giờ rồi thụt là chỉ định của bé lớn đủ nước; dưới 2 tuổi vẫn tránh phosphate natri.",
+    "Sai — làm sạch nhanh khi khối phân lớn là lý do của bé lớn đủ nước; bé 18 tháng dưới 2 tuổi và đang mất nước là chống chỉ định.",
+    "Sai — điều chỉnh liều theo cân nặng không loại bỏ chống chỉ định ở trẻ dưới 2 tuổi và đang mất nước.",
+    "Đúng — tránh phosphate natri ở bé dưới 2 tuổi và đang mất nước; ưu tiên PEG 3350 uống."
+   ]
+  },
+  {
+   "id": "PED65-B08",
+   "type": "vignette",
+   "topic": "Tống tháo và duy trì",
+   "subtopic": "Liều PEG duy trì khởi đầu",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-65 G8",
+   "text": "Bé gái 5 tuổi, cân nặng 18 kg, đã tống tháo PEG thành công, phân lỏng đã hết khối phân. Bác sĩ chuyển sang điều trị duy trì bằng PEG 3350. Liều khởi đầu duy trì nào là phù hợp nhất?",
+   "options": [
+    "0,1 g/kg/ngày (khoảng 1,8 g/ngày), chỉnh theo đáp ứng sau mỗi 1 đến 2 tuần",
+    "0,4 g/kg/ngày (khoảng 7,2 g/ngày), chỉnh theo đáp ứng sau mỗi 1 đến 2 tuần",
+    "1,5 g/kg/ngày (khoảng 27 g/ngày), chỉnh theo đáp ứng sau mỗi 1 đến 2 tuần",
+    "3 g/kg/ngày (khoảng 54 g/ngày), chỉnh theo đáp ứng sau mỗi 1 đến 2 tuần"
+   ],
+   "correct": 1,
+   "explanation": "PEG 3350 duy trì <b>liều khởi đầu 0,4 g/kg/ngày</b> (phạm vi 0,2–0,8 g/kg/ngày), chỉnh theo đáp ứng. Liều 1–1,5 g/kg/ngày là liều tống tháo ở giai đoạn trước, không phải liều duy trì.",
+   "option_explanations": [
+    "Sai — 0,1 g/kg/ngày dưới khoảng duy trì (0,2–0,8) nên dễ không đạt phân mềm; đúng cho bé đã tuân thủ tốt với nhu cầu thấp hơn.",
+    "Đúng — duy trì khởi đầu 0,4 g/kg/ngày, chỉnh theo đáp ứng trong khoảng 0,2–0,8 g/kg/ngày.",
+    "Sai — 1,5 g/kg/ngày là liều tống tháo của giai đoạn trước (3 đến 6 ngày); duy trì ở liều này không phải khởi đầu.",
+    "Sai — 3 g/kg/ngày vượt xa khoảng duy trì và tống tháo; không là liều khởi đầu cho bé này."
+   ]
+  },
+  {
+   "id": "PED65-B09",
+   "type": "vignette",
+   "topic": "Tống tháo và duy trì",
+   "subtopic": "Thời gian duy trì tối thiểu",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-65 G8",
+   "text": "Bé trai 6 tuổi, sau tống tháo PEG thành công, đã chuyển sang duy trì PEG 3350 0,4 g/kg/ngày. Sau 5 tuần, phân đã mềm mỗi ngày, bé không đau và không còn són phân. Mẹ muốn ngừng thuốc vì bé đã khỏe. Lời khuyên nào là đúng nhất?",
+   "options": [
+    "Ngừng thuốc khi phân mềm mỗi ngày và bé không còn đau khi đi cầu trong 1 tuần",
+    "Duy trì ít nhất 2 tháng; sau đó tiếp tục liều cũ đến khi bé ổn định rõ",
+    "Ngừng thuốc sau 1 tuần nữa để bé quen đi cầu tự nhiên, theo dõi thêm nếu tái phát",
+    "Duy trì ít nhất 2 tháng rồi giảm liều dần, không ngừng đột ngột"
+   ],
+   "correct": 3,
+   "explanation": "Duy trì <b>ít nhất 2 tháng</b> rồi <b>giảm liều dần</b>, không ngừng đột ngột; tiêu chí dừng là hết triệu chứng ≥ 1 tháng. Bé 5 tuần chưa đủ thời gian, nên không ngừng hay giữ nguyên liều vô thời hạn.",
+   "option_explanations": [
+    "Sai — hết đau và phân mềm trong 1 tuần chưa đủ tiêu chí ngừng; cần hết triệu chứng ≥ 1 tháng rồi giảm liều dần.",
+    "Sai — duy trì ít nhất 2 tháng đúng, nhưng giữ liều cũ vô thời hạn không phải cách kết thúc; đúng cho bé đã chọn giữ liều lâu dài.",
+    "Sai — ngừng sau 1 tuần là quá sớm; đúng cho bé đã duy trì đủ 2 tháng và hết triệu chứng ≥ 1 tháng.",
+    "Đúng — duy trì ít nhất 2 tháng rồi giảm liều dần; bé này mới 5 tuần."
+   ]
+  },
+  {
+   "id": "PED65-B10",
+   "type": "vignette",
+   "topic": "Tống tháo và duy trì",
+   "subtopic": "Thuốc thay thế: lactulose",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-65 G8",
+   "text": "Bé gái 3 tuổi, cân nặng 14 kg, đang duy trì PEG 3350 nhưng gia đình không mua được PEG và chỉ có lactulose dung dịch 70%. Bác sĩ cần quy đổi liều duy trì lactulose cho bé. Liều nào là hợp lý nhất?",
+   "options": [
+    "0,5 mL/kg/ngày dung dịch 70%, chia 1 lần trong ngày để tiện cho gia đình",
+    "1 đến 3 mL/kg/ngày dung dịch 70%, chia 1 đến 2 lần trong ngày",
+    "5 đến 6 mL/kg/ngày dung dịch 70%, chia 3 lần trong ngày để đạt hiệu quả nhanh",
+    "10 mL/kg/ngày dung dịch 70%, dùng một lần trong ngày để đạt hiệu quả nhanh"
+   ],
+   "correct": 1,
+   "explanation": "Lactulose duy trì <b>1–3 mL/kg/ngày</b> dung dịch 70%, chia 1–2 lần trong ngày. Với bé 14 kg là khoảng 14 đến 42 mL/ngày. Đây là thuốc thay thế thẩm thấu tương tự PEG.",
+   "option_explanations": [
+    "Sai — 0,5 mL/kg/ngày dưới khoảng lactulose duy trì; chỉ phù hợp khi chỉnh liều giảm dần ở bé đã đạt phân mềm.",
+    "Đúng — lactulose duy trì 1–3 mL/kg/ngày dung dịch 70%, chia 1–2 lần trong ngày.",
+    "Sai — 5 đến 6 mL/kg/ngày vượt khoảng duy trì; đây là mức liều cần thận trọng khi tống tháo kèm theo dõi sát.",
+    "Sai — 10 mL/kg/ngày vượt xa khoảng khuyến cáo; liều lớn một lần không phù hợp cho duy trì."
+   ]
+  },
+  {
+   "id": "PED65-B11",
+   "type": "vignette",
+   "topic": "Tống tháo và duy trì",
+   "subtopic": "Dầu khoáng và nguy cơ hít",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-65 G8",
+   "text": "Bé trai 10 tháng tuổi, táo bón chức năng, đang ăn dặm, có tiền sử sặc sữa khi bú và ho nhiều khi ăn, đã được điều trị PEG nhưng chưa đáp ứng. Gia đình hỏi có thể dùng dầu khoáng (mineral oil) thay thế không. Quyết định nào là đúng nhất?",
+   "options": [
+    "Dùng dầu khoáng khi bé đang ăn dặm và PEG chưa đáp ứng, theo dõi sát tình trạng hít",
+    "Dùng dầu khoáng khi kèm theo chế độ ăn nhiều chất xơ và uống đủ nước theo lịch",
+    "Không dùng dầu khoáng do bé dưới 1 tuổi và có nguy cơ sặc; cân nhắc lactulose thay thế",
+    "Dùng dầu khoáng liều thấp khi bé đã ăn ổn định và không còn ho sau bữa ăn kéo dài"
+   ],
+   "correct": 2,
+   "explanation": "Dầu khoáng <b>không dùng cho trẻ dưới 1 tuổi</b> hoặc có <b>nguy cơ sặc / rối loạn nuốt</b> (nguy cơ viêm phổi hít). Bé 10 tháng có cả hai nên không dùng dầu khoáng; cân nhắc lactulose thay thế.",
+   "option_explanations": [
+    "Sai — dùng khi đang ăn dặm và PEG chưa đáp ứng là bỏ qua nguy cơ hít; bé này có cả hai yếu tố nguy cơ.",
+    "Sai — chất xơ và nước không thay đổi chống chỉ định; dầu khoáng vẫn không dùng cho bé này.",
+    "Đúng — dầu khoáng chống chỉ định ở bé dưới 1 tuổi hoặc có nguy cơ sặc; cân nhắc lactulose thay thế.",
+    "Sai — liều thấp sau khi ăn ổn định vẫn không an toàn cho bé dưới 1 tuổi có tiền sử sặc."
+   ]
+  },
+  {
+   "id": "PED65-B12",
+   "type": "vignette",
+   "topic": "Tống tháo và duy trì",
+   "subtopic": "Kích thích ngắn hạn khi PEG chưa đủ",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-65 G8",
+   "text": "Bé gái 7 tuổi đang duy trì PEG 3350 0,4 g/kg/ngày trong 3 tuần nhưng vẫn đi cầu 2 lần/tuần, phân cứng, không có khối phân sờ được, đã kiểm tra tuân thủ và liều. Bác sĩ cân nhắc thêm một thuốc nhuận tràng kích thích. Điều nào là đúng?",
+   "options": [
+    "Không thêm thuốc nhuận tràng khi PEG đã đúng liều, chờ thêm 3 tháng rồi đánh giá lại",
+    "Dùng bisacodyl hoặc senna làm thuốc đầu tay duy trì, thay PEG để đơn giản điều trị",
+    "Dùng bisacodyl hoặc senna ngắn hạn, cứu hộ khi PEG chưa đủ, rồi quay lại duy trì PEG",
+    "Dùng bisacodyl hoặc senna kéo dài như liệu pháp duy trì chính trong nhiều năm"
+   ],
+   "correct": 2,
+   "explanation": "Thuốc kích thích (bisacodyl, senna) chỉ dùng <b>ngắn hạn/cứu hộ</b> khi PEG chưa đủ; <b>không là thuốc đầu tay duy trì</b>. Bé này tuân thủ và đúng liều nhưng PEG chưa đủ: thêm kích thích ngắn hạn rồi quay lại duy trì PEG.",
+   "option_explanations": [
+    "Sai — chờ 3 tháng khi PEG chưa đủ kéo dài thời gian không đáp ứng; đúng cho bé mới bắt đầu duy trì chưa đủ thời gian.",
+    "Sai — thay PEG bằng bisacodyl/senna không phải đầu tay duy trì; đúng cho bé không dung nạp PEG.",
+    "Đúng — kích thích ngắn hạn khi PEG chưa đủ, rồi quay lại duy trì PEG.",
+    "Sai — dùng kéo dài bisacodyl/senna không phải liệu pháp duy trì chính; đúng cho bé cần kiểm soát lâu dài không dùng PEG."
+   ]
+  },
+  {
+   "id": "PED65-B13",
+   "type": "vignette",
+   "topic": "Nhũ nhi và biến chứng",
+   "subtopic": "Huấn luyện đi cầu ở trẻ nhỏ",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-65 G9",
+   "text": "Bé gái 3 tuổi sợ ngồi bô sau lần đi cầu đau do nứt hậu môn. Mẹ hay la mắng và bắt bé ngồi 30 phút đến khi đi được mới cho đứng dậy; bé càng nhịn nhiều hơn, phân cứng và to. Mẹ nên huấn luyện đi cầu thế nào?",
+   "options": [
+    "Tạm ngừng nhắc ngồi bô vài tháng, chỉ cho ngồi khi bé tự đòi đi cầu, không ép buộc bé",
+    "Ngồi bô khoảng 30 phút mỗi buổi sáng trước bữa ăn cho tới khi đi được, khen thưởng khi bé đi được",
+    "Ngồi bô 5 đến 10 phút sau bữa ăn, 2 đến 3 lần mỗi ngày, có bệ kê chân, khen thưởng và không trách phạt",
+    "Ngồi bô khi bé nhịn, nhắc nhở nghiêm khắc và phạt nhẹ khi bé không đi để bé nhớ đi cầu mỗi ngày"
+   ],
+   "correct": 2,
+   "explanation": "Huấn luyện đi cầu ở trẻ táo bón: ngồi bô <b>5 đến 10 phút sau bữa ăn</b>, <b>2 đến 3 lần/ngày</b>, có <b>bệ kê chân</b>, <b>khen thưởng và không trách phạt</b>. Bé này sợ đau do nứt hậu môn nên trách mắng và ép ngồi làm bé nhịn nhiều hơn.",
+   "option_explanations": [
+    "Sai — ngừng nhắc vài tháng là bỏ mặc huấn luyện; đúng khi bé đã có đi cầu đều đặn không cần can thiệp.",
+    "Sai — ngồi 30 phút ép buộc đến khi đi được là cách mẹ đang làm; đúng cho bé không sợ đau.",
+    "Đúng — ngồi bô ngắn, đều đặn sau bữa ăn, có bệ kê chân, khen thưởng và không trách phạt.",
+    "Sai — nhắc nghiêm khắc và phạt làm bé sợ hãi và nhịn đi cầu hơn; không dùng cho bé có nứt hậu môn."
+   ]
+  },
+  {
+   "id": "PED65-B14",
+   "type": "vignette",
+   "topic": "Nhũ nhi và biến chứng",
+   "subtopic": "Táo bón giả nhũ nhi",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-65 G9",
+   "text": "Nhũ nhi 3 tháng tuổi bú mẹ, mỗi ngày bé rặn đỏ mặt và khóc khoảng 15 phút trước khi đi được phân mềm vàng, thường 1 lần mỗi ngày. Bé tăng cân tốt, không sốt, không nôn. Mẹ muốn đặt tăm bông hoặc dùng glycerin để giúp bé đi cầu. Lời khuyên nào là đúng nhất?",
+   "options": [
+    "Dùng glycerin đặt hậu môn mỗi ngày để phòng táo bón khi bé rặn kéo dài",
+    "Cho bé uống thêm nước và PEG để làm mềm phân khi bé rặn kéo dài trên 10 phút",
+    "Đặt tăm bông hậu môn để kích thích đi cầu nhanh hơn khi bé rặn kéo dài",
+    "Trấn an và theo dõi; không dùng thuốc hay kích thích hậu môn vì đây là táo bón giả nhũ nhi"
+   ],
+   "correct": 3,
+   "explanation": "Táo bón giả nhũ nhi (infant dyschezia): dưới 9 tháng, rặn–khóc đỏ mặt khoảng 10 phút hoặc hơn trước khi đi được phân mềm, thường 1 lần/ngày. <b>Không phải táo bón</b>; <b>trấn an và theo dõi</b>, không dùng thuốc hay kích thích hậu môn. Bé này tăng cân tốt, phân mềm.",
+   "option_explanations": [
+    "Sai — glycerin đặt hậu môn là kích thích không cần thiết cho bé dyschezia; là lựa chọn của nhũ nhi có khối phân.",
+    "Sai — PEG cho bé không phải táo bón thật là không cần thiết; bé này phân mềm và tăng cân tốt.",
+    "Sai — đặt tăm bông kích thích hậu môn là mẹo không nên dùng; bé này không cần kích thích.",
+    "Đúng — trấn an và theo dõi; không dùng thuốc hay kích thích hậu môn; bé này phân mềm và tăng cân tốt."
+   ]
+  },
+  {
+   "id": "PED65-B15",
+   "type": "vignette",
+   "topic": "Nhũ nhi và biến chứng",
+   "subtopic": "Nhũ nhi táo bón thật: pha sữa",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-65 G9",
+   "text": "Nhũ nhi 5 tháng tuổi bú sữa công thức, đi cầu cứng 1 lần mỗi 4 đến 5 ngày, rặn đau và có vài vết máu đỏ tươi dính ngoài phân. Bé tăng cân bình thường. Khi hỏi cách pha sữa, mẹ pha đặc hơn hướng dẫn trên nhãn. Bước xử trí đầu tiên đúng nhất là gì?",
+   "options": [
+    "Dùng dầu khoáng 2 mL/kg/ngày để làm trơn phân và giảm đau khi bé đi cầu",
+    "Cho bé uống thêm nước đun sôi để mềm phân trong vài ngày tới khi có máu dính ngoài",
+    "Thử loại đạm sữa bò 2 đến 4 tuần ngay khi có máu dính, trước khi sửa cách pha sữa",
+    "Tư vấn lại cách pha sữa đúng tỉ lệ, rồi cân nhắc PEG hoặc lactulose nếu chưa đỡ"
+   ],
+   "correct": 3,
+   "explanation": "Nhũ nhi táo bón thật: <b>tư vấn lại pha sữa đúng tỉ lệ</b> là bước đầu; nếu chưa đỡ thì cân nhắc PEG hoặc lactulose. Thử loại đạm sữa bò 2–4 tuần dành cho táo bón kháng trị. Không dùng dầu khoáng dưới 1 tuổi.",
+   "option_explanations": [
+    "Sai — dầu khoáng không dùng cho trẻ dưới 1 tuổi; đúng cho bé lớn không có nguy cơ sặc.",
+    "Sai — uống thêm nước không được khuyến cáo chữa táo bón đã thành lập; nguyên nhân ở bé này là pha sữa đặc.",
+    "Sai — thử loại đạm sữa bò 2–4 tuần là bước của táo bón kháng trị; đúng khi đã sửa pha sữa mà vẫn không đáp ứng.",
+    "Đúng — tư vấn pha sữa đúng tỉ lệ là bước đầu; cân nhắc PEG hoặc lactulose nếu chưa đỡ."
+   ]
+  },
+  {
+   "id": "PED65-B16",
+   "type": "vignette",
+   "topic": "Nhũ nhi và biến chứng",
+   "subtopic": "Dị ứng đạm sữa bò kháng trị",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-65 G9",
+   "text": "Nhũ nhi 6 tháng tuổi bú sữa công thức, táo bón kéo dài, phân có máu đỏ tươi dính, đã tư vấn pha sữa đúng tỉ lệ và dùng PEG đúng liều 4 tuần nhưng không đáp ứng. Bé không sốt, không chướng bụng, tăng cân bình thường. Bước tiếp theo hợp lý nhất là gì?",
+   "options": [
+    "Chụp X-quang bụng khi chưa đáp ứng sau 4 tuần, để tìm nguyên nhân thực tổn trước khi điều trị tiếp",
+    "Chuyển tuyến để sinh thiết hút niêm mạc trực tràng khi chưa đáp ứng sau 4 tuần điều trị",
+    "Tăng liều PEG lên 1,5 g/kg/ngày khi chưa đáp ứng sau 4 tuần để đạt đáp ứng nhanh hơn",
+    "Thử loại đạm sữa bò 2 đến 4 tuần, rồi thử lại để xác nhận khi không có cờ đỏ nặng"
+   ],
+   "correct": 3,
+   "explanation": "Táo bón kháng trị ở nhũ nhi: <b>thử loại đạm sữa bò 2–4 tuần</b>, rồi thử lại để xác nhận; áp dụng khi <b>không có cờ đỏ nặng</b>. Bé không sốt, không chướng và tăng cân tốt nên chưa cần chuyển tuyến hay X-quang.",
+   "option_explanations": [
+    "Sai — X-quang bụng là chỉ định của bé nghi thực tổn có cờ đỏ; bé này không sốt, không chướng nên không cần.",
+    "Sai — sinh thiết hút niêm mạc trực tràng là chỉ định của bé nghi Hirschsprung có cờ đỏ nặng; bé này không có.",
+    "Sai — tăng lên 1,5 g/kg/ngày là liều tống tháo; đúng cho bé đang tống tháo, không phải bé đang duy trì không đáp ứng.",
+    "Đúng — thử loại đạm sữa bò 2–4 tuần rồi thử lại để xác nhận khi không có cờ đỏ nặng."
+   ]
+  },
+  {
+   "id": "PED65-B17",
+   "type": "vignette",
+   "topic": "Nhũ nhi và biến chứng",
+   "subtopic": "Glycerin đặt hậu môn ở nhũ nhi",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-65 G8",
+   "text": "Nhũ nhi 4 tháng tuổi bú sữa công thức, táo bón có khối phân trực tràng sờ được, rặn nhiều, phân cứng. Bác sĩ cân nhắc tống tháo nhẹ nhàng cho bé. Với nhũ nhi, lựa chọn nào là phù hợp nhất?",
+   "options": [
+    "Glycerin đặt hậu môn nhẹ nhàng, tránh thụt phosphate natri ở trẻ dưới 2 tuổi",
+    "Dầu khoáng uống khi bé ăn ổn định, để làm trơn phân và giảm rặn khi đi cầu",
+    "Thụt phosphate natri đặt hậu môn liều điều chỉnh theo cân nặng để tống phân nhanh",
+    "Thụt tháo nước muối sinh lý với kỹ thuật nhẹ nhàng, có người giữ bé để tống phân nhanh"
+   ],
+   "correct": 0,
+   "explanation": "Ở nhũ nhi tống tháo bằng <b>glycerin đặt hậu môn nhẹ nhàng</b>; tránh <b>thụt phosphate natri</b> ở trẻ dưới 2 tuổi. Dầu khoáng không dùng dưới 1 tuổi. Thụt nước muối có giữ bé gây sợ hãi và không cần thiết khi glycerin đủ.",
+   "option_explanations": [
+    "Đúng — glycerin đặt hậu môn nhẹ nhàng là lựa chọn của nhũ nhi; tránh phosphate natri dưới 2 tuổi.",
+    "Sai — dầu khoáng không dùng cho trẻ dưới 1 tuổi; đúng cho bé lớn không có nguy cơ sặc.",
+    "Sai — phosphate natri không dùng ở trẻ dưới 2 tuổi, kể cả khi điều chỉnh theo cân nặng.",
+    "Sai — thụt nước muối có giữ bé gây sợ hãi; đúng cho bé lớn cần thụt tháo, không phải nhũ nhi có khối phân này."
+   ]
+  },
+  {
+   "id": "PED65-B18",
+   "type": "vignette",
+   "topic": "Nhũ nhi và biến chứng",
+   "subtopic": "Chất xơ, nước và tống tháo sau ứ phân",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-65 G9",
+   "text": "Bé trai 5 tuổi sờ thấy khối phân ở hố chậu trái, đi cầu 1 lần mỗi tuần và hay són phân lỏng ra quần. Mẹ muốn tăng chất xơ và cho bé uống nhiều nước thay cho thuốc nhuận tràng. Tư vấn nào phù hợp nhất?",
+   "options": [
+    "Chỉ cho thuốc kích thích hằng ngày kéo dài và hạn chế chất xơ để bé đỡ đầy hơi và đau bụng",
+    "Đồng ý tăng chất xơ và uống nước, rồi theo dõi đi cầu mỗi tuần khi bé có khối phân",
+    "Đồng ý thêm men vi sinh hằng ngày khi bằng chứng cho thấy đủ để điều trị táo bón nhẹ",
+    "Chất xơ và nước chỉ hỗ trợ; bé cần tống tháo khối phân rồi duy trì thuốc nhuận tràng vì táo bón đã thành lập"
+   ],
+   "correct": 3,
+   "explanation": "Chất xơ và nước là <b>hỗ trợ</b>, không đủ khi đã có <b>khối phân và són phân</b>. Bé này cần <b>tống tháo khối phân</b> trước, rồi <b>duy trì thuốc nhuận tràng</b> vì táo bón đã thành lập. Chất xơ và nước là điều trị đúng cho bé chưa có ứ phân.",
+   "option_explanations": [
+    "Sai — thuốc kích thích kéo dài và hạn chế chất xơ không có chỉ định ở bé này; cần điều trị theo phác đồ táo bón.",
+    "Sai — chất xơ và nước là điều trị hỗ trợ khi chưa có ứ phân; bé này đã có khối phân và són phân nên cần xử trí thêm.",
+    "Sai — men vi sinh chưa có bằng chứng đủ để thay thế điều trị táo bón đã có khối phân và són phân.",
+    "Đúng — chất xơ và nước chỉ hỗ trợ; tống tháo khối phân rồi duy trì thuốc nhuận tràng khi táo bón đã thành lập."
+   ]
+  },
+  {
+   "id": "PED65-B19",
+   "type": "vignette",
+   "topic": "Nhũ nhi và biến chứng",
+   "subtopic": "Táo bón và nhiễm trùng tiểu tái diễn",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-65 G9",
+   "text": "Bé gái 6 tuổi nhiễm trùng tiểu tái diễn 3 lần trong 1 năm, thường xuyên tiểu són ban ngày và đái dầm đêm. Bé đi cầu 1 lần mỗi tuần, phân cứng; sờ thấy khối phân trên xương mu. Siêu âm tiết niệu và chức năng bàng quang đã thực hiện. Bác sĩ cần chọn hướng xử trí nào?",
+   "options": [
+    "Điều trị táo bón (tống tháo rồi duy trì) vì khối phân đè bàng quang và là yếu tố nguy cơ nhiễm trùng tiểu",
+    "Dùng kháng sinh dự phòng dài ngày khi nhiễm trùng tiểu tái diễn, theo dõi khối phân sau đó",
+    "Chuyển phẫu thuật nhi để tạo hình bàng quang khi tiểu són và nhiễm trùng tiểu tái diễn kéo dài",
+    "Hạn chế uống nước buổi tối và dùng thuốc chống đái dầm, theo dõi tiểu són khi có khối phân"
+   ],
+   "correct": 0,
+   "explanation": "Táo bón có <b>ứ phân trực tràng đè bàng quang</b> là <b>yếu tố nguy cơ</b> nhiễm trùng tiểu và tiểu són/đái dầm. Xử trí đúng là <b>điều trị táo bón</b> (tống tháo rồi duy trì), đồng thời theo dõi tiểu són và nhiễm trùng tiểu.",
+   "option_explanations": [
+    "Đúng — điều trị táo bón vì khối phân đè bàng quang là yếu tố nguy cơ nhiễm trùng tiểu và tiểu són.",
+    "Sai — kháng sinh dự phòng dài ngày không thay thế điều trị táo bón; chỉ dùng khi có chỉ định riêng.",
+    "Sai — tạo hình bàng quang là chỉ định khi bất thường cấu trúc đã xác định; bé này chưa cần xử trí phẫu thuật trước khi điều trị táo bón.",
+    "Sai — hạn chế nước và thuốc chống đái dầm có thể hỗ trợ nhưng bỏ qua nguyên nhân táo bón có khối phân."
+   ]
+  },
+  {
+   "id": "PED65-B20",
+   "type": "vignette",
+   "topic": "Nhũ nhi và biến chứng",
+   "subtopic": "Biến chứng và viêm ruột khi nghi Hirschsprung",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-65 G10",
+   "text": "Nhũ nhi 9 tháng tuổi có táo bón từ sơ sinh, chậm phân su hơn 48 giờ, bụng chướng nặng, nôn dịch xanh. Hôm nay bé sốt 39 độ, tiêu chảy hôi, mệt lả, da lạnh. Bác sĩ nghĩ đến biến chứng nguy hiểm nhất của bệnh nào? Xử trí ưu tiên nhất là gì?",
+   "options": [
+    "Suy giáp; xét nghiệm TSH và điều trị levothyroxine tại nhà khi bé ổn định",
+    "Dị ứng đạm sữa bò; thử loại đạm và tái khám sau 2 tuần khi bé ổn định",
+    "Táo bón chức năng nặng; tiếp tục PEG và theo dõi tại nhà khi bé ổn định",
+    "Viêm ruột–đại tràng do Hirschsprung; chuyển ngoại khoa để xử trí cấp cứu"
+   ],
+   "correct": 3,
+   "explanation": "Nghi <b>viêm ruột–đại tràng do Hirschsprung</b>: sốt, chướng nặng, tiêu chảy hôi, sốc. Đây là <b>cấp cứu ngoại khoa</b>, chuyển tuyến ngay. Các phương án còn lại là chẩn đoán và xử trí của bé không có sốc và không nghi Hirschsprung.",
+   "option_explanations": [
+    "Sai — điều trị suy giáp tại nhà là xử trí của bé suy giáp ổn định; không gây tiêu chảy hôi và sốc.",
+    "Sai — thử loại đạm và tái khám là xử trí của bé dị ứng đạm ổn định; bé này có sốt và sốc nên không xử trí ngoại trú.",
+    "Sai — tiếp tục PEG và theo dõi tại nhà là xử trí của táo bón chức năng ổn định; bé này có sốt và sốc.",
+    "Đúng — viêm ruột do Hirschsprung cần cấp cứu ngoại khoa; chuyển tuyến ngay."
+   ]
+  }
+ ]
+}
