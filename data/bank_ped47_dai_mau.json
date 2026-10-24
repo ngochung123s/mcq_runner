@@ -1,0 +1,968 @@
+{
+ "id": "bank_ped47_dai_mau",
+ "title": "PED-47: Tiếp cận đái máu ở trẻ em (40 câu ca lâm sàng)",
+ "description": "Đái máu thật và giả, phân biệt cầu thận với ngoài cầu thận, nguyên nhân thường gặp, cận lâm sàng, thuật toán 5 bước và 7 chỉ định sinh thiết thận theo barem giáo trình. Một đáp án đúng nhất; có giải thích cho từng phương án.",
+ "updated": "2026-10-24T07:45:13Z",
+ "questions": [
+  {
+   "id": "PED47-A01",
+   "type": "vignette",
+   "topic": "Xác nhận đái máu",
+   "subtopic": "Dipstick (+) nhưng soi cặn hồng cầu (-)",
+   "bloom": "áp dụng",
+   "difficulty": 1,
+   "source": "PED-47 Bước 0 & Bước 1",
+   "text": "Bé trai 6 tuổi, sau khi chơi đá bóng về có nước tiểu màu nâu đỏ như nước chè đặc. Bé không sốt, không đau bụng, không phù. Que thử nước tiểu dương tính 3+ về hồng cầu/hemoglobin. Soi cặn nước tiểu ly tâm: 0-1 HC/HPF. Huyết thanh không đổi màu.\nNguyên nhân nào giải thích tốt nhất kết quả này?",
+   "options": [
+    "Tán huyết nội mạch hoặc tiêu cơ vân gây hemoglobin/myoglobin niệu",
+    "Viêm cầu thận cấp sau nhiễm liên cầu khuẩn nhóm A",
+    "Sỏi niệu quản gây tổn thương niêm mạc đường tiết niệu",
+    "Đái máu vi thể đơn độc sau gắng sức kéo dài"
+   ],
+   "correct": 0,
+   "explanation": "Theo barem (Bước 0), dipstick (+) nhưng soi kính hiển vi (-) gợi ý <b>hemoglobin hoặc myoglobin niệu</b> (tán huyết nội mạch, tiêu cơ vân) chứ không phải hồng cầu nguyên vẹn; cần nghĩ tới nguyên nhân này trước.",
+   "option_explanations": [
+    "Đúng — dipstick (+) với soi cặn ≤1 HC/HPF là hemoglobin hoặc myoglobin niệu, cần nghĩ tới tán huyết nội mạch hoặc tiêu cơ vân trước.",
+    "Sai — viêm cầu thận sau liên cầu gây đái máu thật, soi cặn có hồng cầu rõ, không phải hemoglobin niệu đơn độc.",
+    "Sai — sỏi niệu quản gây đái máu đại thể có hồng cầu thật trong cặn, không phải hemoglobin niệu.",
+    "Sai — đái máu vi thể đơn độc có soi cặn hồng cầu dương tính, không khớp với soi cặn âm tính ở ca này."
+   ]
+  },
+  {
+   "id": "PED47-A02",
+   "type": "vignette",
+   "topic": "Xác nhận đái máu",
+   "subtopic": "Nước tiểu đỏ nhưng dipstick và soi đều âm tính",
+   "bloom": "áp dụng",
+   "difficulty": 1,
+   "source": "PED-47 Bước 0",
+   "text": "Bé gái 4 tuổi, mẹ đưa đến vì nước tiểu màu đỏ hồng từ hôm qua. Hôm nay bé khỏe, không sốt, không đau bụng, không phù. Que thử nước tiểu âm tính với hồng cầu và hemoglobin. Soi cặn không thấy hồng cầu.\nNhận định nào phù hợp nhất với trường hợp này?",
+   "options": [
+    "Đái máu vi thể cần lặp lại xét nghiệm nước tiểu mỗi tuần trong nhiều tuần",
+    "Nước tiểu đỏ do phẩm màu từ thức ăn, không phải đái máu thật sự",
+    "Đái máu cầu thận do bệnh màng đáy mỏng cần sinh thiết thận sớm",
+    "Đái máu đại thể do viêm bàng quang chảy máu cần điều trị kháng sinh"
+   ],
+   "correct": 1,
+   "explanation": "Theo Bước 0, nước tiểu <b>đỏ nhưng dipstick (-) và soi (-)</b> do <b>phẩm màu</b> chứ không phải đái máu; không cần làm thêm xét nghiệm nào.",
+   "option_explanations": [
+    "Sai — đái máu vi thể cần cặn hồng cầu dương tính; ca này cặn âm tính nên không cần lặp lại xét nghiệm.",
+    "Đúng — nước tiểu đỏ với dipstick (-) và soi (-) do phẩm màu, không phải đái máu thật, không cần làm thêm xét nghiệm.",
+    "Sai — đái máu cầu thận luôn có hồng cầu trong cặn, ca này soi âm tính nên không có cơ sở sinh thiết.",
+    "Sai — viêm bàng quang chảy máu gây dipstick (+) và có hồng cầu trong cặn, không khớp với kết quả âm tính ở ca này."
+   ]
+  },
+  {
+   "id": "PED47-A03",
+   "type": "vignette",
+   "topic": "Xác nhận đái máu",
+   "subtopic": "Đái máu vi thể đơn độc, gắng sức",
+   "bloom": "phân tích",
+   "difficulty": 2,
+   "source": "PED-47 Bước 3; Bẫy 2",
+   "text": "Bé trai 9 tuổi, khỏe mạnh, được phát hiện trong khám sức khỏe học đường: soi nước tiểu giữa dòng ly tâm có 8 HC/HPF, dipstick (+) hồng cầu. Bé không phù, huyết áp bình thường, không sốt, không đau bụng. Hôm trước bé vừa chạy thi đấu điền kinh cự li dài.\nBước xử trí tiếp theo phù hợp nhất là gì?",
+   "options": [
+    "Cho kháng sinh và cấy nước tiểu vì nghi nhiễm trùng đường tiểu",
+    "Làm lại xét nghiệm nước tiểu hằng tuần trong 2 tuần, tạm ngừng gắng sức nặng",
+    "Sinh thiết thận ngay để tìm bệnh cầu thận nguyên phát",
+    "Chụp CT ổ bụng để loại trừ u nguyên bào thận giai đoạn sớm"
+   ],
+   "correct": 1,
+   "explanation": "Đái máu <b>vi thể đơn độc</b> sau gắng sức không cần sinh thiết hay kháng sinh; theo barem cần <b>làm lại xét nghiệm nước tiểu hằng tuần trong 2 tuần</b> và không tập thể dục.",
+   "option_explanations": [
+    "Sai — không có dấu hiệu nhiễm trùng (không sốt, không đau bụng, không đái buốt), không cần kháng sinh.",
+    "Đúng — barem chỉ định làm lại nước tiểu hằng tuần trong 2 tuần và không tập thể dục khi còn đái máu vi thể.",
+    "Sai — sinh thiết thận không được chỉ định cho đái máu vi thể đơn độc không kèm protein niệu hay suy giảm chức năng thận.",
+    "Sai — ca không có khối bụng, không sụt cân, không có dấu hiệu gợi ý u nguyên bào thận nên không cần CT."
+   ]
+  },
+  {
+   "id": "PED47-A04",
+   "type": "vignette",
+   "topic": "Xác nhận đái máu",
+   "subtopic": "Đái máu đại thể, phù mi mắt, tăng HA sau viêm họng",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-47 Bước 1-2; PEDYTB §4 (sốt), §5.2",
+   "text": "Bé trai 8 tuổi, 5 ngày nay nước tiểu màu đỏ nâu, đi tiểu rất ít. Hôm nay bé phù mi mắt rõ buổi sáng, huyết áp 170/110 mmHg. Trước đó 2 tuần bé có viêm họng. Soi nước tiểu nhiều hồng cầu biến dạng, protein niệu dương tính.\nChẩn đoán nghĩ tới đầu tiên ở bé này là gì?",
+   "options": [
+    "Bệnh thận IgA có đái máu tái phát sau nhiễm trùng hô hấp trên",
+    "Đái máu lành tính có tính chất gia đình do bệnh màng đáy mỏng",
+    "Hội chứng Alport cần kiểm tra thính học và sinh thiết thận ngay",
+    "Viêm cầu thận cấp sau nhiễm trùng, cần làm C3, ASLO và anti-DNase B"
+   ],
+   "correct": 3,
+   "explanation": "Đái máu đại thể, phù, tăng huyết áp và protein niệu dương tính sau viêm họng gợi <b>viêm cầu thận cấp sau nhiễm trùng</b>; barem yêu cầu làm <b>C3, ASLO, Anti-DNAse B</b>.",
+   "option_explanations": [
+    "Sai — bệnh IgA gây đái máu tái phát đúng sau nhiễm trùng nhưng không gây phù và tăng huyết áp kịch phát.",
+    "Sai — màng đáy mỏng không gây phù, tăng huyết áp hay protein niệu dương tính.",
+    "Sai — hội chứng Alport không gây phù và tăng huyết áp cấp trong đợt này, sinh thiết không phải bước đầu.",
+    "Đúng — phù, tăng huyết áp, hồng cầu biến dạng, protein niệu dương tính sau viêm họng là viêm cầu thận cấp sau nhiễm trùng."
+   ]
+  },
+  {
+   "id": "PED47-A05",
+   "type": "vignette",
+   "topic": "Xác nhận đái máu",
+   "subtopic": "Đái máu đầu bãi, cuối bãi, toàn bãi",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-47 §4 Đái máu",
+   "text": "Bé gái 7 tuổi, đái máu đại thể đỏ tươi từ 2 ngày nay, đi tiểu đau buốt và đi tiểu nhiều lần. Không sốt, không phù, huyết áp bình thường. Làm nghiệm pháp 3 cốc: cốc đầu và cốc giữa trong, cốc cuối đỏ rõ.\nTổn thương nhiều khả năng nhất nằm ở vị trí nào?",
+   "options": [
+    "Niệu đạo trước",
+    "Cầu thận do tổn thương màng đáy lan tỏa",
+    "Cổ bàng quang hoặc tam giác bàng quang",
+    "Đài bể thận hoặc niệu quản"
+   ],
+   "correct": 2,
+   "explanation": "Theo giáo trình, đái máu đầu bãi gặp trong tổn thương niệu đạo, <b>cuối bãi gặp trong tổn thương bàng quang</b>, toàn bãi gặp trong viêm cầu thận, niệu quản, bàng quang và bệnh về máu.",
+   "option_explanations": [
+    "Sai — đúng cho trẻ có máu ở cốc đầu (đái máu đầu bãi); bé này cốc đầu trong.",
+    "Sai — đúng cho trẻ đái máu toàn bãi, phù, huyết áp tăng; bé này không có.",
+    "Đúng — máu chỉ rõ ở cốc cuối, kèm đái buốt, đái rắt, gợi tổn thương cổ hoặc tam giác bàng quang.",
+    "Sai — đúng cho trẻ đái máu toàn bãi kèm đau quặn hông lưng; bé này cốc giữa trong."
+   ]
+  },
+  {
+   "id": "PED47-A06",
+   "type": "vignette",
+   "topic": "Phân biệt cầu thận - ngoài cầu thận",
+   "subtopic": "Hồng cầu biến dạng và trụ hồng cầu",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-47 Phần I; PEDYTB §5.1",
+   "text": "Bé trai 10 tuổi, đái máu đại thể nâu sẫm như nước rửa thịt từ 3 ngày, không đau, không đái buốt. Có phù mi mắt. Huyết áp 130/85 mmHg. Soi nước tiểu: hồng cầu biến dạng chiếm 85%, có trụ hồng cầu. Protein/creatinin niệu 1,2 mg/mg.\nNhóm dấu hiệu này gợi nguồn gốc đái máu nào?",
+   "options": [
+    "Đái máu ngoài cầu thận do sỏi niệu quản gây tổn thương niêm mạc",
+    "Đái máu ngoài cầu thận do viêm bàng quang và niệu đạo nhiễm khuẩn",
+    "Đái máu cầu thận do tổn thương màng đáy làm hồng cầu thoát qua lỗ lọc",
+    "Đái máu ngoài cầu thận do chấn thương vùng hông lưng hoặc bụng"
+   ],
+   "correct": 2,
+   "explanation": "Hồng cầu <b>biến dạng >80%</b>, <b>trụ hồng cầu (+)</b> và protein niệu tăng gợi ý <b>đái máu cầu thận</b> do tổn thương màng đáy cầu thận.",
+   "option_explanations": [
+    "Sai — sỏi niệu quản gây hồng cầu đồng dạng và không tạo trụ hồng cầu cũng như protein niệu cao.",
+    "Sai — viêm bàng quang gây hồng cầu đồng dạng, không có trụ hồng cầu và không kèm protein niệu đáng kể.",
+    "Đúng — hồng cầu biến dạng 85%, trụ hồng cầu, protein niệu cao, nước tiểu nâu và phù là đái máu cầu thận.",
+    "Sai — chấn thương gây hồng cầu đồng dạng và không tạo trụ hồng cầu, không phù hợp với hình ảnh soi nước tiểu này."
+   ]
+  },
+  {
+   "id": "PED47-A07",
+   "type": "vignette",
+   "topic": "Phân biệt cầu thận - ngoài cầu thận",
+   "subtopic": "Đái máu có cục máu đông, đau quặn thận",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-47 Phần I (bảng đối chiếu); PEDYTB §4",
+   "text": "Bé trai 11 tuổi, đột ngột đau quặn hông lưng phải, đái máu đỏ tươi có vài cục máu đông. Bé đau khi đi tiểu, đi tiểu rắt. Không phù, huyết áp bình thường, không sốt. Soi nước tiểu: hồng cầu đồng dạng, hình đĩa lõm hai mặt. Protein niệu âm tính; không có trụ hồng cầu.\nNhận định nào phù hợp nhất với nguồn gốc đái máu?",
+   "options": [
+    "Đái máu cầu thận do bệnh thận IgA xuất hiện sau nhiễm khuẩn hô hấp",
+    "Đái máu cầu thận do viêm cầu thận tăng sinh màng, cần sinh thiết thận",
+    "Đái máu ngoài cầu thận do tổn thương đường tiết niệu, ví dụ sỏi hoặc viêm",
+    "Đái máu cầu thận do hội chứng Alport di truyền gây tổn thương màng đáy"
+   ],
+   "correct": 2,
+   "explanation": "Hồng cầu <b>đồng dạng</b>, <b>protein niệu âm</b>, <b>không trụ hồng cầu</b> gợi <b>đái máu ngoài cầu thận</b> do tổn thương đường tiết niệu, ví dụ sỏi hoặc viêm.",
+   "option_explanations": [
+    "Sai — bệnh thận IgA gây hồng cầu biến dạng và thường có protein niệu, không khớp với hồng cầu đồng dạng và protein âm tính.",
+    "Sai — viêm cầu thận tăng sinh màng gây hồng cầu biến dạng, có trụ và protein niệu, không khớp với ca này.",
+    "Đúng — hồng cầu đồng dạng, protein niệu âm và không trụ là đặc điểm đái máu ngoài cầu thận.",
+    "Sai — hội chứng Alport gây hồng cầu biến dạng và thường có giảm thính lực, không khớp với hồng cầu đồng dạng."
+   ]
+  },
+  {
+   "id": "PED47-A08",
+   "type": "vignette",
+   "topic": "Phân biệt cầu thận - ngoài cầu thận",
+   "subtopic": "Soi hình dạng hồng cầu và trụ hồng cầu",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-47 §5.1",
+   "text": "Bé gái 8 tuổi, nước tiểu đỏ nâu một tuần, không sốt, không đái buốt hay đái rắt, huyết áp 110/70 mmHg. Soi cặn đã xác nhận đái máu; que thử protein niệu 2+. Bác sĩ muốn phân biệt nhanh nguồn gốc cầu thận hay ngoài cầu thận ngay trên mẫu nước tiểu này.\nXét nghiệm nào hữu ích nhất?",
+   "options": [
+    "Nghiệm pháp 3 cốc để xác định vị trí chảy máu",
+    "Soi hình dạng hồng cầu và tìm trụ hồng cầu trong cặn lắng",
+    "Siêu âm hệ tiết niệu để tìm sỏi và nang thận",
+    "Định lượng ASLO và C3 huyết thanh để tìm nhiễm liên cầu"
+   ],
+   "correct": 1,
+   "explanation": "Soi <b>hình dạng hồng cầu niệu</b> (biến dạng so với đồng dạng) và tìm <b>trụ hồng cầu</b> (bằng chứng chắc chắn tổn thương cầu thận) là xét nghiệm trực tiếp trên nước tiểu để phân biệt nguồn gốc.",
+   "option_explanations": [
+    "Sai — chỉ cho biết vị trí máu chảy (đầu, giữa, cuối bãi), thường toàn bãi ở cả hai nguồn gốc; không phân biệt cầu thận với ngoài cầu thận.",
+    "Đúng — phân biệt hồng cầu biến dạng và đồng dạng, tìm trụ hồng cầu, ngay trên mẫu nước tiểu.",
+    "Sai — hình ảnh học tìm nguyên nhân ngoài cầu thận, không cho biết nguồn gốc đái máu.",
+    "Sai — là xét nghiệm máu tìm nguyên nhân sau khi đã xác định hội chứng viêm cầu thận, không phải trên mẫu nước tiểu."
+   ]
+  },
+  {
+   "id": "PED47-A09",
+   "type": "vignette",
+   "topic": "Phân biệt cầu thận - ngoài cầu thận",
+   "subtopic": "Đái máu vi thể, tiền sử gia đình",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-47 Bẫy 3; PEDYTB §5.4 (chỉ định 5)",
+   "text": "Bé trai 7 tuổi, phát hiện đái máu vi thể không triệu chứng khi khám sức khỏe, protein niệu âm tính, huyết áp và chức năng thận bình thường. Bố bé cũng có đái máu vi thể không triệu chứng, chức năng thận bình thường. Mẹ bé khỏe mạnh. Không ai trong gia đình bị điếc hay suy thận.\nChẩn đoán và hướng xử trí nào hợp lý nhất?",
+   "options": [
+    "Đái máu lành tính có tính chất gia đình (màng đáy mỏng), theo dõi định kỳ",
+    "Hội chứng Alport, cần sinh thiết thận ngay để xác định chẩn đoán",
+    "Bệnh thận IgA có tính chất gia đình, cần sinh thiết thận ngay lập tức",
+    "Viêm cầu thận cấp sau nhiễm liên cầu khuẩn, cần dùng corticoid liều cao"
+   ],
+   "correct": 0,
+   "explanation": "Đái máu vi thể không triệu chứng, protein niệu âm, chức năng thận bình thường, người thân có đái máu vi thể gợi <b>đái máu lành tính có tính chất gia đình (màng đáy mỏng)</b> cần <b>theo dõi định kỳ</b>.",
+   "option_explanations": [
+    "Đúng — đái máu vi thể gia đình với chức năng và protein niệu bình thường gợi đái máu lành tính có tính chất gia đình, theo dõi định kỳ.",
+    "Sai — hội chứng Alport cần tiền sử điếc hoặc suy thận, ca này không có các dấu hiệu đó và không chỉ định sinh thiết ngay.",
+    "Sai — bệnh thận IgA có protein niệu hoặc hồng cầu biến dạng rõ, ca này không đủ dấu hiệu để sinh thiết ngay.",
+    "Sai — viêm cầu thận cấp gây phù, tăng huyết áp và protein niệu, không khớp với ca không triệu chứng này."
+   ]
+  },
+  {
+   "id": "PED47-A10",
+   "type": "vignette",
+   "topic": "Phân biệt cầu thận - ngoài cầu thận",
+   "subtopic": "Đái máu toàn bãi, đau khớp, ban",
+   "bloom": "phân tích",
+   "difficulty": 2,
+   "source": "PEDYTB §4 (xuất huyết da, đau khớp, ban cánh bướm); PED-47 Phần II A, E",
+   "text": "Bé gái 9 tuổi, đái máu toàn bãi nâu đỏ 1 tuần. Bé có ban xuất huyết gồ ở hai cẳng chân và mông, đối xứng, không giảm tiểu cầu. Bé đau khớp gối, không biến dạng; đau bụng từng cơn. Soi nước tiểu hồng cầu biến dạng, protein niệu tăng nhẹ.\nBệnh nào là chẩn đoán đầu tiên cần nghĩ tới nhất?",
+   "options": [
+    "Hội chứng Alport có giảm thính lực di truyền theo gia đình",
+    "Viêm thận Lupus ban đỏ hệ thống có tổn thương đa cơ quan",
+    "Viêm bàng quang chảy máu do virus adenovirus gây đái máu",
+    "Viêm thận Schonlein-Henoch với ban xuất huyết gồ đối xứng"
+   ],
+   "correct": 3,
+   "explanation": "Ban xuất huyết gồ <b>hai cẳng chân và mông, đối xứng</b>, kèm đau khớp, đau bụng và hồng cầu biến dạng gợi <b>viêm thận Schonlein-Henoch</b>.",
+   "option_explanations": [
+    "Sai — hội chứng Alport cần tiền sử gia đình và giảm thính lực, không gây ban xuất huyết gồ.",
+    "Sai — lupus cần ANA và anti-dsDNA, ca này không có dấu hiệu đa cơ quan và ban cánh bướm.",
+    "Sai — viêm bàng quang do adenovirus không gây ban xuất huyết gồ và không có hồng cầu biến dạng.",
+    "Đúng — ban xuất huyết gồ đối xứng, đau khớp, đau bụng và đái máu cầu thận là đặc trưng của Schonlein-Henoch."
+   ]
+  },
+  {
+   "id": "PED47-A11",
+   "type": "vignette",
+   "topic": "Cận lâm sàng và hình ảnh",
+   "subtopic": "Chẩn đoán hình ảnh cho đái máu ngoài cầu thận",
+   "bloom": "áp dụng",
+   "difficulty": 1,
+   "source": "PED-47 Bước 5; PEDYTB §5.3",
+   "text": "Bé trai 10 tuổi, đái máu đại thể từng đợt, đau hông lưng trái âm ỉ sau khi chạy nhảy. Bé cao, gầy, ít mỡ bụng. Bé nam có giãn tĩnh mạch thừng tinh trái. Bác sĩ cần chọn phương tiện hình ảnh để tìm nguyên nhân ngoài cầu thận.\nPhương tiện hình ảnh nào cần chỉ định trong bước tìm nguyên nhân ngoài cầu thận này?",
+   "options": [
+    "Siêu âm Doppler mạch thận để tìm hội chứng Nutcracker",
+    "CT ổ bụng có tiêm thuốc cản quang để đánh giá toàn diện",
+    "MRI bụng có tiêm gadolinium để đánh giá chi tiết mạch máu",
+    "X-quang KUB không chuẩn bị để tìm sỏi cản quang trên phim"
+   ],
+   "correct": 0,
+   "explanation": "Barem Bước 5 liệt kê <b>siêu âm Doppler mạch thận (Nutcracker)</b> trong nhóm nguyên nhân ngoài cầu thận; ca có đau hông lưng và giãn tĩnh mạch thừng tinh gợi phương tiện này.",
+   "option_explanations": [
+    "Đúng — barem Bước 5 và mục 5.3 chỉ định siêu âm Doppler mạch thận để tìm Nutcracker trong đái máu ngoài cầu thận.",
+    "Sai — CT ổ bụng barem chỉ dùng khi nghi bất thường giải phẫu hoặc khối u, không phải lựa chọn đầu tiên ở ca này.",
+    "Sai — MRI mạch thận có trong barem nhưng không phải phương tiện đầu tiên được chỉ định ở ca này.",
+    "Sai — KUB chỉ tìm sỏi cản quang, không đánh giá được mạch máu thận như Nutcracker."
+   ]
+  },
+  {
+   "id": "PED47-A12",
+   "type": "vignette",
+   "topic": "Cận lâm sàng và hình ảnh",
+   "subtopic": "Tầm soát tăng canxi niệu (bước 5)",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-47 §6 bước 5",
+   "text": "Bé gái 6 tuổi, phát hiện đái máu vi thể khi khám sức khỏe. Soi nước tiểu: hồng cầu đồng dạng, không có trụ hồng cầu, protein niệu âm tính. Bé không sốt, không đái buốt hay đái rắt, không đau hông lưng, không bầm tím hay chảy máu bất thường. Mẹ bé có tiền sử sỏi thận tái phát. Siêu âm thận chưa thấy sỏi.\nXét nghiệm nào nên làm tiếp theo ở bước tìm nguyên nhân ngoài cầu thận?",
+   "options": [
+    "Xét nghiệm đông máu toàn bộ",
+    "Siêu âm Doppler mạch thận",
+    "Tỷ lệ canxi/creatinin niệu",
+    "Cấy nước tiểu tìm vi khuẩn và adenovirus"
+   ],
+   "correct": 2,
+   "explanation": "Đái máu ngoài cầu thận không triệu chứng, siêu âm chưa thấy sỏi, mẹ bị sỏi thận gợi <b>tăng canxi niệu</b>; ở bước 5 xét nghiệm tương ứng là tỷ lệ canxi/creatinin niệu.",
+   "option_explanations": [
+    "Sai — đúng cho trẻ bầm tím, chảy máu kéo dài; bé này không có xuất huyết.",
+    "Sai — đúng cho thiếu niên cao gầy đái máu sau gắng sức, đau hông lưng trái; bé này không có.",
+    "Đúng — gợi tăng canxi niệu do tiền sử gia đình sỏi thận và đái máu vi thể không triệu chứng.",
+    "Sai — đúng cho trẻ sốt, đái buốt, đái rắt; bé này không có triệu chứng tiết niệu."
+   ]
+  },
+  {
+   "id": "PED47-A13",
+   "type": "vignette",
+   "topic": "Cận lâm sàng và hình ảnh",
+   "subtopic": "Hội chứng Nutcracker, siêu âm Doppler",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-47 Phần II 2B; PEDYTB §5.3 & Bước 5",
+   "text": "Bé trai 13 tuổi, cao gầy, đái máu từng đợt sau khi chạy nhảy, đau tức âm ỉ hông lưng trái, có giãn tĩnh mạch thừng tinh trái. Siêu âm Doppler mạch thận: tĩnh mạch thận trái giãn ở đoạn trước chỗ hẹp. Protein niệu âm tính; chức năng thận bình thường.\nChẩn đoán phù hợp nhất theo barem là gì?",
+   "options": [
+    "Dị dạng động tĩnh mạch thận bẩm sinh gây chảy máu vi thể tái diễn",
+    "Bệnh màng đáy mỏng lành tính có tính chất gia đình, theo dõi định kỳ",
+    "Hội chứng Nutcracker, kẹp tĩnh mạch thận trái giữa động mạch chủ và động mạch mạc treo",
+    "Viêm cầu thận tăng sinh màng do C3 giảm kéo dài trên 3 tháng"
+   ],
+   "correct": 2,
+   "explanation": "Siêu âm Doppler mạch thận bất thường tại vị trí tĩnh mạch thận trái bị kẹp giữa động mạch chủ và động mạch mạc treo, kèm đau hông lưng và đái máu từng đợt, gợi <b>hội chứng Nutcracker</b> (barem Bước 5).",
+   "option_explanations": [
+    "Sai — dị dạng động tĩnh mạch thận không khớp với hình ảnh kẹp tĩnh mạch giữa động mạch chủ và động mạch mạc treo.",
+    "Sai — màng đáy mỏng không gây đau hông lưng và không có bất thường tĩnh mạch thận trên Doppler.",
+    "Đúng — barem Bước 5 liệt kê Nutcracker trong nguyên nhân ngoài cầu thận; ca này có siêu âm Doppler kẹp tĩnh mạch thận trái và giãn tĩnh mạch thừng tinh.",
+    "Sai — viêm cầu thận tăng sinh màng có protein niệu và C3 giảm kéo dài, ca này protein âm tính và chức năng thận bình thường."
+   ]
+  },
+  {
+   "id": "PED47-A14",
+   "type": "vignette",
+   "topic": "Cận lâm sàng và hình ảnh",
+   "subtopic": "Bổ thể C3 kéo dài trong viêm cầu thận sau nhiễm liên cầu",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-47 Phần II 1A; Bẫy 4; PEDYTB §5.2 & §5.4 (chỉ định 2)",
+   "text": "Bé trai 7 tuổi, phù mi mắt và nước tiểu nâu đỏ 3 tuần sau viêm họng, huyết áp 125/80 mmHg. Lúc nhập viện C3 giảm, ASLO và anti-DNase B tăng. Tái khám sau 4 tháng, bé khỏe, không phù, huyết áp bình thường; C3 vẫn còn thấp, protein niệu 0,7 g/1,73 m²/ngày.\nNhận định nào phù hợp nhất theo barem với C3 vẫn thấp sau 4 tháng này?",
+   "options": [
+    "Lupus ban đỏ hệ thống có C3 giảm, cần làm ANA và dùng corticoid liều cao",
+    "Viêm cầu thận sau liên cầu đã hết, không cần theo dõi C3 thêm nữa",
+    "Bổ thể C3 thấp kéo dài trên 3 tháng là chỉ định sinh thiết thận",
+    "Thiếu bổ thể di truyền bẩm sinh, không cần tìm thêm nguyên nhân nào khác"
+   ],
+   "correct": 2,
+   "explanation": "Barem chỉ định <b>sinh thiết thận</b> khi <b>bổ thể C3 thấp kéo dài trên 3 tháng</b> (chỉ định số 2); ca này C3 còn thấp sau 4 tháng nên có chỉ định sinh thiết.",
+   "option_explanations": [
+    "Sai — lupus cần ANA và anti-dsDNA, ca này không có dấu hiệu đa cơ quan nên chưa đủ để chẩn đoán lupus.",
+    "Sai — C3 vẫn còn thấp sau 4 tháng, không thể kết luận đã hết và bỏ theo dõi.",
+    "Đúng — barem chỉ định sinh thiết khi C3 thấp kéo dài trên 3 tháng; ca này C3 còn thấp sau 4 tháng.",
+    "Sai — thiếu bổ thể di truyền hiếm và không được kết luận khi chưa loại trừ nguyên nhân thứ phát như viêm cầu thận sau liên cầu."
+   ]
+  },
+  {
+   "id": "PED47-A15",
+   "type": "vignette",
+   "topic": "Cận lâm sàng và hình ảnh",
+   "subtopic": "Xét nghiệm nước tiểu và protein niệu",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-47 Phần I; PEDYTB §5.1",
+   "text": "Bé gái 9 tuổi, đái máu vi thể kèm protein niệu. Bác sĩ muốn đánh giá mức protein niệu để quyết định có cần sinh thiết hay không. Bé không có hội chứng thận hư, không phù nặng.\nXét nghiệm nào phù hợp nhất để định lượng protein niệu trong bối cảnh này?",
+   "options": [
+    "Điện di protein huyết thanh để xác định loại protein đang tăng cao",
+    "Que thử protein nhanh một lần tại phòng khám là đủ để quyết định",
+    "Albumin máu lúc đói để đánh giá tình trạng dinh dưỡng và protein",
+    "Protein niệu 24 giờ hoặc tỷ lệ protein/creatinin niệu ngẫu nhiên"
+   ],
+   "correct": 3,
+   "explanation": "Đánh giá protein niệu định lượng bằng <b>protein niệu 24 giờ</b> hoặc <b>chỉ số UPr/UCr</b> (barem). Mốc sinh thiết barem là protein niệu >1 g/1,73 m²/ngày.",
+   "option_explanations": [
+    "Sai — điện di protein huyết thanh không định lượng protein niệu theo mốc barem và không dùng để quyết định sinh thiết.",
+    "Sai — que thử chỉ bán định lượng và không đủ chính xác để quyết định sinh thiết theo mốc barem.",
+    "Sai — albumin máu phản ánh tình trạng dinh dưỡng, không định lượng được protein niệu trong bối cảnh này.",
+    "Đúng — protein niệu 24 giờ hoặc chỉ số UPr/UCr là xét nghiệm định lượng theo barem để so với mốc sinh thiết."
+   ]
+  },
+  {
+   "id": "PED47-A16",
+   "type": "vignette",
+   "topic": "Thuật toán và cờ đỏ",
+   "subtopic": "Thứ tự các bước thuật toán",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-47 §6 bước 1-2",
+   "text": "Bé trai 5 tuổi, mẹ lo vì nước tiểu màu hồng. Que thử nước tiểu dương tính. Soi cặn nước tiểu ly tâm thấy 12 hồng cầu/vi trường, xác nhận có hồng cầu trong nước tiểu. Chưa có thêm thông tin về bệnh sử và khám.\nTheo thuật toán 5 bước, việc cần làm tiếp theo là gì?",
+   "options": [
+    "Soi hình dạng hồng cầu niệu và định lượng tỷ lệ UPr/UCr",
+    "Tìm phù, tăng huyết áp, đái ít (hội chứng viêm cầu thận cấp)",
+    "Tìm hemoglobin niệu hoặc myoglobin niệu do tán huyết, tiêu cơ vân",
+    "Định lượng tỷ lệ canxi/creatinin niệu và cấy nước tiểu"
+   ],
+   "correct": 1,
+   "explanation": "Que thử dương tính và soi thấy hồng cầu là đã <b>xác định đái máu (bước 1)</b>. Bước 2 là tìm dấu hiệu viêm cầu thận cấp (phù, tăng huyết áp, đái ít); soi hình dạng hồng cầu và UPr/UCr thuộc bước 4, canxi/creatinin niệu thuộc bước 5, tìm hemoglobin niệu hoặc myoglobin niệu khi que thử dương tính nhưng soi âm tính.",
+   "option_explanations": [
+    "Sai — đây là bước 4, sau khi đã phân loại lâm sàng ở bước 2-3.",
+    "Đúng — bước 1 đã xong (que thử dương tính, soi thấy hồng cầu), sang bước 2.",
+    "Sai — đúng cho trẻ que thử dương tính nhưng soi không thấy hồng cầu; bé này soi có 12 hồng cầu/vi trường.",
+    "Sai — đây là bước 5, chỉ làm khi hồng cầu đồng dạng và protein niệu âm tính."
+   ]
+  },
+  {
+   "id": "PED47-A17",
+   "type": "vignette",
+   "topic": "Thuật toán và cờ đỏ",
+   "subtopic": "Phân nhánh cầu thận vs ngoài cầu thận theo hình thái hồng cầu",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-47 Bước 4; PEDYTB §6 bước 4",
+   "text": "Bé gái 10 tuổi, đái máu đại thể 2 ngày, không sốt, không đau, không phù, huyết áp bình thường. Soi nước tiểu: hồng cầu đồng dạng giữ hình đĩa lõm hai mặt, không có trụ hồng cầu. Protein/creatinin niệu 0,1 mg/mg.\nHướng phân nhánh tiếp theo phù hợp nhất ở bước 4 là gì?",
+   "options": [
+    "Nhánh ngoài cầu thận, không có dấu hiệu tổn thương màng đáy",
+    "Ngoài cầu thận nhưng cần làm C3 và ANA để loại trừ bệnh lupus ban đỏ",
+    "Nhánh cầu thận, cần sinh thiết thận ngay để xác định bệnh",
+    "Nhánh cầu thận, cần làm bổ thể C3 để tìm bệnh miễn dịch cầu thận"
+   ],
+   "correct": 0,
+   "explanation": "Hồng cầu <b>đồng dạng</b>, <b>không có trụ</b> và protein niệu âm đưa bệnh nhân vào <b>nhánh ngoài cầu thận</b> (barem Bước 4).",
+   "option_explanations": [
+    "Đúng — hình thái hồng cầu đồng dạng, không trụ và protein âm tính đưa về nhánh ngoài cầu thận theo barem Bước 4; không có dấu hiệu tổn thương màng đáy.",
+    "Sai — không có dấu hiệu lupus, nên không cần làm C3 và ANA trong nhánh ngoài cầu thận này.",
+    "Sai — hồng cầu đồng dạng, không trụ và protein âm không hướng tới nhánh cầu thận cần sinh thiết.",
+    "Sai — nhánh cầu thận không khớp với các đặc điểm hình thái hồng cầu và protein trong ca này."
+   ]
+  },
+  {
+   "id": "PED47-A18",
+   "type": "vignette",
+   "topic": "Thuật toán và cờ đỏ",
+   "subtopic": "Chỉ định sinh thiết thận theo barem",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-47 Phần III (7 chỉ định); PEDYTB §5.4",
+   "text": "Bé trai 12 tuổi, đái máu cầu thận (hồng cầu biến dạng, trụ hồng cầu +). Protein/creatinin niệu 0,3 mg/mg, protein niệu 24 giờ 0,6 g/1,73 m²/ngày. Mức lọc cầu thận ước tính 95 mL/phút/1,73 m². C3 bình thường. Không có tiền sử gia đình bệnh thận, không đái máu đại thể tái phát, không có Lupus hay Schonlein-Henoch. Gia đình muốn biết nguyên nhân dù protein niệu không cao.\nTheo barem, có chỉ định sinh thiết thận không?",
+   "options": [
+    "Có, vì gia đình muốn biết nguyên nhân và tiên lượng dù protein chưa cao",
+    "Không, vì protein niệu 24 giờ chưa vượt 1 g/1,73 m²/ngày theo barem",
+    "Không, vì mức lọc cầu thận bình thường đã loại trừ mọi chỉ định sinh thiết",
+    "Có, vì hồng cầu biến dạng và trụ hồng cầu đã đủ chỉ định sinh thiết"
+   ],
+   "correct": 0,
+   "explanation": "Barem có chỉ định sinh thiết khi <b>đái máu cầu thận mà gia đình thiết tha muốn biết nguyên nhân và tiên lượng</b> dù protein niệu không cao (chỉ định số 7).",
+   "option_explanations": [
+    "Đúng — barem chỉ định sinh thiết khi gia đình thiết tha muốn biết nguyên nhân và tiên lượng dù protein niệu không cao.",
+    "Sai — dù protein chưa vượt 1 g/1,73 m²/ngày, barem vẫn có chỉ định khác nên không thể loại trừ sinh thiết chỉ vì điều này.",
+    "Sai — mức lọc cầu thận bình thường không loại trừ chỉ định sinh thiết theo barem, đặc biệt khi có chỉ định khác.",
+    "Sai — hồng cầu biến dạng và trụ hồng cầu là dấu hiệu nghi ngờ, không tự nó đủ theo barem để sinh thiết."
+   ]
+  },
+  {
+   "id": "PED47-A19",
+   "type": "vignette",
+   "topic": "Thuật toán và cờ đỏ",
+   "subtopic": "Đái máu đại thể tái phát không rõ nguyên nhân",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-47 §5.4 chỉ định 6",
+   "text": "Bé trai 10 tuổi, 3 đợt đái máu đại thể toàn bãi trong 8 tháng, mỗi đợt 2–3 ngày rồi nước tiểu trong lại, không liên quan đợt nhiễm trùng. Giữa các đợt vẫn còn hồng cầu biến dạng, protein niệu âm tính. Huyết áp, creatinin, mức lọc cầu thận (105 mL/phút/1,73 m²), C3, ASLO đều bình thường; siêu âm thận bình thường, cấy nước tiểu âm tính. Gia đình không ai bị bệnh thận hay điếc.\nTheo barem, quyết định nào phù hợp nhất?",
+   "options": [
+    "Dùng kháng sinh dự phòng nhiễm khuẩn tiết niệu rồi xét nghiệm lại nước tiểu",
+    "Chờ mức lọc cầu thận giảm dưới 80 mL/phút/1,73 m² rồi mới sinh thiết",
+    "Theo dõi định kỳ vì protein niệu, creatinin và mức lọc cầu thận bình thường",
+    "Sinh thiết thận vì đái máu đại thể tái phát không rõ nguyên nhân"
+   ],
+   "correct": 3,
+   "explanation": "Barem có chỉ định riêng cho <b>đái máu đại thể tái phát mà không rõ nguyên nhân</b>; không cần protein niệu trên 1 g hay mức lọc giảm.",
+   "option_explanations": [
+    "Sai — cấy nước tiểu âm tính và hồng cầu biến dạng cho thấy nguồn gốc cầu thận, không phải nhiễm khuẩn.",
+    "Sai — mức lọc dưới 80 là chỉ định độc lập; không cần chờ khi đã có chỉ định khác.",
+    "Sai — protein niệu và mức lọc là chỉ định khác; đái máu đại thể tái phát không rõ nguyên nhân có chỉ định riêng.",
+    "Đúng — đái máu đại thể tái phát, đã loại trừ nhiễm trùng, sỏi, và không rõ nguyên nhân."
+   ]
+  },
+  {
+   "id": "PED47-A20",
+   "type": "vignette",
+   "topic": "Thuật toán và cờ đỏ",
+   "subtopic": "Phân độ phù ở bước 2",
+   "bloom": "áp dụng",
+   "difficulty": 1,
+   "source": "PED-47 §4 Phù",
+   "text": "Bé gái 9 tuổi, viêm cầu thận cấp, nước tiểu màu coca-cola, phù mặt và hai chân. Cân nặng trước bệnh 30 kg, hôm nay 34,5 kg. Huyết áp 140/90 mmHg.\nPhù ở mức độ nào theo cách phân độ của giáo trình?",
+   "options": [
+    "Phù nhẹ, cân nặng tăng dưới 10%",
+    "Phù vừa, cân nặng tăng từ 10 đến 20%",
+    "Phù nặng, cân nặng tăng trên 20%",
+    "Phù nặng vì có kèm tăng huyết áp"
+   ],
+   "correct": 1,
+   "explanation": "Giáo trình phân độ phù theo cân nặng: nhẹ < 10%, vừa 10–20%, nặng > 20%. Bé tăng 4,5/30 = <b>15%</b> nên là phù vừa; huyết áp không dùng để phân độ phù.",
+   "option_explanations": [
+    "Sai — mức tăng 15%, vượt ngưỡng 10%.",
+    "Đúng — tăng 15% cân nặng, nằm trong khoảng 10–20%.",
+    "Sai — chỉ đúng khi cân nặng tăng trên 20% (trên 36 kg ở bé này).",
+    "Sai — phân độ phù dựa vào tỷ lệ tăng cân nặng, không dựa vào huyết áp."
+   ]
+  },
+  {
+   "id": "PED47-B01",
+   "type": "vignette",
+   "topic": "Nguyên nhân cầu thận",
+   "subtopic": "Viêm thận lupus: xét nghiệm xác định",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-47 §4 Hồng ban, Đau khớp, Sốt",
+   "text": "Bé gái 13 tuổi, sốt kéo dài 2 tháng, gầy sút, kém ăn. Bé đau nhiều khớp nhỏ, đau chuyển từ khớp này sang khớp khác, không cứng khớp buổi sáng, khớp không sưng nóng đỏ. Có loét miệng và ban đỏ ở hai gò má, cánh mũi, nhạy cảm với ánh nắng. Nước tiểu nâu, hồng cầu biến dạng, có trụ hồng cầu, protein niệu 3+; C3 giảm.\nXét nghiệm nào nên chỉ định tiếp theo để tìm bệnh nền?",
+   "options": [
+    "Cấy nước tiểu giữa dòng để tìm nhiễm khuẩn tiết niệu",
+    "Định lượng IgA huyết thanh để tìm bệnh thận IgA",
+    "ANA và anti-dsDNA để tìm lupus ban đỏ hệ thống",
+    "ASLO và anti-DNase B để tìm nhiễm liên cầu gần đây"
+   ],
+   "correct": 2,
+   "explanation": "Sốt kéo dài kèm gầy sút, đau khớp di chuyển không sưng nóng đỏ, loét miệng họng, ban cánh bướm nhạy cảm ánh sáng là bộ ba của <b>lupus ban đỏ</b> theo giáo trình. Xét nghiệm đặc hiệu là <b>ANA và anti-dsDNA</b>. C3 giảm gặp ở cả viêm cầu thận sau nhiễm liên cầu lẫn lupus nên không giúp phân biệt.",
+   "option_explanations": [
+    "Sai — đúng cho trẻ sốt, đái buốt, đái rắt, hồng cầu đồng dạng, không trụ hồng cầu (nhiễm khuẩn tiết niệu); bé này có hồng cầu biến dạng, trụ hồng cầu, protein niệu 3+.",
+    "Sai — đúng cho trẻ đái máu đại thể tái phát đúng lúc nhiễm hô hấp trên, C3 bình thường (bệnh thận IgA); bé này sốt kéo dài, loét miệng, ban cánh bướm.",
+    "Đúng — biểu hiện đa cơ quan (da, khớp, miệng, sốt kéo dài) kèm tổn thương cầu thận gợi viêm thận lupus; ANA và anti-dsDNA là xét nghiệm kế tiếp.",
+    "Sai — đúng cho trẻ phù, tăng huyết áp, đái máu 1–3 tuần sau viêm họng (viêm cầu thận sau nhiễm liên cầu); bé này không có tiền sử viêm họng và có biểu hiện hệ thống."
+   ]
+  },
+  {
+   "id": "PED47-B02",
+   "type": "vignette",
+   "topic": "Nguyên nhân cầu thận",
+   "subtopic": "Bệnh thận IgA so với viêm cầu thận sau nhiễm liên cầu",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-47 §4 Sốt (đái máu đại thể tái phát với nhiễm hô hấp trên), §5.2",
+   "text": "Bé trai 9 tuổi, nước tiểu đỏ nâu xuất hiện ngay trong ngày bé sốt, ho, đau họng; đây là lần thứ ba trong năm, mỗi lần kéo dài 1–2 ngày rồi nước tiểu trong lại. Không phù, huyết áp 105/65 mmHg. Soi nước tiểu: hồng cầu biến dạng, protein niệu nhẹ. C3 bình thường, ASLO không tăng, IgA huyết thanh tăng. Nước tiểu và thính lực của bố mẹ, anh chị em đều bình thường.\nChẩn đoán nào phù hợp nhất?",
+   "options": [
+    "Viêm cầu thận tăng sinh màng có bổ thể giảm kéo dài",
+    "Bệnh thận IgA có đái máu đại thể tái phát khi nhiễm hô hấp",
+    "Viêm cầu thận cấp sau nhiễm liên cầu khuẩn nhóm A",
+    "Hội chứng Alport có đái máu đại thể tái phát khi nhiễm"
+   ],
+   "correct": 1,
+   "explanation": "Giáo trình nêu đái máu đại thể tái phát đi cùng nhiễm trùng hô hấp trên thường là <b>bệnh thận IgA</b>, bệnh màng đáy mỏng hoặc hội chứng Alport. Ở bé này IgA huyết thanh tăng, C3 bình thường, gia đình không có đái máu, điếc hay suy thận nên IgA phù hợp nhất.",
+   "option_explanations": [
+    "Sai — đúng cho trẻ có C3 thấp kéo dài; bé này C3 bình thường.",
+    "Đúng — đợt đái máu trùng với nhiễm hô hấp, C3 bình thường, IgA huyết thanh tăng, không có tiền sử gia đình.",
+    "Sai — đúng cho trẻ phù, tăng huyết áp, C3 giảm, đái máu xuất hiện sau viêm họng một khoảng thời gian; bé này đái máu cùng lúc nhiễm và C3 bình thường.",
+    "Sai — đúng cho trẻ có điếc tiếp nhận hoặc người thân suy thận sớm; bé này thính lực và nước tiểu người nhà đều bình thường."
+   ]
+  },
+  {
+   "id": "PED47-B03",
+   "type": "vignette",
+   "topic": "Nguyên nhân cầu thận",
+   "subtopic": "Hội chứng Alport so với bệnh màng đáy mỏng",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-47 §3, §5.4 (tiền sử gia đình)",
+   "text": "Bé trai 10 tuổi, đái máu vi thể từ nhỏ, nay protein niệu tăng dần. Bé nghe kém hai bên, chủ yếu âm cao. Cậu ruột và ông ngoại bên mẹ đều phải chạy thận nhân tạo khi chưa đến 40 tuổi. Huyết áp bình thường, C3 bình thường.\nChẩn đoán nào phù hợp nhất?",
+   "options": [
+    "Hội chứng Alport di truyền liên kết nhiễm sắc thể X",
+    "Bệnh thận IgA có tính chất gia đình ở bên ngoại",
+    "Đái máu lành tính có tính chất gia đình do màng đáy mỏng",
+    "Viêm thận lupus khởi phát sớm ở bé trai tuổi học đường"
+   ],
+   "correct": 0,
+   "explanation": "Đái máu vi thể từ nhỏ, protein niệu tăng dần, nghe kém tiếp nhận âm cao và nhiều nam giới trong dòng họ mẹ suy thận sớm là bức tranh của <b>hội chứng Alport</b>. Bệnh màng đáy mỏng cũng có tiền sử gia đình đái máu nhưng protein niệu âm tính, chức năng thận bình thường suốt đời.",
+   "option_explanations": [
+    "Đúng — suy thận sớm ở nam giới bên ngoại, điếc tiếp nhận và protein niệu tăng dần là bộ ba điển hình.",
+    "Sai — đúng cho trẻ đái máu đại thể ngay khi nhiễm hô hấp, IgA huyết thanh tăng; bé này không có đợt đái máu đại thể và có điếc.",
+    "Sai — đúng cho trẻ đái máu vi thể đơn độc, protein niệu âm, chức năng thận bình thường, bố hoặc mẹ cũng đái máu; bé này protein niệu tăng dần và có điếc.",
+    "Sai — đúng cho bé gái có sốt kéo dài, ban cánh bướm, đau khớp; bé này không có biểu hiện hệ thống."
+   ]
+  },
+  {
+   "id": "PED47-B04",
+   "type": "vignette",
+   "topic": "Nguyên nhân cầu thận",
+   "subtopic": "Hội chứng tan máu ure máu cao",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-47 §3 (HUS)",
+   "text": "Bé gái 3 tuổi, 5 ngày trước tiêu chảy phân có máu, nay da xanh xao, đái ít, nước tiểu đỏ sẫm. Huyết áp 130/85 mmHg. Hb 6,5 g/dL, tiểu cầu 40 G/L, ure và creatinin máu tăng.\nChẩn đoán nào phù hợp nhất?",
+   "options": [
+    "Hội chứng tan máu ure máu cao",
+    "Viêm cầu thận cấp sau nhiễm liên cầu",
+    "Xuất huyết giảm tiểu cầu miễn dịch",
+    "Viêm cầu thận tiến triển nhanh"
+   ],
+   "correct": 0,
+   "explanation": "Tiêu chảy ra máu rồi thiếu máu tan máu, giảm tiểu cầu và suy thận cấp là bộ ba của <b>hội chứng tan máu ure máu cao (HUS)</b>, một nguyên nhân đái máu tại cầu thận trong danh sách của giáo trình.",
+   "option_explanations": [
+    "Đúng — thiếu máu tan máu, giảm tiểu cầu và suy thận cấp sau tiêu chảy ra máu.",
+    "Sai — đúng cho trẻ phù, tăng huyết áp, C3 giảm sau viêm họng; bé này thiếu máu nặng, giảm tiểu cầu sau tiêu chảy.",
+    "Sai — đúng cho trẻ giảm tiểu cầu đơn độc, không thiếu máu tan máu, chức năng thận bình thường.",
+    "Sai — đúng cho trẻ đái ít, creatinin tăng nhanh trong vài tuần, có trụ hồng cầu, không thiếu máu tan máu, tiểu cầu bình thường."
+   ]
+  },
+  {
+   "id": "PED47-B05",
+   "type": "vignette",
+   "topic": "Nguyên nhân cầu thận",
+   "subtopic": "Viêm cầu thận tiến triển nhanh",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-47 §3, §6 (bước 2), lesson Báo động đỏ",
+   "text": "Bé trai 12 tuổi, 2 tuần nay đái ít (khoảng 300 mL/ngày), nước tiểu đỏ nâu, huyết áp 160/100 mmHg. Creatinin máu tăng từ 0,6 lên 2,3 mg/dL trong 10 ngày. Soi nước tiểu: nhiều hồng cầu biến dạng và trụ hồng cầu.\nChẩn đoán và hướng xử trí nào phù hợp nhất?",
+   "options": [
+    "Viêm cầu thận cấp sau nhiễm liên cầu, điều trị lợi tiểu hạ áp và theo dõi tại nhà",
+    "Viêm cầu thận tiến triển nhanh, nhập viện thận nhi và chuẩn bị sinh thiết thận khẩn",
+    "Bệnh thận IgA đợt cấp, nghỉ ngơi, uống nhiều nước và theo dõi nước tiểu",
+    "Hội chứng thận hư thể ít biến đổi, cho corticoid theo phác đồ chuẩn"
+   ],
+   "correct": 1,
+   "explanation": "Thiểu niệu, tăng huyết áp nặng và creatinin tăng gần gấp bốn lần trong 10 ngày kèm hồng cầu biến dạng, trụ hồng cầu là <b>viêm cầu thận tiến triển nhanh</b>, cần xử trí khẩn tại đơn vị thận nhi và sinh thiết để phân loại.",
+   "option_explanations": [
+    "Sai — đúng cho trẻ phù, huyết áp tăng vừa, creatinin bình thường hoặc tăng nhẹ sau viêm họng; bé này suy thận tiến triển nhanh.",
+    "Đúng — suy thận tiến triển nhanh kèm hội chứng viêm cầu thận là cấp cứu thận học cần sinh thiết khẩn.",
+    "Sai — đúng cho trẻ đái máu đại thể khi nhiễm hô hấp, creatinin bình thường; bé này creatinin tăng nhanh và thiểu niệu.",
+    "Sai — đúng cho trẻ phù, protein niệu rất nặng, không đái máu; bé này đái máu, có trụ hồng cầu và tăng huyết áp."
+   ]
+  },
+  {
+   "id": "PED47-B06",
+   "type": "vignette",
+   "topic": "Nguyên nhân cầu thận",
+   "subtopic": "Xét nghiệm khi có hội chứng viêm cầu thận cấp (bước 2)",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-47 §6 bước 2",
+   "text": "Bé trai 8 tuổi, 5 ngày nay phù mi mắt buổi sáng, đái ít, nước tiểu màu coca-cola. Huyết áp 140/90 mmHg. Soi nước tiểu đã xác nhận nhiều hồng cầu.\nNhóm xét nghiệm nào cần làm ngay theo thuật toán tiếp cận đái máu?",
+   "options": [
+    "Tỷ lệ canxi/creatinin niệu, cấy nước tiểu, cấy adenovirus, siêu âm Doppler mạch thận",
+    "X-quang bụng KUB, acid uric, oxalat, cystine niệu 24 giờ để tìm sỏi chuyển hóa",
+    "Công thức máu, PT, aPTT, fibrinogen, tủy đồ để tìm bệnh về máu gây xuất huyết",
+    "UPr/UCr, ure, creatinin, điện giải, albumin, C3, C4, ASLO, anti-DNase B, ANA, ANCA"
+   ],
+   "correct": 3,
+   "explanation": "Khi có phù, tăng huyết áp, đái ít (hội chứng viêm cầu thận cấp), bước 2 của giáo trình yêu cầu làm <b>UPr/UCr, ure, creatinin, điện giải, albumin, C3, C4, ASLO, anti-DNase B, ANA, ANCA</b>. Các nhóm còn lại là xét nghiệm ở nhánh ngoài cầu thận hoặc bệnh máu.",
+   "option_explanations": [
+    "Sai — đây là xét nghiệm ở bước 5 cho trẻ đái máu ngoài cầu thận (hồng cầu đồng dạng, protein niệu âm).",
+    "Sai — đúng cho trẻ đau quặn thận nghi sỏi; bé này không đau và có phù, tăng huyết áp.",
+    "Sai — đúng cho trẻ đái máu kèm xuất huyết da niêm mạc, nghi bệnh về máu; bé này không xuất huyết.",
+    "Đúng — đây là nhóm xét nghiệm của nhánh có hội chứng viêm cầu thận cấp."
+   ]
+  },
+  {
+   "id": "PED47-B07",
+   "type": "vignette",
+   "topic": "Nguyên nhân ngoài cầu thận",
+   "subtopic": "Nhiễm khuẩn tiết niệu",
+   "bloom": "áp dụng",
+   "difficulty": 1,
+   "source": "PED-47 §4 Đau bụng, Sốt, §6 bước 5",
+   "text": "Bé gái 6 tuổi, sốt 39 độ, đái buốt, đái rắt 2 ngày, nước tiểu đục và hồng nhạt. Không phù, huyết áp bình thường. Soi nước tiểu: hồng cầu đồng dạng, nhiều bạch cầu, không có trụ hồng cầu, protein niệu âm tính.\nXét nghiệm nào giúp tìm nguyên nhân trực tiếp nhất?",
+   "options": [
+    "Định lượng C3, C4 và ASLO để tìm bệnh cầu thận miễn dịch",
+    "Cấy mẫu giữa dòng để tìm vi khuẩn gây nhiễm khuẩn tiết niệu",
+    "Siêu âm Doppler mạch thận để tìm hội chứng Nutcracker",
+    "Tỷ lệ canxi/creatinin niệu để tìm tăng canxi niệu vô căn"
+   ],
+   "correct": 1,
+   "explanation": "Đái máu kèm sốt, đái buốt, đái rắt, hồng cầu đồng dạng và protein niệu âm gợi <b>nhiễm khuẩn tiết niệu</b>; xét nghiệm tìm nguyên nhân là cấy nước tiểu.",
+   "option_explanations": [
+    "Sai — đúng cho trẻ phù, tăng huyết áp, hồng cầu biến dạng, trụ hồng cầu; bé này không có.",
+    "Đúng — triệu chứng tiết niệu và sốt gợi nhiễm khuẩn đường tiểu.",
+    "Sai — đúng cho thiếu niên cao gầy đái máu sau gắng sức; bé này sốt và có bạch cầu niệu.",
+    "Sai — đúng cho trẻ đái máu vi thể tái phát không triệu chứng, không sốt; bé này sốt và đái buốt."
+   ]
+  },
+  {
+   "id": "PED47-B08",
+   "type": "vignette",
+   "topic": "Nguyên nhân ngoài cầu thận",
+   "subtopic": "Hình ảnh học tìm sỏi cản quang",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-47 §5.3, §6 bước 5",
+   "text": "Bé trai 11 tuổi, cơn đau quặn hông lưng phải lan xuống bẹn, nước tiểu đỏ tươi. Không sốt, không phù, huyết áp bình thường. Soi nước tiểu: hồng cầu đồng dạng, protein niệu âm tính. Siêu âm thận chưa thấy sỏi rõ.\nTheo giáo trình, phương tiện hình ảnh nào dùng để tìm sỏi cản quang?",
+   "options": [
+    "X-quang bụng không chuẩn bị (KUB)",
+    "Siêu âm Doppler mạch thận",
+    "Chụp cộng hưởng từ mạch thận",
+    "Chụp cắt lớp vi tính ổ bụng"
+   ],
+   "correct": 0,
+   "explanation": "Đau quặn thận, đái máu đỏ tươi, hồng cầu đồng dạng gợi sỏi tiết niệu. Theo bước 5 của giáo trình, <b>X-quang bụng KUB</b> dùng để tìm sỏi cản quang; CT dành cho chấn thương hoặc nghi u, MRI và Doppler dành cho bệnh lý mạch máu.",
+   "option_explanations": [
+    "Đúng — KUB tìm sỏi cản quang, chỉ định trong bước tìm nguyên nhân ngoài cầu thận.",
+    "Sai — đúng cho thiếu niên gầy đái máu sau gắng sức nghi Nutcracker; bé này đau quặn lan xuống bẹn.",
+    "Sai — đúng cho trẻ nghi bất thường mạch thận khi siêu âm Doppler chưa kết luận; bé này đau quặn điển hình của sỏi.",
+    "Sai — đúng cho trẻ chấn thương bụng kín hoặc nghi khối u (u Wilms); bé này không có."
+   ]
+  },
+  {
+   "id": "PED47-B09",
+   "type": "vignette",
+   "topic": "Nguyên nhân ngoài cầu thận",
+   "subtopic": "U nguyên bào thận (Wilms)",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-47 §3 (khối u ác tính)",
+   "text": "Bé trai 3 tuổi, mẹ tình cờ sờ thấy khối vùng hông trái khi tắm cho bé. Bé đái máu đại thể không đau, không sốt, đái không buốt. Huyết áp 125/80 mmHg. Soi nước tiểu: hồng cầu đồng dạng, protein niệu âm tính. Siêu âm: khối đặc ở thận trái, thận phải bình thường.\nNguyên nhân nào phù hợp nhất?",
+   "options": [
+    "Hội chứng Nutcracker",
+    "Viêm cầu thận cấp sau nhiễm trùng",
+    "U nguyên bào thận (Wilms)",
+    "Bệnh thận đa nang di truyền"
+   ],
+   "correct": 2,
+   "explanation": "Khối đặc một bên thận ở trẻ nhỏ, đái máu đại thể không đau và hồng cầu đồng dạng gợi <b>u nguyên bào thận (Wilms)</b>, nằm trong nhóm khối u ác tính gây đái máu ngoài cầu thận.",
+   "option_explanations": [
+    "Sai — đúng cho thiếu niên cao gầy đái máu sau gắng sức, giãn tĩnh mạch thừng tinh trái; bé này 3 tuổi và có khối sờ thấy.",
+    "Sai — đúng cho trẻ phù, hồng cầu biến dạng, protein niệu dương tính, C3 giảm; bé này không có.",
+    "Đúng — khối đặc một bên ở trẻ nhỏ kèm đái máu ngoài cầu thận.",
+    "Sai — đúng cho trẻ có nhiều nang ở cả hai thận, tiền sử gia đình thận đa nang; bé này chỉ có một khối đặc ở thận trái."
+   ]
+  },
+  {
+   "id": "PED47-B10",
+   "type": "vignette",
+   "topic": "Nguyên nhân ngoài cầu thận",
+   "subtopic": "Chấn thương thận và hình ảnh",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-47 §3 (chấn thương), §6 bước 5 (CT ổ bụng)",
+   "text": "Bé trai 10 tuổi, ngã xe đạp, bị đập vùng hông phải vào ghi đông, 2 giờ sau đau hông phải và đái máu đỏ tươi. Huyết áp 100/60 mmHg, mạch 110 lần/phút, vùng hông phải đau khi sờ. Soi nước tiểu: hồng cầu đồng dạng.\nTheo giáo trình, phương tiện hình ảnh nào được chỉ định cho chấn thương bụng kín?",
+   "options": [
+    "Siêu âm Doppler mạch thận",
+    "Chụp cộng hưởng từ mạch thận",
+    "X-quang bụng không chuẩn bị (KUB)",
+    "Chụp cắt lớp vi tính ổ bụng"
+   ],
+   "correct": 3,
+   "explanation": "Chấn thương bụng kín kèm đái máu đỏ tươi là nguyên nhân ngoài cầu thận; theo giáo trình, <b>CT ổ bụng</b> được chỉ định cho chấn thương hoặc nghi u (u Wilms). KUB chỉ để tìm sỏi cản quang.",
+   "option_explanations": [
+    "Sai — đúng cho thiếu niên nghi Nutcracker; bé này đái máu ngay sau chấn thương.",
+    "Sai — đúng cho trẻ nghi bất thường mạch thận; bé này có chấn thương trực tiếp.",
+    "Sai — đúng cho trẻ đau quặn thận nghi sỏi cản quang; bé này có tiền sử chấn thương rõ.",
+    "Đúng — CT ổ bụng dùng để đánh giá chấn thương thận."
+   ]
+  },
+  {
+   "id": "PED47-B11",
+   "type": "vignette",
+   "topic": "Nguyên nhân ngoài cầu thận",
+   "subtopic": "Rối loạn đông máu",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-47 §3, §4 Xuất huyết da niêm, §6 bước 5",
+   "text": "Bé trai 4 tuổi, hay bầm tím sau va chạm nhẹ, chảy máu chân răng kéo dài, sưng đau khớp gối tái phát. Nay đái máu, hồng cầu đồng dạng, protein niệu âm tính, không phù, huyết áp bình thường.\nXét nghiệm nào giúp tìm nguyên nhân tốt nhất?",
+   "options": [
+    "Cấy nước tiểu tìm vi khuẩn và adenovirus",
+    "Định lượng C3, C4 và IgA huyết thanh tìm bệnh cầu thận",
+    "Xét nghiệm đông máu và công thức máu tìm bệnh về máu",
+    "Soi hình dạng hồng cầu niệu và tìm trụ hồng cầu"
+   ],
+   "correct": 2,
+   "explanation": "Xuất huyết da, niêm mạc, chảy máu kéo dài kèm sưng khớp ở bé trai gợi bệnh về máu như <b>hemophilia</b>. Đái máu ở đây là ngoài cầu thận (hồng cầu đồng dạng, protein niệu âm), nên cần xét nghiệm đông máu và công thức máu.",
+   "option_explanations": [
+    "Sai — đúng cho trẻ đái buốt, đái rắt, sốt; bé này không có triệu chứng tiết niệu.",
+    "Sai — đúng cho trẻ phù, tăng huyết áp, hồng cầu biến dạng; bé này không có hội chứng viêm cầu thận.",
+    "Đúng — xuất huyết đa vị trí gợi rối loạn đông máu gây đái máu ngoài cầu thận.",
+    "Sai — đã đủ để xác định đái máu ngoài cầu thận (hồng cầu đồng dạng); điều cần tìm là nguyên nhân gây xuất huyết."
+   ]
+  },
+  {
+   "id": "PED47-B12",
+   "type": "vignette",
+   "topic": "Nguyên nhân ngoài cầu thận",
+   "subtopic": "Viêm bàng quang chảy máu do adenovirus",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-47 §6 bước 5 (cấy adenovirus)",
+   "text": "Bé trai 6 tuổi, 4 ngày trước chảy mũi, viêm kết mạc, hôm nay đái máu đại thể đột ngột có cục máu đông, đái buốt và đái rắt dữ dội. Không phù, huyết áp bình thường, không sốt cao. Cấy nước tiểu vi khuẩn âm tính. Hồng cầu đồng dạng, protein niệu âm tính.\nNguyên nhân nào phù hợp nhất?",
+   "options": [
+    "Bệnh thận IgA khởi phát sau nhiễm trùng",
+    "Sỏi niệu quản gây tổn thương niêm mạc",
+    "Viêm cầu thận cấp sau nhiễm trùng",
+    "Viêm bàng quang chảy máu do adenovirus"
+   ],
+   "correct": 3,
+   "explanation": "Đái máu đại thể có cục máu đông, đái buốt, đái rắt sau nhiễm virus hô hấp và kết mạc, cấy vi khuẩn âm tính, hồng cầu đồng dạng gợi <b>viêm bàng quang chảy máu do adenovirus</b>; giáo trình có chỉ định cấy adenovirus ở bước 5.",
+   "option_explanations": [
+    "Sai — đúng cho trẻ đái máu đại thể tái phát không đau, hồng cầu biến dạng; bé này đái buốt dữ dội, hồng cầu đồng dạng.",
+    "Sai — đúng cho trẻ đau quặn hông lưng lan xuống bẹn; bé này đau ở bàng quang khi đi tiểu.",
+    "Sai — đúng cho trẻ phù, tăng huyết áp, hồng cầu biến dạng; bé này không có.",
+    "Đúng — triệu chứng bàng quang và cấy vi khuẩn âm tính sau nhiễm virus."
+   ]
+  },
+  {
+   "id": "PED47-B13",
+   "type": "vignette",
+   "topic": "Nguyên nhân ngoài cầu thận",
+   "subtopic": "Hội chứng Nutcracker: giải phẫu",
+   "bloom": "hiểu",
+   "difficulty": 2,
+   "source": "PED-47 §3 (Nutcracker), §6 bước 5",
+   "text": "Thiếu niên nam 14 tuổi cao gầy, đái máu vi thể từng đợt tăng sau chạy nhảy, đau tức âm ỉ hông lưng trái, khám có giãn tĩnh mạch thừng tinh bên trái. Hồng cầu đồng dạng, protein niệu âm tính, chức năng thận bình thường.\nTổn thương giải phẫu nào giải thích tốt nhất bệnh cảnh này?",
+   "options": [
+    "Tĩnh mạch thận trái bị kẹp giữa động mạch mạc treo tràng trên và động mạch chủ bụng",
+    "Tĩnh mạch thận phải bị chèn ép giữa gan và động mạch thận phải",
+    "Động mạch thận trái hẹp tại gốc xuất phát từ động mạch chủ bụng",
+    "Niệu quản trái bị chèn ép bởi động mạch chậu chung ở bờ chậu"
+   ],
+   "correct": 0,
+   "explanation": "Hội chứng <b>Nutcracker</b> là tĩnh mạch thận trái bị kẹp giữa động mạch mạc treo tràng trên (phía trước) và động mạch chủ bụng (phía sau). Tĩnh mạch tinh trái đổ vào tĩnh mạch thận trái nên bé trai có thể giãn tĩnh mạch thừng tinh trái.",
+   "option_explanations": [
+    "Đúng — giải thích đái máu ngoài cầu thận, đau hông trái và giãn tĩnh mạch thừng tinh trái.",
+    "Sai — không có cơ chế kẹp tĩnh mạch thận phải như vậy; bên trái mới có bệnh cảnh này.",
+    "Sai — hẹp động mạch thận gây tăng huyết áp; bé này huyết áp bình thường và có giãn tĩnh mạch thừng tinh.",
+    "Sai — chèn ép niệu quản gây đau quặn và ứ nước, đúng cho sỏi hoặc tắc nghẽn; bé này không đau quặn."
+   ]
+  },
+  {
+   "id": "PED47-B14",
+   "type": "vignette",
+   "topic": "Sinh thiết thận",
+   "subtopic": "Chỉ định: protein niệu",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-47 §5.4 chỉ định 1",
+   "text": "Bé trai 11 tuổi, đái máu cầu thận có hồng cầu biến dạng 90% và trụ hồng cầu. Protein niệu 24 giờ 1,5 g/1,73 m²/ngày, creatinin máu bình thường, mức lọc cầu thận 95 mL/phút/1,73 m², C3 bình thường. Không có tiền sử gia đình bệnh thận, chưa từng đái máu đại thể tái phát.\nTheo barem, yếu tố nào của bé này đủ làm chỉ định sinh thiết thận?",
+   "options": [
+    "Bổ thể C3 bình thường kéo dài nhiều tháng",
+    "Mức lọc cầu thận 95 mL/phút/1,73 m²",
+    "Protein niệu 24 giờ trên 1 g/1,73 m²/ngày",
+    "Hồng cầu biến dạng 90% kèm trụ hồng cầu"
+   ],
+   "correct": 2,
+   "explanation": "Barem có 7 chỉ định sinh thiết thận; một trong số đó là <b>protein niệu > 1 g/1,73 m²/ngày</b>. Hồng cầu biến dạng và trụ hồng cầu chỉ xác định nguồn gốc cầu thận, không phải chỉ định; mức lọc cầu thận chỉ là chỉ định khi < 80 mL/phút/1,73 m²; C3 phải thấp kéo dài trên 3 tháng.",
+   "option_explanations": [
+    "Sai — C3 bình thường không phải chỉ định; chỉ định là C3 thấp kéo dài trên 3 tháng.",
+    "Sai — mức lọc cầu thận chỉ là chỉ định khi giảm dưới 80 mL/phút/1,73 m²; bé này 95.",
+    "Đúng — protein niệu 1,5 g/1,73 m²/ngày vượt ngưỡng 1 g của barem.",
+    "Sai — chỉ xác định nguồn gốc cầu thận (chỉ định phân loại), bản thân không đủ để sinh thiết."
+   ]
+  },
+  {
+   "id": "PED47-B15",
+   "type": "vignette",
+   "topic": "Sinh thiết thận",
+   "subtopic": "Chỉ định: C3 thấp kéo dài",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-47 §5.4 chỉ định 2",
+   "text": "Bé gái 8 tuổi, viêm cầu thận cấp sau nhiễm liên cầu, lúc nhập viện C3 giảm. Sáu tuần sau, bé hết phù, huyết áp bình thường, protein niệu âm tính, creatinin bình thường, nhưng C3 vẫn còn thấp nhẹ.\nTheo barem, quyết định nào phù hợp nhất?",
+   "options": [
+    "Sinh thiết thận ngay vì C3 vẫn thấp sau 6 tuần",
+    "Sinh thiết thận ngay vì protein niệu vượt 1 g/1,73 m²/ngày",
+    "Chưa sinh thiết vì C3 thấp sau nhiễm liên cầu không được tính là chỉ định",
+    "Chưa sinh thiết vì C3 thấp chưa quá 3 tháng, tiếp tục theo dõi"
+   ],
+   "correct": 3,
+   "explanation": "Barem lấy mốc <b>C3 thấp kéo dài trên 3 tháng</b> để chỉ định sinh thiết. Ở tuần thứ 6 chưa đạt mốc nên tiếp tục theo dõi; bé cũng không có protein niệu, nên chưa có chỉ định khác.",
+   "option_explanations": [
+    "Sai — mốc barem là trên 3 tháng, không phải 6 tuần.",
+    "Sai — bé này protein niệu âm tính, không thỏa chỉ định protein niệu.",
+    "Sai — C3 thấp kéo dài trên 3 tháng vẫn là chỉ định; chỉ cần chờ đủ mốc.",
+    "Đúng — mới 6 tuần, chưa đạt mốc trên 3 tháng của barem, bé cũng không có chỉ định khác."
+   ]
+  },
+  {
+   "id": "PED47-B16",
+   "type": "vignette",
+   "topic": "Sinh thiết thận",
+   "subtopic": "Chỉ định: mức lọc cầu thận giảm",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-47 §5.4 chỉ định 3",
+   "text": "Bé trai 13 tuổi, đái máu vi thể kéo dài, protein niệu 24 giờ 0,5 g/1,73 m²/ngày, C3 bình thường, không tiền sử gia đình. Mức lọc cầu thận ước tính 74 mL/phút/1,73 m², đo lại sau 1 tháng vẫn 72. Gia đình không đặt yêu cầu gì về chẩn đoán.\nChỉ định sinh thiết thận ở bé này dựa trên yếu tố nào?",
+   "options": [
+    "Tăng huyết áp kéo dài kèm đái máu vi thể dai dẳng",
+    "Đái máu vi thể kéo dài trên 1 tháng không rõ nguyên nhân",
+    "Bổ thể C3 giảm kéo dài trên 3 tháng",
+    "Mức lọc cầu thận giảm dưới 80 mL/phút/1,73 m² không hồi phục"
+   ],
+   "correct": 3,
+   "explanation": "Barem có chỉ định <b>mức lọc cầu thận giảm < 80 mL/phút/1,73 m²</b>. Ở đây mức lọc 74, rồi 72 sau 1 tháng nên không hồi phục. Protein niệu chỉ là chỉ định khi trên 1 g/1,73 m²/ngày; đái máu vi thể đơn độc không có mốc sinh thiết trong barem; C3 của bé bình thường.",
+   "option_explanations": [
+    "Sai — bé này huyết áp bình thường; tăng huyết áp không phải chỉ định sinh thiết trong barem.",
+    "Sai — barem không có mốc này; đái máu vi thể đơn độc làm lại xét nghiệm nước tiểu hằng tuần.",
+    "Sai — C3 của bé bình thường nên không thỏa chỉ định.",
+    "Đúng — mức lọc cầu thận dưới 80 và không hồi phục sau 1 tháng."
+   ]
+  },
+  {
+   "id": "PED47-B17",
+   "type": "vignette",
+   "topic": "Sinh thiết thận",
+   "subtopic": "Chỉ định: viêm thận lupus",
+   "bloom": "phân tích",
+   "difficulty": 3,
+   "source": "PED-47 §5.4 chỉ định 4",
+   "text": "Bé gái 13 tuổi, sốt kéo dài, ban cánh bướm, đau khớp, ANA và anti-dsDNA dương tính, C3 giảm từ 3 tuần nay. Nước tiểu có hồng cầu biến dạng, protein niệu 24 giờ 0,6 g/1,73 m²/ngày, creatinin máu và mức lọc cầu thận (110 mL/phút/1,73 m²) bình thường.\nTheo barem, có chỉ định sinh thiết thận không?",
+   "options": [
+    "Có, vì nghi viêm thận lupus",
+    "Không, vì mức lọc cầu thận trên 80 mL/phút/1,73 m²",
+    "Có, vì C3 giảm kéo dài trên 3 tháng",
+    "Không, vì protein niệu dưới 1 g/1,73 m²/ngày"
+   ],
+   "correct": 0,
+   "explanation": "Barem ghi <b>viêm thận lupus</b> là một chỉ định riêng, không cần protein niệu trên 1 g hay mức lọc giảm. C3 mới giảm 3 tuần, chưa quá 3 tháng.",
+   "option_explanations": [
+    "Đúng — viêm thận lupus là chỉ định độc lập trong barem.",
+    "Sai — mức lọc chỉ là chỉ định khi dưới 80; lupus vẫn có chỉ định riêng khi mức lọc bình thường.",
+    "Sai — C3 mới giảm 3 tuần, chưa thỏa mốc trên 3 tháng.",
+    "Sai — ngưỡng protein niệu chỉ áp dụng cho chỉ định protein niệu; lupus có chỉ định riêng."
+   ]
+  },
+  {
+   "id": "PED47-B18",
+   "type": "vignette",
+   "topic": "Sinh thiết thận",
+   "subtopic": "Chỉ định: tiền sử gia đình nghi Alport",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-47 §5.4 chỉ định 5",
+   "text": "Bé trai 9 tuổi, đái máu vi thể liên tục, protein niệu 0,3 g/1,73 m²/ngày, mức lọc cầu thận 110 mL/phút/1,73 m², C3 bình thường. Chú ruột phải lọc máu từ năm 30 tuổi, ông ngoại bị điếc và suy thận.\nTheo barem, quyết định nào phù hợp nhất?",
+   "options": [
+    "Không sinh thiết vì protein niệu dưới 1 g/1,73 m²/ngày và mức lọc cầu thận bình thường",
+    "Có chỉ định sinh thiết vì tiền sử gia đình có bệnh thận nghi Alport",
+    "Chưa sinh thiết, chờ đến khi xuất hiện đái máu đại thể tái phát",
+    "Không sinh thiết, chỉ xét nghiệm nước tiểu của bố mẹ rồi theo dõi định kỳ"
+   ],
+   "correct": 1,
+   "explanation": "Barem có chỉ định riêng cho <b>tiền sử gia đình có bệnh thận nghi hội chứng Alport</b>, kể cả khi protein niệu thấp và mức lọc bình thường.",
+   "option_explanations": [
+    "Sai — các ngưỡng này áp dụng cho chỉ định khác; tiền sử gia đình có chỉ định riêng.",
+    "Đúng — tiền sử gia đình nghi Alport là chỉ định riêng, không phụ thuộc protein niệu hay mức lọc.",
+    "Sai — đái máu đại thể tái phát là một chỉ định khác, không phải điều kiện bắt buộc.",
+    "Sai — đúng cho trẻ có bố hoặc mẹ đái máu vi thể lành tính và không ai suy thận; ở đây người thân suy thận và điếc."
+   ]
+  },
+  {
+   "id": "PED47-B19",
+   "type": "vignette",
+   "topic": "Nguyên nhân ngoài cầu thận",
+   "subtopic": "Thận đa nang",
+   "bloom": "áp dụng",
+   "difficulty": 2,
+   "source": "PED-47 §3, §4 Cao huyết áp",
+   "text": "Bé trai 5 tuổi, đái máu đại thể không đau, huyết áp 130/85 mmHg. Cha mắc một bệnh di truyền của thận. Siêu âm: hai thận to, nhiều nang ở cả hai bên. Soi nước tiểu: hồng cầu đồng dạng, protein niệu âm tính.\nNguyên nhân nào phù hợp nhất?",
+   "options": [
+    "Viêm cầu thận cấp sau nhiễm trùng",
+    "U nguyên bào thận (Wilms)",
+    "Thận ứ nước do tắc nghẽn đường tiểu",
+    "Thận đa nang bẩm sinh"
+   ],
+   "correct": 3,
+   "explanation": "Nhiều nang ở cả hai thận, tiền sử gia đình và tăng huyết áp gợi <b>thận đa nang</b>, gây đái máu ngoài cầu thận và huyết áp cao.",
+   "option_explanations": [
+    "Sai — đúng cho trẻ phù, hồng cầu biến dạng, C3 giảm; bé này hồng cầu đồng dạng, không phù.",
+    "Sai — đúng cho trẻ có khối đặc một bên thận; bé này nhiều nang hai bên.",
+    "Sai — đúng cho trẻ có giãn đài bể thận trên siêu âm, đau hông lưng; bé này có nhiều nang.",
+    "Đúng — hai thận to nhiều nang kèm tiền sử cha."
+   ]
+  },
+  {
+   "id": "PED47-B20",
+   "type": "vignette",
+   "topic": "Phân biệt cầu thận - ngoài cầu thận",
+   "subtopic": "Cơ chế hồng cầu đồng dạng",
+   "bloom": "hiểu",
+   "difficulty": 2,
+   "source": "PED-47 §2",
+   "text": "Bé trai 9 tuổi, đái máu đỏ tươi do sỏi niệu quản. Soi nước tiểu thấy hồng cầu giữ nguyên hình dạng và kích thước như hồng cầu máu ngoại vi, không có trụ hồng cầu.\nCơ chế nào giải thích tốt nhất hồng cầu không bị biến dạng?",
+   "options": [
+    "Hồng cầu bị biến dạng ở cầu thận nhưng phục hồi hình dạng trong bàng quang",
+    "Hồng cầu vào nước tiểu trực tiếp từ mạch máu vỡ ở đường tiết niệu, không qua lỗ màng đáy",
+    "Màng đáy cầu thận tổn thương làm lỗ lọc rộng hơn để hồng cầu đi qua",
+    "Tính thấm thành mạch cầu thận tăng nên hồng cầu thoát ra ngoài dễ dàng"
+   ],
+   "correct": 1,
+   "explanation": "Theo giáo trình, khi mạch máu ở niệu quản, bàng quang, đài bể thận hay lỗ tiểu vỡ thì hồng cầu vào nước tiểu <b>trực tiếp, không phải qua lỗ màng đáy</b> nên giữ nguyên hình dạng và kích thước như hồng cầu máu ngoại vi.",
+   "option_explanations": [
+    "Sai — không có cơ chế phục hồi hình dạng như vậy.",
+    "Đúng — cơ chế đái máu ngoài cầu thận theo giáo trình.",
+    "Sai — đây là cơ chế đái máu cầu thận làm hồng cầu biến dạng khi chui qua lỗ lọc.",
+    "Sai — đây cũng là cơ chế cầu thận, đúng cho viêm cầu thận; bé này tổn thương ở niệu quản."
+   ]
+  }
+ ]
+}
