@@ -280,11 +280,11 @@ Giải thích: Giảm bạch cầu hạt phối hợp với ban tím dạng viê
 Câu 32: Bé trai 4 tuổi, nặng 16 kg, hội chứng thận hư khởi phát, phù toàn thân 4 ngày, tiểu ít (khoảng 150 mL/24 giờ), than đau bụng quanh rốn, khát nước, mệt lả. Khám: lơ mơ nhẹ, mạch nhanh nhỏ 145 lần/phút, huyết áp 85/55 mmHg, CRT 4 giây, đầu chi lạnh, da nổi vân tím nhẹ, báng bụng, phổi không ran. Hematocrit 46%, albumin 14 g/L, creatinin 78 µmol/L (cao hơn mức bình thường theo tuổi), Na 132 mmol/L. Tuyến trước đã chuẩn bị tiêm furosemid 20 mg tĩnh mạch.
 Xử trí phù hợp nhất lúc này là gì?
 A. Furosemid uống 2 mg/kg/ngày chia hai lần phối hợp spironolacton, tăng liều nếu cân nặng không giảm sau 48 giờ
-B. Albumin 20% 0,5–1 g/kg truyền tĩnh mạch, chỉ cân nhắc furosemid khi thể tích đã hồi phục
-C. Hạn chế dịch còn 400 mL/m²/ngày và ăn nhạt, thêm lợi tiểu nếu cân nặng không giảm sau 24 giờ
+B. Albumin 4–5% truyền nhanh chống sốc, không kèm furosemid; chưa có albumin thì NaCl 0,9% 10–20 mL/kg
+C. Albumin 20% 0,5–1 g/kg truyền trong 4–6 giờ, thêm furosemid 1–2 mg/kg tĩnh mạch giữa buổi truyền
 D. Furosemid 1–2 mg/kg tĩnh mạch ngay, nhắc lại sau 6 giờ nếu nước tiểu dưới 1 mL/kg/giờ
 Đáp án: B
-Giải thích: Trẻ có dấu giảm thể tích tuần hoàn hiệu dụng: mạch nhanh nhỏ, CRT kéo dài, chi lạnh, hematocrit tăng, albumin rất thấp, thiểu niệu và đau bụng. Thiểu niệu ở đây là phản ứng giữ dịch của thận, nên lợi tiểu quai đơn độc làm nặng thêm tình trạng cạn thể tích. Theo IPNA 2023, bù albumin 20% trước; chỉ cân nhắc furosemid khi thể tích đã hồi phục mà nước tiểu vẫn ít.
+Giải thích: Trẻ đang sốc giảm thể tích còn bù: lơ mơ, mạch nhanh nhỏ 145 lần/phút, CRT 4 giây, đầu chi lạnh, da nổi vân tím, kèm hematocrit tăng, thiểu niệu và đau bụng. IPNA 2023: khi có sốc giảm thể tích và/hoặc tụt huyết áp, dùng albumin 4% hoặc 5% không kèm furosemid; albumin 20–25% kèm furosemid chỉ dành cho trẻ phù nặng/giảm thể tích chưa sốc.
 
 Câu 33: Bé gái 6 tuổi, hội chứng thận hư nhạy cảm steroid đang giảm liều prednisolone cách ngày, nhập viện vì sốt 39,2 °C, rét run và đau bụng khắp ổ bụng tăng dần 1 ngày, nôn 2 lần, không tiêu chảy. Khám: mạch 125 lần/phút, huyết áp 100/65 mmHg, CRT 2 giây; bụng chướng vừa, gõ đục vùng thấp, ấn đau khắp bụng, đề kháng nhẹ quanh rốn, nhu động ruột giảm. Bạch cầu 21.500/µL (đa nhân trung tính 86%), CRP 96 mg/L. Siêu âm: dịch ổ bụng lượng vừa có vách fibrin, không thấy ruột thừa viêm, không có khí tự do dưới hoành.
 Xử trí phù hợp nhất tiếp theo là gì?
@@ -313,14 +313,14 @@ D. Giảm thể tích tuần hoàn hiệu dụng do tái phát thận hư
 Đáp án: A
 Giải thích: Sau điều trị prednisolone liều cao kéo dài, trục hạ đồi – tuyến yên – thượng thận bị ức chế; ngừng đột ngột gây suy thượng thận cấp với trụy mạch, hạ đường huyết và hạ natri. Kali thường bình thường vì trục renin–aldosterone còn nguyên (suy thượng thận thứ phát). Không phù, không báng, protein niệu âm tính và albumin 31 g/L loại trừ tái phát và underfill. Phải hoàn tất phác đồ theo kế hoạch của bác sĩ, không tự ngừng giữa chừng.
 
-Câu 36: Bé trai 5 tuổi, hội chứng thận hư tái phát, được cho uống furosemid 2 mg/kg/ngày trong 5 ngày ở tuyến dưới và ibuprofen 3 ngày vì sốt. Nhập viện vì tiểu rất ít (0,3 mL/kg/giờ), khát nước, mệt. Khám: mạch 135 lần/phút, huyết áp 88/52 mmHg, CRT 4 giây, chi lạnh, phù toàn thân, báng bụng vừa, không đau hông lưng. Albumin máu 17 g/L, creatinin tăng từ 38 lên 112 µmol/L; nước tiểu protein 4+, không hồng cầu; siêu âm hai thận kích thước bình thường, không giãn đài bể thận.
+Câu 36: Bé trai 5 tuổi, hội chứng thận hư tái phát, được cho uống furosemid 2 mg/kg/ngày trong 5 ngày ở tuyến dưới và ibuprofen 3 ngày vì sốt. Nhập viện vì tiểu rất ít (0,3 mL/kg/giờ), khát nước, mệt. Khám: tỉnh, mạch 125 lần/phút, huyết áp 100/62 mmHg, CRT 3 giây, chi ấm, phù toàn thân, báng bụng vừa, không đau hông lưng. Albumin máu 17 g/L, creatinin tăng từ 38 lên 112 µmol/L; nước tiểu protein 4+, không hồng cầu; siêu âm hai thận kích thước bình thường, không giãn đài bể thận.
 Xử trí phù hợp nhất là gì?
 A. Chuẩn bị lọc màng bụng cấp cứu vì thiểu niệu kéo dài kèm creatinin tăng nhanh
 B. Ngừng ibuprofen, hạn chế dịch 400 mL/m²/ngày vì thiểu niệu, xét nghiệm lại sau 48 giờ
 C. Truyền albumin 20% bù thể tích, ngừng furosemid và ibuprofen cho đến khi creatinin hồi phục
 D. Siêu âm Doppler tĩnh mạch thận, bắt đầu heparin trọng lượng phân tử thấp
 Đáp án: C
-Giải thích: Thiểu niệu, mạch nhanh, CRT kéo dài và creatinin tăng gần gấp ba sau khi dùng furosemid và ibuprofen, không có tiểu máu hay ứ nước đường tiểu, là tổn thương thận cấp trước thận. Xử trí là ngừng thuốc gây hại và bù thể tích bằng albumin 20%; không dùng thêm lợi tiểu cho đến khi tưới máu cải thiện.
+Giải thích: Thiểu niệu, mạch nhanh, CRT 3 giây và creatinin tăng gần gấp ba sau khi dùng furosemid và ibuprofen, không có tiểu máu hay ứ nước đường tiểu, là tổn thương thận cấp trước thận do giảm thể tích. Trẻ chưa sốc (tỉnh, chi ấm, huyết áp bình thường) nên theo IPNA 2023 bù bằng albumin 20%; ngừng thuốc gây hại và chưa dùng thêm lợi tiểu cho đến khi tưới máu cải thiện. (Nếu đã sốc/tụt huyết áp thì dùng albumin 4–5%.)
 
 Câu 37: Bé gái 8 tuổi, hội chứng thận hư nhạy cảm steroid, đã ngừng prednisolone 5 tháng và đang lui bệnh. Mẹ thử nước tiểu đầu tiên buổi sáng mỗi ngày và ghi sổ: thứ Hai âm tính, thứ Ba vết (trace), thứ Tư 3+, thứ Năm 3+, thứ Sáu 3+. Sáng thứ Sáu trẻ phù nhẹ mi mắt, không sốt, không ho, tiểu bình thường, nước tiểu không có máu.
 Xử trí phù hợp nhất lúc này là gì?
