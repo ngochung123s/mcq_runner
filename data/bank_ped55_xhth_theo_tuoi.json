@@ -2,7 +2,7 @@
  "id": "bank_ped55_xhth_theo_tuoi",
  "title": "PED-55: Xuất huyết tiêu hóa — Nguyên nhân theo lứa tuổi (49 câu luyện thuộc)",
  "description": "Luyện phân định nguyên nhân XHTH theo tuổi theo barem Y Thái Bình: đoạn văn 5.2.2 (4 nhóm tuổi), bảng XHTH dưới và bảng XHTH trên (3 cột), số liệu theo tuổi và ca lâm sàng. Mỗi phương án sai là nguyên nhân của nhóm tuổi khác; có giải thích từng phương án.",
- "updated": "2026-10-27T09:50:09Z",
+ "updated": "2026-10-27T09:56:31Z",
  "questions": [
   {
    "id": "PED55-T01",
@@ -143,7 +143,7 @@
    "explanation": "Sơ sinh = <b>\"K – Hoại – Xoắn\"</b>: thiếu vitamin K (ngày 2–3; thiếu yếu tố II, VII, IX, X) · viêm ruột non hoại tử (sơ sinh, đẻ non) · xoắn toàn bộ ruột non (ruột quay, cuốn bất thường mạc treo).",
    "option_explanations": [
     "Đúng — đúng 3 nguyên nhân sơ sinh của đoạn 5.2.2 (\"K – Hoại – Xoắn\").",
-    "Sai — không dung nạp đạm sữa thuộc nhóm bú mẹ < 18 tháng; thiếu thiếu vitamin K.",
+    "Sai — trong đoạn 5.2.2, không dung nạp đạm sữa thuộc nhóm bú mẹ < 18 tháng, và phương án thiếu nguyên nhân thiếu vitamin K. (Bộ ba này đều nằm ở cột nhũ nhi của BẢNG, nhưng câu hỏi theo đoạn văn.)",
     "Sai — dị ứng đạm sữa thuộc nhóm bú mẹ < 18 tháng; Hirschsprung chỉ có ở cột nhũ nhi của BẢNG.",
     "Sai — dị ứng đạm sữa và lồng ruột cấp đều thuộc nhóm bú mẹ < 18 tháng."
    ]
@@ -793,7 +793,7 @@
     "Đúng — đúng 3 nguyên nhân tầng dạ dày cột 2–5 tuổi (viêm – loét – giãn).",
     "Sai — viêm do stress thuộc cột nhũ nhi; Mallory-Weiss là nguyên nhân tầng thực quản.",
     "Sai — viêm dạ dày do stress thuộc cột nhũ nhi; Dieulafoy thuộc cột trẻ lớn.",
-    "Sai — viêm dạ dày do stress là nguyên nhân cột nhũ nhi."
+    "Sai — bảng ghi riêng \"viêm dạ dày do stress\" ở cột nhũ nhi; cột 2–5 tuổi ghi \"viêm dạ dày\" (không kèm stress), nên phương án này sai cho cột 2–5 tuổi."
    ]
   },
   {
