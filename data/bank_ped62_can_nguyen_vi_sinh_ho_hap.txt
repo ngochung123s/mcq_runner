@@ -5,7 +5,7 @@ B. Adenovirus
 C. Streptococcus pneumoniae
 D. RSV
 Đáp án: D
-Giải thích: Tuổi RSV. Tuổi là manh mối đầu tiên để chọn căn nguyên.
+Giải thích: Tuổi < 6 tháng, khò khè thì thở ra, ran ẩm nhỏ hạt, sốt nhẹ, CRP bình thường và X-quang ứ khí hai phổi chỉ về viêm tiểu phế quản do RSV. Tuổi là manh mối đầu tiên để chọn căn nguyên.
 
 Câu 2: Hai trẻ, một nhũ nhi 2 tháng và một trẻ 5 tuổi, cùng nhiễm virus gây phù nề niêm mạc tiểu phế quản với độ dày như nhau. Nhũ nhi bị tắc nghẽn đường thở nặng hơn nhiều.
 Đặc điểm nào của nhũ nhi giải thích trực tiếp nhất mức tắc nghẽn nặng hơn này?
@@ -32,7 +32,7 @@ B. Azithromycin đường uống 5 ngày
 C. Hạ sốt, nhỏ mũi, theo dõi sát tại nhà
 D. Nhập viện, thở oxy và theo dõi sát
 Đáp án: C
-Giải thích: Trên 70–80% viêm phế quản/tiểu phế quản ở trẻ kháng sinh hay nhập viện; xử trí là hạ sốt, làm thông mũi và theo dõi sát. Nhìn triệu chứng bề mặt (ho, sốt, thở nhanh) rồi kê kháng sinh là sai lầm phổ biến.
+Giải thích: Trên 70–80% viêm phế quản/tiểu phế quản ở trẻ < 2 tuổi do virus; không đông đặc, CRP thấp, bạch cầu bình thường, SpO2 tốt thì không có chỉ định kháng sinh hay nhập viện; xử trí là hạ sốt, làm thông mũi và theo dõi sát. Nhìn triệu chứng bề mặt (ho, sốt, thở nhanh) rồi kê kháng sinh là sai lầm phổ biến.
 
 Câu 5: Nuôi cấy bệnh phẩm tỵ hầu của một nhũ nhi viêm tiểu phế quản trên dòng tế bào biểu mô cho thấy các tế bào kế cận dính liền nhau thành những khối khổng lồ nhiều nhân.
 Thành phần nào của tác nhân gây bệnh trực tiếp gây ra hiện tượng này?
@@ -95,7 +95,7 @@ B. Thiếu máu tán huyết do ngưng kết tố lạnh
 C. Viêm tiểu phế quản tắc nghẽn mạn tính
 D. Tràn mủ màng phổi cận viêm phổi
 Đáp án: A
-Giải thích: Trẻ sơ sinh, nhất là sinh non cơn ngừng thở đột ngột trước cả khi có thở nhanh hay co kéo. Vì vậy cần nhập viện theo dõi dù chưa suy hô hấp.
+Giải thích: Trẻ sơ sinh, nhất là sinh non < 35 tuần, nhiễm RSV có thể bị cơn ngừng thở đột ngột trước cả khi có thở nhanh hay co kéo. Vì vậy cần nhập viện theo dõi dù chưa suy hô hấp.
 
 Câu 12: Bé trai 7 tháng tuổi, 3 ngày chảy mũi và ho, hôm nay khò khè, nhịp thở 50 lần/phút, rút lõm nhẹ, bú được. Ran rít và ran ẩm nhỏ hạt hai phế trường, không sốt. Bác sĩ chẩn đoán viêm tiểu phế quản cấp và cần quyết định nhập viện hay theo dõi ngoại trú.
 Thăm dò nào quan trọng nhất để quyết định xử trí?

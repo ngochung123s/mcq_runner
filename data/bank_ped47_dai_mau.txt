@@ -176,7 +176,7 @@ B. Phù vừa, cân nặng tăng từ 10 đến 20%
 C. Phù nặng, cân nặng tăng trên 20%
 D. Phù nặng vì có kèm tăng huyết áp
 Đáp án: B
-Giải thích: Giáo trình phân độ phù theo cân nặng: nhẹ  20%. Bé tăng 4,5/30 = 15% nên là phù vừa; huyết áp không dùng để phân độ phù.
+Giải thích: Giáo trình phân độ phù theo cân nặng: nhẹ < 10%, vừa 10–20%, nặng > 20%. Bé tăng 4,5/30 = 15% nên là phù vừa; huyết áp không dùng để phân độ phù.
 
 Câu 21: Bé gái 13 tuổi, sốt kéo dài 2 tháng, gầy sút, kém ăn. Bé đau nhiều khớp nhỏ, đau chuyển từ khớp này sang khớp khác, không cứng khớp buổi sáng, khớp không sưng nóng đỏ. Có loét miệng và ban đỏ ở hai gò má, cánh mũi, nhạy cảm với ánh nắng. Nước tiểu nâu, hồng cầu biến dạng, có trụ hồng cầu, protein niệu 3+; C3 giảm.
 Xét nghiệm nào nên chỉ định tiếp theo để tìm bệnh nền?
@@ -320,7 +320,7 @@ B. Đái máu vi thể kéo dài trên 1 tháng không rõ nguyên nhân
 C. Bổ thể C3 giảm kéo dài trên 3 tháng
 D. Mức lọc cầu thận giảm dưới 80 mL/phút/1,73 m² không hồi phục
 Đáp án: D
-Giải thích: Barem có chỉ định mức lọc cầu thận giảm . Ở đây mức lọc 74, rồi 72 sau 1 tháng nên không hồi phục. Protein niệu chỉ là chỉ định khi trên 1 g/1,73 m²/ngày; đái máu vi thể đơn độc không có mốc sinh thiết trong barem; C3 của bé bình thường.
+Giải thích: Barem có chỉ định mức lọc cầu thận giảm < 80 mL/phút/1,73 m². Ở đây mức lọc 74, rồi 72 sau 1 tháng nên không hồi phục. Protein niệu chỉ là chỉ định khi trên 1 g/1,73 m²/ngày; đái máu vi thể đơn độc không có mốc sinh thiết trong barem; C3 của bé bình thường.
 
 Câu 37: Bé gái 13 tuổi, sốt kéo dài, ban cánh bướm, đau khớp, ANA và anti-dsDNA dương tính, C3 giảm từ 3 tuần nay. Nước tiểu có hồng cầu biến dạng, protein niệu 24 giờ 0,6 g/1,73 m²/ngày, creatinin máu và mức lọc cầu thận (110 mL/phút/1,73 m²) bình thường.
 Theo barem, có chỉ định sinh thiết thận không?
