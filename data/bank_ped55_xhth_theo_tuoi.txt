@@ -5,7 +5,7 @@ B. Sơ sinh; nhũ nhi < 12 tháng; từ 1 đến 5 tuổi; từ 6 đến 15 tu�
 C. Sơ sinh; dưới 2 tuổi; từ 2 đến 10 tuổi; trên 10 tuổi (tuổi dậy thì)
 D. Nhũ nhi; từ 2 đến 5 tuổi; trẻ lớn; tuổi vị thành niên
 Đáp án: A
-Giải thích: Đoạn văn 5.2.2 dùng 4 nhóm: sơ sinh · bú mẹ 3 cột: nhũ nhi · 2–5 tuổi · trẻ lớn.
+Giải thích: Đoạn văn 5.2.2 dùng 4 nhóm: sơ sinh · bú mẹ < 18 tháng · trước tuổi đi học < 6 tuổi · học đường 6–18 tuổi. Hai bảng tổng hợp dùng hệ khác gồm 3 cột: nhũ nhi · 2–5 tuổi · trẻ lớn.
 
 Câu 2: Barem có hai bảng tổng hợp nguyên nhân: một bảng cho XHTH trên và một bảng cho XHTH dưới.
 Hai bảng này chia trẻ thành những cột tuổi nào?
@@ -23,7 +23,7 @@ B. Bú mẹ (dưới 18 tháng)
 C. Trước đi học (< 6 tuổi)
 D. Học đường (6–18 tuổi)
 Đáp án: B
-Giải thích: Bẫy: đoạn văn xếp lồng ruột vào nhóm bú mẹ , còn bảng tổng hợp xếp vào cột 2–5 tuổi.
+Giải thích: Bẫy: đoạn văn xếp lồng ruột vào nhóm bú mẹ < 18 tháng, còn bảng tổng hợp xếp vào cột 2–5 tuổi.
 
 Câu 4: Theo bảng tổng hợp nguyên nhân XHTH dưới của barem (3 cột tuổi).
 Lồng ruột nằm ở cột nào?
@@ -41,7 +41,7 @@ B. Chỉ ở nhóm bú mẹ dưới 18 tháng
 C. Nhóm trước tuổi đi học và nhóm học đường 6–18 tuổi
 D. Nhóm bú mẹ < 18 tháng và nhóm học đường 6–18 tuổi
 Đáp án: D
-Giải thích: Đoạn văn: Meckel ở nhóm bú mẹ  và nhóm học đường 6–18 tuổi. Bảng tổng hợp: Meckel chỉ ở cột 2–5 tuổi.
+Giải thích: Đoạn văn: Meckel ở nhóm bú mẹ < 18 tháng và nhóm học đường 6–18 tuổi. Bảng tổng hợp: Meckel chỉ ở cột 2–5 tuổi.
 
 Câu 6: Đoạn văn mục 5.2.2 của barem nêu 3 nguyên nhân XHTH dưới ở trẻ sơ sinh.
 Đó là 3 nguyên nhân nào?
@@ -59,7 +59,7 @@ B. Lị; lồng ruột cấp; xoắn toàn bộ ruột non; polyp; nứt hậu m
 C. Lị; lồng ruột cấp; không dung nạp đạm sữa; polyp; nứt hậu môn
 D. Lị; Henoch; không dung nạp đạm sữa; polyp; nứt hậu môn
 Đáp án: A
-Giải thích: Bú mẹ "Lị – Lồng – Sữa – Meckel – Nứt": ỉa chảy nhiễm khuẩn (hội chứng lị) · lồng ruột cấp · không dung nạp protein sữa bò hoặc đậu nành · loét túi thừa Meckel · nứt hậu môn do táo bón.
+Giải thích: Bú mẹ < 18 tháng = "Lị – Lồng – Sữa – Meckel – Nứt": ỉa chảy nhiễm khuẩn (hội chứng lị) · lồng ruột cấp · không dung nạp protein sữa bò hoặc đậu nành · loét túi thừa Meckel · nứt hậu môn do táo bón.
 
 Câu 8: Đoạn văn mục 5.2.2 của barem nêu 4 nguyên nhân XHTH dưới ở trẻ trước tuổi đi học (< 6 tuổi).
 Tập hợp nào đúng?
@@ -86,7 +86,7 @@ B. Bú mẹ (dưới 18 tháng)
 C. Trước đi học (< 6 tuổi)
 D. Học đường (6–18 tuổi)
 Đáp án: C
-Giải thích: Viêm ruột hoại tử xuất hiện ở 3 chỗ: sơ sinh (đẻ non) ·  · 6–18 tuổi (trong viêm ruột xuất huyết). Tên "Pigbel" gắn với nhóm trước tuổi đi học.
+Giải thích: Viêm ruột hoại tử xuất hiện ở 3 chỗ: sơ sinh (đẻ non) · < 6 tuổi (Pigbel) · 6–18 tuổi (trong viêm ruột xuất huyết). Tên "Pigbel" gắn với nhóm trước tuổi đi học.
 
 Câu 11: Theo đoạn văn mục 5.2.2 của barem.
 Polyp trực tràng, đại tràng được xếp vào nhóm tuổi nào?
@@ -95,7 +95,7 @@ B. Bú mẹ (dưới 18 tháng)
 C. Trước đi học (< 6 tuổi)
 D. Học đường (6–18 tuổi)
 Đáp án: C
-Giải thích: Đoạn văn: polyp ở nhóm . Bảng XHTH dưới: polyp ở cột 2–5 tuổi và cột trẻ lớn.
+Giải thích: Đoạn văn: polyp ở nhóm < 6 tuổi. Bảng XHTH dưới: polyp ở cột 2–5 tuổi và cột trẻ lớn.
 
 Câu 12: Theo đoạn văn mục 5.2.2 của barem.
 Không dung nạp protein sữa bò hoặc đậu nành gây ỉa phân lỏng có máu được xếp vào nhóm tuổi nào?
@@ -104,7 +104,7 @@ B. Bú mẹ (dưới 18 tháng)
 C. Trước đi học (< 6 tuổi)
 D. Học đường (6–18 tuổi)
 Đáp án: B
-Giải thích: Đoạn văn: không dung nạp đạm sữa ở nhóm bú mẹ  ("Lị – Lồng – Sữa – Meckel – Nứt").
+Giải thích: Đoạn văn: không dung nạp đạm sữa ở nhóm bú mẹ < 18 tháng ("Lị – Lồng – Sữa – Meckel – Nứt").
 
 Câu 13: Theo đoạn văn mục 5.2.2 của barem.
 XHTH trong bệnh Schönlein–Henoch được xếp vào nhóm tuổi nào?
@@ -113,7 +113,7 @@ B. Bú mẹ (dưới 18 tháng)
 C. Trước đi học (< 6 tuổi)
 D. Học đường (6–18 tuổi)
 Đáp án: C
-Giải thích: Đoạn văn: Henoch ở nhóm . Bảng XHTH dưới: Henoch ở cột 2–5 tuổi và cột trẻ lớn.
+Giải thích: Đoạn văn: Henoch ở nhóm < 6 tuổi. Bảng XHTH dưới: Henoch ở cột 2–5 tuổi và cột trẻ lớn.
 
 Câu 14: Theo đoạn văn mục 5.2.2 của barem.
 Xoắn toàn bộ ruột non do ruột quay, cuốn bất thường mạc treo được xếp vào nhóm tuổi nào?
@@ -320,7 +320,7 @@ B. Trên 60%
 C. Trên 80%
 D. Trên 95%
 Đáp án: C
-Giải thích: Lồng ruột: > 80% ở trẻ ; 45% từ 4–10 tháng; ỉa máu nhầy ở 36% trẻ < 1 tuổi.
+Giải thích: Lồng ruột: > 80% ở trẻ < 2 tuổi; 45% từ 4–10 tháng; ỉa máu nhầy ở 36% trẻ < 1 tuổi.
 
 Câu 37: Theo đoạn văn mục 5.2.2 của barem, khoảng 45% trường hợp lồng ruột rơi vào một khoảng tuổi.
 Khoảng tuổi đó là gì?
@@ -338,7 +338,7 @@ B. 40%
 C. 60%
 D. 80%
 Đáp án: C
-Giải thích: Meckel: 60% ở trẻ ; 40% tái phát nhiều đợt; chảy máu không kèm đau bụng.
+Giải thích: Meckel: 60% ở trẻ < 2 tuổi; 40% tái phát nhiều đợt; chảy máu không kèm đau bụng.
 
 Câu 39: Theo đoạn văn mục 5.2.2 của barem về bệnh Schönlein–Henoch.
 Bao nhiêu phần trăm trường hợp có tổn thương đường tiêu hóa?
@@ -392,7 +392,7 @@ B. Lồng ruột cấp tính
 C. Viêm loét túi thừa Meckel
 D. Ỉa chảy nhiễm khuẩn (hội chứng lị)
 Đáp án: A
-Giải thích: Barem nhóm bú mẹ ỉa phân lỏng có máu sau khi ăn sữa, biểu hiện viêm đại tràng.
+Giải thích: Barem nhóm bú mẹ < 18 tháng: không dung nạp protein sữa bò hoặc đậu nành → ỉa phân lỏng có máu sau khi ăn sữa, biểu hiện viêm đại tràng.
 
 Câu 45: Trẻ trai 4 tuổi, 3 tháng nay thỉnh thoảng có ít máu đỏ tươi bao ngoài khuôn phân, ra cuối bãi. Trẻ không táo bón, không đau khi đi ngoài, không thiếu máu.
 Theo barem, nguyên nhân nào phù hợp nhất?
@@ -401,7 +401,7 @@ B. Nứt hậu môn do táo bón
 C. XHTH trong bệnh Schönlein–Henoch
 D. Viêm loét túi thừa Meckel
 Đáp án: A
-Giải thích: Polyp (nhóm bao ngoài cục phân, ít nhưng hay tái phát.
+Giải thích: Polyp (nhóm < 6 tuổi): máu tươi ra đầu hoặc cuối bãi, bao ngoài cục phân, ít nhưng hay tái phát.
 
 Câu 46: Trẻ gái 5 tuổi, sau viêm họng 2 tuần xuất hiện ban xuất huyết dạng sẩn đối xứng ở hai chi dưới, sưng đau cổ chân, đau bụng quanh rốn từng cơn, đi ngoài phân đen.
 Theo barem, nguyên nhân nào phù hợp nhất?

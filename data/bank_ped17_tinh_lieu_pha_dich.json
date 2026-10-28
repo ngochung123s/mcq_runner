@@ -1,0 +1,776 @@
+{
+ "id": "bank_ped17_tinh_lieu_pha_dich",
+ "title": "PED-17: Hạ đường huyết sơ sinh — Tính liều & pha dịch (32 câu)",
+ "description": "Luyện tính toán theo barem Y Thái Bình (mốc mmol/L): quy đổi đơn vị, liều cấp cứu (G10% 2,5 ml/kg, G40% 200 mg/kg, glucagon 200 µg/kg), tốc độ bơm, GIR, tăng tốc độ đường, mốc 12,5% và 8 mg/kg/phút, pha dung dịch (đường chéo — ngoài barem), y lệnh theo mức A/B/C. Mỗi phương án sai là một lỗi tính hay gặp; có lời giải từng bước.",
+ "updated": "2026-10-28T09:57:33Z",
+ "questions": [
+  {
+   "id": "P17C-U01",
+   "type": "vignette",
+   "topic": "Quy đổi đơn vị",
+   "subtopic": "mg/dL → mmol/L",
+   "bloom": "vận dụng",
+   "difficulty": 1,
+   "source": "Barem PED-17 mục 1; quy đổi chuẩn",
+   "text": "Một trẻ sơ sinh có kết quả glucose huyết thanh 30 mg/dL. Bác sĩ cần đối chiếu với các mốc mmol/L của barem.\nGiá trị này tương đương bao nhiêu mmol/L (làm tròn 1 chữ số thập phân)?",
+   "options": [
+    "1,7 mmol/L",
+    "3,0 mmol/L",
+    "5,4 mmol/L",
+    "16,7 mmol/L"
+   ],
+   "correct": 0,
+   "explanation": "mmol/L = mg/dL ÷ 18 → 30 ÷ 18 = <b>1,7 mmol/L</b> (thuộc khoảng 1,0 – 2,0 của mức B nếu không có triệu chứng).",
+   "option_explanations": [
+    "Đúng — 30 ÷ 18 ≈ 1,7 mmol/L.",
+    "Sai — chia cho 10 là đổi mg/dL sang mg/ml, không phải sang mmol/L.",
+    "Sai — nhân với 0,18 là quy đổi sai chiều (mmol/L sang mg/dL mới nhân 18).",
+    "Sai — chia cho 1,8 (lệch 10 lần so với hệ số 18)."
+   ]
+  },
+  {
+   "id": "P17C-U02",
+   "type": "calc",
+   "topic": "Quy đổi đơn vị",
+   "subtopic": "mmol/L → mg/dL",
+   "bloom": "vận dụng",
+   "difficulty": 1,
+   "source": "Barem PED-17 mục 4.2",
+   "text": "Barem ghi mốc mức B và mức C bằng mmol/L. Một điều dưỡng chỉ quen đọc máy theo mg/dL.\nMốc 2,0 mmol/L tương đương bao nhiêu mg/dL?",
+   "options": [
+    "0,1 mg/dL",
+    "11 mg/dL",
+    "20 mg/dL",
+    "36 mg/dL"
+   ],
+   "correct": 3,
+   "explanation": "mg/dL = mmol/L × 18 → 2,0 × 18 = <b>36 mg/dL</b>. Barem cũng ghi cặp này: mức B < 36 mg/dL (2 mmol/L).",
+   "option_explanations": [
+    "Sai — 2,0 ÷ 18 là quy đổi ngược chiều.",
+    "Sai — 2,0 ÷ 18 × 100; quy đổi đúng là nhân 18.",
+    "Sai — nhân 10 (nhầm với đổi % sang mg/ml).",
+    "Đúng — 2,0 × 18 = 36 mg/dL."
+   ]
+  },
+  {
+   "id": "P17C-U03",
+   "type": "calc",
+   "topic": "Quy đổi đơn vị",
+   "subtopic": "% → mg/ml",
+   "bloom": "vận dụng",
+   "difficulty": 1,
+   "source": "Phép tính thực hành — ngoài barem",
+   "text": "Khoa có ống glucose 30% để pha dịch. Muốn tính liều theo mg, cần biết mỗi ml chứa bao nhiêu glucose.\nMỗi ml glucose 30% chứa bao nhiêu mg glucose?",
+   "options": [
+    "3 mg",
+    "30 mg",
+    "300 mg",
+    "3000 mg"
+   ],
+   "correct": 2,
+   "explanation": "Dung dịch x% = x g trong 100 ml = <b>x × 10 mg/ml</b>. G30% = 300 mg/ml; G10% = 100 mg/ml; G40% = 400 mg/ml.",
+   "option_explanations": [
+    "Sai — chia 30 cho 10 thay vì nhân.",
+    "Sai — lấy thẳng con số % làm mg/ml (thiếu × 10).",
+    "Đúng — 30 g/100 ml = 300 mg/ml.",
+    "Sai — nhân 100: nhầm g/100 ml thành g/10 ml."
+   ]
+  },
+  {
+   "id": "P17C-L01",
+   "type": "vignette",
+   "topic": "Liều cấp cứu",
+   "subtopic": "Bolus G10% mức A",
+   "bloom": "vận dụng",
+   "difficulty": 1,
+   "source": "Barem PED-17 mục 4.2 (trang 50–51)",
+   "text": "Trẻ sơ sinh 3,2 kg co giật, glucose 0,8 mmol/L; đã đặt được đường truyền tĩnh mạch.\nTheo barem, cần tiêm tĩnh mạch bao nhiêu ml glucose 10%?",
+   "options": [
+    "2,5 ml",
+    "6,4 ml",
+    "8,0 ml",
+    "80,0 ml"
+   ],
+   "correct": 2,
+   "explanation": "Mức A (< 1,0 mmol/L hoặc có triệu chứng): <b>G10% 2,5 ml/kg</b> → 2,5 × 3,2 = <b>8,0 ml</b>.",
+   "option_explanations": [
+    "Sai — quên nhân cân nặng (2,5 ml/kg là liều theo kg).",
+    "Sai — dùng liều 2 ml/kg của AAP; barem Y Thái Bình dùng 2,5 ml/kg.",
+    "Đúng — 2,5 ml/kg × 3,2 kg = 8 ml.",
+    "Sai — nhầm thành 25 ml/kg (gấp 10 lần), dễ gây tăng đường huyết và quá tải."
+   ]
+  },
+  {
+   "id": "P17C-L02",
+   "type": "calc",
+   "topic": "Liều cấp cứu",
+   "subtopic": "Bolus đổi ra mg/kg",
+   "bloom": "vận dụng",
+   "difficulty": 1,
+   "source": "Barem PED-17 mục 4.2 (trang 50–51)",
+   "text": "Bác sĩ giải thích cho sinh viên liều bolus glucose 10% 2,5 ml/kg của barem theo lượng glucose.\nLiều đó tương ứng bao nhiêu mg glucose cho mỗi kg?",
+   "options": [
+    "2,5 mg/kg",
+    "25 mg/kg",
+    "200 mg/kg",
+    "250 mg/kg"
+   ],
+   "correct": 3,
+   "explanation": "G10% = 100 mg/ml → 2,5 ml/kg × 100 = <b>250 mg/kg</b>. (AAP dùng 2 ml/kg = 200 mg/kg.)",
+   "option_explanations": [
+    "Sai — lấy thẳng số ml/kg làm mg/kg.",
+    "Sai — tính G10% là 10 mg/ml (quên × 10).",
+    "Sai — 200 mg/kg là liều glucose 40% qua sonde / đường uống, và là bolus 2 ml/kg của AAP.",
+    "Đúng — 2,5 ml/kg × 100 mg/ml = 250 mg/kg."
+   ]
+  },
+  {
+   "id": "P17C-L03",
+   "type": "vignette",
+   "topic": "Liều cấp cứu",
+   "subtopic": "G40% qua sonde",
+   "bloom": "vận dụng",
+   "difficulty": 2,
+   "source": "Barem PED-17 mục 4.2 (trang 50–51)",
+   "text": "Trẻ 2,5 kg, glucose 0,7 mmol/L, li bì; hai lần đặt đường truyền thất bại. Quyết định bơm glucose 40% qua ống thông dạ dày theo barem.\nCần bơm bao nhiêu ml glucose 40%?",
+   "options": [
+    "0,5 ml",
+    "1,25 ml",
+    "5,0 ml",
+    "12,5 ml"
+   ],
+   "correct": 1,
+   "explanation": "Liều 200 mg/kg × 2,5 kg = 500 mg; G40% = 400 mg/ml → 500 ÷ 400 = <b>1,25 ml</b> (tức 0,5 ml/kg).",
+   "option_explanations": [
+    "Sai — 0,5 ml là liều theo kg (0,5 ml/kg), quên nhân cân nặng.",
+    "Đúng — 500 mg ÷ 400 mg/ml = 1,25 ml.",
+    "Sai — chia cho 100 mg/ml (nồng độ G10%), không phải G40%.",
+    "Sai — chia cho 40 mg/ml (quên × 10 khi đổi %)."
+   ]
+  },
+  {
+   "id": "P17C-L04",
+   "type": "vignette",
+   "topic": "Liều cấp cứu",
+   "subtopic": "Glucagon tiêm bắp",
+   "bloom": "vận dụng",
+   "difficulty": 1,
+   "source": "Barem PED-17 mục 4.2 (trang 50–51)",
+   "text": "Trẻ 3 kg, glucose 0,9 mmol/L, run chi; chưa tiếp cận được tĩnh mạch. Chọn glucagon tiêm bắp theo barem.\nLiều glucagon cần tiêm là bao nhiêu?",
+   "options": [
+    "0,6 mg",
+    "6 mg",
+    "60 mg",
+    "600 mg"
+   ],
+   "correct": 0,
+   "explanation": "Barem: <b>glucagon 200 µg/kg</b> tiêm bắp → 200 × 3 = 600 µg = <b>0,6 mg</b>.",
+   "option_explanations": [
+    "Đúng — 200 µg/kg × 3 kg = 600 µg = 0,6 mg.",
+    "Sai — đổi 600 µg thành 6 mg (sai 10 lần).",
+    "Sai — sai 100 lần khi đổi µg sang mg.",
+    "Sai — 600 là µg, quên đổi sang mg (gấp 1000 lần)."
+   ]
+  },
+  {
+   "id": "P17C-L05",
+   "type": "vignette",
+   "topic": "Liều cấp cứu",
+   "subtopic": "Thay G40% bằng G30%",
+   "bloom": "vận dụng",
+   "difficulty": 2,
+   "source": "Phép tính thực hành — ngoài barem; liều 200 mg/kg theo barem",
+   "text": "Trẻ 3 kg mức A chưa có đường tĩnh mạch; khoa hết glucose 40%, chỉ còn glucose 30%. Vẫn giữ liều glucose 200 mg/kg qua ống thông dạ dày.\nCần bơm bao nhiêu ml glucose 30%?",
+   "options": [
+    "1,5 ml",
+    "2,0 ml",
+    "6,0 ml",
+    "20,0 ml"
+   ],
+   "correct": 1,
+   "explanation": "200 mg/kg × 3 = 600 mg; G30% = 300 mg/ml → 600 ÷ 300 = <b>2 ml</b>. Đổi nồng độ thì giữ liều mg, tính lại ml.",
+   "option_explanations": [
+    "Sai — 1,5 ml là thể tích nếu dùng G40% (600 ÷ 400), không áp dụng cho G30%.",
+    "Đúng — 600 mg ÷ 300 mg/ml = 2 ml.",
+    "Sai — chia cho 100 mg/ml (G10%).",
+    "Sai — chia cho 30 mg/ml (quên × 10)."
+   ]
+  },
+  {
+   "id": "P17C-L06",
+   "type": "vignette",
+   "topic": "Liều cấp cứu",
+   "subtopic": "Pha G10% từ G30% để bolus",
+   "bloom": "vận dụng",
+   "difficulty": 2,
+   "source": "Phép tính thực hành — ngoài barem; liều bolus theo barem",
+   "text": "Trẻ 3 kg, glucose 0,6 mmol/L, đã có tĩnh mạch nhưng tủ trực chỉ còn glucose 30% và nước cất. Cần tiêm đúng liều G10% 2,5 ml/kg của barem.\nPha thế nào để được đủ lượng G10% cần tiêm?",
+   "options": [
+    "2,5 ml G30% + 5,0 ml nước cất",
+    "3,75 ml G30% + 3,75 ml nước cất",
+    "5,0 ml G30% + 2,5 ml nước cất",
+    "7,5 ml G30% + 15,0 ml nước cất"
+   ],
+   "correct": 0,
+   "explanation": "Cần 7,5 ml G10% (= 750 mg glucose). G30% → G10% là pha loãng 3 lần: <b>1 phần G30% + 2 phần nước cất</b> → 2,5 ml G30% (750 mg) + 5 ml nước cất = 7,5 ml G10%. Mẹo kiểm: lượng glucose phải đúng 250 mg/kg.",
+   "option_explanations": [
+    "Đúng — 750 mg glucose trong 7,5 ml = G10%, đúng 2,5 ml/kg.",
+    "Sai — pha 1:1 cho G15%.",
+    "Sai — pha 2:1 cho G20%, quá đậm.",
+    "Sai — nồng độ đúng 10% nhưng tổng 22,5 ml = 7,5 ml/kg, gấp 3 liều (pha 7,5 ml G30% thay vì 7,5 ml G10%)."
+   ]
+  },
+  {
+   "id": "P17C-D01",
+   "type": "vignette",
+   "topic": "Tốc độ truyền & dịch duy trì",
+   "subtopic": "Duy trì mức A ra ml/giờ",
+   "bloom": "vận dụng",
+   "difficulty": 1,
+   "source": "Barem PED-17 mục 4.2 (trang 50–51)",
+   "text": "Trẻ 3 kg mức A vừa được tiêm bolus glucose 10%. Bác sĩ cài bơm truyền duy trì glucose 10% theo barem.\nTốc độ bơm là bao nhiêu ml/giờ?",
+   "options": [
+    "2,5 ml/giờ",
+    "7,5 ml/giờ",
+    "18,0 ml/giờ",
+    "180,0 ml/giờ"
+   ],
+   "correct": 1,
+   "explanation": "Mức A duy trì <b>G10% 60 ml/kg/ngày</b> → 60 × 3 = 180 ml/ngày ÷ 24 = <b>7,5 ml/giờ</b>.",
+   "option_explanations": [
+    "Sai — 60 ÷ 24 = 2,5 là ml/kg/giờ, quên nhân cân nặng.",
+    "Đúng — 180 ml/ngày ÷ 24 giờ = 7,5 ml/giờ.",
+    "Sai — chia 180 cho 10 thay vì 24.",
+    "Sai — 180 là ml/ngày, chưa chia 24 giờ."
+   ]
+  },
+  {
+   "id": "P17C-D02",
+   "type": "vignette",
+   "topic": "Tốc độ truyền & dịch duy trì",
+   "subtopic": "Duy trì mức B ra ml/giờ",
+   "bloom": "vận dụng",
+   "difficulty": 2,
+   "source": "Barem PED-17 mục 4.2 mức B",
+   "text": "Trẻ 2,8 kg mức B, sau khi uống đường 40% và bú, glucose trước bữa thứ 3 là 1,8 mmol/L. Cần truyền glucose 10% duy trì theo barem.\nKhoảng tốc độ bơm phù hợp là bao nhiêu ml/giờ?",
+   "options": [
+    "3,3 – 5,0 ml/giờ",
+    "7,0 – 10,5 ml/giờ",
+    "9,3 – 14,0 ml/giờ",
+    "224 – 336 ml/giờ"
+   ],
+   "correct": 2,
+   "explanation": "Mức B truyền <b>G10% 80 – 120 ml/kg/ngày</b> → 80 × 2,8 ÷ 24 = 9,3; 120 × 2,8 ÷ 24 = 14,0 → <b>9,3 – 14,0 ml/giờ</b>.",
+   "option_explanations": [
+    "Sai — 80/24 và 120/24 là ml/kg/giờ, quên nhân cân nặng.",
+    "Sai — dùng 60 – 90 ml/kg/ngày; mức B barem là 80 – 120.",
+    "Đúng — 224 – 336 ml/ngày ÷ 24 giờ.",
+    "Sai — 224 – 336 là ml/ngày, chưa chia 24 giờ."
+   ]
+  },
+  {
+   "id": "P17C-D03",
+   "type": "vignette",
+   "topic": "Tốc độ truyền & dịch duy trì",
+   "subtopic": "Bẫy: dịch mức B nhiều hơn mức A",
+   "bloom": "vận dụng",
+   "difficulty": 2,
+   "source": "Barem PED-17 mục 4.2 mức A, B",
+   "text": "Trẻ 3 kg, glucose 1,6 mmol/L, không triệu chứng; đã uống đường 40% 200 mg/kg và bú. Trước bữa thứ 3, glucose còn 1,9 mmol/L, trẻ vẫn tỉnh, bú được.\nY lệnh nào đúng barem?",
+   "options": [
+    "Tiếp tục hỗ trợ bú, theo dõi dấu hiệu lâm sàng",
+    "Truyền glucose 10% 7,5 ml/giờ, theo dõi 3 giờ/lần",
+    "Truyền glucose 10% 10 – 15 ml/giờ, theo dõi 3 giờ/lần",
+    "Tiêm glucose 10% 7,5 ml rồi truyền 7,5 ml/giờ"
+   ],
+   "correct": 2,
+   "explanation": "1,9 mmol/L ≤ 2,0 → mức B chuyển sang <b>truyền G10% 80 – 120 ml/kg/ngày</b> = 240 – 360 ml/ngày = <b>10 – 15 ml/giờ</b>, theo dõi 3 giờ/lần. Không bolus vì trẻ không triệu chứng và ĐH > 1,0.",
+   "option_explanations": [
+    "Sai — tiếp tục bú chỉ khi ĐH ≥ 2,0 mmol/L.",
+    "Sai — 60 ml/kg/ngày (7,5 ml/giờ) là duy trì của mức A; mức B dùng 80 – 120.",
+    "Đúng — ĐH ≤ 2,0 ở mức B → G10% 80 – 120 ml/kg/ngày.",
+    "Sai — tiêm bolus là mức A (< 1,0 mmol/L hoặc có triệu chứng)."
+   ]
+  },
+  {
+   "id": "P17C-G01",
+   "type": "vignette",
+   "topic": "Tính GIR",
+   "subtopic": "GIR của duy trì mức A",
+   "bloom": "vận dụng",
+   "difficulty": 1,
+   "source": "Barem PED-17 mục 4.2 (trang 50–51)",
+   "text": "Trẻ đang truyền glucose 10% 60 ml/kg/ngày theo barem mức A. Bác sĩ muốn biết tốc độ đường thực tế.\nTốc độ truyền đường (GIR) là bao nhiêu mg/kg/phút?",
+   "options": [
+    "4,2 mg/kg/phút",
+    "6,0 mg/kg/phút",
+    "8,3 mg/kg/phút",
+    "25,0 mg/kg/phút"
+   ],
+   "correct": 0,
+   "explanation": "GIR = ml/kg/ngày × % ÷ 144 = 60 × 10 ÷ 144 = <b>4,17 ≈ 4,2 mg/kg/phút</b>.",
+   "option_explanations": [
+    "Đúng — 60 × 10 ÷ 144 ≈ 4,2.",
+    "Sai — 60 ÷ 10: bỏ qua đổi ngày sang phút.",
+    "Sai — 8,3 là GIR của 120 ml/kg/ngày (cận trên mức B).",
+    "Sai — 60 × 10 ÷ 24 chỉ đổi ngày sang giờ, chưa sang phút."
+   ]
+  },
+  {
+   "id": "P17C-G02",
+   "type": "vignette",
+   "topic": "Tính GIR",
+   "subtopic": "GIR cận trên mức B",
+   "bloom": "vận dụng",
+   "difficulty": 1,
+   "source": "Barem PED-17 mục 4.2 mức B",
+   "text": "Một trẻ mức B được truyền glucose 10% ở mức cao nhất của khoảng barem cho phép.\nTốc độ truyền đường (GIR) tương ứng là bao nhiêu mg/kg/phút?",
+   "options": [
+    "0,8 mg/kg/phút",
+    "5,0 mg/kg/phút",
+    "5,6 mg/kg/phút",
+    "8,3 mg/kg/phút"
+   ],
+   "correct": 3,
+   "explanation": "Cận trên mức B = <b>120 ml/kg/ngày</b> → 120 × 10 ÷ 144 = <b>8,3 mg/kg/phút</b> (đã vượt mốc 8 của barem).",
+   "option_explanations": [
+    "Sai — 120 ÷ 144, quên nhân nồng độ 10.",
+    "Sai — 120 ÷ 24 = 5 là ml/kg/giờ, chưa đổi ra mg/kg/phút.",
+    "Sai — 5,6 là GIR ở cận dưới 80 ml/kg/ngày.",
+    "Đúng — 120 × 10 ÷ 144 ≈ 8,3 (đã vượt mốc 8 của barem)."
+   ]
+  },
+  {
+   "id": "P17C-G03",
+   "type": "vignette",
+   "topic": "Tính GIR",
+   "subtopic": "GIR từ ml/giờ",
+   "bloom": "vận dụng",
+   "difficulty": 2,
+   "source": "Phép tính thực hành — ngoài barem",
+   "text": "Trẻ 3 kg đang truyền glucose 10% với bơm 9 ml/giờ.\nTốc độ truyền đường (GIR) là bao nhiêu mg/kg/phút?",
+   "options": [
+    "3,0 mg/kg/phút",
+    "5,0 mg/kg/phút",
+    "7,2 mg/kg/phút",
+    "15,0 mg/kg/phút"
+   ],
+   "correct": 1,
+   "explanation": "9 ml/giờ ÷ 3 kg = 3 ml/kg/giờ. GIR = ml/kg/giờ × % ÷ 6 = 3 × 10 ÷ 6 = <b>5,0 mg/kg/phút</b> (hoặc 72 ml/kg/ngày × 10 ÷ 144 = 5,0).",
+   "option_explanations": [
+    "Sai — 3 là ml/kg/giờ, chưa đổi ra mg/kg/phút.",
+    "Đúng — 3 ml/kg/giờ × 100 mg/ml ÷ 60 phút = 5.",
+    "Sai — 72 ml/kg/ngày × 10 ÷ 100: chia 100 thay cho 144.",
+    "Sai — 9 × 10 ÷ 6, quên chia cân nặng."
+   ]
+  },
+  {
+   "id": "P17C-G04",
+   "type": "vignette",
+   "topic": "Tính GIR",
+   "subtopic": "GIR với G12,5%",
+   "bloom": "vận dụng",
+   "difficulty": 2,
+   "source": "Phép tính thực hành — ngoài barem",
+   "text": "Trẻ được truyền glucose 12,5% với 80 ml/kg/ngày qua đường tĩnh mạch.\nTốc độ truyền đường (GIR) là bao nhiêu mg/kg/phút (làm tròn 1 chữ số thập phân)?",
+   "options": [
+    "5,6 mg/kg/phút",
+    "6,9 mg/kg/phút",
+    "8,0 mg/kg/phút",
+    "10,0 mg/kg/phút"
+   ],
+   "correct": 1,
+   "explanation": "GIR = 80 × 12,5 ÷ 144 = <b>6,9 mg/kg/phút</b>.",
+   "option_explanations": [
+    "Sai — tính như G10% (80 × 10 ÷ 144).",
+    "Đúng — 1000 ÷ 144 ≈ 6,9.",
+    "Sai — 80 ÷ 10, bỏ qua nồng độ và đổi phút.",
+    "Sai — 80 × 12,5 ÷ 100 (chia 100 thay cho 144)."
+   ]
+  },
+  {
+   "id": "P17C-G05",
+   "type": "vignette",
+   "topic": "Tính GIR",
+   "subtopic": "GIR từ ml/giờ với G15%",
+   "bloom": "vận dụng",
+   "difficulty": 3,
+   "source": "Phép tính thực hành — ngoài barem",
+   "text": "Trẻ 2,5 kg truyền glucose 15% qua catheter tĩnh mạch trung tâm với bơm 6 ml/giờ.\nTốc độ truyền đường (GIR) là bao nhiêu mg/kg/phút?",
+   "options": [
+    "2,4 mg/kg/phút",
+    "3,6 mg/kg/phút",
+    "6,0 mg/kg/phút",
+    "15,0 mg/kg/phút"
+   ],
+   "correct": 2,
+   "explanation": "6 ÷ 2,5 = 2,4 ml/kg/giờ → GIR = 2,4 × 15 ÷ 6 = <b>6,0 mg/kg/phút</b>.",
+   "option_explanations": [
+    "Sai — 2,4 là ml/kg/giờ.",
+    "Sai — 2,4 × 15 ÷ 10: chia sai hệ số (đúng là ÷ 6).",
+    "Đúng — 2,4 ml/kg/giờ × 150 mg/ml ÷ 60 = 6,0.",
+    "Sai — 6 × 15 ÷ 6, quên chia cân nặng."
+   ]
+  },
+  {
+   "id": "P17C-I01",
+   "type": "vignette",
+   "topic": "Tăng tốc độ truyền đường",
+   "subtopic": "Tăng GIR bằng thể tích",
+   "bloom": "vận dụng",
+   "difficulty": 2,
+   "source": "Barem PED-17 mục 4.2 (trang 50–51) (hiểu 'tăng 2 mg/kg/phút' là tăng thêm 2)",
+   "text": "Trẻ 3 kg mức A đang truyền glucose 10% 60 ml/kg/ngày; 30 phút sau glucose 0,9 mmol/L. Sau bolus lại, bác sĩ tăng tốc độ đường thêm 2 mg/kg/phút, giữ nguyên glucose 10%.\nTốc độ bơm mới là bao nhiêu ml/giờ?",
+   "options": [
+    "7,5 ml/giờ",
+    "7,8 ml/giờ",
+    "10,0 ml/giờ",
+    "11,1 ml/giờ"
+   ],
+   "correct": 3,
+   "explanation": "GIR cũ 4,17 → mới 6,17 mg/kg/phút. Thể tích G10% = 6,17 × 144 ÷ 10 = <b>88,8 ml/kg/ngày</b> → × 3 ÷ 24 = <b>11,1 ml/giờ</b>. (Mẹo: với G10%, mỗi +1 mg/kg/phút = +14,4 ml/kg/ngày.)",
+   "option_explanations": [
+    "Sai — giữ nguyên tốc độ cũ, chưa tăng gì.",
+    "Sai — cộng 2 ml/kg/ngày thay vì 2 mg/kg/phút.",
+    "Sai — tăng lên 80 ml/kg/ngày (cộng 20), không đúng phép quy đổi.",
+    "Đúng — 88,8 ml/kg/ngày × 3 kg ÷ 24 = 11,1 ml/giờ."
+   ]
+  },
+  {
+   "id": "P17C-I02",
+   "type": "vignette",
+   "topic": "Tăng tốc độ truyền đường",
+   "subtopic": "Tăng GIR bằng nồng độ",
+   "bloom": "vận dụng",
+   "difficulty": 2,
+   "source": "Barem PED-17 mục 4.2 (trang 50–51)",
+   "text": "Trẻ 3 kg mức A truyền glucose 10% 60 ml/kg/ngày, phải hạn chế dịch nên giữ nguyên thể tích. Bác sĩ tăng tốc độ đường thêm 2 mg/kg/phút bằng cách tăng nồng độ.\nNồng độ glucose mới và đường truyền phù hợp là gì?",
+   "options": [
+    "12,0% — truyền được qua tĩnh mạch ngoại vi",
+    "14,8% — truyền được qua tĩnh mạch ngoại vi",
+    "14,8% — phải truyền qua tĩnh mạch trung tâm",
+    "20,0% — phải truyền qua tĩnh mạch trung tâm"
+   ],
+   "correct": 2,
+   "explanation": "Nồng độ = GIR × 144 ÷ thể tích = 6,17 × 144 ÷ 60 = <b>14,8%</b> > 12,5% → barem: <b>truyền qua tĩnh mạch trung tâm</b>.",
+   "option_explanations": [
+    "Sai — cộng 2 vào nồng độ (10% + 2) chứ không phải vào GIR.",
+    "Sai — nồng độ đúng, nhưng barem cấm truyền ngoại vi khi > 12,5%.",
+    "Đúng — 14,8% vượt 12,5% → TM trung tâm.",
+    "Sai — nhân đôi nồng độ; GIR khi đó là 8,3 chứ không phải 6,17."
+   ]
+  },
+  {
+   "id": "P17C-I03",
+   "type": "vignette",
+   "topic": "Tăng tốc độ truyền đường",
+   "subtopic": "GIR tối đa qua TM ngoại vi",
+   "bloom": "vận dụng",
+   "difficulty": 3,
+   "source": "Barem PED-17 mục 4.2 (trang 50–51)",
+   "text": "Trẻ 2 kg phải giữ dịch truyền 80 ml/kg/ngày và chưa có catheter tĩnh mạch trung tâm, nên nồng độ glucose không được vượt mức barem cho phép truyền ngoại vi.\nTốc độ đường (GIR) cao nhất đạt được là bao nhiêu mg/kg/phút?",
+   "options": [
+    "6,9 mg/kg/phút",
+    "8,0 mg/kg/phút",
+    "8,3 mg/kg/phút",
+    "10,0 mg/kg/phút"
+   ],
+   "correct": 0,
+   "explanation": "Nồng độ tối đa ngoại vi theo barem = <b>12,5%</b> → GIR = 80 × 12,5 ÷ 144 = <b>6,9 mg/kg/phút</b>. Muốn cao hơn phải tăng thể tích hoặc đặt TM trung tâm.",
+   "option_explanations": [
+    "Đúng — 80 × 12,5 ÷ 144 ≈ 6,9.",
+    "Sai — 8 là mốc làm xét nghiệm cường insulin, không phải giới hạn ngoại vi.",
+    "Sai — 8,3 là GIR của G10% 120 ml/kg/ngày, vượt thể tích được phép.",
+    "Sai — 80 × 12,5 ÷ 100."
+   ]
+  },
+  {
+   "id": "P17C-I04",
+   "type": "vignette",
+   "topic": "Tăng tốc độ truyền đường",
+   "subtopic": "Mốc 8 mg/kg/phút",
+   "bloom": "vận dụng",
+   "difficulty": 2,
+   "source": "Barem PED-17 mục 4.2 (trang 50–51)",
+   "text": "Trẻ 3 kg truyền glucose 10% 100 ml/kg/ngày; glucose vẫn 0,9 mmol/L nên bác sĩ tăng thêm 2 mg/kg/phút bằng cách tăng thể tích glucose 10%.\nTheo barem, việc nào cần làm thêm ở bước này, và vì sao?",
+   "options": [
+    "Đặt catheter tĩnh mạch trung tâm, vì nồng độ glucose đã vượt 12,5%",
+    "Làm xét nghiệm cường insulin, vì tốc độ đường đã vượt 8 mg/kg/phút",
+    "Đặt catheter tĩnh mạch trung tâm, vì tốc độ đường đã vượt 8 mg/kg/phút",
+    "Làm xét nghiệm cường insulin, vì nồng độ glucose đã vượt 12,5%"
+   ],
+   "correct": 1,
+   "explanation": "GIR = 100 × 10 ÷ 144 + 2 = <b>8,9 > 8 mg/kg/phút</b> → barem: <b>làm xét nghiệm cường insulin, thảo luận chuyên khoa nội tiết</b>. Vẫn dùng G10% (< 12,5%) nên chưa bắt buộc TM trung tâm.",
+   "option_explanations": [
+    "Sai — vẫn dùng G10% nên nồng độ chưa vượt 12,5%.",
+    "Đúng — GIR = 100 × 10 ÷ 144 + 2 ≈ 8,9 > 8.",
+    "Sai — mốc TM trung tâm là nồng độ > 12,5%, không phải GIR > 8.",
+    "Sai — đúng việc nhưng sai lý do: nồng độ vẫn 10%; mốc tìm cường insulin là GIR > 8."
+   ]
+  },
+  {
+   "id": "P17C-M01",
+   "type": "calc",
+   "topic": "Pha dung dịch glucose",
+   "subtopic": "Pha G12,5% từ G10% + G30%",
+   "bloom": "vận dụng",
+   "difficulty": 2,
+   "source": "Phép tính thực hành — ngoài barem",
+   "text": "Bác sĩ chỉ định truyền glucose 12,5%; điều dưỡng cần pha một bơm 80 ml từ glucose 10% và glucose 30% (quy tắc đường chéo).\nCần bao nhiêu ml mỗi loại?",
+   "options": [
+    "G10% 70 ml + G30% 10 ml",
+    "G10% 64 ml + G30% 16 ml",
+    "G10% 60 ml + G30% 20 ml",
+    "G10% 40 ml + G30% 40 ml"
+   ],
+   "correct": 0,
+   "explanation": "Phần G30% = (đích − 10) ÷ (30 − 10) = 2,5 ÷ 20 = 1/8 → 80 ÷ 8 = <b>10 ml G30% + 70 ml G10%</b>. Kiểm: (7000 + 3000) mg ÷ 80 ml = 125 mg/ml.",
+   "option_explanations": [
+    "Đúng — 1/8 thể tích là G30%.",
+    "Sai — cho 14%.",
+    "Sai — cho 15%.",
+    "Sai — cho 20%."
+   ]
+  },
+  {
+   "id": "P17C-M02",
+   "type": "calc",
+   "topic": "Pha dung dịch glucose",
+   "subtopic": "Pha G15% từ G10% + G30%",
+   "bloom": "vận dụng",
+   "difficulty": 2,
+   "source": "Phép tính thực hành — ngoài barem",
+   "text": "Bơm tiêm 50 ml cần chứa glucose 15% để truyền qua catheter trung tâm; khoa có glucose 10% và glucose 30%.\nPha như thế nào?",
+   "options": [
+    "G10% 45 ml + G30% 5 ml",
+    "G10% 42,5 ml + G30% 7,5 ml",
+    "G10% 40 ml + G30% 10 ml",
+    "G10% 37,5 ml + G30% 12,5 ml"
+   ],
+   "correct": 3,
+   "explanation": "Phần G30% = (15 − 10) ÷ 20 = 25% → 0,25 × 50 = <b>12,5 ml G30% + 37,5 ml G10%</b>.",
+   "option_explanations": [
+    "Sai — cho 12%.",
+    "Sai — cho 13%.",
+    "Sai — cho 14%.",
+    "Đúng — (3750 + 3750) mg ÷ 50 ml = 150 mg/ml."
+   ]
+  },
+  {
+   "id": "P17C-M03",
+   "type": "calc",
+   "topic": "Pha dung dịch glucose",
+   "subtopic": "Pha G12,5% từ G5% + G30%",
+   "bloom": "vận dụng",
+   "difficulty": 3,
+   "source": "Phép tính thực hành — ngoài barem",
+   "text": "Khoa chỉ có glucose 5% và glucose 30%; cần 60 ml glucose 12,5%.\nPha như thế nào?",
+   "options": [
+    "G5% 52,5 ml + G30% 7,5 ml",
+    "G5% 45 ml + G30% 15 ml",
+    "G5% 42 ml + G30% 18 ml",
+    "G5% 30 ml + G30% 30 ml"
+   ],
+   "correct": 2,
+   "explanation": "Phần G30% = (12,5 − 5) ÷ (30 − 5) = 7,5 ÷ 25 = 30% → 0,3 × 60 = <b>18 ml G30% + 42 ml G5%</b>.",
+   "option_explanations": [
+    "Sai — dùng công thức của G10% (12,5% thể tích); với G5% chỉ ra 8,1%.",
+    "Sai — cho 11,25%.",
+    "Đúng — (2100 + 5400) mg ÷ 60 ml = 125 mg/ml.",
+    "Sai — cho 17,5%."
+   ]
+  },
+  {
+   "id": "P17C-M04",
+   "type": "vignette",
+   "topic": "Pha dung dịch glucose",
+   "subtopic": "Kiểm nồng độ sau khi trộn",
+   "bloom": "vận dụng",
+   "difficulty": 2,
+   "source": "Phép tính thực hành — ngoài barem; mốc 12,5% theo barem",
+   "text": "Điều dưỡng trộn 40 ml glucose 10% với 10 ml glucose 30% để truyền tiếp cho trẻ đang có đường truyền ngoại vi.\nNồng độ của bơm này và đường truyền theo barem là gì?",
+   "options": [
+    "12,0% — truyền được qua tĩnh mạch ngoại vi",
+    "14,0% — phải truyền qua tĩnh mạch trung tâm",
+    "14,0% — truyền được qua tĩnh mạch ngoại vi",
+    "20,0% — phải truyền qua tĩnh mạch trung tâm"
+   ],
+   "correct": 1,
+   "explanation": "(40 × 100 + 10 × 300) mg ÷ 50 ml = 7000 ÷ 50 = 140 mg/ml = <b>14%</b> > 12,5% → <b>tĩnh mạch trung tâm</b>.",
+   "option_explanations": [
+    "Sai — 12% không khớp với lượng glucose thực có trong bơm (7000 mg/50 ml).",
+    "Đúng — 14% vượt 12,5%.",
+    "Sai — nồng độ đúng nhưng vượt ngưỡng ngoại vi của barem.",
+    "Sai — lấy trung bình cộng (10 + 30) ÷ 2."
+   ]
+  },
+  {
+   "id": "P17C-K01",
+   "type": "vignette",
+   "topic": "Ca lâm sàng tổng hợp",
+   "subtopic": "Y lệnh ban đầu mức A",
+   "bloom": "vận dụng",
+   "difficulty": 2,
+   "source": "Barem PED-17 mục 4.2 (trang 50–51)",
+   "text": "Trẻ 3 kg, 6 giờ tuổi, co giật; glucose 0,9 mmol/L. Đã đặt được đường truyền tĩnh mạch.\nY lệnh ban đầu nào đúng barem?",
+   "options": [
+    "Tiêm glucose 10% 6 ml, rồi truyền glucose 10% 7,5 ml/giờ",
+    "Tiêm glucose 10% 7,5 ml, rồi truyền glucose 10% 7,5 ml/giờ",
+    "Tiêm glucose 10% 6 ml, rồi truyền glucose 10% 10 ml/giờ",
+    "Tiêm glucose 10% 7,5 ml, rồi truyền glucose 10% 10 ml/giờ"
+   ],
+   "correct": 1,
+   "explanation": "Mức A: bolus <b>G10% 2,5 ml/kg = 7,5 ml</b>, duy trì <b>G10% 60 ml/kg/ngày = 7,5 ml/giờ</b>. Thử lại sau 30 phút.",
+   "option_explanations": [
+    "Sai — bolus 6 ml là 2 ml/kg của AAP; barem dùng 2,5 ml/kg = 7,5 ml.",
+    "Đúng — 2,5 ml/kg và 60 ml/kg/ngày (180 ml/ngày ÷ 24).",
+    "Sai — đây là phác đồ AAP (bolus 2 ml/kg, duy trì 80 ml/kg/ngày), không phải barem.",
+    "Sai — bolus đúng nhưng 10 ml/giờ = 80 ml/kg/ngày là mức B; mức A duy trì 60 ml/kg/ngày."
+   ]
+  },
+  {
+   "id": "P17C-K02",
+   "type": "vignette",
+   "topic": "Ca lâm sàng tổng hợp",
+   "subtopic": "Glucagon khi chưa có tĩnh mạch",
+   "bloom": "vận dụng",
+   "difficulty": 2,
+   "source": "Barem PED-17 mục 4.2 (trang 50–51)",
+   "text": "Trẻ 2,5 kg, glucose 0,7 mmol/L, li bì; đặt tĩnh mạch thất bại, đặt ống thông dạ dày cũng chưa được do trẻ trào ngược nhiều. Chọn glucagon tiêm bắp.\nLiều glucagon đúng barem là bao nhiêu?",
+   "options": [
+    "0,05 mg",
+    "0,2 mg",
+    "0,25 mg",
+    "0,5 mg"
+   ],
+   "correct": 3,
+   "explanation": "200 µg/kg × 2,5 kg = 500 µg = <b>0,5 mg</b> tiêm bắp, cho tới khi có đường tĩnh mạch.",
+   "option_explanations": [
+    "Sai — 50 µg (sai 10 lần khi đổi đơn vị).",
+    "Sai — 0,2 mg là liều cho 1 kg.",
+    "Sai — dùng 100 µg/kg; barem là 200 µg/kg.",
+    "Đúng — 200 µg/kg × 2,5 kg = 500 µg = 0,5 mg."
+   ]
+  },
+  {
+   "id": "P17C-K03",
+   "type": "vignette",
+   "topic": "Ca lâm sàng tổng hợp",
+   "subtopic": "Y lệnh mức B",
+   "bloom": "vận dụng",
+   "difficulty": 2,
+   "source": "Barem PED-17 mục 4.2 mức B",
+   "text": "Trẻ 3,6 kg, 8 giờ tuổi, mẹ tiểu đường; glucose 1,4 mmol/L, tỉnh, bú tốt, không triệu chứng.\nY lệnh nào đúng barem?",
+   "options": [
+    "Cho uống glucose 40% 1,8 ml, hỗ trợ bú, thử lại trước bữa thứ 3",
+    "Cho uống glucose 40% 1,8 ml, hỗ trợ bú, thử lại sau 30 phút",
+    "Cho uống glucose 40% 2,25 ml, hỗ trợ bú, thử lại trước bữa thứ 3",
+    "Cho uống glucose 40% 2,25 ml, hỗ trợ bú, thử lại sau 30 phút"
+   ],
+   "correct": 0,
+   "explanation": "1,0 – 2,0 mmol/L, không triệu chứng → mức B: <b>đường 40% 200 mg/kg</b> = 720 mg ÷ 400 = <b>1,8 ml</b>, hỗ trợ bú, thử lại <b>trước bữa thứ 3</b> (không quá 8 giờ).",
+   "option_explanations": [
+    "Đúng — 200 mg/kg × 3,6 kg = 720 mg ÷ 400 mg/ml = 1,8 ml; thử lại trước bữa thứ 3 (không quá 8 giờ).",
+    "Sai — liều đúng nhưng thử lại sau 30 phút là lịch của mức A.",
+    "Sai — 2,25 ml = 250 mg/kg (nhầm với lượng glucose của bolus G10% 2,5 ml/kg); mức B là 200 mg/kg.",
+    "Sai — sai cả liều (250 mg/kg) lẫn lịch thử lại (30 phút là của mức A)."
+   ]
+  },
+  {
+   "id": "P17C-K04",
+   "type": "vignette",
+   "topic": "Ca lâm sàng tổng hợp",
+   "subtopic": "Thử lại mức A: 1,0 – 2,6",
+   "bloom": "vận dụng",
+   "difficulty": 3,
+   "source": "Barem PED-17 mục 4.2 (trang 50–51)",
+   "text": "Trẻ 3 kg mức A đã tiêm bolus và truyền glucose 10% 7,5 ml/giờ. Thử lại sau 30 phút: glucose 1,8 mmol/L, hết co giật, bú được.\nXử trí tiếp theo nào đúng barem?",
+   "options": [
+    "Tiêm lại glucose 10% 7,5 ml, tăng truyền lên 11,1 ml/giờ, tiếp tục cho ăn",
+    "Không tiêm lại, tăng truyền lên 11,1 ml/giờ, tạm ngừng cho ăn",
+    "Không tiêm lại, tăng truyền lên 11,1 ml/giờ, tiếp tục cho ăn",
+    "Không tiêm lại, giảm dần tốc độ truyền, tiếp tục cho ăn"
+   ],
+   "correct": 2,
+   "explanation": "1,0 < ĐH < 2,6 sau điều trị mức A: <b>tăng tốc độ đường thêm 2 mg/kg/phút</b> (G10% 88,8 ml/kg/ngày = 11,1 ml/giờ), <b>tiếp tục cho ăn</b>, thử lại sau 30 phút. Không bolus lại vì ĐH > 1,0 và hết triệu chứng.",
+   "option_explanations": [
+    "Sai — tiêm lại chỉ khi ĐH vẫn < 1,0 hoặc còn triệu chứng.",
+    "Sai — barem ghi tiếp tục cho trẻ ăn nếu không có chống chỉ định; trẻ đang bú được.",
+    "Đúng — 1,0 < ĐH < 2,6: tăng 2 mg/kg/phút, cho ăn, thử lại sau 30 phút.",
+    "Sai — giảm dần chỉ khi ĐH ≥ 2,6 mmol/L."
+   ]
+  },
+  {
+   "id": "P17C-K05",
+   "type": "vignette",
+   "topic": "Ca lâm sàng tổng hợp",
+   "subtopic": "Đích dừng ở trẻ cường insulin",
+   "bloom": "vận dụng",
+   "difficulty": 3,
+   "source": "Barem PED-17 mục 4.2 (trang 50–51)",
+   "text": "Trẻ 3 kg cường insulin đã ăn hoàn toàn; hai lần thử liên tiếp glucose 2,8 và 3,0 mmol/L.\nTheo barem, xử trí tiếp theo là gì?",
+   "options": [
+    "Dừng điều trị tích cực, chuyển sang theo dõi khi ĐH bình thường",
+    "Tiếp tục điều trị và theo dõi đến khi ĐH > 2,6 ở 2 lần liên tiếp",
+    "Ngừng truyền ngay, thử lại đường huyết sau 12 giờ",
+    "Tiếp tục điều trị và theo dõi đến khi ĐH > 3,5 ở 2 lần liên tiếp"
+   ],
+   "correct": 3,
+   "explanation": "Đích barem: ĐH <b>> 2,5 mmol/L</b>, riêng trẻ <b>cường insulin > 3,5 mmol/L</b>, ở 2 lần liên tiếp. 2,8 và 3,0 chưa đạt.",
+   "option_explanations": [
+    "Sai — đúng với trẻ không cường insulin (đích > 2,5).",
+    "Sai — 2,6 là mốc định nghĩa, không phải đích cho trẻ cường insulin.",
+    "Sai — barem giảm dần tốc độ truyền, không ngừng đột ngột.",
+    "Đúng — trẻ cường insulin cần > 3,5 mmol/L."
+   ]
+  },
+  {
+   "id": "P17C-F01",
+   "type": "vignette",
+   "topic": "Cho ăn & theo dõi",
+   "subtopic": "Lượng ăn khi chuyển từ truyền sang ăn",
+   "bloom": "vận dụng",
+   "difficulty": 2,
+   "source": "Barem PED-17 theo dõi khi ĐH bình thường; mức C (8 bữa/ngày)",
+   "text": "Trẻ 3,5 kg, đường huyết đã ổn định khi truyền tĩnh mạch. Bắt đầu cho ăn theo barem, chia 8 bữa/ngày.\nMỗi bữa cho ăn bao nhiêu ml (làm tròn 1 chữ số thập phân)?",
+   "options": [
+    "8,8 ml",
+    "20,0 ml",
+    "35,0 ml",
+    "70,0 ml"
+   ],
+   "correct": 0,
+   "explanation": "Barem: bắt đầu cho ăn <b>20 ml/kg/ngày</b> → 20 × 3,5 = 70 ml/ngày ÷ 8 bữa = <b>8,8 ml/bữa</b>; sau đó tăng dần ăn, giảm dần dịch.",
+   "option_explanations": [
+    "Đúng — 70 ml/ngày chia 8 bữa.",
+    "Sai — 20 là ml/kg/ngày, không phải ml/bữa.",
+    "Sai — 70 ml chia 2 bữa.",
+    "Sai — 70 ml là tổng cả ngày."
+   ]
+  },
+  {
+   "id": "P17C-F02",
+   "type": "vignette",
+   "topic": "Cho ăn & theo dõi",
+   "subtopic": "Lịch thử ĐH khi không truyền",
+   "bloom": "vận dụng",
+   "difficulty": 1,
+   "source": "Barem PED-17 theo dõi khi ĐH bình thường",
+   "text": "Trẻ mức C, không phải truyền tĩnh mạch; glucose đã > 2,6 mmol/L ở 2 lần liên tiếp.\nLịch thử đường huyết tiếp theo theo barem là gì?",
+   "options": [
+    "Thử 3 giờ/lần đến khi đạt 2,6 ở 2 lần liên tiếp",
+    "Thử 12 giờ/lần trong suốt thời gian còn nằm viện",
+    "Không cần thử lại đường huyết",
+    "Thử 12 giờ/lần trong 24 giờ (thêm 2 lần)"
+   ],
+   "correct": 3,
+   "explanation": "Không truyền TM: <b>ĐH 12 giờ/lần trong 24 giờ (làm thêm 2 lần)</b>; bình thường thì không cần xét nghiệm lại.",
+   "option_explanations": [
+    "Sai — 3 giờ/lần là lịch khi còn đang điều trị (mức B).",
+    "Sai — 12 giờ/lần kéo dài là lịch khi còn truyền dịch.",
+    "Sai — barem vẫn kiểm tra thêm 2 lần trong 24 giờ.",
+    "Đúng — 12 giờ/lần × 24 giờ."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,287 @@
+Câu 1: Một trẻ sơ sinh có kết quả glucose huyết thanh 30 mg/dL. Bác sĩ cần đối chiếu với các mốc mmol/L của barem.
+Giá trị này tương đương bao nhiêu mmol/L (làm tròn 1 chữ số thập phân)?
+A. 1,7 mmol/L
+B. 3,0 mmol/L
+C. 5,4 mmol/L
+D. 16,7 mmol/L
+Đáp án: A
+Giải thích: mmol/L = mg/dL ÷ 18 → 30 ÷ 18 = 1,7 mmol/L (thuộc khoảng 1,0 – 2,0 của mức B nếu không có triệu chứng).
+
+Câu 2: Barem ghi mốc mức B và mức C bằng mmol/L. Một điều dưỡng chỉ quen đọc máy theo mg/dL.
+Mốc 2,0 mmol/L tương đương bao nhiêu mg/dL?
+A. 0,1 mg/dL
+B. 11 mg/dL
+C. 20 mg/dL
+D. 36 mg/dL
+Đáp án: D
+Giải thích: mg/dL = mmol/L × 18 → 2,0 × 18 = 36 mg/dL. Barem cũng ghi cặp này: mức B < 36 mg/dL (2 mmol/L).
+
+Câu 3: Khoa có ống glucose 30% để pha dịch. Muốn tính liều theo mg, cần biết mỗi ml chứa bao nhiêu glucose.
+Mỗi ml glucose 30% chứa bao nhiêu mg glucose?
+A. 3 mg
+B. 30 mg
+C. 300 mg
+D. 3000 mg
+Đáp án: C
+Giải thích: Dung dịch x% = x g trong 100 ml = x × 10 mg/ml. G30% = 300 mg/ml; G10% = 100 mg/ml; G40% = 400 mg/ml.
+
+Câu 4: Trẻ sơ sinh 3,2 kg co giật, glucose 0,8 mmol/L; đã đặt được đường truyền tĩnh mạch.
+Theo barem, cần tiêm tĩnh mạch bao nhiêu ml glucose 10%?
+A. 2,5 ml
+B. 6,4 ml
+C. 8,0 ml
+D. 80,0 ml
+Đáp án: C
+Giải thích: Mức A (< 1,0 mmol/L hoặc có triệu chứng): G10% 2,5 ml/kg → 2,5 × 3,2 = 8,0 ml.
+
+Câu 5: Bác sĩ giải thích cho sinh viên liều bolus glucose 10% 2,5 ml/kg của barem theo lượng glucose.
+Liều đó tương ứng bao nhiêu mg glucose cho mỗi kg?
+A. 2,5 mg/kg
+B. 25 mg/kg
+C. 200 mg/kg
+D. 250 mg/kg
+Đáp án: D
+Giải thích: G10% = 100 mg/ml → 2,5 ml/kg × 100 = 250 mg/kg. (AAP dùng 2 ml/kg = 200 mg/kg.)
+
+Câu 6: Trẻ 2,5 kg, glucose 0,7 mmol/L, li bì; hai lần đặt đường truyền thất bại. Quyết định bơm glucose 40% qua ống thông dạ dày theo barem.
+Cần bơm bao nhiêu ml glucose 40%?
+A. 0,5 ml
+B. 1,25 ml
+C. 5,0 ml
+D. 12,5 ml
+Đáp án: B
+Giải thích: Liều 200 mg/kg × 2,5 kg = 500 mg; G40% = 400 mg/ml → 500 ÷ 400 = 1,25 ml (tức 0,5 ml/kg).
+
+Câu 7: Trẻ 3 kg, glucose 0,9 mmol/L, run chi; chưa tiếp cận được tĩnh mạch. Chọn glucagon tiêm bắp theo barem.
+Liều glucagon cần tiêm là bao nhiêu?
+A. 0,6 mg
+B. 6 mg
+C. 60 mg
+D. 600 mg
+Đáp án: A
+Giải thích: Barem: glucagon 200 µg/kg tiêm bắp → 200 × 3 = 600 µg = 0,6 mg.
+
+Câu 8: Trẻ 3 kg mức A chưa có đường tĩnh mạch; khoa hết glucose 40%, chỉ còn glucose 30%. Vẫn giữ liều glucose 200 mg/kg qua ống thông dạ dày.
+Cần bơm bao nhiêu ml glucose 30%?
+A. 1,5 ml
+B. 2,0 ml
+C. 6,0 ml
+D. 20,0 ml
+Đáp án: B
+Giải thích: 200 mg/kg × 3 = 600 mg; G30% = 300 mg/ml → 600 ÷ 300 = 2 ml. Đổi nồng độ thì giữ liều mg, tính lại ml.
+
+Câu 9: Trẻ 3 kg, glucose 0,6 mmol/L, đã có tĩnh mạch nhưng tủ trực chỉ còn glucose 30% và nước cất. Cần tiêm đúng liều G10% 2,5 ml/kg của barem.
+Pha thế nào để được đủ lượng G10% cần tiêm?
+A. 2,5 ml G30% + 5,0 ml nước cất
+B. 3,75 ml G30% + 3,75 ml nước cất
+C. 5,0 ml G30% + 2,5 ml nước cất
+D. 7,5 ml G30% + 15,0 ml nước cất
+Đáp án: A
+Giải thích: Cần 7,5 ml G10% (= 750 mg glucose). G30% → G10% là pha loãng 3 lần: 1 phần G30% + 2 phần nước cất → 2,5 ml G30% (750 mg) + 5 ml nước cất = 7,5 ml G10%. Mẹo kiểm: lượng glucose phải đúng 250 mg/kg.
+
+Câu 10: Trẻ 3 kg mức A vừa được tiêm bolus glucose 10%. Bác sĩ cài bơm truyền duy trì glucose 10% theo barem.
+Tốc độ bơm là bao nhiêu ml/giờ?
+A. 2,5 ml/giờ
+B. 7,5 ml/giờ
+C. 18,0 ml/giờ
+D. 180,0 ml/giờ
+Đáp án: B
+Giải thích: Mức A duy trì G10% 60 ml/kg/ngày → 60 × 3 = 180 ml/ngày ÷ 24 = 7,5 ml/giờ.
+
+Câu 11: Trẻ 2,8 kg mức B, sau khi uống đường 40% và bú, glucose trước bữa thứ 3 là 1,8 mmol/L. Cần truyền glucose 10% duy trì theo barem.
+Khoảng tốc độ bơm phù hợp là bao nhiêu ml/giờ?
+A. 3,3 – 5,0 ml/giờ
+B. 7,0 – 10,5 ml/giờ
+C. 9,3 – 14,0 ml/giờ
+D. 224 – 336 ml/giờ
+Đáp án: C
+Giải thích: Mức B truyền G10% 80 – 120 ml/kg/ngày → 80 × 2,8 ÷ 24 = 9,3; 120 × 2,8 ÷ 24 = 14,0 → 9,3 – 14,0 ml/giờ.
+
+Câu 12: Trẻ 3 kg, glucose 1,6 mmol/L, không triệu chứng; đã uống đường 40% 200 mg/kg và bú. Trước bữa thứ 3, glucose còn 1,9 mmol/L, trẻ vẫn tỉnh, bú được.
+Y lệnh nào đúng barem?
+A. Tiếp tục hỗ trợ bú, theo dõi dấu hiệu lâm sàng
+B. Truyền glucose 10% 7,5 ml/giờ, theo dõi 3 giờ/lần
+C. Truyền glucose 10% 10 – 15 ml/giờ, theo dõi 3 giờ/lần
+D. Tiêm glucose 10% 7,5 ml rồi truyền 7,5 ml/giờ
+Đáp án: C
+Giải thích: 1,9 mmol/L ≤ 2,0 → mức B chuyển sang truyền G10% 80 – 120 ml/kg/ngày = 240 – 360 ml/ngày = 10 – 15 ml/giờ, theo dõi 3 giờ/lần. Không bolus vì trẻ không triệu chứng và ĐH > 1,0.
+
+Câu 13: Trẻ đang truyền glucose 10% 60 ml/kg/ngày theo barem mức A. Bác sĩ muốn biết tốc độ đường thực tế.
+Tốc độ truyền đường (GIR) là bao nhiêu mg/kg/phút?
+A. 4,2 mg/kg/phút
+B. 6,0 mg/kg/phút
+C. 8,3 mg/kg/phút
+D. 25,0 mg/kg/phút
+Đáp án: A
+Giải thích: GIR = ml/kg/ngày × % ÷ 144 = 60 × 10 ÷ 144 = 4,17 ≈ 4,2 mg/kg/phút.
+
+Câu 14: Một trẻ mức B được truyền glucose 10% ở mức cao nhất của khoảng barem cho phép.
+Tốc độ truyền đường (GIR) tương ứng là bao nhiêu mg/kg/phút?
+A. 0,8 mg/kg/phút
+B. 5,0 mg/kg/phút
+C. 5,6 mg/kg/phút
+D. 8,3 mg/kg/phút
+Đáp án: D
+Giải thích: Cận trên mức B = 120 ml/kg/ngày → 120 × 10 ÷ 144 = 8,3 mg/kg/phút (đã vượt mốc 8 của barem).
+
+Câu 15: Trẻ 3 kg đang truyền glucose 10% với bơm 9 ml/giờ.
+Tốc độ truyền đường (GIR) là bao nhiêu mg/kg/phút?
+A. 3,0 mg/kg/phút
+B. 5,0 mg/kg/phút
+C. 7,2 mg/kg/phút
+D. 15,0 mg/kg/phút
+Đáp án: B
+Giải thích: 9 ml/giờ ÷ 3 kg = 3 ml/kg/giờ. GIR = ml/kg/giờ × % ÷ 6 = 3 × 10 ÷ 6 = 5,0 mg/kg/phút (hoặc 72 ml/kg/ngày × 10 ÷ 144 = 5,0).
+
+Câu 16: Trẻ được truyền glucose 12,5% với 80 ml/kg/ngày qua đường tĩnh mạch.
+Tốc độ truyền đường (GIR) là bao nhiêu mg/kg/phút (làm tròn 1 chữ số thập phân)?
+A. 5,6 mg/kg/phút
+B. 6,9 mg/kg/phút
+C. 8,0 mg/kg/phút
+D. 10,0 mg/kg/phút
+Đáp án: B
+Giải thích: GIR = 80 × 12,5 ÷ 144 = 6,9 mg/kg/phút.
+
+Câu 17: Trẻ 2,5 kg truyền glucose 15% qua catheter tĩnh mạch trung tâm với bơm 6 ml/giờ.
+Tốc độ truyền đường (GIR) là bao nhiêu mg/kg/phút?
+A. 2,4 mg/kg/phút
+B. 3,6 mg/kg/phút
+C. 6,0 mg/kg/phút
+D. 15,0 mg/kg/phút
+Đáp án: C
+Giải thích: 6 ÷ 2,5 = 2,4 ml/kg/giờ → GIR = 2,4 × 15 ÷ 6 = 6,0 mg/kg/phút.
+
+Câu 18: Trẻ 3 kg mức A đang truyền glucose 10% 60 ml/kg/ngày; 30 phút sau glucose 0,9 mmol/L. Sau bolus lại, bác sĩ tăng tốc độ đường thêm 2 mg/kg/phút, giữ nguyên glucose 10%.
+Tốc độ bơm mới là bao nhiêu ml/giờ?
+A. 7,5 ml/giờ
+B. 7,8 ml/giờ
+C. 10,0 ml/giờ
+D. 11,1 ml/giờ
+Đáp án: D
+Giải thích: GIR cũ 4,17 → mới 6,17 mg/kg/phút. Thể tích G10% = 6,17 × 144 ÷ 10 = 88,8 ml/kg/ngày → × 3 ÷ 24 = 11,1 ml/giờ. (Mẹo: với G10%, mỗi +1 mg/kg/phút = +14,4 ml/kg/ngày.)
+
+Câu 19: Trẻ 3 kg mức A truyền glucose 10% 60 ml/kg/ngày, phải hạn chế dịch nên giữ nguyên thể tích. Bác sĩ tăng tốc độ đường thêm 2 mg/kg/phút bằng cách tăng nồng độ.
+Nồng độ glucose mới và đường truyền phù hợp là gì?
+A. 12,0% — truyền được qua tĩnh mạch ngoại vi
+B. 14,8% — truyền được qua tĩnh mạch ngoại vi
+C. 14,8% — phải truyền qua tĩnh mạch trung tâm
+D. 20,0% — phải truyền qua tĩnh mạch trung tâm
+Đáp án: C
+Giải thích: Nồng độ = GIR × 144 ÷ thể tích = 6,17 × 144 ÷ 60 = 14,8% > 12,5% → barem: truyền qua tĩnh mạch trung tâm.
+
+Câu 20: Trẻ 2 kg phải giữ dịch truyền 80 ml/kg/ngày và chưa có catheter tĩnh mạch trung tâm, nên nồng độ glucose không được vượt mức barem cho phép truyền ngoại vi.
+Tốc độ đường (GIR) cao nhất đạt được là bao nhiêu mg/kg/phút?
+A. 6,9 mg/kg/phút
+B. 8,0 mg/kg/phút
+C. 8,3 mg/kg/phút
+D. 10,0 mg/kg/phút
+Đáp án: A
+Giải thích: Nồng độ tối đa ngoại vi theo barem = 12,5% → GIR = 80 × 12,5 ÷ 144 = 6,9 mg/kg/phút. Muốn cao hơn phải tăng thể tích hoặc đặt TM trung tâm.
+
+Câu 21: Trẻ 3 kg truyền glucose 10% 100 ml/kg/ngày; glucose vẫn 0,9 mmol/L nên bác sĩ tăng thêm 2 mg/kg/phút bằng cách tăng thể tích glucose 10%.
+Theo barem, việc nào cần làm thêm ở bước này, và vì sao?
+A. Đặt catheter tĩnh mạch trung tâm, vì nồng độ glucose đã vượt 12,5%
+B. Làm xét nghiệm cường insulin, vì tốc độ đường đã vượt 8 mg/kg/phút
+C. Đặt catheter tĩnh mạch trung tâm, vì tốc độ đường đã vượt 8 mg/kg/phút
+D. Làm xét nghiệm cường insulin, vì nồng độ glucose đã vượt 12,5%
+Đáp án: B
+Giải thích: GIR = 100 × 10 ÷ 144 + 2 = 8,9 > 8 mg/kg/phút → barem: làm xét nghiệm cường insulin, thảo luận chuyên khoa nội tiết. Vẫn dùng G10% (< 12,5%) nên chưa bắt buộc TM trung tâm.
+
+Câu 22: Bác sĩ chỉ định truyền glucose 12,5%; điều dưỡng cần pha một bơm 80 ml từ glucose 10% và glucose 30% (quy tắc đường chéo).
+Cần bao nhiêu ml mỗi loại?
+A. G10% 70 ml + G30% 10 ml
+B. G10% 64 ml + G30% 16 ml
+C. G10% 60 ml + G30% 20 ml
+D. G10% 40 ml + G30% 40 ml
+Đáp án: A
+Giải thích: Phần G30% = (đích − 10) ÷ (30 − 10) = 2,5 ÷ 20 = 1/8 → 80 ÷ 8 = 10 ml G30% + 70 ml G10%. Kiểm: (7000 + 3000) mg ÷ 80 ml = 125 mg/ml.
+
+Câu 23: Bơm tiêm 50 ml cần chứa glucose 15% để truyền qua catheter trung tâm; khoa có glucose 10% và glucose 30%.
+Pha như thế nào?
+A. G10% 45 ml + G30% 5 ml
+B. G10% 42,5 ml + G30% 7,5 ml
+C. G10% 40 ml + G30% 10 ml
+D. G10% 37,5 ml + G30% 12,5 ml
+Đáp án: D
+Giải thích: Phần G30% = (15 − 10) ÷ 20 = 25% → 0,25 × 50 = 12,5 ml G30% + 37,5 ml G10%.
+
+Câu 24: Khoa chỉ có glucose 5% và glucose 30%; cần 60 ml glucose 12,5%.
+Pha như thế nào?
+A. G5% 52,5 ml + G30% 7,5 ml
+B. G5% 45 ml + G30% 15 ml
+C. G5% 42 ml + G30% 18 ml
+D. G5% 30 ml + G30% 30 ml
+Đáp án: C
+Giải thích: Phần G30% = (12,5 − 5) ÷ (30 − 5) = 7,5 ÷ 25 = 30% → 0,3 × 60 = 18 ml G30% + 42 ml G5%.
+
+Câu 25: Điều dưỡng trộn 40 ml glucose 10% với 10 ml glucose 30% để truyền tiếp cho trẻ đang có đường truyền ngoại vi.
+Nồng độ của bơm này và đường truyền theo barem là gì?
+A. 12,0% — truyền được qua tĩnh mạch ngoại vi
+B. 14,0% — phải truyền qua tĩnh mạch trung tâm
+C. 14,0% — truyền được qua tĩnh mạch ngoại vi
+D. 20,0% — phải truyền qua tĩnh mạch trung tâm
+Đáp án: B
+Giải thích: (40 × 100 + 10 × 300) mg ÷ 50 ml = 7000 ÷ 50 = 140 mg/ml = 14% > 12,5% → tĩnh mạch trung tâm.
+
+Câu 26: Trẻ 3 kg, 6 giờ tuổi, co giật; glucose 0,9 mmol/L. Đã đặt được đường truyền tĩnh mạch.
+Y lệnh ban đầu nào đúng barem?
+A. Tiêm glucose 10% 6 ml, rồi truyền glucose 10% 7,5 ml/giờ
+B. Tiêm glucose 10% 7,5 ml, rồi truyền glucose 10% 7,5 ml/giờ
+C. Tiêm glucose 10% 6 ml, rồi truyền glucose 10% 10 ml/giờ
+D. Tiêm glucose 10% 7,5 ml, rồi truyền glucose 10% 10 ml/giờ
+Đáp án: B
+Giải thích: Mức A: bolus G10% 2,5 ml/kg = 7,5 ml, duy trì G10% 60 ml/kg/ngày = 7,5 ml/giờ. Thử lại sau 30 phút.
+
+Câu 27: Trẻ 2,5 kg, glucose 0,7 mmol/L, li bì; đặt tĩnh mạch thất bại, đặt ống thông dạ dày cũng chưa được do trẻ trào ngược nhiều. Chọn glucagon tiêm bắp.
+Liều glucagon đúng barem là bao nhiêu?
+A. 0,05 mg
+B. 0,2 mg
+C. 0,25 mg
+D. 0,5 mg
+Đáp án: D
+Giải thích: 200 µg/kg × 2,5 kg = 500 µg = 0,5 mg tiêm bắp, cho tới khi có đường tĩnh mạch.
+
+Câu 28: Trẻ 3,6 kg, 8 giờ tuổi, mẹ tiểu đường; glucose 1,4 mmol/L, tỉnh, bú tốt, không triệu chứng.
+Y lệnh nào đúng barem?
+A. Cho uống glucose 40% 1,8 ml, hỗ trợ bú, thử lại trước bữa thứ 3
+B. Cho uống glucose 40% 1,8 ml, hỗ trợ bú, thử lại sau 30 phút
+C. Cho uống glucose 40% 2,25 ml, hỗ trợ bú, thử lại trước bữa thứ 3
+D. Cho uống glucose 40% 2,25 ml, hỗ trợ bú, thử lại sau 30 phút
+Đáp án: A
+Giải thích: 1,0 – 2,0 mmol/L, không triệu chứng → mức B: đường 40% 200 mg/kg = 720 mg ÷ 400 = 1,8 ml, hỗ trợ bú, thử lại trước bữa thứ 3 (không quá 8 giờ).
+
+Câu 29: Trẻ 3 kg mức A đã tiêm bolus và truyền glucose 10% 7,5 ml/giờ. Thử lại sau 30 phút: glucose 1,8 mmol/L, hết co giật, bú được.
+Xử trí tiếp theo nào đúng barem?
+A. Tiêm lại glucose 10% 7,5 ml, tăng truyền lên 11,1 ml/giờ, tiếp tục cho ăn
+B. Không tiêm lại, tăng truyền lên 11,1 ml/giờ, tạm ngừng cho ăn
+C. Không tiêm lại, tăng truyền lên 11,1 ml/giờ, tiếp tục cho ăn
+D. Không tiêm lại, giảm dần tốc độ truyền, tiếp tục cho ăn
+Đáp án: C
+Giải thích: 1,0 < ĐH < 2,6 sau điều trị mức A: tăng tốc độ đường thêm 2 mg/kg/phút (G10% 88,8 ml/kg/ngày = 11,1 ml/giờ), tiếp tục cho ăn, thử lại sau 30 phút. Không bolus lại vì ĐH > 1,0 và hết triệu chứng.
+
+Câu 30: Trẻ 3 kg cường insulin đã ăn hoàn toàn; hai lần thử liên tiếp glucose 2,8 và 3,0 mmol/L.
+Theo barem, xử trí tiếp theo là gì?
+A. Dừng điều trị tích cực, chuyển sang theo dõi khi ĐH bình thường
+B. Tiếp tục điều trị và theo dõi đến khi ĐH > 2,6 ở 2 lần liên tiếp
+C. Ngừng truyền ngay, thử lại đường huyết sau 12 giờ
+D. Tiếp tục điều trị và theo dõi đến khi ĐH > 3,5 ở 2 lần liên tiếp
+Đáp án: D
+Giải thích: Đích barem: ĐH > 2,5 mmol/L, riêng trẻ cường insulin > 3,5 mmol/L, ở 2 lần liên tiếp. 2,8 và 3,0 chưa đạt.
+
+Câu 31: Trẻ 3,5 kg, đường huyết đã ổn định khi truyền tĩnh mạch. Bắt đầu cho ăn theo barem, chia 8 bữa/ngày.
+Mỗi bữa cho ăn bao nhiêu ml (làm tròn 1 chữ số thập phân)?
+A. 8,8 ml
+B. 20,0 ml
+C. 35,0 ml
+D. 70,0 ml
+Đáp án: A
+Giải thích: Barem: bắt đầu cho ăn 20 ml/kg/ngày → 20 × 3,5 = 70 ml/ngày ÷ 8 bữa = 8,8 ml/bữa; sau đó tăng dần ăn, giảm dần dịch.
+
+Câu 32: Trẻ mức C, không phải truyền tĩnh mạch; glucose đã > 2,6 mmol/L ở 2 lần liên tiếp.
+Lịch thử đường huyết tiếp theo theo barem là gì?
+A. Thử 3 giờ/lần đến khi đạt 2,6 ở 2 lần liên tiếp
+B. Thử 12 giờ/lần trong suốt thời gian còn nằm viện
+C. Không cần thử lại đường huyết
+D. Thử 12 giờ/lần trong 24 giờ (thêm 2 lần)
+Đáp án: D
+Giải thích: Không truyền TM: ĐH 12 giờ/lần trong 24 giờ (làm thêm 2 lần); bình thường thì không cần xét nghiệm lại.
