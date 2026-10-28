@@ -1,7 +1,12 @@
 {
+  "format": "medmcq-bank",
+  "version": 1,
   "id": "bank_im11_soc_nhiem_khuan",
+  "lesson": "IM-11",
+  "group": "Nội khoa",
   "title": "IM-11: Sốc Nhiễm Khuẩn Toàn Diện (20 Câu Chuẩn Hóa Cân Đối)",
   "description": "Bộ ngân hàng trắc nghiệm chuẩn hóa loại bỏ bẫy câu dài nhất, cân đối 4 lựa chọn ngang nhau, bao phủ Sepsis-3, qSOFA, SIRS, sốc nóng vs lạnh, gói Hour-1 bundle, dịch cân bằng, Noradrenalin, EGDT và Hydrocortison.",
+  "updated": "2026-10-22T10:23:34Z",
   "questions": [
     {
       "id": "bank_im11_soc_nhiem_khuan_01",

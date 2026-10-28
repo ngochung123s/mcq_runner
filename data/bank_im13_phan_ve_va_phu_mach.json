@@ -1,7 +1,12 @@
 {
+  "format": "medmcq-bank",
+  "version": 1,
   "id": "bank_im13_phan_ve_va_phu_mach",
+  "lesson": "IM-13",
+  "group": "Nội khoa",
   "title": "IM-13: Phản Vệ và Phù Mạch (20 Câu Chuyên Sâu)",
   "description": "Ngân hàng trắc nghiệm toàn diện bao phủ tiêu chuẩn chẩn đoán FAAN/NIAID, phân độ Bộ Y tế (Thông tư 51), kỹ thuật tiêm/truyền Adrenalin, Glucagon và xử trí phản vệ pha 2.",
+  "updated": "2026-10-22T10:23:34Z",
   "questions": [
     {
       "id": "im13_case_01",

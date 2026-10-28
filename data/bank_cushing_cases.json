@@ -1,7 +1,12 @@
 {
+  "format": "medmcq-bank",
+  "version": 1,
   "id": "bank_cushing_cases",
+  "lesson": "IM-54",
+  "group": "Nội khoa",
   "title": "IM-54: Ca Lâm Sàng Chuyên Sâu - Hội Chứng Cushing",
   "description": "Bộ 10 ca lâm sàng chuyên sâu về chẩn đoán phân biệt Bệnh Cushing u tuyến yên, u tiết ACTH lạc chỗ kèm hạ kali trơ, Cushing do thuốc khớp gia truyền, chỉ định tiêu chuẩn vàng BIPSS, nguy cơ huyết khối VTE và tiêu chuẩn lui bệnh sau mổ TSS.",
+  "updated": "2026-09-05T16:31:11Z",
   "questions": [
     {
       "id": "cs_case_01",
@@ -123,6 +128,5 @@
       "correct": 0,
       "explanation": "Estrogen đường uống kích thích gan tăng sản xuất protein vận chuyển CBG. Khoảng 90% cortisol trong máu gắn với CBG. Khi CBG tăng, Cortisol toàn phần (Total Cortisol) đo bằng miễn dịch sẽ tăng vọt giả tạo, dù Cortisol tự do hoạt tính sinh học bình thường. Phải dùng xét nghiệm không phụ thuộc CBG: Cortisol nước tiểu 24h hoặc Cortisol nước bọt nửa đêm."
     }
-  ],
-  "createdAt": "2026-09-05T16:31:11.026963+00:00"
+  ]
 }

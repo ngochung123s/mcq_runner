@@ -1,7 +1,12 @@
 {
+  "format": "medmcq-bank",
+  "version": 1,
   "id": "bank_im08_soc_va_giam_tuoi_mau_mo",
+  "lesson": "IM-08",
+  "group": "Nội khoa",
   "title": "IM-08: Sốc và Giảm Tưới Máu Mô Toàn Diện (40 Câu Chuẩn Hóa Cân Đối)",
   "description": "Bộ ngân hàng trắc nghiệm chuẩn hóa loại bỏ hoàn toàn bẫy câu dài nhất, cân đối 4 lựa chọn ngang nhau, bao phủ 100% giáo trình IM-08: vi tuần hoàn, toan Lactic, tam chứng 3 cửa sổ, ma trận huyết động 4 nhóm sốc, kỹ thuật hồi sức và lưu đồ 2004.",
+  "updated": "2026-10-22T10:23:34Z",
   "questions": [
     {
       "id": "im08_q_01",

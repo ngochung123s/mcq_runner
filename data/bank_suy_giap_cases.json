@@ -1,7 +1,12 @@
 {
+  "format": "medmcq-bank",
+  "version": 1,
   "id": "bank_suy_giap_cases",
+  "lesson": "IM-53",
+  "group": "Nội khoa",
   "title": "IM-53: Ca Lâm Sàng Chuyên Sâu - Bệnh Suy Giáp",
   "description": "Bộ 10 ca lâm sàng chuyên sâu phân tích ca bệnh Hashimoto, phụ nữ mang thai, người già bệnh mạch vành, Hôn mê phù niêm, suy giáp trung ương chấn thương sọ não, tương tác canxi/sắt và bệnh cơ suy giáp.",
+  "updated": "2026-09-05T16:31:11Z",
   "questions": [
     {
       "id": "sg_case_01",
@@ -123,6 +128,5 @@
       "correct": 1,
       "explanation": "Tế bào ung thư tuyến giáp biệt hóa (thể nhú, thể nang) vẫn mang thụ thể TSH-R trên bề mặt. Nồng độ TSH trong máu là chất kích thích tăng trưởng khối u tái phát. Vì vậy, ở bệnh nhân sau mổ K giáp nguy cơ cao, dùng L-T4 liều cao để ức chế TSH xuống < 0.1 mIU/L là biện pháp điều trị đích ngăn ngừa tái phát."
     }
-  ],
-  "createdAt": "2026-09-05T16:31:11.018390+00:00"
+  ]
 }

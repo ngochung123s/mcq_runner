@@ -1,7 +1,12 @@
 {
+  "format": "medmcq-bank",
+  "version": 1,
   "id": "bank_im82_gout_eular",
+  "lesson": "IM-82",
+  "group": "Nội khoa",
   "title": "IM-82: Bệnh Gout & Tiêu Chuẩn Phân Loại ACR/EULAR 2015 (35 Câu Chuyên Sâu)",
   "description": "Bộ trắc nghiệm ca lâm sàng và lý thuyết chuyên sâu về thang điểm ACR/EULAR 2015 8 nhóm, phân biệt viêm khớp nhiễm khuẩn, NLRP3, và khuyến cáo EULAR 2016/2020.",
+  "updated": "2026-10-22T10:23:34Z",
   "questions": [
     {
       "id": "bank_im82_gout_eular_01",

@@ -1,7 +1,12 @@
 {
+  "format": "medmcq-bank",
+  "version": 1,
   "id": "bank_im12_phu_phoi_cap",
+  "lesson": "IM-12",
+  "group": "Nội khoa",
   "title": "IM-12: Phù Phổi Cấp Huyết Động Toàn Diện (60 Câu Chuyên Sâu)",
   "description": "Bộ ngân hàng trắc nghiệm toàn diện bao phủ 100% giáo trình ĐHYD Thái Bình & sơ đồ ESC 2012: cơ chế Starling, lâm sàng nước triều dâng, X-quang cánh bướm, PCWP > 18, phân biệt ARDS/Hen, và xử trí chi tiết Lasix, Nitroglycerin, Morphine, Dobutamin, Digoxin, Nicardipine, NIV/PEEP.",
+  "updated": "2026-10-22T10:23:34Z",
   "questions": [
     {
       "id": "im12_q_01",

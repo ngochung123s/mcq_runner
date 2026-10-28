@@ -1,7 +1,12 @@
 {
+  "format": "medmcq-bank",
+  "version": 1,
   "id": "bank_im47b_roi_loan_can_bang_kiem_toan",
+  "lesson": "IM-47b",
+  "group": "Nội khoa",
   "title": "IM-47b: Rối Loạn Cân Bằng Kiềm Toan (20 Câu Chuyên Sâu)",
   "description": "Ngân hàng trắc nghiệm toàn diện bao phủ sinh lý Henderson-Hasselbalch, Bảng 1 công thức bù trừ Winter, Anion Gap, Toan Lactic/Ceton, Kiềm chuyển hóa theo Cl- niệu và ngộ độc toan nội bào NaHCO3.",
+  "updated": "2026-10-22T10:23:34Z",
   "questions": [
     {
       "id": "im47b_case_01",

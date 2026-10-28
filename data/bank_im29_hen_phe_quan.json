@@ -1,7 +1,12 @@
 {
+  "format": "medmcq-bank",
+  "version": 1,
   "id": "bank_im29_hen_phe_quan",
+  "lesson": "IM-29",
+  "group": "Nội khoa",
   "title": "IM-29: Hen Phế Quản Người Lớn Toàn Diện (25 Câu Chuyên Sâu Chuẩn GINA)",
   "description": "Bộ trắc nghiệm lâm sàng bao phủ toàn bộ GINA 2023-2024: chẩn đoán hô hấp ký BDR test, Track 1 (MART) vs Track 2, phân bậc, và xử trí cấp cứu đợt cấp nguy kịch.",
+  "updated": "2026-10-22T10:23:34Z",
   "questions": [
     {
       "id": "bank_im29_hen_phe_quan_01",

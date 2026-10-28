@@ -1,7 +1,12 @@
 {
+  "format": "medmcq-bank",
+  "version": 1,
   "id": "bank_im23b_roi_loan_nhip_tim",
+  "lesson": "IM-23b",
+  "group": "Nội khoa",
   "title": "IM-23b: Các Rối Loạn Nhịp Tim Toàn Diện (55 Câu Chuyên Sâu)",
   "description": "Bộ ngân hàng trắc nghiệm điện sinh lý học, nhịp chậm, block dẫn truyền, SVT, nhịp nhanh thất, phân biệt WCT theo Brugada/Vereckei, Brugada, LQTS và dược lý Vaughan-Williams.",
+  "updated": "2026-10-22T10:23:34Z",
   "questions": [
     {
       "id": "im23b_q_01",

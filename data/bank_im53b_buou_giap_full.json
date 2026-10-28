@@ -1,8 +1,12 @@
 {
+  "format": "medmcq-bank",
+  "version": 1,
   "id": "bank_im53b_buou_giap_full",
+  "lesson": "IM-53b",
+  "group": "Nội khoa",
   "title": "IM-53b: Bướu Giáp Đơn Thuần (Trọn Bộ 121 Câu Lý Thuyết & Case Lâm Sàng)",
   "description": "Ngân hàng quy mô cực lớn gồm 10 ca lâm sàng chuyên sâu kèm 111 câu hỏi trắc nghiệm bao phủ 100% từng ngóc ngách lý thuyết, phân tử, thụ thể, chẩn đoán và điều trị của bài học.",
-  "createdAt": "2026-09-05T16:42:11.221929+00:00",
+  "updated": "2026-10-22T10:23:34Z",
   "questions": [
     {
       "id": "bg_case_01",

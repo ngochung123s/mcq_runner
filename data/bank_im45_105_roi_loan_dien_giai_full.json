@@ -1,7 +1,12 @@
 {
+  "format": "medmcq-bank",
+  "version": 1,
   "id": "bank_im45_105_roi_loan_dien_giai_full",
+  "lesson": "IM-45",
+  "group": "Nội khoa",
   "title": "IM-45: Rối Loạn Nước - Điện Giải Toàn Diện (105 Câu Chuyên Sâu Bẫy Đa Tầng)",
   "description": "Bộ 105 ca bệnh thực chiến đỉnh cao bao phủ toàn bộ cơ chế, bẫy hạ/tăng Natri, tốc độ nâng ODS/CPM, 4 bước cấp cứu tăng Kali, hạ/tăng Calci, Magnesi và Phosphat.",
+  "updated": "2026-10-22T10:23:34Z",
   "questions": [
     {
       "id": "bank_im45_105_roi_loan_dien_giai_full_01",

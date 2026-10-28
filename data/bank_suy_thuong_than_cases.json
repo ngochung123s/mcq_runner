@@ -1,7 +1,12 @@
 {
+  "format": "medmcq-bank",
+  "version": 1,
   "id": "bank_suy_thuong_than_cases",
+  "lesson": "IM-54b",
+  "group": "Nội khoa",
   "title": "IM-54b: Ca Lâm Sàng Chuyên Sâu - Suy Tuyến Thượng Thận",
   "description": "Bộ 10 ca lâm sàng chuyên sâu về chẩn đoán Bệnh Addison tự miễn, cấp cứu Cơn suy thượng thận cấp trụy mạch, sạm da trục POMC-ACTH-MSH, Lao thượng thận vôi hóa trên CT, Hội chứng Sheehan và Hội chứng Waterhouse-Friderichsen.",
+  "updated": "2026-09-05T16:39:41Z",
   "questions": [
     {
       "id": "stt_case_01",
@@ -123,6 +128,5 @@
       "correct": 1,
       "explanation": "Hội chứng Waterhouse - Friderichsen là tình trạng suy tuyến thượng thận tối cấp do xuất huyết hoại tử lan tỏa hai bên tuyến thượng thận trong bệnh cảnh nhiễm khuẩn huyết tối cấp do Não mô cầu (Neisseria meningitidis), đặc trưng bởi sốc nhiễm khuẩn, ban hoại tử xuất huyết hình sao và tử vong rất nhanh nếu không cấp cứu kịp thời."
     }
-  ],
-  "createdAt": "2026-09-05T16:31:11.031756+00:00"
+  ]
 }

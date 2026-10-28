@@ -1,0 +1,252 @@
+{
+  "format": "medmcq-bank",
+  "version": 1,
+  "id": "bank_suy_giap_001",
+  "lesson": "IM-53",
+  "group": "Nội khoa",
+  "title": "IM-53: Bệnh Suy Giáp (Hypothyroidism)",
+  "description": "Bộ 20 câu hỏi trắc nghiệm chuyên sâu về Sinh lý trục HPT, Cơ chế phù niêm, Phân loại nguyên nhân, Chẩn đoán sinh hóa TSH/FT4, Liệu pháp Levothyroxine, 'Start low, go slow' và Cấp cứu Hôn mê phù niêm.",
+  "updated": "2026-10-22T10:23:34Z",
+  "questions": [
+    {
+      "id": "sg_01",
+      "text": "Nguyên nhân hàng đầu gây suy giáp nguyên phát (tiên phát) ở các vùng dân cư có đủ lượng Iod là gì?",
+      "options": [
+        "Viêm tuyến giáp tự miễn Hashimoto (Viêm giáp lympho bào mạn tính)",
+        "U tuyến yên chèn ép tế bào tiết TSH",
+        "Thiếu hụt Iod nghiêm trọng trong chế độ ăn hàng ngày",
+        "Đột biến mất chức năng thụ thể TR-β ngoại vi"
+      ],
+      "correct": 0,
+      "explanation": "Ở các vùng đủ Iod, viêm tuyến giáp tự miễn Hashimoto là nguyên nhân phổ biến nhất gây suy giáp tiên phát (>90%). Cơ thể sinh tự kháng thể (Anti-TPO, Anti-Tg) kích hoạt tế bào lympho T thâm nhiễm phá hủy nhu mô giáp. Thiếu Iod là nguyên nhân hàng đầu ở các vùng núi cao xa biển."
+    },
+    {
+      "id": "sg_02",
+      "text": "Dấu hiệu sinh hóa cốt lõi trên xét nghiệm máu để chẩn đoán xác định Suy giáp tiên phát (tại tuyến giáp) là:",
+      "options": [
+        "TSH giảm thấp, FT4 tăng cao",
+        "TSH tăng cao, FT4 giảm thấp",
+        "TSH bình thường hoặc giảm thấp, FT4 giảm thấp",
+        "TSH tăng cao, FT4 bình thường"
+      ],
+      "correct": 1,
+      "explanation": "Trong suy giáp tiên phát, tuyến giáp suy giảm sản xuất hormone (FT4 giảm). Do mất cơ chế feedback âm tính lên tuyến yên, tuyến yên tăng cường bài tiết TSH để kích thích tuyến giáp, dẫn đến nồng độ TSH tăng cao rõ rệt (thường > 10 mIU/L)."
+    },
+    {
+      "id": "sg_03",
+      "text": "Xét nghiệm cho kết quả: TSH tăng cao (6.8 mIU/L), nồng độ FT4 hoàn toàn bình thường (1.2 ng/dL), bệnh nhân ít triệu chứng. Chẩn đoán phù hợp nhất là:",
+      "options": [
+        "Suy giáp lâm sàng (Overt hypothyroidism)",
+        "Suy giáp dưới lâm sàng (Subclinical hypothyroidism)",
+        "Suy giáp thứ phát do tuyến yên",
+        "Cường giáp giai đoạn sớm"
+      ],
+      "correct": 1,
+      "explanation": "Suy giáp dưới lâm sàng (Subclinical Hypothyroidism) được định nghĩa là tình trạng TSH tăng cao trên giới hạn bình thường nhưng nồng độ hormone giáp tự do (FT4) vẫn nằm trong khoảng tham chiếu bình thường."
+    },
+    {
+      "id": "sg_04",
+      "text": "Tại sao trong Suy giáp thứ phát (do tổn thương tuyến yên), bác sĩ TUYỆT ĐỐI KHÔNG dùng TSH để theo dõi và chỉnh liều Levothyroxine?",
+      "options": [
+        "Vì thời gian bán hủy của TSH quá ngắn không đo lường được",
+        "Vì tuyến yên đã bị tổn thương nên nồng độ TSH không còn phản ánh đúng tình trạng đáp ứng sinh lý của cơ thể",
+        "Vì TSH bị mất hoạt tính sinh học khi gặp thuốc Levothyroxine",
+        "Vì nồng độ TSH luôn tăng vọt do hiện tượng thoát ức chế"
+      ],
+      "correct": 1,
+      "explanation": "Trong suy giáp thứ phát, tuyến yên bị tổn thương (u tuyến yên, hội chứng Sheehan) nên mất khả năng bài tiết TSH tương ứng. Nồng độ TSH máu thường thấp, bình thường hoặc tăng nhẹ giả tạo. Mục tiêu theo dõi điều trị phải dựa vào FT4 (đưa FT4 về nửa trên khoảng tham chiếu)."
+    },
+    {
+      "id": "sg_05",
+      "text": "Hiện tượng phù niêm (Myxedema) - phù cứng, ấn không lõm ở bệnh nhân suy giáp nặng xuất phát từ cơ chế sinh lý bệnh nào?",
+      "options": [
+        "Tăng tính thấm thành mạch và ứ đọng Glycosaminoglycans (Hyaluronic acid) hút nước trong mô kẽ",
+        "Tăng áp lực thủy tĩnh mao mạch do suy tim ứ huyết đơn thuần",
+        "Giảm áp lực keo huyết tương do mất albumin quá mức qua thận",
+        "Tắc nghẽn mạng lưới bạch huyết cục bộ do thâm nhiễm mỡ"
+      ],
+      "correct": 0,
+      "explanation": "Thiếu hormone giáp làm chậm quá trình thoái hóa các chất căn bản, dẫn đến tích tụ các Glycosaminoglycan (chủ yếu là Hyaluronic acid và Chondroitin sulfate) ở mô kẽ dưới da. Các chất này có tính hút nước cực mạnh tạo ra phù cứng, dày da, ấn không lõm."
+    },
+    {
+      "id": "sg_06",
+      "text": "Cơ chế gây tăng nồng độ Cholesterol toàn phần và LDL-C máu nghiêm trọng ở bệnh nhân suy giáp là:",
+      "options": [
+        "Tăng tổng hợp acid béo tự do tại gan do tăng nhạy cảm thụ thể",
+        "Giảm số lượng và giảm hoạt tính của thụ thể LDL-R trên bề mặt tế bào gan",
+        "Tăng thoái hóa HDL-C ngoại biên",
+        "Tăng hấp thu mỡ tối đa qua nhung mao ruột non"
+      ],
+      "correct": 1,
+      "explanation": "Hormone T3 kích thích biểu hiện gen của thụ thể LDL (LDL-R) ở màng tế bào gan. Thiếu T3 dẫn đến giảm số lượng và hoạt tính của thụ thể LDL-R, làm giảm thanh thải LDL-C khỏi tuần hoàn, gây tăng vọt LDL-C và Cholesterol toàn phần."
+    },
+    {
+      "id": "sg_07",
+      "text": "Thời gian bán thải (t1/2) của thuốc Levothyroxine (L-T4) trong tuần hoàn ở bệnh nhân suy giáp là khoảng bao lâu?",
+      "options": [
+        "Khoảng 24 giờ",
+        "Khoảng 3 - 4 ngày",
+        "Khoảng 6 - 7 ngày (kéo dài lên 9 - 10 ngày ở bệnh nhân suy giáp)",
+        "Khoảng 30 ngày"
+      ],
+      "correct": 2,
+      "explanation": "Thời gian bán thải của L-T4 ở người bình thường là 6 - 7 ngày, ở bệnh nhân suy giáp do chuyển hóa chậm nên kéo dài tới 9 - 10 ngày. Do đó thuốc chỉ cần uống 1 lần/ngày và cần 4 - 6 tuần mới đạt trạng thái bão hòa ổn định (steady state)."
+    },
+    {
+      "id": "sg_08",
+      "text": "Sau khi khởi đầu hoặc thay đổi liều Levothyroxine, thời điểm chuẩn để xét nghiệm lại TSH và FT4 đánh giá đáp ứng là:",
+      "options": [
+        "Sau 1 tuần",
+        "Sau 2 tuần",
+        "Sau 6 - 8 tuần",
+        "Sau 6 tháng"
+      ],
+      "correct": 2,
+      "explanation": "Vì thời gian bán thải dài (~7 ngày), thuốc cần 4 - 5 chu kỳ t1/2 (khoảng 4 - 6 tuần) để nồng độ trong máu đạt trạng thái cân bằng ổn định. Xét nghiệm lại TSH trước 4 tuần là quá sớm và không phản ánh chính xác hiệu quả chỉnh liều."
+    },
+    {
+      "id": "sg_09",
+      "text": "Nguyên tắc 'Start low, go slow' (khởi đầu liều thấp 12.5 - 25 mcg/ngày) khi kê đơn Levothyroxine bắt buộc áp dụng cho đối tượng nào sau đây?",
+      "options": [
+        "Phụ nữ trẻ tuổi chuẩn bị mang thai",
+        "Người cao tuổi (> 60 tuổi) hoặc bệnh nhân có tiền sử bệnh tim mạch (bệnh mạch vành, suy tim)",
+        "Trẻ em suy giáp bẩm sinh",
+        "Bệnh nhân viêm giáp bán cấp de Quervain"
+      ],
+      "correct": 1,
+      "explanation": "Ở người già hoặc có bệnh mạch vành, cơ tim đang thích nghi với tình trạng chuyển hóa chậm. Đưa L-T4 liều cao đột ngột sẽ kích thích tim đập nhanh, tăng tiêu thụ oxy cơ tim vượt quá khả năng cấp máu của mạch vành, gây khởi phát cơn đau thắt ngực, nhồi máu cơ tim hoặc loạn nhịp tim cấp."
+    },
+    {
+      "id": "sg_10",
+      "text": "Để thuốc Levothyroxine hấp thu tối ưu vào máu, bệnh nhân cần được hướng dẫn uống thuốc như thế nào?",
+      "options": [
+        "Uống ngay sau bữa ăn trưa nhiều dầu mỡ",
+        "Uống vào buổi sáng lúc bụng đói với nước lọc, trước bữa ăn sáng ít nhất 30 - 60 phút",
+        "Uống cùng lúc với viên sắt và canxi để tăng tác dụng hiệp đồng",
+        "Uống cùng một cốc sữa tươi hoặc cà phê sáng"
+      ],
+      "correct": 1,
+      "explanation": "L-T4 hấp thu tại ruột non tối ưu trong môi trường acid dịch vị lúc dạ dày rỗng. Thức ăn, cà phê, sữa, viên sắt, canxi, thuốc trung hòa acid dạ dày (chứa Al, Mg) làm giảm hấp thu L-T4 tới 30-40%. Cần uống xa các chất bổ sung ít nhất 4 giờ."
+    },
+    {
+      "id": "sg_11",
+      "text": "Nguyên tắc 'sống còn' bắt buộc thực hiện TRƯỚC HOẶC ĐỒNG THỜI khi bù Levothyroxine trong điều trị Suy giáp thứ phát hoặc Hôn mê phù niêm là gì?",
+      "options": [
+        "Bù Natri ưu trương 3% liều cao",
+        "Dùng Glucocorticoid (Hydrocortisone) liều stress trước",
+        "Sưởi ấm tích cực bằng chăn điện nhiệt độ cao",
+        "Cho uống thuốc ức chế beta giao cảm liều thấp"
+      ],
+      "correct": 1,
+      "explanation": "Suy giáp thứ phát thường kèm suy giảm trục tuyến yên - thượng thận. Nếu bù hormone giáp đơn độc, chuyển hóa tăng vọt sẽ thúc đẩy dị hóa nhanh lượng cortisol dự trữ ít ỏi, đẩy bệnh nhân rơi vào Cơn suy vỏ thượng thận cấp gây trụy tim mạch tử vong. Bắt buộc tiêm Hydrocortisone trước!"
+    },
+    {
+      "id": "sg_12",
+      "text": "Trong cấp cứu Hôn mê phù niêm (Myxedema Coma), phương pháp sưởi ấm nào được khuyến cáo an toàn?",
+      "options": [
+        "Quấn chăn điện nhiệt độ cao và chiếu đèn sưởi công suất lớn",
+        "Ngâm bệnh nhân trong bồn nước ấm 42 độ C",
+        "Chỉ sưởi ấm thụ động bằng chăn bông thông thường và tăng nhiệt độ phòng từ từ",
+        "Truyền dịch dung dịch đẳng trương đun sôi 50 độ C"
+      ],
+      "correct": 2,
+      "explanation": "Sưởi ấm chủ động quá nhanh từ bên ngoài sẽ gây giãn mạch ngoại vi đột ngột, làm máu dồn hết ra ngoại biên gây tụt huyết áp nghiêm trọng và trụy tim mạch. Chỉ được sưởi ấm thụ động từ từ bằng chăn thường và giữ ấm phòng."
+    },
+    {
+      "id": "sg_13",
+      "text": "Khi bệnh nhân nữ đang điều trị suy giáp bằng Levothyroxine phát hiện que thử thai 2 vạch (mang thai), xử trí khuyến cáo ban đầu là:",
+      "options": [
+        "Ngừng ngay thuốc vì Levothyroxine gây dị tật thai nhi",
+        "Tự động tăng ngay liều Levothyroxine thêm khoảng 25 - 30% (ví dụ uống thêm 2 viên/tuần) và đi khám chuyên khoa",
+        "Giảm nửa liều để tránh nguy cơ nhiễm độc giáp thai kỳ",
+        "Giữ nguyên liều cho đến tháng thứ 6 của thai kỳ"
+      ],
+      "correct": 1,
+      "explanation": "Nhu cầu hormone giáp của mẹ tăng ngay từ tuần 4-6 thai kỳ để cung cấp cho thai nhi (thai chưa có tuyến giáp trong 3 tháng đầu). Thiếu hormone giáp gây sảy thai và tổn thương não bộ thai nhi. Hướng dẫn quốc tế khuyến cáo tự tăng liều thêm 25-30% ngay khi có thai."
+    },
+    {
+      "id": "sg_14",
+      "text": "Thuốc chống loạn nhịp Amiodarone chứa khoảng bao nhiêu % Iod theo trọng lượng phân tử và có thể gây suy giáp qua cơ chế nào?",
+      "options": [
+        "5% Iod, gây hoại tử tế bào gan",
+        "37.5% Iod, gây ức chế tổng hợp hormone qua hiệu ứng Wolff-Chaikoff",
+        "70% Iod, gây ức chế bơm proton dạ dày",
+        "100% Iod, gây hủy hoại tế bào lympho T"
+      ],
+      "correct": 1,
+      "explanation": "Amiodarone chứa tới 37.5% Iod theo trọng lượng. Một viên 200mg giải phóng khoảng 3mg Iod tự do (gấp 20-30 lần nhu cầu sinh lý). Lượng Iod khổng lồ này ức chế enzyme TPO và giải phóng hormone giáp qua hiệu ứng Wolff-Chaikoff, gây suy giáp."
+    },
+    {
+      "id": "sg_15",
+      "text": "Triệu chứng chậm chạp phản xạ gân xương ở bệnh nhân suy giáp đặc trưng nhất ở pha nào?",
+      "options": [
+        "Pha co cơ xảy ra rất nhanh",
+        "Pha giãn cơ (relaxation phase) kéo dài rõ rệt (phản xạ gân gót > 320 ms)",
+        "Mất hoàn toàn cả hai pha co và giãn",
+        "Xuất hiện rung giật cơ liên tục dạng giật bóng bàn"
+      ],
+      "correct": 1,
+      "explanation": "Đặc trưng kinh điển của suy giáp trên thăm khám phản xạ gân xương (như gân gót) là pha giãn cơ bị kéo dài (thời gian hồi phục chậm > 320 ms) do quá trình thu hồi Ca2+ vào lưới nội sinh chất qua bơm SERCA2a bị đình trệ."
+    },
+    {
+      "id": "sg_16",
+      "text": "Kháng thể tự miễn nào có độ nhạy và độ đặc hiệu cao nhất giúp chẩn đoán căn nguyên Viêm tuyến giáp Hashimoto?",
+      "options": [
+        "Kháng thể kháng thụ thể TSH (TRAb)",
+        "Kháng thể kháng Thyroid Peroxidase (Anti-TPO)",
+        "Kháng thể kháng nhân (ANA)",
+        "Kháng thể kháng màng đáy cầu thận (Anti-GBM)"
+      ],
+      "correct": 1,
+      "explanation": "Anti-TPO (kháng men Peroxidase tuyến giáp) dương tính trong 90 - 95% trường hợp viêm tuyến giáp Hashimoto, là marker tự miễn quan trọng nhất để chẩn đoán căn nguyên suy giáp tự miễn."
+    },
+    {
+      "id": "sg_17",
+      "text": "Hiện tượng thiếu máu ở bệnh nhân suy giáp có thể xuất hiện dưới hình thái nào sau đây?",
+      "options": [
+        "Thiếu máu đẳng sắc đẳng bào do giảm chuyển hóa cơ bản làm giảm tiết Erythropoietin (EPO)",
+        "Thiếu máu hồng cầu nhỏ nhược sắc do rong kinh mất sắt hoặc giảm hấp thu sắt",
+        "Thiếu máu hồng cầu to do phối hợp bệnh thiếu máu ác tính Biermer (thiếu vitamin B12)",
+        "Tất cả các hình thái trên đều có thể gặp"
+      ],
+      "correct": 3,
+      "explanation": "Thiếu máu trong suy giáp có cơ chế đa dạng: (1) Đẳng sắc đẳng bào do giảm nhu cầu oxy tế bào dẫn tới giảm tiết EPO thận; (2) Hồng cầu nhỏ do rong kinh gây mất máu và giảm acid dạ dày giảm hấp thu sắt; (3) Hồng cầu to do bệnh tự miễn phối hợp gây viêm teo dạ dày thiếu yếu tố nội tại hấp thu B12."
+    },
+    {
+      "id": "sg_18",
+      "text": "Mục tiêu TSH khuyến cáo ở bệnh nhân lớn tuổi (> 70 tuổi) hoặc có bệnh mạch vành đang điều trị suy giáp là:",
+      "options": [
+        "0.1 - 0.5 mIU/L",
+        "0.5 - 2.5 mIU/L",
+        "4.0 - 6.0 mIU/L (chấp nhận nới lỏng)",
+        "Bắt buộc < 0.1 mIU/L"
+      ],
+      "correct": 2,
+      "explanation": "Ở người cao tuổi, TSH sinh lý tự nhiên tăng theo tuổi. Đưa TSH xuống quá thấp (< 0.5 mIU/L) làm tăng nguy cơ rung nhĩ, tai biến mạch máu não, nhồi máu cơ tim và loãng xương gãy xương. Mục tiêu khuyến cáo nới lỏng ở mức 4 - 6 mIU/L."
+    },
+    {
+      "id": "sg_19",
+      "text": "Bệnh nhân suy giáp nặng có thể bị khàn giọng, nói chậm và ngáy to khi ngủ do cơ chế nào?",
+      "options": [
+        "Tê liệt dây thần kinh quặt ngược thanh quản do u chèn ép",
+        "Lắng đọng chất nhầy mucopolysaccharide làm dày dây thanh âm và phì đại lưỡi",
+        "Co thắt cơ trơn phế quản phản xạ",
+        "Tăng tiết nước bọt quá mức gây sặc dịch nhầy"
+      ],
+      "correct": 1,
+      "explanation": "Sự ứ đọng glycosaminoglycan trong mô kẽ làm lưỡi to bè (macroglossia), dây thanh âm phù nề, dày lên, niêm mạc đường hô hấp trên hẹp lại dẫn tới khàn tiếng, giọng nói trầm ồm, chậm chạp và hội chứng ngừng thở khi ngủ (OSA)."
+    },
+    {
+      "id": "sg_20",
+      "text": "Trong hội chứng suy giáp bẩm sinh ở trẻ sơ sinh, nếu không được phát hiện bằng sàng lọc lấy máu gót chân và điều trị kịp thời trong vài tuần đầu đời, biến chứng nguy hiểm nhất là gì?",
+      "options": [
+        "Tăng huyết áp kháng trị",
+        "Tổn thương phát triển não bộ không hồi phục dẫn đến chứng đần độn (Cretinism) và lùn thể tạng",
+        "Xơ gan ứ mật bẩm sinh",
+        "Suy thận mạn tính giai đoạn cuối"
+      ],
+      "correct": 1,
+      "explanation": "Hormone giáp là yếu tố bắt buộc cho sự biệt hóa, tạo myelin và phát triển của các tế bào thần kinh vỏ não trong 2 năm đầu đời. Thiếu hormone giáp sơ sinh gây chậm phát triển trí tuệ vĩnh viễn (Cretinism) kèm lùn không cân đối."
+    }
+  ]
+}

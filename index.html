@@ -267,12 +267,18 @@
       .sync-btn .lbl { display: inline; }
       .sync.is-ok .sync-text, .sync.is-err .sync-text { display: inline; }
     }
+    .t-short { display: none; }
     @media (max-width: 520px) {
       .container { padding: 0 14px; }
       .tab .ic { display: none; }
       .tab { padding: 11px 9px 12px; font-size: 13px; }
+      .tab .t-full { display: none; }
+      .tab .t-short { display: inline; }
       .brand-sub { display: none; }
     }
+    /* Điện thoại / bản APK: không kéo thả, không bàn phím, không ghi file trực tiếp. */
+    @media (hover: none) { .desktop-only { display: none; } }
+    html.no-fs-sync #sync-status-box { display: none; }
     @media (min-width: 880px) {
       .app-header { position: sticky; top: 0; }
       .app-header-inner {
@@ -550,6 +556,16 @@
     .q-nav { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-top: 24px; padding-top: 18px; border-top: 1px solid var(--line); }
     .q-counter { font-size: 13px; color: var(--text-3); font-variant-numeric: tabular-nums; }
     @media (max-width: 520px) { .q-counter { display: none; } .q-nav .btn { flex: 1; } }
+    /* Màn hẹp: thanh Câu trước / Câu tiếp theo dính đáy màn hình, không phải cuộn hết ca lâm sàng dài. */
+    @media (max-width: 1023.98px) {
+      .q-nav {
+        position: sticky; bottom: 0; z-index: 2;
+        margin: 20px -16px -16px; padding: 10px 16px calc(10px + env(safe-area-inset-bottom));
+        background: var(--surface); border-radius: 0 0 var(--r-lg) var(--r-lg);
+        box-shadow: 0 -6px 12px -10px rgba(0, 0, 0, .35);
+      }
+    }
+    @media (min-width: 521px) and (max-width: 1023.98px) { .q-nav { margin: 24px -32px -24px; padding-left: 32px; padding-right: 32px; } }
     .hints { display: none; flex-wrap: wrap; gap: 6px 16px; margin-top: 16px; font-size: 12.5px; color: var(--text-3); }
     @media (hover: hover) and (min-width: 720px) { .hints { display: flex; } }
     .hints span { display: inline-flex; align-items: center; gap: 4px; }
@@ -797,8 +813,8 @@
       </button>
 
       <nav class="tabs" aria-label="Điều hướng chính">
-        <button id="nav-banks" class="tab is-active" type="button" onclick="app.showTab('banks')" aria-current="page"><svg class="ic" aria-hidden="true"><use href="#i-book"/></svg><span>Ngân hàng đề</span></button>
-        <button id="nav-create" class="tab" type="button" onclick="app.showTab('create')"><svg class="ic" aria-hidden="true"><use href="#i-pencil"/></svg><span>Tạo / Nhập đề</span></button>
+        <button id="nav-banks" class="tab is-active" type="button" onclick="app.showTab('banks')" aria-current="page"><svg class="ic" aria-hidden="true"><use href="#i-book"/></svg><span class="t-full">Ngân hàng đề</span><span class="t-short">Bộ đề</span></button>
+        <button id="nav-create" class="tab" type="button" onclick="app.showTab('create')"><svg class="ic" aria-hidden="true"><use href="#i-pencil"/></svg><span class="t-full">Tạo / Nhập đề</span><span class="t-short">Nhập đề</span></button>
         <button id="nav-quiz" class="tab hidden" type="button" onclick="app.showTab('quiz')"><svg class="ic" aria-hidden="true"><use href="#i-play"/></svg><span>Làm bài</span><i class="live-dot" aria-hidden="true"></i></button>
         <button id="nav-result" class="tab hidden" type="button" onclick="app.showTab('result')"><svg class="ic" aria-hidden="true"><use href="#i-result"/></svg><span>Kết quả</span></button>
         <button id="nav-history" class="tab" type="button" onclick="app.showTab('history')"><svg class="ic" aria-hidden="true"><use href="#i-history"/></svg><span>Lịch sử</span></button>
@@ -829,14 +845,11 @@
       <div class="page-head">
         <div>
           <h1 id="banks-title" class="page-title">Ngân hàng đề</h1>
-          <p class="page-sub">Bấm <b>Luyện</b> để làm ngay (hiện đáp án sau mỗi câu) hoặc <b>Thi</b> để thi thử. Kéo thả file .json / .txt vào cửa sổ, hoặc dán (Ctrl+V) câu hỏi để nhập đề.</p>
+          <p class="page-sub">Bấm <b>Luyện</b> để làm ngay (hiện đáp án sau mỗi câu) hoặc <b>Thi</b> để thi thử.<span class="desktop-only"> Kéo thả file .json / .txt vào cửa sổ, hoặc dán (Ctrl+V) câu hỏi để nhập đề.</span></p>
         </div>
         <div class="page-actions">
           <button id="btn-review-all" type="button" class="btn btn-secondary hidden" onclick="app.startReviewAll()" title="Làm lại mọi câu mà lần gần nhất bạn trả lời sai hoặc bỏ trống">
             <svg class="ic" aria-hidden="true"><use href="#i-refresh"/></svg><span>Ôn tất cả câu sai (<span id="review-all-count">0</span>)</span>
-          </button>
-          <button type="button" class="btn btn-secondary" onclick="app.exportAllBanks()" title="Tải về toàn bộ đề tự nhập (JSON)">
-            <svg class="ic" aria-hidden="true"><use href="#i-download"/></svg>Sao lưu đề tự nhập
           </button>
           <button type="button" class="btn btn-primary" onclick="app.showTab('create')">
             <svg class="ic" aria-hidden="true"><use href="#i-plus"/></svg>Nhập đề mới
@@ -872,7 +885,7 @@
         <div class="page-head">
           <div>
             <h1 id="create-title" class="page-title">Tạo / Nhập đề</h1>
-            <p class="page-sub">Dán văn bản theo mẫu <code>Câu N:</code> hoặc tải file JSON / TXT có sẵn.</p>
+            <p class="page-sub">Dán văn bản theo mẫu <code>Câu N:</code>, tải file .txt vào khung soạn, hoặc nhập file bộ đề .json (khuôn <code>medmcq-bank</code>, chọn được nhiều file).</p>
           </div>
         </div>
         <div class="card card-pad">
@@ -894,7 +907,7 @@
                 <button type="button" class="link-btn" onclick="app.loadCushingSampleToInput()">Dán mẫu Cushing</button>
                 <label class="link-btn">
                   <svg class="ic sm" aria-hidden="true"><use href="#i-upload"/></svg>Tải từ file .json / .txt
-                  <input type="file" id="file-import-input" accept=".json,.txt" class="sr-only" onchange="app.handleFileImport(event)">
+                  <input type="file" id="file-import-input" accept=".json,.txt" multiple class="sr-only" onchange="app.handleFileImport(event)">
                 </label>
               </div>
             </div>
@@ -1427,7 +1440,84 @@ Câu 2: ..."></textarea>
       }
     };
 
-    /* ----- Import: any supported JSON shape or MCQ text → normalized user banks ----- */
+    /* ----- File bộ đề: khuôn medmcq-bank v1, 1 file = 1 bộ đề (cùng luật với tools/bank_format.py; sửa thì sửa cả hai) ----- */
+    const BankFormat = {
+      FORMAT: 'medmcq-bank',
+      VERSION: 1,
+      TYPES: ['vignette', 'concept', 'calc'],
+      BANK_KEYS: ['format', 'version', 'id', 'lesson', 'group', 'title', 'description', 'updated', 'questions'],
+      QUESTION_KEYS: ['id', 'type', 'topic', 'subtopic', 'bloom', 'difficulty', 'source', 'text', 'options', 'correct', 'explanation', 'option_explanations'],
+      QUESTION_REQUIRED: ['id', 'text', 'options', 'correct', 'explanation'],
+      TEXT_FIELDS: ['topic', 'subtopic', 'bloom', 'source'],
+      ISO_RE: /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}(:\d{2}(\.\d+)?)?(Z|[+-]\d{2}:\d{2})$/,
+      LESSON_GROUPS: [[/^(PED|NHI)-/i, 'Nhi khoa'], [/^(IM|NK|NOI)-/i, 'Nội khoa'], [/^(SK|OB|SAN)-/i, 'Sản phụ khoa'], [/^(SG|NGOAI)-/i, 'Ngoại khoa']],
+
+      /** Bộ đề trong app (thư viện hoặc tự nhập) → object ghi ra file, trường theo thứ tự chuẩn. */
+      toFile(bank) {
+        const lesson = lessonOf(bank);
+        const hit = this.LESSON_GROUPS.find(([re]) => re.test(lesson));
+        return {
+          format: this.FORMAT,
+          version: this.VERSION,
+          id: String(bank.id),
+          lesson,
+          group: GROUP_ORDER.includes(bank.group) ? bank.group : (hit ? hit[1] : 'Khác'),
+          title: String(bank.title || ''),
+          description: String(bank.description || ''),
+          updated: bank.updated || bank.createdAt || new Date().toISOString(),
+          questions: bank.questions.map((q) => {
+            const o = {};
+            this.QUESTION_KEYS.forEach((k) => { if (q[k] !== undefined) o[k] = q[k]; });
+            return o;
+          })
+        };
+      },
+
+      /** Lỗi của một giá trị JSON so với khuôn (mảng rỗng = hợp lệ). */
+      validate(bank) {
+        if (!bank || typeof bank !== 'object' || Array.isArray(bank) || bank.format !== this.FORMAT) return [`không phải file bộ đề ${this.FORMAT} (thiếu "format": "${this.FORMAT}")`];
+        if (bank.version !== this.VERSION) return [`khuôn ${this.FORMAT} phiên bản ${JSON.stringify(bank.version ?? null)} chưa hỗ trợ (app đọc version ${this.VERSION})`];
+        const errs = [];
+        const str = (v) => typeof v === 'string';
+        const filled = (v) => str(v) && v.trim() !== '';
+        const extra = Object.keys(bank).filter((k) => !this.BANK_KEYS.includes(k));
+        if (extra.length) errs.push(`trường lạ ở cấp bộ đề: ${extra.join(', ')}`);
+        ['id', 'title'].forEach((k) => { if (!filled(bank[k])) errs.push(`"${k}" phải là chuỗi không rỗng`); });
+        ['lesson', 'description'].forEach((k) => { if (!str(bank[k])) errs.push(`"${k}" phải là chuỗi (có thể rỗng)`); });
+        if (!GROUP_ORDER.includes(bank.group)) errs.push(`"group" phải là một trong: ${GROUP_ORDER.join(', ')}`);
+        if (!str(bank.updated) || !this.ISO_RE.test(bank.updated) || Number.isNaN(Date.parse(bank.updated))) errs.push('"updated" phải là thời điểm ISO, vd 2026-10-29T08:00:00Z');
+        if (!Array.isArray(bank.questions) || bank.questions.length === 0) {
+          errs.push('"questions" phải là danh sách có ít nhất 1 câu');
+          return errs;
+        }
+        const seen = new Set();
+        bank.questions.forEach((q, i) => {
+          let where = `câu ${i + 1}`;
+          if (!q || typeof q !== 'object' || Array.isArray(q)) { errs.push(`${where}: không phải object`); return; }
+          if (filled(q.id)) {
+            where += ` (${q.id})`;
+            if (seen.has(q.id)) errs.push(`${where}: trùng id`);
+            seen.add(q.id);
+          }
+          this.QUESTION_REQUIRED.forEach((k) => { if (!(k in q)) errs.push(`${where}: thiếu "${k}"`); });
+          const qExtra = Object.keys(q).filter((k) => !this.QUESTION_KEYS.includes(k));
+          if (qExtra.length) errs.push(`${where}: trường lạ ${qExtra.join(', ')}`);
+          if ('id' in q && !filled(q.id)) errs.push(`${where}: "id" phải là chuỗi không rỗng`);
+          if ('text' in q && !filled(q.text)) errs.push(`${where}: "text" rỗng`);
+          const n = Array.isArray(q.options) ? q.options.length : 0;
+          if ('options' in q && (n < 2 || n > 6 || !q.options.every(filled))) errs.push(`${where}: "options" phải có 2–6 phương án không rỗng`);
+          if ('correct' in q && !(Number.isInteger(q.correct) && q.correct >= 0 && q.correct < Math.max(n, 1))) errs.push(`${where}: "correct" phải là số từ 0 đến ${Math.max(n - 1, 0)}`);
+          if ('explanation' in q && !str(q.explanation)) errs.push(`${where}: "explanation" phải là chuỗi`);
+          const oe = q.option_explanations;
+          if (oe !== undefined && !(Array.isArray(oe) && oe.length === n && oe.every(str))) errs.push(`${where}: "option_explanations" phải có đúng ${n} chuỗi`);
+          if ('type' in q && !this.TYPES.includes(q.type)) errs.push(`${where}: "type" phải là một trong ${this.TYPES.join(', ')}`);
+          if (q.difficulty !== undefined && ![1, 2, 3].includes(q.difficulty)) errs.push(`${where}: "difficulty" phải là 1, 2 hoặc 3`);
+          this.TEXT_FIELDS.forEach((k) => { if (k in q && !str(q[k])) errs.push(`${where}: "${k}" phải là chuỗi`); });
+        });
+        return errs;
+      }
+    };
+
     function isQuestionLike(x) { return !!x && typeof x === 'object' && Array.isArray(x.options) && x.options.length >= 2; }
 
     function normQuestion(q) {
@@ -1441,44 +1531,37 @@ Câu 2: ..."></textarea>
       };
     }
 
-    /** Single bank / array of banks / backup {banks} / bare question array (all keep rich fields) or plain MCQ text. */
+    /**
+     * Một file / đoạn dán → { banks, error }. JSON phải là đúng một bộ đề khuôn medmcq-bank
+     * (giữ nguyên mọi trường); văn bản thường đọc theo mẫu "Câu N: … A. … Đáp án: … Giải thích: …".
+     */
     function parseImport(text, fileName) {
-      const base = String(fileName || '').replace(/\.[^/.]+$/, '').trim();
-      const now = new Date();
-      const fallback = base || `Đề dán ${now.toLocaleDateString('vi-VN')} ${now.toLocaleTimeString('vi-VN', { hour: '2-digit', minute: '2-digit' })}`;
-      let parsed = null;
-      try { parsed = JSON.parse(text); } catch (e) { parsed = null; }
-      let raws = [];
-      if (parsed && typeof parsed === 'object') {
-        let list = null;
-        if (Array.isArray(parsed.banks)) list = parsed.banks;
-        else if (Array.isArray(parsed) && parsed.length && parsed.every((b) => b && Array.isArray(b.questions))) list = parsed;
-        else if (Array.isArray(parsed.questions)) list = [parsed];
-        else if (Array.isArray(parsed) && parsed.length && parsed.every(isQuestionLike)) list = [{ questions: parsed }];
-        raws = (list || []).filter((b) => b && Array.isArray(b.questions));
-      } else {
-        const qs = McqParser.parseRawText(text);
-        if (qs.length) raws = [{ questions: qs }];
+      let parsed;
+      try { parsed = JSON.parse(text); } catch (e) { parsed = undefined; }
+      if (parsed !== undefined) {
+        const errs = BankFormat.validate(parsed);
+        if (errs.length) {
+          const more = errs.length > 3 ? ` (và ${errs.length - 3} lỗi khác)` : '';
+          return { banks: [], error: `không đúng khuôn ${BankFormat.FORMAT} v${BankFormat.VERSION}: ${errs.slice(0, 3).join('; ')}${more}` };
+        }
+        const { format, version, ...bank } = parsed;
+        if (Library.byId.has(bank.id)) bank.id = newBankId(); // never collide with a library id
+        return { banks: [bank], error: '' };
       }
-      const seen = new Set();
-      const out = [];
-      raws.forEach((b, i) => {
-        const questions = b.questions.filter(isQuestionLike).map(normQuestion);
-        if (questions.length === 0) return;
-        let id = b.id ? String(b.id) : '';
-        if (!id || Library.byId.has(id) || seen.has(id)) id = newBankId(); // never collide with a library id
-        seen.add(id);
-        const title = String(b.title || '').trim() || (raws.length > 1 ? `${fallback} (${i + 1})` : fallback);
-        out.push({
-          ...b,
-          id,
-          title,
-          description: b.description || `${questions.length} câu hỏi trắc nghiệm`,
-          createdAt: b.createdAt || now.toISOString(),
+      const questions = McqParser.parseRawText(text).filter(isQuestionLike).map(normQuestion);
+      if (questions.length === 0) return { banks: [], error: 'không nhận diện được câu hỏi (cần dạng “Câu 1: … A. … Đáp án: …”)' };
+      const now = new Date();
+      const base = String(fileName || '').replace(/\.[^/.]+$/, '').trim();
+      return {
+        banks: [{
+          id: newBankId(),
+          title: base || `Đề dán ${now.toLocaleDateString('vi-VN')} ${now.toLocaleTimeString('vi-VN', { hour: '2-digit', minute: '2-digit' })}`,
+          description: `${questions.length} câu hỏi trắc nghiệm`,
+          updated: now.toISOString(),
           questions
-        });
-      });
-      return out;
+        }],
+        error: ''
+      };
     }
 
     /** Stem → vignette (all but last line) + bold lead-in (last line). */
@@ -1718,18 +1801,6 @@ Câu 2: ..."></textarea>
           if (!q.explanation) q.explanation = 'Không có giải thích kèm theo.';
           return q;
         });
-      }
-
-      /** Inverse of parseRawText – used for the TXT export / JSON → text editor view. */
-      static toRawText(questions) {
-        return questions.map((q, i) => {
-          let s = `Câu ${i + 1}: ${q.text}\n`;
-          q.options.forEach((opt, oi) => { s += `${LETTERS[oi] || String.fromCharCode(65 + oi)}. ${opt}\n`; });
-          s += `Đáp án: ${LETTERS[q.correct] || 'A'}\n`;
-          const exp = (q.explanation || '').replace(/\s*\n\s*/g, ' ').trim();
-          s += `Giải thích: ${exp === 'Không có giải thích kèm theo.' ? '' : exp}\n`;
-          return s;
-        }).join('\n').trim();
       }
     }
 
@@ -2587,7 +2658,6 @@ Câu 2: ..."></textarea>
         this.pasteDraft = null;
         const ui0 = readJSON(UI_KEY, null);
         this.uiState = ui0 && typeof ui0 === 'object' && ui0.collapsed && typeof ui0.collapsed === 'object' ? ui0 : { collapsed: {} };
-        this.pendingImport = null; // { raw, bank } – JSON import that keeps rich fields
         this.initKeyboardShortcuts();
       }
 
@@ -2611,6 +2681,9 @@ Câu 2: ..."></textarea>
           if (e.key === 'Escape') { e.target.value = ''; this.setBankFilter(''); e.target.blur(); }
         });
         this.initImportHandlers();
+        this.initSwipe();
+        // Không có File System Access API (điện thoại, bản APK): nút "Chọn file sync" vô dụng nên ẩn đi.
+        if (!window.showSaveFilePicker) document.documentElement.classList.add('no-fs-sync');
         const persist = () => this.quizEngine.saveSession();
         window.addEventListener('pagehide', persist);
         window.addEventListener('beforeunload', persist);
@@ -2630,6 +2703,54 @@ Câu 2: ..."></textarea>
           if (mq.addEventListener) mq.addEventListener('change', onChange);
         }
         this.showTab('banks');
+      }
+
+      /** Điện thoại: vuốt ngang trên câu hỏi để sang câu sau / về câu trước. */
+      initSwipe() {
+        const area = $('tab-quiz');
+        let start = null;
+        area.addEventListener('touchstart', (e) => {
+          start = e.touches.length === 1 ? { x: e.touches[0].clientX, y: e.touches[0].clientY, t: Date.now() } : null;
+        }, { passive: true });
+        area.addEventListener('touchend', (e) => {
+          const s = start;
+          start = null;
+          if (!s || !this.quizEngine.inProgress || Overlay.topOpen() || $('matrix-panel').classList.contains('is-open')) return;
+          if (window.getSelection && String(window.getSelection())) return; // đang bôi đen chữ, không phải vuốt
+          const t = e.changedTouches[0];
+          const dx = t.clientX - s.x;
+          const dy = t.clientY - s.y;
+          if (Date.now() - s.t > 700 || Math.abs(dx) < 70 || Math.abs(dy) > Math.abs(dx) * 0.6) return;
+          if (dx < 0) this.quizEngine.nextQuestion();
+          else this.quizEngine.prevQuestion();
+        }, { passive: true });
+      }
+
+      /**
+       * Nút Back của Android (bản APK gọi qua MainActivity): đóng hộp thoại / bảng câu / quay về Ngân hàng đề.
+       * Trả về false khi đã ở màn hình chính để Android xử lý (bấm 2 lần để thoát).
+       */
+      handleBack() {
+        const overlay = Overlay.topOpen();
+        if (overlay) {
+          if (overlay.id === 'dialog-modal') ui._settle(false);
+          else this.closeConfigModal();
+          return true;
+        }
+        if ($('matrix-panel').classList.contains('is-open')) {
+          this.quizEngine.toggleMatrix(false);
+          return true;
+        }
+        if (!$('paste-panel').classList.contains('hidden')) {
+          this.cancelPaste();
+          return true;
+        }
+        if ($('tab-banks').classList.contains('hidden')) {
+          this.quizEngine.saveSession(); // bài đang làm vẫn còn, thanh "Tiếp tục" hiện ở Ngân hàng đề
+          this.showTab('banks');
+          return true;
+        }
+        return false;
       }
 
       toggleTheme() {
@@ -2794,8 +2915,7 @@ Câu 2: ..."></textarea>
                 <span class="chip">${n} câu</span>
               </div>
               <div class="bank-actions">
-                <button type="button" class="icon-btn" data-act="export" data-id="${id}" title="Xuất JSON" aria-label="Xuất JSON: ${esc(b.title)}">${icon('download')}</button>
-                <button type="button" class="icon-btn" data-act="exporttxt" data-id="${id}" title="Xuất TXT" aria-label="Xuất TXT: ${esc(b.title)}">${icon('file')}</button>
+                <button type="button" class="icon-btn" data-act="export" data-id="${id}" title="Xuất file bộ đề (.json)" aria-label="Xuất file bộ đề: ${esc(b.title)}">${icon('download')}</button>
                 <button type="button" class="icon-btn danger" data-act="delete" data-id="${id}" title="${hideLabel}" aria-label="${hideLabel}: ${esc(b.title)}">${icon(b._lib ? 'eye-off' : 'trash')}</button>
               </div>
             </div>
@@ -2919,7 +3039,6 @@ Câu 2: ..."></textarea>
           case 'gear': this.quizEngine.openConfigModal(id); break;
           case 'review': this.startReview(id); break;
           case 'export': this.exportSingleBank(id); break;
-          case 'exporttxt': this.exportSingleBankTxt(id); break;
           case 'delete': this.deleteBank(id); break;
           case 'select': this.toggleSelect(id, act.checked); break;
           case 'toggle-group': this.toggleGroup(act.dataset.group); break;
@@ -3112,6 +3231,7 @@ Câu 2: ..."></textarea>
         });
       }
 
+      /** Nhập một hoặc nhiều file (.json khuôn medmcq-bank / .txt). Trả về true nếu đã lưu được ít nhất một bộ. */
       async importFiles(files) {
         const banks = [];
         const failed = [];
@@ -3119,18 +3239,17 @@ Câu 2: ..."></textarea>
         for (const file of files) {
           if (!/\.(json|txt)$/i.test(file.name)) { skipped++; continue; }
           try {
-            const text = (await file.text()).replace(/^\uFEFF/, '');
-            const found = parseImport(text, file.name);
-            if (found.length === 0) failed.push(file.name);
+            const { banks: found, error } = parseImport((await file.text()).replace(/^\uFEFF/, ''), file.name);
+            if (error) failed.push(`${file.name}: ${error}`);
             else banks.push(...found);
           } catch (err) {
             console.error(err);
-            failed.push(file.name);
+            failed.push(`${file.name}: ${err.message}`);
           }
         }
         if (skipped) ui.toast(`Bỏ qua ${skipped} file không phải .json / .txt.`, 'error');
-        if (failed.length) ui.toast(`Không nhận diện được câu hỏi trong: ${failed.join(', ')}`, 'error');
-        if (banks.length) this.commitImport(banks);
+        if (failed.length) ui.toast(`Không nhập được:\n${failed.join('\n')}`, 'error', { life: 15000 });
+        return banks.length ? this.commitImport(banks) : false;
       }
 
       commitImport(banks) {
@@ -3172,30 +3291,30 @@ Câu 2: ..."></textarea>
       }
 
       handlePaste(text) {
-        const banks = parseImport(text, '');
-        if (banks.length === 0) {
-          ui.toast('Nội dung vừa dán không có câu hỏi nào nhận diện được (cần dạng “Câu 1: … A. … Đáp án: …”).', 'error');
+        const { banks, error } = parseImport(text, '');
+        if (error) {
+          ui.toast(`Nội dung vừa dán ${error}.`, 'error');
           return;
         }
         this.pasteDraft = banks;
-        const nq = banks.reduce((n, b) => n + b.questions.length, 0);
-        const single = banks.length === 1;
+        const bank = banks[0];
         const panel = $('paste-panel');
         panel.innerHTML = `
-          <span class="paste-info">${icon('file')}<span>Nhận diện được <b>${nq} câu hỏi</b>${single ? '' : ` trong ${banks.length} bộ`}.</span></span>
-          ${single ? `<input id="paste-title" class="input" type="text" value="${esc(banks[0].title)}" aria-label="Tên bộ đề" autocomplete="off">` : ''}
+          <span class="paste-info">${icon('file')}<span>Nhận diện được <b>${bank.questions.length} câu hỏi</b>.</span></span>
+          <input id="paste-title" class="input" type="text" value="${esc(bank.title)}" aria-label="Tên bộ đề" autocomplete="off">
           <button type="button" class="btn btn-primary btn-sm" onclick="app.confirmPaste()">Lưu bộ đề</button>
           <button type="button" class="btn btn-ghost btn-sm" onclick="app.cancelPaste()">Hủy</button>`;
         panel.classList.remove('hidden');
         const input = $('paste-title');
-        if (input) { input.focus(); input.select(); }
+        input.focus();
+        input.select();
       }
 
       confirmPaste() {
         const banks = this.pasteDraft;
         if (!banks) return;
         const input = $('paste-title');
-        if (input && banks.length === 1) banks[0].title = input.value.trim() || banks[0].title;
+        if (input) banks[0].title = input.value.trim() || banks[0].title;
         this.cancelPaste();
         this.commitImport(banks);
       }
@@ -3259,7 +3378,6 @@ Câu 2: ..."></textarea>
       }
 
       loadCushingSampleToInput() {
-        this.pendingImport = null;
         $('bank-input-title').value = 'Hội chứng Cushing - Chẩn đoán & Lâm sàng';
         $('bank-input-desc').value = '4 câu trắc nghiệm chuyên đề chẩn đoán phân biệt và tiêu chuẩn lui bệnh sau phẫu thuật TSS';
         $('bank-input-raw').value = `Câu 1: Xét nghiệm sàng lọc ban đầu đầu tay (first-line screening test) được khuyến cáo để chẩn đoán Hội chứng Cushing là gì?
@@ -3295,17 +3413,8 @@ D. Không cần đo cortisol, chỉ cần xét nghiệm ACTH > 100 pg/mL
 Giải thích: Cortisol huyết tương sáng sớm giảm sâu (< 2 mcg/dL hoặc < 5 mcg/dL) trong tuần đầu sau mổ là tiêu chuẩn tin cậy nhất chứng minh phẫu thuật đã lấy sạch u và bệnh nhân lui bệnh thành công.`;
       }
 
-      /** Questions to preview/save: the original JSON (rich fields kept) while the text is untouched, else parsed text. */
-      resolveDraftQuestions() {
-        const raw = $('bank-input-raw').value.trim();
-        if (this.pendingImport && raw === this.pendingImport.raw) {
-          return { questions: JSON.parse(JSON.stringify(this.pendingImport.questions)), rich: true };
-        }
-        return { questions: McqParser.parseRawText(raw), rich: false };
-      }
-
       previewParsedQuestions() {
-        const { questions, rich } = this.resolveDraftQuestions();
+        const questions = McqParser.parseRawText($('bank-input-raw').value.trim());
         const previewBox = $('parse-preview-box');
 
         if (questions.length === 0) {
@@ -3320,7 +3429,6 @@ Giải thích: Cortisol huyết tương sáng sớm giảm sâu (< 2 mcg/dL ho�
             <span>Đã nhận diện ${questions.length} câu hỏi</span>
             <button type="button" class="btn btn-ghost btn-sm" onclick="document.getElementById('parse-preview-box').classList.add('hidden')">Đóng</button>
           </div>
-          ${rich ? '<p class="preview-note">Đang dùng dữ liệu JSON gốc: giữ nguyên giải thích từng đáp án, chủ đề, loại câu và độ khó. Nếu sửa nội dung ở khung trên, các trường này sẽ bị bỏ.</p>' : ''}
           <div class="preview-list">
             ${questions.map((q, i) => `
               <div class="preview-item">
@@ -3342,16 +3450,16 @@ Giải thích: Cortisol huyết tương sáng sớm giảm sâu (< 2 mcg/dL ho�
         if (!title) return ui.toast('Vui lòng nhập tên bộ câu hỏi.', 'error');
         if (!raw) return ui.toast('Vui lòng nhập nội dung câu hỏi.', 'error');
 
-        const { questions } = this.resolveDraftQuestions();
+        const questions = McqParser.parseRawText(raw);
         if (questions.length === 0) {
           return ui.toast('Không nhận diện được câu hỏi nào. Vui lòng kiểm tra lại cấu trúc văn bản.', 'error');
         }
 
         const newBank = {
-          id: 'bank_' + Date.now(),
+          id: newBankId(),
           title,
           description: desc || `${questions.length} câu hỏi trắc nghiệm`,
-          createdAt: new Date().toISOString(),
+          updated: new Date().toISOString(),
           questions
         };
 
@@ -3359,7 +3467,6 @@ Giải thích: Cortisol huyết tương sáng sớm giảm sâu (< 2 mcg/dL ho�
         banks.unshift(newBank);
         StorageManager.saveBanks(banks);
 
-        this.pendingImport = null;
         $('bank-input-title').value = '';
         $('bank-input-desc').value = '';
         $('bank-input-raw').value = '';
@@ -3369,83 +3476,27 @@ Giải thích: Cortisol huyết tương sáng sớm giảm sâu (< 2 mcg/dL ho�
         this.showTab('banks');
       }
 
-      handleFileImport(event) {
+      /** Nút "Tải từ file": một file .txt vào khung soạn để xem lại; file .json (một hoặc nhiều) nhập thẳng. */
+      async handleFileImport(event) {
         const input = event.target;
-        const file = input.files[0];
-        if (!file) return;
-
-        const reader = new FileReader();
-        reader.onload = async (e) => {
-          const content = e.target.result;
-          let parsed = null;
-          try { parsed = JSON.parse(content); } catch (err) { parsed = null; }
-
-          if (parsed === null || typeof parsed !== 'object') {
-            // Plain text (.txt)
-            this.pendingImport = null;
-            $('bank-input-raw').value = content;
-            $('bank-input-title').value = file.name.replace(/\.[^/.]+$/, '');
-            ui.toast('Đã tải nội dung văn bản từ file. Bấm “Xem trước” để kiểm tra.', 'ok');
-            return;
-          }
-
-          // Master file (many banks): {banks:[...]} or [bank, bank, ...]
-          const isQuestion = (x) => x && typeof x === 'object' && Array.isArray(x.options);
-          let bankList = null;
-          if (Array.isArray(parsed.banks) && parsed.banks.length > 0) bankList = parsed.banks;
-          else if (Array.isArray(parsed) && parsed.length > 0 && parsed.every((b) => b && Array.isArray(b.questions))) bankList = parsed;
-
-          if (bankList) {
-            const totalQ = bankList.reduce((acc, b) => acc + (b.questions ? b.questions.length : 0), 0);
-            const ok = await ui.confirm({
-              title: 'Nạp nhiều bộ đề?',
-              message: `Tìm thấy ${bankList.length} bộ đề (${totalQ} câu hỏi) trong file “${file.name}”.\nBộ đề trùng mã sẽ được thay thế; lịch sử làm bài được giữ nguyên.`,
-              confirmText: 'Nạp vào ứng dụng'
-            });
-            if (ok) {
-              const incoming = bankList.map((b) => (Library.byId.has(b.id) ? { ...b, id: newBankId() } : b));
-              let currentBanks = StorageManager.getBanks();
-              const newBankIds = new Set(incoming.map((b) => b.id));
-              currentBanks = currentBanks.filter((b) => !newBankIds.has(b.id));
-              incoming.forEach((b) => currentBanks.push(b));
-              StorageManager.saveBanks(currentBanks);
-              ui.toast(`Đã nạp ${bankList.length} bộ đề (${totalQ} câu hỏi).`, 'ok');
-              this.showTab('banks');
-              return;
-            }
-          }
-
-          // Single bank {questions:[...]} or bare list of questions
-          let single = null;
-          if (Array.isArray(parsed.questions)) single = parsed;
-          else if (Array.isArray(parsed) && parsed.length > 0 && parsed.every(isQuestion)) single = { questions: parsed };
-
-          if (single && single.questions.length > 0 && single.questions.every(isQuestion)) {
-            const questions = single.questions.map((q, i) => ({
-              ...q,
-              id: q.id || 'q_' + Math.random().toString(36).substring(2, 9),
-              text: q.text,
-              options: q.options,
-              correct: Number.isInteger(q.correct) && q.correct >= 0 && q.correct < q.options.length ? q.correct : 0,
-              explanation: q.explanation || ''
-            }));
-            const raw = McqParser.toRawText(questions);
-            this.pendingImport = { raw, questions };
-            $('bank-input-title').value = single.title || file.name.replace(/\.[^/.]+$/, '');
-            $('bank-input-desc').value = single.description || '';
-            $('bank-input-raw').value = raw;
-            ui.toast(`Đã nạp ${questions.length} câu hỏi vào khung soạn thảo. Bấm “Lưu bộ đề” để hoàn tất.`, 'ok');
-            this.previewParsedQuestions();
-            return;
-          }
-
-          if (!bankList) ui.toast('File JSON không có cấu trúc bộ đề hợp lệ.', 'error');
-        };
-        reader.readAsText(file, 'UTF-8');
+        const files = Array.from(input.files || []);
         input.value = ''; // allow choosing the same file again
+        if (files.length === 0) return;
+        if (files.length === 1 && /\.txt$/i.test(files[0].name)) {
+          $('bank-input-raw').value = (await files[0].text()).replace(/^\uFEFF/, '');
+          $('bank-input-title').value = files[0].name.replace(/\.[^/.]+$/, '');
+          ui.toast('Đã tải nội dung văn bản từ file. Bấm “Xem trước” để kiểm tra.', 'ok');
+          return;
+        }
+        if (await this.importFiles(files)) this.showTab('banks');
       }
 
       downloadBlob(content, mime, filename) {
+        // Bản APK (android/): WebView không tải được link blob:, nên giao file cho Android lưu.
+        if (window.AndroidBridge) {
+          window.AndroidBridge.saveFile(filename, mime, String(content));
+          return;
+        }
         const blob = new Blob([content], { type: mime });
         const url = URL.createObjectURL(blob);
         const a = document.createElement('a');
@@ -3457,25 +3508,14 @@ Giải thích: Cortisol huyết tương sáng sớm giảm sâu (< 2 mcg/dL ho�
         setTimeout(() => URL.revokeObjectURL(url), 1000);
       }
 
+      /** File <id>.json đúng khuôn medmcq-bank: nhập lại vào app, hoặc thả vào data/ rồi chạy CAP_NHAT.bat. */
       exportSingleBank(bankId) {
         const bank = Catalog.get(bankId);
         if (!bank) return;
-        const { _lib, _hidden, ...clean } = bank;
-        this.downloadBlob(JSON.stringify(clean, null, 2), 'application/json', `${safeFileName(bank.title)}.json`);
-      }
-
-      exportSingleBankTxt(bankId) {
-        const bank = Catalog.get(bankId);
-        if (!bank) return;
-        const hasRich = (bank.questions || []).some(hasOptionExplanations);
-        this.downloadBlob(McqParser.toRawText(bank.questions || []), 'text/plain;charset=utf-8', `${safeFileName(bank.title)}.txt`);
-        if (hasRich) ui.toast('File TXT không chứa giải thích từng đáp án, chủ đề và độ khó. Dùng JSON để giữ đủ dữ liệu.');
-      }
-
-      exportAllBanks() {
-        const banks = StorageManager.getBanks();
-        if (banks.length === 0) return ui.toast('Chưa có đề tự nhập nào để sao lưu. Bộ đề thư viện nằm sẵn trong thư mục data/.', 'error');
-        this.downloadBlob(JSON.stringify(banks, null, 2), 'application/json', `medmcq_all_banks_${Date.now()}.json`);
+        const file = BankFormat.toFile(bank);
+        const errs = BankFormat.validate(file);
+        if (errs.length) return ui.toast(`Bộ đề này có dữ liệu lỗi nên chưa xuất được: ${errs.slice(0, 3).join('; ')}`, 'error');
+        this.downloadBlob(JSON.stringify(file, null, 2) + '\n', 'application/json', `${file.id.replace(/[\\/:*?"<>|]/g, '_')}.json`);
       }
 
       exportHistoryJson() {

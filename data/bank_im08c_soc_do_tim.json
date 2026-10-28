@@ -1,7 +1,12 @@
 {
+  "format": "medmcq-bank",
+  "version": 1,
   "id": "bank_im08c_soc_do_tim",
+  "lesson": "IM-08c",
+  "group": "Nội khoa",
   "title": "IM-08c: Sốc Do Tim Toàn Diện (20 Câu Chuẩn Hóa Cân Đối)",
   "description": "Bộ ngân hàng trắc nghiệm chuẩn hóa loại bỏ bẫy câu dài nhất, cân đối 4 lựa chọn ngang nhau, bao phủ tiêu chuẩn CI/PCWP, NMCT > 40%, biến chứng cơ học, Sơ đồ 1 và Sơ đồ 2 chiến lược điều trị.",
+  "updated": "2026-10-22T10:23:34Z",
   "questions": [
     {
       "id": "bank_im08c_soc_do_tim_01",

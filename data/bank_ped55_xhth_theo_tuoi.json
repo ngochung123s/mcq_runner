@@ -1,1184 +1,1188 @@
 {
- "id": "bank_ped55_xhth_theo_tuoi",
- "title": "PED-55: Xuất huyết tiêu hóa — Nguyên nhân theo lứa tuổi (49 câu luyện thuộc)",
- "description": "Luyện phân định nguyên nhân XHTH theo tuổi theo barem Y Thái Bình: đoạn văn 5.2.2 (4 nhóm tuổi), bảng XHTH dưới và bảng XHTH trên (3 cột), số liệu theo tuổi và ca lâm sàng. Mỗi phương án sai là nguyên nhân của nhóm tuổi khác; có giải thích từng phương án.",
- "updated": "2026-10-27T09:56:31Z",
- "questions": [
-  {
-   "id": "PED55-T01",
-   "type": "concept",
-   "topic": "Hai hệ chia tuổi",
-   "subtopic": "Nhóm tuổi trong đoạn văn 5.2.2",
-   "bloom": "nhớ",
-   "difficulty": 1,
-   "source": "PED-55 Mục 5.2.2 (trang 94–95)",
-   "text": "Mục 5.2.2 của barem phân loại nguyên nhân XHTH dưới theo lứa tuổi.\nĐoạn văn này chia trẻ thành những nhóm tuổi nào?",
-   "options": [
-    "Sơ sinh; bú mẹ < 18 tháng; trước tuổi đi học < 6 tuổi; học đường 6–18 tuổi",
-    "Sơ sinh; nhũ nhi < 12 tháng; từ 1 đến 5 tuổi; từ 6 đến 15 tuổi",
-    "Sơ sinh; dưới 2 tuổi; từ 2 đến 10 tuổi; trên 10 tuổi (tuổi dậy thì)",
-    "Nhũ nhi; từ 2 đến 5 tuổi; trẻ lớn; tuổi vị thành niên"
-   ],
-   "correct": 0,
-   "explanation": "Đoạn văn 5.2.2 dùng <b>4 nhóm</b>: sơ sinh · bú mẹ < 18 tháng · trước tuổi đi học < 6 tuổi · học đường 6–18 tuổi. Hai bảng tổng hợp dùng hệ khác gồm <b>3 cột</b>: nhũ nhi · 2–5 tuổi · trẻ lớn.",
-   "option_explanations": [
-    "Đúng — đây đúng 4 nhóm của đoạn văn 5.2.2.",
-    "Sai — barem không dùng mốc 12 tháng hay 15 tuổi; mốc đúng là 18 tháng, 6 tuổi và 18 tuổi.",
-    "Sai — mốc 2 tuổi là số liệu của lồng ruột và Meckel, không phải cách chia nhóm của đoạn 5.2.2.",
-    "Sai — đây là kiểu chia cột của hai bảng tổng hợp (nhũ nhi, 2–5 tuổi, trẻ lớn), không phải các nhóm của đoạn văn 5.2.2; barem không có nhóm vị thành niên riêng."
-   ]
-  },
-  {
-   "id": "PED55-T02",
-   "type": "concept",
-   "topic": "Hai hệ chia tuổi",
-   "subtopic": "Cột của hai bảng tổng hợp",
-   "bloom": "nhớ",
-   "difficulty": 1,
-   "source": "PED-55 Bảng nguyên nhân XHTH dưới (trang 95)",
-   "text": "Barem có hai bảng tổng hợp nguyên nhân: một bảng cho XHTH trên và một bảng cho XHTH dưới.\nHai bảng này chia trẻ thành những cột tuổi nào?",
-   "options": [
-    "Nhũ nhi; từ 2 đến 5 tuổi; trẻ lớn",
-    "Sơ sinh; bú mẹ < 18 tháng; trước tuổi đi học; học đường",
-    "Sơ sinh; nhũ nhi; từ 2 đến 5 tuổi; trẻ lớn",
-    "Dưới 2 tuổi; từ 2 đến 6 tuổi; từ 6 đến 18 tuổi"
-   ],
-   "correct": 0,
-   "explanation": "Hai bảng tổng hợp (trên và dưới) dùng chung <b>3 cột</b>: nhũ nhi · 2–5 tuổi · trẻ lớn. Đề hỏi \"theo lứa tuổi\" thì dùng 4 nhóm của đoạn văn; đề hỏi \"bảng tổng hợp\" thì dùng 3 cột này.",
-   "option_explanations": [
-    "Đúng — cả hai bảng tổng hợp đều dùng đúng 3 cột này.",
-    "Sai — đây là 4 nhóm của đoạn văn 5.2.2, không phải các cột của bảng tổng hợp.",
-    "Sai — hai bảng không có cột sơ sinh riêng; nguyên nhân sơ sinh nằm trong cột nhũ nhi.",
-    "Sai — bảng không dùng mốc 6 tuổi; mốc giữa là 2–5 tuổi."
-   ]
-  },
-  {
-   "id": "PED55-T03",
-   "type": "concept",
-   "topic": "Hai hệ chia tuổi",
-   "subtopic": "Lồng ruột: đoạn văn",
-   "bloom": "nhớ",
-   "difficulty": 2,
-   "source": "PED-55 Mục 5.2.2 (trang 94–95)",
-   "text": "Theo đoạn văn mục 5.2.2 của barem (chia XHTH dưới theo 4 nhóm tuổi).\nLồng ruột cấp tính được xếp vào nhóm tuổi nào?",
-   "options": [
-    "Sơ sinh (0–28 ngày tuổi)",
-    "Bú mẹ (dưới 18 tháng)",
-    "Trước đi học (< 6 tuổi)",
-    "Học đường (6–18 tuổi)"
-   ],
-   "correct": 1,
-   "explanation": "Bẫy: <b>đoạn văn</b> xếp lồng ruột vào nhóm <b>bú mẹ < 18 tháng</b>, còn <b>bảng tổng hợp</b> xếp vào cột <b>2–5 tuổi</b>.",
-   "option_explanations": [
-    "Sai — nhóm sơ sinh chỉ có thiếu vitamin K, viêm ruột non hoại tử và xoắn toàn bộ ruột non.",
-    "Đúng — đoạn văn xếp lồng ruột cấp vào nhóm bú mẹ < 18 tháng (> 80% lồng ruột ở trẻ < 2 tuổi).",
-    "Sai — nhóm < 6 tuổi gồm viêm đại tràng nhiễm khuẩn, Pigbel, Henoch, polyp; lồng ruột chỉ nằm ở cột 2–5 tuổi của BẢNG.",
-    "Sai — nhóm 6–18 tuổi gồm viêm ruột xuất huyết và Meckel, vỡ túi máu ruột non, viêm đại tràng."
-   ]
-  },
-  {
-   "id": "PED55-T04",
-   "type": "concept",
-   "topic": "Hai hệ chia tuổi",
-   "subtopic": "Lồng ruột: bảng",
-   "bloom": "nhớ",
-   "difficulty": 2,
-   "source": "PED-55 Bảng nguyên nhân XHTH dưới (trang 95)",
-   "text": "Theo bảng tổng hợp nguyên nhân XHTH dưới của barem (3 cột tuổi).\nLồng ruột nằm ở cột nào?",
-   "options": [
-    "Cột nhũ nhi",
-    "Cột 2–5 tuổi",
-    "Cột trẻ lớn",
-    "Cả cột 2–5 tuổi và cột trẻ lớn"
-   ],
-   "correct": 1,
-   "explanation": "Trong bảng XHTH dưới, <b>lồng ruột và Meckel</b> chỉ có ở cột <b>2–5 tuổi</b>. Nhưng trong đoạn văn 5.2.2, lồng ruột thuộc nhóm bú mẹ < 18 tháng.",
-   "option_explanations": [
-    "Sai — cột nhũ nhi có các dị tật (ruột đôi, xoắn ruột, Hirschsprung) nhưng không có lồng ruột.",
-    "Đúng — bảng xếp lồng ruột (cùng Meckel) chỉ ở cột 2–5 tuổi.",
-    "Sai — cột trẻ lớn là cột 2–5 tuổi bỏ lồng ruột, Meckel rồi thêm IBD, chảy máu do can thiệp.",
-    "Sai — lồng ruột là một trong hai nguyên nhân cột 2–5 tuổi có mà cột trẻ lớn không có."
-   ]
-  },
-  {
-   "id": "PED55-T05",
-   "type": "concept",
-   "topic": "Hai hệ chia tuổi",
-   "subtopic": "Meckel: đoạn văn",
-   "bloom": "nhớ",
-   "difficulty": 3,
-   "source": "PED-55 Mục 5.2.2 (trang 94–95)",
-   "text": "Theo đoạn văn mục 5.2.2 của barem (4 nhóm tuổi).\nViêm loét túi thừa Meckel được nêu ở những nhóm tuổi nào?",
-   "options": [
-    "Nhóm bú mẹ < 18 tháng và nhóm trước tuổi đi học",
-    "Chỉ ở nhóm bú mẹ dưới 18 tháng",
-    "Nhóm trước tuổi đi học và nhóm học đường 6–18 tuổi",
-    "Nhóm bú mẹ < 18 tháng và nhóm học đường 6–18 tuổi"
-   ],
-   "correct": 3,
-   "explanation": "Đoạn văn: Meckel ở nhóm <b>bú mẹ < 18 tháng</b> và nhóm <b>học đường 6–18 tuổi</b>. Bảng tổng hợp: Meckel chỉ ở cột <b>2–5 tuổi</b>.",
-   "option_explanations": [
-    "Sai — nhóm < 6 tuổi gồm viêm đại tràng nhiễm khuẩn, Pigbel, Henoch, polyp; không có Meckel.",
-    "Sai — Meckel còn được nêu lại ở nhóm 6–18 tuổi (mục \"các nguyên nhân khác\").",
-    "Sai — nhóm < 6 tuổi không có Meckel; Meckel xuất hiện lần đầu ở nhóm bú mẹ < 18 tháng.",
-    "Đúng — Meckel có ở nhóm bú mẹ < 18 tháng (chảy máu không đau, 60% < 2 tuổi) và nhóm 6–18 tuổi."
-   ]
-  },
-  {
-   "id": "PED55-P01",
-   "type": "concept",
-   "topic": "Đoạn 5.2.2 – XHTH dưới",
-   "subtopic": "Nhóm sơ sinh",
-   "bloom": "nhớ",
-   "difficulty": 1,
-   "source": "PED-55 Mục 5.2.2 (trang 94–95)",
-   "text": "Đoạn văn mục 5.2.2 của barem nêu 3 nguyên nhân XHTH dưới ở trẻ sơ sinh.\nĐó là 3 nguyên nhân nào?",
-   "options": [
-    "Thiếu vitamin K; viêm ruột non hoại tử; xoắn toàn bộ ruột non",
-    "Dị ứng đạm sữa bò; viêm ruột non hoại tử; xoắn toàn bộ ruột non",
-    "Dị ứng đạm sữa bò; viêm ruột non hoại tử; bệnh Hirschsprung",
-    "Dị ứng đạm sữa bò; lồng ruột cấp tính; xoắn toàn bộ ruột non"
-   ],
-   "correct": 0,
-   "explanation": "Sơ sinh = <b>\"K – Hoại – Xoắn\"</b>: thiếu vitamin K (ngày 2–3; thiếu yếu tố II, VII, IX, X) · viêm ruột non hoại tử (sơ sinh, đẻ non) · xoắn toàn bộ ruột non (ruột quay, cuốn bất thường mạc treo).",
-   "option_explanations": [
-    "Đúng — đúng 3 nguyên nhân sơ sinh của đoạn 5.2.2 (\"K – Hoại – Xoắn\").",
-    "Sai — trong đoạn 5.2.2, không dung nạp đạm sữa thuộc nhóm bú mẹ < 18 tháng, và phương án thiếu nguyên nhân thiếu vitamin K. (Bộ ba này đều nằm ở cột nhũ nhi của BẢNG, nhưng câu hỏi theo đoạn văn.)",
-    "Sai — dị ứng đạm sữa thuộc nhóm bú mẹ < 18 tháng; Hirschsprung chỉ có ở cột nhũ nhi của BẢNG.",
-    "Sai — dị ứng đạm sữa và lồng ruột cấp đều thuộc nhóm bú mẹ < 18 tháng."
-   ]
-  },
-  {
-   "id": "PED55-P02",
-   "type": "concept",
-   "topic": "Đoạn 5.2.2 – XHTH dưới",
-   "subtopic": "Nhóm bú mẹ < 18 tháng",
-   "bloom": "nhớ",
-   "difficulty": 2,
-   "source": "PED-55 Mục 5.2.2 (trang 94–95)",
-   "text": "Đoạn văn mục 5.2.2 của barem nêu 5 nguyên nhân XHTH dưới ở trẻ bú mẹ dưới 18 tháng.\nTập hợp nào đúng?",
-   "options": [
-    "Lị; lồng ruột cấp; không dung nạp đạm sữa; Meckel; nứt hậu môn",
-    "Lị; lồng ruột cấp; xoắn toàn bộ ruột non; polyp; nứt hậu môn",
-    "Lị; lồng ruột cấp; không dung nạp đạm sữa; polyp; nứt hậu môn",
-    "Lị; Henoch; không dung nạp đạm sữa; polyp; nứt hậu môn"
-   ],
-   "correct": 0,
-   "explanation": "Bú mẹ < 18 tháng = <b>\"Lị – Lồng – Sữa – Meckel – Nứt\"</b>: ỉa chảy nhiễm khuẩn (hội chứng lị) · lồng ruột cấp · không dung nạp protein sữa bò hoặc đậu nành · loét túi thừa Meckel · nứt hậu môn do táo bón.",
-   "option_explanations": [
-    "Đúng — đúng 5 nguyên nhân (\"Lị – Lồng – Sữa – Meckel – Nứt\").",
-    "Sai — xoắn toàn bộ ruột non thuộc nhóm sơ sinh; polyp thuộc nhóm < 6 tuổi.",
-    "Sai — polyp thuộc nhóm trước tuổi đi học < 6 tuổi; thiếu Meckel.",
-    "Sai — Henoch và polyp đều thuộc nhóm trước tuổi đi học < 6 tuổi."
-   ]
-  },
-  {
-   "id": "PED55-P03",
-   "type": "concept",
-   "topic": "Đoạn 5.2.2 – XHTH dưới",
-   "subtopic": "Nhóm trước tuổi đi học",
-   "bloom": "nhớ",
-   "difficulty": 2,
-   "source": "PED-55 Mục 5.2.2 (trang 94–95)",
-   "text": "Đoạn văn mục 5.2.2 của barem nêu 4 nguyên nhân XHTH dưới ở trẻ trước tuổi đi học (< 6 tuổi).\nTập hợp nào đúng?",
-   "options": [
-    "Viêm đại tràng nhiễm khuẩn; Pigbel; Henoch; Meckel",
-    "Viêm đại tràng nhiễm khuẩn; lồng ruột; Henoch; Meckel",
-    "Viêm đại tràng nhiễm khuẩn; Pigbel; dị ứng sữa; Meckel",
-    "Viêm đại tràng nhiễm khuẩn; Pigbel; Henoch; polyp"
-   ],
-   "correct": 3,
-   "explanation": "Trước tuổi đi học = <b>\"3P + 1 Viêm\"</b>: <b>P</b>olyp · <b>P</b>igbel (viêm ruột non hoại tử trẻ lớn) · <b>P</b>urpura Schönlein–Henoch · <b>viêm</b> trực tràng, đại tràng do nhiễm khuẩn, kí sinh.",
-   "option_explanations": [
-    "Sai — Meckel thuộc nhóm bú mẹ < 18 tháng và nhóm 6–18 tuổi; thiếu polyp.",
-    "Sai — lồng ruột và Meckel đều thuộc nhóm bú mẹ < 18 tháng.",
-    "Sai — dị ứng sữa và Meckel thuộc nhóm bú mẹ < 18 tháng.",
-    "Đúng — đúng 4 nguyên nhân (\"3P + 1 Viêm\": Polyp, Pigbel, Purpura Henoch + viêm đại tràng)."
-   ]
-  },
-  {
-   "id": "PED55-P04",
-   "type": "concept",
-   "topic": "Đoạn 5.2.2 – XHTH dưới",
-   "subtopic": "Nhóm học đường 6–18 tuổi",
-   "bloom": "nhớ",
-   "difficulty": 2,
-   "source": "PED-55 Mục 5.2.2 (trang 94–95)",
-   "text": "Đoạn văn mục 5.2.2 của barem mô tả nguyên nhân XHTH dưới ở trẻ tuổi học đường (6–18 tuổi).\nNội dung nào đúng?",
-   "options": [
-    "Viêm ruột xuất huyết (hoại tử, amip, lị); khác: polyp, Henoch, viêm đại tràng nhiễm khuẩn",
-    "Viêm ruột xuất huyết (hoại tử, amip, lị); khác: lồng ruột, Meckel, nứt hậu môn do táo bón",
-    "Bệnh ruột viêm (IBD); khác: polyp, u bạch huyết, tăng sản mạch máu, chảy máu do can thiệp",
-    "Viêm ruột xuất huyết (hoại tử, amip, lị); khác: Meckel, vỡ túi máu ruột non, viêm đại tràng"
-   ],
-   "correct": 3,
-   "explanation": "Học đường 6–18 tuổi: <b>viêm ruột xuất huyết</b> (viêm ruột hoại tử, amip, lị → phân máu nhầy toàn bãi; viêm hậu môn, trực tràng → máu tươi nhầy) và <b>nguyên nhân khác</b>: Meckel, vỡ túi máu ở ruột non, viêm đại tràng.",
-   "option_explanations": [
-    "Sai — polyp và Henoch thuộc nhóm trước tuổi đi học < 6 tuổi.",
-    "Sai — lồng ruột và nứt hậu môn do táo bón thuộc nhóm bú mẹ < 18 tháng.",
-    "Sai — đây là nội dung cột trẻ lớn của BẢNG tổng hợp, không phải đoạn văn nhóm 6–18 tuổi.",
-    "Đúng — đúng nội dung nhóm 6–18 tuổi của đoạn 5.2.2."
-   ]
-  },
-  {
-   "id": "PED55-P05",
-   "type": "concept",
-   "topic": "Đoạn 5.2.2 – XHTH dưới",
-   "subtopic": "Pigbel",
-   "bloom": "nhớ",
-   "difficulty": 2,
-   "source": "PED-55 Mục 5.2.2 (trang 94–95)",
-   "text": "Theo đoạn văn mục 5.2.2 của barem.\nViêm ruột non hoại tử trẻ lớn (hội chứng Pigbel) thuộc nhóm tuổi nào?",
-   "options": [
-    "Sơ sinh (0–28 ngày tuổi)",
-    "Bú mẹ (dưới 18 tháng)",
-    "Trước đi học (< 6 tuổi)",
-    "Học đường (6–18 tuổi)"
-   ],
-   "correct": 2,
-   "explanation": "Viêm ruột hoại tử xuất hiện ở 3 chỗ: sơ sinh (đẻ non) · <b>< 6 tuổi (Pigbel)</b> · 6–18 tuổi (trong viêm ruột xuất huyết). Tên \"Pigbel\" gắn với nhóm <b>trước tuổi đi học</b>.",
-   "option_explanations": [
-    "Sai — nhóm sơ sinh có viêm ruột non hoại tử ở trẻ sơ sinh, đẻ non, không phải Pigbel.",
-    "Sai — nhóm bú mẹ < 18 tháng không có viêm ruột hoại tử.",
-    "Đúng — Pigbel nằm ở nhóm trước tuổi đi học < 6 tuổi (một trong \"3P\").",
-    "Sai — nhóm 6–18 tuổi có \"viêm ruột xuất huyết: viêm ruột hoại tử…\", nhưng tên Pigbel được barem ghi ở nhóm < 6 tuổi."
-   ]
-  },
-  {
-   "id": "PED55-P06",
-   "type": "concept",
-   "topic": "Đoạn 5.2.2 – XHTH dưới",
-   "subtopic": "Polyp",
-   "bloom": "nhớ",
-   "difficulty": 1,
-   "source": "PED-55 Mục 5.2.2 (trang 94–95)",
-   "text": "Theo đoạn văn mục 5.2.2 của barem.\nPolyp trực tràng, đại tràng được xếp vào nhóm tuổi nào?",
-   "options": [
-    "Sơ sinh (0–28 ngày tuổi)",
-    "Bú mẹ (dưới 18 tháng)",
-    "Trước đi học (< 6 tuổi)",
-    "Học đường (6–18 tuổi)"
-   ],
-   "correct": 2,
-   "explanation": "Đoạn văn: polyp ở nhóm <b>< 6 tuổi</b>. Bảng XHTH dưới: polyp ở cột 2–5 tuổi và cột trẻ lớn.",
-   "option_explanations": [
-    "Sai — nhóm sơ sinh chỉ gồm thiếu vitamin K, viêm ruột non hoại tử, xoắn toàn bộ ruột non.",
-    "Sai — nhóm bú mẹ < 18 tháng gồm lị, lồng ruột, không dung nạp đạm sữa, Meckel, nứt hậu môn.",
-    "Đúng — polyp thuộc nhóm trước tuổi đi học < 6 tuổi.",
-    "Sai — nhóm 6–18 tuổi gồm viêm ruột xuất huyết và Meckel, vỡ túi máu ruột non, viêm đại tràng."
-   ]
-  },
-  {
-   "id": "PED55-P07",
-   "type": "concept",
-   "topic": "Đoạn 5.2.2 – XHTH dưới",
-   "subtopic": "Không dung nạp đạm sữa",
-   "bloom": "nhớ",
-   "difficulty": 1,
-   "source": "PED-55 Mục 5.2.2 (trang 94–95)",
-   "text": "Theo đoạn văn mục 5.2.2 của barem.\nKhông dung nạp protein sữa bò hoặc đậu nành gây ỉa phân lỏng có máu được xếp vào nhóm tuổi nào?",
-   "options": [
-    "Sơ sinh (0–28 ngày tuổi)",
-    "Bú mẹ (dưới 18 tháng)",
-    "Trước đi học (< 6 tuổi)",
-    "Học đường (6–18 tuổi)"
-   ],
-   "correct": 1,
-   "explanation": "Đoạn văn: không dung nạp đạm sữa ở nhóm <b>bú mẹ < 18 tháng</b> (\"Lị – Lồng – <b>Sữa</b> – Meckel – Nứt\").",
-   "option_explanations": [
-    "Sai — nhóm sơ sinh chỉ gồm thiếu vitamin K, viêm ruột non hoại tử, xoắn toàn bộ ruột non.",
-    "Đúng — không dung nạp đạm sữa thuộc nhóm bú mẹ < 18 tháng.",
-    "Sai — nhóm < 6 tuổi gồm viêm đại tràng nhiễm khuẩn, Pigbel, Henoch, polyp.",
-    "Sai — nhóm 6–18 tuổi không có nguyên nhân liên quan sữa."
-   ]
-  },
-  {
-   "id": "PED55-P08",
-   "type": "concept",
-   "topic": "Đoạn 5.2.2 – XHTH dưới",
-   "subtopic": "Henoch",
-   "bloom": "nhớ",
-   "difficulty": 1,
-   "source": "PED-55 Mục 5.2.2 (trang 94–95)",
-   "text": "Theo đoạn văn mục 5.2.2 của barem.\nXHTH trong bệnh Schönlein–Henoch được xếp vào nhóm tuổi nào?",
-   "options": [
-    "Sơ sinh (0–28 ngày tuổi)",
-    "Bú mẹ (dưới 18 tháng)",
-    "Trước đi học (< 6 tuổi)",
-    "Học đường (6–18 tuổi)"
-   ],
-   "correct": 2,
-   "explanation": "Đoạn văn: Henoch ở nhóm <b>< 6 tuổi</b>. Bảng XHTH dưới: Henoch ở cột 2–5 tuổi và cột trẻ lớn.",
-   "option_explanations": [
-    "Sai — nhóm sơ sinh chỉ gồm thiếu vitamin K, viêm ruột non hoại tử, xoắn toàn bộ ruột non.",
-    "Sai — nhóm bú mẹ < 18 tháng gồm lị, lồng ruột, không dung nạp đạm sữa, Meckel, nứt hậu môn.",
-    "Đúng — Henoch thuộc nhóm trước tuổi đi học < 6 tuổi (chữ P = Purpura trong \"3P\").",
-    "Sai — nhóm 6–18 tuổi gồm viêm ruột xuất huyết và Meckel, vỡ túi máu ruột non, viêm đại tràng."
-   ]
-  },
-  {
-   "id": "PED55-P09",
-   "type": "concept",
-   "topic": "Đoạn 5.2.2 – XHTH dưới",
-   "subtopic": "Xoắn ruột",
-   "bloom": "nhớ",
-   "difficulty": 2,
-   "source": "PED-55 Mục 5.2.2 (trang 94–95)",
-   "text": "Theo đoạn văn mục 5.2.2 của barem.\nXoắn toàn bộ ruột non do ruột quay, cuốn bất thường mạc treo được xếp vào nhóm tuổi nào?",
-   "options": [
-    "Sơ sinh (0–28 ngày tuổi)",
-    "Bú mẹ (dưới 18 tháng)",
-    "Trước đi học (< 6 tuổi)",
-    "Học đường (6–18 tuổi)"
-   ],
-   "correct": 0,
-   "explanation": "Sơ sinh = <b>\"K – Hoại – Xoắn\"</b>. Trong bảng, xoắn ruột cũng chỉ nằm ở cột nhũ nhi.",
-   "option_explanations": [
-    "Đúng — xoắn toàn bộ ruột non thuộc nhóm sơ sinh (\"K – Hoại – Xoắn\").",
-    "Sai — nhóm bú mẹ < 18 tháng gồm lị, lồng ruột, không dung nạp đạm sữa, Meckel, nứt hậu môn.",
-    "Sai — nhóm < 6 tuổi gồm viêm đại tràng nhiễm khuẩn, Pigbel, Henoch, polyp.",
-    "Sai — nhóm 6–18 tuổi gồm viêm ruột xuất huyết và Meckel, vỡ túi máu ruột non, viêm đại tràng."
-   ]
-  },
-  {
-   "id": "PED55-L01",
-   "type": "concept",
-   "topic": "Bảng XHTH dưới",
-   "subtopic": "Ruột đôi",
-   "bloom": "nhớ",
-   "difficulty": 1,
-   "source": "PED-55 Bảng nguyên nhân XHTH dưới (trang 95)",
-   "text": "Theo bảng tổng hợp nguyên nhân XHTH dưới của barem.\nRuột đôi nằm ở cột tuổi nào?",
-   "options": [
-    "Chỉ cột nhũ nhi",
-    "Chỉ cột 2–5 tuổi",
-    "Chỉ cột trẻ lớn",
-    "Cột 2–5 tuổi và trẻ lớn"
-   ],
-   "correct": 0,
-   "explanation": "Cột nhũ nhi bảng XHTH dưới = <b>3 dị tật</b> (ruột đôi, xoắn ruột, Hirschsprung) + <b>3 viêm</b> (viêm đại tràng không đặc hiệu, dị ứng sữa, viêm ruột hoại tử) + nứt kẽ hậu môn + chảy máu do can thiệp.",
-   "option_explanations": [
-    "Đúng — ruột đôi là một trong 3 dị tật bẩm sinh của cột nhũ nhi (ruột đôi, xoắn ruột, Hirschsprung).",
-    "Sai — cột 2–5 tuổi không có dị tật bẩm sinh nào; nổi bật ở đó là lồng ruột và Meckel.",
-    "Sai — cột trẻ lớn không có dị tật bẩm sinh; riêng cột này có IBD.",
-    "Sai — ruột đôi là dị tật bẩm sinh, chỉ ở cột nhũ nhi; 7 nguyên nhân chung của hai cột kia không gồm dị tật."
-   ]
-  },
-  {
-   "id": "PED55-L02",
-   "type": "concept",
-   "topic": "Bảng XHTH dưới",
-   "subtopic": "Huyết tán ure máu cao",
-   "bloom": "nhớ",
-   "difficulty": 2,
-   "source": "PED-55 Bảng nguyên nhân XHTH dưới (trang 95)",
-   "text": "Theo bảng tổng hợp nguyên nhân XHTH dưới của barem.\nHội chứng huyết tán ure máu cao nằm ở cột tuổi nào?",
-   "options": [
-    "Cột nhũ nhi và 2–5 tuổi",
-    "Cột nhũ nhi và trẻ lớn",
-    "Cột 2–5 tuổi và trẻ lớn",
-    "Chỉ cột trẻ lớn"
-   ],
-   "correct": 2,
-   "explanation": "7 nguyên nhân chung của cột 2–5 tuổi và cột trẻ lớn: <b>3 tại chỗ</b> (polyp, nứt kẽ hậu môn, nhiễm trùng ruột) · <b>2 toàn thân</b> (Henoch, huyết tán ure máu cao) · <b>2 khối</b> (u bạch huyết, tăng sản mạch máu).",
-   "option_explanations": [
-    "Sai — cột nhũ nhi không có huyết tán ure máu cao.",
-    "Sai — cột nhũ nhi không có huyết tán ure máu cao; cặp nhũ nhi + trẻ lớn là của chảy máu do can thiệp.",
-    "Đúng — huyết tán ure máu cao là một trong 7 nguyên nhân chung của cột 2–5 tuổi và cột trẻ lớn.",
-    "Sai — huyết tán ure máu cao không riêng cột trẻ lớn; cột 2–5 tuổi cũng có."
-   ]
-  },
-  {
-   "id": "PED55-L03",
-   "type": "concept",
-   "topic": "Bảng XHTH dưới",
-   "subtopic": "Bệnh ruột viêm (IBD)",
-   "bloom": "nhớ",
-   "difficulty": 2,
-   "source": "PED-55 Bảng nguyên nhân XHTH dưới (trang 95)",
-   "text": "Theo bảng tổng hợp nguyên nhân XHTH dưới của barem.\nBệnh ruột viêm (IBD) nằm ở cột tuổi nào?",
-   "options": [
-    "Chỉ cột nhũ nhi",
-    "Chỉ cột 2–5 tuổi",
-    "Chỉ cột trẻ lớn",
-    "Cột 2–5 tuổi và trẻ lớn"
-   ],
-   "correct": 2,
-   "explanation": "Mẹo: <b>Trẻ lớn = 2–5 tuổi − lồng ruột − Meckel + IBD + chảy máu do can thiệp.</b>",
-   "option_explanations": [
-    "Sai — cột nhũ nhi có viêm đại tràng không đặc hiệu, không có IBD.",
-    "Sai — cột 2–5 tuổi không có IBD.",
-    "Đúng — IBD chỉ có ở cột trẻ lớn (cùng với chảy máu do can thiệp, đây là phần thêm so với cột 2–5 tuổi).",
-    "Sai — IBD không nằm trong 7 nguyên nhân chung; cột 2–5 tuổi không có IBD."
-   ]
-  },
-  {
-   "id": "PED55-L04",
-   "type": "concept",
-   "topic": "Bảng XHTH dưới",
-   "subtopic": "U bạch huyết",
-   "bloom": "nhớ",
-   "difficulty": 3,
-   "source": "PED-55 Bảng nguyên nhân XHTH dưới (trang 95)",
-   "text": "Theo bảng tổng hợp nguyên nhân XHTH dưới của barem.\nU bạch huyết nằm ở cột tuổi nào?",
-   "options": [
-    "Cột nhũ nhi và 2–5 tuổi",
-    "Cột nhũ nhi và trẻ lớn",
-    "Cột 2–5 tuổi và trẻ lớn",
-    "Chỉ cột trẻ lớn"
-   ],
-   "correct": 2,
-   "explanation": "Nhóm <b>2 khối</b> (u bạch huyết, tăng sản mạch máu) có ở cả cột 2–5 tuổi và cột trẻ lớn.",
-   "option_explanations": [
-    "Sai — cột nhũ nhi không có u bạch huyết.",
-    "Sai — cột nhũ nhi không có u bạch huyết.",
-    "Đúng — u bạch huyết là một trong 2 \"khối\" (cùng tăng sản mạch máu) của 7 nguyên nhân chung.",
-    "Sai — u bạch huyết không riêng cột trẻ lớn; cột 2–5 tuổi cũng có."
-   ]
-  },
-  {
-   "id": "PED55-L05",
-   "type": "concept",
-   "topic": "Bảng XHTH dưới",
-   "subtopic": "Nguyên nhân có ở cả 3 cột",
-   "bloom": "nhớ",
-   "difficulty": 2,
-   "source": "PED-55 Bảng nguyên nhân XHTH dưới (trang 95)",
-   "text": "Trong bảng tổng hợp nguyên nhân XHTH dưới của barem, có một nguyên nhân xuất hiện ở cả 3 cột (nhũ nhi, 2–5 tuổi, trẻ lớn).\nĐó là nguyên nhân nào?",
-   "options": [
-    "Viêm ruột hoại tử",
-    "Nhiễm trùng đường ruột",
-    "Polyp đại trực tràng",
-    "Nứt kẽ hậu môn"
-   ],
-   "correct": 3,
-   "explanation": "<b>Nứt kẽ hậu môn</b> là nguyên nhân duy nhất có mặt ở cả 3 cột của bảng XHTH dưới.",
-   "option_explanations": [
-    "Sai — viêm ruột hoại tử chỉ có ở cột nhũ nhi.",
-    "Sai — cột nhũ nhi không có nhiễm trùng đường ruột (có viêm đại tràng không đặc hiệu).",
-    "Sai — polyp chỉ có ở cột 2–5 tuổi và cột trẻ lớn.",
-    "Đúng — nứt kẽ hậu môn là nguyên nhân duy nhất có ở cả 3 cột."
-   ]
-  },
-  {
-   "id": "PED55-L06",
-   "type": "concept",
-   "topic": "Bảng XHTH dưới",
-   "subtopic": "Chảy máu do can thiệp",
-   "bloom": "nhớ",
-   "difficulty": 3,
-   "source": "PED-55 Bảng nguyên nhân XHTH dưới (trang 95)",
-   "text": "Theo bảng tổng hợp nguyên nhân XHTH dưới của barem.\n\"Chảy máu do can thiệp\" nằm ở những cột nào?",
-   "options": [
-    "Cột nhũ nhi và 2–5 tuổi",
-    "Cột nhũ nhi và trẻ lớn",
-    "Cột 2–5 tuổi và trẻ lớn",
-    "Chỉ cột trẻ lớn"
-   ],
-   "correct": 1,
-   "explanation": "\"Chảy máu do can thiệp\" ở <b>nhũ nhi và trẻ lớn</b>, bỏ qua cột 2–5 tuổi. Đây là một trong 2 thứ cột trẻ lớn thêm vào so với cột 2–5 tuổi (cùng IBD).",
-   "option_explanations": [
-    "Sai — cột 2–5 tuổi không có chảy máu do can thiệp.",
-    "Đúng — chảy máu do can thiệp có ở cột nhũ nhi và cột trẻ lớn, cột 2–5 tuổi không có.",
-    "Sai — cột 2–5 tuổi không có chảy máu do can thiệp.",
-    "Sai — chảy máu do can thiệp không riêng cột trẻ lớn; cột nhũ nhi cũng có."
-   ]
-  },
-  {
-   "id": "PED55-L07",
-   "type": "concept",
-   "topic": "Bảng XHTH dưới",
-   "subtopic": "Khác biệt 2–5 tuổi so với trẻ lớn",
-   "bloom": "nhớ",
-   "difficulty": 2,
-   "source": "PED-55 Bảng nguyên nhân XHTH dưới (trang 95)",
-   "text": "So sánh cột 2–5 tuổi với cột trẻ lớn trong bảng tổng hợp nguyên nhân XHTH dưới của barem.\nHai nguyên nhân nào có ở cột 2–5 tuổi nhưng KHÔNG có ở cột trẻ lớn?",
-   "options": [
-    "U bạch huyết và tăng sản mạch máu",
-    "Nhiễm trùng ruột và huyết tán ure máu cao",
-    "Polyp và Schönlein–Henoch",
-    "Lồng ruột và viêm loét túi thừa Meckel"
-   ],
-   "correct": 3,
-   "explanation": "<b>Trẻ lớn = 2–5 tuổi − lồng ruột − Meckel + IBD + chảy máu do can thiệp.</b>",
-   "option_explanations": [
-    "Sai — hai \"khối\" này có ở cả hai cột.",
-    "Sai — hai nguyên nhân này có ở cả hai cột.",
-    "Sai — cả polyp và Henoch đều có ở cả hai cột.",
-    "Đúng — đây là 2 nguyên nhân chỉ có ở cột 2–5 tuổi."
-   ]
-  },
-  {
-   "id": "PED55-L08",
-   "type": "concept",
-   "topic": "Bảng XHTH dưới",
-   "subtopic": "3 dị tật cột nhũ nhi",
-   "bloom": "nhớ",
-   "difficulty": 2,
-   "source": "PED-55 Bảng nguyên nhân XHTH dưới (trang 95)",
-   "text": "Cột nhũ nhi trong bảng tổng hợp nguyên nhân XHTH dưới của barem có 3 dị tật bẩm sinh.\nĐó là 3 dị tật nào?",
-   "options": [
-    "Túi thừa Meckel; xoắn ruột; Hirschsprung",
-    "Túi thừa Meckel; xoắn ruột; tăng sản mạch máu",
-    "Túi thừa Meckel; lồng ruột; Hirschsprung",
-    "Ruột đôi; xoắn ruột; Hirschsprung"
-   ],
-   "correct": 3,
-   "explanation": "Cột nhũ nhi = <b>3 dị tật</b> (ruột đôi, xoắn ruột, Hirschsprung) + <b>3 viêm</b> (viêm đại tràng không đặc hiệu, dị ứng sữa, viêm ruột hoại tử) + nứt kẽ hậu môn + chảy máu do can thiệp.",
-   "option_explanations": [
-    "Sai — Meckel nằm ở cột 2–5 tuổi trong bảng; thiếu ruột đôi.",
-    "Sai — Meckel nằm ở cột 2–5 tuổi; tăng sản mạch máu ở cột 2–5 tuổi và trẻ lớn.",
-    "Sai — Meckel và lồng ruột đều nằm ở cột 2–5 tuổi.",
-    "Đúng — đúng 3 dị tật của cột nhũ nhi."
-   ]
-  },
-  {
-   "id": "PED55-L09",
-   "type": "concept",
-   "topic": "Bảng XHTH dưới",
-   "subtopic": "Viêm ruột hoại tử",
-   "bloom": "nhớ",
-   "difficulty": 1,
-   "source": "PED-55 Bảng nguyên nhân XHTH dưới (trang 95)",
-   "text": "Theo bảng tổng hợp nguyên nhân XHTH dưới của barem.\nViêm ruột hoại tử nằm ở cột tuổi nào?",
-   "options": [
-    "Chỉ cột nhũ nhi",
-    "Chỉ cột 2–5 tuổi",
-    "Chỉ cột trẻ lớn",
-    "Cột 2–5 tuổi và trẻ lớn"
-   ],
-   "correct": 0,
-   "explanation": "Trong BẢNG, viêm ruột hoại tử chỉ có ở cột <b>nhũ nhi</b>. Trong ĐOẠN VĂN, viêm ruột hoại tử có ở nhóm sơ sinh, nhóm < 6 tuổi (Pigbel) và nhóm 6–18 tuổi.",
-   "option_explanations": [
-    "Đúng — viêm ruột hoại tử là một trong \"3 viêm\" của cột nhũ nhi.",
-    "Sai — cột 2–5 tuổi có nhiễm trùng đường ruột, không ghi viêm ruột hoại tử.",
-    "Sai — cột trẻ lớn không có viêm ruột hoại tử.",
-    "Sai — viêm ruột hoại tử không nằm trong 7 nguyên nhân chung."
-   ]
-  },
-  {
-   "id": "PED55-U01",
-   "type": "concept",
-   "topic": "Bảng XHTH trên",
-   "subtopic": "Dạ dày – nhũ nhi",
-   "bloom": "nhớ",
-   "difficulty": 1,
-   "source": "PED-55 Bảng nguyên nhân XHTH trên (trang 93)",
-   "text": "Theo bảng tổng hợp nguyên nhân XHTH trên của barem.\nỞ cột nhũ nhi, nguyên nhân tại dạ dày là gì?",
-   "options": [
-    "Giãn tĩnh mạch dạ dày",
-    "Dị dạng mạch Dieulafoy",
-    "Viêm dạ dày do stress",
-    "Loét dạ dày"
-   ],
-   "correct": 2,
-   "explanation": "Cột nhũ nhi bảng XHTH trên = <b>\"K + 4S\"</b>: vitamin <b>K</b> · <b>S</b>tress (viêm dạ dày) · <b>S</b>epsis (nhiễm trùng huyết) · <b>S</b>onde (chấn thương do đặt sonde mũi dạ dày) · <b>S</b>ữa (dị ứng đạm sữa bò).",
-   "option_explanations": [
-    "Sai — giãn tĩnh mạch dạ dày nằm ở cột 2–5 tuổi và cột trẻ lớn (do tăng áp cửa).",
-    "Sai — Dieulafoy nằm ở cột trẻ lớn.",
-    "Đúng — cột nhũ nhi tầng dạ dày chỉ có viêm dạ dày do stress.",
-    "Sai — loét dạ dày nằm ở cột 2–5 tuổi."
-   ]
-  },
-  {
-   "id": "PED55-U02",
-   "type": "concept",
-   "topic": "Bảng XHTH trên",
-   "subtopic": "Vị trí khác – nhũ nhi",
-   "bloom": "nhớ",
-   "difficulty": 2,
-   "source": "PED-55 Bảng nguyên nhân XHTH trên (trang 93)",
-   "text": "Theo bảng tổng hợp nguyên nhân XHTH trên của barem.\nỞ cột nhũ nhi, hàng \"vị trí khác\" gồm những nguyên nhân nào?",
-   "options": [
-    "Thiếu vitamin K; nhiễm trùng huyết; nuốt dị vật; dị ứng đạm sữa bò",
-    "Thiếu vitamin K; dùng thuốc NSAIDs; nuốt dị vật; dị ứng đạm sữa bò",
-    "Bệnh máu khó đông; nhiễm trùng huyết; nuốt dị vật; dị ứng đạm sữa bò",
-    "Thiếu vitamin K; nhiễm trùng huyết; chấn thương do sonde; dị ứng đạm sữa bò"
-   ],
-   "correct": 3,
-   "explanation": "Ở nhũ nhi chưa có bệnh tại từng tầng: nguyên nhân là toàn thân hoặc do can thiệp — <b>\"K + 4S\"</b>.",
-   "option_explanations": [
-    "Sai — nuốt dị vật nằm ở cột 2–5 tuổi và cột trẻ lớn; thiếu chấn thương do sonde.",
-    "Sai — NSAIDs và nuốt dị vật nằm ở cột 2–5 tuổi và cột trẻ lớn.",
-    "Sai — bệnh máu khó đông nằm ở cột trẻ lớn (tầng tá tràng); nuốt dị vật ở cột 2–5 tuổi và trẻ lớn.",
-    "Đúng — đúng 4 nguyên nhân hàng \"vị trí khác\" cột nhũ nhi."
-   ]
-  },
-  {
-   "id": "PED55-U03",
-   "type": "concept",
-   "topic": "Bảng XHTH trên",
-   "subtopic": "Tầng trống – nhũ nhi",
-   "bloom": "nhớ",
-   "difficulty": 2,
-   "source": "PED-55 Bảng nguyên nhân XHTH trên (trang 93)",
-   "text": "Trong bảng tổng hợp nguyên nhân XHTH trên của barem, cột nhũ nhi để trống hai tầng giải phẫu.\nHai tầng đó là gì?",
-   "options": [
-    "Dạ dày và tá tràng",
-    "Chỉ tầng tá tràng",
-    "Thực quản và dạ dày",
-    "Thực quản và tá tràng"
-   ],
-   "correct": 3,
-   "explanation": "Cột nhũ nhi chỉ có tầng <b>dạ dày</b> (viêm do stress) và hàng <b>vị trí khác</b>; thực quản và tá tràng để trống.",
-   "option_explanations": [
-    "Sai — tầng dạ dày cột nhũ nhi có viêm dạ dày do stress.",
-    "Sai — tầng thực quản của cột nhũ nhi cũng để trống.",
-    "Sai — tầng dạ dày cột nhũ nhi có viêm dạ dày do stress.",
-    "Đúng — cột nhũ nhi để trống tầng thực quản và tầng tá tràng."
-   ]
-  },
-  {
-   "id": "PED55-U04",
-   "type": "concept",
-   "topic": "Bảng XHTH trên",
-   "subtopic": "Dieulafoy",
-   "bloom": "nhớ",
-   "difficulty": 1,
-   "source": "PED-55 Bảng nguyên nhân XHTH trên (trang 93)",
-   "text": "Theo bảng tổng hợp nguyên nhân XHTH trên của barem.\nDị dạng mạch ở dạ dày (Dieulafoy) nằm ở cột tuổi nào?",
-   "options": [
-    "Chỉ cột nhũ nhi",
-    "Chỉ cột 2–5 tuổi",
-    "Chỉ cột trẻ lớn",
-    "Cột 2–5 tuổi và trẻ lớn"
-   ],
-   "correct": 2,
-   "explanation": "Cột trẻ lớn tầng dạ dày: <b>Dieulafoy</b> + giãn tĩnh mạch dạ dày do tăng áp lực tĩnh mạch cửa.",
-   "option_explanations": [
-    "Sai — cột nhũ nhi tầng dạ dày chỉ có viêm dạ dày do stress.",
-    "Sai — cột 2–5 tuổi tầng dạ dày gồm viêm, loét, giãn tĩnh mạch dạ dày.",
-    "Đúng — Dieulafoy chỉ có ở cột trẻ lớn (tầng dạ dày).",
-    "Sai — cột 2–5 tuổi không có Dieulafoy."
-   ]
-  },
-  {
-   "id": "PED55-U05",
-   "type": "concept",
-   "topic": "Bảng XHTH trên",
-   "subtopic": "Loét tá tràng",
-   "bloom": "nhớ",
-   "difficulty": 3,
-   "source": "PED-55 Bảng nguyên nhân XHTH trên (trang 93)",
-   "text": "Theo bảng tổng hợp nguyên nhân XHTH trên của barem.\nLoét tá tràng nằm ở cột tuổi nào?",
-   "options": [
-    "Chỉ cột nhũ nhi",
-    "Chỉ cột 2–5 tuổi",
-    "Chỉ cột trẻ lớn",
-    "Cột 2–5 tuổi và trẻ lớn"
-   ],
-   "correct": 1,
-   "explanation": "Bảng XHTH trên, tầng tá tràng: nhũ nhi trống · 2–5 tuổi <b>viêm + loét tá tràng</b> · trẻ lớn <b>bệnh máu khó đông</b>.",
-   "option_explanations": [
-    "Sai — cột nhũ nhi để trống tầng tá tràng.",
-    "Đúng — tầng tá tràng cột 2–5 tuổi gồm viêm tá tràng và loét tá tràng.",
-    "Sai — tầng tá tràng cột trẻ lớn chỉ ghi bệnh máu khó đông.",
-    "Sai — cột trẻ lớn không ghi loét tá tràng (chỉ có bệnh máu khó đông ở tầng này)."
-   ]
-  },
-  {
-   "id": "PED55-U06",
-   "type": "concept",
-   "topic": "Bảng XHTH trên",
-   "subtopic": "Hội chứng Mallory-Weiss",
-   "bloom": "nhớ",
-   "difficulty": 2,
-   "source": "PED-55 Bảng nguyên nhân XHTH trên (trang 93)",
-   "text": "Theo bảng tổng hợp nguyên nhân XHTH trên của barem.\nHội chứng Mallory-Weiss nằm ở cột tuổi nào?",
-   "options": [
-    "Cột nhũ nhi và 2–5 tuổi",
-    "Cột nhũ nhi và trẻ lớn",
-    "Cột 2–5 tuổi và trẻ lớn",
-    "Chỉ cột trẻ lớn"
-   ],
-   "correct": 2,
-   "explanation": "Tầng thực quản: cột 2–5 tuổi và cột trẻ lớn <b>giống hệt nhau</b> — viêm thực quản, giãn tĩnh mạch thực quản, Mallory-Weiss.",
-   "option_explanations": [
-    "Sai — cột nhũ nhi để trống tầng thực quản.",
-    "Sai — cột nhũ nhi để trống tầng thực quản.",
-    "Đúng — tầng thực quản của cột 2–5 tuổi và cột trẻ lớn giống hệt nhau (viêm, giãn TM, Mallory-Weiss).",
-    "Sai — Mallory-Weiss không riêng cột trẻ lớn; cột 2–5 tuổi có cùng 3 nguyên nhân thực quản."
-   ]
-  },
-  {
-   "id": "PED55-U07",
-   "type": "concept",
-   "topic": "Bảng XHTH trên",
-   "subtopic": "Đồ nuốt vào",
-   "bloom": "nhớ",
-   "difficulty": 2,
-   "source": "PED-55 Bảng nguyên nhân XHTH trên (trang 93)",
-   "text": "Theo bảng tổng hợp nguyên nhân XHTH trên của barem.\nNuốt hóa chất ăn mòn, dị vật đường tiêu hóa và dùng NSAIDs nằm ở cột tuổi nào?",
-   "options": [
-    "Cột nhũ nhi và 2–5 tuổi",
-    "Cột nhũ nhi và trẻ lớn",
-    "Cột 2–5 tuổi và trẻ lớn",
-    "Chỉ cột trẻ lớn"
-   ],
-   "correct": 2,
-   "explanation": "Hàng vị trí khác: cột 2–5 tuổi = <b>đồ nuốt vào</b> (hóa chất, dị vật, NSAIDs); cột trẻ lớn = đồ nuốt vào + polyp, Crohn, giãn TM, dị ứng đạm sữa bò, rối loạn đông máu.",
-   "option_explanations": [
-    "Sai — hàng vị trí khác của cột nhũ nhi là vitamin K, nhiễm trùng huyết, sonde, dị ứng sữa.",
-    "Sai — cột nhũ nhi không có nhóm \"đồ nuốt vào\".",
-    "Đúng — nhóm \"đồ nuốt vào\" (hóa chất, dị vật, NSAIDs) có ở cả cột 2–5 tuổi và cột trẻ lớn.",
-    "Sai — nhóm \"đồ nuốt vào\" không riêng cột trẻ lớn; cột 2–5 tuổi cũng có."
-   ]
-  },
-  {
-   "id": "PED55-U08",
-   "type": "concept",
-   "topic": "Bảng XHTH trên",
-   "subtopic": "Dị ứng đạm sữa bò – bảng trên",
-   "bloom": "nhớ",
-   "difficulty": 3,
-   "source": "PED-55 Bảng nguyên nhân XHTH trên (trang 93)",
-   "text": "Theo bảng tổng hợp nguyên nhân XHTH trên của barem.\nDị ứng đạm sữa bò nằm ở những cột nào?",
-   "options": [
-    "Cột nhũ nhi và 2–5 tuổi",
-    "Cột nhũ nhi và trẻ lớn",
-    "Cột 2–5 tuổi và trẻ lớn",
-    "Chỉ cột trẻ lớn"
-   ],
-   "correct": 1,
-   "explanation": "Bảng XHTH trên: dị ứng đạm sữa bò ở <b>nhũ nhi và trẻ lớn</b>, bỏ qua cột 2–5 tuổi.",
-   "option_explanations": [
-    "Sai — cột 2–5 tuổi không có dị ứng đạm sữa bò (hàng vị trí khác chỉ có hóa chất, dị vật, NSAIDs).",
-    "Đúng — dị ứng đạm sữa bò có ở cột nhũ nhi và cột trẻ lớn, cột 2–5 tuổi không có.",
-    "Sai — cột 2–5 tuổi không có dị ứng đạm sữa bò.",
-    "Sai — dị ứng đạm sữa bò không riêng cột trẻ lớn; cột nhũ nhi cũng có."
-   ]
-  },
-  {
-   "id": "PED55-U09",
-   "type": "concept",
-   "topic": "Bảng XHTH trên",
-   "subtopic": "Tá tràng – trẻ lớn",
-   "bloom": "nhớ",
-   "difficulty": 2,
-   "source": "PED-55 Bảng nguyên nhân XHTH trên (trang 93)",
-   "text": "Theo bảng tổng hợp nguyên nhân XHTH trên của barem.\nỞ cột trẻ lớn, tầng tá tràng ghi nguyên nhân nào?",
-   "options": [
-    "Bệnh Crohn",
-    "Viêm tá tràng",
-    "Loét tá tràng",
-    "Bệnh máu khó đông"
-   ],
-   "correct": 3,
-   "explanation": "Tầng tá tràng: nhũ nhi trống · 2–5 tuổi viêm + loét · trẻ lớn <b>bệnh máu khó đông</b>.",
-   "option_explanations": [
-    "Sai — Crohn nằm ở hàng vị trí khác của cột trẻ lớn.",
-    "Sai — viêm tá tràng nằm ở cột 2–5 tuổi.",
-    "Sai — loét tá tràng nằm ở cột 2–5 tuổi.",
-    "Đúng — tầng tá tràng cột trẻ lớn chỉ ghi bệnh máu khó đông."
-   ]
-  },
-  {
-   "id": "PED55-U10",
-   "type": "concept",
-   "topic": "Bảng XHTH trên",
-   "subtopic": "Dạ dày – 2–5 tuổi",
-   "bloom": "nhớ",
-   "difficulty": 2,
-   "source": "PED-55 Bảng nguyên nhân XHTH trên (trang 93)",
-   "text": "Theo bảng tổng hợp nguyên nhân XHTH trên của barem.\nỞ cột 2–5 tuổi, tầng dạ dày gồm những nguyên nhân nào?",
-   "options": [
-    "Viêm dạ dày; loét dạ dày; giãn tĩnh mạch dạ dày",
-    "Viêm dạ dày do stress; loét dạ dày; Mallory-Weiss",
-    "Viêm dạ dày do stress; Dieulafoy; giãn tĩnh mạch dạ dày",
-    "Viêm dạ dày do stress; loét dạ dày; giãn tĩnh mạch dạ dày"
-   ],
-   "correct": 0,
-   "explanation": "Cột 2–5 tuổi = <b>\"viêm – loét – giãn\" ở từng tầng</b> + đồ nuốt vào. Riêng tầng thực quản thay \"loét\" bằng Mallory-Weiss.",
-   "option_explanations": [
-    "Đúng — đúng 3 nguyên nhân tầng dạ dày cột 2–5 tuổi (viêm – loét – giãn).",
-    "Sai — viêm do stress thuộc cột nhũ nhi; Mallory-Weiss là nguyên nhân tầng thực quản.",
-    "Sai — viêm dạ dày do stress thuộc cột nhũ nhi; Dieulafoy thuộc cột trẻ lớn.",
-    "Sai — bảng ghi riêng \"viêm dạ dày do stress\" ở cột nhũ nhi; cột 2–5 tuổi ghi \"viêm dạ dày\" (không kèm stress), nên phương án này sai cho cột 2–5 tuổi."
-   ]
-  },
-  {
-   "id": "PED55-N01",
-   "type": "concept",
-   "topic": "Số liệu theo tuổi",
-   "subtopic": "Thiếu vitamin K: thời điểm",
-   "bloom": "nhớ",
-   "difficulty": 1,
-   "source": "PED-55 Mục 5.2.2 (trang 94–95)",
-   "text": "Barem mô tả XHTH do thiếu vitamin K ở trẻ sơ sinh là biểu hiện của xuất huyết toàn thân.\nXHTH này thường xuất hiện vào thời điểm nào?",
-   "options": [
-    "Ngày thứ 1 sau đẻ",
-    "Ngày thứ 2–3 sau đẻ",
-    "Ngày thứ 5–7 sau đẻ",
-    "Sau 2 tuần tuổi"
-   ],
-   "correct": 1,
-   "explanation": "Sơ sinh, <b>ngày thứ 2–3</b>: XHTH là biểu hiện xuất huyết toàn thân do thiếu vitamin K (thiếu yếu tố II, VII, IX, X).",
-   "option_explanations": [
-    "Sai — barem ghi ngày thứ 2–3, không phải ngày đầu.",
-    "Đúng — barem ghi XHTH vào ngày thứ 2, thứ 3.",
-    "Sai — muộn hơn mốc barem (ngày 2–3).",
-    "Sai — barem không mô tả mốc này."
-   ]
-  },
-  {
-   "id": "PED55-N02",
-   "type": "concept",
-   "topic": "Số liệu theo tuổi",
-   "subtopic": "Thiếu vitamin K: yếu tố đông máu",
-   "bloom": "nhớ",
-   "difficulty": 1,
-   "source": "PED-55 Mục 5.2.2 (trang 94–95)",
-   "text": "Barem nêu xét nghiệm đông máu ở trẻ sơ sinh XHTH do thiếu vitamin K.\nNhững yếu tố nào bị thiếu?",
-   "options": [
-    "II, VII, IX và X",
-    "V, VII, VIII và XIII",
-    "I, II, V và X",
-    "VIII, IX và XI"
-   ],
-   "correct": 0,
-   "explanation": "Thiếu vitamin K → thiếu các yếu tố <b>II, VII, IX, X</b>.",
-   "option_explanations": [
-    "Đúng — đây là các yếu tố phụ thuộc vitamin K mà barem nêu.",
-    "Sai — yếu tố V, VIII, XIII không phụ thuộc vitamin K.",
-    "Sai — yếu tố I và V không phụ thuộc vitamin K.",
-    "Sai — đây là các yếu tố của bệnh hemophilia A, B, C, không phụ thuộc vitamin K."
-   ]
-  },
-  {
-   "id": "PED55-N03",
-   "type": "concept",
-   "topic": "Số liệu theo tuổi",
-   "subtopic": "Lồng ruột < 2 tuổi",
-   "bloom": "nhớ",
-   "difficulty": 2,
-   "source": "PED-55 Mục 5.2.2 (trang 94–95)",
-   "text": "Theo đoạn văn mục 5.2.2 của barem.\nTỷ lệ lồng ruột xảy ra ở trẻ dưới 2 tuổi là bao nhiêu?",
-   "options": [
-    "Trên 40%",
-    "Trên 60%",
-    "Trên 80%",
-    "Trên 95%"
-   ],
-   "correct": 2,
-   "explanation": "Lồng ruột: <b>> 80% ở trẻ < 2 tuổi</b>; <b>45% từ 4–10 tháng</b>; ỉa máu nhầy ở 36% trẻ < 1 tuổi.",
-   "option_explanations": [
-    "Sai — 45% là tỷ lệ lồng ruột ở 4–10 tháng, còn < 2 tuổi là > 80%.",
-    "Sai — 60% là tỷ lệ Meckel chảy máu ở trẻ < 2 tuổi.",
-    "Đúng — barem ghi > 80% lồng ruột ở trẻ dưới 2 tuổi.",
-    "Sai — barem ghi > 80%."
-   ]
-  },
-  {
-   "id": "PED55-N04",
-   "type": "concept",
-   "topic": "Số liệu theo tuổi",
-   "subtopic": "Lồng ruột 45%",
-   "bloom": "nhớ",
-   "difficulty": 2,
-   "source": "PED-55 Mục 5.2.2 (trang 94–95)",
-   "text": "Theo đoạn văn mục 5.2.2 của barem, khoảng 45% trường hợp lồng ruột rơi vào một khoảng tuổi.\nKhoảng tuổi đó là gì?",
-   "options": [
-    "0–3 tháng",
-    "4–10 tháng",
-    "12–24 tháng",
-    "Trên 24 tháng"
-   ],
-   "correct": 1,
-   "explanation": "Lồng ruột: <b>45% ở 4–10 tháng</b>; > 80% ở trẻ < 2 tuổi.",
-   "option_explanations": [
-    "Sai — barem ghi 45% từ 4–10 tháng.",
-    "Đúng — barem ghi 45% lồng ruột từ 4–10 tháng.",
-    "Sai — barem ghi 45% từ 4–10 tháng.",
-    "Sai — barem ghi 45% lồng ruột từ 4–10 tháng; mốc 24 tháng (2 tuổi) gắn với tỷ lệ > 80%."
-   ]
-  },
-  {
-   "id": "PED55-N05",
-   "type": "concept",
-   "topic": "Số liệu theo tuổi",
-   "subtopic": "Meckel < 2 tuổi",
-   "bloom": "nhớ",
-   "difficulty": 2,
-   "source": "PED-55 Mục 5.2.2 (trang 94–95)",
-   "text": "Theo đoạn văn mục 5.2.2 của barem về chảy máu do loét túi thừa Meckel.\nBao nhiêu phần trăm trường hợp xảy ra ở trẻ dưới 2 tuổi?",
-   "options": [
-    "20%",
-    "40%",
-    "60%",
-    "80%"
-   ],
-   "correct": 2,
-   "explanation": "Meckel: <b>60% ở trẻ < 2 tuổi</b>; <b>40% tái phát nhiều đợt</b>; chảy máu không kèm đau bụng.",
-   "option_explanations": [
-    "Sai — barem ghi 60% ở trẻ < 2 tuổi.",
-    "Sai — 40% là tỷ lệ trẻ Meckel có nhiều đợt tái phát.",
-    "Đúng — barem ghi 60% chảy máu do Meckel xảy ra ở trẻ < 2 tuổi.",
-    "Sai — > 80% là tỷ lệ lồng ruột ở trẻ < 2 tuổi."
-   ]
-  },
-  {
-   "id": "PED55-N06",
-   "type": "concept",
-   "topic": "Số liệu theo tuổi",
-   "subtopic": "Henoch 30%",
-   "bloom": "nhớ",
-   "difficulty": 2,
-   "source": "PED-55 Mục 5.2.2 (trang 94–95)",
-   "text": "Theo đoạn văn mục 5.2.2 của barem về bệnh Schönlein–Henoch.\nBao nhiêu phần trăm trường hợp có tổn thương đường tiêu hóa?",
-   "options": [
-    "10%",
-    "30%",
-    "50%",
-    "80%"
-   ],
-   "correct": 1,
-   "explanation": "Henoch: <b>30%</b> có tổn thương tiêu hóa, hay gặp ở hỗng, hồi tràng.",
-   "option_explanations": [
-    "Sai — barem ghi 30%.",
-    "Đúng — barem ghi 30% trường hợp ban xuất huyết khớp có tổn thương tiêu hóa.",
-    "Sai — barem ghi 30%.",
-    "Sai — barem ghi 30%; > 80% là số của lồng ruột."
-   ]
-  },
-  {
-   "id": "PED55-C01",
-   "type": "vignette",
-   "topic": "Ca lâm sàng theo tuổi",
-   "subtopic": "Sơ sinh: thiếu vitamin K",
-   "bloom": "áp dụng",
-   "difficulty": 1,
-   "source": "PED-55 Mục 5.2.2 (trang 94–95)",
-   "text": "Trẻ sơ sinh đủ tháng, đẻ tại nhà, chưa được tiêm vitamin K. Ngày thứ 3 trẻ ỉa phân đen, rỉ máu chỗ rốn. Bụng mềm, không chướng, bú tốt.\nTheo barem, nguyên nhân nào phù hợp nhất?",
-   "options": [
-    "Viêm ruột non hoại tử ở trẻ sơ sinh",
-    "Xoắn toàn bộ ruột non do ruột quay bất thường",
-    "Không dung nạp đạm sữa bò gây viêm đại tràng",
-    "Thiếu vitamin K gây xuất huyết toàn thân"
-   ],
-   "correct": 3,
-   "explanation": "Sơ sinh ngày 2–3 + xuất huyết nhiều nơi → <b>thiếu vitamin K</b> (barem khuyến cáo tiêm vitamin K cho trẻ sơ sinh ngay cả khi chưa có kết quả đông máu).",
-   "option_explanations": [
-    "Sai — bệnh thường gặp ở trẻ đẻ non, bụng chướng, nhiễm trùng – nhiễm độc; ca này đủ tháng, bụng mềm.",
-    "Sai — xoắn ruột gây tắc ruột (nôn, bụng chướng), không gây chảy máu rốn.",
-    "Sai — nhóm bú mẹ < 18 tháng, phân lỏng có máu sau ăn sữa, không gây chảy máu rốn.",
-    "Đúng — ngày 2–3, chưa tiêm vitamin K, chảy máu cả rốn: đúng nhóm sơ sinh thiếu vitamin K."
-   ]
-  },
-  {
-   "id": "PED55-C02",
-   "type": "vignette",
-   "topic": "Ca lâm sàng theo tuổi",
-   "subtopic": "Sơ sinh non tháng: viêm ruột hoại tử",
-   "bloom": "áp dụng",
-   "difficulty": 2,
-   "source": "PED-55 Mục 5.2.2 (trang 94–95)",
-   "text": "Trẻ đẻ non 30 tuần, ngày thứ 10, sốt, li bì, bụng chướng căng, ỉa phân đen khắm. Đã tiêm vitamin K lúc sinh.\nTheo barem, nguyên nhân nào phù hợp nhất?",
-   "options": [
-    "Thiếu vitamin K ở trẻ sơ sinh",
-    "Viêm ruột non hoại tử ở trẻ sơ sinh",
-    "Viêm loét túi thừa Meckel",
-    "Lồng ruột cấp tính"
-   ],
-   "correct": 1,
-   "explanation": "Sơ sinh <b>đẻ non</b> + nhiễm trùng – nhiễm độc + bụng chướng + phân đen khắm → <b>viêm ruột non hoại tử</b>.",
-   "option_explanations": [
-    "Sai — trẻ đã tiêm vitamin K và có hội chứng nhiễm trùng, bụng chướng.",
-    "Đúng — đẻ non + nhiễm trùng – nhiễm độc + bụng chướng + phân đen khắm: đúng viêm ruột hoại tử.",
-    "Sai — Meckel chảy máu không đau, không kèm nhiễm trùng – nhiễm độc.",
-    "Sai — lồng ruột gây đau bụng từng cơn và ỉa máu nhầy, hay gặp 4–10 tháng."
-   ]
-  },
-  {
-   "id": "PED55-C03",
-   "type": "vignette",
-   "topic": "Ca lâm sàng theo tuổi",
-   "subtopic": "Bú mẹ: lồng ruột",
-   "bloom": "áp dụng",
-   "difficulty": 1,
-   "source": "PED-55 Mục 5.2.2 (trang 94–95)",
-   "text": "Trẻ trai 7 tháng, khỏe mạnh, đột ngột khóc thét từng cơn, co chân, tái nhợt, nôn; giữa các cơn nằm yên. Sau 8 giờ trẻ ỉa ra máu nhầy.\nTheo barem, nguyên nhân nào phù hợp nhất?",
-   "options": [
-    "Lồng ruột cấp tính",
-    "Nứt hậu môn do táo bón",
-    "Viêm loét túi thừa Meckel",
-    "Ỉa chảy nhiễm khuẩn (hội chứng lị)"
-   ],
-   "correct": 0,
-   "explanation": "Barem: lồng ruột > 80% ở trẻ < 2 tuổi, 45% từ 4–10 tháng, đau bụng từng cơn, tái nhợt, ỉa máu nhầy.",
-   "option_explanations": [
-    "Đúng — đau bụng từng cơn, tái nhợt, nôn, ỉa máu nhầy ở trẻ 4–10 tháng: đúng lồng ruột.",
-    "Sai — nứt hậu môn chỉ gây vệt máu tươi khi đi ngoài, không đau bụng từng cơn.",
-    "Sai — Meckel chảy máu không kèm đau bụng.",
-    "Sai — lị gây sốt, phân lỏng nhiều lần có máu mũi, không có cơn đau từng cơn và tái nhợt kiểu này."
-   ]
-  },
-  {
-   "id": "PED55-C04",
-   "type": "vignette",
-   "topic": "Ca lâm sàng theo tuổi",
-   "subtopic": "Bú mẹ: Meckel",
-   "bloom": "áp dụng",
-   "difficulty": 2,
-   "source": "PED-55 Mục 5.2.2 (trang 94–95)",
-   "text": "Trẻ trai 15 tháng đi ngoài một lượng lớn phân màu đỏ sẫm. Trẻ không đau bụng, không nôn, không sốt, bụng mềm. Hb tụt từ 11 xuống 7 g/dL, phải truyền máu. Tháng trước có một đợt tương tự.\nTheo barem, nguyên nhân nào phù hợp nhất?",
-   "options": [
-    "Lồng ruột cấp tính",
-    "Nứt hậu môn do táo bón",
-    "Polyp trực tràng, đại tràng",
-    "Viêm loét túi thừa Meckel"
-   ],
-   "correct": 3,
-   "explanation": "Meckel: chảy máu <b>không kèm đau bụng</b>, thường nhiều phải truyền máu hoặc ít nhưng hay tái phát; 60% ở trẻ < 2 tuổi, 40% tái phát. Chẩn đoán bằng xạ hình Tc99m.",
-   "option_explanations": [
-    "Sai — lồng ruột có đau bụng từng cơn, nôn, sờ thấy búi lồng.",
-    "Sai — nứt hậu môn chảy máu ít, đau khi đi ngoài.",
-    "Sai — polyp chảy máu tươi ít, bao ngoài khuôn phân, hiếm khi phải truyền máu.",
-    "Đúng — chảy máu nhiều không đau, phải truyền máu, tái phát ở trẻ < 2 tuổi: đúng Meckel."
-   ]
-  },
-  {
-   "id": "PED55-C05",
-   "type": "vignette",
-   "topic": "Ca lâm sàng theo tuổi",
-   "subtopic": "Bú mẹ: dị ứng đạm sữa",
-   "bloom": "áp dụng",
-   "difficulty": 2,
-   "source": "PED-55 Mục 5.2.2 (trang 94–95)",
-   "text": "Trẻ gái 2 tháng, chuyển từ bú mẹ hoàn toàn sang sữa công thức được 1 tuần. Trẻ đi ngoài phân lỏng có lẫn máu, vẫn bú được, không sốt, bụng mềm.\nTheo barem, nguyên nhân nào phù hợp nhất?",
-   "options": [
-    "Không dung nạp protein sữa bò",
-    "Lồng ruột cấp tính",
-    "Viêm loét túi thừa Meckel",
-    "Ỉa chảy nhiễm khuẩn (hội chứng lị)"
-   ],
-   "correct": 0,
-   "explanation": "Barem nhóm bú mẹ < 18 tháng: không dung nạp protein sữa bò hoặc đậu nành → <b>ỉa phân lỏng có máu sau khi ăn sữa</b>, biểu hiện viêm đại tràng.",
-   "option_explanations": [
-    "Đúng — phân lỏng có máu sau khi bắt đầu ăn sữa công thức: đúng không dung nạp đạm sữa bò.",
-    "Sai — lồng ruột có đau bụng từng cơn, nôn, tái nhợt.",
-    "Sai — Meckel chảy máu lượng nhiều, không kèm phân lỏng.",
-    "Sai — lị thường kèm sốt, phân nhầy máu mũi nhiều lần, không gắn với thời điểm đổi sữa."
-   ]
-  },
-  {
-   "id": "PED55-C06",
-   "type": "vignette",
-   "topic": "Ca lâm sàng theo tuổi",
-   "subtopic": "Trước tuổi đi học: polyp",
-   "bloom": "áp dụng",
-   "difficulty": 2,
-   "source": "PED-55 Mục 5.2.2 (trang 94–95)",
-   "text": "Trẻ trai 4 tuổi, 3 tháng nay thỉnh thoảng có ít máu đỏ tươi bao ngoài khuôn phân, ra cuối bãi. Trẻ không táo bón, không đau khi đi ngoài, không thiếu máu.\nTheo barem, nguyên nhân nào phù hợp nhất?",
-   "options": [
-    "Polyp trực tràng, đại tràng",
-    "Nứt hậu môn do táo bón",
-    "XHTH trong bệnh Schönlein–Henoch",
-    "Viêm loét túi thừa Meckel"
-   ],
-   "correct": 0,
-   "explanation": "Polyp (nhóm < 6 tuổi): máu tươi ra đầu hoặc cuối bãi, <b>bao ngoài cục phân</b>, ít nhưng hay tái phát.",
-   "option_explanations": [
-    "Đúng — máu tươi bao ngoài phân, ít nhưng hay tái phát, không đau ở trẻ < 6 tuổi: đúng polyp.",
-    "Sai — nứt hậu môn kèm táo bón và đau khi đi ngoài; ca này không có.",
-    "Sai — Henoch có ban xuất huyết đối xứng ở chi và đau bụng.",
-    "Sai — Meckel chảy máu đỏ sẫm lượng nhiều, trộn lẫn phân."
-   ]
-  },
-  {
-   "id": "PED55-C07",
-   "type": "vignette",
-   "topic": "Ca lâm sàng theo tuổi",
-   "subtopic": "Trước tuổi đi học: Henoch",
-   "bloom": "áp dụng",
-   "difficulty": 1,
-   "source": "PED-55 Mục 5.2.2 (trang 94–95)",
-   "text": "Trẻ gái 5 tuổi, sau viêm họng 2 tuần xuất hiện ban xuất huyết dạng sẩn đối xứng ở hai chi dưới, sưng đau cổ chân, đau bụng quanh rốn từng cơn, đi ngoài phân đen.\nTheo barem, nguyên nhân nào phù hợp nhất?",
-   "options": [
-    "Polyp trực tràng, đại tràng",
-    "Lồng ruột cấp tính",
-    "Hội chứng Pigbel (viêm ruột hoại tử)",
-    "XHTH trong bệnh Schönlein–Henoch"
-   ],
-   "correct": 3,
-   "explanation": "Henoch: 30% có tổn thương tiêu hóa; biểu hiện tiêu hóa có thể đi trước, <b>ban xuất huyết đối xứng ở chi</b> giúp chẩn đoán lâm sàng.",
-   "option_explanations": [
-    "Sai — polyp chảy máu tươi bao ngoài phân, không đau bụng, không ban.",
-    "Sai — lồng ruột không gây ban xuất huyết và đau khớp.",
-    "Sai — Pigbel có nhiễm trùng – nhiễm độc, bụng chướng, phân đen khắm; không có ban xuất huyết đối xứng.",
-    "Đúng — ban xuất huyết đối xứng chi dưới + đau khớp + đau bụng + phân đen: đúng Henoch."
-   ]
-  },
-  {
-   "id": "PED55-C08",
-   "type": "vignette",
-   "topic": "Ca lâm sàng theo tuổi",
-   "subtopic": "Học đường: viêm ruột xuất huyết",
-   "bloom": "áp dụng",
-   "difficulty": 2,
-   "source": "PED-55 Mục 5.2.2 (trang 94–95)",
-   "text": "Trẻ trai 10 tuổi, 2 ngày nay sốt 39 °C, đau quặn bụng, mót rặn, đi ngoài 10 lần/ngày phân nhầy máu toàn bãi. Trước đó trẻ khỏe mạnh.\nTheo barem, nhóm nguyên nhân nào phù hợp nhất?",
-   "options": [
-    "Viêm loét túi thừa Meckel",
-    "Viêm ruột xuất huyết (lị, amip)",
-    "Polyp trực tràng, đại tràng",
-    "Bệnh ruột viêm (IBD)"
-   ],
-   "correct": 1,
-   "explanation": "Nhóm 6–18 tuổi: <b>viêm ruột xuất huyết</b> (viêm ruột hoại tử, amip, lị) → phân máu nhầy toàn bãi.",
-   "option_explanations": [
-    "Sai — Meckel chảy máu nhiều, không đau, không sốt.",
-    "Đúng — cấp tính, sốt, mót rặn, phân máu nhầy toàn bãi ở trẻ 6–18 tuổi: đúng viêm ruột xuất huyết.",
-    "Sai — polyp chảy máu ít bao ngoài phân, không sốt, không mót rặn.",
-    "Sai — IBD diễn biến kéo dài, sụt cân; ca này cấp tính 2 ngày ở trẻ trước đó khỏe mạnh."
-   ]
-  },
-  {
-   "id": "PED55-C09",
-   "type": "vignette",
-   "topic": "Ca lâm sàng theo tuổi",
-   "subtopic": "Trẻ lớn: Mallory-Weiss",
-   "bloom": "áp dụng",
-   "difficulty": 2,
-   "source": "PED-55 Bảng nguyên nhân XHTH trên (trang 93)",
-   "text": "Trẻ gái 13 tuổi say tàu xe, nôn khan dữ dội nhiều lần, sau đó nôn ra máu đỏ tươi lượng ít. Không đau thượng vị trước đó, không dùng thuốc, gan lách không to.\nTheo bảng XHTH trên của barem, nguyên nhân nào phù hợp nhất?",
-   "options": [
-    "Hội chứng Mallory-Weiss",
-    "Giãn tĩnh mạch thực quản",
-    "Loét dạ dày",
-    "Dị dạng mạch dạ dày Dieulafoy"
-   ],
-   "correct": 0,
-   "explanation": "Mallory-Weiss nằm ở tầng thực quản của cả cột 2–5 tuổi và cột trẻ lớn trong bảng XHTH trên.",
-   "option_explanations": [
-    "Đúng — nôn khan dữ dội rồi nôn máu tươi: đúng rách niêm mạc tâm vị Mallory-Weiss.",
-    "Sai — giãn TMTQ cần tăng áp cửa (lách to, tuần hoàn bàng hệ); ca này gan lách không to.",
-    "Sai — loét dạ dày thường có đau thượng vị hoặc dùng NSAIDs trước đó.",
-    "Sai — Dieulafoy chảy máu ồ ạt đột ngột, không gắn với nôn khan dữ dội."
-   ]
-  },
-  {
-   "id": "PED55-C10",
-   "type": "vignette",
-   "topic": "Ca lâm sàng theo tuổi",
-   "subtopic": "2–5 tuổi: hóa chất ăn mòn",
-   "bloom": "áp dụng",
-   "difficulty": 1,
-   "source": "PED-55 Bảng nguyên nhân XHTH trên (trang 93)",
-   "text": "Trẻ trai 3 tuổi lấy chai nước thông cống trong bếp uống một ngụm. Vài giờ sau trẻ chảy nước dãi, nuốt đau và nôn ra máu.\nTheo bảng XHTH trên của barem, nguyên nhân nào phù hợp nhất?",
-   "options": [
-    "Dùng thuốc NSAIDs",
-    "Nuốt hóa chất ăn mòn",
-    "Viêm dạ dày do stress",
-    "Hội chứng Mallory-Weiss"
-   ],
-   "correct": 1,
-   "explanation": "Cột 2–5 tuổi hàng vị trí khác = <b>đồ nuốt vào</b>: hóa chất ăn mòn, dị vật, NSAIDs.",
-   "option_explanations": [
-    "Sai — ca này không dùng thuốc giảm đau chống viêm.",
-    "Đúng — trẻ 2–5 tuổi uống chất ăn mòn rồi nôn máu: đúng \"đồ nuốt vào\" của cột 2–5 tuổi.",
-    "Sai — viêm dạ dày do stress là nguyên nhân cột nhũ nhi, gặp khi bệnh nặng.",
-    "Sai — Mallory-Weiss xảy ra sau nôn khan dữ dội, không gắn với nuốt chất ăn mòn."
-   ]
-  }
- ]
+  "format": "medmcq-bank",
+  "version": 1,
+  "id": "bank_ped55_xhth_theo_tuoi",
+  "lesson": "PED-55",
+  "group": "Nhi khoa",
+  "title": "PED-55: Xuất huyết tiêu hóa — Nguyên nhân theo lứa tuổi (49 câu luyện thuộc)",
+  "description": "Luyện phân định nguyên nhân XHTH theo tuổi theo barem Y Thái Bình: đoạn văn 5.2.2 (4 nhóm tuổi), bảng XHTH dưới và bảng XHTH trên (3 cột), số liệu theo tuổi và ca lâm sàng. Mỗi phương án sai là nguyên nhân của nhóm tuổi khác; có giải thích từng phương án.",
+  "updated": "2026-10-27T09:56:31Z",
+  "questions": [
+    {
+      "id": "PED55-T01",
+      "type": "concept",
+      "topic": "Hai hệ chia tuổi",
+      "subtopic": "Nhóm tuổi trong đoạn văn 5.2.2",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "PED-55 Mục 5.2.2 (trang 94–95)",
+      "text": "Mục 5.2.2 của barem phân loại nguyên nhân XHTH dưới theo lứa tuổi.\nĐoạn văn này chia trẻ thành những nhóm tuổi nào?",
+      "options": [
+        "Sơ sinh; bú mẹ < 18 tháng; trước tuổi đi học < 6 tuổi; học đường 6–18 tuổi",
+        "Sơ sinh; nhũ nhi < 12 tháng; từ 1 đến 5 tuổi; từ 6 đến 15 tuổi",
+        "Sơ sinh; dưới 2 tuổi; từ 2 đến 10 tuổi; trên 10 tuổi (tuổi dậy thì)",
+        "Nhũ nhi; từ 2 đến 5 tuổi; trẻ lớn; tuổi vị thành niên"
+      ],
+      "correct": 0,
+      "explanation": "Đoạn văn 5.2.2 dùng <b>4 nhóm</b>: sơ sinh · bú mẹ < 18 tháng · trước tuổi đi học < 6 tuổi · học đường 6–18 tuổi. Hai bảng tổng hợp dùng hệ khác gồm <b>3 cột</b>: nhũ nhi · 2–5 tuổi · trẻ lớn.",
+      "option_explanations": [
+        "Đúng — đây đúng 4 nhóm của đoạn văn 5.2.2.",
+        "Sai — barem không dùng mốc 12 tháng hay 15 tuổi; mốc đúng là 18 tháng, 6 tuổi và 18 tuổi.",
+        "Sai — mốc 2 tuổi là số liệu của lồng ruột và Meckel, không phải cách chia nhóm của đoạn 5.2.2.",
+        "Sai — đây là kiểu chia cột của hai bảng tổng hợp (nhũ nhi, 2–5 tuổi, trẻ lớn), không phải các nhóm của đoạn văn 5.2.2; barem không có nhóm vị thành niên riêng."
+      ]
+    },
+    {
+      "id": "PED55-T02",
+      "type": "concept",
+      "topic": "Hai hệ chia tuổi",
+      "subtopic": "Cột của hai bảng tổng hợp",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "PED-55 Bảng nguyên nhân XHTH dưới (trang 95)",
+      "text": "Barem có hai bảng tổng hợp nguyên nhân: một bảng cho XHTH trên và một bảng cho XHTH dưới.\nHai bảng này chia trẻ thành những cột tuổi nào?",
+      "options": [
+        "Nhũ nhi; từ 2 đến 5 tuổi; trẻ lớn",
+        "Sơ sinh; bú mẹ < 18 tháng; trước tuổi đi học; học đường",
+        "Sơ sinh; nhũ nhi; từ 2 đến 5 tuổi; trẻ lớn",
+        "Dưới 2 tuổi; từ 2 đến 6 tuổi; từ 6 đến 18 tuổi"
+      ],
+      "correct": 0,
+      "explanation": "Hai bảng tổng hợp (trên và dưới) dùng chung <b>3 cột</b>: nhũ nhi · 2–5 tuổi · trẻ lớn. Đề hỏi \"theo lứa tuổi\" thì dùng 4 nhóm của đoạn văn; đề hỏi \"bảng tổng hợp\" thì dùng 3 cột này.",
+      "option_explanations": [
+        "Đúng — cả hai bảng tổng hợp đều dùng đúng 3 cột này.",
+        "Sai — đây là 4 nhóm của đoạn văn 5.2.2, không phải các cột của bảng tổng hợp.",
+        "Sai — hai bảng không có cột sơ sinh riêng; nguyên nhân sơ sinh nằm trong cột nhũ nhi.",
+        "Sai — bảng không dùng mốc 6 tuổi; mốc giữa là 2–5 tuổi."
+      ]
+    },
+    {
+      "id": "PED55-T03",
+      "type": "concept",
+      "topic": "Hai hệ chia tuổi",
+      "subtopic": "Lồng ruột: đoạn văn",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "PED-55 Mục 5.2.2 (trang 94–95)",
+      "text": "Theo đoạn văn mục 5.2.2 của barem (chia XHTH dưới theo 4 nhóm tuổi).\nLồng ruột cấp tính được xếp vào nhóm tuổi nào?",
+      "options": [
+        "Sơ sinh (0–28 ngày tuổi)",
+        "Bú mẹ (dưới 18 tháng)",
+        "Trước đi học (< 6 tuổi)",
+        "Học đường (6–18 tuổi)"
+      ],
+      "correct": 1,
+      "explanation": "Bẫy: <b>đoạn văn</b> xếp lồng ruột vào nhóm <b>bú mẹ < 18 tháng</b>, còn <b>bảng tổng hợp</b> xếp vào cột <b>2–5 tuổi</b>.",
+      "option_explanations": [
+        "Sai — nhóm sơ sinh chỉ có thiếu vitamin K, viêm ruột non hoại tử và xoắn toàn bộ ruột non.",
+        "Đúng — đoạn văn xếp lồng ruột cấp vào nhóm bú mẹ < 18 tháng (> 80% lồng ruột ở trẻ < 2 tuổi).",
+        "Sai — nhóm < 6 tuổi gồm viêm đại tràng nhiễm khuẩn, Pigbel, Henoch, polyp; lồng ruột chỉ nằm ở cột 2–5 tuổi của BẢNG.",
+        "Sai — nhóm 6–18 tuổi gồm viêm ruột xuất huyết và Meckel, vỡ túi máu ruột non, viêm đại tràng."
+      ]
+    },
+    {
+      "id": "PED55-T04",
+      "type": "concept",
+      "topic": "Hai hệ chia tuổi",
+      "subtopic": "Lồng ruột: bảng",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "PED-55 Bảng nguyên nhân XHTH dưới (trang 95)",
+      "text": "Theo bảng tổng hợp nguyên nhân XHTH dưới của barem (3 cột tuổi).\nLồng ruột nằm ở cột nào?",
+      "options": [
+        "Cột nhũ nhi",
+        "Cột 2–5 tuổi",
+        "Cột trẻ lớn",
+        "Cả cột 2–5 tuổi và cột trẻ lớn"
+      ],
+      "correct": 1,
+      "explanation": "Trong bảng XHTH dưới, <b>lồng ruột và Meckel</b> chỉ có ở cột <b>2–5 tuổi</b>. Nhưng trong đoạn văn 5.2.2, lồng ruột thuộc nhóm bú mẹ < 18 tháng.",
+      "option_explanations": [
+        "Sai — cột nhũ nhi có các dị tật (ruột đôi, xoắn ruột, Hirschsprung) nhưng không có lồng ruột.",
+        "Đúng — bảng xếp lồng ruột (cùng Meckel) chỉ ở cột 2–5 tuổi.",
+        "Sai — cột trẻ lớn là cột 2–5 tuổi bỏ lồng ruột, Meckel rồi thêm IBD, chảy máu do can thiệp.",
+        "Sai — lồng ruột là một trong hai nguyên nhân cột 2–5 tuổi có mà cột trẻ lớn không có."
+      ]
+    },
+    {
+      "id": "PED55-T05",
+      "type": "concept",
+      "topic": "Hai hệ chia tuổi",
+      "subtopic": "Meckel: đoạn văn",
+      "bloom": "nhớ",
+      "difficulty": 3,
+      "source": "PED-55 Mục 5.2.2 (trang 94–95)",
+      "text": "Theo đoạn văn mục 5.2.2 của barem (4 nhóm tuổi).\nViêm loét túi thừa Meckel được nêu ở những nhóm tuổi nào?",
+      "options": [
+        "Nhóm bú mẹ < 18 tháng và nhóm trước tuổi đi học",
+        "Chỉ ở nhóm bú mẹ dưới 18 tháng",
+        "Nhóm trước tuổi đi học và nhóm học đường 6–18 tuổi",
+        "Nhóm bú mẹ < 18 tháng và nhóm học đường 6–18 tuổi"
+      ],
+      "correct": 3,
+      "explanation": "Đoạn văn: Meckel ở nhóm <b>bú mẹ < 18 tháng</b> và nhóm <b>học đường 6–18 tuổi</b>. Bảng tổng hợp: Meckel chỉ ở cột <b>2–5 tuổi</b>.",
+      "option_explanations": [
+        "Sai — nhóm < 6 tuổi gồm viêm đại tràng nhiễm khuẩn, Pigbel, Henoch, polyp; không có Meckel.",
+        "Sai — Meckel còn được nêu lại ở nhóm 6–18 tuổi (mục \"các nguyên nhân khác\").",
+        "Sai — nhóm < 6 tuổi không có Meckel; Meckel xuất hiện lần đầu ở nhóm bú mẹ < 18 tháng.",
+        "Đúng — Meckel có ở nhóm bú mẹ < 18 tháng (chảy máu không đau, 60% < 2 tuổi) và nhóm 6–18 tuổi."
+      ]
+    },
+    {
+      "id": "PED55-P01",
+      "type": "concept",
+      "topic": "Đoạn 5.2.2 – XHTH dưới",
+      "subtopic": "Nhóm sơ sinh",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "PED-55 Mục 5.2.2 (trang 94–95)",
+      "text": "Đoạn văn mục 5.2.2 của barem nêu 3 nguyên nhân XHTH dưới ở trẻ sơ sinh.\nĐó là 3 nguyên nhân nào?",
+      "options": [
+        "Thiếu vitamin K; viêm ruột non hoại tử; xoắn toàn bộ ruột non",
+        "Dị ứng đạm sữa bò; viêm ruột non hoại tử; xoắn toàn bộ ruột non",
+        "Dị ứng đạm sữa bò; viêm ruột non hoại tử; bệnh Hirschsprung",
+        "Dị ứng đạm sữa bò; lồng ruột cấp tính; xoắn toàn bộ ruột non"
+      ],
+      "correct": 0,
+      "explanation": "Sơ sinh = <b>\"K – Hoại – Xoắn\"</b>: thiếu vitamin K (ngày 2–3; thiếu yếu tố II, VII, IX, X) · viêm ruột non hoại tử (sơ sinh, đẻ non) · xoắn toàn bộ ruột non (ruột quay, cuốn bất thường mạc treo).",
+      "option_explanations": [
+        "Đúng — đúng 3 nguyên nhân sơ sinh của đoạn 5.2.2 (\"K – Hoại – Xoắn\").",
+        "Sai — trong đoạn 5.2.2, không dung nạp đạm sữa thuộc nhóm bú mẹ < 18 tháng, và phương án thiếu nguyên nhân thiếu vitamin K. (Bộ ba này đều nằm ở cột nhũ nhi của BẢNG, nhưng câu hỏi theo đoạn văn.)",
+        "Sai — dị ứng đạm sữa thuộc nhóm bú mẹ < 18 tháng; Hirschsprung chỉ có ở cột nhũ nhi của BẢNG.",
+        "Sai — dị ứng đạm sữa và lồng ruột cấp đều thuộc nhóm bú mẹ < 18 tháng."
+      ]
+    },
+    {
+      "id": "PED55-P02",
+      "type": "concept",
+      "topic": "Đoạn 5.2.2 – XHTH dưới",
+      "subtopic": "Nhóm bú mẹ < 18 tháng",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "PED-55 Mục 5.2.2 (trang 94–95)",
+      "text": "Đoạn văn mục 5.2.2 của barem nêu 5 nguyên nhân XHTH dưới ở trẻ bú mẹ dưới 18 tháng.\nTập hợp nào đúng?",
+      "options": [
+        "Lị; lồng ruột cấp; không dung nạp đạm sữa; Meckel; nứt hậu môn",
+        "Lị; lồng ruột cấp; xoắn toàn bộ ruột non; polyp; nứt hậu môn",
+        "Lị; lồng ruột cấp; không dung nạp đạm sữa; polyp; nứt hậu môn",
+        "Lị; Henoch; không dung nạp đạm sữa; polyp; nứt hậu môn"
+      ],
+      "correct": 0,
+      "explanation": "Bú mẹ < 18 tháng = <b>\"Lị – Lồng – Sữa – Meckel – Nứt\"</b>: ỉa chảy nhiễm khuẩn (hội chứng lị) · lồng ruột cấp · không dung nạp protein sữa bò hoặc đậu nành · loét túi thừa Meckel · nứt hậu môn do táo bón.",
+      "option_explanations": [
+        "Đúng — đúng 5 nguyên nhân (\"Lị – Lồng – Sữa – Meckel – Nứt\").",
+        "Sai — xoắn toàn bộ ruột non thuộc nhóm sơ sinh; polyp thuộc nhóm < 6 tuổi.",
+        "Sai — polyp thuộc nhóm trước tuổi đi học < 6 tuổi; thiếu Meckel.",
+        "Sai — Henoch và polyp đều thuộc nhóm trước tuổi đi học < 6 tuổi."
+      ]
+    },
+    {
+      "id": "PED55-P03",
+      "type": "concept",
+      "topic": "Đoạn 5.2.2 – XHTH dưới",
+      "subtopic": "Nhóm trước tuổi đi học",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "PED-55 Mục 5.2.2 (trang 94–95)",
+      "text": "Đoạn văn mục 5.2.2 của barem nêu 4 nguyên nhân XHTH dưới ở trẻ trước tuổi đi học (< 6 tuổi).\nTập hợp nào đúng?",
+      "options": [
+        "Viêm đại tràng nhiễm khuẩn; Pigbel; Henoch; Meckel",
+        "Viêm đại tràng nhiễm khuẩn; lồng ruột; Henoch; Meckel",
+        "Viêm đại tràng nhiễm khuẩn; Pigbel; dị ứng sữa; Meckel",
+        "Viêm đại tràng nhiễm khuẩn; Pigbel; Henoch; polyp"
+      ],
+      "correct": 3,
+      "explanation": "Trước tuổi đi học = <b>\"3P + 1 Viêm\"</b>: <b>P</b>olyp · <b>P</b>igbel (viêm ruột non hoại tử trẻ lớn) · <b>P</b>urpura Schönlein–Henoch · <b>viêm</b> trực tràng, đại tràng do nhiễm khuẩn, kí sinh.",
+      "option_explanations": [
+        "Sai — Meckel thuộc nhóm bú mẹ < 18 tháng và nhóm 6–18 tuổi; thiếu polyp.",
+        "Sai — lồng ruột và Meckel đều thuộc nhóm bú mẹ < 18 tháng.",
+        "Sai — dị ứng sữa và Meckel thuộc nhóm bú mẹ < 18 tháng.",
+        "Đúng — đúng 4 nguyên nhân (\"3P + 1 Viêm\": Polyp, Pigbel, Purpura Henoch + viêm đại tràng)."
+      ]
+    },
+    {
+      "id": "PED55-P04",
+      "type": "concept",
+      "topic": "Đoạn 5.2.2 – XHTH dưới",
+      "subtopic": "Nhóm học đường 6–18 tuổi",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "PED-55 Mục 5.2.2 (trang 94–95)",
+      "text": "Đoạn văn mục 5.2.2 của barem mô tả nguyên nhân XHTH dưới ở trẻ tuổi học đường (6–18 tuổi).\nNội dung nào đúng?",
+      "options": [
+        "Viêm ruột xuất huyết (hoại tử, amip, lị); khác: polyp, Henoch, viêm đại tràng nhiễm khuẩn",
+        "Viêm ruột xuất huyết (hoại tử, amip, lị); khác: lồng ruột, Meckel, nứt hậu môn do táo bón",
+        "Bệnh ruột viêm (IBD); khác: polyp, u bạch huyết, tăng sản mạch máu, chảy máu do can thiệp",
+        "Viêm ruột xuất huyết (hoại tử, amip, lị); khác: Meckel, vỡ túi máu ruột non, viêm đại tràng"
+      ],
+      "correct": 3,
+      "explanation": "Học đường 6–18 tuổi: <b>viêm ruột xuất huyết</b> (viêm ruột hoại tử, amip, lị → phân máu nhầy toàn bãi; viêm hậu môn, trực tràng → máu tươi nhầy) và <b>nguyên nhân khác</b>: Meckel, vỡ túi máu ở ruột non, viêm đại tràng.",
+      "option_explanations": [
+        "Sai — polyp và Henoch thuộc nhóm trước tuổi đi học < 6 tuổi.",
+        "Sai — lồng ruột và nứt hậu môn do táo bón thuộc nhóm bú mẹ < 18 tháng.",
+        "Sai — đây là nội dung cột trẻ lớn của BẢNG tổng hợp, không phải đoạn văn nhóm 6–18 tuổi.",
+        "Đúng — đúng nội dung nhóm 6–18 tuổi của đoạn 5.2.2."
+      ]
+    },
+    {
+      "id": "PED55-P05",
+      "type": "concept",
+      "topic": "Đoạn 5.2.2 – XHTH dưới",
+      "subtopic": "Pigbel",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "PED-55 Mục 5.2.2 (trang 94–95)",
+      "text": "Theo đoạn văn mục 5.2.2 của barem.\nViêm ruột non hoại tử trẻ lớn (hội chứng Pigbel) thuộc nhóm tuổi nào?",
+      "options": [
+        "Sơ sinh (0–28 ngày tuổi)",
+        "Bú mẹ (dưới 18 tháng)",
+        "Trước đi học (< 6 tuổi)",
+        "Học đường (6–18 tuổi)"
+      ],
+      "correct": 2,
+      "explanation": "Viêm ruột hoại tử xuất hiện ở 3 chỗ: sơ sinh (đẻ non) · <b>< 6 tuổi (Pigbel)</b> · 6–18 tuổi (trong viêm ruột xuất huyết). Tên \"Pigbel\" gắn với nhóm <b>trước tuổi đi học</b>.",
+      "option_explanations": [
+        "Sai — nhóm sơ sinh có viêm ruột non hoại tử ở trẻ sơ sinh, đẻ non, không phải Pigbel.",
+        "Sai — nhóm bú mẹ < 18 tháng không có viêm ruột hoại tử.",
+        "Đúng — Pigbel nằm ở nhóm trước tuổi đi học < 6 tuổi (một trong \"3P\").",
+        "Sai — nhóm 6–18 tuổi có \"viêm ruột xuất huyết: viêm ruột hoại tử…\", nhưng tên Pigbel được barem ghi ở nhóm < 6 tuổi."
+      ]
+    },
+    {
+      "id": "PED55-P06",
+      "type": "concept",
+      "topic": "Đoạn 5.2.2 – XHTH dưới",
+      "subtopic": "Polyp",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "PED-55 Mục 5.2.2 (trang 94–95)",
+      "text": "Theo đoạn văn mục 5.2.2 của barem.\nPolyp trực tràng, đại tràng được xếp vào nhóm tuổi nào?",
+      "options": [
+        "Sơ sinh (0–28 ngày tuổi)",
+        "Bú mẹ (dưới 18 tháng)",
+        "Trước đi học (< 6 tuổi)",
+        "Học đường (6–18 tuổi)"
+      ],
+      "correct": 2,
+      "explanation": "Đoạn văn: polyp ở nhóm <b>< 6 tuổi</b>. Bảng XHTH dưới: polyp ở cột 2–5 tuổi và cột trẻ lớn.",
+      "option_explanations": [
+        "Sai — nhóm sơ sinh chỉ gồm thiếu vitamin K, viêm ruột non hoại tử, xoắn toàn bộ ruột non.",
+        "Sai — nhóm bú mẹ < 18 tháng gồm lị, lồng ruột, không dung nạp đạm sữa, Meckel, nứt hậu môn.",
+        "Đúng — polyp thuộc nhóm trước tuổi đi học < 6 tuổi.",
+        "Sai — nhóm 6–18 tuổi gồm viêm ruột xuất huyết và Meckel, vỡ túi máu ruột non, viêm đại tràng."
+      ]
+    },
+    {
+      "id": "PED55-P07",
+      "type": "concept",
+      "topic": "Đoạn 5.2.2 – XHTH dưới",
+      "subtopic": "Không dung nạp đạm sữa",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "PED-55 Mục 5.2.2 (trang 94–95)",
+      "text": "Theo đoạn văn mục 5.2.2 của barem.\nKhông dung nạp protein sữa bò hoặc đậu nành gây ỉa phân lỏng có máu được xếp vào nhóm tuổi nào?",
+      "options": [
+        "Sơ sinh (0–28 ngày tuổi)",
+        "Bú mẹ (dưới 18 tháng)",
+        "Trước đi học (< 6 tuổi)",
+        "Học đường (6–18 tuổi)"
+      ],
+      "correct": 1,
+      "explanation": "Đoạn văn: không dung nạp đạm sữa ở nhóm <b>bú mẹ < 18 tháng</b> (\"Lị – Lồng – <b>Sữa</b> – Meckel – Nứt\").",
+      "option_explanations": [
+        "Sai — nhóm sơ sinh chỉ gồm thiếu vitamin K, viêm ruột non hoại tử, xoắn toàn bộ ruột non.",
+        "Đúng — không dung nạp đạm sữa thuộc nhóm bú mẹ < 18 tháng.",
+        "Sai — nhóm < 6 tuổi gồm viêm đại tràng nhiễm khuẩn, Pigbel, Henoch, polyp.",
+        "Sai — nhóm 6–18 tuổi không có nguyên nhân liên quan sữa."
+      ]
+    },
+    {
+      "id": "PED55-P08",
+      "type": "concept",
+      "topic": "Đoạn 5.2.2 – XHTH dưới",
+      "subtopic": "Henoch",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "PED-55 Mục 5.2.2 (trang 94–95)",
+      "text": "Theo đoạn văn mục 5.2.2 của barem.\nXHTH trong bệnh Schönlein–Henoch được xếp vào nhóm tuổi nào?",
+      "options": [
+        "Sơ sinh (0–28 ngày tuổi)",
+        "Bú mẹ (dưới 18 tháng)",
+        "Trước đi học (< 6 tuổi)",
+        "Học đường (6–18 tuổi)"
+      ],
+      "correct": 2,
+      "explanation": "Đoạn văn: Henoch ở nhóm <b>< 6 tuổi</b>. Bảng XHTH dưới: Henoch ở cột 2–5 tuổi và cột trẻ lớn.",
+      "option_explanations": [
+        "Sai — nhóm sơ sinh chỉ gồm thiếu vitamin K, viêm ruột non hoại tử, xoắn toàn bộ ruột non.",
+        "Sai — nhóm bú mẹ < 18 tháng gồm lị, lồng ruột, không dung nạp đạm sữa, Meckel, nứt hậu môn.",
+        "Đúng — Henoch thuộc nhóm trước tuổi đi học < 6 tuổi (chữ P = Purpura trong \"3P\").",
+        "Sai — nhóm 6–18 tuổi gồm viêm ruột xuất huyết và Meckel, vỡ túi máu ruột non, viêm đại tràng."
+      ]
+    },
+    {
+      "id": "PED55-P09",
+      "type": "concept",
+      "topic": "Đoạn 5.2.2 – XHTH dưới",
+      "subtopic": "Xoắn ruột",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "PED-55 Mục 5.2.2 (trang 94–95)",
+      "text": "Theo đoạn văn mục 5.2.2 của barem.\nXoắn toàn bộ ruột non do ruột quay, cuốn bất thường mạc treo được xếp vào nhóm tuổi nào?",
+      "options": [
+        "Sơ sinh (0–28 ngày tuổi)",
+        "Bú mẹ (dưới 18 tháng)",
+        "Trước đi học (< 6 tuổi)",
+        "Học đường (6–18 tuổi)"
+      ],
+      "correct": 0,
+      "explanation": "Sơ sinh = <b>\"K – Hoại – Xoắn\"</b>. Trong bảng, xoắn ruột cũng chỉ nằm ở cột nhũ nhi.",
+      "option_explanations": [
+        "Đúng — xoắn toàn bộ ruột non thuộc nhóm sơ sinh (\"K – Hoại – Xoắn\").",
+        "Sai — nhóm bú mẹ < 18 tháng gồm lị, lồng ruột, không dung nạp đạm sữa, Meckel, nứt hậu môn.",
+        "Sai — nhóm < 6 tuổi gồm viêm đại tràng nhiễm khuẩn, Pigbel, Henoch, polyp.",
+        "Sai — nhóm 6–18 tuổi gồm viêm ruột xuất huyết và Meckel, vỡ túi máu ruột non, viêm đại tràng."
+      ]
+    },
+    {
+      "id": "PED55-L01",
+      "type": "concept",
+      "topic": "Bảng XHTH dưới",
+      "subtopic": "Ruột đôi",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "PED-55 Bảng nguyên nhân XHTH dưới (trang 95)",
+      "text": "Theo bảng tổng hợp nguyên nhân XHTH dưới của barem.\nRuột đôi nằm ở cột tuổi nào?",
+      "options": [
+        "Chỉ cột nhũ nhi",
+        "Chỉ cột 2–5 tuổi",
+        "Chỉ cột trẻ lớn",
+        "Cột 2–5 tuổi và trẻ lớn"
+      ],
+      "correct": 0,
+      "explanation": "Cột nhũ nhi bảng XHTH dưới = <b>3 dị tật</b> (ruột đôi, xoắn ruột, Hirschsprung) + <b>3 viêm</b> (viêm đại tràng không đặc hiệu, dị ứng sữa, viêm ruột hoại tử) + nứt kẽ hậu môn + chảy máu do can thiệp.",
+      "option_explanations": [
+        "Đúng — ruột đôi là một trong 3 dị tật bẩm sinh của cột nhũ nhi (ruột đôi, xoắn ruột, Hirschsprung).",
+        "Sai — cột 2–5 tuổi không có dị tật bẩm sinh nào; nổi bật ở đó là lồng ruột và Meckel.",
+        "Sai — cột trẻ lớn không có dị tật bẩm sinh; riêng cột này có IBD.",
+        "Sai — ruột đôi là dị tật bẩm sinh, chỉ ở cột nhũ nhi; 7 nguyên nhân chung của hai cột kia không gồm dị tật."
+      ]
+    },
+    {
+      "id": "PED55-L02",
+      "type": "concept",
+      "topic": "Bảng XHTH dưới",
+      "subtopic": "Huyết tán ure máu cao",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "PED-55 Bảng nguyên nhân XHTH dưới (trang 95)",
+      "text": "Theo bảng tổng hợp nguyên nhân XHTH dưới của barem.\nHội chứng huyết tán ure máu cao nằm ở cột tuổi nào?",
+      "options": [
+        "Cột nhũ nhi và 2–5 tuổi",
+        "Cột nhũ nhi và trẻ lớn",
+        "Cột 2–5 tuổi và trẻ lớn",
+        "Chỉ cột trẻ lớn"
+      ],
+      "correct": 2,
+      "explanation": "7 nguyên nhân chung của cột 2–5 tuổi và cột trẻ lớn: <b>3 tại chỗ</b> (polyp, nứt kẽ hậu môn, nhiễm trùng ruột) · <b>2 toàn thân</b> (Henoch, huyết tán ure máu cao) · <b>2 khối</b> (u bạch huyết, tăng sản mạch máu).",
+      "option_explanations": [
+        "Sai — cột nhũ nhi không có huyết tán ure máu cao.",
+        "Sai — cột nhũ nhi không có huyết tán ure máu cao; cặp nhũ nhi + trẻ lớn là của chảy máu do can thiệp.",
+        "Đúng — huyết tán ure máu cao là một trong 7 nguyên nhân chung của cột 2–5 tuổi và cột trẻ lớn.",
+        "Sai — huyết tán ure máu cao không riêng cột trẻ lớn; cột 2–5 tuổi cũng có."
+      ]
+    },
+    {
+      "id": "PED55-L03",
+      "type": "concept",
+      "topic": "Bảng XHTH dưới",
+      "subtopic": "Bệnh ruột viêm (IBD)",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "PED-55 Bảng nguyên nhân XHTH dưới (trang 95)",
+      "text": "Theo bảng tổng hợp nguyên nhân XHTH dưới của barem.\nBệnh ruột viêm (IBD) nằm ở cột tuổi nào?",
+      "options": [
+        "Chỉ cột nhũ nhi",
+        "Chỉ cột 2–5 tuổi",
+        "Chỉ cột trẻ lớn",
+        "Cột 2–5 tuổi và trẻ lớn"
+      ],
+      "correct": 2,
+      "explanation": "Mẹo: <b>Trẻ lớn = 2–5 tuổi − lồng ruột − Meckel + IBD + chảy máu do can thiệp.</b>",
+      "option_explanations": [
+        "Sai — cột nhũ nhi có viêm đại tràng không đặc hiệu, không có IBD.",
+        "Sai — cột 2–5 tuổi không có IBD.",
+        "Đúng — IBD chỉ có ở cột trẻ lớn (cùng với chảy máu do can thiệp, đây là phần thêm so với cột 2–5 tuổi).",
+        "Sai — IBD không nằm trong 7 nguyên nhân chung; cột 2–5 tuổi không có IBD."
+      ]
+    },
+    {
+      "id": "PED55-L04",
+      "type": "concept",
+      "topic": "Bảng XHTH dưới",
+      "subtopic": "U bạch huyết",
+      "bloom": "nhớ",
+      "difficulty": 3,
+      "source": "PED-55 Bảng nguyên nhân XHTH dưới (trang 95)",
+      "text": "Theo bảng tổng hợp nguyên nhân XHTH dưới của barem.\nU bạch huyết nằm ở cột tuổi nào?",
+      "options": [
+        "Cột nhũ nhi và 2–5 tuổi",
+        "Cột nhũ nhi và trẻ lớn",
+        "Cột 2–5 tuổi và trẻ lớn",
+        "Chỉ cột trẻ lớn"
+      ],
+      "correct": 2,
+      "explanation": "Nhóm <b>2 khối</b> (u bạch huyết, tăng sản mạch máu) có ở cả cột 2–5 tuổi và cột trẻ lớn.",
+      "option_explanations": [
+        "Sai — cột nhũ nhi không có u bạch huyết.",
+        "Sai — cột nhũ nhi không có u bạch huyết.",
+        "Đúng — u bạch huyết là một trong 2 \"khối\" (cùng tăng sản mạch máu) của 7 nguyên nhân chung.",
+        "Sai — u bạch huyết không riêng cột trẻ lớn; cột 2–5 tuổi cũng có."
+      ]
+    },
+    {
+      "id": "PED55-L05",
+      "type": "concept",
+      "topic": "Bảng XHTH dưới",
+      "subtopic": "Nguyên nhân có ở cả 3 cột",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "PED-55 Bảng nguyên nhân XHTH dưới (trang 95)",
+      "text": "Trong bảng tổng hợp nguyên nhân XHTH dưới của barem, có một nguyên nhân xuất hiện ở cả 3 cột (nhũ nhi, 2–5 tuổi, trẻ lớn).\nĐó là nguyên nhân nào?",
+      "options": [
+        "Viêm ruột hoại tử",
+        "Nhiễm trùng đường ruột",
+        "Polyp đại trực tràng",
+        "Nứt kẽ hậu môn"
+      ],
+      "correct": 3,
+      "explanation": "<b>Nứt kẽ hậu môn</b> là nguyên nhân duy nhất có mặt ở cả 3 cột của bảng XHTH dưới.",
+      "option_explanations": [
+        "Sai — viêm ruột hoại tử chỉ có ở cột nhũ nhi.",
+        "Sai — cột nhũ nhi không có nhiễm trùng đường ruột (có viêm đại tràng không đặc hiệu).",
+        "Sai — polyp chỉ có ở cột 2–5 tuổi và cột trẻ lớn.",
+        "Đúng — nứt kẽ hậu môn là nguyên nhân duy nhất có ở cả 3 cột."
+      ]
+    },
+    {
+      "id": "PED55-L06",
+      "type": "concept",
+      "topic": "Bảng XHTH dưới",
+      "subtopic": "Chảy máu do can thiệp",
+      "bloom": "nhớ",
+      "difficulty": 3,
+      "source": "PED-55 Bảng nguyên nhân XHTH dưới (trang 95)",
+      "text": "Theo bảng tổng hợp nguyên nhân XHTH dưới của barem.\n\"Chảy máu do can thiệp\" nằm ở những cột nào?",
+      "options": [
+        "Cột nhũ nhi và 2–5 tuổi",
+        "Cột nhũ nhi và trẻ lớn",
+        "Cột 2–5 tuổi và trẻ lớn",
+        "Chỉ cột trẻ lớn"
+      ],
+      "correct": 1,
+      "explanation": "\"Chảy máu do can thiệp\" ở <b>nhũ nhi và trẻ lớn</b>, bỏ qua cột 2–5 tuổi. Đây là một trong 2 thứ cột trẻ lớn thêm vào so với cột 2–5 tuổi (cùng IBD).",
+      "option_explanations": [
+        "Sai — cột 2–5 tuổi không có chảy máu do can thiệp.",
+        "Đúng — chảy máu do can thiệp có ở cột nhũ nhi và cột trẻ lớn, cột 2–5 tuổi không có.",
+        "Sai — cột 2–5 tuổi không có chảy máu do can thiệp.",
+        "Sai — chảy máu do can thiệp không riêng cột trẻ lớn; cột nhũ nhi cũng có."
+      ]
+    },
+    {
+      "id": "PED55-L07",
+      "type": "concept",
+      "topic": "Bảng XHTH dưới",
+      "subtopic": "Khác biệt 2–5 tuổi so với trẻ lớn",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "PED-55 Bảng nguyên nhân XHTH dưới (trang 95)",
+      "text": "So sánh cột 2–5 tuổi với cột trẻ lớn trong bảng tổng hợp nguyên nhân XHTH dưới của barem.\nHai nguyên nhân nào có ở cột 2–5 tuổi nhưng KHÔNG có ở cột trẻ lớn?",
+      "options": [
+        "U bạch huyết và tăng sản mạch máu",
+        "Nhiễm trùng ruột và huyết tán ure máu cao",
+        "Polyp và Schönlein–Henoch",
+        "Lồng ruột và viêm loét túi thừa Meckel"
+      ],
+      "correct": 3,
+      "explanation": "<b>Trẻ lớn = 2–5 tuổi − lồng ruột − Meckel + IBD + chảy máu do can thiệp.</b>",
+      "option_explanations": [
+        "Sai — hai \"khối\" này có ở cả hai cột.",
+        "Sai — hai nguyên nhân này có ở cả hai cột.",
+        "Sai — cả polyp và Henoch đều có ở cả hai cột.",
+        "Đúng — đây là 2 nguyên nhân chỉ có ở cột 2–5 tuổi."
+      ]
+    },
+    {
+      "id": "PED55-L08",
+      "type": "concept",
+      "topic": "Bảng XHTH dưới",
+      "subtopic": "3 dị tật cột nhũ nhi",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "PED-55 Bảng nguyên nhân XHTH dưới (trang 95)",
+      "text": "Cột nhũ nhi trong bảng tổng hợp nguyên nhân XHTH dưới của barem có 3 dị tật bẩm sinh.\nĐó là 3 dị tật nào?",
+      "options": [
+        "Túi thừa Meckel; xoắn ruột; Hirschsprung",
+        "Túi thừa Meckel; xoắn ruột; tăng sản mạch máu",
+        "Túi thừa Meckel; lồng ruột; Hirschsprung",
+        "Ruột đôi; xoắn ruột; Hirschsprung"
+      ],
+      "correct": 3,
+      "explanation": "Cột nhũ nhi = <b>3 dị tật</b> (ruột đôi, xoắn ruột, Hirschsprung) + <b>3 viêm</b> (viêm đại tràng không đặc hiệu, dị ứng sữa, viêm ruột hoại tử) + nứt kẽ hậu môn + chảy máu do can thiệp.",
+      "option_explanations": [
+        "Sai — Meckel nằm ở cột 2–5 tuổi trong bảng; thiếu ruột đôi.",
+        "Sai — Meckel nằm ở cột 2–5 tuổi; tăng sản mạch máu ở cột 2–5 tuổi và trẻ lớn.",
+        "Sai — Meckel và lồng ruột đều nằm ở cột 2–5 tuổi.",
+        "Đúng — đúng 3 dị tật của cột nhũ nhi."
+      ]
+    },
+    {
+      "id": "PED55-L09",
+      "type": "concept",
+      "topic": "Bảng XHTH dưới",
+      "subtopic": "Viêm ruột hoại tử",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "PED-55 Bảng nguyên nhân XHTH dưới (trang 95)",
+      "text": "Theo bảng tổng hợp nguyên nhân XHTH dưới của barem.\nViêm ruột hoại tử nằm ở cột tuổi nào?",
+      "options": [
+        "Chỉ cột nhũ nhi",
+        "Chỉ cột 2–5 tuổi",
+        "Chỉ cột trẻ lớn",
+        "Cột 2–5 tuổi và trẻ lớn"
+      ],
+      "correct": 0,
+      "explanation": "Trong BẢNG, viêm ruột hoại tử chỉ có ở cột <b>nhũ nhi</b>. Trong ĐOẠN VĂN, viêm ruột hoại tử có ở nhóm sơ sinh, nhóm < 6 tuổi (Pigbel) và nhóm 6–18 tuổi.",
+      "option_explanations": [
+        "Đúng — viêm ruột hoại tử là một trong \"3 viêm\" của cột nhũ nhi.",
+        "Sai — cột 2–5 tuổi có nhiễm trùng đường ruột, không ghi viêm ruột hoại tử.",
+        "Sai — cột trẻ lớn không có viêm ruột hoại tử.",
+        "Sai — viêm ruột hoại tử không nằm trong 7 nguyên nhân chung."
+      ]
+    },
+    {
+      "id": "PED55-U01",
+      "type": "concept",
+      "topic": "Bảng XHTH trên",
+      "subtopic": "Dạ dày – nhũ nhi",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "PED-55 Bảng nguyên nhân XHTH trên (trang 93)",
+      "text": "Theo bảng tổng hợp nguyên nhân XHTH trên của barem.\nỞ cột nhũ nhi, nguyên nhân tại dạ dày là gì?",
+      "options": [
+        "Giãn tĩnh mạch dạ dày",
+        "Dị dạng mạch Dieulafoy",
+        "Viêm dạ dày do stress",
+        "Loét dạ dày"
+      ],
+      "correct": 2,
+      "explanation": "Cột nhũ nhi bảng XHTH trên = <b>\"K + 4S\"</b>: vitamin <b>K</b> · <b>S</b>tress (viêm dạ dày) · <b>S</b>epsis (nhiễm trùng huyết) · <b>S</b>onde (chấn thương do đặt sonde mũi dạ dày) · <b>S</b>ữa (dị ứng đạm sữa bò).",
+      "option_explanations": [
+        "Sai — giãn tĩnh mạch dạ dày nằm ở cột 2–5 tuổi và cột trẻ lớn (do tăng áp cửa).",
+        "Sai — Dieulafoy nằm ở cột trẻ lớn.",
+        "Đúng — cột nhũ nhi tầng dạ dày chỉ có viêm dạ dày do stress.",
+        "Sai — loét dạ dày nằm ở cột 2–5 tuổi."
+      ]
+    },
+    {
+      "id": "PED55-U02",
+      "type": "concept",
+      "topic": "Bảng XHTH trên",
+      "subtopic": "Vị trí khác – nhũ nhi",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "PED-55 Bảng nguyên nhân XHTH trên (trang 93)",
+      "text": "Theo bảng tổng hợp nguyên nhân XHTH trên của barem.\nỞ cột nhũ nhi, hàng \"vị trí khác\" gồm những nguyên nhân nào?",
+      "options": [
+        "Thiếu vitamin K; nhiễm trùng huyết; nuốt dị vật; dị ứng đạm sữa bò",
+        "Thiếu vitamin K; dùng thuốc NSAIDs; nuốt dị vật; dị ứng đạm sữa bò",
+        "Bệnh máu khó đông; nhiễm trùng huyết; nuốt dị vật; dị ứng đạm sữa bò",
+        "Thiếu vitamin K; nhiễm trùng huyết; chấn thương do sonde; dị ứng đạm sữa bò"
+      ],
+      "correct": 3,
+      "explanation": "Ở nhũ nhi chưa có bệnh tại từng tầng: nguyên nhân là toàn thân hoặc do can thiệp — <b>\"K + 4S\"</b>.",
+      "option_explanations": [
+        "Sai — nuốt dị vật nằm ở cột 2–5 tuổi và cột trẻ lớn; thiếu chấn thương do sonde.",
+        "Sai — NSAIDs và nuốt dị vật nằm ở cột 2–5 tuổi và cột trẻ lớn.",
+        "Sai — bệnh máu khó đông nằm ở cột trẻ lớn (tầng tá tràng); nuốt dị vật ở cột 2–5 tuổi và trẻ lớn.",
+        "Đúng — đúng 4 nguyên nhân hàng \"vị trí khác\" cột nhũ nhi."
+      ]
+    },
+    {
+      "id": "PED55-U03",
+      "type": "concept",
+      "topic": "Bảng XHTH trên",
+      "subtopic": "Tầng trống – nhũ nhi",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "PED-55 Bảng nguyên nhân XHTH trên (trang 93)",
+      "text": "Trong bảng tổng hợp nguyên nhân XHTH trên của barem, cột nhũ nhi để trống hai tầng giải phẫu.\nHai tầng đó là gì?",
+      "options": [
+        "Dạ dày và tá tràng",
+        "Chỉ tầng tá tràng",
+        "Thực quản và dạ dày",
+        "Thực quản và tá tràng"
+      ],
+      "correct": 3,
+      "explanation": "Cột nhũ nhi chỉ có tầng <b>dạ dày</b> (viêm do stress) và hàng <b>vị trí khác</b>; thực quản và tá tràng để trống.",
+      "option_explanations": [
+        "Sai — tầng dạ dày cột nhũ nhi có viêm dạ dày do stress.",
+        "Sai — tầng thực quản của cột nhũ nhi cũng để trống.",
+        "Sai — tầng dạ dày cột nhũ nhi có viêm dạ dày do stress.",
+        "Đúng — cột nhũ nhi để trống tầng thực quản và tầng tá tràng."
+      ]
+    },
+    {
+      "id": "PED55-U04",
+      "type": "concept",
+      "topic": "Bảng XHTH trên",
+      "subtopic": "Dieulafoy",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "PED-55 Bảng nguyên nhân XHTH trên (trang 93)",
+      "text": "Theo bảng tổng hợp nguyên nhân XHTH trên của barem.\nDị dạng mạch ở dạ dày (Dieulafoy) nằm ở cột tuổi nào?",
+      "options": [
+        "Chỉ cột nhũ nhi",
+        "Chỉ cột 2–5 tuổi",
+        "Chỉ cột trẻ lớn",
+        "Cột 2–5 tuổi và trẻ lớn"
+      ],
+      "correct": 2,
+      "explanation": "Cột trẻ lớn tầng dạ dày: <b>Dieulafoy</b> + giãn tĩnh mạch dạ dày do tăng áp lực tĩnh mạch cửa.",
+      "option_explanations": [
+        "Sai — cột nhũ nhi tầng dạ dày chỉ có viêm dạ dày do stress.",
+        "Sai — cột 2–5 tuổi tầng dạ dày gồm viêm, loét, giãn tĩnh mạch dạ dày.",
+        "Đúng — Dieulafoy chỉ có ở cột trẻ lớn (tầng dạ dày).",
+        "Sai — cột 2–5 tuổi không có Dieulafoy."
+      ]
+    },
+    {
+      "id": "PED55-U05",
+      "type": "concept",
+      "topic": "Bảng XHTH trên",
+      "subtopic": "Loét tá tràng",
+      "bloom": "nhớ",
+      "difficulty": 3,
+      "source": "PED-55 Bảng nguyên nhân XHTH trên (trang 93)",
+      "text": "Theo bảng tổng hợp nguyên nhân XHTH trên của barem.\nLoét tá tràng nằm ở cột tuổi nào?",
+      "options": [
+        "Chỉ cột nhũ nhi",
+        "Chỉ cột 2–5 tuổi",
+        "Chỉ cột trẻ lớn",
+        "Cột 2–5 tuổi và trẻ lớn"
+      ],
+      "correct": 1,
+      "explanation": "Bảng XHTH trên, tầng tá tràng: nhũ nhi trống · 2–5 tuổi <b>viêm + loét tá tràng</b> · trẻ lớn <b>bệnh máu khó đông</b>.",
+      "option_explanations": [
+        "Sai — cột nhũ nhi để trống tầng tá tràng.",
+        "Đúng — tầng tá tràng cột 2–5 tuổi gồm viêm tá tràng và loét tá tràng.",
+        "Sai — tầng tá tràng cột trẻ lớn chỉ ghi bệnh máu khó đông.",
+        "Sai — cột trẻ lớn không ghi loét tá tràng (chỉ có bệnh máu khó đông ở tầng này)."
+      ]
+    },
+    {
+      "id": "PED55-U06",
+      "type": "concept",
+      "topic": "Bảng XHTH trên",
+      "subtopic": "Hội chứng Mallory-Weiss",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "PED-55 Bảng nguyên nhân XHTH trên (trang 93)",
+      "text": "Theo bảng tổng hợp nguyên nhân XHTH trên của barem.\nHội chứng Mallory-Weiss nằm ở cột tuổi nào?",
+      "options": [
+        "Cột nhũ nhi và 2–5 tuổi",
+        "Cột nhũ nhi và trẻ lớn",
+        "Cột 2–5 tuổi và trẻ lớn",
+        "Chỉ cột trẻ lớn"
+      ],
+      "correct": 2,
+      "explanation": "Tầng thực quản: cột 2–5 tuổi và cột trẻ lớn <b>giống hệt nhau</b> — viêm thực quản, giãn tĩnh mạch thực quản, Mallory-Weiss.",
+      "option_explanations": [
+        "Sai — cột nhũ nhi để trống tầng thực quản.",
+        "Sai — cột nhũ nhi để trống tầng thực quản.",
+        "Đúng — tầng thực quản của cột 2–5 tuổi và cột trẻ lớn giống hệt nhau (viêm, giãn TM, Mallory-Weiss).",
+        "Sai — Mallory-Weiss không riêng cột trẻ lớn; cột 2–5 tuổi có cùng 3 nguyên nhân thực quản."
+      ]
+    },
+    {
+      "id": "PED55-U07",
+      "type": "concept",
+      "topic": "Bảng XHTH trên",
+      "subtopic": "Đồ nuốt vào",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "PED-55 Bảng nguyên nhân XHTH trên (trang 93)",
+      "text": "Theo bảng tổng hợp nguyên nhân XHTH trên của barem.\nNuốt hóa chất ăn mòn, dị vật đường tiêu hóa và dùng NSAIDs nằm ở cột tuổi nào?",
+      "options": [
+        "Cột nhũ nhi và 2–5 tuổi",
+        "Cột nhũ nhi và trẻ lớn",
+        "Cột 2–5 tuổi và trẻ lớn",
+        "Chỉ cột trẻ lớn"
+      ],
+      "correct": 2,
+      "explanation": "Hàng vị trí khác: cột 2–5 tuổi = <b>đồ nuốt vào</b> (hóa chất, dị vật, NSAIDs); cột trẻ lớn = đồ nuốt vào + polyp, Crohn, giãn TM, dị ứng đạm sữa bò, rối loạn đông máu.",
+      "option_explanations": [
+        "Sai — hàng vị trí khác của cột nhũ nhi là vitamin K, nhiễm trùng huyết, sonde, dị ứng sữa.",
+        "Sai — cột nhũ nhi không có nhóm \"đồ nuốt vào\".",
+        "Đúng — nhóm \"đồ nuốt vào\" (hóa chất, dị vật, NSAIDs) có ở cả cột 2–5 tuổi và cột trẻ lớn.",
+        "Sai — nhóm \"đồ nuốt vào\" không riêng cột trẻ lớn; cột 2–5 tuổi cũng có."
+      ]
+    },
+    {
+      "id": "PED55-U08",
+      "type": "concept",
+      "topic": "Bảng XHTH trên",
+      "subtopic": "Dị ứng đạm sữa bò – bảng trên",
+      "bloom": "nhớ",
+      "difficulty": 3,
+      "source": "PED-55 Bảng nguyên nhân XHTH trên (trang 93)",
+      "text": "Theo bảng tổng hợp nguyên nhân XHTH trên của barem.\nDị ứng đạm sữa bò nằm ở những cột nào?",
+      "options": [
+        "Cột nhũ nhi và 2–5 tuổi",
+        "Cột nhũ nhi và trẻ lớn",
+        "Cột 2–5 tuổi và trẻ lớn",
+        "Chỉ cột trẻ lớn"
+      ],
+      "correct": 1,
+      "explanation": "Bảng XHTH trên: dị ứng đạm sữa bò ở <b>nhũ nhi và trẻ lớn</b>, bỏ qua cột 2–5 tuổi.",
+      "option_explanations": [
+        "Sai — cột 2–5 tuổi không có dị ứng đạm sữa bò (hàng vị trí khác chỉ có hóa chất, dị vật, NSAIDs).",
+        "Đúng — dị ứng đạm sữa bò có ở cột nhũ nhi và cột trẻ lớn, cột 2–5 tuổi không có.",
+        "Sai — cột 2–5 tuổi không có dị ứng đạm sữa bò.",
+        "Sai — dị ứng đạm sữa bò không riêng cột trẻ lớn; cột nhũ nhi cũng có."
+      ]
+    },
+    {
+      "id": "PED55-U09",
+      "type": "concept",
+      "topic": "Bảng XHTH trên",
+      "subtopic": "Tá tràng – trẻ lớn",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "PED-55 Bảng nguyên nhân XHTH trên (trang 93)",
+      "text": "Theo bảng tổng hợp nguyên nhân XHTH trên của barem.\nỞ cột trẻ lớn, tầng tá tràng ghi nguyên nhân nào?",
+      "options": [
+        "Bệnh Crohn",
+        "Viêm tá tràng",
+        "Loét tá tràng",
+        "Bệnh máu khó đông"
+      ],
+      "correct": 3,
+      "explanation": "Tầng tá tràng: nhũ nhi trống · 2–5 tuổi viêm + loét · trẻ lớn <b>bệnh máu khó đông</b>.",
+      "option_explanations": [
+        "Sai — Crohn nằm ở hàng vị trí khác của cột trẻ lớn.",
+        "Sai — viêm tá tràng nằm ở cột 2–5 tuổi.",
+        "Sai — loét tá tràng nằm ở cột 2–5 tuổi.",
+        "Đúng — tầng tá tràng cột trẻ lớn chỉ ghi bệnh máu khó đông."
+      ]
+    },
+    {
+      "id": "PED55-U10",
+      "type": "concept",
+      "topic": "Bảng XHTH trên",
+      "subtopic": "Dạ dày – 2–5 tuổi",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "PED-55 Bảng nguyên nhân XHTH trên (trang 93)",
+      "text": "Theo bảng tổng hợp nguyên nhân XHTH trên của barem.\nỞ cột 2–5 tuổi, tầng dạ dày gồm những nguyên nhân nào?",
+      "options": [
+        "Viêm dạ dày; loét dạ dày; giãn tĩnh mạch dạ dày",
+        "Viêm dạ dày do stress; loét dạ dày; Mallory-Weiss",
+        "Viêm dạ dày do stress; Dieulafoy; giãn tĩnh mạch dạ dày",
+        "Viêm dạ dày do stress; loét dạ dày; giãn tĩnh mạch dạ dày"
+      ],
+      "correct": 0,
+      "explanation": "Cột 2–5 tuổi = <b>\"viêm – loét – giãn\" ở từng tầng</b> + đồ nuốt vào. Riêng tầng thực quản thay \"loét\" bằng Mallory-Weiss.",
+      "option_explanations": [
+        "Đúng — đúng 3 nguyên nhân tầng dạ dày cột 2–5 tuổi (viêm – loét – giãn).",
+        "Sai — viêm do stress thuộc cột nhũ nhi; Mallory-Weiss là nguyên nhân tầng thực quản.",
+        "Sai — viêm dạ dày do stress thuộc cột nhũ nhi; Dieulafoy thuộc cột trẻ lớn.",
+        "Sai — bảng ghi riêng \"viêm dạ dày do stress\" ở cột nhũ nhi; cột 2–5 tuổi ghi \"viêm dạ dày\" (không kèm stress), nên phương án này sai cho cột 2–5 tuổi."
+      ]
+    },
+    {
+      "id": "PED55-N01",
+      "type": "concept",
+      "topic": "Số liệu theo tuổi",
+      "subtopic": "Thiếu vitamin K: thời điểm",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "PED-55 Mục 5.2.2 (trang 94–95)",
+      "text": "Barem mô tả XHTH do thiếu vitamin K ở trẻ sơ sinh là biểu hiện của xuất huyết toàn thân.\nXHTH này thường xuất hiện vào thời điểm nào?",
+      "options": [
+        "Ngày thứ 1 sau đẻ",
+        "Ngày thứ 2–3 sau đẻ",
+        "Ngày thứ 5–7 sau đẻ",
+        "Sau 2 tuần tuổi"
+      ],
+      "correct": 1,
+      "explanation": "Sơ sinh, <b>ngày thứ 2–3</b>: XHTH là biểu hiện xuất huyết toàn thân do thiếu vitamin K (thiếu yếu tố II, VII, IX, X).",
+      "option_explanations": [
+        "Sai — barem ghi ngày thứ 2–3, không phải ngày đầu.",
+        "Đúng — barem ghi XHTH vào ngày thứ 2, thứ 3.",
+        "Sai — muộn hơn mốc barem (ngày 2–3).",
+        "Sai — barem không mô tả mốc này."
+      ]
+    },
+    {
+      "id": "PED55-N02",
+      "type": "concept",
+      "topic": "Số liệu theo tuổi",
+      "subtopic": "Thiếu vitamin K: yếu tố đông máu",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "PED-55 Mục 5.2.2 (trang 94–95)",
+      "text": "Barem nêu xét nghiệm đông máu ở trẻ sơ sinh XHTH do thiếu vitamin K.\nNhững yếu tố nào bị thiếu?",
+      "options": [
+        "II, VII, IX và X",
+        "V, VII, VIII và XIII",
+        "I, II, V và X",
+        "VIII, IX và XI"
+      ],
+      "correct": 0,
+      "explanation": "Thiếu vitamin K → thiếu các yếu tố <b>II, VII, IX, X</b>.",
+      "option_explanations": [
+        "Đúng — đây là các yếu tố phụ thuộc vitamin K mà barem nêu.",
+        "Sai — yếu tố V, VIII, XIII không phụ thuộc vitamin K.",
+        "Sai — yếu tố I và V không phụ thuộc vitamin K.",
+        "Sai — đây là các yếu tố của bệnh hemophilia A, B, C, không phụ thuộc vitamin K."
+      ]
+    },
+    {
+      "id": "PED55-N03",
+      "type": "concept",
+      "topic": "Số liệu theo tuổi",
+      "subtopic": "Lồng ruột < 2 tuổi",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "PED-55 Mục 5.2.2 (trang 94–95)",
+      "text": "Theo đoạn văn mục 5.2.2 của barem.\nTỷ lệ lồng ruột xảy ra ở trẻ dưới 2 tuổi là bao nhiêu?",
+      "options": [
+        "Trên 40%",
+        "Trên 60%",
+        "Trên 80%",
+        "Trên 95%"
+      ],
+      "correct": 2,
+      "explanation": "Lồng ruột: <b>> 80% ở trẻ < 2 tuổi</b>; <b>45% từ 4–10 tháng</b>; ỉa máu nhầy ở 36% trẻ < 1 tuổi.",
+      "option_explanations": [
+        "Sai — 45% là tỷ lệ lồng ruột ở 4–10 tháng, còn < 2 tuổi là > 80%.",
+        "Sai — 60% là tỷ lệ Meckel chảy máu ở trẻ < 2 tuổi.",
+        "Đúng — barem ghi > 80% lồng ruột ở trẻ dưới 2 tuổi.",
+        "Sai — barem ghi > 80%."
+      ]
+    },
+    {
+      "id": "PED55-N04",
+      "type": "concept",
+      "topic": "Số liệu theo tuổi",
+      "subtopic": "Lồng ruột 45%",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "PED-55 Mục 5.2.2 (trang 94–95)",
+      "text": "Theo đoạn văn mục 5.2.2 của barem, khoảng 45% trường hợp lồng ruột rơi vào một khoảng tuổi.\nKhoảng tuổi đó là gì?",
+      "options": [
+        "0–3 tháng",
+        "4–10 tháng",
+        "12–24 tháng",
+        "Trên 24 tháng"
+      ],
+      "correct": 1,
+      "explanation": "Lồng ruột: <b>45% ở 4–10 tháng</b>; > 80% ở trẻ < 2 tuổi.",
+      "option_explanations": [
+        "Sai — barem ghi 45% từ 4–10 tháng.",
+        "Đúng — barem ghi 45% lồng ruột từ 4–10 tháng.",
+        "Sai — barem ghi 45% từ 4–10 tháng.",
+        "Sai — barem ghi 45% lồng ruột từ 4–10 tháng; mốc 24 tháng (2 tuổi) gắn với tỷ lệ > 80%."
+      ]
+    },
+    {
+      "id": "PED55-N05",
+      "type": "concept",
+      "topic": "Số liệu theo tuổi",
+      "subtopic": "Meckel < 2 tuổi",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "PED-55 Mục 5.2.2 (trang 94–95)",
+      "text": "Theo đoạn văn mục 5.2.2 của barem về chảy máu do loét túi thừa Meckel.\nBao nhiêu phần trăm trường hợp xảy ra ở trẻ dưới 2 tuổi?",
+      "options": [
+        "20%",
+        "40%",
+        "60%",
+        "80%"
+      ],
+      "correct": 2,
+      "explanation": "Meckel: <b>60% ở trẻ < 2 tuổi</b>; <b>40% tái phát nhiều đợt</b>; chảy máu không kèm đau bụng.",
+      "option_explanations": [
+        "Sai — barem ghi 60% ở trẻ < 2 tuổi.",
+        "Sai — 40% là tỷ lệ trẻ Meckel có nhiều đợt tái phát.",
+        "Đúng — barem ghi 60% chảy máu do Meckel xảy ra ở trẻ < 2 tuổi.",
+        "Sai — > 80% là tỷ lệ lồng ruột ở trẻ < 2 tuổi."
+      ]
+    },
+    {
+      "id": "PED55-N06",
+      "type": "concept",
+      "topic": "Số liệu theo tuổi",
+      "subtopic": "Henoch 30%",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "PED-55 Mục 5.2.2 (trang 94–95)",
+      "text": "Theo đoạn văn mục 5.2.2 của barem về bệnh Schönlein–Henoch.\nBao nhiêu phần trăm trường hợp có tổn thương đường tiêu hóa?",
+      "options": [
+        "10%",
+        "30%",
+        "50%",
+        "80%"
+      ],
+      "correct": 1,
+      "explanation": "Henoch: <b>30%</b> có tổn thương tiêu hóa, hay gặp ở hỗng, hồi tràng.",
+      "option_explanations": [
+        "Sai — barem ghi 30%.",
+        "Đúng — barem ghi 30% trường hợp ban xuất huyết khớp có tổn thương tiêu hóa.",
+        "Sai — barem ghi 30%.",
+        "Sai — barem ghi 30%; > 80% là số của lồng ruột."
+      ]
+    },
+    {
+      "id": "PED55-C01",
+      "type": "vignette",
+      "topic": "Ca lâm sàng theo tuổi",
+      "subtopic": "Sơ sinh: thiếu vitamin K",
+      "bloom": "áp dụng",
+      "difficulty": 1,
+      "source": "PED-55 Mục 5.2.2 (trang 94–95)",
+      "text": "Trẻ sơ sinh đủ tháng, đẻ tại nhà, chưa được tiêm vitamin K. Ngày thứ 3 trẻ ỉa phân đen, rỉ máu chỗ rốn. Bụng mềm, không chướng, bú tốt.\nTheo barem, nguyên nhân nào phù hợp nhất?",
+      "options": [
+        "Viêm ruột non hoại tử ở trẻ sơ sinh",
+        "Xoắn toàn bộ ruột non do ruột quay bất thường",
+        "Không dung nạp đạm sữa bò gây viêm đại tràng",
+        "Thiếu vitamin K gây xuất huyết toàn thân"
+      ],
+      "correct": 3,
+      "explanation": "Sơ sinh ngày 2–3 + xuất huyết nhiều nơi → <b>thiếu vitamin K</b> (barem khuyến cáo tiêm vitamin K cho trẻ sơ sinh ngay cả khi chưa có kết quả đông máu).",
+      "option_explanations": [
+        "Sai — bệnh thường gặp ở trẻ đẻ non, bụng chướng, nhiễm trùng – nhiễm độc; ca này đủ tháng, bụng mềm.",
+        "Sai — xoắn ruột gây tắc ruột (nôn, bụng chướng), không gây chảy máu rốn.",
+        "Sai — nhóm bú mẹ < 18 tháng, phân lỏng có máu sau ăn sữa, không gây chảy máu rốn.",
+        "Đúng — ngày 2–3, chưa tiêm vitamin K, chảy máu cả rốn: đúng nhóm sơ sinh thiếu vitamin K."
+      ]
+    },
+    {
+      "id": "PED55-C02",
+      "type": "vignette",
+      "topic": "Ca lâm sàng theo tuổi",
+      "subtopic": "Sơ sinh non tháng: viêm ruột hoại tử",
+      "bloom": "áp dụng",
+      "difficulty": 2,
+      "source": "PED-55 Mục 5.2.2 (trang 94–95)",
+      "text": "Trẻ đẻ non 30 tuần, ngày thứ 10, sốt, li bì, bụng chướng căng, ỉa phân đen khắm. Đã tiêm vitamin K lúc sinh.\nTheo barem, nguyên nhân nào phù hợp nhất?",
+      "options": [
+        "Thiếu vitamin K ở trẻ sơ sinh",
+        "Viêm ruột non hoại tử ở trẻ sơ sinh",
+        "Viêm loét túi thừa Meckel",
+        "Lồng ruột cấp tính"
+      ],
+      "correct": 1,
+      "explanation": "Sơ sinh <b>đẻ non</b> + nhiễm trùng – nhiễm độc + bụng chướng + phân đen khắm → <b>viêm ruột non hoại tử</b>.",
+      "option_explanations": [
+        "Sai — trẻ đã tiêm vitamin K và có hội chứng nhiễm trùng, bụng chướng.",
+        "Đúng — đẻ non + nhiễm trùng – nhiễm độc + bụng chướng + phân đen khắm: đúng viêm ruột hoại tử.",
+        "Sai — Meckel chảy máu không đau, không kèm nhiễm trùng – nhiễm độc.",
+        "Sai — lồng ruột gây đau bụng từng cơn và ỉa máu nhầy, hay gặp 4–10 tháng."
+      ]
+    },
+    {
+      "id": "PED55-C03",
+      "type": "vignette",
+      "topic": "Ca lâm sàng theo tuổi",
+      "subtopic": "Bú mẹ: lồng ruột",
+      "bloom": "áp dụng",
+      "difficulty": 1,
+      "source": "PED-55 Mục 5.2.2 (trang 94–95)",
+      "text": "Trẻ trai 7 tháng, khỏe mạnh, đột ngột khóc thét từng cơn, co chân, tái nhợt, nôn; giữa các cơn nằm yên. Sau 8 giờ trẻ ỉa ra máu nhầy.\nTheo barem, nguyên nhân nào phù hợp nhất?",
+      "options": [
+        "Lồng ruột cấp tính",
+        "Nứt hậu môn do táo bón",
+        "Viêm loét túi thừa Meckel",
+        "Ỉa chảy nhiễm khuẩn (hội chứng lị)"
+      ],
+      "correct": 0,
+      "explanation": "Barem: lồng ruột > 80% ở trẻ < 2 tuổi, 45% từ 4–10 tháng, đau bụng từng cơn, tái nhợt, ỉa máu nhầy.",
+      "option_explanations": [
+        "Đúng — đau bụng từng cơn, tái nhợt, nôn, ỉa máu nhầy ở trẻ 4–10 tháng: đúng lồng ruột.",
+        "Sai — nứt hậu môn chỉ gây vệt máu tươi khi đi ngoài, không đau bụng từng cơn.",
+        "Sai — Meckel chảy máu không kèm đau bụng.",
+        "Sai — lị gây sốt, phân lỏng nhiều lần có máu mũi, không có cơn đau từng cơn và tái nhợt kiểu này."
+      ]
+    },
+    {
+      "id": "PED55-C04",
+      "type": "vignette",
+      "topic": "Ca lâm sàng theo tuổi",
+      "subtopic": "Bú mẹ: Meckel",
+      "bloom": "áp dụng",
+      "difficulty": 2,
+      "source": "PED-55 Mục 5.2.2 (trang 94–95)",
+      "text": "Trẻ trai 15 tháng đi ngoài một lượng lớn phân màu đỏ sẫm. Trẻ không đau bụng, không nôn, không sốt, bụng mềm. Hb tụt từ 11 xuống 7 g/dL, phải truyền máu. Tháng trước có một đợt tương tự.\nTheo barem, nguyên nhân nào phù hợp nhất?",
+      "options": [
+        "Lồng ruột cấp tính",
+        "Nứt hậu môn do táo bón",
+        "Polyp trực tràng, đại tràng",
+        "Viêm loét túi thừa Meckel"
+      ],
+      "correct": 3,
+      "explanation": "Meckel: chảy máu <b>không kèm đau bụng</b>, thường nhiều phải truyền máu hoặc ít nhưng hay tái phát; 60% ở trẻ < 2 tuổi, 40% tái phát. Chẩn đoán bằng xạ hình Tc99m.",
+      "option_explanations": [
+        "Sai — lồng ruột có đau bụng từng cơn, nôn, sờ thấy búi lồng.",
+        "Sai — nứt hậu môn chảy máu ít, đau khi đi ngoài.",
+        "Sai — polyp chảy máu tươi ít, bao ngoài khuôn phân, hiếm khi phải truyền máu.",
+        "Đúng — chảy máu nhiều không đau, phải truyền máu, tái phát ở trẻ < 2 tuổi: đúng Meckel."
+      ]
+    },
+    {
+      "id": "PED55-C05",
+      "type": "vignette",
+      "topic": "Ca lâm sàng theo tuổi",
+      "subtopic": "Bú mẹ: dị ứng đạm sữa",
+      "bloom": "áp dụng",
+      "difficulty": 2,
+      "source": "PED-55 Mục 5.2.2 (trang 94–95)",
+      "text": "Trẻ gái 2 tháng, chuyển từ bú mẹ hoàn toàn sang sữa công thức được 1 tuần. Trẻ đi ngoài phân lỏng có lẫn máu, vẫn bú được, không sốt, bụng mềm.\nTheo barem, nguyên nhân nào phù hợp nhất?",
+      "options": [
+        "Không dung nạp protein sữa bò",
+        "Lồng ruột cấp tính",
+        "Viêm loét túi thừa Meckel",
+        "Ỉa chảy nhiễm khuẩn (hội chứng lị)"
+      ],
+      "correct": 0,
+      "explanation": "Barem nhóm bú mẹ < 18 tháng: không dung nạp protein sữa bò hoặc đậu nành → <b>ỉa phân lỏng có máu sau khi ăn sữa</b>, biểu hiện viêm đại tràng.",
+      "option_explanations": [
+        "Đúng — phân lỏng có máu sau khi bắt đầu ăn sữa công thức: đúng không dung nạp đạm sữa bò.",
+        "Sai — lồng ruột có đau bụng từng cơn, nôn, tái nhợt.",
+        "Sai — Meckel chảy máu lượng nhiều, không kèm phân lỏng.",
+        "Sai — lị thường kèm sốt, phân nhầy máu mũi nhiều lần, không gắn với thời điểm đổi sữa."
+      ]
+    },
+    {
+      "id": "PED55-C06",
+      "type": "vignette",
+      "topic": "Ca lâm sàng theo tuổi",
+      "subtopic": "Trước tuổi đi học: polyp",
+      "bloom": "áp dụng",
+      "difficulty": 2,
+      "source": "PED-55 Mục 5.2.2 (trang 94–95)",
+      "text": "Trẻ trai 4 tuổi, 3 tháng nay thỉnh thoảng có ít máu đỏ tươi bao ngoài khuôn phân, ra cuối bãi. Trẻ không táo bón, không đau khi đi ngoài, không thiếu máu.\nTheo barem, nguyên nhân nào phù hợp nhất?",
+      "options": [
+        "Polyp trực tràng, đại tràng",
+        "Nứt hậu môn do táo bón",
+        "XHTH trong bệnh Schönlein–Henoch",
+        "Viêm loét túi thừa Meckel"
+      ],
+      "correct": 0,
+      "explanation": "Polyp (nhóm < 6 tuổi): máu tươi ra đầu hoặc cuối bãi, <b>bao ngoài cục phân</b>, ít nhưng hay tái phát.",
+      "option_explanations": [
+        "Đúng — máu tươi bao ngoài phân, ít nhưng hay tái phát, không đau ở trẻ < 6 tuổi: đúng polyp.",
+        "Sai — nứt hậu môn kèm táo bón và đau khi đi ngoài; ca này không có.",
+        "Sai — Henoch có ban xuất huyết đối xứng ở chi và đau bụng.",
+        "Sai — Meckel chảy máu đỏ sẫm lượng nhiều, trộn lẫn phân."
+      ]
+    },
+    {
+      "id": "PED55-C07",
+      "type": "vignette",
+      "topic": "Ca lâm sàng theo tuổi",
+      "subtopic": "Trước tuổi đi học: Henoch",
+      "bloom": "áp dụng",
+      "difficulty": 1,
+      "source": "PED-55 Mục 5.2.2 (trang 94–95)",
+      "text": "Trẻ gái 5 tuổi, sau viêm họng 2 tuần xuất hiện ban xuất huyết dạng sẩn đối xứng ở hai chi dưới, sưng đau cổ chân, đau bụng quanh rốn từng cơn, đi ngoài phân đen.\nTheo barem, nguyên nhân nào phù hợp nhất?",
+      "options": [
+        "Polyp trực tràng, đại tràng",
+        "Lồng ruột cấp tính",
+        "Hội chứng Pigbel (viêm ruột hoại tử)",
+        "XHTH trong bệnh Schönlein–Henoch"
+      ],
+      "correct": 3,
+      "explanation": "Henoch: 30% có tổn thương tiêu hóa; biểu hiện tiêu hóa có thể đi trước, <b>ban xuất huyết đối xứng ở chi</b> giúp chẩn đoán lâm sàng.",
+      "option_explanations": [
+        "Sai — polyp chảy máu tươi bao ngoài phân, không đau bụng, không ban.",
+        "Sai — lồng ruột không gây ban xuất huyết và đau khớp.",
+        "Sai — Pigbel có nhiễm trùng – nhiễm độc, bụng chướng, phân đen khắm; không có ban xuất huyết đối xứng.",
+        "Đúng — ban xuất huyết đối xứng chi dưới + đau khớp + đau bụng + phân đen: đúng Henoch."
+      ]
+    },
+    {
+      "id": "PED55-C08",
+      "type": "vignette",
+      "topic": "Ca lâm sàng theo tuổi",
+      "subtopic": "Học đường: viêm ruột xuất huyết",
+      "bloom": "áp dụng",
+      "difficulty": 2,
+      "source": "PED-55 Mục 5.2.2 (trang 94–95)",
+      "text": "Trẻ trai 10 tuổi, 2 ngày nay sốt 39 °C, đau quặn bụng, mót rặn, đi ngoài 10 lần/ngày phân nhầy máu toàn bãi. Trước đó trẻ khỏe mạnh.\nTheo barem, nhóm nguyên nhân nào phù hợp nhất?",
+      "options": [
+        "Viêm loét túi thừa Meckel",
+        "Viêm ruột xuất huyết (lị, amip)",
+        "Polyp trực tràng, đại tràng",
+        "Bệnh ruột viêm (IBD)"
+      ],
+      "correct": 1,
+      "explanation": "Nhóm 6–18 tuổi: <b>viêm ruột xuất huyết</b> (viêm ruột hoại tử, amip, lị) → phân máu nhầy toàn bãi.",
+      "option_explanations": [
+        "Sai — Meckel chảy máu nhiều, không đau, không sốt.",
+        "Đúng — cấp tính, sốt, mót rặn, phân máu nhầy toàn bãi ở trẻ 6–18 tuổi: đúng viêm ruột xuất huyết.",
+        "Sai — polyp chảy máu ít bao ngoài phân, không sốt, không mót rặn.",
+        "Sai — IBD diễn biến kéo dài, sụt cân; ca này cấp tính 2 ngày ở trẻ trước đó khỏe mạnh."
+      ]
+    },
+    {
+      "id": "PED55-C09",
+      "type": "vignette",
+      "topic": "Ca lâm sàng theo tuổi",
+      "subtopic": "Trẻ lớn: Mallory-Weiss",
+      "bloom": "áp dụng",
+      "difficulty": 2,
+      "source": "PED-55 Bảng nguyên nhân XHTH trên (trang 93)",
+      "text": "Trẻ gái 13 tuổi say tàu xe, nôn khan dữ dội nhiều lần, sau đó nôn ra máu đỏ tươi lượng ít. Không đau thượng vị trước đó, không dùng thuốc, gan lách không to.\nTheo bảng XHTH trên của barem, nguyên nhân nào phù hợp nhất?",
+      "options": [
+        "Hội chứng Mallory-Weiss",
+        "Giãn tĩnh mạch thực quản",
+        "Loét dạ dày",
+        "Dị dạng mạch dạ dày Dieulafoy"
+      ],
+      "correct": 0,
+      "explanation": "Mallory-Weiss nằm ở tầng thực quản của cả cột 2–5 tuổi và cột trẻ lớn trong bảng XHTH trên.",
+      "option_explanations": [
+        "Đúng — nôn khan dữ dội rồi nôn máu tươi: đúng rách niêm mạc tâm vị Mallory-Weiss.",
+        "Sai — giãn TMTQ cần tăng áp cửa (lách to, tuần hoàn bàng hệ); ca này gan lách không to.",
+        "Sai — loét dạ dày thường có đau thượng vị hoặc dùng NSAIDs trước đó.",
+        "Sai — Dieulafoy chảy máu ồ ạt đột ngột, không gắn với nôn khan dữ dội."
+      ]
+    },
+    {
+      "id": "PED55-C10",
+      "type": "vignette",
+      "topic": "Ca lâm sàng theo tuổi",
+      "subtopic": "2–5 tuổi: hóa chất ăn mòn",
+      "bloom": "áp dụng",
+      "difficulty": 1,
+      "source": "PED-55 Bảng nguyên nhân XHTH trên (trang 93)",
+      "text": "Trẻ trai 3 tuổi lấy chai nước thông cống trong bếp uống một ngụm. Vài giờ sau trẻ chảy nước dãi, nuốt đau và nôn ra máu.\nTheo bảng XHTH trên của barem, nguyên nhân nào phù hợp nhất?",
+      "options": [
+        "Dùng thuốc NSAIDs",
+        "Nuốt hóa chất ăn mòn",
+        "Viêm dạ dày do stress",
+        "Hội chứng Mallory-Weiss"
+      ],
+      "correct": 1,
+      "explanation": "Cột 2–5 tuổi hàng vị trí khác = <b>đồ nuốt vào</b>: hóa chất ăn mòn, dị vật, NSAIDs.",
+      "option_explanations": [
+        "Sai — ca này không dùng thuốc giảm đau chống viêm.",
+        "Đúng — trẻ 2–5 tuổi uống chất ăn mòn rồi nôn máu: đúng \"đồ nuốt vào\" của cột 2–5 tuổi.",
+        "Sai — viêm dạ dày do stress là nguyên nhân cột nhũ nhi, gặp khi bệnh nặng.",
+        "Sai — Mallory-Weiss xảy ra sau nôn khan dữ dội, không gắn với nuốt chất ăn mòn."
+      ]
+    }
+  ]
 }

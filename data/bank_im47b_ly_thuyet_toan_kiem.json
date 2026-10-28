@@ -1,7 +1,12 @@
 {
+  "format": "medmcq-bank",
+  "version": 1,
   "id": "bank_im47b_ly_thuyet_toan_kiem",
+  "lesson": "IM-47b",
+  "group": "Nội khoa",
   "title": "IM-47b: Lý Thuyết Nền Tảng & Công Thức Khí Máu Toan Kiềm (20 Câu Fact-Based)",
   "description": "Ngân hàng 20 câu hỏi trắc nghiệm lý thuyết và công thức khí máu thuần túy: Henderson-Hasselbalch, Kassirer-Bleich, quy tắc cùng/ngược chiều, công thức Winter, bù trừ cấp/mạn, Anion Gap, toan Lactic và Cl- niệu.",
+  "updated": "2026-10-22T10:23:34Z",
   "questions": [
     {
       "id": "bank_im47b_ly_thuyet_toan_kiem_01",

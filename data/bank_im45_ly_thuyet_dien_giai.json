@@ -1,7 +1,12 @@
 {
+  "format": "medmcq-bank",
+  "version": 1,
   "id": "bank_im45_ly_thuyet_dien_giai",
+  "lesson": "IM-45",
+  "group": "Nội khoa",
   "title": "IM-45: Lý Thuyết Nền Tảng & Mốc Số Liệu Rối Loạn Điện Giải (30 Câu Fact-Based)",
   "description": "Ngân hàng 30 câu hỏi trắc nghiệm lý thuyết thuần túy chuẩn giáo trình: tỷ lệ khoang dịch, Posm, phân độ mất nước, tiêu chuẩn chẩn đoán hạ/tăng Natri, 4 nấc ECG và 4 bước cấp cứu Kali, Calci, Magnesi.",
+  "updated": "2026-10-22T10:23:34Z",
   "questions": [
     {
       "id": "bank_im45_ly_thuyet_dien_giai_01",

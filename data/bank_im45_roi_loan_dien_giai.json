@@ -1,7 +1,12 @@
 {
+  "format": "medmcq-bank",
+  "version": 1,
   "id": "bank_im45_roi_loan_dien_giai",
+  "lesson": "IM-45",
+  "group": "Nội khoa",
   "title": "IM-45: Rối Loạn Nước - Điện Giải (Natri, Kali, Calci) (20 Câu Chuyên Sâu)",
   "description": "Ngân hàng trắc nghiệm toàn diện bao phủ cơ chế thẩm thấu, phân loại hạ/tăng Natri, tốc độ nâng an toàn ODS/CPM, biến đổi ECG hạ/tăng Kali, 4 bước cấp cứu tăng Kali, hạ/tăng Calci máu.",
+  "updated": "2026-10-22T10:23:34Z",
   "questions": [
     {
       "id": "im45_case_01",

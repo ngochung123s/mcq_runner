@@ -1,7 +1,12 @@
 {
+  "format": "medmcq-bank",
+  "version": 1,
   "id": "bank_im43_suy_than_cap",
+  "lesson": "IM-43",
+  "group": "Nội khoa",
   "title": "IM-43: Suy Thận Cấp & Tổn Thương Thận Cấp (20 Câu Chuyên Sâu)",
   "description": "Ngân hàng trắc nghiệm toàn diện bao phủ định nghĩa KDIGO/RIFLE, cơ chế trước/tại/sau thận, bảng phân biệt FENa, 4 giai đoạn tiến triển, 6 chỉ định lọc máu và phác đồ dự phòng.",
+  "updated": "2026-10-22T10:23:34Z",
   "questions": [
     {
       "id": "im43_case_01",

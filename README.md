@@ -11,13 +11,13 @@
 - **Trường tùy chọn mới của câu hỏi:** `type` (`vignette` = Ca lâm sàng, `concept` = Khái niệm), `topic`, `difficulty` (1 Dễ, 2 Vừa, 3 Khó), `bloom`, `source`. Trang Kết quả có thêm bảng kết quả theo `topic`. Dấu xuống dòng `\n` trong `text` được giữ nguyên; dòng cuối được in đậm làm câu hỏi chính, các dòng trên là ca lâm sàng.
 - **4 đến 6 phương án (A–F):** phím `1`–`6` hoặc `A`–`F` để chọn. Với câu 6 phương án, phím `F` chọn phương án F và gắn cờ chuyển thành `Shift`+`F`.
 - **Thư viện đề:** xem mục "Thư viện đề & quy trình nhập nhanh" bên dưới.
-- **Xuất TXT:** mỗi bộ đề có thêm nút xuất `.txt` theo mẫu `Câu N:` / `A.` / `Đáp án:` / `Giải thích:` (TXT không chứa giải thích từng đáp án, topic, độ khó; dùng JSON để giữ đủ). Nhập file JSON một bộ đề có trường mới sẽ giữ nguyên các trường đó khi lưu.
+- **Xuất / nhập từng bộ đề:** nút tải xuống trên mỗi thẻ bộ đề xuất ra file `<id>.json` theo khuôn `medmcq-bank` (xem mục "Khuôn file bộ đề"), giữ đủ mọi trường. File này nhập lại vào app (kéo thả, hoặc nút "Tải từ file" ở tab Tạo / Nhập đề, chọn được nhiều file) hay thả thẳng vào `data/` đều được. TXT chỉ còn dùng để **nhập/dán** câu hỏi, không còn nút xuất TXT.
 
 ## Thư viện đề & quy trình nhập nhanh
 
 **Thêm đề mới (không cần mở app):**
-1. Thả file JSON bộ đề vào thư mục `data/` (mỗi file là một bộ đề `{id, title, description, updated, lesson, group, questions}` hoặc file gộp có `banks`).
-2. Nhấp đúp `CAP_NHAT.bat`: nó chạy `tools/build_library.py` để dựng lại `data/library.js` rồi sao lưu (git commit + push) lên GitHub.
+1. Thả file bộ đề `<id>.json` (khuôn `medmcq-bank`) vào thư mục `data/`. Mỗi file là đúng một bộ đề, tên file trùng `id`.
+2. Nhấp đúp `CAP_NHAT.bat`: nó chạy `tools/build_library.py` để kiểm tra từng file và dựng lại `data/library.js`, rồi sao lưu (git commit + push) lên GitHub. File nào sai khuôn thì script liệt kê lỗi từng câu và dừng, thư viện cũ giữ nguyên.
 3. Mở `index.html`: bộ đề mới tự xuất hiện. Thư viện nằm trong bộ nhớ, chỉ đọc, **không** sao chép vào LocalStorage nên không tốn dung lượng. Thiếu `data/library.js` app vẫn chạy (chỉ còn đề tự nhập).
 
 **Trong app:**
@@ -26,10 +26,48 @@
 - **Tiếp tục bài đang làm dở:** mỗi thao tác (chọn đáp án, gạch đáp án, gắn cờ, chuyển câu) tự lưu vào `medmcq_session_v1` (chỉ lưu mã câu + thứ tự đáp án + câu trả lời, vài KB). Mở lại app sẽ có thanh "Đang làm dở: … — câu x/y" với **Tiếp tục** / **Bỏ**; đồng hồ chạy tiếp từ thời gian đã làm. Nộp bài hoặc bấm nút thoát trong bài thì xóa phiên đã lưu. Nếu đề đã đổi và không còn câu nào đó, phiên bị bỏ kèm thông báo.
 - **Ôn câu sai:** với mỗi câu, kết quả lần làm gần nhất (kể cả trong bài ôn/trộn) quyết định có "cần ôn" không (sai hoặc bỏ trống). Thẻ bộ đề hiện **Ôn n câu sai**; đầu trang có **Ôn tất cả câu sai (N)** gom câu của mọi bộ. Làm đúng thì câu rời khỏi danh sách ôn.
 - **Trộn đề:** mỗi mục chuyên khoa có nút **Trộn 20 câu** (thi thử 20 câu ngẫu nhiên của nhóm). Nút **Chọn nhiều để trộn** cho tick nhiều bộ rồi bấm "Trộn n bộ — X câu" để chọn số câu và chế độ. Lịch sử hiện các bài này với tên "Trộn …" / "Ôn câu sai", và **Làm lại** chạy đúng bộ câu đó.
-- **Nhập đề không cần bấm gì:** kéo thả file `.json` / `.txt` vào cửa sổ (đủ dạng: một bộ, mảng bộ, file sao lưu `{banks}`; TXT theo mẫu `Câu N:`) hoặc dán (`Ctrl+V`) nội dung câu hỏi khi đang ở tab Ngân hàng đề, rồi đặt tên và lưu. Có thông báo "Đã nhập n bộ (m câu)" kèm **Hoàn tác**. Bộ nhập có `id` trùng với đề thư viện sẽ được cấp `id` mới. Tab "Tạo / Nhập đề" vẫn dùng để soạn tay.
+- **Nhập đề không cần bấm gì:** kéo thả file bộ đề `.json` (khuôn `medmcq-bank`) hoặc `.txt` theo mẫu `Câu N:` vào cửa sổ, hoặc dán (`Ctrl+V`) nội dung câu hỏi khi đang ở tab Ngân hàng đề, rồi đặt tên và lưu. Có thông báo "Đã nhập n bộ (m câu)" kèm **Hoàn tác**. JSON kiểu khác (file gộp nhiều bộ, file sao lưu cũ) bị từ chối kèm lý do. Bộ nhập có `id` trùng với đề thư viện sẽ được cấp `id` mới. Tab "Tạo / Nhập đề" vẫn dùng để soạn tay.
 - **Xóa = ẩn với đề thư viện:** biểu tượng mắt gạch trên thẻ thư viện ẩn bộ đề khỏi danh sách; nút **Đã ẩn (n)** để hiện lại. Bộ ẩn chỉ tự hiện lại khi thư viện có bản `updated` mới hơn. Đề tự nhập thì xóa hẳn như trước.
 - **Sao lưu / đồng bộ file** chỉ ghi đề tự nhập + lịch sử (đề thư viện đã nằm trong `data/` và Git). Khi một bộ vừa có trong thư viện vừa có bản tự nhập, app hiện bản có `updated` mới hơn (bằng nhau thì ưu tiên thư viện); bản lưu cũ trùng mã tự bị dọn khỏi LocalStorage ở lần mở đầu tiên.
 - **Lưu ý dung lượng:** mỗi lần nộp bài, lịch sử lưu nguyên các câu hỏi của lần đó (bộ 60 câu có giải thích từng đáp án ≈ 90 KB). LocalStorage giới hạn ~5 MB, khi đầy app báo lỗi và không ghi được lịch sử mới; hãy xuất rồi xóa bớt lịch sử cũ.
+
+## Khuôn file bộ đề (`medmcq-bank` v1)
+
+Một file = một bộ đề, tên file `<id>.json`, mã hóa UTF-8. Luật kiểm tra nằm ở `tools/bank_format.py` (lúc build) và `BankFormat` trong `index.html` (lúc nhập/xuất); hai nơi phải giống nhau.
+
+```json
+{
+  "format": "medmcq-bank",
+  "version": 1,
+  "id": "bank_ped40_hoi_chung_than_hu",
+  "lesson": "PED-40",
+  "group": "Nhi khoa",
+  "title": "PED-40: Hội chứng thận hư nguyên phát ở trẻ em (40 câu ca lâm sàng)",
+  "description": "Định nghĩa, sinh lý bệnh, chẩn đoán…",
+  "updated": "2026-10-27T15:03:40Z",
+  "questions": [
+    {
+      "id": "PED40-A01",
+      "type": "vignette",
+      "topic": "Chẩn đoán & sinh thiết",
+      "subtopic": "…",
+      "bloom": "phân tích",
+      "difficulty": 3,
+      "source": "PED-40 §0.2",
+      "text": "Ca lâm sàng…\nCâu hỏi chính?",
+      "options": ["…", "…", "…", "…"],
+      "correct": 0,
+      "explanation": "…",
+      "option_explanations": ["…", "…", "…", "…"]
+    }
+  ]
+}
+```
+
+- **Bắt buộc ở bộ đề:** `format`, `version`, `id`, `lesson` (có thể `""`), `group` (`Nhi khoa`, `Nội khoa`, `Sản phụ khoa`, `Ngoại khoa`, `Khác`), `title`, `description` (có thể `""`), `updated` (ISO, vd `2026-10-29T08:00:00Z`; tăng mỗi lần sửa để app nhận bản mới), `questions`.
+- **Bắt buộc ở câu hỏi:** `id` (duy nhất trong bộ; lịch sử làm bài bám theo id này, đừng đổi), `text`, `options` (2–6 chuỗi), `correct` (chỉ số đáp án đúng, đếm từ 0), `explanation`.
+- **Tùy chọn:** `option_explanations` (đúng bằng số phương án), `type` (`vignette`, `concept`, `calc`), `topic`, `subtopic`, `bloom`, `difficulty` (1, 2, 3), `source`.
+- Trường lạ ở bất kỳ cấp nào đều bị báo lỗi, để mọi file luôn cùng một khuôn.
 
 ## 🌟 Tính Năng Nổi Bật
 
@@ -63,8 +101,7 @@
 
 4. **Lưu Trữ & Quản Lý Dữ Liệu:**
    - Tự động lưu toàn bộ ngân hàng câu hỏi và lịch sử các lần thi vào `LocalStorage` của trình duyệt.
-   - Hỗ trợ **Export JSON** (sao lưu 1 bộ đề hoặc toàn bộ ngân hàng câu hỏi).
-   - Hỗ trợ **Import JSON / TXT** trực tiếp từ máy tính.
+   - **Xuất từng bộ đề** ra file `medmcq-bank` và **nhập** lại file đó hoặc file `.txt` / nội dung dán.
 3. **Đồng Bộ Dữ Liệu Trực Tiếp Vào File Ổ Cứng (Direct File System Sync):**
    - Sử dụng công nghệ **File System Access API** hiện đại trên Chrome / Edge.
    - Cho phép chọn hoặc tạo một file `.json` duy nhất (ví dụ `medmcq_synced_database.json`) để làm database.
@@ -81,15 +118,29 @@
      - Phím `←` (hoặc `P`): Về câu trước.
      - Phím `F`: Bật/tắt gắn cờ xem lại.
 
-5. **Lưu Trữ & Quản Lý Dữ Liệu:**
-├── README.md                   # Tài liệu hướng dẫn sử dụng
+5. **Cấu trúc thư mục:**
+```text
+mcq_runner/
+├── index.html                  # Toàn bộ app (HTML + CSS + JS)
+├── CAP_NHAT.bat                # Kiểm tra + dựng thư viện, sao lưu lên GitHub
+├── BUILD_APK.bat               # Build bản Android MedMCQ.apk
+├── tools/
+│   ├── bank_format.py          # Khuôn medmcq-bank v1 + luật kiểm tra
+│   └── build_library.py        # data/<id>.json → data/library.js
+├── android/                    # Project Android (WebView bọc index.html)
 └── data/
-    ├── addison_sample.json     # Bộ đề mẫu JSON chuyên đề Bệnh Addison (8 câu)
-    └── cushing_sample.txt      # File văn bản thô chuyên đề Hội chứng Cushing (4 câu)
+    ├── <id>.json               # Mỗi bộ đề một file, khuôn medmcq-bank
+    └── library.js              # Sinh tự động, đừng sửa tay
 ```
 
 ## 🚀 Cách Mở & Sử Dụng
 
-1. Nhấp đúp chuột vào file `index.html` trong thư mục `open_deep_research/mcq_runner/` để mở trên trình duyệt.
+1. Nhấp đúp chuột vào file `index.html` để mở trên trình duyệt.
 2. Hoặc kéo file `index.html` thả vào trình duyệt Chrome/Edge.
 3. Bộ đề mẫu **Bệnh Addison & Tuyến Thượng Thận** (nhóm "Khác") có sẵn trong thư viện. Bấm **"Luyện"** để làm ngay!
+
+## 📱 Bản Android (APK)
+
+- Nhấp đúp `BUILD_APK.bat`: dựng lại thư viện rồi build `MedMCQ.apk` (cùng thư mục). Chép sang điện thoại và mở để cài; cài đè giữ nguyên lịch sử làm bài.
+- Không cần Android Studio: JDK 17, Android SDK và Gradle nằm trong `%LOCALAPPDATA%\Android`.
+- APK chứa sẵn `index.html` + `data/library.js` lúc build, nên có đề mới thì build lại APK. Xuất bộ đề trên điện thoại sẽ mở hộp thoại "Lưu vào…"; đồng bộ file ổ cứng chỉ có trên Chrome/Edge máy tính.

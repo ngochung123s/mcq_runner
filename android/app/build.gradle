@@ -1,0 +1,40 @@
+plugins {
+    id 'com.android.application'
+}
+
+// index.html + data/library.js của mcq_runner được chép vào APK mỗi lần build,
+// nên APK luôn mang thư viện đề mới nhất (chạy CAP_NHAT.bat trước để dựng library.js).
+def webAssetsDir = layout.buildDirectory.dir('webAssets')
+def copyWebApp = tasks.register('copyWebApp', Copy) {
+    from(rootProject.file('..')) {
+        include 'index.html'
+        include 'data/library.js'
+    }
+    into webAssetsDir
+}
+
+android {
+    namespace 'com.medmcq.runner'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'com.medmcq.runner'
+        minSdk 24
+        targetSdk 34
+        versionCode 1
+        versionName '1.0'
+    }
+
+    sourceSets {
+        main {
+            assets.srcDirs += webAssetsDir
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+
+tasks.named('preBuild') { dependsOn copyWebApp }

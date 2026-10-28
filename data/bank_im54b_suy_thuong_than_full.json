@@ -1,8 +1,12 @@
 {
+  "format": "medmcq-bank",
+  "version": 1,
   "id": "bank_im54b_suy_thuong_than_full",
+  "lesson": "IM-54b",
+  "group": "Nội khoa",
   "title": "IM-54b: Suy Tuyến Thượng Thận (Trọn Bộ 120 Câu Lý Thuyết & Case Lâm Sàng)",
   "description": "Ngân hàng quy mô cực lớn gồm 10 ca lâm sàng chuyên sâu kèm 110 câu hỏi trắc nghiệm bao phủ 100% từng ngóc ngách lý thuyết, phân tử, thụ thể, chẩn đoán và điều trị của bài học.",
-  "createdAt": "2026-09-05T16:42:11.304409+00:00",
+  "updated": "2026-10-22T10:23:34Z",
   "questions": [
     {
       "id": "stt_case_01",

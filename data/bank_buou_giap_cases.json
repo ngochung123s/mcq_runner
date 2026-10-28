@@ -1,7 +1,12 @@
 {
+  "format": "medmcq-bank",
+  "version": 1,
   "id": "bank_buou_giap_cases",
+  "lesson": "IM-53b",
+  "group": "Nội khoa",
   "title": "IM-53b: Ca Lâm Sàng Chuyên Sâu - Bướu Giáp Đơn Thuần",
   "description": "Bộ 10 ca lâm sàng chuyên sâu về bướu cổ địa phương thiếu iod, dấu hiệu Pemberton bướu chìm trung thất, xuất huyết cấp trong nang giáp, biến chứng Jod-Basedow sau chụp cản quang, đần độn thai nhi và chỉ định mổ/FNA.",
+  "updated": "2026-09-05T16:39:40Z",
   "questions": [
     {
       "id": "bg_case_01",
@@ -123,6 +128,5 @@
       "correct": 0,
       "explanation": "Chất sinh bướu tự nhiên có trong sắn, măng (giải phóng thiocyanate cạnh tranh với bơm NIS bắt giữ iod), và các loại rau họ cải Brassicaceae (chứa glucosinolate bị thủy phân thành goitrin ức chế enzyme TPO hữu cơ hóa iod). Ăn lượng lớn các thực phẩm này ở vùng thiếu iod sẽ làm bùng phát bướu giáp đơn thuần tản phát."
     }
-  ],
-  "createdAt": "2026-09-05T16:31:11.022211+00:00"
+  ]
 }

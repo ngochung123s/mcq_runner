@@ -1,0 +1,108 @@
+{
+  "format": "medmcq-bank",
+  "version": 1,
+  "id": "bank_addison_001",
+  "lesson": "",
+  "group": "Khác",
+  "title": "Bệnh Addison & Tuyến Thượng Thận",
+  "description": "Bộ 8 câu hỏi chuyên sâu về suy vỏ thượng thận nguyên phát, chẩn đoán, phác đồ phối hợp thuốc và cơ chế bệnh sinh.",
+  "updated": "2026-09-04T15:53:08Z",
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Bệnh nhân mắc bệnh Addison (suy vỏ thượng thận nguyên phát) có chỉ định điều trị thay thế hormone mạn tính tiêu chuẩn nào sau đây?",
+      "options": [
+        "Chỉ cần dùng Hydrocortisone đơn độc",
+        "Hydrocortisone phối hợp với Fludrocortisone (Florinef)",
+        "Chỉ dùng Fludrocortisone đơn độc",
+        "Dexamethasone phối hợp với Spironolactone"
+      ],
+      "correct": 1,
+      "explanation": "Trong bệnh Addison, toàn bộ vỏ thượng thận bị phá hủy dẫn đến thiếu đồng thời cả Cortisol (lớp bó) và Aldosterone (lớp cầu). Ở liều sinh lý hàng ngày (15-25 mg), Hydrocortisone không đủ hoạt tính giữ muối nước để bù cho lượng Aldosterone thiếu hụt, do đó bắt buộc phải phối hợp Hydrocortisone + Fludrocortisone (Florinef 0.05 - 0.2 mg/ngày)."
+    },
+    {
+      "id": "q2",
+      "text": "Hiện tượng tụt huyết áp tư thế ở bệnh nhân Addison xuất hiện chủ yếu do cơ chế phối hợp nào?",
+      "options": [
+        "Tăng nồng độ ACTH và giãn mạch toàn thân",
+        "Thiếu Aldosterone gây giảm thể tích tuần hoàn và thiếu Cortisol làm trơ thụ thể alpha-1 với catecholamine",
+        "Cường phó giao cảm và tăng tiết acetylcholine tại thụ thể muscarinic",
+        "Tăng canxi máu gây rối loạn dẫn truyền cơ tim và ức chế co bóp thất trái"
+      ],
+      "correct": 1,
+      "explanation": "Tụt huyết áp tư thế trong bệnh Addison là do 2 cơ chế chính: (1) Thiếu Aldosterone dẫn đến mất muối và nước qua nước tiểu, gây giảm thể tích nội mạch mạn tính; (2) Thiếu Cortisol làm mất tính nhạy cảm đồng vận (permissive effect) của thụ thể alpha-1 adrenergic mạch máu với catecholamine, khiến mạch máu không co lại hiệu quả khi đứng dậy."
+    },
+    {
+      "id": "q3",
+      "text": "Triệu chứng sạm da (hyperpigmentation) đặc trưng trong bệnh Addison thường xuất hiện nhiều nhất ở các vị trí nào?",
+      "options": [
+        "Chỉ xuất hiện ở vùng da ít tiếp xúc với ánh nắng như nách và bẹn",
+        "Vùng tiếp xúc ánh nắng, nếp gấp bàn tay, niêm mạc má và vết sẹo mới",
+        "Khắp bề mặt móng tay và tóc",
+        "Vùng da quanh mắt dạng kính râm đơn độc"
+      ],
+      "correct": 1,
+      "explanation": "Do cortisol máu giảm thấp, tuyến yên tăng tiết ồ ạt tiền chất POMC. Quá trình phân giải POMC tạo ra cả ACTH và MSH, kích thích tế bào hắc tố sản sinh melanin. Sạm da rõ nhất ở vùng hở tiếp xúc ánh sáng, nếp gấp chỉ tay, khớp ngón, sẹo mới và đặc biệt là niêm mạc má/khoang miệng."
+    },
+    {
+      "id": "q4",
+      "text": "Trong cấp cứu Cơn suy thượng thận cấp (Adrenal Crisis), lựa chọn glucocorticoid đầu tay và cách xử trí ban đầu đúng là:",
+      "options": [
+        "Hydrocortisone 100 mg tiêm tĩnh mạch ngay lập tức kèm bù dịch NaCl 0.9%",
+        "Prednisolone 5 mg uống kèm dung dịch Dextrose 5%",
+        "Dexamethasone 0.5 mg uống buổi tối",
+        "Florinef 0.1 mg uống ngay kèm kali clorid truyền tĩnh mạch"
+      ],
+      "correct": 0,
+      "explanation": "Cơn suy thượng thận cấp là cấp cứu đe dọa tính mạng. Xử trí khẩn cấp gồm: Bolus ngay 100 mg Hydrocortisone IV, sau đó 200 mg/24h, đồng thời bù dịch tích cực bằng NaCl 0.9% và Dextrose nếu có hạ đường huyết. Ở liều cao này, Hydrocortisone đã bão hòa thụ thể mineralocorticoid nên không cần dùng Fludrocortisone giai đoạn cấp."
+    },
+    {
+      "id": "q5",
+      "text": "Rối loạn điện giải đồ điển hình nào thường gặp nhất ở bệnh nhân mắc bệnh Addison chưa được điều trị?",
+      "options": [
+        "Tăng Natri máu, Hạ Kali máu",
+        "Hạ Natri máu, Tăng Kali máu, Toan chuyển hóa nhẹ",
+        "Hạ Natri máu, Hạ Kali máu, Kiềm chuyển hóa",
+        "Tăng Natri máu, Tăng Kali máu, Canxi máu bình thường"
+      ],
+      "correct": 1,
+      "explanation": "Thiếu Aldosterone dẫn đến giảm tái hấp thu Na+ và giảm thải K+, H+ ở ống thận xa -> dẫn đến mất Na+ qua nước tiểu gây Hạ Natri máu, ứ trệ K+ gây Tăng Kali máu và giữ H+ gây Toan chuyển hóa nhẹ."
+    },
+    {
+      "id": "q6",
+      "text": "Điểm khác biệt then chốt giữa Suy thượng thận nguyên phát (bệnh Addison) và Suy thượng thận thứ phát (do tuyến yên hoặc lạm dụng corticoid) là:",
+      "options": [
+        "Suy thượng thận thứ phát luôn có tăng kali máu nặng nề hơn",
+        "Suy thượng thận thứ phát không có sạm da và hệ Aldosterone thường vẫn được bảo tồn",
+        "Bệnh Addison có nồng độ ACTH máu giảm rất thấp",
+        "Suy thượng thận thứ phát bắt buộc phải dùng Fludrocortisone liều cao"
+      ],
+      "correct": 1,
+      "explanation": "Trong suy thượng thận thứ phát, ACTH giảm (không có sạm da). Trục RAAS được điều hòa chủ yếu bởi thể tích tuần hoàn và nồng độ Kali máu chứ không phụ thuộc nhiều vào ACTH, nên lớp cầu vẫn tiết được Aldosterone -> bệnh nhân thứ phát hiếm khi bị tăng kali máu và KHÔNG cần bổ sung Fludrocortisone."
+    },
+    {
+      "id": "q7",
+      "text": "Quy tắc 'Sick-day rules' cho bệnh nhân Addison khi bị sốt, nhiễm trùng đường hô hấp hoặc căng thẳng vừa phải khuyến cáo:",
+      "options": [
+        "Ngừng toàn bộ thuốc để gan thận nghỉ ngơi",
+        "Giảm một nửa liều Hydrocortisone hàng ngày",
+        "Gấp đôi hoặc gấp ba liều Hydrocortisone đường uống thông thường",
+        "Chỉ tăng liều Florinef lên 5 lần, giữ nguyên Hydrocortisone"
+      ],
+      "correct": 2,
+      "explanation": "Bệnh nhân Addison không thể tự tăng tiết cortisol khi sốt/stress, do đó để phòng ngừa cơn suy thượng thận cấp (adrenal crisis), bệnh nhân cần tăng gấp đôi (double) hoặc gấp ba (triple) liều Hydrocortisone đường uống cho đến khi tình trạng nhiễm trùng/sốt thoái lui."
+    },
+    {
+      "id": "q8",
+      "text": "Tiêu chuẩn chẩn đoán xác định suy vỏ thượng thận bằng nghiệm pháp kích thích Synacthen liều chuẩn (Short Synacthen Test 250 mcg ACTH) thường dựa vào nồng độ Cortisol đỉnh sau 30-60 phút đạt ngưỡng nào?",
+      "options": [
+        "Cortisol đỉnh < 5 mcg/dL",
+        "Cortisol đỉnh < 18 mcg/dL (khoảng 500 nmol/L)",
+        "Cortisol đỉnh > 30 mcg/dL",
+        "Chỉ dựa vào nồng độ Renin máu sau tiêm"
+      ],
+      "correct": 1,
+      "explanation": "Ở người bình thường, tiêm 250 mcg Synacthen sẽ kích thích vỏ thượng thận sản xuất cortisol mạnh mẽ, đạt đỉnh >= 18 mcg/dL (hoặc >= 500 nmol/L). Nếu nồng độ Cortisol đỉnh sau 30 hoặc 60 phút < 18 mcg/dL thì khẳng định có suy tuyến thượng thận."
+    }
+  ]
+}

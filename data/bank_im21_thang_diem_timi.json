@@ -1,7 +1,12 @@
 {
+  "format": "medmcq-bank",
+  "version": 1,
   "id": "bank_im21_thang_diem_timi",
+  "lesson": "IM-21",
+  "group": "Nội khoa",
   "title": "IM-21: Thang Điểm TIMI Trong Nhồi Máu Cơ Tim (10 Câu Chuyên Sâu)",
   "description": "Bộ câu hỏi chuyên sâu phân tầng nguy cơ TIMI NSTEMI (7 điểm), TIMI STEMI (14 điểm), phân độ dòng chảy TIMI Flow Grade (0-3) và hiện tượng No-reflow trong PCI.",
+  "updated": "2026-10-22T10:23:34Z",
   "questions": [
     {
       "id": "bank_im21_thang_diem_timi_01",

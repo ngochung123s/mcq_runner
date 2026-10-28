@@ -1,7 +1,12 @@
 {
+  "format": "medmcq-bank",
+  "version": 1,
   "id": "bank_im18_cap_cuu_ngung_tuan_hoan",
+  "lesson": "IM-18",
+  "group": "Nội khoa",
   "title": "IM-18: Cấp Cứu Ngừng Tuần Hoàn (30 Câu Chuyên Sâu)",
   "description": "Ngân hàng câu hỏi trắc nghiệm toàn diện bao phủ lý thuyết sinh lý bệnh, 5T-6H, BLS/ACLS, sốc điện, thuốc cấp cứu và chăm sóc sau hồi sức (ROSC).",
+  "updated": "2026-10-22T10:23:34Z",
   "questions": [
     {
       "id": "im18_case_01",

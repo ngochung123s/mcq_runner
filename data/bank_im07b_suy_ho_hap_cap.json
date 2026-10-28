@@ -1,7 +1,12 @@
 {
+  "format": "medmcq-bank",
+  "version": 1,
   "id": "bank_im07b_suy_ho_hap_cap",
+  "lesson": "IM-07b",
+  "group": "Nội khoa",
   "title": "IM-07b: Chẩn Đoán và Xử Trí Cấp Cứu Ban Đầu Suy Hô Hấp Cấp (20 Câu Chuyên Sâu)",
   "description": "Ngân hàng trắc nghiệm toàn diện bao phủ 5 cơ chế bệnh sinh (Shunt, V/Q, suy bơm), bảng 3 mức độ SHHC, 4 dụng cụ thở oxy (Venturi, Mask túi), thở máy xâm nhập và thở máy không xâm nhập NIV.",
+  "updated": "2026-10-22T10:23:34Z",
   "questions": [
     {
       "id": "im07b_case_01",

@@ -1,5 +1,9 @@
 {
+  "format": "medmcq-bank",
+  "version": 1,
   "id": "bank_ped43_tim_bam_sinh",
+  "lesson": "PED-43",
+  "group": "Nhi khoa",
   "title": "PED-43: Bệnh tim bẩm sinh thường gặp & tứ chứng Fallot (40 câu ca lâm sàng)",
   "description": "VSD, ASD, PDA, tứ chứng Fallot và cơn tím, tim bẩm sinh phức tạp, phụ thuộc ống, thời điểm can thiệp. Một đáp án đúng nhất; có giải thích cho từng phương án.",
   "updated": "2026-10-22T12:10:05Z",

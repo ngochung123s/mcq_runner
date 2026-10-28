@@ -1,5 +1,9 @@
 {
+  "format": "medmcq-bank",
+  "version": 1,
   "id": "bank_ped62_can_nguyen_vi_sinh_ho_hap",
+  "lesson": "PED-62",
+  "group": "Nhi khoa",
   "title": "PED-62: Căn nguyên vi sinh hô hấp ở trẻ em (60 câu ca lâm sàng)",
   "description": "RSV, hMPV, Adenovirus, Mycoplasma pneumoniae, phế cầu và chẩn đoán phân biệt. Một đáp án đúng nhất, phương án nhiễu là các chẩn đoán/xử trí thật; có giải thích cho từng phương án.",
   "updated": "2026-10-22T08:57:02Z",
