@@ -67,6 +67,8 @@ public class MainActivity extends Activity {
                 Intent pick = new Intent(Intent.ACTION_GET_CONTENT);
                 pick.addCategory(Intent.CATEGORY_OPENABLE);
                 pick.setType("*/*");
+                // <input multiple> (nhập nhiều file bộ đề một lần)
+                pick.putExtra(Intent.EXTRA_ALLOW_MULTIPLE, params.getMode() == FileChooserParams.MODE_OPEN_MULTIPLE);
                 try {
                     startActivityForResult(pick, REQ_OPEN_FILE);
                 } catch (ActivityNotFoundException e) {
@@ -102,8 +104,17 @@ public class MainActivity extends Activity {
         super.onActivityResult(requestCode, resultCode, data);
         if (requestCode == REQ_OPEN_FILE) {
             if (pendingFileChooser == null) return;
-            Uri uri = (resultCode == RESULT_OK && data != null) ? data.getData() : null;
-            pendingFileChooser.onReceiveValue(uri == null ? null : new Uri[]{uri});
+            Uri[] picked = null;
+            if (resultCode == RESULT_OK && data != null) {
+                android.content.ClipData clip = data.getClipData();
+                if (clip != null && clip.getItemCount() > 0) {
+                    picked = new Uri[clip.getItemCount()];
+                    for (int i = 0; i < picked.length; i++) picked[i] = clip.getItemAt(i).getUri();
+                } else if (data.getData() != null) {
+                    picked = new Uri[]{data.getData()};
+                }
+            }
+            pendingFileChooser.onReceiveValue(picked);
             pendingFileChooser = null;
         } else if (requestCode == REQ_SAVE_FILE) {
             byte[] bytes = pendingSaveBytes;

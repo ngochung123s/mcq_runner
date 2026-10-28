@@ -1461,7 +1461,7 @@ Câu 2: ..."></textarea>
           version: this.VERSION,
           id: String(bank.id),
           lesson,
-          group: GROUP_ORDER.includes(bank.group) ? bank.group : (hit ? hit[1] : 'Khác'),
+          group: [bank.group, bank.fileGroup].find((g) => GROUP_ORDER.includes(g)) || (hit ? hit[1] : 'Khác'),
           title: String(bank.title || ''),
           description: String(bank.description || ''),
           updated: bank.updated || bank.createdAt || new Date().toISOString(),
@@ -1544,7 +1544,9 @@ Câu 2: ..."></textarea>
           const more = errs.length > 3 ? ` (và ${errs.length - 3} lỗi khác)` : '';
           return { banks: [], error: `không đúng khuôn ${BankFormat.FORMAT} v${BankFormat.VERSION}: ${errs.slice(0, 3).join('; ')}${more}` };
         }
-        const { format, version, ...bank } = parsed;
+        const { format, version, group, ...bank } = parsed;
+        // Bộ tự nhập luôn nằm ở mục "Đề tự nhập"; nhóm của file chỉ giữ lại để xuất ra y như cũ.
+        bank.fileGroup = group;
         if (Library.byId.has(bank.id)) bank.id = newBankId(); // never collide with a library id
         return { banks: [bank], error: '' };
       }
@@ -2720,7 +2722,7 @@ Câu 2: ..."></textarea>
           const t = e.changedTouches[0];
           const dx = t.clientX - s.x;
           const dy = t.clientY - s.y;
-          if (Date.now() - s.t > 700 || Math.abs(dx) < 70 || Math.abs(dy) > Math.abs(dx) * 0.6) return;
+          if (Date.now() - s.t > 700 || Math.abs(dx) < 80 || Math.abs(dx) < 2 * Math.abs(dy)) return;
           if (dx < 0) this.quizEngine.nextQuestion();
           else this.quizEngine.prevQuestion();
         }, { passive: true });

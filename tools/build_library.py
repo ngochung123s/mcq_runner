@@ -27,6 +27,9 @@ def load_banks() -> tuple[list[dict], list[str]]:
     for path in sorted(DATA.iterdir()):
         if not path.is_file() or path == OUT:
             continue
+        # File rác của hệ điều hành / bản tạm của lần build bị ngắt: bỏ qua, không coi là lỗi.
+        if path.name.startswith(".") or path.name.lower() in ("desktop.ini", "thumbs.db") or path.suffix == ".tmp":
+            continue
         if path.suffix != ".json":
             errors.append(f"{path.name}: data/ chỉ chứa file bộ đề .json (khuôn {bank_format.FORMAT})")
             continue
