@@ -1,0 +1,972 @@
+{
+  "format": "medmcq-bank",
+  "version": 1,
+  "id": "bank_surg56_ung_thu_than",
+  "lesson": "SURG-56",
+  "group": "Ngoại khoa",
+  "title": "SURG-56: Ung thư thận (Barem — 40 câu phủ 6 bậc Bloom)",
+  "description": "RCC, yếu tố nguy cơ (thuốc lá, VHL), giải phẫu bệnh, phân loại TNM, tam chứng Guyon, hội chứng cận ung thư (Stauffer), CT/MRI/AML, phẫu thuật Robson/NSS và TKI/mTOR/miễn dịch.",
+  "updated": "2026-11-12T12:55:34Z",
+  "questions": [
+    {
+      "id": "SURG56-A01",
+      "type": "concept",
+      "topic": "Đại cương, Nguy cơ & Giải phẫu bệnh",
+      "subtopic": "Dịch tễ học u ác tính nguyên phát ở thận",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-56 §1",
+      "text": "Bên cạnh ung thư biểu mô tế bào thận (RCC) chiếm tới 90% các u ác tính nguyên phát ở thận, nhóm u ác tính nguyên phát xuất phát từ tổ chức liên kết trung mô của thận chiếm một phần trong tỷ lệ còn lại là tổn thương nào?",
+      "options": [
+        "Sarcoma thận nguyên phát ở người trưởng thành.",
+        "Ung thư biểu mô tế bào thận (Renal Cell Carcinoma - RCC).",
+        "U lympho ác tính thứ phát di căn từ hạch lympho ổ bụng.",
+        "Ung thư biểu mô đường niệu chuyển tiếp xuất phát tại bàng quang."
+      ],
+      "correct": 0,
+      "explanation": "Theo barem Bài 6 Mục 1: Ung thư thận bao gồm: ung thư tế bào thận (chiếm 90%), sarcoma thận và u lympho thận nguyên phát... Do đó sarcoma thận nguyên phát là u nguyên phát xuất phát từ tổ chức liên kết chiếm tỷ lệ nhỏ còn lại.",
+      "option_explanations": [
+        "Đúng — Theo barem Mục 1, ung thư thận nguyên phát bao gồm ung thư tế bào thận, sarcoma thận và u lympho thận nguyên phát.",
+        "Sai — RCC xuất phát từ biểu mô ống thận và chiếm tới 90% các u ác tính nguyên phát tại thận.",
+        "Sai — Barem chỉ rõ u lympho nguyên phát tại thận, không phải thứ phát di căn.",
+        "Sai — Ung thư biểu mô bàng quang là ung thư đường niệu ở cơ quan khác, không phải u nguyên phát tại nhu mô thận."
+      ]
+    },
+    {
+      "id": "SURG56-A02",
+      "type": "concept",
+      "topic": "Đại cương, Nguy cơ & Giải phẫu bệnh",
+      "subtopic": "Dịch tễ học và dịch tễ giới tính",
+      "bloom": "hiểu",
+      "difficulty": 1,
+      "source": "SURG-56 §1",
+      "text": "Xét về tần suất xuất hiện trong nhóm bệnh lý ác tính hệ tiết niệu ở người lớn, ung thư biểu mô tế bào thận (RCC) giữ vị trí xếp hạng nào?",
+      "options": [
+        "Đứng hàng thứ nhất trong toàn bộ các bệnh ác tính hệ tiết niệu.",
+        "Đứng hàng thứ hai sau ung thư bàng quang trong hệ tiết niệu",
+        "Đứng hàng thứ ba trong hệ tiết niệu (sau bàng quang và tiền liệt tuyến).",
+        "Đứng hàng thứ tư trong hệ tiết niệu (sau ung thư biểu mô đường niệu)."
+      ],
+      "correct": 1,
+      "explanation": "Theo barem Mục 1: Ung thư tế bào thận đứng hàng thứ 2 trong các bệnh ác tính hệ tiết niệu (sau ung thư bàng quang) và chiếm 1-2% toàn bộ các loại ung thư ở người lớn.",
+      "option_explanations": [
+        "Sai — Đứng hàng thứ nhất trong hệ tiết niệu là ung thư bàng quang.",
+        "Đúng — Theo barem Bài 6 Mục 1: Ung thư tế bào thận đứng hàng thứ 2 trong các bệnh ác tính hệ tiết niệu (sau ung thư bàng quang).",
+        "Sai — Ung thư tế bào thận đứng thứ hai, không phải thứ ba.",
+        "Sai — Ung thư tế bào thận đứng thứ hai, không phải thứ tư."
+      ]
+    },
+    {
+      "id": "SURG56-A03",
+      "type": "concept",
+      "topic": "Đại cương, Nguy cơ & Giải phẫu bệnh",
+      "subtopic": "Yếu tố nguy cơ hóa học và khói thuốc",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-56 §2",
+      "text": "Khói thuốc lá là yếu tố nguy cơ hàng đầu gây ung thư thận. Hợp chất sinh ung chính trong khói thuốc lá được nhấn mạnh gây tổn thương gen phát sinh RCC là nhóm chất nào?",
+      "options": [
+        "Tiền sử hút thuốc lá nhiều năm trong tiền sử",
+        "Nhóm amin thơm ngoại sinh gắn gốc sulfat (2-naphthylamine).",
+        "Nhóm hợp chất nitrosamine bay hơi trong đường tiêu hóa.",
+        "Nhóm kim loại nặng bay hơi dạng oxit (cadmium và niken)."
+      ],
+      "correct": 0,
+      "explanation": "Theo barem Mục 2: Khói thuốc lá chứa nồng độ cao chất sinh ung nhóm hydrocarbon thơm đa vòng (pyrene), gây tổn thương gen và làm tăng nguy cơ mắc ung thư thận.",
+      "option_explanations": [
+        "Đúng — Theo barem Mục 2: Khói thuốc lá chứa nồng độ cao chất sinh ung nhóm hydrocarbon thơm đa vòng (pyrene).",
+        "Sai — Amin thơm ngoại sinh thường liên quan ung thư bàng quang, khói thuốc lá gây RCC chứa hydrocarbon thơm đa vòng (pyrene).",
+        "Sai — Nitrosamine thường gặp trong ung thư đường tiêu hóa, không phải nhóm pyrene được nhấn mạnh cho RCC.",
+        "Sai — Kim loại nặng bay hơi không phải chất sinh ung được chỉ đích danh trong barem Bài 6 Mục 2."
+      ]
+    },
+    {
+      "id": "SURG56-A04",
+      "type": "vignette",
+      "topic": "Đại cương, Nguy cơ & Giải phẫu bệnh",
+      "subtopic": "Khói thuốc lá và hydrocarbon thơm",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-56 §2",
+      "text": "Một công nhân nam làm nghề thợ in thợ nhuộm, có tiền sử hút thuốc lá nhiều năm, được chẩn đoán mắc ung thư tế bào thận. Trong các chất độc hại của khói thuốc lá, hợp chất độc hại gây tổn thương gen phát sinh RCC được barem chỉ đích danh là gì?",
+      "options": [
+        "Nhóm dung môi hữu cơ công nghiệp và các dẫn xuất benzen bay hơi.",
+        "Nhóm hydrocarbon thơm đa vòng (tiêu biểu là chất sinh ung pyrene).",
+        "Nhóm bụi kim loại nặng lắng đọng mạn tính trong đường hô hấp.",
+        "Nhóm hóa chất tạo màu công nghiệp dùng trong ngành in ấn dệt nhuộm."
+      ],
+      "correct": 1,
+      "explanation": "Theo barem Mục 2: Hút thuốc lá là yếu tố nguy cơ hàng đầu. Khói thuốc lá chứa nồng độ cao chất sinh ung nhóm hydrocarbon thơm đa vòng (pyrene), gây tổn thương gen và làm tăng nguy cơ mắc ung thư thận.",
+      "option_explanations": [
+        "Sai — Dung môi hữu cơ là yếu tố nguy cơ tiếp xúc nghề nghiệp riêng biệt, không phải chất sinh ung của khói thuốc được nêu trong barem.",
+        "Đúng — Barem Mục 2 chỉ rõ khói thuốc lá chứa nồng độ cao chất sinh ung nhóm hydrocarbon thơm đa vòng (pyrene).",
+        "Sai — Bụi kim loại nặng không phải chất sinh ung được nhấn mạnh trong khói thuốc lá ở bài này.",
+        "Sai — Hóa chất tạo màu là yếu tố tiếp xúc nghề nghiệp của thợ in, thợ nhuộm, không phải thành phần khói thuốc lá."
+      ]
+    },
+    {
+      "id": "SURG56-A05",
+      "type": "concept",
+      "topic": "Đại cương, Nguy cơ & Giải phẫu bệnh",
+      "subtopic": "Yếu tố nguy cơ hàng đầu của ung thư thận",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-56 §2",
+      "text": "Hội chứng di truyền nào sau đây được xác định liên quan chặt chẽ nhất đến cơ chế bệnh sinh ung thư tế bào sáng của thận?",
+      "options": [
+        "Hội chứng bệnh Von Hippel-Lindau (VHL)",
+        "Thói quen hút thuốc lá kéo dài",
+        "Tiếp xúc dung môi hữu cơ công nghiệp",
+        "Hội chứng đa polyp gia đình (FAP)"
+      ],
+      "correct": 0,
+      "explanation": "Theo barem Mục 2: 'Hút thuốc lá: Là yếu tố nguy cơ hàng đầu. Khói thuốc lá chứa nồng độ cao chất sinh ung nhóm hydrocarbon thơm đa vòng (pyrene)...'",
+      "option_explanations": [
+        "Sai — Bệnh Von Hippel-Lindau (VHL) là yếu tố di truyền, nhưng hút thuốc lá mới là 'yếu tố nguy cơ hàng đầu' được khẳng định trong Mục 2.",
+        "Đúng — Barem Mục 2 ghi rõ: 'Hút thuốc lá: Là yếu tố nguy cơ hàng đầu'.",
+        "Sai — Tiếp xúc dung môi hữu cơ là yếu tố nguy cơ hóa chất độc hại, không phải yếu tố nguy cơ hàng đầu.",
+        "Sai — Xơ cứng củ liên quan AML lành tính, không phải yếu tố nguy cơ hàng đầu của RCC."
+      ]
+    },
+    {
+      "id": "SURG56-A06",
+      "type": "concept",
+      "topic": "Đại cương, Nguy cơ & Giải phẫu bệnh",
+      "subtopic": "Đặc điểm đại thể khối u thận",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "SURG-56 §3.1",
+      "text": "Quan sát bệnh phẩm thận sau mổ thấy khối u kích thước 6 cm ở cực trên, tròn, có vỏ bọc giả, diện cắt có màu vàng hoặc xám loang lổ xen kẽ nhiều ổ hoại tử và chảy máu bên trong. Đây là hình ảnh đại thể kinh điển của tổn thương nào?",
+      "options": [
+        "U cơ mỡ mạch lành tính ở thận (Angiomyolipoma - AML).",
+        "Ung thư biểu mô tế bào thận nguyên phát (Renal Cell Carcinoma).",
+        "Nang thận đơn độc có biến chứng xuất huyết và bội nhiễm dịch.",
+        "Ung thư biểu mô đường niệu thâm nhiễm sâu vào nhu mô thận."
+      ],
+      "correct": 1,
+      "explanation": "Theo barem Mục 3.1: Đại thể RCC: Khối u thận có kích thước thay đổi từ 1 - 10 cm, thường nằm ở các cực, u tròn, có vỏ bọc giả, diện cắt có màu vàng hoặc xám loang lổ, nhiều mạch máu tân tạo, kèm theo ổ hoại tử và chảy máu bên trong.",
+      "option_explanations": [
+        "Sai — AML là u lành tính gồm mô mỡ, cơ và mạch máu, không có vỏ bọc giả với diện cắt vàng xám loang lổ hoại tử kinh điển như RCC.",
+        "Đúng — Trích nguyên văn đặc điểm đại thể của ung thư tế bào thận trong barem Mục 3.1.",
+        "Sai — Nang thận đơn độc có thành mỏng, chứa dịch trong đồng nhất (Bosniak I-II).",
+        "Sai — Ung thư biểu mô đường niệu xuất phát từ đài bể thận, không có hình ảnh đại thể vỏ bọc giả ở cực thận như RCC."
+      ]
+    },
+    {
+      "id": "SURG56-A07",
+      "type": "concept",
+      "topic": "Đại cương, Nguy cơ & Giải phẫu bệnh",
+      "subtopic": "Các thể mô học của RCC",
+      "bloom": "hiểu",
+      "difficulty": 1,
+      "source": "SURG-56 §3.2",
+      "text": "Trong phân loại mô học ung thư biểu mô tế bào thận (RCC), ngoài thể tế bào sáng chiếm đa số (75-85%), thể nào sau đây là thể mô học được liệt kê ngay sau thể tế bào sáng trong barem?",
+      "options": [
+        "Ung thư biểu mô tế bào thận thể tế bào sáng (Clear cell RCC).",
+        "Thể ung thư biểu mô nhú (Papillary RCC)",
+        "Ung thư biểu mô tế bào thận thể ống góp (Bellini RCC).",
+        "Ung thư biểu mô tế bào thận thể kỵ màu (Chromophobe RCC)."
+      ],
+      "correct": 1,
+      "explanation": "Theo barem Mục 3.2: Thường hay gặp nhất là ung thư biểu mô tế bào sáng (75-85%). Các thể khác: Thể nhú (Papillary RCC), thể kỵ màu (Chromophobe RCC), ung thư ống góp Bellini.",
+      "option_explanations": [
+        "Sai — Thể tế bào sáng là thể chiếm đa số 75-85%, câu hỏi đề cập đến thể khác được liệt kê tiếp theo.",
+        "Đúng — Thể nhú (Papillary RCC) là thể đứng ngay sau thể tế bào sáng trong danh mục các thể khác ở Mục 3.2.",
+        "Sai — Ung thư ống góp Bellini là thể rất hiếm và ác tính cao, xếp cuối cùng trong danh sách.",
+        "Sai — Thể kỵ màu đứng sau thể nhú trong danh sách các thể khác của barem."
+      ]
+    },
+    {
+      "id": "SURG56-A08",
+      "type": "concept",
+      "topic": "Đại cương, Nguy cơ & Giải phẫu bệnh",
+      "subtopic": "Các thể mô học đặc biệt và tiên lượng",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "SURG-56 §3.2",
+      "text": "Trong các thể mô bệnh học hiếm gặp của ung thư biểu mô tế bào thận, thể nào sau đây được barem ghi nhận có đặc điểm là 'rất hiếm và độ ác tính cao'?",
+      "options": [
+        "Ung thư biểu mô tế bào thận thể kỵ màu (Chromophobe RCC).",
+        "Ung thư biểu mô tế bào thận thể nhú (Papillary RCC).",
+        "Ung thư biểu mô tế bào thận thể ống góp Bellini.",
+        "Ung thư biểu mô tế bào thận thể tế bào sáng (Clear cell RCC)."
+      ],
+      "correct": 2,
+      "explanation": "Theo barem Mục 3.2: Ung thư ống góp Bellini rất hiếm và ác tính cao.",
+      "option_explanations": [
+        "Sai — Thể kỵ màu là thể ít gặp nhưng không có độ ác tính cực cao như thể Bellini.",
+        "Sai — Thể nhú là thể đứng thứ hai sau thể tế bào sáng, không mang đặc tính này.",
+        "Đúng — Barem Mục 3.2 ghi rõ: 'ung thư ống góp Bellini (rất hiếm và ác tính cao)'.",
+        "Sai — Thể tế bào sáng chiếm 75-85%, không phải rất hiếm."
+      ]
+    },
+    {
+      "id": "SURG56-A09",
+      "type": "vignette",
+      "topic": "Đại cương, Nguy cơ & Giải phẫu bệnh",
+      "subtopic": "Ung thư ống góp Bellini",
+      "bloom": "phân tích",
+      "difficulty": 2,
+      "source": "SURG-56 §3.2",
+      "text": "Bệnh nhân nam 59 tuổi được phẫu thuật cắt thận triệt căn vì khối u thận xâm lấn nhanh. Kết quả giải phẫu bệnh xác định một thể ung thư biểu mô tế bào thận rất đặc biệt với ghi chú 'rất hiếm gặp và độ ác tính cao'. Thể mô bệnh học này là gì?",
+      "options": [
+        "Ung thư biểu mô tế bào thận thể tế bào sáng (Clear cell RCC).",
+        "Ung thư biểu mô tế bào thận thể kỵ màu (Chromophobe RCC).",
+        "Ung thư biểu mô tế bào thận thể ống góp (Bellini RCC).",
+        "Ung thư biểu mô tế bào thận thể nhú (Papillary RCC)."
+      ],
+      "correct": 2,
+      "explanation": "Theo barem Mục 3.2: 'ung thư ống góp Bellini (rất hiếm và ác tính cao)'.",
+      "option_explanations": [
+        "Sai — Thể tế bào sáng chiếm 75-85%, phổ biến nhất chứ không phải rất hiếm.",
+        "Sai — Thể kỵ màu là thể ít gặp nhưng không mang đặc điểm mô tả này.",
+        "Đúng — Barem Mục 3.2 ghi rõ: 'ung thư ống góp Bellini (rất hiếm và ác tính cao)'.",
+        "Sai — Thể nhú là thể phổ biến thứ hai sau thể tế bào sáng."
+      ]
+    },
+    {
+      "id": "SURG56-A10",
+      "type": "vignette",
+      "topic": "Phân loại giai đoạn TNM",
+      "subtopic": "Phân loại giai đoạn T1b",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-56 §4.1",
+      "text": "Bệnh nhân nam 50 tuổi được chụp cắt lớp vi tính phát hiện khối u đặc ở cực dưới thận phải có kích thước lớn nhất đo được là 5,5 cm, khối u vẫn còn hoàn toàn giới hạn bên trong nhu mô thận, chưa phá vỡ bao thận hay xâm lấn mạch máu. Theo phân loại TNM, khối u này thuộc phân nhóm T nào?",
+      "options": [
+        "Phân nhóm giai đoạn T1a của khối u thận.",
+        "Phân nhóm giai đoạn T1b của khối u thận.",
+        "Phân nhóm giai đoạn T2a của khối u thận.",
+        "Phân nhóm giai đoạn T3a của khối u thận."
+      ],
+      "correct": 1,
+      "explanation": "Theo barem Mục 4.1: T1 là u $\\le$ 7 cm giới hạn ở thận; trong đó T1a là u $\\le$ 4 cm; T1b là u > 4 cm nhưng $\\le$ 7 cm giới hạn ở thận. U 5,5 cm giới hạn ở thận nên thuộc T1b.",
+      "option_explanations": [
+        "Sai — T1a là u kích thước nhỏ hơn hoặc bằng 4 cm giới hạn ở thận.",
+        "Đúng — U kích thước 5,5 cm (> 4 cm đến $\\le$ 7 cm) giới hạn ở thận thuộc T1b theo barem Mục 4.1.",
+        "Sai — T2a là u > 7 cm nhưng $\\le$ 10 cm giới hạn ở thận.",
+        "Sai — T3a là u đã xâm lấn tĩnh mạch thận hoặc mỡ quanh thận."
+      ]
+    },
+    {
+      "id": "SURG56-A11",
+      "type": "vignette",
+      "topic": "Phân loại giai đoạn TNM",
+      "subtopic": "Phân loại giai đoạn T2",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-56 §4.1",
+      "text": "Một phụ nữ 58 tuổi được chụp cắt lớp vi tính phát hiện khối u đặc ở cực trên thận trái, kích thước lớn nhất của u đo được là 8,5 cm, toàn bộ khối u vẫn còn hoàn toàn giới hạn bên trong bao thận, chưa xâm lấn mô mỡ quanh thận hay tĩnh mạch thận. Khối u này được xếp vào phân nhóm T nào?",
+      "options": [
+        "Giai đoạn T1b (u kích thước lớn hơn 4 cm nhưng nhỏ hơn hoặc bằng 7 cm).",
+        "Giai đoạn T3a (u lan vào tĩnh mạch thận hoặc lớp mỡ quanh thận cùng bên).",
+        "Giai đoạn T2b (u kích thước lớn hơn 10 cm nhưng còn giới hạn ở trong thận).",
+        "Giai đoạn T2a (u kích thước lớn hơn 7 cm nhưng nhỏ hơn hoặc bằng 10 cm)."
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Mục 4.1: T2 là u > 7 cm giới hạn ở thận, trong đó T2a: u > 7 cm nhưng $\\le$ 10 cm; T2b: u > 10 cm giới hạn ở thận. U 8,5 cm nằm trong khoảng > 7 cm đến $\\le$ 10 cm nên là T2a.",
+      "option_explanations": [
+        "Sai — T1b dành cho u kích thước > 4 cm đến $\\le$ 7 cm.",
+        "Sai — T3a yêu cầu có xâm lấn tĩnh mạch thận hoặc lớp mỡ quanh thận/mỡ rốn thận.",
+        "Sai — T2b dành cho u kích thước > 10 cm giới hạn ở thận.",
+        "Đúng — U 8,5 cm giới hạn ở thận thuộc nhóm T2a (> 7 cm đến $\\le$ 10 cm)."
+      ]
+    },
+    {
+      "id": "SURG56-A12",
+      "type": "vignette",
+      "topic": "Phân loại giai đoạn TNM",
+      "subtopic": "Phân loại giai đoạn T3b",
+      "bloom": "phân tích",
+      "difficulty": 2,
+      "source": "SURG-56 §4.1",
+      "text": "Bệnh nhân nam 62 tuổi có khối u thận phải xâm lấn tạo chồi huyết khối lan vào trong lòng tĩnh mạch chủ dưới. Phim chụp mạch máu xác định đỉnh trên của chồi huyết khối vẫn còn nằm ở đoạn tĩnh mạch chủ phía dưới cơ hoành. Theo phân loại TNM, tổn thương này thuộc phân nhóm nào?",
+      "options": [
+        "Phân nhóm giai đoạn T3a của khối u thận.",
+        "Phân nhóm giai đoạn T3b của khối u thận.",
+        "Phân nhóm giai đoạn T3c của khối u thận.",
+        "Phân nhóm giai đoạn T4 của khối u thận."
+      ],
+      "correct": 1,
+      "explanation": "Theo barem Mục 4.1: T3b là u lan vào tĩnh mạch chủ dưới đoạn dưới cơ hoành.",
+      "option_explanations": [
+        "Sai — T3a là u xâm lấn tĩnh mạch thận hoặc mỡ quanh thận chưa vượt quá cân Gerota.",
+        "Đúng — Barem Mục 4.1 ghi rõ: T3b là lan vào tĩnh mạch chủ dưới đoạn dưới cơ hoành.",
+        "Sai — T3c là lan vào tĩnh mạch chủ dưới đoạn trên cơ hoành hoặc xâm lấn thành tĩnh mạch chủ.",
+        "Sai — T4 là xâm lấn vượt qua cân Gerota hoặc trực tiếp vào thượng thận cùng bên."
+      ]
+    },
+    {
+      "id": "SURG56-A13",
+      "type": "vignette",
+      "topic": "Phân loại giai đoạn TNM",
+      "subtopic": "Phân loại giai đoạn T3b và T3c",
+      "bloom": "phân tích",
+      "difficulty": 3,
+      "source": "SURG-56 §4.1",
+      "text": "Một bệnh nhân nam 63 tuổi bị ung thư thận phải có chồi huyết khối u lan vào trong lòng tĩnh mạch chủ dưới. Phim chụp MRI mạch máu xác định chồi u đã vượt qua mức cơ hoành đi lên tĩnh mạch chủ đoạn trong lồng ngực. Theo hệ thống phân loại TNM, trường hợp này thuộc giai đoạn T nào?",
+      "options": [
+        "Giai đoạn T3a (u xâm lấn vào tĩnh mạch thận hoặc lớp mỡ quanh thận chưa qua cân).",
+        "Giai đoạn T3b (u lan vào lòng tĩnh mạch chủ dưới nhưng ở đoạn nằm dưới cơ hoành).",
+        "Giai đoạn T3c (u lan vào tĩnh mạch chủ dưới đoạn trên cơ hoành hoặc xâm lấn thành).",
+        "Giai đoạn T4 (u xâm lấn vượt qua cân Gerota hoặc trực tiếp vào tuyến thượng thận)."
+      ],
+      "correct": 2,
+      "explanation": "Theo barem Mục 4.1: T3b là u lan vào tĩnh mạch chủ dưới đoạn dưới cơ hoành; T3c là u lan vào tĩnh mạch chủ dưới đoạn trên cơ hoành hoặc xâm lấn thành tĩnh mạch chủ. Do chồi u đã lên đoạn trên cơ hoành nên xếp T3c.",
+      "option_explanations": [
+        "Sai — T3a chỉ u xâm lấn tĩnh mạch thận hoặc mỡ quanh thận/rốn thận.",
+        "Sai — T3b là lan vào tĩnh mạch chủ dưới đoạn dưới cơ hoành.",
+        "Đúng — Theo barem Mục 4.1: T3c là u lan vào tĩnh mạch chủ dưới đoạn trên cơ hoành hoặc xâm lấn thành tĩnh mạch chủ.",
+        "Sai — T4 là u xâm lấn vượt qua cân Gerota hoặc xâm lấn trực tiếp vào tuyến thượng thận cùng bên."
+      ]
+    },
+    {
+      "id": "SURG56-A14",
+      "type": "vignette",
+      "topic": "Phân loại giai đoạn TNM",
+      "subtopic": "Phân loại giai đoạn T4",
+      "bloom": "đánh giá",
+      "difficulty": 3,
+      "source": "SURG-56 §4.1",
+      "text": "Bệnh nhân nữ 67 tuổi được phẫu thuật vì khối u thận trái kích thước 8 cm. Trong mổ phẫu thuật viên nhận thấy khối u đã phá vỡ hoàn toàn cân Gerota lan sang xâm lấn vào mạc nối tụy lách và xâm lấn trực tiếp vào tuyến thượng thận trái. Đánh giá phân loại giai đoạn T theo TNM cho ca bệnh này là gì?",
+      "options": [
+        "Giai đoạn T2a (u kích thước trong khoảng 7 đến 10 cm giới hạn ở thận).",
+        "Giai đoạn T3a (u xâm lấn mỡ quanh thận nhưng còn được bọc trong cân Gerota).",
+        "Giai đoạn T4 (u xâm lấn vượt qua cân Gerota hoặc tuyến thượng thận cùng bên).",
+        "Giai đoạn T3c (u thâm nhiễm tĩnh mạch chủ trên cơ hoành hoặc xâm lấn thành)."
+      ],
+      "correct": 2,
+      "explanation": "Theo barem Mục 4.1: T4 là khối u xâm lấn vượt qua cân Gerota hoặc xâm lấn trực tiếp vào tuyến thượng thận cùng bên.",
+      "option_explanations": [
+        "Sai — T2a là u > 7 đến 10 cm nhưng còn giới hạn ở thận.",
+        "Sai — T3a là xâm lấn mỡ quanh thận nhưng chưa vượt quá cân Gerota.",
+        "Đúng — Theo barem Mục 4.1, u xâm lấn vượt qua cân Gerota hoặc xâm lấn trực tiếp vào tuyến thượng thận cùng bên được xếp T4.",
+        "Sai — T3c là lan vào tĩnh mạch chủ dưới trên cơ hoành hoặc thành tĩnh mạch chủ."
+      ]
+    },
+    {
+      "id": "SURG56-A15",
+      "type": "concept",
+      "topic": "Phân loại giai đoạn TNM",
+      "subtopic": "Di căn xa vào xương trong RCC",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-56 §4.3",
+      "text": "Trong phân loại di căn xa (M1) của ung thư biểu mô tế bào thận, sau nhu mô phổi là cơ quan di căn thường gặp nhất, vị trí di căn xa đứng hàng thứ hai với tỷ lệ chiếm khoảng 30-40% theo ghi nhận trong barem là cơ quan nào?",
+      "options": [
+        "Nhu mô phổi trong lồng ngực (khoảng 50%).",
+        "Nhu mô gan và các chuỗi hạch sau phúc mạc.",
+        "Hệ thống khung xương toàn thân (khoảng 30-40%).",
+        "Hệ thần kinh trung ương và các bán cầu não."
+      ],
+      "correct": 2,
+      "explanation": "Theo barem Mục 4.3: M1: Có di căn xa (phổi 50%, xương 30-40%, gan, não...). Do đó xương là vị trí di căn đứng thứ hai với tỷ lệ 30-40%.",
+      "option_explanations": [
+        "Sai — Phổi là vị trí thường gặp nhất (50%), câu hỏi đề cập đến vị trí đứng hàng thứ hai chiếm 30-40%.",
+        "Sai — Gan là vị trí di căn ít gặp hơn so với phổi và xương.",
+        "Đúng — Barem Mục 4.3 ghi rõ: xương chiếm 30-40% các trường hợp di căn xa.",
+        "Sai — Não là vị trí di căn ít gặp hơn trong phân nhóm M1."
+      ]
+    },
+    {
+      "id": "SURG56-A16",
+      "type": "concept",
+      "topic": "Lâm sàng & Hội chứng cận ung thư",
+      "subtopic": "Tỷ lệ phát hiện tình cờ qua siêu âm",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-56 §5",
+      "text": "Ung thư tế bào thận (RCC) ở giai đoạn sớm thường tiến triển âm thầm không có triệu chứng lâm sàng. Tỷ lệ bệnh nhân RCC ngày nay được phát hiện hoàn toàn tình cờ qua siêu âm ổ bụng chiếm khoảng bao nhiêu phần trăm?",
+      "options": [
+        "Khoảng 10-15% tổng số bệnh nhân mắc ung thư thận.",
+        "Khoảng 20-30% tổng số bệnh nhân mắc ung thư thận.",
+        "Khoảng 50% phát hiện tình cờ qua siêu âm ổ bụng",
+        "Khoảng 75-85% tổng số bệnh nhân mắc ung thư thận."
+      ],
+      "correct": 2,
+      "explanation": "Theo barem Mục 5: Ung thư thận giai đoạn sớm thường diễn biến âm thầm không triệu chứng (khoảng 50% RCC ngày nay được phát hiện tình cờ qua siêu âm ổ bụng).",
+      "option_explanations": [
+        "Sai — 10-15% là tỷ lệ bệnh nhân có biểu hiện đầy đủ tam chứng cổ điển Guyon ở giai đoạn muộn.",
+        "Sai — 20-30% là tỷ lệ bệnh nhân ung thư thận có hội chứng cận ung thư trong barem Mục 6.",
+        "Đúng — Barem Mục 5 chỉ rõ: khoảng 50% RCC ngày nay được phát hiện tình cờ qua siêu âm ổ bụng.",
+        "Sai — 75-85% là tỷ lệ của thể ung thư biểu mô tế bào sáng (Clear cell RCC) trong giải phẫu bệnh."
+      ]
+    },
+    {
+      "id": "SURG56-A17",
+      "type": "concept",
+      "topic": "Lâm sàng & Hội chứng cận ung thư",
+      "subtopic": "Hội chứng Wunderlich",
+      "bloom": "hiểu",
+      "difficulty": 1,
+      "source": "SURG-56 §5",
+      "text": "Trong diễn biến lâm sàng của ung thư thận, biến chứng khối u bị hoại tử vỡ đột ngột gây ra bệnh cảnh cấp cứu ngoại khoa chảy máu sau phúc mạc dữ dội được gọi tên là hội chứng gì trong barem?",
+      "options": [
+        "Tam chứng cổ điển Guyon của ung thư thận.",
+        "Hội chứng cận ung thư Stauffer của gan thận.",
+        "Hội chứng chảy máu sau phúc mạc Wunderlich",
+        "Hội chứng suy tuần hoàn cấp tính do u thận."
+      ],
+      "correct": 2,
+      "explanation": "Theo barem Mục 5: 'Chảy máu sau phúc mạc dữ dội: Khi khối u hoại tử vỡ đột ngột (hội chứng Wunderlich)'.",
+      "option_explanations": [
+        "Sai — Tam chứng Guyon gồm đái máu, đau thắt lưng và sờ thấy u thắt lưng ở giai đoạn muộn.",
+        "Sai — Hội chứng Stauffer là rối loạn chức năng gan không do di căn (Mục 6).",
+        "Đúng — Barem Mục 5 chỉ rõ chảy máu sau phúc mạc dữ dội khi u hoại tử vỡ đột ngột là hội chứng Wunderlich.",
+        "Sai — Không có hội chứng suy tuần hoàn cấp do u trong bài."
+      ]
+    },
+    {
+      "id": "SURG56-A18",
+      "type": "vignette",
+      "topic": "Lâm sàng & Hội chứng cận ung thư",
+      "subtopic": "Đau thắt lưng trong tam chứng Guyon",
+      "bloom": "phân tích",
+      "difficulty": 2,
+      "source": "SURG-56 §5",
+      "text": "Trong tam chứng cổ điển Guyon của ung thư thận giai đoạn muộn, triệu chứng đau vùng hố thận được barem mô tả có cơ chế và đặc điểm lâm sàng điển hình nào sau đây?",
+      "options": [
+        "Đau âm ỉ thắt lưng do căng bao thận hoặc đau quặn thận khi có máu cục tắc niệu quản.",
+        "Đau quặn thận dữ dội từng cơn liên tục kèm theo tiểu buốt và tiểu mủ cuối bãi.",
+        "Đái máu tự nhiên, toàn bãi, đột ngột, không đau buốt, có máu cục khuôn niệu quản.",
+        "Đau nhức buốt liên tục lan xuống tầng sinh môn tăng lên dữ dội khi thay đổi tư thế."
+      ],
+      "correct": 0,
+      "explanation": "Theo barem Mục 5: '2. Đau thắt lưng: Đau âm ỉ thắt lưng do u to làm căng bao thận hoặc đau quặn thận dữ dội khi có máu cục di chuyển làm tắc nghẽn niệu quản'.",
+      "option_explanations": [
+        "Đúng — Barem Mục 5 nêu rõ: đau âm ỉ thắt lưng do u to làm căng bao thận hoặc đau quặn thận dữ dội khi có máu cục di chuyển làm tắc nghẽn niệu quản.",
+        "Sai — Đau kèm tiểu buốt và mủ gợi ý viêm nhiễm đường tiết niệu cấp.",
+        "Sai — Đái máu tự nhiên toàn bãi là triệu chứng số 1 trong tam chứng Guyon, câu hỏi hỏi về đặc điểm đau thắt lưng (triệu chứng số 2).",
+        "Sai — Đau lan tầng sinh môn thường gặp trong bệnh lý tuyến tiền liệt, không phải đau thắt lưng trong RCC."
+      ]
+    },
+    {
+      "id": "SURG56-A19",
+      "type": "vignette",
+      "topic": "Lâm sàng & Hội chứng cận ung thư",
+      "subtopic": "Giãn tĩnh mạch thừng tinh bên phải trong RCC",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-56 §5",
+      "text": "Một bệnh nhân nam 58 tuổi được phát hiện có khối u lớn tại thận bên phải, đồng thời khám lâm sàng ghi nhận có búi giãn tĩnh mạch thừng tinh bên phải mới xuất hiện, nằm ngửa không xẹp. Tổn thương mạch máu nào do u gây ra là cơ chế trực tiếp dẫn tới dấu hiệu này?",
+      "options": [
+        "Khối u chèn ép hoặc xâm lấn vào đường hồi lưu của tĩnh mạch thận bên trái.",
+        "Khối u chèn ép đoạn chậu hông làm tắc nghẽn dòng chảy tĩnh mạch chậu ngoài.",
+        "Khối u phát triển ra trước chèn ép trực tiếp làm hẹp thân tĩnh mạch cửa gan.",
+        "Khối u hoặc huyết khối chèn ép tĩnh mạch chủ dưới"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Mục 5: 'Giãn tĩnh mạch thừng tinh cùng bên u: Do khối u hoặc huyết khối chèn ép / xâm lấn tĩnh mạch thận (bên trái) hoặc tĩnh mạch chủ (bên phải). Đặc điểm: Nằm ngửa tĩnh mạch không xẹp'. Vì bệnh nhân u thận phải, cơ chế là chèn ép tĩnh mạch chủ dưới.",
+      "option_explanations": [
+        "Sai — Chèn ép tĩnh mạch thận bên trái gây giãn tĩnh mạch thừng tinh bên trái (do TM tinh hoàn trái đổ vào TM thận trái).",
+        "Sai — Tĩnh mạch tinh hoàn phải đổ trực tiếp vào tĩnh mạch chủ dưới, không qua tĩnh mạch chậu ngoài.",
+        "Sai — Không liên quan tĩnh mạch cửa gan.",
+        "Đúng — Barem Mục 5 ghi rõ: giãn TM thừng tinh bên phải do khối u hoặc huyết khối chèn ép / xâm lấn tĩnh mạch chủ dưới."
+      ]
+    },
+    {
+      "id": "SURG56-A20",
+      "type": "vignette",
+      "topic": "Lâm sàng & Hội chứng cận ung thư",
+      "subtopic": "Hội chứng Wunderlich",
+      "bloom": "sáng tạo",
+      "difficulty": 3,
+      "source": "SURG-56 §5",
+      "text": "Một bệnh nhân nam 61 tuổi có tiền sử u thận phải chưa can thiệp, đột ngột xuất hiện đau dữ dội vùng hố thắt lưng phải, da xanh tái, vã mồ hôi, huyết áp tụt còn 80/50 mmHg. Siêu âm cấp cứu tại giường phát hiện khối máu tụ rất lớn khoang sau phúc mạc quanh thận phải do vỡ u hoại tử. Bệnh cảnh lâm sàng cấp cứu chảy máu sau phúc mạc dữ dội này được gọi tên là hội chứng gì?",
+      "options": [
+        "Hội chứng Stauffer trong ung thư tế bào thận.",
+        "Hội chứng Mallory-Weiss xuất huyết cấp tính.",
+        "Hội chứng Zollinger-Ellison kèm xuất huyết.",
+        "Gặp ở khoảng 20% đến 30% bệnh nhân ung thư thận"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Bài 6 Mục 5: Chảy máu sau phúc mạc dữ dội: Khi khối u hoại tử vỡ đột ngột (hội chứng Wunderlich).",
+      "option_explanations": [
+        "Sai — Hội chứng Stauffer là hội chứng cận ung thư gây rối loạn chức năng gan không do di căn (Mục 6 trong barem).",
+        "Sai — Hội chứng Mallory-Weiss là rách tâm vị thực quản gây nôn ra máu sau nôn nhiều trong tiêu hóa.",
+        "Sai — Hội chứng Zollinger-Ellison là u tiết gastrin gây loét dạ dày tá tràng nặng, không phải vỡ u thận sau phúc mạc.",
+        "Đúng — Barem Mục 5 nêu rõ: Chảy máu sau phúc mạc dữ dội khi khối u hoại tử vỡ đột ngột được gọi là hội chứng Wunderlich."
+      ]
+    },
+    {
+      "id": "SURG56-B01",
+      "type": "concept",
+      "topic": "Lâm sàng & Hội chứng cận ung thư",
+      "subtopic": "Tỷ lệ hội chứng cận ung thư",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-56 §6",
+      "text": "Trong ung thư tế bào thận (RCC), tế bào u có khả năng bài tiết các chất có hoạt tính sinh học vào tuần hoàn.\nTỷ lệ bệnh nhân ung thư tế bào thận có biểu hiện hội chứng cận ung thư chiếm khoảng bao nhiêu?",
+      "options": [
+        "Khoảng 20 - 30% tổng số bệnh nhân",
+        "Khoảng 10 - 15% tổng số bệnh nhân",
+        "Khoảng 50% tổng số bệnh nhân",
+        "Khoảng 75 - 85% tổng số bệnh nhân"
+      ],
+      "correct": 0,
+      "explanation": "Theo barem Mục 6, hội chứng cận ung thư gặp ở khoảng 20 - 30% bệnh nhân ung thư thận do tế bào u tiết các chất có hoạt tính sinh học.",
+      "option_explanations": [
+        "Đúng — Hội chứng cận ung thư gặp ở khoảng 20 - 30% bệnh nhân ung thư tế bào thận (§6).",
+        "Sai — 10 - 15% là tỷ lệ bệnh nhân có đầy đủ tam chứng cổ điển Guyon ở giai đoạn muộn (§5).",
+        "Sai — Khoảng 50% là tỷ lệ RCC ngày nay được phát hiện tình cờ qua siêu âm ổ bụng không triệu chứng (§5).",
+        "Sai — 75 - 85% là tỷ lệ ung thư tế bào thận thể tế bào sáng (Clear cell RCC) trong mô học (§3.2)."
+      ]
+    },
+    {
+      "id": "SURG56-B02",
+      "type": "vignette",
+      "topic": "Lâm sàng & Hội chứng cận ung thư",
+      "subtopic": "Hội chứng Stauffer",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-56 §6",
+      "text": "Bệnh nhân ung thư thận xuất hiện tăng huyết áp thứ phát. Cơ chế sinh học nào sau đây giải thích biến chứng cận ung thư này?",
+      "options": [
+        "Tăng tiết enzym Renin hoặc chèn ép động mạch",
+        "Tăng tiết hormon giống tuyến cận giáp PTHrP",
+        "Hội chứng rối loạn chức năng gan Stauffer",
+        "Tăng tiết hormon tạo hồng cầu Erythropoietin"
+      ],
+      "correct": 0,
+      "explanation": "Theo barem Mục 6: Hội chứng Stauffer là rối loạn chức năng gan không do di căn (gan to, phosphatase kiềm tăng, men gan tăng, chức năng đông máu kéo dài); các chỉ số này trở về bình thường sau khi cắt bỏ thận có u.",
+      "option_explanations": [
+        "Sai — Tất cả các chỉ số men gan, phosphatase kiềm lẫn đông máu đều hồi phục đồng thời sau khi cắt u (§6).",
+        "Sai — Thuốc TKI chỉ định khi ung thư di căn toàn thân (§9.2), không áp dụng cho phục hồi chức năng gan Stauffer đơn thuần.",
+        "Sai — Tổn thương không phải vĩnh viễn vì không do di căn nhu mô gan mà do hóa chất trung gian từ khối u tiết ra (§6).",
+        "Đúng — Rối loạn chức năng gan trong hội chứng Stauffer mang tính cận ung thư và sẽ hồi phục về bình thường sau khi phẫu thuật loại bỏ khối u nguyên phát (§6)."
+      ]
+    },
+    {
+      "id": "SURG56-B03",
+      "type": "concept",
+      "topic": "Lâm sàng & Hội chứng cận ung thư",
+      "subtopic": "Cơ chế nội tiết cận u",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-56 §6",
+      "text": "Ở bệnh nhân ung thư biểu mô tế bào thận, tế bào u có thể tiết ra các hormone dị vị gây nên các rối loạn cận ung thư đặc thù.\nChất có hoạt tính sinh học nào do tế bào u tiết ra là nguyên nhân trực tiếp dẫn tới tình trạng tăng huyết áp ở bệnh nhân RCC?",
+      "options": [
+        "Hormone Erythropoietin (EPO)",
+        "Enzym Phosphatase kiềm (ALP)",
+        "Chất giống PTH (peptid PTHrP)",
+        "Enzym Renin kích hoạt co mạch"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Mục 6: Tăng huyết áp do tăng tiết Renin hoặc chèn ép động mạch thận; Đa hồng cầu do tăng tiết Erythropoietin; Tăng canxi máu do tiết chất giống PTH (PTHrP); Phosphatase kiềm tăng trong hội chứng Stauffer.",
+      "option_explanations": [
+        "Sai — Erythropoietin (EPO) gây hội chứng đa hồng cầu cận u (§6).",
+        "Sai — Phosphatase kiềm là enzym tăng thứ phát trong hội chứng Stauffer (§6).",
+        "Sai — Chất giống PTH (PTHrP) là nguyên nhân gây hội chứng tăng canxi máu cận u (§6).",
+        "Đúng — Tăng huyết áp xuất hiện do u tiết Renin hoặc u chèn ép cơ học vào động mạch thận (§6)."
+      ]
+    },
+    {
+      "id": "SURG56-B04",
+      "type": "vignette",
+      "topic": "Lâm sàng & Hội chứng cận ung thư",
+      "subtopic": "Tăng canxi máu cận u do PTHrP",
+      "bloom": "phân tích",
+      "difficulty": 2,
+      "source": "SURG-56 §6",
+      "text": "Bệnh nhân nam 58 tuổi ung thư thận có xét nghiệm máu ghi nhận số lượng hồng cầu và Hematocrit tăng cao bất thường (đa hồng cầu). Chất có hoạt tính sinh học nào do tế bào u tiết ra gây nên hiện tượng này?",
+      "options": [
+        "Kháng nguyên ung thư phôi thai CEA",
+        "Peptid giống hormon cận giáp (PTHrP)",
+        "Enzym chuyển hóa Renin hệ thống",
+        "Hormon kích thích tạo hồng cầu Erythropoietin"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Mục 6: Tăng canxi máu trong RCC không có di căn xương là do tế bào u tiết chất giống PTH (PTHrP - Parathyroid hormone-related protein).",
+      "option_explanations": [
+        "Sai — Erythropoietin kích thích tủy xương tăng sinh dòng hồng cầu gây đa hồng cầu, không gây hủy xương (§6).",
+        "Sai — Tăng canxi máu cận u là cơ chế nội tiết do PTHrP, không phải do hoại tử giải phóng thụ động (§6).",
+        "Đúng — PTHrP do u thận tiết gắn vào thụ thể PTH ở xương và ống thận gây tăng canxi máu trong khi PTH nội sinh bị feedback ức chế giảm (§6).",
+        "Sai — Tăng tiết Renin gây tăng huyết áp, không tác động trực tiếp lên cân bằng canxi máu (§6)."
+      ]
+    },
+    {
+      "id": "SURG56-B05",
+      "type": "concept",
+      "topic": "Lâm sàng & Hội chứng cận ung thư",
+      "subtopic": "Sốt kéo dài cận ung thư",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-56 §6",
+      "text": "Trong các biểu hiện của hội chứng cận ung thư ở bệnh nhân ung thư thận, sốt kéo dài không rõ nguyên nhân (không kèm ổ nhiễm trùng trên lâm sàng) chiếm tỷ lệ bao nhiêu?",
+      "options": [
+        "Khoảng 80%",
+        "Khoảng 10%",
+        "Khoảng 50%",
+        "Khoảng 20%"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Mục 6: Sốt kéo dài không rõ nguyên nhân chiếm khoảng 20% trong các biểu hiện hội chứng cận ung thư của RCC.",
+      "option_explanations": [
+        "Sai — 80% (75 - 85%) là tỷ lệ mô học thể tế bào sáng (§3.2) hoặc tỷ lệ u AML ở nữ giới (§8).",
+        "Sai — 10% (10 - 15%) là tỷ lệ gặp tam chứng Guyon kinh điển ở giai đoạn muộn (§5).",
+        "Sai — 50% là tỷ lệ RCC phát hiện tình cờ không triệu chứng qua siêu âm (§5) hoặc tỷ lệ di căn phổi M1 (§4.3).",
+        "Đúng — Theo barem Mục 6, sốt kéo dài không rõ nguyên nhân chiếm 20% bệnh nhân."
+      ]
+    },
+    {
+      "id": "SURG56-B06",
+      "type": "concept",
+      "topic": "Cận lâm sàng & Chẩn đoán phân biệt",
+      "subtopic": "Vai trò của siêu âm ổ bụng",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-56 §7.1",
+      "text": "Phương tiện chẩn đoán hình ảnh nào được xem là phương tiện sàng lọc ban đầu hàng đầu để phát hiện sớm các khối u thận trong cộng đồng?",
+      "options": [
+        "Chụp cộng hưởng từ (chụp MRI bụng)",
+        "Chụp niệu đồ tĩnh mạch (UIV)",
+        "Chụp cắt lớp vi tính (CT Scanner)",
+        "Siêu âm tổng quát ổ bụng"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Mục 7.1: Siêu âm ổ bụng là phương tiện sàng lọc ban đầu hàng đầu nhờ độ tin cậy cao, xác định vị trí, kích thước, cấu trúc u và khảo sát chồi trong tĩnh mạch.",
+      "option_explanations": [
+        "Sai — MRI chỉ định khi suy thận, dị ứng cản quang hoặc đánh giá chồi huyết khối tĩnh mạch chủ lên cơ hoành/tim (§7.4).",
+        "Sai — UIV hiện nay ít dùng, chỉ thấy hình đè đẩy biến dạng đài bể thận chứ không phải phương tiện sàng lọc đầu tay (§7.2).",
+        "Sai — CT scanner có cản quang là tiêu chuẩn vàng chẩn đoán và phân chia giai đoạn, không phải phương tiện sàng lọc đại trà (§7.3).",
+        "Đúng — Siêu âm ổ bụng là phương tiện sàng lọc đầu tay, phát hiện tình cờ khoảng 50% số ca RCC hiện nay (§5, §7.1)."
+      ]
+    },
+    {
+      "id": "SURG56-B07",
+      "type": "concept",
+      "topic": "Cận lâm sàng & Chẩn đoán phân biệt",
+      "subtopic": "Hình ảnh UIV kinh điển",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-56 §7.2",
+      "text": "Trên phim chụp niệu đồ tĩnh mạch (UIV) ở bệnh nhân có khối u lớn nhu mô thận phát triển chèn ép đường bài xuất trong thận, dấu hiệu kinh điển thường được mô tả là gì?",
+      "options": [
+        "Khuyết thuốc cản quang bờ nham nhở dạng thâm nhiễm",
+        "Hệ thống đài bể biến dạng kéo dài tạo hình chân nhện",
+        "Mất bóng thận trên phim kèm cản quang dạng vỏ hành",
+        "Giãn ứ nước toàn bộ nhu mô thận dạng hoa cúc nở"
+      ],
+      "correct": 1,
+      "explanation": "Theo barem Mục 7.2: Chụp niệu đồ tĩnh mạch (UIV) cho hình ảnh đè đẩy, chèn ép làm biến dạng các đài bể thận (hình chèn ép, kéo dài, hình \"chân nhện\").",
+      "option_explanations": [
+        "Sai — Dạng thâm nhiễm đáy bàng quang gặp trong u bàng quang xâm lấn niệu quản.",
+        "Đúng — UIV thấy các cổ đài thận bị khối u chèn ép, kéo dài và tách xa nhau tạo hình mạng nhện hay chân nhện đặc trưng (§7.2).",
+        "Sai — Dạng vỏ củ hành không phải mô tả kinh điển của đài bể thận trên UIV trong RCC.",
+        "Sai — Hình hoa cúc nở hay gặp trong sỏi san hô gây giãn đài thận ứ nước nặng."
+      ]
+    },
+    {
+      "id": "SURG56-B08",
+      "type": "concept",
+      "topic": "Cận lâm sàng & Chẩn đoán phân biệt",
+      "subtopic": "Tiêu chuẩn vàng CT Scanner",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-56 §7.3",
+      "text": "Chụp cắt lớp vi tính (CT Scanner) có tiêm thuốc cản quang được xem là tiêu chuẩn vàng trong chẩn đoán ung thư biểu mô tế bào thận vì đặc điểm huyết động học nào của khối u?",
+      "options": [
+        "Khối u ngấm thuốc viền liên tục ở thì động mạch và ngấm dần dần lấp đầy đồng nhất ở thì muộn",
+        "Khối u không ngấm thuốc cản quang ở cả thì động mạch và thì tĩnh mạch",
+        "Khối u đặc ngấm thuốc cản quang mạnh không đồng nhất ở thì động mạch và thải thuốc ở thì muộn",
+        "Khối u giảm tỷ trọng đồng nhất và giữ thuốc cản quang kéo dài không thải ở thì bài xuất"
+      ],
+      "correct": 2,
+      "explanation": "Theo barem Mục 7.3: CT Scanner có cản quang là tiêu chuẩn vàng: xác định u đặc, ngấm thuốc cản quang mạnh và không đồng nhất ở thì động mạch, thải thuốc ở thì muộn.",
+      "option_explanations": [
+        "Sai — Ngấm thuốc viền và ngấm dần đồng nhất vào trung tâm ở thì muộn là hình ảnh kinh điển của u máu thể hang ở gan.",
+        "Sai — Không ngấm thuốc sau tiêm là đặc điểm của nang thận lành tính Bosniak I-II (§8).",
+        "Đúng — RCC giàu mạch máu tân tạo nên bắt thuốc rất mạnh, không đều ở thì ĐM và thải thuốc nhanh ở thì muộn (§7.3).",
+        "Sai — Giữ thuốc cản quang kéo dài không thải thường gặp trong các khối u xơ hoặc sẹo xơ trung tâm lành tính."
+      ]
+    },
+    {
+      "id": "SURG56-B09",
+      "type": "vignette",
+      "topic": "Cận lâm sàng & Chẩn đoán phân biệt",
+      "subtopic": "Chỉ định chụp MRI",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-56 §7.4",
+      "text": "Bệnh nhân nam 62 tuổi, tiền sử suy thận mạn giai đoạn 3b với mức lọc cầu thận eGFR 32 mL/ph/1,73m2 và từng có sốc phản vệ độ 3 với thuốc cản quang chứa iod khi chụp mạch vành. Siêu âm ổ bụng phát hiện khối u đặc cực trên thận phải 6 cm nghi ngờ RCC có chồi u xâm lấn vào tĩnh mạch chủ dưới.\nPhương tiện chẩn đoán hình ảnh tối ưu nhất để đánh giá chính xác giới hạn trên của chồi huyết khối tĩnh mạch chủ dưới ở bệnh nhân này là gì?",
+      "options": [
+        "Chụp cắt lớp vi tính (CT Scanner) có tiêm cản quang liều cao",
+        "Chụp cộng hưởng từ (MRI) hệ mạch máu và ổ bụng",
+        "Chụp X-quang hệ tiết niệu không chuẩn bị (KUB) tư thế nghiêng",
+        "Chụp niệu đồ tĩnh mạch (UIV) phối hợp siêu âm Doppler tim"
+      ],
+      "correct": 1,
+      "explanation": "Theo barem Mục 7.4: Chụp cộng hưởng từ (MRI) rất có giá trị khi bệnh nhân dị ứng thuốc cản quang hoặc suy thận, đặc biệt ưu thế trong đánh giá mức độ lan rộng của chồi huyết khối tĩnh mạch chủ dưới lên tới cơ hoành hoặc tâm nhĩ phải.",
+      "option_explanations": [
+        "Sai — Bệnh nhân có tiền sử sốc phản vệ độ 3 với thuốc cản quang iod và suy thận nên chống chỉ định tuyệt đối tiêm cản quang iod CT (§7.4).",
+        "Đúng — MRI là lựa chọn hoàn hảo khi chống chỉ định thuốc cản quang iod do suy thận/dị ứng và có độ phân giải mô mềm tuyệt vời để khảo sát huyết khối TMC (§7.4).",
+        "Sai — X-quang KUB không thể phân định được chồi huyết khối trong lòng mạch máu lớn.",
+        "Sai — UIV cũng sử dụng thuốc cản quang iod đường tĩnh mạch nên bị chống chỉ định và độ phân giải không khảo sát được huyết khối lòng mạch (§7.2, §7.4)."
+      ]
+    },
+    {
+      "id": "SURG56-B10",
+      "type": "concept",
+      "topic": "Cận lâm sàng & Chẩn đoán phân biệt",
+      "subtopic": "Chỉ định chụp động mạch thận",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-56 §7.5",
+      "text": "Trong chẩn đoán và lập kế hoạch điều trị ung thư tế bào thận, chụp động mạch thận có can thiệp nút mạch u trước mổ nhằm mục đích chính nào sau đây?",
+      "options": [
+        "Tiêu diệt tế bào u nhằm thay thế phẫu thuật cắt bỏ",
+        "Xác định chính xác giai đoạn di căn hạch bạch huyết vùng quanh động mạch",
+        "Giảm thể tích máu nuôi để hạn chế lượng máu mất trong cuộc mổ",
+        "Khai thông dòng máu tĩnh mạch chủ dưới bị chèn ép bởi chồi huyết khối u"
+      ],
+      "correct": 2,
+      "explanation": "Theo barem Mục 7.5: Chụp động mạch thận chỉ định khi u quá to dự kiến cắt bán phần hoặc chụp để nút mạch (tắc mạch u trước mổ) nhằm giảm lượng máu mất trong mổ.",
+      "option_explanations": [
+        "Sai — Nút mạch không thể thay thế phẫu thuật triệt căn, phẫu thuật vẫn là phương pháp cơ bản và hiệu quả nhất (§9.1).",
+        "Sai — Đánh giá di căn hạch vùng dựa vào CT scanner hoặc MRI, không dựa vào chụp ĐM thận (§7.3, §7.4).",
+        "Đúng — Nút mạch trước mổ làm tắc nguồn cấp máu chính cho u, hạn chế mất máu ồ ạt khi phẫu tích giải phóng khối u to (§7.5).",
+        "Sai — Nút mạch động mạch thận không giải quyết được chồi huyết khối tĩnh mạch chủ dưới (phải phẫu thuật mở TMC lấy huyết khối) (§9.1)."
+      ]
+    },
+    {
+      "id": "SURG56-B11",
+      "type": "concept",
+      "topic": "Cận lâm sàng & Chẩn đoán phân biệt",
+      "subtopic": "Đặc điểm U cơ mỡ mạch thận (AML)",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-56 §8",
+      "text": "Trên phim chụp cắt lớp vi tính (CT Scanner), dấu hiệu quan trọng nhất cho phép chẩn đoán xác định u cơ mỡ mạch thận (Angiomyolipoma - AML) và phân biệt rõ với ung thư biểu mô tế bào thận là gì?",
+      "options": [
+        "Phát hiện thành phần mô có tỷ trọng mỡ âm tính từ -20 đến -80 HU trong u",
+        "Phát hiện tổn thương dạng nang có vách mỏng không ngấm thuốc cản quang",
+        "Phát hiện chồi u ngấm thuốc cản quang lan vào lòng tĩnh mạch chủ dưới",
+        "Phát hiện sỏi san hô lấp đầy các đài bể thận gây giãn ứ mủ quanh thận"
+      ],
+      "correct": 0,
+      "explanation": "Theo barem Mục 8: U cơ mỡ mạch thận (AML) là u lành tính ở thận gồm mỡ, mạch máu và cơ (80% ở nữ, đơn độc bên phải); CT Scanner thấy rõ thành phần tỷ trọng mỡ âm tính (-20 đến -80 HU) trong khối u.",
+      "option_explanations": [
+        "Đúng — Tỷ trọng mỡ âm tính (-20 đến -80 HU) trên CT là dấu ấn đặc trưng giúp khẳng định u cơ mỡ mạch lành tính (§8).",
+        "Sai — Nang thận vách mỏng dịch đồng nhất không ngấm thuốc là nang thận lành tính Bosniak I-II (§8).",
+        "Sai — Chồi u ngấm thuốc cản quang lan vào lòng tĩnh mạch chủ dưới là dấu hiệu xâm lấn mạch máu của RCC (T3b/T3c) (§4.1, §7.3).",
+        "Sai — Sỏi san hô đài bể thận là bệnh lý sỏi tiết niệu, không phải khối u cơ mỡ mạch AML (§8)."
+      ]
+    },
+    {
+      "id": "SURG56-B12",
+      "type": "concept",
+      "topic": "Cận lâm sàng & Chẩn đoán phân biệt",
+      "subtopic": "Dịch tễ u cơ mỡ mạch thận (AML)",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-56 §8",
+      "text": "Theo đặc điểm dịch tễ học được mô tả trong barem ung thư thận, bệnh u cơ mỡ mạch thận (AML) thường gặp nhất ở đối tượng và vị trí nào?",
+      "options": [
+        "Gặp 80% ở phụ nữ và thường là khối u đơn độc ở thận bên phải",
+        "Gặp 80% ở nam giới cao tuổi và thường xuất hiện ở hai bên thận",
+        "Gặp chủ yếu ở trẻ em dưới 5 tuổi kèm theo dị tật hệ tiết niệu bẩm sinh",
+        "Gặp với tỷ lệ nam/nữ ngang nhau và thường phối hợp đa nang gan đồng thời"
+      ],
+      "correct": 0,
+      "explanation": "Theo barem Mục 8: U cơ mỡ mạch thận (Angiomyolipoma - AML): 80% ở nữ, đơn độc bên phải.",
+      "option_explanations": [
+        "Đúng — Bare me Mục 8 nêu rõ: AML 80% ở nữ, đơn độc bên phải.",
+        "Sai — RCC gặp ở nam nhiều hơn nữ (nam/nữ là 2/1, Mục 1), còn AML lại gặp 80% ở nữ (§8).",
+        "Sai — Khối u thận ở trẻ em dưới 5 tuổi thường là u Wilms (u nguyên bào thận), không phải AML kinh điển của người lớn.",
+        "Sai — Bệnh lý gặp ở hai bên thận và phối hợp đa nang gan đồng thời là bệnh thận đa nang di truyền (§8)."
+      ]
+    },
+    {
+      "id": "SURG56-B13",
+      "type": "vignette",
+      "topic": "Cận lâm sàng & Chẩn đoán phân biệt",
+      "subtopic": "Phân biệt nang thận lành tính Bosniak I-II",
+      "bloom": "phân tích",
+      "difficulty": 2,
+      "source": "SURG-56 §8",
+      "text": "Bệnh nhân nam 50 tuổi, đi khám sức khỏe định kỳ không có triệu chứng lâm sàng. Siêu âm ghi nhận tổn thương dạng nang kích thước 3,5 cm ở vỏ thận trái, bờ đều rõ, dịch bên trong hoàn toàn đồng nhất, có hiện tượng tăng âm mạnh phía sau. Chụp CT bụng có tiêm cản quang xác định nang thành mỏng nhẵn, không có vôi hóa, hoàn toàn không ngấm thuốc cản quang sau tiêm (Bosniak I).\nThái độ xử trí và giải thích phù hợp nhất cho bệnh nhân này là gì?",
+      "options": [
+        "Chỉ định phẫu thuật cắt thận bán phần (NSS) bảo tồn nhu mô vì u kích thước ≤ 4 cm",
+        "Chỉ định nút động mạch thận chọn lọc để ngăn ngừa nang vỡ gây hội chứng Wunderlich",
+        "Bắt đầu điều trị toàn thân với thuốc ức chế thụ thể tăng sinh mạch Tyrosine Kinase",
+        "Phẫu thuật cắt thận bán phần bảo tồn nhu mô (NSS)"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Mục 8: Nang thận đơn độc lành tính: không đái máu, siêu âm thành mỏng, dịch đồng nhất, tăng âm phía sau; CT không ngấm thuốc cản quang (phân loại Bosniak I-II) - là tổn thương lành tính không cần can thiệp ung thư.",
+      "option_explanations": [
+        "Sai — Cắt thận bán phần NSS chỉ định cho khối u ác tính T1a ≤ 4 cm hoặc chỉ định bắt buộc (§9.1), không mổ cho nang đơn độc lành tính.",
+        "Sai — Nút mạch áp dụng trước mổ RCC hoặc AML vỡ chảy máu, không dùng cho nang nước lành tính (§7.5, §8).",
+        "Sai — Thuốc TKI chỉ dùng trong điều trị ung thư biểu mô tế bào thận giai đoạn di căn xa (§9.2).",
+        "Đúng — Nang Bosniak I-II điển hình hoàn toàn lành tính, không ngấm thuốc cản quang nên không có chỉ định mổ cắt u hay điều trị ung bướu (§8)."
+      ]
+    },
+    {
+      "id": "SURG56-B14",
+      "type": "concept",
+      "topic": "Cận lâm sàng & Chẩn đoán phân biệt",
+      "subtopic": "Chẩn đoán phân biệt bệnh thận đa nang",
+      "bloom": "hiểu",
+      "difficulty": 1,
+      "source": "SURG-56 §8",
+      "text": "Trong các bệnh lý thận lành tính cần chẩn đoán phân biệt với ung thư biểu mô tế bào thận, đặc điểm kinh điển của bệnh thận đa nang là gì?",
+      "options": [
+        "Tổn thương dạng nang đơn độc thành mỏng ngấm thuốc cản quang mạnh không đồng nhất thì động mạch",
+        "Tổn thương khối đặc đơn độc cực trên thận phải kèm tỷ trọng mỡ âm tính từ -20 đến -80 HU",
+        "Tổn thương nang chiếm diện tích ở hai bên thận, thường kèm nang ở gan và suy thận tiến triển",
+        "Tổn thương u xuất phát từ khoang sau phúc mạc đè đẩy làm dẹt cuống mạch thận cùng bên"
+      ],
+      "correct": 2,
+      "explanation": "Theo barem Mục 8: Bệnh thận đa nang thường biểu hiện ở cả 2 bên thận, kèm theo đa nang gan và dẫn tới suy thận tiến triển.",
+      "option_explanations": [
+        "Sai — Nang thành mỏng không ngấm thuốc là nang Bosniak I-II; còn ngấm thuốc cản quang mạnh không đồng nhất là khối u ác tính RCC (§7.3, §8).",
+        "Sai — Khối u đơn độc cực trên có tỷ trọng mỡ âm tính là u cơ mỡ mạch AML (§8).",
+        "Đúng — Theo barem Mục 8: Thận đa nang thường xuất hiện ở hai bên thận, kèm đa nang gan và suy thận tiến triển.",
+        "Sai — Tổn thương ngoài thận đè đẩy nhu mô là đặc điểm của u sau phúc mạc hoặc u thượng thận (§8)."
+      ]
+    },
+    {
+      "id": "SURG56-B15",
+      "type": "concept",
+      "topic": "Điều trị phẫu thuật & Toàn thân",
+      "subtopic": "Phẫu thuật cắt thận triệt căn Robson",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-56 §9.1",
+      "text": "Trong phẫu thuật cắt thận triệt căn kinh điển theo phương pháp Robson, nguyên tắc kỹ thuật bắt buộc phải thực hiện trước khi giải phóng khối u nhằm tránh làm phát tán tế bào ung thư vào hệ tuần hoàn là gì?",
+      "options": [
+        "Cắt rời niệu quản sát bàng quang và thắt trước",
+        "Bộc lộ và thắt động mạch cùng tĩnh mạch thận trước",
+        "Cắt bỏ tuyến thượng thận cùng bên và tĩnh mạch chủ trước",
+        "Bóc tách giải phóng lớp mỡ quanh thận trước"
+      ],
+      "correct": 1,
+      "explanation": "Theo barem Mục 9.1: Nguyên tắc của phẫu thuật Robson là: Thắt động mạch và tĩnh mạch thận trước khi đụng chạm giải phóng khối u nhằm tránh làm phát tán tế bào ung thư vào hệ tuần hoàn.",
+      "option_explanations": [
+        "Sai — Cắt rời niệu quản sát thành bàng quang lấy cả cuff bàng quang là nguyên tắc mổ ung thư biểu mô đường niệu trên (đài bể thận - niệu quản), không phải mổ RCC Robson (§9.1).",
+        "Đúng — Thắt cuống mạch thận (ĐM và TM thận) đầu tiên trước khi động chạm khối u là nguyên tắc cốt lõi của phẫu thuật cắt thận triệt căn Robson (§9.1).",
+        "Sai — Tuyến thượng thận được lấy cùng khối thận và cân Gerota chứ không phải thắt tĩnh mạch chủ trước (§9.1).",
+        "Sai — Nếu bóc tách giải phóng khối u trước khi thắt mạch sẽ làm tăng áp lực trong u và đẩy tế bào ác tính vào tĩnh mạch thận (§9.1)."
+      ]
+    },
+    {
+      "id": "SURG56-B16",
+      "type": "vignette",
+      "topic": "Điều trị phẫu thuật & Toàn thân",
+      "subtopic": "Chỉ định cắt thận bán phần (NSS)",
+      "bloom": "đánh giá",
+      "difficulty": 3,
+      "source": "SURG-56 §9.1",
+      "text": "Bệnh nhân nam 48 tuổi, tình cờ phát hiện khối u đặc kích thước 3,2 cm ở cực dưới thận trái trên siêu âm và CT Scanner bụng (T1aN0M0). Khối u nằm ở ngoại vi, lồi ra ngoài bề mặt vỏ thận, thận phải bình thường, chức năng thận hai bên hoàn toàn tốt.\nLựa chọn phương pháp phẫu thuật tối ưu nhất được khuyến cáo cho bệnh nhân này là gì?",
+      "options": [
+        "Phẫu thuật cắt thận bán phần bảo tồn nhu mô (NSS)",
+        "Phẫu thuật cắt thận triệt căn theo phương pháp Robson",
+        "Phẫu thuật thắt động mạch thận chọn lọc kết hợp xạ trị ngoài",
+        "Nạo vét hạch cuống thận đơn thuần kết hợp điều trị hóa chất toàn thân"
+      ],
+      "correct": 0,
+      "explanation": "Theo barem Mục 9.1: Chỉ định tương đối của cắt thận bán phần (NSS): U thận giai đoạn sớm T1a (kích thước ≤ 4 cm), nằm ở vị trí ngoại vi hoặc cực thận.",
+      "option_explanations": [
+        "Đúng — Khối u T1a (3,2 cm ≤ 4 cm) ở cực thận và vị trí ngoại vi là chỉ định kinh điển của phẫu thuật cắt thận bán phần bảo tồn nhu mô NSS (§9.1).",
+        "Sai — Cắt thận triệt căn Robson chỉ định cho T2, T3 hoặc u T1 không đủ điều kiện cắt bán phần (như u nằm sâu rốn thận) (§9.1).",
+        "Sai — RCC kháng xạ trị truyền thống và thắt động mạch đơn thuần không diệt được u (§9.1, §9.2).",
+        "Sai — Khối u T1aN0M0 không có chỉ định nạo vét hạch đơn thuần hay hóa trị toàn thân (§9.1, §9.2)."
+      ]
+    },
+    {
+      "id": "SURG56-B17",
+      "type": "vignette",
+      "topic": "Điều trị phẫu thuật & Toàn thân",
+      "subtopic": "Chỉ định bắt buộc của NSS",
+      "bloom": "phân tích",
+      "difficulty": 3,
+      "source": "SURG-56 §9.1",
+      "text": "Bệnh nhân nữ 52 tuổi, tiền sử cắt thận phải do chấn thương vỡ thận cách đây 10 năm. Hiện tại, siêu âm và CT kiểm tra phát hiện khối u đặc cực trên thận trái đơn độc kích thước 4,5 cm (T1bN0M0), không có huyết khối tĩnh mạch, mức lọc cầu thận eGFR là 50 mL/ph/1,73m2.\nPhương pháp điều trị ngoại khoa bắt buộc phải đặt ra hàng đầu cho bệnh nhân này là gì?",
+      "options": [
+        "Phẫu thuật cắt thận triệt căn mở rộng kèm mở tĩnh mạch chủ",
+        "Chỉ định đốt lạnh (Cryoablation) thay thế cho phẫu thuật",
+        "Điều trị toàn thân bằng thuốc ức chế mTOR không can thiệp ngoại khoa",
+        "Phẫu thuật cắt thận bán phần / bảo tồn nhu mô (NSS)"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Mục 9.1: Chỉ định bắt buộc của cắt thận bán phần (NSS): Khối u ở thận duy nhất, ung thư cả 2 bên thận, hoặc bệnh nhân suy thận mãn tính.",
+      "option_explanations": [
+        "Sai — Cắt thận triệt căn toàn bộ thận duy nhất sẽ khiến bệnh nhân mất hết nhu mô thận và phải chạy thận nhân tạo chu kỳ suốt đời (§9.1).",
+        "Sai — Đốt lạnh chỉ dành cho u nhỏ < 3-4 cm ở bệnh nhân già yếu không thể phẫu thuật (§9.1). Khối u 4,5 cm vẫn ưu tiên mổ mở/nội soi cắt bán phần.",
+        "Sai — Thuốc ức chế mTOR chỉ dùng cho ung thư thận di căn toàn thân kháng TKI (§9.2), không thể thay thế phẫu thuật loại bỏ khối u còn khu trú.",
+        "Đúng — Bệnh nhân chỉ còn một thận duy nhất nên cắt thận bán phần bảo tồn nhu mô (NSS) là chỉ định bắt buộc tuyệt đối nhằm tránh biến bệnh nhân thành vô niệu vĩnh viễn (§9.1)."
+      ]
+    },
+    {
+      "id": "SURG56-B18",
+      "type": "concept",
+      "topic": "Điều trị phẫu thuật & Toàn thân",
+      "subtopic": "Can thiệp nhiệt xâm lấn tối thiểu",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-56 §9.1",
+      "text": "Các phương pháp can thiệp xâm lấn tối thiểu như đốt sóng cao tần (RFA) hoặc áp lạnh (Cryoablation) được chỉ định chủ yếu cho nhóm bệnh nhân nào?",
+      "options": [
+        "Bệnh nhân trẻ tuổi có khối u kích thước lớn > 7 cm xâm lấn cuống mạch thận",
+        "Bệnh nhân già yếu có khối u nhỏ < 3 - 4 cm không chịu đựng được cuộc mổ lớn",
+        "Bệnh nhân ung thư thận đã có chồi huyết khối tĩnh mạch chủ đoạn trên cơ hoành",
+        "Bệnh nhân ung thư thận có nhiều ổ di căn xương gây đau nhức dữ dội toàn thân"
+      ],
+      "correct": 1,
+      "explanation": "Theo barem Mục 9.1: Can thiệp xâm lấn tối thiểu: Đốt sóng cao tần (RFA) hoặc áp lạnh (Cryoablation): Dành cho bệnh nhân già yếu, u nhỏ < 3-4 cm không thể chịu đựng cuộc mổ lớn.",
+      "option_explanations": [
+        "Sai — U lớn > 7 cm xâm lấn mạch máu là chỉ định cắt thận triệt căn Robson kèm mở TMC (§9.1).",
+        "Đúng — Barem Mục 9.1 nêu rõ chỉ định RFA/Cryo cho bệnh nhân già yếu, khối u nhỏ < 3-4 cm không chịu được đại phẫu.",
+        "Sai — U có huyết khối TMC cần phẫu thuật mở tĩnh mạch chủ lấy huyết khối u (§9.1).",
+        "Sai — Di căn xương gây đau nhức toàn thân được chỉ định xạ trị giảm đau (§9.2)."
+      ]
+    },
+    {
+      "id": "SURG56-B19",
+      "type": "concept",
+      "topic": "Điều trị phẫu thuật & Toàn thân",
+      "subtopic": "Nhóm thuốc ức chế tăng sinh mạch TKI",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-56 §9.2",
+      "text": "Trong điều trị toàn thân cho bệnh nhân ung thư biểu mô tế bào thận giai đoạn di căn, thuốc nào sau đây thuộc nhóm ức chế tăng sinh mạch (TKI - Tyrosine Kinase Inhibitors)?",
+      "options": [
+        "Sunitinib",
+        "Nivolumab",
+        "Everolimus",
+        "Interferon-alpha"
+      ],
+      "correct": 0,
+      "explanation": "Theo barem Mục 9.2: Liệu pháp nhắm trúng đích TKI gồm: Sunitinib, Sorafenib, Pazopanib, Axitinib. Everolimus thuộc nhóm ức chế mTOR; Nivolumab thuộc thuốc ức chế điểm kiểm soát miễn dịch; Interferon-alpha là miễn dịch cổ điển.",
+      "option_explanations": [
+        "Đúng — Sunitinib (cùng Sorafenib, Pazopanib, Axitinib) thuộc nhóm ức chế tyrosine kinase thụ thể VEGF chống tăng sinh mạch (§9.2).",
+        "Sai — Nivolumab (cùng Pembrolizumab, Ipilimumab) thuộc nhóm ức chế điểm kiểm soát miễn dịch (Checkpoint inhibitors) (§9.2).",
+        "Sai — Everolimus (cùng Temsirolimus) thuộc nhóm ức chế mTOR (§9.2).",
+        "Sai — Interferon-alpha (cùng IL-2 liều cao) là liệu pháp miễn dịch cổ điển (§9.2)."
+      ]
+    },
+    {
+      "id": "SURG56-B20",
+      "type": "vignette",
+      "topic": "Điều trị phẫu thuật & Toàn thân",
+      "subtopic": "Vai trò của xạ trị và hóa trị toàn thân",
+      "bloom": "đánh giá",
+      "difficulty": 3,
+      "source": "SURG-56 §9.2",
+      "text": "Bệnh nhân nam 65 tuổi, ung thư thận phải đã phẫu thuật cắt thận triệt căn cách đây 1 năm. Hiện tại xuất hiện đau nhức dữ dội ở vùng xương chậu phải và lưng do di căn xương (M1 xương), không thể đi lại được. Người nhà đề nghị điều trị hóa chất truyền tĩnh mạch kết hợp xạ trị triệt căn khối u.\nNhận định nào sau đây là chính xác nhất về vai trò của hóa trị và xạ trị ở bệnh nhân này theo barem?",
+      "options": [
+        "Hóa trị phác đồ đa hóa chất kết hợp xạ trị liều cao là phương pháp điều trị triệt căn hàng đầu cho di căn xương",
+        "Xạ trị ngoài liều cao có khả năng kiểm soát triệt để các ổ di căn xương mà không cần dùng thuốc nhắm trúng đích",
+        "Hóa chất truyền thống có độ nhạy rất cao với ung thư tế bào thận và nên bắt đầu ngay trước khi xạ trị",
+        "RCC kháng hóa - xạ truyền thống, xạ trị chỉ có vai trò điều trị giảm nhẹ giảm đau cho di căn xương"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Mục 9.2: Ung thư tế bào thận rất kháng với hóa trị và xạ trị truyền thống. Xạ trị chỉ dùng để xạ giảm đau trong di căn xương hoặc giảm áp lực trong di căn não.",
+      "option_explanations": [
+        "Sai — Barem nêu rõ RCC rất kháng với hóa trị và xạ trị truyền thống nên không có vai trò triệt căn trong giai đoạn di căn xương (§9.2).",
+        "Sai — Xạ trị không thể kiểm soát triệt để hay chữa khỏi RCC mà chỉ có tác dụng giảm đau triệu chứng (§9.2).",
+        "Sai — RCC có tính chất đề kháng tự nhiên với các thuốc hóa chất độc tế bào cổ điển (§9.2).",
+        "Đúng — Barem Mục 9.2 khẳng định RCC rất kháng hóa - xạ truyền thống, xạ trị chỉ dùng giảm đau trong di căn xương hoặc giảm áp lực di căn não."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1068 @@
+{
+  "format": "medmcq-bank",
+  "version": 1,
+  "id": "bank_surg58_ung_thu_tuyen_tien_liet",
+  "lesson": "SURG-58",
+  "group": "Ngoại khoa",
+  "title": "SURG-58: Ung thư tuyến tiền liệt (Barem — 44 câu phủ 6 bậc Bloom)",
+  "description": "Dịch tễ, nguy cơ, PIN độ 2, Gleason, TNM, đám rối Batson, động học PSA (f/tPSA, PSAD, PSAV), sinh thiết TRUS, mpMRI, điều trị khu trú, ADT, CRPC, cấp cứu và tầm soát.",
+  "updated": "2026-11-12T12:45:22Z",
+  "questions": [
+    {
+      "id": "SURG58-A01",
+      "type": "concept",
+      "topic": "Đại cương, Nguy cơ & Giải phẫu bệnh (Gleason)",
+      "subtopic": "Dịch tễ học ung thư tuyến tiền liệt",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-58 §1",
+      "text": "Trong các bệnh lý ác tính ở nam giới trên phạm vi toàn cầu, ung thư biểu mô phế quản phổi có tỷ lệ mắc cao nhất. Bệnh lý ác tính nào sau đây có tỷ lệ mắc phổ biến đứng hàng thứ hai ngay sau ung thư phổi ở nam giới?",
+      "options": [
+        "Ung thư biểu mô dạ dày",
+        "Ung thư tuyến tiền liệt ở nam giới",
+        "Ung thư biểu mô đại trực tràng",
+        "Ung thư tế bào gan nguyên phát"
+      ],
+      "correct": 1,
+      "explanation": "Theo barem Mục 1, ung thư tuyến tiền liệt là bệnh phổ biến ở nam giới, đứng hàng thứ 2 sau ung thư phổi.",
+      "option_explanations": [
+        "Sai — ung thư dạ dày là bệnh ác tính đường tiêu hóa phổ biến nhưng không đứng thứ 2 sau phổi ở nam giới.",
+        "Đúng — barem Mục 1 nêu rõ ung thư tuyến tiền liệt đứng hàng thứ 2 sau ung thư phổi ở nam giới.",
+        "Sai — ung thư đại trực tràng là bệnh lý đường tiêu hóa dưới, không đứng thứ 2 sau phổi trong thống kê barem.",
+        "Sai — ung thư gan rất phổ biến ở các nước viêm gan B mạn nhưng không đứng thứ 2 sau ung thư phổi trong barem."
+      ]
+    },
+    {
+      "id": "SURG58-A02",
+      "type": "concept",
+      "topic": "Đại cương, Nguy cơ & Giải phẫu bệnh (Gleason)",
+      "subtopic": "Tiên lượng điều trị theo giai đoạn phát hiện",
+      "bloom": "hiểu",
+      "difficulty": 1,
+      "source": "SURG-58 §1",
+      "text": "Bệnh nhân nam 62 tuổi được chẩn đoán ung thư tuyến tiền liệt. Khi tư vấn tiên lượng sống còn cho gia đình người bệnh, bác sĩ giải thích về tỷ lệ điều trị khỏi ở giai đoạn khối u còn khu trú trong tuyến chưa phá vỡ bao, và tỷ lệ sống sau 5 năm nếu phát hiện bệnh ở giai đoạn muộn. Hai con số tương ứng theo barem là gì?",
+      "options": [
+        "Tỷ lệ khỏi 50% ở giai đoạn sớm, sống sau 5 năm < 20% ở giai đoạn muộn",
+        "Tỷ lệ khỏi 70% ở giai đoạn sớm, sống sau 5 năm < 50% ở giai đoạn muộn",
+        "Tỷ lệ khỏi 90% ở giai đoạn sớm, sống sau 5 năm < 30% ở giai đoạn muộn",
+        "Tỷ lệ khỏi 85% ở giai đoạn sớm, sống sau 5 năm < 10% ở giai đoạn muộn"
+      ],
+      "correct": 2,
+      "explanation": "Theo barem Mục 1: Nếu được phát hiện sớm khi u còn khu trú trong tuyến, tỷ lệ khỏi đạt 90%. Nếu phát hiện muộn thì tỷ lệ sống sau 5 năm chỉ còn dưới 30%.",
+      "option_explanations": [
+        "Sai — số liệu barem chuẩn là 90% và < 30%.",
+        "Sai — 70-85% là tỷ lệ sống không bệnh 10 năm của phẫu thuật triệt căn, không phải số liệu barem Mục 1.",
+        "Đúng — theo barem Mục 1, phát hiện sớm khỏi 90%, phát hiện muộn sống sau 5 năm dưới 30%.",
+        "Sai — 85% thuộc khoảng 70-85% sống không bệnh 10 năm sau mổ triệt căn."
+      ]
+    },
+    {
+      "id": "SURG58-A03",
+      "type": "concept",
+      "topic": "Đại cương, Nguy cơ & Giải phẫu bệnh (Gleason)",
+      "subtopic": "Tỷ lệ mắc theo lứa tuổi lâm sàng và tử thiết",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-58 §2",
+      "text": "Nghiên cứu dịch tễ học và tử thiết (autopsies) ghi nhận tỷ lệ mắc ung thư tuyến tiền liệt tiềm tàng tăng vọt theo tuổi thọ. Số liệu nào sau đây phản ánh đúng tỷ lệ phát hiện qua tử thiết ở nhóm nam giới 70 – 80 tuổi?",
+      "options": [
+        "Tỷ lệ mắc trên tử thiết là 50%",
+        "Tỷ lệ mắc trên tử thiết là 20%",
+        "Tỷ lệ mắc trên lâm sàng là 2,2%",
+        "Tỷ lệ mắc trên lâm sàng là 13,7%"
+      ],
+      "correct": 0,
+      "explanation": "Barem Mục 2 nêu: nhóm 40-59 tuổi mắc 2,2%; nhóm 60-70 tuổi mắc 13,7%; tỷ lệ tử thiết nhóm 50-60 tuổi là 20%; nhóm 70-80 tuổi lên tới 50%.",
+      "option_explanations": [
+        "Đúng — theo barem Mục 2, tỷ lệ mắc dựa vào tử thiết ở nhóm 70-80 tuổi lên tới 50%.",
+        "Sai — 20% là tỷ lệ phát hiện ung thư tuyến tiền liệt qua tử thiết ở nhóm 50-60 tuổi.",
+        "Sai — 2,2% là tỷ lệ mắc trên lâm sàng ở nhóm nam giới 40-59 tuổi.",
+        "Sai — 13,7% là tỷ lệ mắc trên lâm sàng ở nhóm nam giới 60-70 tuổi."
+      ]
+    },
+    {
+      "id": "SURG58-A04",
+      "type": "concept",
+      "topic": "Đại cương, Nguy cơ & Giải phẫu bệnh (Gleason)",
+      "subtopic": "Yếu tố nguy cơ gia đình và chủng tộc",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-58 §2",
+      "text": "Một người đàn ông 48 tuổi đến khám tư vấn vì lo lắng về nguy cơ mắc ung thư tuyến tiền liệt. Người thân ruột thịt nào mắc bệnh sẽ làm tăng nguy cơ mắc ung thư tuyến tiền liệt của người này lên gấp 2 đến 3 lần theo barem?",
+      "options": [
+        "Bố đẻ hoặc anh em trai ruột",
+        "Mẹ ruột hoặc chị em gái ruột",
+        "Ông nội hoặc bác ruột họ nội",
+        "Bà ngoại hoặc dì ruột họ ngoại"
+      ],
+      "correct": 0,
+      "explanation": "Theo barem Mục 2: Gia đình có bố hoặc anh em trai mắc ung thư tuyến tiền liệt thì nguy cơ mắc bệnh cao hơn gấp 2 - 3 lần.",
+      "option_explanations": [
+        "Đúng — theo barem Mục 2, gia đình có bố hoặc anh em trai mắc ung thư TTL thì nguy cơ cao hơn 2-3 lần.",
+        "Sai — ung thư TTL là bệnh của nam giới, bố hoặc anh em trai mắc mới làm tăng nguy cơ 2-3 lần.",
+        "Sai — quan hệ thế hệ 2 (ông nội, bác) không phải mốc nguy cơ bậc 1 được nêu trong barem.",
+        "Sai — người thân nữ giới họ ngoại không làm tăng nguy cơ trực tiếp ung thư TTL theo barem."
+      ]
+    },
+    {
+      "id": "SURG58-A05",
+      "type": "concept",
+      "topic": "Đại cương, Nguy cơ & Giải phẫu bệnh (Gleason)",
+      "subtopic": "Chế độ ăn và nội tiết tố nguy cơ",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-58 §2",
+      "text": "Về cơ chế bệnh sinh của ung thư tuyến tiền liệt, chế độ ăn nhiều chất béo động vật (mỡ bão hòa) và sự gia tăng kéo dài của hormone nào sau đây là yếu tố nguy cơ thúc đẩy bệnh phát triển?",
+      "options": [
+        "Nồng độ Estradiol tự do trong máu",
+        "Nồng độ Testosterone tự do trong máu",
+        "Nồng độ Progesterone tự do trong máu",
+        "Nồng độ Prolactin toàn phần trong máu"
+      ],
+      "correct": 1,
+      "explanation": "Theo barem Mục 2: Nồng độ Testosterone tự do cao quá mức tự nhiên kéo dài kết hợp với chế độ ăn nhiều mỡ bão hòa làm tăng nguy cơ ung thư TTL.",
+      "option_explanations": [
+        "Sai — Estradiol là estrogen, không phải yếu tố sinh ung tuyến tiền liệt trong barem.",
+        "Đúng — barem Mục 2 ghi rõ: nồng độ Testosterone tự do cao quá mức tự nhiên kéo dài.",
+        "Sai — Progesterone không phải yếu tố nội tiết nguy cơ trong barem ung thư TTL.",
+        "Sai — Prolactin từ tuyến yên không phải hormone chịu trách nhiệm chính trong sinh ung TTL theo barem."
+      ]
+    },
+    {
+      "id": "SURG58-A06",
+      "type": "concept",
+      "topic": "Đại cương, Nguy cơ & Giải phẫu bệnh (Gleason)",
+      "subtopic": "Mô bệnh học và tổn thương tiền ung thư PIN",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-58 §3.1",
+      "text": "Kết quả sinh thiết tuyến tiền liệt của một bệnh nhân ghi nhận cấu trúc mô học biểu mô ống tuyến tăng sinh không điển hình, nhân to tăng sắc nhưng màng đáy còn nguyên vẹn, được kết luận là tổn thương tiền ung thư thường đi kèm ung thư tuyến tiền liệt. Tổn thương mô học này có tên gọi là gì?",
+      "options": [
+        "Tân sinh biểu mô độ 1 (PIN độ 1)",
+        "Tăng sản lành tính biểu mô tuyến",
+        "Tăng sản tuyến không điển hình",
+        "Tân sinh trong biểu mô độ 2 (PIN độ 2)"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Mục 3.1: Tổn thương tiền ung thư (PIN) có độ 1 và độ 2; trong đó PIN độ 2 (High-grade PIN) được coi là tổn thương tiền ung thư, thường đi kèm với ung thư tuyến tiền liệt.",
+      "option_explanations": [
+        "Sai — PIN độ 1 không được coi là tổn thương tiền ung thư đi kèm ung thư trong barem.",
+        "Sai — BPH là tăng sản lành tính tuyến tiền liệt, một bệnh lý lành tính độc lập ở vùng chuyển tiếp.",
+        "Sai — AAH là tổn thương tăng sản tuyến không điển hình, không phải thuật ngữ tiền ung thư chính trong barem.",
+        "Đúng — theo barem Mục 3.1, PIN độ 2 (PIN độ cao - High-grade PIN) được coi là tổn thương tiền ung thư."
+      ]
+    },
+    {
+      "id": "SURG58-A07",
+      "type": "concept",
+      "topic": "Đại cương, Nguy cơ & Giải phẫu bệnh (Gleason)",
+      "subtopic": "Nguyên lý tính điểm thang điểm Gleason (1974)",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-58 §3.2",
+      "text": "Khi đọc kết quả giải phẫu bệnh ung thư tuyến tiền liệt theo thang điểm mô học Gleason (1974), thang điểm tổng cộng được tính dựa trên nguyên tắc lấy tổng điểm của bao nhiêu mẫu mô học đại diện phổ biến nhất?",
+      "options": [
+        "Lấy tổng điểm của một mẫu mô",
+        "Lấy tổng điểm của ba mẫu đại diện",
+        "Lấy tổng điểm của hai mẫu đại diện",
+        "Lấy tổng điểm của bốn mẫu đại diện"
+      ],
+      "correct": 2,
+      "explanation": "Theo barem Mục 3.2: Thang điểm Gleason lấy từ 2 mẫu đại diện phổ biến nhất (mỗi mẫu từ độ 1 đến độ 5) cộng lại với nhau, điểm tổng cộng từ 2 đến 10 điểm.",
+      "option_explanations": [
+        "Sai — lấy một mẫu duy nhất là điểm của từng vùng (độ 1 đến 5), điểm tổng cộng phải cộng 2 mẫu.",
+        "Sai — thang điểm Gleason cổ điển 1974 không cộng 3 mẫu.",
+        "Đúng — barem Mục 3.2 nêu rõ: lấy từ 2 mẫu đại diện phổ biến nhất cộng lại với nhau (tổng từ 2 đến 10 điểm).",
+        "Sai — không cộng 4 mẫu trong thang điểm Gleason."
+      ]
+    },
+    {
+      "id": "SURG58-A08",
+      "type": "concept",
+      "topic": "Đại cương, Nguy cơ & Giải phẫu bệnh (Gleason)",
+      "subtopic": "Phân tầng độ ác tính theo thang điểm Gleason",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-58 §3.2",
+      "text": "Bệnh nhân có kết quả giải phẫu bệnh mảnh sinh thiết tuyến tiền liệt ghi nhận: 'Gleason score 7 điểm (3+4)'. Theo phân loại độ ác tính của barem, khối u này thuộc nhóm nào?",
+      "options": [
+        "Khối u thuộc nhóm biệt hóa tốt (độ ác tính thấp)",
+        "Khối u thuộc nhóm biệt hóa trung bình - kém",
+        "Khối u thuộc nhóm biệt hóa trung bình",
+        "Khối u thuộc nhóm biệt hóa kém (độ ác tính rất cao)"
+      ],
+      "correct": 1,
+      "explanation": "Theo barem Mục 3.2: 2-4 điểm là biệt hóa tốt (ác tính thấp); 5-6 điểm là biệt hóa trung bình; 7 điểm (3+4 hoặc 4+3) là biệt hóa trung bình - kém; 8-10 điểm là biệt hóa kém (độ ác tính rất cao, tiến triển nhanh và di căn sớm).",
+      "option_explanations": [
+        "Sai — 2 đến 4 điểm mới là nhóm ung thư biệt hóa tốt (độ ác tính thấp).",
+        "Đúng — theo barem Mục 3.2, điểm Gleason 7 điểm (3+4 hoặc 4+3) được phân loại là biệt hóa trung bình - kém.",
+        "Sai — 5 đến 6 điểm là nhóm ung thư biệt hóa trung bình.",
+        "Sai — 8 đến 10 điểm mới là nhóm biệt hóa kém với độ ác tính rất cao, tiến triển nhanh và di căn sớm."
+      ]
+    },
+    {
+      "id": "SURG58-A09",
+      "type": "vignette",
+      "topic": "Đại cương, Nguy cơ & Giải phẫu bệnh (Gleason)",
+      "subtopic": "Đánh giá tiên lượng Gleason điểm cao",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-58 §3.2",
+      "text": "Bệnh nhân nam 71 tuổi có kết quả sinh thiết tuyến tiền liệt kết luận Adenocarcinoma, điểm Gleason tổng cộng là 9 điểm (5+4). Theo barem giải phẫu bệnh học, độ biệt hóa mô học của khối u này được xếp vào nhóm nào?",
+      "options": [
+        "Ung thư biệt hóa rất tốt (độ 1)",
+        "Ung thư biệt hóa trung bình (độ 2)",
+        "Ung thư biệt hóa kém (độ 4 - ác tính rất cao)",
+        "Ung thư biệt hóa trung bình - kém (độ 3)"
+      ],
+      "correct": 2,
+      "explanation": "Theo barem Mục 3.2: 2-4 điểm là biệt hóa tốt; 5-6 điểm là biệt hóa trung bình; 7 điểm là biệt hóa trung bình - kém; 8-10 điểm là biệt hóa kém (độ ác tính rất cao, tiến triển nhanh và di căn sớm).",
+      "option_explanations": [
+        "Sai — 2 đến 4 điểm mới là ung thư biệt hóa tốt (độ ác tính thấp).",
+        "Sai — 5 đến 6 điểm là ung thư biệt hóa trung bình.",
+        "Đúng — theo barem Mục 3.2, điểm Gleason từ 8-10 điểm là ung thư biệt hóa kém (độ ác tính rất cao).",
+        "Sai — 7 điểm (3+4 hoặc 4+3) là ung thư biệt hóa trung bình - kém."
+      ]
+    },
+    {
+      "id": "SURG58-A10",
+      "type": "concept",
+      "topic": "Phân loại TNM & Hướng di căn xương",
+      "subtopic": "Phân loại khối u tiềm tàng T1 theo TNM",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-58 §4.1",
+      "text": "Bệnh nhân nam 66 tuổi được mổ cắt nội soi u phì đại tuyến tiền liệt (TURP). Kết quả xét nghiệm mô bệnh học các mảnh cắt phát hiện tình cờ tế bào ung thư biểu mô tuyến chiếm 4% thể tích mô gửi xét nghiệm. Giai đoạn T nguyên phát của khối u này là gì?",
+      "options": [
+        "Giai đoạn T1a",
+        "Giai đoạn T1b",
+        "Giai đoạn T1c",
+        "Giai đoạn T2a"
+      ],
+      "correct": 0,
+      "explanation": "Theo barem Mục 4.1: T1a là tình cờ phát hiện qua mảnh cắt nội soi điều trị phì đại lành tính, chiếm <= 5% mô cắt; T1b là chiếm > 5% mô cắt; T1c là phát hiện nhờ sinh thiết kim do PSA máu tăng cao.",
+      "option_explanations": [
+        "Đúng — theo barem Mục 4.1, tình cờ phát hiện qua mảnh cắt nội soi chiếm <= 5% mô cắt là T1a (ở đây là 4%).",
+        "Sai — T1b là tình cờ phát hiện qua mảnh cắt nội soi nhưng khối u chiếm > 5% mô cắt.",
+        "Sai — T1c là phát hiện nhờ sinh thiết kim do nồng độ PSA trong máu tăng cao mà DRE và siêu âm không sờ/thấy u.",
+        "Sai — T2a là khối u sờ thấy qua DRE hoặc thấy trên siêu âm và khu trú ở <= 1/2 một thùy."
+      ]
+    },
+    {
+      "id": "SURG58-A11",
+      "type": "concept",
+      "topic": "Phân loại TNM & Hướng di căn xương",
+      "subtopic": "Phân loại T1b và T1c theo TNM",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "SURG-58 §4.1",
+      "text": "Theo bảng phân loại TNM trong barem, trường hợp khối u không sờ thấy qua thăm trực tràng (DRE) và không thấy trên siêu âm, được chẩn đoán xác định nhờ sinh thiết kim do xét nghiệm thấy nồng độ PSA máu tăng cao được xếp vào giai đoạn nào?",
+      "options": [
+        "Giai đoạn Tis",
+        "Giai đoạn T1c",
+        "Giai đoạn T1b",
+        "Giai đoạn T1a"
+      ],
+      "correct": 1,
+      "explanation": "Theo barem Mục 4.1: T1c là khối u tiềm tàng, không phát hiện được qua DRE và không thấy trên siêu âm, phát hiện nhờ sinh thiết kim do nồng độ PSA máu tăng cao.",
+      "option_explanations": [
+        "Sai — Tis là ung thư tại chỗ (Carcinoma in situ / PIN độ cao).",
+        "Đúng — theo barem Mục 4.1, phát hiện nhờ sinh thiết kim do nồng độ PSA máu tăng cao chính là T1c.",
+        "Sai — T1b là tình cờ phát hiện qua mảnh cắt nội soi chiếm > 5% mô cắt.",
+        "Sai — T1a là tình cờ phát hiện qua mảnh cắt nội soi chiếm <= 5% mô cắt."
+      ]
+    },
+    {
+      "id": "SURG58-A12",
+      "type": "concept",
+      "topic": "Phân loại TNM & Hướng di căn xương",
+      "subtopic": "Phân biệt T2a, T2b, T2c theo TNM",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-58 §4.1",
+      "text": "Bệnh nhân nam 63 tuổi thăm trực tràng (DRE) sờ thấy một nhân cứng chắc ở thùy phải tuyến tiền liệt, vùng tổn thương chiếm hơn một nửa thùy phải nhưng thùy trái hoàn toàn mềm mại, vỏ bao tuyến còn nguyên vẹn. Giai đoạn khối u theo hệ thống TNM là gì?",
+      "options": [
+        "Giai đoạn T2b",
+        "Giai đoạn T2a",
+        "Giai đoạn T2c",
+        "Giai đoạn T3a"
+      ],
+      "correct": 0,
+      "explanation": "Theo barem Mục 4.1: T2a là u khu trú ở <= 1/2 một thùy; T2b là u lan rộng hơn 1/2 của một thùy nhưng chưa sang thùy bên kia; T2c là u xâm lấn cả hai thùy chưa vượt qua vỏ bao; T3a là u phá vỡ vỏ bao.",
+      "option_explanations": [
+        "Đúng — theo barem Mục 4.1, u lan rộng hơn 1/2 của một thùy nhưng chưa sang thùy bên kia là T2b.",
+        "Sai — T2a là khối u khu trú ở <= 1/2 của một thùy tuyến tiền liệt.",
+        "Sai — T2c là khối u xâm lấn cả hai thùy tuyến tiền liệt nhưng chưa vượt qua vỏ bao.",
+        "Sai — T3a là khối u đã xâm lấn phá vỡ vỏ bao 1 hoặc 2 bên."
+      ]
+    },
+    {
+      "id": "SURG58-A13",
+      "type": "vignette",
+      "topic": "Phân loại TNM & Hướng di căn xương",
+      "subtopic": "Phân loại u giai đoạn T3 theo TNM",
+      "bloom": "phân tích",
+      "difficulty": 2,
+      "source": "SURG-58 §4.1",
+      "text": "Bệnh nhân nam 67 tuổi được chụp cộng hưởng từ đa thông số (mpMRI) và sinh thiết tuyến tiền liệt. Kết quả chẩn đoán hình ảnh ghi nhận khối u tuyến tiền liệt đã phá vỡ vỏ bao và xâm lấn trực tiếp vào túi tinh hai bên, chưa xâm lấn bàng quang hay trực tràng. Giai đoạn T của bệnh nhân này là gì?",
+      "options": [
+        "Giai đoạn T2c",
+        "Giai đoạn T3a",
+        "Giai đoạn T3b",
+        "Giai đoạn T4"
+      ],
+      "correct": 2,
+      "explanation": "Theo barem Mục 4.1: T3a là u xâm lấn ra ngoài vỏ bao 1 hoặc 2 bên; T3b là u xâm lấn vào túi tinh; T4 là u cố định hoặc xâm lấn vào các cơ quan lân cận (cổ bàng quang, trực tràng...).",
+      "option_explanations": [
+        "Sai — T2c là u xâm lấn cả hai thùy nhưng u chưa vượt qua vỏ bao tuyến tiền liệt.",
+        "Sai — T3a là u xâm lấn ra ngoài vỏ bao 1 hoặc 2 bên nhưng chưa xâm lấn túi tinh.",
+        "Đúng — theo barem Mục 4.1, khối u đã xâm lấn vào túi tinh được phân loại là T3b.",
+        "Sai — T4 là u xâm lấn cơ quan lân cận: cổ bàng quang, trực tràng, cơ thắt ngoài, cơ nâng hậu môn hoặc thành chậu."
+      ]
+    },
+    {
+      "id": "SURG58-A14",
+      "type": "concept",
+      "topic": "Phân loại TNM & Hướng di căn xương",
+      "subtopic": "Phân loại khối u tiến triển T4 theo TNM",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-58 §4.1",
+      "text": "Theo hệ thống phân loại TNM trong barem, trường hợp khối u tuyến tiền liệt xâm lấn trực tiếp vào cấu trúc giải phẫu nào sau đây thì được xếp vào giai đoạn T4?",
+      "options": [
+        "Khối u xâm lấn phá vỡ vỏ bao tuyến tiền liệt một hoặc hai bên",
+        "Khối u xâm lấn vào mô liên kết và nhu mô của túi tinh",
+        "Khối u xâm lấn lan rộng chiếm trọn hai thùy tuyến tiền liệt",
+        "Khối u xâm lấn vào cổ bàng quang, trực tràng hoặc thành chậu"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Mục 4.1: T4 là khối u cố định hoặc xâm lấn vào các cơ quan lân cận: cổ bàng quang, cơ thắt ngoài, trực tràng, cơ nâng hậu môn hoặc thành chậu. T3a xâm lấn ngoài vỏ bao, T3b xâm lấn túi tinh, T2c xâm lấn 2 thùy.",
+      "option_explanations": [
+        "Sai — xâm lấn ra ngoài vỏ bao 1 hoặc 2 bên là giai đoạn T3a.",
+        "Sai — xâm lấn vào túi tinh là giai đoạn T3b.",
+        "Sai — u xâm lấn cả hai thùy nhưng chưa vượt qua vỏ bao là giai đoạn T2c.",
+        "Đúng — theo barem Mục 4.1, u cố định hoặc xâm lấn vào cổ bàng quang, trực tràng, cơ thắt ngoài, thành chậu là T4."
+      ]
+    },
+    {
+      "id": "SURG58-A15",
+      "type": "concept",
+      "topic": "Phân loại TNM & Hướng di căn xương",
+      "subtopic": "Định nghĩa hạch bạch huyết vùng N1",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "SURG-58 §4.2",
+      "text": "Trong phẫu thuật cắt tuyến tiền liệt triệt căn và nạo vét hạch chậu, bác sĩ tiến hành lấy bỏ các nhóm hạch thuộc vùng dẫn lưu bạch huyết của tuyến tiền liệt (hạch N1). Nhóm hạch nào sau đây thuộc hạch bạch huyết vùng theo phân loại TNM trong barem?",
+      "options": [
+        "Nhóm hạch trung thất và hạch rốn phổi",
+        "Nhóm hạch sau phúc mạc quanh động mạch chủ",
+        "Nhóm hạch hố bịt và các hạch chậu trong hai bên",
+        "Nhóm hạch thượng đòn bên trái (hạch Virchow)"
+      ],
+      "correct": 2,
+      "explanation": "Theo barem Mục 4.2: Hạch bạch huyết vùng (N1) gồm: hạch hố bịt, hạch chậu trong, hạch chậu ngoài, hạch thành chậu. Di căn hạch ngoài vùng chậu (sau phúc mạc, trung thất, thượng đòn) là M1a.",
+      "option_explanations": [
+        "Sai — hạch trung thất là hạch ngoài vùng chậu, thuộc nhóm di căn xa M1a.",
+        "Sai — hạch sau phúc mạc là hạch ngoài vùng chậu, thuộc nhóm di căn xa M1a.",
+        "Đúng — theo barem Mục 4.2, hạch hố bịt và hạch chậu trong là hạch bạch huyết vùng (N1).",
+        "Sai — hạch thượng đòn trái là hạch ngoài vùng chậu, thuộc nhóm di căn xa M1a."
+      ]
+    },
+    {
+      "id": "SURG58-A16",
+      "type": "concept",
+      "topic": "Phân loại TNM & Hướng di căn xương",
+      "subtopic": "Phân loại di căn xa M1a, M1b, M1c",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-58 §4.3",
+      "text": "Bệnh nhân nam 69 tuổi được chẩn đoán ung thư tuyến tiền liệt. Kết quả xạ hình xương toàn thân ghi nhận nhiều ổ tổn thương thể tạo xương (osteoblastic) rải rác tại cột sống và xương chậu. Giai đoạn di căn xa của bệnh nhân này theo hệ thống TNM trong barem là gì?",
+      "options": [
+        "Giai đoạn di căn hạch vùng (N1)",
+        "Giai đoạn di căn vào xương (M1b)",
+        "Giai đoạn di căn hạch ngoài chậu (M1a)",
+        "Giai đoạn di căn vào các tạng khác (M1c)"
+      ],
+      "correct": 1,
+      "explanation": "Theo barem Mục 4.3: M1a là di căn hạch ngoài vùng chậu; M1b là di căn vào xương (đặc biệt là di căn thể tạo xương); M1c là di căn vào các tạng khác.",
+      "option_explanations": [
+        "Sai — N1 là di căn hạch bạch huyết vùng chậu (hố bịt, chậu trong, chậu ngoài, thành chậu).",
+        "Đúng — theo barem Mục 4.3, M1b là di căn vào xương (đặc biệt là thể tạo xương - osteoblastic).",
+        "Sai — M1a là di căn hạch ngoài vùng chậu (sau phúc mạc, trung thất, thượng đòn).",
+        "Sai — M1c là di căn vào các tạng khác như phổi, gan, não, tuyến thượng thận."
+      ]
+    },
+    {
+      "id": "SURG58-A17",
+      "type": "concept",
+      "topic": "Phân loại TNM & Hướng di căn xương",
+      "subtopic": "Đám rối tĩnh mạch Batson và cơ chế di căn xương",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-58 §4.3",
+      "text": "Trong cơ chế di căn xa của ung thư tuyến tiền liệt, các tế bào ung thư có khả năng di chuyển trực tiếp lên các thân đốt sống và khung chậu mà không qua vòng tuần hoàn phổi nhờ đi qua một cấu trúc tĩnh mạch đặc biệt không có van. Đám rối tĩnh mạch đó có tên gọi là gì?",
+      "options": [
+        "Đám rối tĩnh mạch Santorini",
+        "Đám rối tĩnh mạch trực tràng",
+        "Đám rối tĩnh mạch bàng quang",
+        "Đám rối tĩnh mạch Batson"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Mục 4.3: Tế bào ung thư theo đám rối tĩnh mạch Batson không có van di căn trực tiếp vào xương.",
+      "option_explanations": [
+        "Sai — đám rối Santorini nằm ở mặt trước tuyến tiền liệt, không phải mạng lưới tĩnh mạch không van dẫn máu vào xương đốt sống.",
+        "Sai — đám rối tĩnh mạch trực tràng dẫn máu về hệ cửa và hệ chủ, không phải cấu trúc dẫn truyền trực tiếp vào cột sống không van.",
+        "Sai — đám rối tĩnh mạch bàng quang dẫn lưu máu từ bàng quang, có hệ thống dẫn máu thông thường.",
+        "Đúng — barem Mục 4.3 nêu rõ: tế bào ung thư theo đám rối tĩnh mạch Batson không có van di căn trực tiếp vào xương."
+      ]
+    },
+    {
+      "id": "SURG58-A18",
+      "type": "concept",
+      "topic": "Phân loại TNM & Hướng di căn xương",
+      "subtopic": "Thứ tự các vị trí xương bị di căn",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "SURG-58 §4.3",
+      "text": "Bệnh nhân nam 70 tuổi mắc ung thư tuyến tiền liệt tiến triển phàn nàn về triệu chứng đau nhức xương dai dẳng tăng nhiều về đêm. Theo thứ tự các vị trí xương bị di căn điển hình trong barem, vị trí xương nào có tần suất bị tế bào ung thư di căn đến sớm nhất (vị trí số 1)?",
+      "options": [
+        "Thân hai xương đùi",
+        "Khung xương chậu",
+        "Cột sống thắt lưng",
+        "Cột sống đoạn ngực"
+      ],
+      "correct": 2,
+      "explanation": "Theo barem Mục 4.3, thứ tự các xương bị di căn: 1. Cột sống thắt lưng -> 2. Xương chậu -> 3. Xương đùi -> 4. Cột sống ngực -> 5. Xương sườn, xương ức -> 6. Xương sọ, xương cánh tay.",
+      "option_explanations": [
+        "Sai — xương đùi đứng hàng thứ 3 sau cột sống thắt lưng và xương chậu.",
+        "Sai — xương chậu đứng hàng thứ 2 sau cột sống thắt lưng.",
+        "Đúng — theo barem Mục 4.3, cột sống thắt lưng đứng hàng thứ 1 trong danh sách xương bị di căn.",
+        "Sai — cột sống ngực đứng hàng thứ 4."
+      ]
+    },
+    {
+      "id": "SURG58-A19",
+      "type": "concept",
+      "topic": "Phân loại TNM & Hướng di căn xương",
+      "subtopic": "Thứ tự các vị trí xương bị di căn muộn",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "SURG-58 §4.3",
+      "text": "Theo barem Mục 4.3 về tiến triển tự nhiên của ung thư tuyến tiền liệt, tế bào ung thư di căn vào hệ xương theo một trình tự điển hình gồm 6 vị trí. Dãy thứ tự nào sau đây phản ánh chính xác từ vị trí sớm nhất đến vị trí muộn nhất?",
+      "options": [
+        "Cột sống thắt lưng -> Cột sống ngực -> Xương chậu -> Xương đùi -> Xương sọ/cánh tay -> Xương sườn/ức",
+        "Xương chậu -> Cột sống thắt lưng -> Xương đùi -> Cột sống ngực -> Xương sọ/cánh tay -> Xương sườn/ức",
+        "Cột sống thắt lưng -> Xương chậu -> Xương đùi -> Cột sống ngực -> Xương sườn/ức -> Xương sọ/cánh tay",
+        "Xương đùi -> Cột sống thắt lưng -> Xương chậu -> Cột sống ngực -> Xương sườn/ức -> Xương sọ/cánh tay"
+      ],
+      "correct": 2,
+      "explanation": "Theo barem Mục 4.3: Thứ tự các xương bị di căn: 1. Cột sống thắt lưng -> 2. Xương chậu -> 3. Xương đùi -> 4. Cột sống ngực -> 5. Xương sườn, xương ức -> 6. Xương sọ, xương cánh tay.",
+      "option_explanations": [
+        "Sai — vị trí thứ 2 là xương chậu, sau đó mới đến xương đùi rồi cột sống ngực.",
+        "Sai — vị trí thứ 1 là cột sống thắt lưng chứ không phải xương chậu.",
+        "Đúng — theo barem Mục 4.3, thứ tự chuẩn là thắt lưng -> chậu -> đùi -> ngực -> sườn/ức -> sọ/cánh tay.",
+        "Sai — xương đùi đứng ở vị trí thứ 3, không phải vị trí ban đầu."
+      ]
+    },
+    {
+      "id": "SURG58-A20",
+      "type": "concept",
+      "topic": "Lâm sàng & Động học PSA",
+      "subtopic": "Triệu chứng cơ năng theo giai đoạn",
+      "bloom": "hiểu",
+      "difficulty": 1,
+      "source": "SURG-58 §5.1",
+      "text": "Một người đàn ông 58 tuổi đi khám sức khỏe tổng quát định kỳ, không có bất kỳ triệu chứng tiểu tiện bất thường nào. Xét nghiệm PSA máu tăng nhẹ (5,2 ng/ml) và sinh thiết phát hiện khối u nhỏ ở vùng ngoại vi tuyến tiền liệt. Đặc điểm lâm sàng cơ năng điển hình ở giai đoạn sớm này theo barem là gì?",
+      "options": [
+        "Luôn khởi phát bằng bí đái cấp tính đột ngột",
+        "Luôn xuất hiện hội chứng tắc nghẽn rầm rộ",
+        "Luôn có triệu chứng xuất tinh ra máu sớm",
+        "Hoàn toàn không có triệu chứng cơ năng"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Mục 5.1: Giai đoạn sớm u khu trú ở vùng ngoại vi thường hoàn toàn không có triệu chứng.",
+      "option_explanations": [
+        "Sai — bí đái cấp là biến chứng khi u to hoặc chèn ép nặng đường ra bàng quang.",
+        "Sai — hội chứng tắc nghẽn chỉ xuất hiện khi khối u phát triển to chèn ép niệu đạo.",
+        "Sai — xuất tinh ra máu (hemospermia) là dấu hiệu nặng khi u đã lan rộng hoặc xâm lấn túi tinh.",
+        "Đúng — theo barem Mục 5.1, u ở vùng ngoại vi giai đoạn sớm thường hoàn toàn không có triệu chứng."
+      ]
+    },
+    {
+      "id": "SURG58-A21",
+      "type": "concept",
+      "topic": "Lâm sàng & Động học PSA",
+      "subtopic": "Phân loại hội chứng tắc nghẽn và hội chứng kích thích",
+      "bloom": "phân tích",
+      "difficulty": 2,
+      "source": "SURG-58 §5.1",
+      "text": "Bệnh nhân nam 66 tuổi đến khám vì các rối loạn tiểu tiện xuất hiện 4 tháng nay. Khám lâm sàng phân loại các dấu hiệu thành hội chứng kích thích và hội chứng tắc nghẽn đường tiểu dưới. Dấu hiệu nào sau đây thuộc nhóm hội chứng tắc nghẽn theo barem?",
+      "options": [
+        "Tiểu đêm nhiều lần (nocturia)",
+        "Tiểu buốt và tiểu gấp liên tục",
+        "Đái ra máu đại thể toàn bãi",
+        "Tia tiểu yếu, đứt quãng, phải rặn"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Mục 5.1: Hội chứng tắc nghẽn gồm: tiểu khó, phải rặn, tia tiểu yếu đứt quãng, tiểu són, cảm giác đi tiểu không hết bãi, bí đái cấp tính. Tiểu đêm, tiểu buốt, tiểu gấp thuộc hội chứng kích thích. Đái máu là dấu hiệu nặng.",
+      "option_explanations": [
+        "Sai — tiểu đêm nhiều lần (nocturia) thuộc hội chứng kích thích đường tiểu dưới.",
+        "Sai — tiểu buốt và tiểu gấp thuộc hội chứng kích thích đường tiểu dưới.",
+        "Sai — đái ra máu đại thể là dấu hiệu nặng của bệnh tiến triển, không phải triệu chứng thuần túy của hội chứng tắc nghẽn.",
+        "Đúng — theo barem Mục 5.1, tia tiểu yếu đứt quãng (cùng với tiểu khó, phải rặn, tiểu són) thuộc hội chứng tắc nghẽn."
+      ]
+    },
+    {
+      "id": "SURG58-A22",
+      "type": "concept",
+      "topic": "Lâm sàng & Động học PSA",
+      "subtopic": "Thăm trực tràng bằng tay (DRE)",
+      "bloom": "đánh giá",
+      "difficulty": 2,
+      "source": "SURG-58 §5.2",
+      "text": "Bác sĩ thực hiện thăm trực tràng bằng tay (DRE) cho một nam bệnh nhân 74 tuổi nghi ngờ ung thư tuyến tiền liệt. Hình ảnh sờ thấy một nhân cứng chắc đơn độc nằm trên nền mô tuyến mềm mại (thường ở thùy sau hoặc vùng ngoại vi) có ý nghĩa lâm sàng gì theo barem?",
+      "options": [
+        "Biểu hiện bình thường ở người cao tuổi",
+        "Biểu hiện điển hình của viêm cấp tính",
+        "Biểu hiện của ung thư ở giai đoạn muộn",
+        "Biểu hiện của ung thư ở giai đoạn sớm"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Mục 5.2: Ở giai đoạn sớm, DRE có thể phát hiện một nhân cứng chắc, ranh giới rõ nằm trên nền mô tuyến mềm mại (thường ở thùy sau hoặc vùng ngoại vi). Ở giai đoạn muộn, toàn bộ tuyến to, gồ ghề, mất rãnh giữa, rắn chắc như đá.",
+      "option_explanations": [
+        "Sai — người bình thường tuyến tiền liệt mềm mại, không có nhân cứng chắc.",
+        "Sai — viêm cấp tính tuyến tiền liệt thường to, căng, rất đau tức khi chạm vào.",
+        "Sai — giai đoạn muộn DRE sờ thấy toàn bộ tuyến to, gồ ghề, mất rãnh giữa, rắn chắc như đá, mất di động.",
+        "Đúng — theo barem Mục 5.2, nhân cứng chắc trên nền mô tuyến mềm mại ở thùy sau/vùng ngoại vi là hình ảnh ung thư giai đoạn sớm."
+      ]
+    },
+    {
+      "id": "SURG58-B01",
+      "type": "concept",
+      "topic": "Lâm sàng & Động học PSA",
+      "subtopic": "Các dạng PSA trong máu và tỷ lệ",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-58 §6.1",
+      "text": "Bệnh nhân nam 66 tuổi được chẩn đoán ung thư tuyến tiền liệt. Khi phân tích các phân đoạn kháng nguyên đặc hiệu tuyến tiền liệt trong huyết thanh, dạng nào chiếm tỷ lệ ưu thế từ 60% đến 90% nồng độ toàn phần?\nPhân đoạn chiếm tỷ lệ ưu thế này là gì?",
+      "options": [
+        "PSA tự do (fPSA)",
+        "PSA phức hợp (cPSA)",
+        "Phosphatase acid (PAP)",
+        "Phosphatase kiềm (ALP)"
+      ],
+      "correct": 1,
+      "explanation": "Theo barem, cPSA (Complexed PSA gắn với protein ức chế protease) chiếm 60 - 90% PSA trong ung thư. fPSA chiếm 10 - 40% ở người bình thường. PAP và ALP là các xét nghiệm enzym huyết thanh khác.",
+      "option_explanations": [
+        "Sai — fPSA không gắn protein chiếm 10 - 40% ở người bình thường và giảm thấp trong ung thư.",
+        "Đúng — cPSA gắn protein ức chế protease chiếm 60 - 90% tổng lượng PSA ở bệnh nhân ung thư.",
+        "Sai — PAP là men phosphatase acid tuyến tiền liệt cổ điển, không phải phân đoạn của PSA.",
+        "Sai — ALP là men phosphatase kiềm tăng khi có di căn xương tạo xương."
+      ]
+    },
+    {
+      "id": "SURG58-B02",
+      "type": "concept",
+      "topic": "Lâm sàng & Động học PSA",
+      "subtopic": "Ngưỡng tPSA sinh lý theo lứa tuổi",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-58 §6.1",
+      "text": "Một người đàn ông 55 tuổi đến khám kiểm tra sức khỏe tổng quát định kỳ. Theo barem quy định nồng độ PSA toàn phần (tPSA) sinh lý theo lứa tuổi, giới hạn trên bình thường đối với nhóm tuổi 50 đến 59 là bao nhiêu?\nGiới hạn nồng độ tPSA bình thường cho nhóm tuổi này là bao nhiêu?",
+      "options": [
+        "Nồng độ tPSA <= 3,0 ng/ml",
+        "Nồng độ tPSA <= 2,5 ng/ml",
+        "Nồng độ tPSA <= 4,0 ng/ml",
+        "Nồng độ tPSA <= 5,0 ng/ml"
+      ],
+      "correct": 0,
+      "explanation": "Theo barem: 40 - 49 tuổi <= 2,5 ng/ml; 50 - 59 tuổi <= 3,0 ng/ml; 60 - 69 tuổi <= 4,0 ng/ml; 70 - 79 tuổi <= 5,0 ng/ml.",
+      "option_explanations": [
+        "Đúng — Giới hạn nồng độ tPSA bình thường ở nhóm tuổi 50 - 59 là <= 3,0 ng/ml.",
+        "Sai — Mức <= 2,5 ng/ml là giới hạn bình thường cho nhóm 40 - 49 tuổi.",
+        "Sai — Mức <= 4,0 ng/ml là giới hạn bình thường cho nhóm 60 - 69 tuổi.",
+        "Sai — Mức <= 5,0 ng/ml là giới hạn bình thường cho nhóm 70 - 79 tuổi."
+      ]
+    },
+    {
+      "id": "SURG58-B03",
+      "type": "vignette",
+      "topic": "Lâm sàng & Động học PSA",
+      "subtopic": "Vùng xám PSA và tỷ lệ fPSA/tPSA",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-58 §6.1",
+      "text": "Bệnh nhân nam 62 tuổi đi khám kiểm tra sức khỏe, thăm trực tràng (DRE) thấy tuyến tiền liệt to đều mềm mại. Xét nghiệm nồng độ PSA toàn phần là 6,8 ng/ml (vùng xám 4 - 10 ng/ml) và tỷ lệ fPSA/tPSA đạt 11%. Bước can thiệp lâm sàng tiếp theo phù hợp nhất là gì?\nChỉ định xử trí phù hợp nhất tiếp theo là gì?",
+      "options": [
+        "Thực hiện bấm kim lấy mẫu mô",
+        "Điều trị kháng sinh theo kinh nghiệm",
+        "Theo dõi tích cực (Active Surveillance)",
+        "Cắt hai tinh hoàn ngoại khoa cấp"
+      ],
+      "correct": 0,
+      "explanation": "Trong vùng xám 4 - 10 ng/ml, nếu fPSA/tPSA < 15% (ở đây là 11%) thì nguy cơ ung thư rất cao, cần chỉ định sinh thiết tuyến tiền liệt ngay.",
+      "option_explanations": [
+        "Đúng — Với PSA trong vùng xám 4 - 10 ng/ml và tỷ lệ f/tPSA < 15%, nguy cơ ung thư rất cao, cần chỉ định sinh thiết tuyến tiền liệt ngay.",
+        "Sai — Bệnh nhân không có hội chứng nhiễm khuẩn đường tiểu để dùng kháng sinh theo dõi.",
+        "Sai — Active Surveillance chỉ áp dụng khi đã có chẩn đoán xác định ung thư nguy cơ thấp (T1-T2, u < 0,5 cm3, Gleason 2-6).",
+        "Sai — Cắt hai tinh hoàn là phác đồ ADT khi u tiến triển/di căn, không dùng khi chưa có chẩn đoán mô học."
+      ]
+    },
+    {
+      "id": "SURG58-B04",
+      "type": "calc",
+      "topic": "Lâm sàng & Động học PSA",
+      "subtopic": "Tỷ trọng PSA (PSAD)",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-58 §6.1",
+      "text": "Bệnh nhân nam 65 tuổi có nồng độ tPSA huyết thanh là 7,2 ng/ml, thể tích tuyến tiền liệt đo trên siêu âm là 30 cm³. Bác sĩ tính chỉ số tỷ trọng PSA (PSAD = tPSA / thể tích tuyến). Giá trị PSAD của bệnh nhân là bao nhiêu và ngưỡng cảnh báo nguy cơ cao cần sinh thiết theo barem là gì?\nChỉ số PSAD của bệnh nhân và ngưỡng chỉ định sinh thiết là bao nhiêu?",
+      "options": [
+        "PSAD = 0,12 ng/ml/cm³ (ngưỡng sinh thiết > 0,10)",
+        "PSAD = 0,57 ng/ml/cm³ (ngưỡng sinh thiết > 0,75)",
+        "PSAD = 0,42 ng/ml/cm³ (ngưỡng sinh thiết > 0,25)",
+        "PSAD = 0,24 ng/ml/cm³ (ngưỡng sinh thiết > 0,15)"
+      ],
+      "correct": 3,
+      "explanation": "PSAD = 7,2 / 30 = 0,24 ng/ml/cm³. Theo barem, bình thường PSAD < 0,15 ng/ml/cm³, nếu PSAD > 0,15 ng/ml/cm³ cần sinh thiết tuyến tiền liệt.",
+      "option_explanations": [
+        "Sai — 0,12 là tính sai giá trị; ngưỡng 0,10 không phải mốc barem.",
+        "Sai — 0,572 ng/ml/cm³ là giá trị trung bình ở bệnh nhân ung thư; 0,75 là mốc của tốc độ tăng PSAV.",
+        "Sai — 0,42 ng/ml/cm³ là sai kết quả tính toán; ngưỡng 0,25 không đúng chuẩn barem.",
+        "Đúng — PSAD = 7,2 / 30 = 0,24 ng/ml/cm³; theo barem nếu PSAD > 0,15 ng/ml/cm³ thì cần chỉ định sinh thiết tuyến tiền liệt."
+      ]
+    },
+    {
+      "id": "SURG58-B05",
+      "type": "concept",
+      "topic": "Lâm sàng & Động học PSA",
+      "subtopic": "Tốc độ gia tăng PSA (PSAV)",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-58 §6.1",
+      "text": "Một người đàn ông 64 tuổi có nồng độ PSA máu tăng dần được theo dõi qua 3 lần xét nghiệm trong khoảng thời gian từ 18 đến 24 tháng. Theo barem, tốc độ gia tăng nồng độ PSA (PSAV - PSA Velocity) vượt quá ngưỡng nào sau đây thì cảnh báo nguy cơ ung thư cao?\nNgưỡng PSAV cảnh báo nguy cơ ung thư cao là bao nhiêu?",
+      "options": [
+        "Tốc độ PSAV > 1,50 ng/ml/năm",
+        "Tốc độ PSAV > 0,50 ng/ml/năm",
+        "Tốc độ PSAV > 0,25 ng/ml/năm",
+        "Tốc độ PSAV > 0,75 ng/ml/năm"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem: Đánh giá tốc độ gia tăng PSA qua 3 lần thử trong 18 - 24 tháng; nếu PSAV > 0,75 ng/ml/năm thì nguy cơ ung thư cao.",
+      "option_explanations": [
+        "Sai — Mức 1,50 ng/ml/năm là mức tăng rất cao, nhưng mốc tiêu chuẩn cảnh báo là > 0,75 ng/ml/năm.",
+        "Sai — Mức 0,50 ng/ml/năm chưa đạt ngưỡng cảnh báo chuẩn theo barem.",
+        "Sai — Mức 0,25 ng/ml/năm là mức tăng thường gặp trong diễn tiến lành tính.",
+        "Đúng — Theo barem, nếu tốc độ gia tăng PSA (PSAV) > 0,75 ng/ml/năm qua 3 lần thử trong 18 - 24 tháng thì nguy cơ ung thư cao."
+      ]
+    },
+    {
+      "id": "SURG58-B06",
+      "type": "concept",
+      "topic": "Lâm sàng & Động học PSA",
+      "subtopic": "Mốc nồng độ tPSA và nguy cơ xâm lấn di căn",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-58 §6.1",
+      "text": "Bệnh nhân nam 67 tuổi đi khám có nồng độ tPSA huyết thanh là 15 ng/ml, thăm trực tràng (DRE) chưa sờ thấy rõ nhân cứng. Theo barem, nồng độ tPSA > 10 ng/ml có tỷ lệ ung thư khoảng 50% và đòi hỏi thái độ xử trí nào?\nThái độ xử trí cho tình huống này là gì?",
+      "options": [
+        "Hẹn khám kiểm tra lại sau 1 năm",
+        "Theo dõi tích cực (Active Surveillance)",
+        "Bắt buộc chỉ định sinh thiết tuyến tiền liệt",
+        "Chỉ định xạ trị ngoài phòng ngừa"
+      ],
+      "correct": 2,
+      "explanation": "Theo barem: PSA > 10 ng/ml có khoảng 50% là ung thư, bắt buộc chỉ định sinh thiết tuyến tiền liệt bất kể kết quả thăm trực tràng ra sao.",
+      "option_explanations": [
+        "Sai — Trì hoãn 1 năm sẽ làm mất thời điểm phát hiện bệnh ở giai đoạn khu trú.",
+        "Sai — Active Surveillance chỉ đặt ra khi đã có kết quả sinh thiết xác định khối u nhỏ nguy cơ thấp.",
+        "Đúng — Barem nêu rõ: PSA > 10 ng/ml có khoảng 50% là ung thư, bắt buộc chỉ định sinh thiết tuyến tiền liệt bất kể kết quả DRE.",
+        "Sai — Xạ trị chỉ thực hiện khi có chẩn đoán mô bệnh học khẳng định ung thư."
+      ]
+    },
+    {
+      "id": "SURG58-B07",
+      "type": "concept",
+      "topic": "Cận lâm sàng & Chẩn đoán phân biệt",
+      "subtopic": "Men máu phosphatase kiềm và PAP",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-58 §6.2",
+      "text": "Bệnh nhân nam 70 tuổi bị ung thư tuyến tiền liệt có đau nhức cột sống thắt lưng về đêm. Xét nghiệm men máu thấy phosphatase kiềm (Alkaline Phosphatase - ALP) tăng cao rõ rệt. Xét nghiệm men ALP tăng cao phản ánh tình trạng tổn thương nào sau đây?\nTình trạng tổn thương phản ánh qua xét nghiệm này là gì?",
+      "options": [
+        "Phản ứng viêm tuyến tiền liệt cấp",
+        "Hoại tử niêm mạc bàng quang",
+        "Tổn thương suy tế bào gan cấp",
+        "Di căn xương thể tạo xương"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem: Phosphatase kiềm (ALP) tăng cao trong máu khi khối u đã di căn vào xương gây phản ứng tạo xương (osteoblastic).",
+      "option_explanations": [
+        "Sai — Viêm tuyến tiền liệt cấp làm tăng bạch cầu và CRP huyết thanh, không tăng ALP đặc hiệu.",
+        "Sai — Hoại tử niêm mạc bàng quang biểu hiện bằng đái máu, không đặc hiệu cho tăng men ALP.",
+        "Sai — Suy tế bào gan cấp làm tăng men transaminase (AST/ALT) và giảm prothrombin, không liên quan di căn tạo xương của ung thư tuyến tiền liệt.",
+        "Đúng — Theo barem, Phosphatase kiềm (ALP) tăng cao trong máu khi khối u đã di căn vào xương gây phản ứng tạo xương."
+      ]
+    },
+    {
+      "id": "SURG58-B08",
+      "type": "concept",
+      "topic": "Cận lâm sàng & Chẩn đoán phân biệt",
+      "subtopic": "Kỹ thuật sinh thiết tuyến tiền liệt dưới TRUS",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-58 §6.3",
+      "text": "Trong quy trình chẩn đoán xác định ung thư tuyến tiền liệt, phương pháp sinh thiết hệ thống kim dưới hướng dẫn siêu âm qua trực tràng (TRUS) theo khuyến cáo cần lấy tối thiểu bao nhiêu vị trí mẫu mô từ đáy, giữa đến đỉnh tuyến?\nSố lượng mẫu mô sinh thiết tối thiểu được khuyến cáo là bao nhiêu?",
+      "options": [
+        "Bấm 2 đến 4 vị trí mẫu mô",
+        "Bấm 20 đến 24 vị trí mẫu mô",
+        "Bấm 14 đến 18 vị trí mẫu mô",
+        "Bấm 6 đến 12 vị trí mẫu mô"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem: Kỹ thuật bấm kim sinh thiết hệ thống ít nhất 6 - 12 vị trí (mỗi thùy 3 - 6 mẫu) từ đáy, giữa đến đỉnh tuyến tiền liệt, tập trung vào vùng ngoại vi nghi ngờ.",
+      "option_explanations": [
+        "Sai — 2 đến 4 mẫu mô là quá ít, tỷ lệ âm tính giả rất cao.",
+        "Sai — 20 đến 24 mẫu mô là kỹ thuật sinh thiết bão hòa (saturation biopsy), không phải mốc tối thiểu ban đầu.",
+        "Sai — 14 đến 18 mẫu mô là số lượng mở rộng ở một số trung tâm sinh thiết lại lần 2, không phải số lượng tối thiểu cơ bản theo barem.",
+        "Đúng — Barem nêu rõ: Kỹ thuật sinh thiết hệ thống lấy ít nhất 6 - 12 vị trí (mỗi thùy 3 - 6 mẫu)."
+      ]
+    },
+    {
+      "id": "SURG58-B09",
+      "type": "concept",
+      "topic": "Cận lâm sàng & Chẩn đoán phân biệt",
+      "subtopic": "Hình ảnh ung thư trên TRUS và mpMRI",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-58 §6.4",
+      "text": "Bệnh nhân nam 63 tuổi nghi ngờ ung thư tuyến tiền liệt được chỉ định siêu âm qua trực tràng (TRUS) và chụp cộng hưởng từ đa thông số (mpMRI). Đặc điểm hình ảnh điển hình của khối u trên TRUS và thang điểm mpMRI nghi ngờ ác tính cao là gì?\nĐặc điểm hình ảnh tổn thương điển hình là gì?",
+      "options": [
+        "Vùng tăng âm và PI-RADS 1-2",
+        "Vùng giảm âm và PI-RADS 4-5",
+        "Bóng cản âm và PI-RADS 1-2",
+        "Vùng đồng âm và PI-RADS 2-3"
+      ],
+      "correct": 1,
+      "explanation": "Theo barem: Trên TRUS khối u biểu hiện bằng vùng giảm âm ở vùng ngoại vi (chiếm 70%); trên mpMRI tổn thương nghi ngờ ác tính cao được xếp loại PI-RADS 4 - 5.",
+      "option_explanations": [
+        "Sai — Vùng chuyển tiếp tăng âm và PI-RADS 1-2 là biểu hiện của mô tuyến phì đại lành tính.",
+        "Đúng — Theo barem: TRUS thấy vùng giảm âm ở vùng ngoại vi (chiếm 70%) và mpMRI xếp PI-RADS 4-5 nghi ngờ ác tính cao.",
+        "Sai — Bóng cản âm kèm bóng lưng là hình ảnh của sỏi vôi hóa tuyến tiền liệt.",
+        "Sai — Vùng đồng âm và PI-RADS 2-3 biểu thị tổn thương nguy cơ ác tính thấp hoặc không rõ ràng."
+      ]
+    },
+    {
+      "id": "SURG58-B10",
+      "type": "concept",
+      "topic": "Cận lâm sàng & Chẩn đoán phân biệt",
+      "subtopic": "Xạ hình xương và PET-CT",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-58 §6.4",
+      "text": "Bệnh nhân nam 71 tuổi bị ung thư tuyến tiền liệt giai đoạn tiến triển, có nồng độ PSA > 20 ng/ml và đau nhức vùng chậu. Để phát hiện sớm các ổ di căn xương thể tạo xương (osteoblastic), phương pháp chẩn đoán hình ảnh chuyên biệt được chỉ định là gì?\nPhương pháp chẩn đoán hình ảnh chuyên biệt được chỉ định là gì?",
+      "options": [
+        "Xạ hình xương sử dụng Technetium-99m",
+        "Chụp X-quang khung chậu thẳng",
+        "Siêu âm Doppler màu hệ tiết niệu",
+        "Chụp niệu đồ tĩnh mạch đường tiểu (UIV)"
+      ],
+      "correct": 0,
+      "explanation": "Theo barem: Xạ hình xương toàn thân (Bone Scintigraphy) dùng Technetium-99m để phát hiện sớm các ổ di căn xương thể tạo xương.",
+      "option_explanations": [
+        "Đúng — Theo barem, xạ hình xương toàn thân dùng Technetium-99m phát hiện sớm các ổ di căn xương thể tạo xương.",
+        "Sai — X-quang quy ước chỉ phát hiện khi tổn thương mất khoáng lớn, độ nhạy kém hơn xạ hình xương.",
+        "Sai — Siêu âm Doppler không đánh giá được các tổn thương cấu trúc xương sâu.",
+        "Sai — UIV dùng đánh giá hình thái và chức năng bài xuất đài bể thận niệu quản, không khảo sát di căn xương."
+      ]
+    },
+    {
+      "id": "SURG58-B11",
+      "type": "vignette",
+      "topic": "Cận lâm sàng & Chẩn đoán phân biệt",
+      "subtopic": "Chẩn đoán phân biệt với sỏi tuyến tiền liệt",
+      "bloom": "phân tích",
+      "difficulty": 2,
+      "source": "SURG-58 §7",
+      "text": "Bệnh nhân nam 68 tuổi đi khám vì tiểu khó. Thăm trực tràng sờ thấy một vị trí cứng chắc ở tuyến tiền liệt nghi ngờ ác tính. Tuy nhiên, kết quả siêu âm qua trực tràng phát hiện tổn thương tăng âm kèm bóng lưng rõ rệt phía sau. Chẩn đoán phù hợp nhất với đặc điểm hình ảnh siêu âm này là gì?\nChẩn đoán phù hợp nhất với hình ảnh siêu âm này là gì?",
+      "options": [
+        "Ung thư tuyến tiền liệt giai đoạn sớm",
+        "Tăng sản lành tính tuyến tiền liệt (BPH)",
+        "Sỏi vôi hóa tuyến tiền liệt",
+        "Ổ áp xe tuyến tiền liệt hoại tử"
+      ],
+      "correct": 2,
+      "explanation": "Theo barem mục Chẩn đoán phân biệt: Sỏi tuyến tiền liệt trên siêu âm thấy bóng cản âm kèm bóng lưng rõ rệt (có thể sờ thấy cứng trên DRE gây nhầm lẫn).",
+      "option_explanations": [
+        "Sai — Ung thư trên TRUS biểu hiện điển hình là vùng giảm âm ngoại vi, không có bóng lưng.",
+        "Sai — BPH biểu hiện nốt phì đại vùng chuyển tiếp, rãnh giữa còn, không có bóng lưng vôi hóa.",
+        "Đúng — Theo barem, sỏi tuyến tiền liệt có hình ảnh siêu âm điển hình là bóng cản âm kèm bóng lưng rõ rệt.",
+        "Sai — Áp xe biểu hiện ổ trống âm hoặc dịch hóa thành dày không đều, bệnh cảnh sốt nhiễm trùng rầm rộ."
+      ]
+    },
+    {
+      "id": "SURG58-B12",
+      "type": "vignette",
+      "topic": "Cận lâm sàng & Chẩn đoán phân biệt",
+      "subtopic": "Chẩn đoán phân biệt với viêm tuyến tiền liệt",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-58 §7",
+      "text": "Bệnh nhân nam 54 tuổi nhập viện vì sốt cao, tiểu buốt rát dữ dội, nước tiểu đục nhiều bạch cầu. Khám thấy tuyến tiền liệt sưng to và đau tức dữ dội khi chạm vào. Xét nghiệm PSA máu tăng 8,5 ng/ml. Thái độ xử trí và theo dõi nồng độ PSA thích hợp nhất cho bệnh nhân này là gì?\nThái độ xử trí thích hợp nhất tiếp theo là gì?",
+      "options": [
+        "Bấm kim sinh thiết TRUS ngay",
+        "Điều trị kháng sinh rồi thử lại PSA",
+        "Cắt tuyến tiền liệt triệt căn",
+        "Hóa trị phác đồ Docetaxel"
+      ],
+      "correct": 1,
+      "explanation": "Theo barem mục Chẩn đoán phân biệt: Viêm tuyến tiền liệt cấp/mạn có tuyến đau tức nóng sốt, bạch cầu niệu cao, PSA có thể tăng thoáng qua và trở về bình thường sau khi điều trị kháng sinh ổn định.",
+      "option_explanations": [
+        "Sai — Sinh thiết khi đang viêm cấp tính có nguy cơ gây nhiễm khuẩn huyết nặng.",
+        "Đúng — Điều trị kháng sinh giải quyết đợt viêm cấp, sau đó định lượng lại PSA huyết thanh.",
+        "Sai — Cắt triệt căn chỉ áp dụng khi đã có chẩn đoán mô học ung thư khu trú T1-T2.",
+        "Sai — Docetaxel là thuốc hóa chất dành cho ung thư kháng cắt tinh hoàn (CRPC)."
+      ]
+    },
+    {
+      "id": "SURG58-B13",
+      "type": "concept",
+      "topic": "Điều trị (Khu trú, Nội tiết ADT, CRPC, Cấp cứu) & Tầm soát",
+      "subtopic": "Theo dõi tích cực (Active Surveillance)",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-58 §8.2",
+      "text": "Bệnh nhân nam 74 tuổi, tiền sử bệnh mạch vành, được phát hiện ung thư tuyến tiền liệt có thể tích khối u nhỏ (< 0,5 cm³), điểm Gleason là 5 (3+2), nồng độ tPSA là 5,2 ng/ml. Chiến lược quản lý bệnh tối ưu được barem khuyến cáo cho bệnh nhân này là gì?\nChiến lược điều trị tối ưu được khuyến cáo là gì?",
+      "options": [
+        "Phẫu thuật cắt tuyến tiền liệt triệt căn",
+        "Theo dõi tích cực và chờ đợi (Active Surveillance)",
+        "Hóa trị phác đồ Docetaxel + Prednisone",
+        "Cắt hai tinh hoàn ngoại khoa cấp"
+      ],
+      "correct": 1,
+      "explanation": "Theo barem: Theo dõi tích cực (Active Surveillance) chỉ định cho bệnh nhân cao tuổi (> 70 tuổi) hoặc có bệnh nội khoa nặng, u thể tích nhỏ (< 0,5 cm³), Gleason thấp (2 - 6), PSA < 10 ng/ml. Theo dõi định kỳ PSA mỗi 3 - 6 tháng.",
+      "option_explanations": [
+        "Sai — Phẫu thuật triệt căn ưu tiên cho bệnh nhân còn trẻ, kỳ vọng sống trên 10 năm.",
+        "Đúng — Theo barem: Bệnh nhân > 70 tuổi có bệnh nội khoa nặng, u < 0,5 cm³, Gleason <= 6, PSA < 10 ng/ml chỉ định Theo dõi tích cực.",
+        "Sai — Docetaxel dành cho ung thư giai đoạn kháng cắt tinh hoàn (CRPC).",
+        "Sai — Cắt tinh hoàn áp dụng cho bệnh nhân giai đoạn tiến triển tại chỗ hoặc di căn xa (M1)."
+      ]
+    },
+    {
+      "id": "SURG58-B14",
+      "type": "concept",
+      "topic": "Điều trị (Khu trú, Nội tiết ADT, CRPC, Cấp cứu) & Tầm soát",
+      "subtopic": "Phẫu thuật cắt tuyến tiền liệt triệt căn",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "SURG-58 §8.2",
+      "text": "Phẫu thuật cắt toàn bộ tuyến tiền liệt triệt căn (Radical Prostatectomy) kèm nạo vét hạch chậu hai bên ở bệnh nhân giai đoạn khu trú T1-T2, Gleason <= 7 mang lại tỷ lệ sống không bệnh sau 10 năm theo barem đạt khoảng bao nhiêu?\nTỷ lệ sống không bệnh sau 10 năm đạt khoảng bao nhiêu?",
+      "options": [
+        "Tỷ lệ sống không bệnh đạt 70% - 85%",
+        "Tỷ lệ sống không bệnh đạt 30% - 45%",
+        "Tỷ lệ sống không bệnh đạt 50% - 60%",
+        "Tỷ lệ sống không bệnh đạt 90% - 95%"
+      ],
+      "correct": 0,
+      "explanation": "Theo barem mục Phẫu thuật cắt toàn bộ tuyến tiền liệt triệt căn: Tỷ lệ sống không bệnh sau 10 năm đạt 70% - 85%. Biến chứng muộn thường gặp nhất là đái rỉ và rối loạn cương dương.",
+      "option_explanations": [
+        "Đúng — Theo barem, tỷ lệ sống không bệnh sau 10 năm sau mổ triệt căn đạt 70% - 85%.",
+        "Sai — 30% - 45% là tỷ lệ ở nhóm giai đoạn tiến triển hoặc u tái phát.",
+        "Sai — 50% - 60% thấp hơn kết quả điều trị triệt căn chuẩn.",
+        "Sai — 90% là tỷ lệ điều trị khỏi chung nếu phát hiện rất sớm u còn khu trú trong vỏ bao tuyến."
+      ]
+    },
+    {
+      "id": "SURG58-B15",
+      "type": "concept",
+      "topic": "Điều trị (Khu trú, Nội tiết ADT, CRPC, Cấp cứu) & Tầm soát",
+      "subtopic": "Xạ trị và phẫu thuật áp lạnh",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-58 §8.2",
+      "text": "Trong điều trị ung thư tuyến tiền liệt khu trú bằng xạ trị, liều xạ trị chiếu ngoài (EBRT) và hai loại đồng vị phóng xạ sử dụng trong cấy hạt vào lòng tuyến (Brachytherapy) được ghi nhận trong barem là gì?\nLiều EBRT và hạt phóng xạ cấy chuẩn xác là gì?",
+      "options": [
+        "EBRT liều 70 - 78 Gy; hạt phóng xạ Iod-125 và Palladium-103",
+        "EBRT liều 80 - 85 Gy; hạt phóng xạ Samarium-153 và Lutetium",
+        "EBRT liều 50 - 55 Gy; hạt phóng xạ Coban-60 và Strontium-89",
+        "EBRT liều 60 - 65 Gy; hạt phóng xạ Technetium-99m và Iridi"
+      ],
+      "correct": 0,
+      "explanation": "Theo barem: Xạ trị chiếu ngoài (EBRT) chiếu liều cao 70 - 78 Gy; Cấy hạt phóng xạ vào lòng tuyến (Brachytherapy) cấy các hạt Iod-125 hoặc Palladium-103.",
+      "option_explanations": [
+        "Đúng — Theo barem: EBRT chiếu liều 70 - 78 Gy; Brachytherapy cấy hạt Iod-125 hoặc Palladium-103.",
+        "Sai — Liều 80 - 85 Gy vượt quá ngưỡng an toàn; Samarium-153 chỉ dùng xạ giảm đau di căn xương.",
+        "Sai — Liều 50 - 55 Gy là quá thấp; Coban-60 và Strontium-89 không dùng cấy hạt tuyến tiền liệt.",
+        "Sai — Technetium-99m dùng ghi hình xạ hình xương, không dùng cấy xạ trị trong mô."
+      ]
+    },
+    {
+      "id": "SURG58-B16",
+      "type": "concept",
+      "topic": "Điều trị (Khu trú, Nội tiết ADT, CRPC, Cấp cứu) & Tầm soát",
+      "subtopic": "Liệu pháp cắt tinh hoàn ngoại khoa",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-58 §8.2",
+      "text": "Bệnh nhân nam 75 tuổi bị ung thư tuyến tiền liệt di căn xương chậu được chỉ định cắt bỏ hai tinh hoàn ngoại khoa (Bilateral Orchiectomy). Phương pháp này giúp hạ nồng độ Testosterone máu xuống mức thiến (< 50 ng/dL) sau khoảng thời gian bao lâu?\nThời gian hạ testosterone máu về mức thiến là bao lâu?",
+      "options": [
+        "Hạ Testosterone < 50 ng/dL sau 3 - 6 tháng",
+        "Hạ Testosterone < 50 ng/dL sau 2 - 3 tuần",
+        "Hạ Testosterone < 50 ng/dL sau 1 - 2 tháng",
+        "Hạ Testosterone < 50 ng/dL sau 24 giờ"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem: Cắt bỏ hai tinh hoàn ngoại khoa là phương pháp đơn giản, hiệu quả nhanh, làm hạ Testosterone máu xuống nồng độ thiến (< 50 ng/dL) sau 24 giờ.",
+      "option_explanations": [
+        "Sai — 3 - 6 tháng là thời gian đánh giá đáp ứng thoái lui khối u và xét nghiệm PSA theo dõi.",
+        "Sai — Khoảng 2 - 3 tuần là thời gian cần thiết khi dùng thuốc đồng vận LHRH (như Goserelin).",
+        "Sai — 1 - 2 tháng là khoảng thời gian thuốc tiêm phóng thích chậm đạt đỉnh ức chế tuyến yên ổn định.",
+        "Đúng — Phẫu thuật cắt 2 tinh hoàn ngoại khoa hạ Testosterone máu xuống mức thiến (< 50 ng/dL) nhanh chóng chỉ sau 24 giờ."
+      ]
+    },
+    {
+      "id": "SURG58-B17",
+      "type": "vignette",
+      "topic": "Điều trị (Khu trú, Nội tiết ADT, CRPC, Cấp cứu) & Tầm soát",
+      "subtopic": "Đồng vận LHRH và hiện tượng bùng phát flare-up",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-58 §8.2",
+      "text": "Bệnh nhân nam 71 tuổi bị ung thư tuyến tiền liệt di căn xương cột sống thắt lưng được chỉ định tiêm thuốc đồng vận LHRH (Goserelin). Để ngăn ngừa hiện tượng bùng phát triệu chứng nguy hiểm ban đầu (flare-up) do tăng tiết testosterone thoảng qua, biện pháp bắt buộc cần phối hợp là gì?\nBiện pháp bắt buộc cần phối hợp trong 2 đến 3 tuần đầu là gì?",
+      "options": [
+        "Phối hợp hóa trị Docetaxel + Prednisone",
+        "Uống thuốc kháng androgen che phủ (Bicalutamide)",
+        "Chỉ định xạ trị ngoài toàn thân liều cao",
+        "Cắt hai tinh hoàn ngoại khoa phối hợp"
+      ],
+      "correct": 1,
+      "explanation": "Theo barem: Thuốc đồng vận LHRH ban đầu gây tăng tiết Testosterone thoáng qua, do đó cần dùng thuốc kháng androgen (như Bicalutamide, Flutamide) che phủ phòng ngừa hiệu ứng bùng phát 'flare-up' trong 2 - 3 tuần đầu.",
+      "option_explanations": [
+        "Sai — Docetaxel + Prednisone là phác đồ cho ung thư giai đoạn kháng cắt tinh hoàn (CRPC), không dùng che flare-up.",
+        "Đúng — Theo barem, cần dùng thuốc kháng androgen (Bicalutamide, Flutamide) che phủ trong 2 - 3 tuần đầu để ngăn chặn đợt tăng tiết bùng phát.",
+        "Sai — Xạ trị ngoài chiếu tại chỗ u hoặc ổ di căn đau, không dùng xạ toàn thân để che phủ tác dụng phụ của hormone.",
+        "Sai — Cắt hai tinh hoàn ngoại khoa đã làm giảm testosterone trực tiếp sau 24h, không cần phối hợp đồng vận LHRH."
+      ]
+    },
+    {
+      "id": "SURG58-B18",
+      "type": "concept",
+      "topic": "Điều trị (Khu trú, Nội tiết ADT, CRPC, Cấp cứu) & Tầm soát",
+      "subtopic": "Hóa trị và thuốc thế hệ mới trong CRPC",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "SURG-58 §8.2",
+      "text": "Bệnh nhân nam 70 tuổi bị ung thư tuyến tiền liệt tiến triển sang giai đoạn kháng cắt tinh hoàn (CRPC). Phác đồ hóa chất kết hợp chuẩn và các thuốc nội tiết thế hệ mới được barem ghi nhận cho giai đoạn này là gì?\nPhác đồ hóa chất kết hợp và thuốc nội tiết thế hệ mới là gì?",
+      "options": [
+        "Cisplatin + Etoposide kết hợp Flutamide",
+        "5-Fluorouracil + Folinic acid kết hợp Goserelin",
+        "Docetaxel + Prednisone kết hợp Abiraterone",
+        "Doxorubicin + Cyclophosphamide kết hợp Bicalutamide"
+      ],
+      "correct": 2,
+      "explanation": "Theo barem mục Điều trị hóa chất và kháng cắt tinh hoàn (CRPC): Sử dụng hóa chất phác đồ phối hợp chứa Docetaxel kết hợp Prednisone (hoặc Cabazitaxel); các thuốc nội tiết thế hệ mới gồm Abiraterone acetate và Enzalutamide.",
+      "option_explanations": [
+        "Sai — Cisplatin + Etoposide dùng trong ung thư phổi tế bào nhỏ hoặc u thần kinh nội tiết.",
+        "Sai — 5-FU và Folinic acid là phác đồ điều trị ung thư biểu mô đại trực tràng.",
+        "Đúng — Theo barem: Giai đoạn CRPC dùng Docetaxel kết hợp Prednisone (hoặc Cabazitaxel) và các thuốc thế hệ mới Abiraterone hoặc Enzalutamide.",
+        "Sai — Doxorubicin + Cyclophosphamide là phác đồ điều trị ung thư tuyến vú."
+      ]
+    },
+    {
+      "id": "SURG58-B19",
+      "type": "vignette",
+      "topic": "Điều trị (Khu trú, Nội tiết ADT, CRPC, Cấp cứu) & Tầm soát",
+      "subtopic": "Xử trí biến chứng vô niệu chèn ép niệu quản",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-58 §8.2",
+      "text": "Bệnh nhân nam 73 tuổi bị ung thư tuyến tiền liệt tiến triển tại chỗ (T4N1M0) xâm lấn bàng quang đè bẹp hai niệu quản, dẫn đến vô niệu và suy thận cấp tắc nghẽn sau thận. Biện pháp can thiệp cấp cứu ưu tiên hàng đầu theo barem là gì?\nBiện pháp can thiệp cấp cứu ưu tiên hàng đầu là gì?",
+      "options": [
+        "Chạy thận nhân tạo chu kỳ và tiêm Furosemid",
+        "Đặt thông Double J hoặc mở thông thận qua da",
+        "Mổ mở cấp cứu cắt toàn bộ bàng quang",
+        "Truyền thuốc ức chế hủy xương Zoledronic acid"
+      ],
+      "correct": 1,
+      "explanation": "Theo barem mục Xử trí biến chứng cấp tính: Vô niệu / Suy thận do u xâm lấn đè bẹp hai niệu quản: Đặt ống thông niệu quản ngược dòng (sonde Double J) hoặc mở thông thận qua da tối thiểu dẫn lưu nước tiểu.",
+      "option_explanations": [
+        "Sai — Lợi tiểu Furosemid chống chỉ định khi đang tắc nghẽn cơ học hoàn toàn sau thận.",
+        "Đúng — Theo barem: Đặt thông niệu quản ngược dòng (sonde Double J) hoặc mở thông thận qua da tối thiểu dẫn lưu nước tiểu giải áp.",
+        "Sai — Mổ mở cắt bàng quang triệt căn trong tình trạng suy thận cấp có nguy cơ tử vong chu phẫu rất cao.",
+        "Sai — Zoledronic acid là thuốc ức chế hủy xương trị đau xương, có độc tính trên thận nên chống chỉ định khi suy thận cấp."
+      ]
+    },
+    {
+      "id": "SURG58-B20",
+      "type": "vignette",
+      "topic": "Điều trị (Khu trú, Nội tiết ADT, CRPC, Cấp cứu) & Tầm soát",
+      "subtopic": "Cấp cứu chèn ép tủy sống do di căn cột sống",
+      "bloom": "đánh giá",
+      "difficulty": 3,
+      "source": "SURG-58 §8.2",
+      "text": "Bệnh nhân nam 69 tuổi bị ung thư tuyến tiền liệt di căn xương, đột ngột xuất hiện tê bì hai chân tăng nhanh, liệt vận động hai chi dưới và bí tiểu. MRI phát hiện khối u di căn đốt sống ngực Th10 gây xẹp đốt chèn ép tủy cấp. Phác đồ xử trí cấp cứu khẩn cấp trong vòng 24 - 48 giờ để tránh liệt vĩnh viễn là gì?\nPhác đồ xử trí cấp cứu khẩn cấp là gì?",
+      "options": [
+        "Truyền Zoledronic acid và tập phục hồi chức năng",
+        "Đặt sonde tiểu Foley và cho uống canxi bổ sung",
+        "Dexamethasone liều cao phối hợp giải ép hoặc xạ trị",
+        "Cắt hai tinh hoàn ngoại khoa và theo dõi tại nhà"
+      ],
+      "correct": 2,
+      "explanation": "Theo barem: Chèn ép tủy sống cấp cần dùng Dexamethasone liều cao khẩn cấp kết hợp phẫu thuật giải ép cột sống hoặc xạ trị cấp cứu trong vòng 24 - 48 giờ để tránh liệt vĩnh viễn.",
+      "option_explanations": [
+        "Sai — Zoledronic acid không giải ép được chèn ép thần kinh cơ học cấp tính.",
+        "Sai — Đặt sonde tiểu chỉ giải quyết triệu chứng bí tiểu tạm thời, không ngăn được liệt tủy vĩnh viễn.",
+        "Đúng — Barem chỉ định: Dexamethasone liều cao khẩn cấp kết hợp phẫu thuật giải ép cột sống hoặc xạ trị cấp cứu trong vòng 24 - 48 giờ.",
+        "Sai — Cắt tinh hoàn đơn thuần không giải áp kịp thời khối chèn ép tủy trong thời gian vàng 24 - 48 giờ."
+      ]
+    },
+    {
+      "id": "SURG58-B21",
+      "type": "concept",
+      "topic": "Điều trị (Khu trú, Nội tiết ADT, CRPC, Cấp cứu) & Tầm soát",
+      "subtopic": "Độ tuổi và nội dung chương trình tầm soát",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-58 §9",
+      "text": "Trong chương trình tầm soát phát hiện sớm ung thư tuyến tiền liệt định kỳ, nhóm đối tượng nào có chỉ định bắt đầu tầm soát sớm từ 40 đến 45 tuổi và quy trình khám định kỳ hàng năm bao gồm những nội dung gì?\nĐối tượng tầm soát sớm từ 40 - 45 tuổi và quy trình định kỳ hàng năm là gì?",
+      "options": [
+        "Người có bố/anh em mắc bệnh; khám gồm DRE, PSA máu và TRUS",
+        "Người hút thuốc lá; khám gồm siêu âm ổ bụng và chụp X-quang",
+        "Mọi nam giới sau 50 tuổi; khám chỉ gồm xét nghiệm máu lắng",
+        "Người có tiền sử sỏi tiết niệu; khám gồm chụp xạ hình xương"
+      ],
+      "correct": 0,
+      "explanation": "Theo barem mục Phòng bệnh và tầm soát: Tầm soát áp dụng cho mọi nam giới từ 50 tuổi trở lên (hoặc từ 40 - 45 tuổi nếu có bố/anh em trai mắc ung thư tuyến tiền liệt). Khám định kỳ gồm DRE, PSA và TRUS khi có bất thường.",
+      "option_explanations": [
+        "Đúng — Nam giới có bố hoặc anh em trai mắc ung thư tuyến tiền liệt cần tầm soát sớm từ 40 - 45 tuổi; quy trình định kỳ gồm DRE, xét nghiệm PSA máu và TRUS khi có bất thường.",
+        "Sai — Hút thuốc lá là yếu tố nguy cơ của ung thư phổi và bàng quang, không phải tiêu chuẩn hạ tuổi tầm soát ung thư tuyến tiền liệt.",
+        "Sai — Mọi nam giới từ 50 tuổi là mốc tầm soát thông thường và xét nghiệm máu lắng không có giá trị tầm soát.",
+        "Sai — Tiền sử sỏi tiết niệu không phải chỉ định hạ tuổi tầm soát và xạ hình xương không dùng để tầm soát."
+      ]
+    },
+    {
+      "id": "SURG58-B22",
+      "type": "concept",
+      "topic": "Điều trị (Khu trú, Nội tiết ADT, CRPC, Cấp cứu) & Tầm soát",
+      "subtopic": "Dinh dưỡng phòng bệnh và chất chống oxy hóa",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-58 §9",
+      "text": "Theo khuyến nghị về dinh dưỡng và lối sống lành mạnh trong barem nhằm hỗ trợ giảm thiểu nguy cơ mắc ung thư tuyến tiền liệt, hoạt chất chống oxy hóa Lycopene có nhiều trong nguồn thực phẩm nào sau đây?\nNguồn thực phẩm giàu hoạt chất này được khuyến nghị là gì?",
+      "options": [
+        "Cà chua chín, đậu nành và nước trà xanh",
+        "Mỡ động vật và các loại thịt đỏ nấu chín",
+        "Các sản phẩm từ bơ và sữa béo nguyên kem",
+        "Đồ uống có cồn và các loại thực phẩm cay nóng"
+      ],
+      "correct": 0,
+      "explanation": "Theo barem mục Phòng bệnh và tầm soát: Lối sống lành mạnh gồm giảm mỡ động vật, tăng cường rau củ quả chứa nhiều chất chống oxy hóa (Lycopene trong cà chua chín, đậu nành, trà xanh).",
+      "option_explanations": [
+        "Đúng — Theo barem: Tăng cường rau củ quả chứa chất chống oxy hóa Lycopene trong cà chua chín, đậu nành và trà xanh.",
+        "Sai — Mỡ bão hòa và thịt đỏ là yếu tố nguy cơ làm tăng tỷ lệ mắc ung thư tuyến tiền liệt.",
+        "Sai — Bơ và sữa béo nguyên kem giàu chất béo bão hòa động vật, không chứa Lycopene.",
+        "Sai — Rượu bia và đồ cay nóng không phải là nguồn cung cấp chất chống oxy hóa bảo vệ tuyến tiền liệt."
+      ]
+    }
+  ]
+}

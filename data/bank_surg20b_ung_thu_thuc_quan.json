@@ -1,0 +1,1356 @@
+{
+  "format": "medmcq-bank",
+  "version": 1,
+  "id": "bank_surg20b_ung_thu_thuc_quan",
+  "lesson": "SURG-20B",
+  "group": "Ngoại khoa",
+  "title": "SURG-20B: Ung thư thực quản (Barem — 56 câu phủ 6 bậc Bloom)",
+  "description": "Đại cương, giải phẫu, sinh lý, bệnh nguyên, giải phẫu bệnh, lâm sàng, cận lâm sàng, TNM AJCC, chẩn đoán phân biệt, điều trị đa mô thức và theo dõi. Một đáp án đúng nhất; phủ đủ 6 bậc Bloom.",
+  "updated": "2026-11-12T12:45:08Z",
+  "questions": [
+    {
+      "id": "SURG20B-A01",
+      "type": "concept",
+      "topic": "Đại cương & Bệnh nguyên",
+      "subtopic": "Gánh nặng dịch tễ toàn cầu và tiên lượng",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-20B §1",
+      "text": "Số liệu dịch tễ học toàn cầu trong giáo trình so sánh vị trí thứ bậc của ung thư thực quản về số ca mắc mới và số ca tử vong do ung thư.\nThứ bậc xếp hạng về nguyên nhân gây tử vong vì ung thư của ung thư thực quản là vị trí nào?",
+      "options": [
+        "Đứng hàng thứ 4 trong các nguyên nhân tử vong",
+        "Đứng hàng thứ 9 trong các nguyên nhân tử vong",
+        "Đứng hàng thứ 8 trong các nguyên nhân tử vong",
+        "Đứng hàng thứ 6 trong các nguyên nhân tử vong"
+      ],
+      "correct": 3,
+      "explanation": "Theo mục 1 giáo trình: Ung thư thực quản là bệnh hay gặp xếp hàng thứ 9 trong các bệnh ung thư, là nguyên nhân gây tử vong vì ung thư đứng thứ 6.",
+      "option_explanations": [
+        "Sai — hàng thứ 4 là tỷ lệ nam gấp 4 lần nữ nói chung tại Mỹ, không phải thứ bậc tử vong.",
+        "Sai — hàng thứ 9 là thứ bậc về tỷ lệ mắc bệnh trong các bệnh ung thư, không phải thứ bậc tử vong.",
+        "Sai — hàng thứ 8 không xuất hiện trong thứ bậc xếp hạng toàn cầu của giáo trình.",
+        "Đúng — theo giáo trình, ung thư thực quản là nguyên nhân gây tử vong vì ung thư đứng thứ 6."
+      ]
+    },
+    {
+      "id": "SURG20B-A02",
+      "type": "concept",
+      "topic": "Đại cương & Bệnh nguyên",
+      "subtopic": "Dịch tễ học Hoa Kỳ 2008 và phân bố giới",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-20B §1",
+      "text": "Thống kê dịch tễ học tại Mỹ năm 2008 ghi nhận sự chênh lệch rõ rệt về tỷ lệ mắc ung thư thực quản giữa hai giới tính nam và nữ.\nNam giới có tỷ lệ mắc thể ung thư biểu mô tuyến thực quản cao gấp bao nhiêu lần so với nữ giới?",
+      "options": [
+        "Nam giới mắc cao gấp 2 đến 3 lần nữ giới",
+        "Nam giới mắc cao gấp 8 đến 9 lần nữ giới",
+        "Nam giới mắc cao gấp 6 lần so với nữ giới",
+        "Nam giới mắc cao gấp 4 lần so với nữ giới"
+      ],
+      "correct": 1,
+      "explanation": "Theo mục 1 giáo trình: Ung thư thực quản hay gặp ở nam nhiều gấp 4 lần so với nữ giới nói chung, trong đó ung thư biểu mô tuyến hay gặp gấp 8-9 lần ở nam giới hơn so với nữ giới.",
+      "option_explanations": [
+        "Sai — tỷ lệ gấp 2-3 lần không đúng với số liệu được nêu trong bài giảng.",
+        "Đúng — theo giáo trình, thể ung thư biểu mô tuyến hay gặp gấp 8-9 lần ở nam giới so với nữ giới.",
+        "Sai — con số 6 lần là 6% tỷ lệ trong các loại ung thư ống tiêu hóa tại Mỹ năm 2008.",
+        "Sai — gấp 4 lần là tỷ lệ mắc ung thư thực quản nói chung của nam so với nữ, không phải riêng thể biểu mô tuyến."
+      ]
+    },
+    {
+      "id": "SURG20B-A03",
+      "type": "concept",
+      "topic": "Đại cương & Bệnh nguyên",
+      "subtopic": "Chuyển dịch mô bệnh học theo thời gian",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-20B §1",
+      "text": "Phân tích cơ cấu mô bệnh học ung thư thực quản vào những năm 1970 tại các nước ghi nhận một tỷ lệ vượt trội của một thể mô học kinh điển.\nTỷ lệ mắc của ung thư biểu mô vảy thực quản vào những năm 1970 chiếm khoảng bao nhiêu phần trăm tổng số ca theo giáo trình?",
+      "options": [
+        "Chiếm tỷ lệ khoảng 90% tổng số trường hợp",
+        "Chiếm tỷ lệ khoảng 25% tổng số trường hợp",
+        "Chiếm tỷ lệ khoảng 60% tổng số trường hợp",
+        "Chiếm tỷ lệ khoảng 15% tổng số trường hợp"
+      ],
+      "correct": 0,
+      "explanation": "Theo mục 1 giáo trình: Những năm 70, khoảng 90% ung thư thực quản là ung thư biểu mô vảy. Những năm gần đây ung thư biểu mô tuyến tăng nhanh và chiếm 60%-70%.",
+      "option_explanations": [
+        "Đúng — theo giáo trình, vào những năm 70 khoảng 90% ung thư thực quản là ung thư biểu mô vảy.",
+        "Sai — 25% là tỷ lệ thể đại thể dạng loét của ung thư thực quản (§5.1).",
+        "Sai — 60%-70% là tỷ lệ của ung thư biểu mô tuyến trong những năm gần đây, không phải thể vảy vào những năm 70.",
+        "Sai — 15% là tỷ lệ thể đại thể thâm nhiễm lan tỏa của ung thư thực quản (§5.1)."
+      ]
+    },
+    {
+      "id": "SURG20B-A04",
+      "type": "concept",
+      "topic": "Đại cương & Bệnh nguyên",
+      "subtopic": "Số liệu Việt Nam GLOBOCAN 2008 và sống thêm",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "SURG-20B §1",
+      "text": "Số liệu dịch tễ học GLOBOCAN 2008 tại Việt Nam phản ánh gánh nặng bệnh tật của ung thư thực quản trên quy mô dân số cả nước.\nChỉ số nào sau đây phản ánh đúng tỷ lệ mắc chuẩn theo tuổi tại Việt Nam năm 2008?",
+      "options": [
+        "Tỷ lệ mắc chuẩn theo tuổi ở mức 1,9 trên 100.000 dân",
+        "Tỷ lệ mắc chuẩn theo tuổi ở mức 1,4 trên 100.000 dân",
+        "Tỷ lệ mắc chuẩn theo tuổi ở mức 6,0 trên 100.000 dân",
+        "Tỷ lệ mắc chuẩn theo tuổi ở mức 8,5 trên 100.000 dân"
+      ],
+      "correct": 0,
+      "explanation": "Theo mục 1 giáo trình (GLOBOCAN 2008), tại Việt Nam tỷ lệ mới mắc ở cả 2 giới khoảng 1.511 ca (tử vong 1.157 ca); tỷ lệ mắc chuẩn theo tuổi là 1.9/100.000 dân và tỷ lệ tử vong chuẩn theo tuổi là 1.4/100.000 dân.",
+      "option_explanations": [
+        "Đúng — tỷ lệ mắc chuẩn theo tuổi tại Việt Nam năm 2008 là 1,9/100.000 dân.",
+        "Sai — 1,4/100.000 dân là tỷ lệ tử vong chuẩn theo tuổi tại Việt Nam năm 2008.",
+        "Sai — 6% là tỷ lệ ung thư thực quản trong các ung thư ống tiêu hóa tại Mỹ năm 2008.",
+        "Sai — con số này không xuất hiện trong thống kê dịch tễ của bài học."
+      ]
+    },
+    {
+      "id": "SURG20B-A05",
+      "type": "concept",
+      "topic": "Giải phẫu & Sinh lý",
+      "subtopic": "Chiều dài, mốc giải phẫu và 4 chỗ hẹp sinh lý",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-20B §2",
+      "text": "Trong quá trình đưa ống soi mềm từ hầu họng xuống dạ dày, dụng cụ phải vượt qua các vị trí lòng ống bị thu hẹp do liên quan giải phẫu ngoài thành.\nVị trí hẹp sinh lý thứ ba tính từ trên xuống dưới của thực quản tương ứng với cấu trúc nào?",
+      "options": [
+        "Vị trí hẹp tương ứng ngang mức sụn nhẫn",
+        "Vị trí hẹp tương ứng ngang phế quản gốc trái",
+        "Vị trí hẹp tương ứng ngang quai động mạch chủ",
+        "Vị trí hẹp tương ứng ngang cơ hoành ngực"
+      ],
+      "correct": 1,
+      "explanation": "Theo mục 2 giáo trình, thực quản có 4 chỗ hẹp sinh lý tương ứng từ trên xuống dưới gồm: 1) Sụn nhẫn; 2) Quai động mạch chủ; 3) Phế quản trái; 4) Cơ hoành.",
+      "option_explanations": [
+        "Sai — sụn nhẫn là chỗ hẹp sinh lý thứ nhất (miệng thực quản, cách cung răng ~15 cm).",
+        "Đúng — phế quản trái là chỗ hẹp sinh lý thứ ba của thực quản.",
+        "Sai — quai động mạch chủ là chỗ hẹp sinh lý thứ hai.",
+        "Sai — cơ hoành là chỗ hẹp sinh lý thứ tư (cuối cùng) của thực quản."
+      ]
+    },
+    {
+      "id": "SURG20B-A06",
+      "type": "vignette",
+      "topic": "Giải phẫu & Sinh lý",
+      "subtopic": "Phân đoạn lâm sàng từ cung răng và giải phẫu",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-20B §2",
+      "text": "Bệnh nhân nam 64 tuổi nội soi ống mềm phát hiện tổn thương sùi loét thực quản nằm ở khoảng cách 29 cm tính từ cung răng trên.\nVùng tổn thương này nằm trong phạm vi khoảng cách từ cung răng của phân đoạn lâm sàng nào?",
+      "options": [
+        "Phạm vi khoảng cách từ 10 cm đến 15 cm",
+        "Phạm vi khoảng cách từ 15 cm đến 25 cm",
+        "Phạm vi khoảng cách từ 33 cm đến tâm vị",
+        "Phạm vi khoảng cách từ 26 cm đến 32 cm"
+      ],
+      "correct": 3,
+      "explanation": "Theo mục 2 giáo trình, phân đoạn thực tế lâm sàng tính từ cung răng gồm: 1/3 trên (15-25 cm), 1/3 giữa (26-32 cm), 1/3 dưới (33 cm đến tâm vị). Vị trí 29 cm nằm trong khoảng 26-32 cm của 1/3 giữa.",
+      "option_explanations": [
+        "Sai — miệng thực quản bắt đầu cách cung răng 15 cm; khoảng 10-15 cm thuộc hầu họng.",
+        "Sai — khoảng 15-25 cm là phạm vi của đoạn 1/3 trên thực quản.",
+        "Sai — khoảng 33 cm đến tâm vị là phạm vi của đoạn 1/3 dưới thực quản.",
+        "Đúng — khoảng 26-32 cm là phạm vi của đoạn 1/3 giữa thực quản, bao gồm vị trí 29 cm của bệnh nhân."
+      ]
+    },
+    {
+      "id": "SURG20B-A07",
+      "type": "concept",
+      "topic": "Giải phẫu & Sinh lý",
+      "subtopic": "Cấu trúc thành thực quản và phân đoạn giải phẫu",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "SURG-20B §2",
+      "text": "Phân đoạn giải phẫu học chia thực quản thành 4 đoạn liên tiếp (đoạn cổ, đoạn ngực, đoạn hoành và đoạn bụng) với chiều dài đặc trưng cho từng đoạn.\nĐoạn thực quản nào có chiều dài ngắn nhất trong 4 phân đoạn giải phẫu học này?",
+      "options": [
+        "Đoạn cổ với chiều dài giải phẫu khoảng 5-6 cm",
+        "Đoạn hoành với chiều dài giải phẫu khoảng 1-1,5 cm",
+        "Đoạn ngực với chiều dài giải phẫu khoảng 16-25 cm",
+        "Đoạn bụng với chiều dài giải phẫu khoảng 2-3 cm"
+      ],
+      "correct": 1,
+      "explanation": "Theo mục 2 giáo trình, theo giải phẫu học thực quản có 4 đoạn: đoạn cổ dài 5-6 cm, đoạn ngực dài 16-25 cm, đoạn hoành dài 1-1,5 cm, đoạn bụng dài 2-3 cm. Do đó đoạn hoành là đoạn ngắn nhất.",
+      "option_explanations": [
+        "Sai — đoạn cổ dài 5-6 cm, dài hơn đoạn hoành và đoạn bụng.",
+        "Đúng — đoạn hoành dài 1-1,5 cm, là phân đoạn ngắn nhất theo phân chia giải phẫu.",
+        "Sai — đoạn ngực dài 16-25 cm, là đoạn dài nhất của thực quản.",
+        "Sai — đoạn bụng dài 2-3 cm, dài hơn đoạn hoành."
+      ]
+    },
+    {
+      "id": "SURG20B-A08",
+      "type": "vignette",
+      "topic": "Giải phẫu & Sinh lý",
+      "subtopic": "Dẫn lưu tĩnh mạch thực quản theo từng đoạn",
+      "bloom": "phân tích",
+      "difficulty": 3,
+      "source": "SURG-20B §2",
+      "text": "Một bệnh nhân ung thư thực quản đoạn 1/3 dưới cách cung răng 36 cm được phát hiện có nhiều ổ di căn gan trên phim CT bụng nhưng nhu mô phổi hoàn toàn sạch.\nĐường dẫn lưu tĩnh mạch trực tiếp nào của đoạn thực quản này giải thích ổ di căn xuất hiện sớm tại gan?",
+      "options": [
+        "Máu tĩnh mạch đổ trực tiếp vào hệ tĩnh mạch chủ trên",
+        "Máu tĩnh mạch đổ chủ yếu vào tĩnh mạch đơn Azygos",
+        "Máu tĩnh mạch đổ vào tĩnh mạch ngực trong hai bên",
+        "Máu tĩnh mạch đổ về tĩnh mạch cửa qua tĩnh mạch dạ dày"
+      ],
+      "correct": 3,
+      "explanation": "Theo mục 2 giáo trình, máu tĩnh mạch 1/3 trên đổ vào TMC trên; 1/3 giữa đổ vào TM Azygos; còn 1/3 dưới đổ vào tĩnh mạch cửa qua các tĩnh mạch dạ dày. Do đó tế bào ung thư 1/3 dưới đi thẳng theo hệ cửa về gan.",
+      "option_explanations": [
+        "Sai — đổ vào tĩnh mạch chủ trên là đường dẫn lưu của đoạn 1/3 trên thực quản.",
+        "Sai — đổ vào tĩnh mạch Azygos là đường dẫn lưu của đoạn 1/3 giữa thực quản.",
+        "Sai — tĩnh mạch ngực trong không phải đường dẫn lưu tĩnh mạch chính của thực quản được mô tả trong giáo trình.",
+        "Đúng — máu tĩnh mạch của đoạn 1/3 dưới đổ vào hệ tĩnh mạch cửa qua các tĩnh mạch dạ dày, giải thích việc di căn gan xuất hiện sớm trước khi tới phổi."
+      ]
+    },
+    {
+      "id": "SURG20B-A09",
+      "type": "concept",
+      "topic": "Giải phẫu & Sinh lý",
+      "subtopic": "Thần kinh chi phối thực quản và tưới máu động mạch",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-20B §2",
+      "text": "Hệ thần kinh thực vật chi phối thực quản gồm hai thành phần phó giao cảm và giao cảm với sự phân định chức năng rất rõ ràng.\nĐặc điểm sinh lý nào sau đây thể hiện đúng vai trò của hệ thần kinh giao cảm đối với thực quản?",
+      "options": [
+        "Giao cảm chỉ dẫn truyền cảm giác và không tham gia vận động",
+        "Giao cảm tiếp nối đám rối Auerbach để kiểm soát trương lực",
+        "Giao cảm kích thích bài tiết chất nhầy bảo vệ bề mặt niêm mạc",
+        "Giao cảm trực tiếp khởi phát các sóng nhu động tiên phát"
+      ],
+      "correct": 0,
+      "explanation": "Theo mục 2 giáo trình, thần kinh giao cảm bắt nguồn từ các rễ cổ lưng, tiếp nối ở hạch cổ trên, giữa và hạch sao ngực. Hệ thống giao cảm không tham gia vào chức năng vận động của thực quản, chỉ có tác động dẫn truyền cảm giác.",
+      "option_explanations": [
+        "Đúng — giáo trình nêu rõ: hệ thống giao cảm không tham gia vào chức năng vận động của thực quản, chỉ có tác động dẫn truyền cảm giác.",
+        "Sai — tiếp nối với đám rối thần kinh Auerbach là các sợi phó giao cảm từ dây X.",
+        "Sai — chức năng vận tiết nhầy và trương lực không do hệ giao cảm đơn thuần kiểm soát.",
+        "Sai — sóng nhu động do dây phế vị (dây X) và đám rối thần kinh nội tại Auerbach chi phối, không do hệ giao cảm."
+      ]
+    },
+    {
+      "id": "SURG20B-A10",
+      "type": "concept",
+      "topic": "Giải phẫu & Sinh lý",
+      "subtopic": "Tưới máu động mạch thực quản",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "SURG-20B §2",
+      "text": "Nguồn máu động mạch cấp cho thực quản được tách từ nhiều phân nhánh khác nhau dọc theo trục cổ, ngực và bụng.\nĐộng mạch nào sau đây cấp máu cho đoạn ngực của thực quản theo mô tả trong giáo trình?",
+      "options": [
+        "Động mạch giáp dưới xuất phát từ thân giáp cổ",
+        "Động mạch vành vị xuất phát từ động mạch thân tạng",
+        "Động mạch thực quản giữa từ động mạch chủ ngực",
+        "Động mạch hoành dưới cấp máu cho phần dưới hoành"
+      ],
+      "correct": 2,
+      "explanation": "Theo mục 2 giáo trình, tưới máu thực quản gồm các nhánh nhỏ của ĐM chủ ngực (gồm ĐM thực quản giữa), ĐM giáp dưới (đoạn cổ), ĐM hoành dưới và ĐM vành vị (đoạn dưới và tâm vị).",
+      "option_explanations": [
+        "Sai — động mạch giáp dưới chịu trách nhiệm cấp máu chủ yếu cho thực quản đoạn cổ.",
+        "Sai — động mạch vành vị cấp máu cho đoạn dưới thực quản và vùng tâm vị dạ dày.",
+        "Đúng — động mạch thực quản giữa (tách từ ĐM chủ ngực) là nguồn cấp máu chính cho thực quản đoạn ngực.",
+        "Sai — động mạch hoành dưới cấp máu cho đoạn thực quản dưới hoành và cơ hoành."
+      ]
+    },
+    {
+      "id": "SURG20B-A11",
+      "type": "concept",
+      "topic": "Giải phẫu & Sinh lý",
+      "subtopic": "Sinh lý cơ thắt thực quản trên và dưới",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-20B §3",
+      "text": "Khi bắt đầu một động tác nuốt thức ăn, thanh quản có sự chuyển động không gian đặc biệt nhằm tạo thuận lợi cho việc mở cơ thắt thực quản trên.\nNhóm cơ nào chịu trách nhiệm chính kéo thanh quản di chuyển ra trước trong thì nuốt này?",
+      "options": [
+        "Nhóm cơ dưới móng chịu trách nhiệm hạ thanh quản",
+        "Nhóm cơ trên móng chịu trách nhiệm kéo ra trước",
+        "Cơ nhẫn hầu chịu trách nhiệm siết chặt lòng ống",
+        "Cơ co thắt hầu dưới chịu trách nhiệm đẩy viên thức ăn"
+      ],
+      "correct": 1,
+      "explanation": "Theo mục 3 giáo trình, khi nuốt: ức chế co cơ nhẫn hầu, dãn cơ hầu dưới và thanh quản di chuyển ra trước nhờ các cơ trên móng để mở cơ thắt thực quản trên.",
+      "option_explanations": [
+        "Sai — các cơ dưới móng có tác dụng hạ thanh quản sau khi nuốt xong, không phải cơ kéo ra trước để mở cơ thắt trên.",
+        "Đúng — theo giáo trình, thanh quản di chuyển ra trước nhờ hoạt động của các cơ trên móng trong thì mở cơ thắt thực quản trên.",
+        "Sai — cơ nhẫn hầu tạo nên cơ thắt trên, khi nuốt cơ này bị ức chế co chứ không kéo thanh quản ra trước.",
+        "Sai — cơ co thắt hầu dưới dãn ra khi nuốt để mở đường cho viên nuốt, không làm nhiệm vụ kéo thanh quản ra trước."
+      ]
+    },
+    {
+      "id": "SURG20B-A12",
+      "type": "concept",
+      "topic": "Giải phẫu & Sinh lý",
+      "subtopic": "Điều hòa cơ thắt thực quản dưới và cột cơ hoành",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-20B §3",
+      "text": "Theo sinh lý học thực quản, cấu trúc nào sau đây tham gia vào cơ chế bổ sung hỗ trợ chống trào ngược cho cơ thắt thực quản dưới (LES)?\nCấu trúc giải phẫu bổ sung nào hỗ trợ cơ thắt dưới theo barem?",
+      "options": [
+        "Vòng cơ nhẫn hầu vùng cổ",
+        "Các cột cơ hoành bao quanh",
+        "Đám rối thần kinh Auerbach",
+        "Các xoang lê vùng hạ họng"
+      ],
+      "correct": 1,
+      "explanation": "Theo mục 3 giáo trình: Cơ thắt thực quản dưới đóng phần lớn do trương lực cơ sinh nội tại; cơ chế bổ sung là các cột cơ hoành bao quanh cơ thắt dưới.",
+      "option_explanations": [
+        "Sai — cơ nhẫn hầu cấu tạo nên cơ thắt thực quản trên ở vùng cổ, không liên quan cơ thắt dưới.",
+        "Đúng — theo giáo trình, các cột cơ hoành bao quanh cơ thắt dưới đóng vai trò là cơ chế bổ sung chống trào ngược.",
+        "Sai — đám rối Auerbach nằm trong thành cơ thực quản giữ chức năng dẫn truyền nhu động phó giao cảm.",
+        "Sai — các xoang lê nằm ở hai đầu khe miệng Kilian ở vùng hầu họng (§2)."
+      ]
+    },
+    {
+      "id": "SURG20B-A13",
+      "type": "vignette",
+      "topic": "Giải phẫu & Sinh lý",
+      "subtopic": "Sinh lý cơ thắt dưới và phản xạ ợ hơi",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-20B §3",
+      "text": "Bệnh nhân nam 48 tuổi uống nhanh nhiều nước giải khát có ga làm dạ dày căng phồng khí, ngay sau đó xuất hiện phản xạ ợ hơi tống khí lên miệng.\nHiện tượng thay đổi sinh lý nào xảy ra tại cơ thắt thực quản dưới trong thời gian phản xạ này?",
+      "options": [
+        "Tăng áp lực siết chặt của cơ thắt dưới",
+        "Cơ thắt thực quản trên tăng co bóp cơ vòng",
+        "Giảm áp lực phản xạ của cơ thắt dưới",
+        "Tăng co thắt mạnh của các cột cơ hoành"
+      ],
+      "correct": 2,
+      "explanation": "Theo mục 3 giáo trình: Áp lực trong cơ thắt dưới giảm một cách phản xạ trong thời gian phản xạ ợ hơi và căng dạ dày.",
+      "option_explanations": [
+        "Sai — áp lực cơ thắt dưới giảm phản xạ khi căng dạ dày chứ không tăng siết chặt.",
+        "Sai — cơ thắt trên mở thoáng qua khi viên nuốt hoặc hơi đi qua, không phải mất hoàn toàn trương lực.",
+        "Đúng — theo giáo trình, áp lực trong cơ thắt dưới giảm một cách phản xạ trong thời gian phản xạ ợ hơi và căng dạ dày.",
+        "Sai — các cột cơ hoành không co thắt mạnh trong thì ợ hơi thoát khí của dạ dày."
+      ]
+    },
+    {
+      "id": "SURG20B-A14",
+      "type": "vignette",
+      "topic": "Đại cương & Bệnh nguyên",
+      "subtopic": "Bệnh nguyên ung thư biểu mô tuyến thực quản",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-20B §4",
+      "text": "Bệnh nhân nam 56 tuổi, béo phì (BMI 32 kg/m²), tiền sử ợ nóng và trớ dịch chua kéo dài 12 năm, nội soi phát hiện biến đổi niêm mạc 1/3 dưới thực quản.\nBệnh cảnh nào sau đây được xác định là yếu tố nguy cơ quan trọng nhất gây ung thư biểu mô tuyến ở bệnh nhân này?",
+      "options": [
+        "Thói quen hút thuốc lá kết hợp uống rượu mạnh kéo dài",
+        "Viêm loét thực quản Barrett hậu quả của trào ngược dạ dày",
+        "Hội chứng tăng sừng hóa kết hợp phơi nhiễm hóa chất",
+        "Nhiễm virus HPV vùng niêm mạc kết hợp nhược cơ"
+      ],
+      "correct": 1,
+      "explanation": "Theo mục 4.1 giáo trình, viêm loét thực quản Barrett (chủ yếu là hậu quả của viêm trào ngược dạ dày - thực quản) là yếu tố nguy cơ quan trọng nhất gây ung thư biểu mô tuyến thực quản, cùng với béo phì và GERD.",
+      "option_explanations": [
+        "Sai — thuốc lá và rượu là hai yếu tố nguy cơ chính của ung thư biểu mô vảy (§4.2).",
+        "Đúng — viêm loét thực quản Barrett (hậu quả của trào ngược dạ dày - thực quản) là yếu tố nguy cơ quan trọng nhất gây ung thư biểu mô tuyến thực quản.",
+        "Sai — tăng sừng hóa và tiếp xúc hóa chất nhà máy thuộc nhóm bệnh nguyên của ung thư biểu mô vảy (§4.2).",
+        "Sai — HPV và nhược cơ là các yếu tố liên quan đến ung thư biểu mô vảy (§4.2)."
+      ]
+    },
+    {
+      "id": "SURG20B-A15",
+      "type": "vignette",
+      "topic": "Đại cương & Bệnh nguyên",
+      "subtopic": "Theo dõi loạn sản nặng thực quản",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-20B §4.2",
+      "text": "Bệnh nhân nam 61 tuổi, hút thuốc lá 30 bao-năm và uống rượu thường xuyên, sinh thiết niêm mạc thực quản cho thấy có loạn sản nặng nhưng chưa xâm lấn màng đáy.\nKhoảng thời gian nội soi thực quản định kỳ phù hợp nhất cần hẹn cho bệnh nhân này theo hướng dẫn trong giáo trình là bao lâu?",
+      "options": [
+        "Nội soi thực quản kiểm tra định kỳ mỗi tháng một lần",
+        "Nội soi thực quản kiểm tra định kỳ mỗi sáu tháng một lần",
+        "Nội soi thực quản kiểm tra định kỳ mỗi ba tháng một lần",
+        "Nội soi thực quản kiểm tra định kỳ mỗi một năm một lần"
+      ],
+      "correct": 2,
+      "explanation": "Theo mục 4.2 giáo trình, bệnh nhân có tổn thương tiền ung thư mức độ loạn sản nặng cần được nội soi thực quản định kỳ 3 tháng/lần để phát hiện sớm ung thư biểu mô vảy xâm lấn.",
+      "option_explanations": [
+        "Sai — khoảng cách 1 tháng/lần quá ngắn và không cần thiết trong theo dõi loạn sản nặng.",
+        "Sai — 6 tháng/lần là khoảng cách theo dõi định kỳ trong 2 năm tiếp theo sau phẫu thuật triệt căn ung thư thực quản (§10).",
+        "Đúng — giáo trình quy định rõ: đối với tổn thương loạn sản nặng cần nội soi thực quản định kỳ 3 tháng/lần.",
+        "Sai — 1 năm/lần là quá thưa đối với loạn sản nặng, có nguy cơ bỏ sót tổn thương tiến triển thành ung thư xâm lấn."
+      ]
+    },
+    {
+      "id": "SURG20B-A16",
+      "type": "concept",
+      "topic": "Đại cương & Bệnh nguyên",
+      "subtopic": "Tổ hợp yếu tố nguy cơ ung thư biểu mô vảy",
+      "bloom": "phân tích",
+      "difficulty": 3,
+      "source": "SURG-20B §4.1, §4.2",
+      "text": "Một nghiên cứu bệnh - chứng phân loại các yếu tố bệnh sinh nhằm xây dựng bảng kiểm nguy cơ chuyên biệt cho từng thể mô bệnh học của ung thư thực quản.\nYếu tố nào sau đây được xếp riêng vào nhóm bệnh nguyên của ung thư biểu mô vảy thay vì ung thư biểu mô tuyến?",
+      "options": [
+        "Tình trạng béo phì với chỉ số khối cơ thể tăng cao",
+        "Viêm loét thực quản Barrett với chuyển sản biểu mô",
+        "Hội chứng trào ngược dịch toan dạ dày vào thực quản",
+        "Tình trạng tăng sừng hóa niêm mạc hoặc nhược cơ"
+      ],
+      "correct": 3,
+      "explanation": "Theo mục 4 giáo trình, béo phì, thực quản Barrett và trào ngược dạ dày - thực quản là yếu tố nguy cơ của ung thư biểu mô tuyến (§4.1). Còn tăng sừng hóa, nhược cơ, thuốc lá, rượu, HPV, làm việc tại nhà máy hóa chất là yếu tố nguy cơ của ung thư biểu mô vảy (§4.2).",
+      "option_explanations": [
+        "Sai — béo phì là yếu tố nguy cơ điển hình của ung thư biểu mô tuyến (§4.1).",
+        "Sai — thực quản Barrett là yếu tố nguy cơ quan trọng nhất gây ung thư biểu mô tuyến (§4.1).",
+        "Sai — hội chứng trào ngược dạ dày - thực quản (GERD) là nguyên nhân hàng đầu dẫn tới ung thư biểu mô tuyến (§4.1).",
+        "Đúng — tăng sừng hóa và nhược cơ là các yếu tố nguy cơ thuộc nhóm bệnh nguyên của ung thư biểu mô vảy (§4.2)."
+      ]
+    },
+    {
+      "id": "SURG20B-A17",
+      "type": "concept",
+      "topic": "Giải phẫu bệnh & Lâm sàng",
+      "subtopic": "Hình thái đại thể ung thư thực quản",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-20B §5.1",
+      "text": "Phân loại giải phẫu bệnh đại thể của khối u ung thư thực quản ghi nhận 3 hình thái phát triển chính với các tỷ lệ khác nhau.\nHình thái tổn thương đại thể dạng thâm nhiễm lan tỏa chiếm tỷ lệ bao nhiêu phần trăm trong các thể đại thể?",
+      "options": [
+        "Chiếm tỷ lệ khoảng 25% các trường hợp",
+        "Chiếm tỷ lệ khoảng 15% các trường hợp",
+        "Chiếm tỷ lệ khoảng 40% các trường hợp",
+        "Chiếm tỷ lệ khoảng 60% các trường hợp"
+      ],
+      "correct": 1,
+      "explanation": "Theo mục 5.1 giáo trình: Dạng chồi sùi nhô vào lòng ống (60%), dạng loét (25%), dạng thâm nhiễm lan tỏa (15%). Do đó dạng thâm nhiễm lan tỏa chiếm 15%.",
+      "option_explanations": [
+        "Sai — 25% là tỷ lệ gặp của dạng loét ăn sâu hoại tử.",
+        "Đúng — dạng thâm nhiễm lan tỏa chiếm 15% các trường hợp theo barem giáo trình.",
+        "Sai — con số 40% không có trong phân bố tỷ lệ đại thể của ung thư thực quản.",
+        "Sai — 60% là tỷ lệ của dạng chồi sùi nhô vào lòng ống (hay gặp nhất)."
+      ]
+    },
+    {
+      "id": "SURG20B-A18",
+      "type": "vignette",
+      "topic": "Giải phẫu bệnh & Lâm sàng",
+      "subtopic": "Biến chứng cơ học theo hình thái đại thể",
+      "bloom": "phân tích",
+      "difficulty": 2,
+      "source": "SURG-20B §5.1",
+      "text": "Bệnh nhân nam 67 tuổi mắc ung thư thực quản 1/3 giữa đột ngột xuất hiện ho sặc dữ dội mỗi khi uống nước, sốt cao, sau đó nôn máu ồ ạt gây trụy mạch.\nHình thái đại thể nào của khối u có cơ chế gây biến chứng thủng trực tiếp vào cây phế quản và động mạch chủ như bệnh cảnh trên?",
+      "options": [
+        "Dạng loét hoại tử ăn sâu xuyên qua các lớp thành thực quản",
+        "Dạng chồi sùi mềm nhô vào giữa lòng thực quản gây tắc nghẽn",
+        "Dạng mảng trắng xám khu trú tại lớp niêm mạc giai đoạn sớm",
+        "Dạng thâm nhiễm lan tỏa làm dày xơ cứng đều thành thực quản"
+      ],
+      "correct": 0,
+      "explanation": "Theo mục 5.1 giáo trình, dạng loét (25%) có đặc điểm khối u bị hoại tử, ăn sâu xuống dưới, có thể làm thủng cây phế quản, động mạch chủ hoặc màng bao tim.",
+      "option_explanations": [
+        "Đúng — dạng loét hoại tử ăn sâu xuống dưới, dễ làm thủng phế quản gây rò sặc nước và thủng động mạch chủ gây nôn máu sét đánh.",
+        "Sai — dạng chồi sùi chủ yếu gây tắc lòng ống dẫn tới nuốt nghẹn chứ ít khi ăn mòn thủng mạch máu lớn ngay.",
+        "Sai — dạng mảng trắng xám là tổn thương khởi đầu ở niêm mạc chưa xâm lấn sâu.",
+        "Sai — dạng thâm nhiễm lan tỏa làm dày cứng thành ống và hẹp chu vi, ít hoại tử phá hủy thủng đột ngột vào mạch máu lớn."
+      ]
+    },
+    {
+      "id": "SURG20B-A19",
+      "type": "concept",
+      "topic": "Giải phẫu bệnh & Lâm sàng",
+      "subtopic": "Phân bố vi thể và các thể hiếm gặp",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-20B §5.2",
+      "text": "Đa số khối u ác tính nguyên phát tại thực quản là ung thư biểu mô tuyến hoặc ung thư biểu mô vảy.\nThể mô học nào sau đây nằm trong nhóm ung thư hiếm gặp với tỷ lệ xuất hiện dưới 1% theo giáo trình?",
+      "options": [
+        "Ung thư biểu mô vảy có hiện tượng sừng hóa tế bào",
+        "Ung thư biểu mô tuyến biệt hóa từ thực quản Barrett",
+        "Khối u hắc tố ác tính nguyên phát tại thành thực quản",
+        "Ung thư biểu mô tuyến tiết nhầy ở đoạn thực quản bụng"
+      ],
+      "correct": 2,
+      "explanation": "Theo mục 5.2 giáo trình, hầu hết các trường hợp ung thư thực quản là ung thư biểu mô (tuyến hoặc vảy). Ít hơn 1% là lymphoma, u hắc tố (melanoma), ung thư tế bào nhỏ...",
+      "option_explanations": [
+        "Sai — ung thư biểu mô vảy là một trong hai thể mô bệnh học chính thường gặp nhất của ung thư thực quản.",
+        "Sai — ung thư biểu mô tuyến là thể phổ biến hiện chiếm 60%-70% các ca mắc mới (§1).",
+        "Đúng — u hắc tố (melanoma) nguyên phát tại thực quản thuộc nhóm hiếm gặp với tỷ lệ dưới 1%.",
+        "Sai — ung thư biểu mô tuyến tiết nhầy thuộc nhóm ung thư biểu mô tuyến phổ biến vùng thực quản - dạ dày."
+      ]
+    },
+    {
+      "id": "SURG20B-A20",
+      "type": "vignette",
+      "topic": "Giải phẫu bệnh & Lâm sàng",
+      "subtopic": "So sánh cơ chế gây hẹp của các dạng đại thể",
+      "bloom": "phân tích",
+      "difficulty": 2,
+      "source": "SURG-20B §5.1",
+      "text": "Bệnh nhân nam 65 tuổi nuốt nghẹn tăng dần, chụp X-quang cản quang thực quản thấy một đoạn dài thành thực quản bị dày cứng xơ chai, lòng ống hẹp đồng tâm đều đặn mà không thấy khối chồi sùi nhô lớn.\nHình thái tổn thương đại thể nào phù hợp nhất với hình ảnh tổn thương của bệnh nhân này?",
+      "options": [
+        "Dạng thâm nhiễm lan tỏa làm dày cứng chiếm tỷ lệ 15%",
+        "Dạng ổ loét bờ nham nhở hoại tử chiếm tỷ lệ khoảng 25%",
+        "Dạng chồi sùi nhô vào lòng ống chiếm tỷ lệ khoảng 60%",
+        "Dạng tổn thương mảng trắng xám nông ở lớp niêm mạc"
+      ],
+      "correct": 0,
+      "explanation": "Theo mục 5.1 giáo trình, dạng thâm nhiễm lan tỏa chiếm 15% các trường hợp, có đặc điểm làm dày cứng thành thực quản và hẹp lòng ống mà không tạo khối sùi lớn.",
+      "option_explanations": [
+        "Đúng — dạng thâm nhiễm lan tỏa (15%) phát triển lan trong thành làm dày cứng và hẹp lòng ống như bệnh cảnh trên.",
+        "Sai — dạng loét (25%) đặc trưng bởi ổ khuyết loét ăn sâu, bờ nham nhở và nguy cơ thủng tạng lân cận.",
+        "Sai — dạng chồi sùi (60%) đặc trưng bởi khối u nhô lồi vào lòng ống gây hẹp lệch tâm.",
+        "Sai — mảng trắng xám là hình thái khởi đầu rất sớm, chưa thể làm dày cứng thành ống hay gây hẹp lòng trên X-quang."
+      ]
+    },
+    {
+      "id": "SURG20B-A21",
+      "type": "vignette",
+      "topic": "Giải phẫu & Sinh lý",
+      "subtopic": "Áp dụng giải phẫu 4 lớp và giải phẫu phân đoạn vào đánh giá xâm lấn",
+      "bloom": "vận dụng",
+      "difficulty": 3,
+      "source": "SURG-20B §2",
+      "text": "Bác sĩ phẫu thuật bóc tách giải phóng một khối u thực quản đoạn ngực cần xác định mức độ xâm lấn qua các lớp mô học từ trong lòng ống ra ngoài.\nLớp cấu trúc nào nằm ở vị trí thứ ba tính từ bề mặt lòng ống ra lớp ngoài cùng của thành thực quản?",
+      "options": [
+        "Lớp cơ của thành ống thực quản",
+        "Lớp dưới niêm mạc của thành ống",
+        "Lớp niêm mạc lót trong lòng ống",
+        "Lớp thanh mạc phía ngoài thành ống"
+      ],
+      "correct": 0,
+      "explanation": "Theo mục 2 giáo trình, cấu trúc thành thực quản gồm 4 lớp tính từ trong ra ngoài: 1. Niêm mạc; 2. Dưới niêm mạc; 3. Lớp cơ; 4. Lớp thanh mạc. Do đó lớp thứ ba là lớp cơ.",
+      "option_explanations": [
+        "Đúng — lớp cơ là lớp thứ ba của thành thực quản theo mô tả 4 lớp giải phẫu trong giáo trình.",
+        "Sai — dưới niêm mạc là lớp thứ hai tính từ trong ra ngoài.",
+        "Sai — niêm mạc là lớp thứ nhất nằm trong cùng tiếp xúc với lòng ống.",
+        "Sai — thanh mạc là lớp thứ tư ngoài cùng theo barem."
+      ]
+    },
+    {
+      "id": "SURG20B-A22",
+      "type": "vignette",
+      "topic": "Đại cương & Bệnh nguyên",
+      "subtopic": "Phân tầng nguy cơ và lịch tầm soát ở bệnh nhân đa yếu tố",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-20B §4.2",
+      "text": "Bệnh nhân nam 58 tuổi nghiện thuốc lá và rượu, kết quả sinh thiết niêm mạc thực quản ghi nhận tình trạng loạn sản nặng.\nQuy định trong giáo trình yêu cầu áp dụng lịch nội soi thực quản định kỳ cho tổn thương này theo mốc thời gian nào?",
+      "options": [
+        "Định kỳ kiểm tra mỗi 1 tháng một lần",
+        "Định kỳ kiểm tra mỗi 6 tháng một lần",
+        "Định kỳ kiểm tra mỗi 4 tháng một lần",
+        "Định kỳ kiểm tra mỗi 3 tháng một lần"
+      ],
+      "correct": 3,
+      "explanation": "Theo mục 4.2 giáo trình: Bệnh nhân có tổn thương loạn sản nặng cần nội soi thực quản định kỳ 3 tháng/lần.",
+      "option_explanations": [
+        "Sai — khoảng cách 1 tháng/lần không phải mốc giám sát chuẩn trong bài học.",
+        "Sai — 6 tháng/lần là lịch khám định kỳ trong 2 năm tiếp theo sau phẫu thuật (§10).",
+        "Sai — 4 tháng/lần là lịch khám định kỳ trong năm đầu tiên sau phẫu thuật triệt căn (§10).",
+        "Đúng — giáo trình nêu rõ: loạn sản nặng cần nội soi thực quản định kỳ 3 tháng/lần."
+      ]
+    },
+    {
+      "id": "SURG20B-A23",
+      "type": "vignette",
+      "topic": "Giải phẫu & Sinh lý",
+      "subtopic": "Phản xạ nuốt và bẫy đánh giá rối loạn cơ thắt trên",
+      "bloom": "đánh giá",
+      "difficulty": 3,
+      "source": "SURG-20B §3",
+      "text": "Giữa các lần nuốt, cơ thắt thực quản trên luôn duy trì trạng thái đóng kín để ngăn không khí lọt vào đường tiêu hóa.\nCơ vân nào sau đây đóng vai trò tạo nên trương lực chính để giữ cơ thắt thực quản trên luôn đóng kín?",
+      "options": [
+        "Các cột cơ hoành ngực",
+        "Nhóm cơ trên móng vùng cổ",
+        "Cơ nhẫn hầu vùng hạ họng",
+        "Cơ thắt tâm vị dạ dày"
+      ],
+      "correct": 2,
+      "explanation": "Theo mục 3 giáo trình: Cơ thắt thực quản trên luôn đóng nhờ tính đàn hồi của thành và trương lực của cơ nhẫn hầu và các cơ hầu dưới.",
+      "option_explanations": [
+        "Sai — các cột cơ hoành hỗ trợ đóng cơ thắt thực quản dưới, không liên quan cơ thắt trên.",
+        "Sai — các cơ trên móng có tác dụng kéo thanh quản ra trước để mở cơ thắt trên khi nuốt, không phải cơ giữ đóng.",
+        "Đúng — theo giáo trình, cơ thắt thực quản trên luôn đóng nhờ tính đàn hồi của thành và trương lực của cơ nhẫn hầu và các cơ hầu dưới.",
+        "Sai — cơ thắt tâm vị nằm ở đầu dưới thực quản tại chỗ nối thực quản - dạ dày."
+      ]
+    },
+    {
+      "id": "SURG20B-A24",
+      "type": "vignette",
+      "topic": "Đại cương & Bệnh nguyên",
+      "subtopic": "Đánh giá giả thuyết chuyển dịch mô bệnh học giữa hai thập kỷ",
+      "bloom": "đánh giá",
+      "difficulty": 3,
+      "source": "SURG-20B §4.1, §4.2",
+      "text": "Một công nhân làm việc nhiều năm tại nhà máy tiếp xúc hóa chất công nghiệp, đồng thời có chẩn đoán bệnh nhược cơ phối hợp.\nNhóm bệnh cảnh này được xếp vào yếu tố nguy cơ của thể mô bệnh học ung thư thực quản nào?",
+      "options": [
+        "Ung thư biểu mô vảy thực quản",
+        "Ung thư biểu mô tuyến thực quản",
+        "Khối u mô đệm đường tiêu hóa",
+        "Ung thư hắc tố ác tính thực quản"
+      ],
+      "correct": 0,
+      "explanation": "Theo mục 4.2 giáo trình: Nhược cơ và môi trường làm việc ở các nhà máy tiếp xúc hóa chất thuộc nhóm các yếu tố khác gây ung thư biểu mô vảy thực quản.",
+      "option_explanations": [
+        "Đúng — theo mục 4.2 giáo trình, nhược cơ và hóa chất nhà máy là yếu tố nguy cơ của ung thư biểu mô vảy.",
+        "Sai — ung thư biểu mô tuyến có bệnh nguyên chính là thực quản Barrett, GERD và béo phì (§4.1).",
+        "Sai — u mô đệm đường tiêu hóa (GIST) không thuộc phân loại bệnh nguyên ung thư thực quản trong giáo trình.",
+        "Sai — u hắc tố ác tính là thể hiếm gặp (<1%), không có nhóm bệnh nguyên đặc thù nêu trên."
+      ]
+    },
+    {
+      "id": "SURG20B-A25",
+      "type": "concept",
+      "topic": "Đại cương & Bệnh nguyên",
+      "subtopic": "Đánh giá xu hướng sống 5 năm tại Mỹ qua 3 giai đoạn",
+      "bloom": "đánh giá",
+      "difficulty": 2,
+      "source": "SURG-20B §1",
+      "text": "Theo số liệu thống kê tại Mỹ được trích dẫn trong giáo trình, thời gian sống thêm 5 năm của bệnh nhân ung thư thực quản trong giai đoạn 1975-1977 được ghi nhận đạt khoảng bao nhiêu phần trăm?\nTỷ lệ sống thêm 5 năm của ung thư thực quản giai đoạn 1975-1977 theo barem là bao nhiêu?",
+      "options": [
+        "Đạt tỷ lệ sống 5 năm khoảng 15%",
+        "Đạt tỷ lệ sống 5 năm khoảng 10%",
+        "Đạt tỷ lệ sống 5 năm khoảng 5%",
+        "Đạt tỷ lệ sống 5 năm khoảng 20%"
+      ],
+      "correct": 2,
+      "explanation": "Theo mục 1 giáo trình: Thời gian sống 5 năm khoảng 5% năm 1975-1977, tăng 10% từ năm 1984-1986, và 10% từ năm 1996-2003.",
+      "option_explanations": [
+        "Sai — con số 15% không phải là mốc thống kê sống 5 năm trong giáo trình.",
+        "Sai — 10% là tỷ lệ tăng thêm được ghi nhận ở giai đoạn 1984-1986 và 1996-2003.",
+        "Đúng — nguyên văn giáo trình: Thời gian sống 5 năm khoảng 5% năm 1975-1977.",
+        "Sai — con số 20% là tỷ lệ di căn phổi của ung thư thực quản (§7.3)."
+      ]
+    },
+    {
+      "id": "SURG20B-A26",
+      "type": "vignette",
+      "topic": "Giải phẫu & Sinh lý",
+      "subtopic": "Thiết kế kế hoạch phòng ngừa rò và chọn đường dẫn lưu theo đoạn phẫu thuật",
+      "bloom": "sáng tạo",
+      "difficulty": 3,
+      "source": "SURG-20B §2",
+      "text": "Một phẫu thuật viên lập kế hoạch tiền phẫu cho bệnh nhân có khối u cách cung răng 27 cm, cần bảo vệ cấu trúc giải phẫu lân cận vùng chỗ hẹp sinh lý, kiểm soát nguồn máu nuôi tại chỗ và đánh giá đích di căn tĩnh mạch tương ứng.\nPhương án thiết kế bản đồ giải phẫu tiền phẫu nào sau đây khớp hoàn toàn với vị trí khối u của bệnh nhân?",
+      "options": [
+        "Đoạn 1/3 trên; mốc hẹp sụn nhẫn; động mạch giáp dưới; dẫn lưu về tĩnh mạch chủ trên",
+        "Đoạn cổ; mốc hẹp miệng Kilian; động mạch cảnh ngoài; dẫn lưu về tĩnh mạch cảnh trong",
+        "Đoạn 1/3 dưới; mốc hẹp cơ hoành; động mạch vành vị và hoành dưới; dẫn lưu tĩnh mạch cửa",
+        "Đoạn 1/3 giữa; hẹp quai ĐMC và phế quản trái; ĐM thực quản giữa; tĩnh mạch Azygos"
+      ],
+      "correct": 3,
+      "explanation": "Khối u cách cung răng 27 cm thuộc 1/3 giữa thực quản (26-32 cm). Tại đây u liên quan chỗ hẹp quai ĐMC và phế quản trái, nhận máu từ ĐM thực quản giữa và dẫn lưu máu về tĩnh mạch Azygos.",
+      "option_explanations": [
+        "Sai — đoạn 1/3 trên nằm trong khoảng 15-25 cm, tương ứng chỗ hẹp sụn nhẫn và ĐM giáp dưới.",
+        "Sai — đoạn cổ từ 15 cm trở lên; ĐM cảnh ngoài và TM cảnh trong không phải phân nhánh tưới máu/dẫn lưu chuẩn của thực quản.",
+        "Sai — đoạn 1/3 dưới tính từ 33 cm trở xuống tâm vị, liên quan chỗ hẹp cơ hoành và hệ mạch vành vị/tĩnh mạch cửa.",
+        "Đúng — 27 cm thuộc 1/3 giữa (26-32 cm), liên quan hai chỗ hẹp quai ĐMC và phế quản trái, nhận máu từ ĐM thực quản giữa và đổ về tĩnh mạch Azygos."
+      ]
+    },
+    {
+      "id": "SURG20B-A27",
+      "type": "vignette",
+      "topic": "Đại cương & Bệnh nguyên",
+      "subtopic": "Xây dựng chiến lược dự phòng & giám sát cá thể hóa theo nguy cơ kép",
+      "bloom": "sáng tạo",
+      "difficulty": 3,
+      "source": "SURG-20B §4.1, §10",
+      "text": "Trong chiến lược kiểm soát bệnh lý ung thư thực quản theo barem, biện pháp can thiệp nào sau đây thuộc cấp độ phòng bệnh cấp 1?",
+      "options": [
+        "Tiêm phòng vắc xin phòng ngừa HPV",
+        "Điều trị dứt điểm viêm trào ngược",
+        "Điều trị triệt để hội chứng nhược cơ",
+        "Tránh tiếp xúc môi trường hóa chất"
+      ],
+      "correct": 1,
+      "explanation": "Theo mục 4.1 và mục 10 giáo trình: Ung thư biểu mô tuyến liên quan đến trào ngược dạ dày thực quản và béo phì; phòng bệnh cấp 1 gồm điều trị dứt điểm viêm trào ngược dạ dày thực quản (GERD) và kiểm soát cân nặng.",
+      "option_explanations": [
+        "Sai — HPV là yếu tố nguy cơ của ung thư biểu mô vảy (§4.2).",
+        "Đúng — theo mục 10 giáo trình, điều trị dứt điểm viêm trào ngược dạ dày thực quản (GERD) và kiểm soát cân nặng là biện pháp phòng bệnh cấp 1 hàng đầu ngăn ngừa ung thư biểu mô tuyến.",
+        "Sai — nhược cơ là yếu tố liên quan đến ung thư biểu mô vảy (§4.2).",
+        "Sai — tránh tiếp xúc hóa chất là biện pháp dự phòng yếu tố nguy cơ của ung thư biểu mô vảy (§4.2)."
+      ]
+    },
+    {
+      "id": "SURG20B-A28",
+      "type": "vignette",
+      "topic": "Giải phẫu bệnh & Lâm sàng",
+      "subtopic": "Thiết lập kịch bản phòng ngừa biến chứng khi nội soi khối u đại thể",
+      "bloom": "sáng tạo",
+      "difficulty": 3,
+      "source": "SURG-20B §5.1",
+      "text": "Khối u ung thư thực quản thể loét hoại tử (25%) ăn sâu xuống dưới thành thực quản có nguy cơ làm thủng các cấu trúc giải phẫu kế cận.\nCấu trúc giải phẫu nào sau đây thuộc nhóm 3 cơ quan lân cận dễ bị khối u thể loét làm thủng theo mô tả trong giáo trình?",
+      "options": [
+        "Thần kinh quặt ngược thanh quản",
+        "Tĩnh mạch đơn Azygos thành sau",
+        "Đám rối thần kinh Auerbach",
+        "Cây phế quản đường dẫn khí"
+      ],
+      "correct": 3,
+      "explanation": "Theo mục 5.1 giáo trình: Dạng loét (25%) khối u bị hoại tử, ăn sâu xuống dưới; có thể làm thủng cây phế quản, động mạch chủ, hoặc màng bao tim.",
+      "option_explanations": [
+        "Sai — xâm lấn thần kinh quặt ngược thanh quản gây khàn tiếng (§6.2), không thuộc cơ chế hoại tử thủng tạng của dạng loét.",
+        "Sai — tĩnh mạch Azygos không nằm trong nhóm 3 cấu trúc nguy cơ thủng kinh điển được nêu trong bài.",
+        "Sai — đám rối Auerbach là mạng lưới vi thể trong thành ống, không phải cơ quan kế cận bị thủng.",
+        "Đúng — theo giáo trình, khối u dạng loét hoại tử ăn sâu có thể làm thủng cây phế quản, động mạch chủ, hoặc màng bao tim."
+      ]
+    },
+    {
+      "id": "SURG20B-B01",
+      "type": "concept",
+      "topic": "Giải phẫu bệnh & Lâm sàng",
+      "subtopic": "Đặc điểm triệu chứng nuốt nghẹn và hạch di căn",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-20B §6.2",
+      "text": "Bệnh nhân nam 65 tuổi đến khám tại phòng khám ngoại tiêu hóa vì rối loạn đường ăn uống.\nTheo thống kê lâm sàng ung thư thực quản trong giáo trình, triệu chứng cơ năng nào sau đây chiếm tỷ lệ cao nhất (gặp tới 90% bệnh nhân)?",
+      "options": [
+        "Đau tức sau xương ức",
+        "Nấc cục từng cơn kéo dài",
+        "Nuốt nghẹn tăng dần",
+        "Ợ trào ngược thức ăn"
+      ],
+      "correct": 2,
+      "explanation": "Theo giáo trình mục 6.2: Nuốt nghẹn là triệu chứng cơ năng chính gặp tới 90% trường hợp bệnh nhân ung thư thực quản.",
+      "option_explanations": [
+        "Sai — Đau tức sau xương ức là triệu chứng xuất hiện ở giai đoạn muộn do u ăn sâu hoặc loét hoại tử, không chiếm tới 90%.",
+        "Sai — Cơn nấc xuất hiện ở giai đoạn muộn khi u kích thích cơ hoành hoặc đám rối thần kinh lân cận.",
+        "Đúng — Nuốt nghẹn là triệu chứng cơ năng chủ yếu nhất gặp tới 90% trường hợp theo giáo trình mục 6.2.",
+        "Sai — Ợ trào ngược thức ăn là triệu chứng giai đoạn muộn do ứ đọng và giãn thực quản trên u."
+      ]
+    },
+    {
+      "id": "SURG20B-B02",
+      "type": "vignette",
+      "topic": "Giải phẫu bệnh & Lâm sàng",
+      "subtopic": "Cơ chế triệu chứng muộn: khàn tiếng, ợ trào ngược, hôi miệng",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-20B §6.2",
+      "text": "Bệnh nhân nam 68 tuổi mắc ung thư thực quản kèm triệu chứng khàn tiếng rõ rệt mới xuất hiện 3 tuần gần đây.\nTổn thương cấu trúc giải phẫu nào sau đây giải thích trực tiếp triệu chứng khàn tiếng của bệnh nhân?",
+      "options": [
+        "Đám rối thần kinh Auerbach",
+        "Thần kinh hoành vùng ngực",
+        "Chuỗi hạch giao cảm cổ ngực",
+        "Thần kinh quặt ngược thanh quản"
+      ],
+      "correct": 3,
+      "explanation": "Theo giáo trình mục 6.2: Khàn tiếng ở giai đoạn muộn là do khối u xâm lấn thần kinh quặt ngược thanh quản.",
+      "option_explanations": [
+        "Sai — Đám rối Auerbach chi phối vận động nhu động thành thực quản, tổn thương gây rối loạn co bóp chứ không gây khàn tiếng.",
+        "Sai — Liệt thần kinh hoành gây nâng cao vòm hoành và khó thở, không làm liệt dây thanh âm.",
+        "Sai — Chèn ép chuỗi giao cảm cổ gây hội chứng Horner (hẹp khe mi, co đồng tử), không gây khàn tiếng.",
+        "Đúng — Khối u xâm lấn dây thần kinh quặt ngược thanh quản gây liệt dây thanh âm dẫn đến khàn tiếng."
+      ]
+    },
+    {
+      "id": "SURG20B-B03",
+      "type": "vignette",
+      "topic": "Giải phẫu bệnh & Lâm sàng",
+      "subtopic": "Diễn tiến triệu chứng nuốt nghẹn từ sớm sang muộn",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-20B §6.2",
+      "text": "Bệnh nhân nam 63 tuổi đến khám vì rối loạn nuốt tiến triển.\nĐặc điểm nuốt nghẹn nào sau đây cảnh báo khối u thực quản đã tiến triển đến giai đoạn muộn bít hẹp nặng lòng ống?",
+      "options": [
+        "Nghẹn thức ăn đặc uống nước trôi",
+        "Nghẹn nghẹn từng lúc xuất hiện khi lo lắng",
+        "Nghẹn cả thức ăn lỏng và nước uống",
+        "Vướng nghẹn thoáng qua khi ăn cơm khô"
+      ],
+      "correct": 2,
+      "explanation": "Theo giáo trình mục 6.2: Triệu chứng nuốt nghẹn tăng dần: lúc đầu nghẹn thức ăn đặc, uống nước thì hết; về sau u lớn gây nghẹn cả thức ăn lỏng và nước uống là dấu hiệu của giai đoạn muộn.",
+      "option_explanations": [
+        "Sai — Nghẹn thức ăn đặc uống nước hết là biểu hiện điển hình của giai đoạn sớm khi lòng thực quản mới hẹp một phần.",
+        "Sai — Nghẹn từng lúc phụ thuộc tâm lý cảm xúc là đặc trưng của nuốt nghẹn chức năng, không phải tiến triển của ung thư thực quản.",
+        "Đúng — Nghẹn cả thức ăn lỏng và nước uống chứng tỏ khối u đã phát triển bít hẹp gần hoàn toàn lòng ống ở giai đoạn muộn.",
+        "Sai — Cảm giác vướng thoáng qua khi ăn đồ khô là dấu hiệu khởi đầu rất sớm của bệnh."
+      ]
+    },
+    {
+      "id": "SURG20B-B04",
+      "type": "concept",
+      "topic": "Cận lâm sàng & Chẩn đoán",
+      "subtopic": "Vai trò các phương tiện chẩn đoán hình ảnh và nội soi",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-20B §7.5",
+      "text": "Bệnh nhân nam 61 tuổi đã có chẩn đoán xác định ung thư thực quản qua nội soi sinh thiết.\nPhương tiện cận lâm sàng nào sau đây có giá trị cao nhất để đánh giá giai đoạn xâm lấn tại chỗ (T) và hạch vùng (N) khi chưa có di căn xa?",
+      "options": [
+        "Chụp thực quản Barium swallow",
+        "Siêu âm nội soi thực quản (EUS)",
+        "Chụp CT Scanner ngực - bụng",
+        "Nội soi thực quản ống mềm"
+      ],
+      "correct": 1,
+      "explanation": "Theo giáo trình mục 7.5: Siêu âm nội soi (EUS) có giá trị rất cao để đánh giá giai đoạn xâm lấn tại chỗ (T) và hạch vùng (N) khi chưa có di căn xa.",
+      "option_explanations": [
+        "Sai — Chụp Barium swallow chỉ đánh giá hình thái lưu thông lòng ống và ổ loét, không khảo sát được hạch và độ sâu xâm lấn vi thể.",
+        "Đúng — Siêu âm nội soi (EUS) là phương tiện tối ưu nhất để phân định ranh giới các lớp thành (T) và chẩn đoán hạch vùng (N) khi chưa di căn xa.",
+        "Sai — CT ngực - bụng đánh giá tốt xâm lấn tạng lân cận và di căn xa, nhưng độ phân giải từng lớp thành T không cao bằng EUS.",
+        "Sai — Nội soi thực quản ống mềm quan sát tổn thương niêm mạc và sinh thiết, không đo được chiều sâu các lớp thành thực quản."
+      ]
+    },
+    {
+      "id": "SURG20B-B05",
+      "type": "vignette",
+      "topic": "Cận lâm sàng & Chẩn đoán",
+      "subtopic": "Giá trị định hướng của chụp thực quản cản quang trước nội soi",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-20B §7.2",
+      "text": "Bệnh nhân nam 64 tuổi nuốt nghẹn nhiều kèm đau rát sau xương ức được chuẩn bị làm các thăm dò chẩn đoán.\nPhương tiện cận lâm sàng nào sau đây có ích để định hướng trước khi soi, giúp phòng ngừa biến chứng thủng thực quản khi thực hiện thủ thuật?",
+      "options": [
+        "Nội soi thực quản nhuộm màu",
+        "Chụp thực quản Barium swallow",
+        "Chụp CT Scanner ngực - bụng",
+        "Siêu âm nội soi thực quản (EUS)"
+      ],
+      "correct": 1,
+      "explanation": "Theo giáo trình mục 7.2: Chụp thực quản có cản quang (Barium swallow) có ích để định hướng trước khi soi, tránh biến chứng thủng khi soi.",
+      "option_explanations": [
+        "Sai — Nội soi nhuộm màu là kỹ thuật thực hiện trực tiếp trong lòng thực quản, cần có định hướng an toàn từ trước.",
+        "Đúng — Barium swallow ghi nhận trước vị trí u, mức độ hẹp và ổ loét thành thực quản, từ đó dẫn đường an toàn tránh thủng khi đưa máy soi qua.",
+        "Sai — CT ngực - bụng đánh giá xâm lấn tổng thể khoang ngực, không hiển thị trực tiếp bản đồ lòng ống sinh động bằng chụp baryt nuốt.",
+        "Sai — Siêu âm nội soi (EUS) cũng sử dụng đầu dò nội soi đưa qua chỗ hẹp nên cần định hướng từ trước để tránh tai biến thủng."
+      ]
+    },
+    {
+      "id": "SURG20B-B06",
+      "type": "vignette",
+      "topic": "Cận lâm sàng & Chẩn đoán",
+      "subtopic": "Phân bố di căn xa trên CT Scanner ngực-bụng",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "SURG-20B §7.3",
+      "text": "Bệnh nhân nam 66 tuổi được chụp CT Scanner ngực - bụng để đánh giá tình trạng di căn xa của ung thư thực quản.\nTheo thống kê trong giáo trình, tạng nào sau đây có tỷ lệ phát hiện di căn xa cao nhất (khoảng 35%) trên phim chụp CT?",
+      "options": [
+        "Di căn nhu mô phổi",
+        "Di căn hệ thống xương",
+        "Di căn nhu mô gan",
+        "Di căn tuyến thượng thận"
+      ],
+      "correct": 2,
+      "explanation": "Theo giáo trình mục 7.3: CT Scanner ngực - bụng phát hiện di căn xa: gan (35%), phổi (20%), xương (9%). Do đó di căn gan chiếm tỷ lệ cao nhất.",
+      "option_explanations": [
+        "Sai — Di căn nhu mô phổi chiếm khoảng 20% các trường hợp trên CT Scanner, đứng hàng thứ hai sau gan.",
+        "Sai — Di căn hệ thống xương chiếm khoảng 9% các trường hợp phát hiện di căn trên CT Scanner.",
+        "Đúng — Di căn gan chiếm tỷ lệ cao nhất với khoảng 35% trường hợp theo số liệu mục 7.3 giáo trình.",
+        "Sai — Tuyến thượng thận có thể gặp di căn ở giai đoạn muộn nhưng không nằm trong thống kê ba vị trí kinh điển của bài học."
+      ]
+    },
+    {
+      "id": "SURG20B-B07",
+      "type": "vignette",
+      "topic": "Cận lâm sàng & Chẩn đoán",
+      "subtopic": "Phân loại giai đoạn TNM AJCC — Giai đoạn IIA và IIB",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-20B §8.2",
+      "text": "Bệnh nhân nam 59 tuổi được xác định: khối u xâm lấn tới lớp dưới niêm mạc (T1b), có 1 hạch cạnh thực quản di căn (N1), chưa có di căn xa (M0).\nTheo phân loại giai đoạn TNM / AJCC trong giáo trình, bệnh nhân này được xếp vào giai đoạn nào?",
+      "options": [
+        "Giai đoạn I",
+        "Giai đoạn IIA",
+        "Giai đoạn III",
+        "Giai đoạn IIB"
+      ],
+      "correct": 3,
+      "explanation": "Theo bảng TNM trong giáo trình mục 8.2: Giai đoạn I là T1 N0 M0; Giai đoạn IIA là T2/T3 N0 M0; Giai đoạn IIB là T1/T2 N1 M0; Giai đoạn III là T3 N1 M0 hoặc T4 N0 M0. Bệnh nhân có T1b N1 M0 thuộc Giai đoạn IIB.",
+      "option_explanations": [
+        "Sai — Giai đoạn I yêu cầu N0 M0 (chưa có di căn hạch), trong khi bệnh nhân đã có hạch N1.",
+        "Sai — Giai đoạn IIA là T2/T3 N0 M0 (khối u ăn sâu vào lớp cơ hoặc màng bao nhưng chưa có hạch N0).",
+        "Sai — Giai đoạn III yêu cầu T3 N1 M0 hoặc T4 N0 M0, ở đây u chỉ mới tới dưới niêm mạc T1.",
+        "Đúng — Giai đoạn IIB gồm T1 hoặc T2 kèm theo có di căn hạch vùng N1 (M0)."
+      ]
+    },
+    {
+      "id": "SURG20B-B08",
+      "type": "vignette",
+      "topic": "Cận lâm sàng & Chẩn đoán",
+      "subtopic": "Phân biệt giai đoạn III, IVA và IVB theo AJCC",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-20B §8.2",
+      "text": "Bệnh nhân nữ 65 tuổi ung thư thực quản có khối u T3 ăn lan qua màng bao, có hạch vùng N1 và xuất hiện 2 ổ di căn nhu mô gan (M1b).\nTheo bảng phân loại giai đoạn TNM / AJCC trong giáo trình, bệnh nhân này được xếp vào giai đoạn nào?",
+      "options": [
+        "Giai đoạn IVB",
+        "Giai đoạn III",
+        "Giai đoạn IVA",
+        "Giai đoạn IIB"
+      ],
+      "correct": 0,
+      "explanation": "Theo bảng TNM giáo trình mục 8.2: Giai đoạn IVA là T0-4 N0/1 M1a (di căn hạch xa); Giai đoạn IVB là T0-4 N0/1 M1b (di căn các tạng xa như gan, phổi, xương). Có di căn gan (M1b) nên xếp vào Giai đoạn IVB.",
+      "option_explanations": [
+        "Đúng — Giai đoạn IVB là có di căn các tạng xa như gan, phổi, xương (M1b) bất kể mức độ T và N.",
+        "Sai — Giai đoạn III là T3 N1 M0 hoặc T4 N0 M0, chưa có di căn xa (M0).",
+        "Sai — Giai đoạn IVA là di căn hạch xa (M1a), không phải di căn tạng xa.",
+        "Sai — Giai đoạn IIB là T1/T2 N1 M0, chưa có di căn xa (M0)."
+      ]
+    },
+    {
+      "id": "SURG20B-B09",
+      "type": "vignette",
+      "topic": "Cận lâm sàng & Chẩn đoán",
+      "subtopic": "Phân tích chẩn đoán phân biệt nuốt nghẹn (7 bệnh)",
+      "bloom": "phân tích",
+      "difficulty": 3,
+      "source": "SURG-20B §8.3",
+      "text": "Bệnh nhân nam 40 tuổi nuốt nghẹn từng lúc cả chất lỏng lẫn chất đặc kéo dài 3 năm, thể trạng tốt. Chụp cản quang thấy đoạn thực quản dưới thuôn nhọn hình mỏ chim, đoạn trên giãn to; nội soi niêm mạc nhẵn bóng không có sùi loét.\nBệnh cảnh lâm sàng này phù hợp nhất với chẩn đoán phân biệt nào sau đây?",
+      "options": [
+        "Co thắt tâm vị (Achalasia)",
+        "Sẹo hẹp do bỏng kiềm",
+        "Túi thừa thực quản",
+        "Ung thư tâm vị lan lên"
+      ],
+      "correct": 0,
+      "explanation": "Theo giáo trình mục 8.3: Co thắt tâm vị (Achalasia) là bệnh lý lành tính gây nuốt nghẹn mạn tính cả đặc và lỏng, hình ảnh mỏ chim trên phim cản quang và niêm mạc bình thường trên nội soi.",
+      "option_explanations": [
+        "Đúng — Triệu chứng nghẹn cả lỏng lẫn đặc nhiều năm, hình ảnh mỏ chim thuôn nhọn và niêm mạc nhẵn là điển hình của co thắt tâm vị.",
+        "Sai — Sẹo hẹp do bỏng kiềm có tiền sử uống hóa chất ăn mòn, niêm mạc xơ chai chít hẹp không giãn mềm mại.",
+        "Sai — Túi thừa thực quản biểu hiện túi chứa thuốc nhô ra ngoài thành thực quản, kèm ợ ra thức ăn cũ thối.",
+        "Sai — Ung thư tâm vị lan lên gặp ở người già, tiến triển nhanh gây suy kiệt, nội soi thấy khối u sùi loét hoại tử vùng tâm vị."
+      ]
+    },
+    {
+      "id": "SURG20B-B10",
+      "type": "vignette",
+      "topic": "Cận lâm sàng & Chẩn đoán",
+      "subtopic": "Phân biệt tổn thương lành tính vs ác tính khi nuốt nghẹn",
+      "bloom": "phân tích",
+      "difficulty": 2,
+      "source": "SURG-20B §8.3",
+      "text": "Bệnh nhân nữ 34 tuổi đến khám vì nuốt nghẹn tiến triển sau tai nạn uống nhầm dung dịch tẩy rửa chứa xút cách đây 1 năm.\nBệnh cảnh nuốt nghẹn lành tính này tương ứng với nguyên nhân chẩn đoán phân biệt nào trong giáo trình?",
+      "options": [
+        "Sẹo hẹp thực quản do bỏng kiềm/axit",
+        "U trung thất đè từ ngoài vào",
+        "Co thắt tâm vị (Achalasia)",
+        "Viêm hẹp do trào ngược dạ dày"
+      ],
+      "correct": 0,
+      "explanation": "Theo giáo trình mục 8.3: Sẹo hẹp thực quản do bỏng kiềm/axit là một trong những nguyên nhân chẩn đoán phân biệt quan trọng với ung thư thực quản.",
+      "option_explanations": [
+        "Đúng — Tiền sử ngộ độc chất ăn mòn (xút kiềm) gây xơ hóa teo hẹp lòng ống là sẹo hẹp do bỏng kiềm/axit theo giáo trình mục 8.3.",
+        "Sai — U trung thất phát triển ngoài lòng ống đè ép thành thực quản, không tổn thương niêm mạc do hóa chất.",
+        "Sai — Co thắt tâm vị là rối loạn thần kinh cơ vô căn, không liên quan đến tiền sử uống hóa chất tẩy rửa.",
+        "Sai — Viêm hẹp do trào ngược xuất hiện ở bệnh nhân có hội chứng GERD mạn tính nhiều năm, loét trợt đoạn dưới thực quản."
+      ]
+    },
+    {
+      "id": "SURG20B-B11",
+      "type": "vignette",
+      "topic": "Điều trị & Theo dõi",
+      "subtopic": "Chỉ định can thiệp giai đoạn rất sớm (Tis / T1a)",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-20B §9.2",
+      "text": "Bệnh nhân nam 56 tuổi phát hiện ung thư thực quản giai đoạn rất sớm (Tis N0 M0), u phẳng khu trú nông ở niêm mạc chưa qua lớp cơ.\nPhương pháp can thiệp tại chỗ được chỉ định ưu tiên theo giáo trình cho trường hợp này là gì?",
+      "options": [
+        "Cắt thực quản tạo hình dạ dày",
+        "Cắt hớt niêm mạc qua nội soi (EMR/ESD)",
+        "Hóa - xạ trị tiền phẫu rồi phẫu thuật",
+        "Đặt stent kim loại tự nở giảm nghẹn"
+      ],
+      "correct": 1,
+      "explanation": "Theo giáo trình mục 9.2: Giai đoạn rất sớm (chưa xâm lấn lớp cơ) điều trị bằng cắt hớt niêm mạc qua nội soi (EMR/ESD), laser hoặc quang đông lạnh.",
+      "option_explanations": [
+        "Sai — Cắt thực quản tạo hình dạ dày là chỉ định cho giai đoạn I xâm lấn dưới niêm mạc (T1b) hoặc giai đoạn II-III sau hóa xạ.",
+        "Đúng — Tổn thương rất sớm chưa qua lớp cơ chỉ định cắt hớt niêm mạc qua nội soi (EMR/ESD) hoặc laser/cryotherapy.",
+        "Sai — Hóa - xạ trị tiền phẫu áp dụng cho giai đoạn II, III có xâm lấn sâu hoặc di căn hạch vùng.",
+        "Sai — Đặt stent kim loại tự nở là biện pháp giảm nhẹ triệu chứng cho ung thư thực quản giai đoạn muộn."
+      ]
+    },
+    {
+      "id": "SURG20B-B12",
+      "type": "vignette",
+      "topic": "Điều trị & Theo dõi",
+      "subtopic": "Phác đồ điều trị giai đoạn I và giai đoạn II-III",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-20B §9.2",
+      "text": "Bệnh nhân nam 58 tuổi, ung thư biểu mô vảy giai đoạn III (T3 N1 M0) có thể trạng tốt.\nPhương án điều trị đa mô thức chuẩn mực theo barem là gì?",
+      "options": [
+        "Cắt hớt niêm mạc qua nội soi (EMR/ESD)",
+        "Cắt thực quản triệt căn tạo hình dạ dày",
+        "Xạ trị gia tốc điều biến thể tích VMAT",
+        "Hóa - xạ tiền phẫu rồi mới phẫu thuật"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Mục 9.2: Giai đoạn II, III phối hợp hóa - xạ trị tiền phẫu sau đó phẫu thuật triệt căn diện cắt cách u > 5cm (R0) và nạo hạch vùng.",
+      "option_explanations": [
+        "Sai — EMR/ESD chỉ định cho giai đoạn rất sớm Tis/T1a chưa xâm lấn lớp cơ; khi đã xâm lấn dưới niêm mạc T1b nguy cơ di căn hạch cao cần phẫu thuật cắt thực quản.",
+        "Đúng — Phẫu thuật cắt thực quản triệt căn tạo hình ống cuốn dạ dày đưa lên thay thế là chỉ định chuẩn cho giai đoạn I.",
+        "Sai — Xạ trị VMAT ưu tiên cho u 1/3 trên hoặc bệnh nhân không đủ điều kiện phẫu thuật.",
+        "Sai — Hóa - xạ trị tiền phẫu chỉ đặt ra cho giai đoạn tiến triển tại chỗ II và III."
+      ]
+    },
+    {
+      "id": "SURG20B-B13",
+      "type": "vignette",
+      "topic": "Điều trị & Theo dõi",
+      "subtopic": "Chiến lược theo vị trí: đoạn cổ và 1/3 trên",
+      "bloom": "phân tích",
+      "difficulty": 3,
+      "source": "SURG-20B §9.3",
+      "text": "Bệnh nhân nam 59 tuổi mắc ung thư biểu mô vảy đoạn 1/3 trên thực quản (cách cung răng 21 cm).\nDo đặc điểm giải phẫu khó cắt rộng triệt căn và nguy cơ tai biến cao, phương pháp nào được ưu tiên hàng đầu?",
+      "options": [
+        "Xạ trị hoặc hóa xạ đồng thời",
+        "Cắt đoạn dưới và cực trên dạ dày",
+        "Cắt toàn bộ thực quản tạo hình đại tràng",
+        "Cắt hớt niêm mạc qua nội soi (EMR/ESD)"
+      ],
+      "correct": 0,
+      "explanation": "Theo giáo trình mục 9.3: UT 1/3 trên thực quản khó cắt rộng triệt căn, nguy cơ tai biến cao -> Xạ trị / Hóa xạ đồng thời được ưu tiên hàng đầu.",
+      "option_explanations": [
+        "Đúng — Với u 1/3 trên thực quản, xạ trị hoặc hóa xạ đồng thời là lựa chọn ưu tiên số một theo bài giảng mục 9.3.",
+        "Sai — Cắt đoạn dưới thực quản và cực trên dạ dày áp dụng cho ung thư đoạn 1/3 dưới thực quản.",
+        "Sai — Cắt toàn bộ thực quản tạo hình đại tràng là phẫu thuật áp dụng cho u 1/3 giữa thực quản.",
+        "Sai — Cắt hớt niêm mạc chỉ dùng cho giai đoạn rất sớm nông ở niêm mạc, không thể kiểm soát khối u 1/3 trên tiến triển."
+      ]
+    },
+    {
+      "id": "SURG20B-B14",
+      "type": "vignette",
+      "topic": "Điều trị & Theo dõi",
+      "subtopic": "Chiến lược theo vị trí: 1/3 giữa và 1/3 dưới",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-20B §9.3",
+      "text": "Bệnh nhân nam 61 tuổi mắc ung thư biểu mô tuyến đoạn 1/3 dưới thực quản (cách cung răng 36 cm), giai đoạn IIA, đủ điều kiện phẫu thuật.\nKỹ thuật ngoại khoa cắt bỏ và lập lại lưu thông tiêu hóa chuẩn cho vị trí này là phương án nào?",
+      "options": [
+        "Cắt đoạn dưới và cực trên dạ dày",
+        "Cắt toàn bộ thực quản tạo hình đại tràng",
+        "Cắt nguyên khối hạ họng - thanh quản",
+        "Xạ trị hoặc hóa xạ đồng thời"
+      ],
+      "correct": 0,
+      "explanation": "Theo giáo trình mục 9.3: UT 1/3 dưới thực quản chỉ định phẫu thuật cắt đoạn thực quản dưới và cực trên dạ dày, lập lại lưu thông tiêu hóa bằng nối dạ dày - thực quản trong lồng ngực.",
+      "option_explanations": [
+        "Đúng — Phẫu thuật cắt đoạn dưới thực quản và cực trên dạ dày nối trong ngực là kỹ thuật kinh điển cho u 1/3 dưới theo mục 9.3.",
+        "Sai — Cắt toàn bộ thực quản đưa đại tràng lên là phương pháp áp dụng cho ung thư 1/3 giữa thực quản.",
+        "Sai — Cắt nguyên khối hạ họng - thanh quản và mở khí quản vĩnh viễn áp dụng riêng cho ung thư thực quản đoạn cổ.",
+        "Sai — Hóa xạ đồng thời ưu tiên hàng đầu cho đoạn 1/3 trên; đoạn 1/3 dưới ưu tiên phẫu thuật triệt căn."
+      ]
+    },
+    {
+      "id": "SURG20B-B15",
+      "type": "vignette",
+      "topic": "Điều trị & Theo dõi",
+      "subtopic": "Điều trị giảm nhẹ và xạ trị kỹ thuật cao IMRT/VMAT",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-20B §9.4",
+      "text": "Bệnh nhân nam 72 tuổi mắc ung thư thực quản giai đoạn IVB (di căn gan đa ổ và phổi), nuốt nghẹn hoàn toàn cả nước bọt.\nBiện pháp can thiệp tại chỗ hiệu quả nhất được giáo trình khuyến cáo để nhanh chóng giải quyết nuốt nghẹn cho bệnh nhân là gì?",
+      "options": [
+        "Cắt hớt niêm mạc qua nội soi (ESD)",
+        "Mở khí quản vĩnh viễn cấp cứu",
+        "Cắt toàn bộ thực quản nạo hạch",
+        "Đặt stent kim loại tự nở"
+      ],
+      "correct": 3,
+      "explanation": "Theo giáo trình mục 9.4: Ở giai đoạn muộn có di căn xa, can thiệp đặt stent kim loại tự nở lòng thực quản để giải quyết nuốt nghẹn.",
+      "option_explanations": [
+        "Sai — Cắt hớt niêm mạc ESD chỉ dành cho giai đoạn rất sớm Tis chưa xâm lấn lớp cơ, chống chỉ định khi u tắc nghẽn giai đoạn muộn.",
+        "Sai — Mở khí quản vĩnh viễn dùng cho u đoạn cổ xâm lấn thanh quản, không giải quyết được triệu chứng bít tắc đường ăn.",
+        "Sai — Cắt toàn bộ thực quản nạo hạch là đại phẫu thuật triệt căn, chống chỉ định ở bệnh nhân giai đoạn IVB di căn đa tạng suy kiệt.",
+        "Đúng — Đặt stent kim loại tự nở là thủ thuật can thiệp giảm nhẹ tối ưu giúp tái thông lòng thực quản nhanh chóng để bệnh nhân nuốt được."
+      ]
+    },
+    {
+      "id": "SURG20B-B16",
+      "type": "concept",
+      "topic": "Điều trị & Theo dõi",
+      "subtopic": "Kỹ thuật xạ trị hiện đại IMRT và VMAT",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-20B §9.4",
+      "text": "Trong điều trị ung thư thực quản, kỹ thuật xạ trị hiện đại nào sau đây được giáo trình nêu rõ giúp kiểm soát u tốt và giảm tối đa biến chứng mô lành?",
+      "options": [
+        "Xạ trị điều biến liều (IMRT / VMAT)",
+        "Xạ trị áp sát trong lòng khối u",
+        "Xạ trị cobalt quy ước trường chiếu rộng",
+        "Xạ phẫu định vị bằng dao gamma"
+      ],
+      "correct": 0,
+      "explanation": "Theo giáo trình mục 9.4: Ứng dụng kỹ thuật xạ trị hiện đại: IMRT (xạ trị điều biến liều), VMAT (xạ trị quay điều biến thể tích) giúp kiểm soát u tốt và giảm tối đa biến chứng mô lành.",
+      "option_explanations": [
+        "Đúng — Kỹ thuật xạ trị hiện đại IMRT và VMAT theo giáo trình mục 9.4 giúp kiểm soát khối u tối ưu đồng thời giảm tối đa biến chứng cho mô lành.",
+        "Sai — Xạ trị áp sát là kỹ thuật đặt nguồn xạ trong lòng lòng ống, ít kiểm soát được các diện thâm nhiễm sâu ra ngoài thành.",
+        "Sai — Xạ trị cobalt quy ước phát tia đồng đều nên gây tổn thương nhiều mô lành lân cận như phổi và tim.",
+        "Sai — Dao gamma chỉ áp dụng cho các tổn thương thần kinh trong sọ, không sử dụng cho ung thư thực quản."
+      ]
+    },
+    {
+      "id": "SURG20B-B17",
+      "type": "concept",
+      "topic": "Điều trị & Theo dõi",
+      "subtopic": "Phòng bệnh cấp 1 và cấp 2",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-20B §10.1",
+      "text": "Trong các chiến lược y tế dự phòng, biện pháp nào sau đây thuộc nội dung phòng bệnh cấp 1 của ung thư thực quản theo bài học?",
+      "options": [
+        "Bỏ thuốc lá và điều trị dứt GERD",
+        "Tầm soát phát hiện sớm nhóm nguy cơ",
+        "Nội soi thực quản định kỳ 3 tháng/lần",
+        "Chụp CT Scanner ngực - bụng định kỳ"
+      ],
+      "correct": 0,
+      "explanation": "Theo giáo trình mục 10.1: Phòng bệnh cấp 1 gồm bỏ thuốc lá, hạn chế rượu bia, điều trị dứt điểm viêm trào ngược dạ dày thực quản (GERD), kiểm soát cân nặng.",
+      "option_explanations": [
+        "Đúng — Bỏ thuốc lá và điều trị dứt điểm GERD là các biện pháp tác động vào căn nguyên thuộc phòng bệnh cấp 1 theo mục 10.1.",
+        "Sai — Tầm soát phát hiện sớm ở nhóm nguy cơ cao thuộc phòng bệnh cấp 2 theo mục 10.2 giáo trình.",
+        "Sai — Nội soi định kỳ 3 tháng/lần là theo dõi loạn sản nặng (thuộc nhóm phòng bệnh cấp 2 / phát hiện sớm).",
+        "Sai — Chụp CT Scanner định kỳ là thăm dò theo dõi sau phẫu thuật hoặc chẩn đoán giai đoạn, không phải phòng bệnh cấp 1."
+      ]
+    },
+    {
+      "id": "SURG20B-B18",
+      "type": "vignette",
+      "topic": "Điều trị & Theo dõi",
+      "subtopic": "Lịch theo dõi và thăm dò sau phẫu thuật triệt căn",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "SURG-20B §10.3",
+      "text": "Bệnh nhân nam 60 tuổi hoàn tất phẫu thuật cắt thực quản triệt căn R0 và nạo hạch vùng thành công.\nTheo hướng dẫn trong giáo trình, bệnh nhân cần được khám lâm sàng và xét nghiệm cơ bản định kỳ trong năm đầu tiên với tần suất nào?",
+      "options": [
+        "Định kỳ 2 tháng một lần",
+        "Định kỳ 3 tháng một lần",
+        "Định kỳ 6 tháng một lần",
+        "Định kỳ 4 tháng một lần"
+      ],
+      "correct": 3,
+      "explanation": "Theo giáo trình mục 10.3: Khám lâm sàng và xét nghiệm cơ bản định kỳ 4 tháng/lần trong năm đầu tiên; định kỳ 6 tháng/lần trong 2 năm tiếp theo.",
+      "option_explanations": [
+        "Sai — Mốc 2 tháng/lần không được khuyến cáo trong giáo trình.",
+        "Sai — Mốc 3 tháng/lần là tần suất nội soi theo dõi bệnh nhân có loạn sản nặng thực quản (mục 4.2).",
+        "Sai — Mốc 6 tháng/lần là tần suất theo dõi cho 2 năm tiếp theo (năm thứ 2 và thứ 3 sau mổ).",
+        "Đúng — Giáo trình ghi rõ tại mục 10.3: khám lâm sàng và xét nghiệm định kỳ 4 tháng/lần trong năm đầu tiên."
+      ]
+    },
+    {
+      "id": "SURG20B-B19",
+      "type": "vignette",
+      "topic": "Cận lâm sàng & Chẩn đoán",
+      "subtopic": "Lựa chọn xét nghiệm phân tầng T, N tại chỗ vs di căn toàn thân",
+      "bloom": "phân tích",
+      "difficulty": 3,
+      "source": "SURG-20B §7.6",
+      "text": "Bệnh nhân nam 63 tuổi mắc ung thư thực quản tiến triển cần rà soát kỹ các ổ di căn tiềm ẩn trước mổ.\nPhương tiện cận lâm sàng nào sau đây được giáo trình ghi nhận có vai trò đánh giá toàn diện tình trạng di căn toàn thân?",
+      "options": [
+        "Chụp thực quản Barium swallow",
+        "Chụp PET / PET-CT toàn thân",
+        "Chụp cắt lớp vi tính ngực - bụng",
+        "Siêu âm nội soi thực quản (EUS)"
+      ],
+      "correct": 1,
+      "explanation": "Theo giáo trình mục 7.6: Chụp PET / PET-CT: Đánh giá toàn diện tình trạng di căn toàn thân.",
+      "option_explanations": [
+        "Sai — Barium swallow chỉ đánh giá lưu thông lòng thực quản và ổ loét, không phát hiện được di căn tạng.",
+        "Đúng — Giáo trình mục 7.6 ghi nhận nguyên văn: Chụp PET / PET-CT đánh giá toàn diện tình trạng di căn toàn thân.",
+        "Sai — CT ngực - bụng khảo sát tốt vùng ngực và bụng (gan 35%, phổi 20%), nhưng không toàn diện toàn bộ cơ thể như PET-CT.",
+        "Sai — Siêu âm nội soi EUS chuyên biệt cho đánh giá xâm lấn thành T và hạch vùng N tại chỗ, không khảo sát toàn thân."
+      ]
+    },
+    {
+      "id": "SURG20B-B20",
+      "type": "vignette",
+      "topic": "Cận lâm sàng & Chẩn đoán",
+      "subtopic": "Phân biệt các bệnh gây nuốt nghẹn ngoài lòng và tâm vị",
+      "bloom": "phân tích",
+      "difficulty": 3,
+      "source": "SURG-20B §8.3",
+      "text": "Bệnh nhân nam 52 tuổi đến khám vì nuốt nghẹn. Nội soi ghi nhận niêm mạc lòng thực quản trơn láng bình thường nhưng thành ống bị khối choán chỗ từ lồng ngực đè đẩy gây hẹp lòng.\nTình trạng này tương ứng với nguyên nhân chẩn đoán phân biệt nào trong giáo trình?",
+      "options": [
+        "Co thắt tâm vị (Achalasia)",
+        "Túi thừa thực quản đoạn ngực",
+        "U trung thất đè từ ngoài vào",
+        "Ung thư tâm vị lan ngược lên"
+      ],
+      "correct": 2,
+      "explanation": "Theo giáo trình mục 8.3: U trung thất hoặc cơ quan lân cận đè từ ngoài vào là một trong 7 bệnh lý chẩn đoán phân biệt cần loại trừ khi bệnh nhân có biểu hiện nuốt nghẹn.",
+      "option_explanations": [
+        "Sai — Co thắt tâm vị là rối loạn nhu động thần kinh cơ nội tại của thực quản, không có khối choán chỗ bên ngoài trung thất.",
+        "Sai — Túi thừa thực quản là túi phình đọng thức ăn nhô ra ngoài thành ống thực quản.",
+        "Đúng — Khối u trung thất hoặc cơ quan lân cận đè ép từ ngoài vào lòng ống thực quản theo mục 8.3 giáo trình.",
+        "Sai — Ung thư tâm vị lan lên có khối u sùi hoặc loét thâm nhiễm xuất phát từ cực trên dạ dày lan qua tâm vị."
+      ]
+    },
+    {
+      "id": "SURG20B-B21",
+      "type": "vignette",
+      "topic": "Giải phẫu bệnh & Lâm sàng",
+      "subtopic": "Tổng hợp chẩn đoán phân biệt hội chứng muộn",
+      "bloom": "phân tích",
+      "difficulty": 2,
+      "source": "SURG-20B §8.3",
+      "text": "Bệnh nhân nam 67 tuổi nuốt nghẹn kèm đau vùng thượng vị. Nội soi phát hiện khối sùi lớn bắt nguồn từ phình vị và tâm vị dạ dày phát triển lan ngược lên đoạn 1/3 dưới thực quản.\nThương tổn này phù hợp nhất với chẩn đoán phân biệt nào được nêu trong bài học?",
+      "options": [
+        "Viêm hẹp do trào ngược dạ dày",
+        "Ung thư tâm vị lan lên thực quản",
+        "Co thắt tâm vị (Achalasia)",
+        "Sẹo hẹp do bỏng kiềm/axit"
+      ],
+      "correct": 1,
+      "explanation": "Theo giáo trình mục 8.3: Ung thư tâm vị, phình vị dạ dày lan lên thực quản là một bệnh cảnh lâm sàng quan trọng cần chẩn đoán phân biệt với ung thư thực quản nguyên phát.",
+      "option_explanations": [
+        "Sai — Viêm hẹp do trào ngược biểu hiện vết loét nông trợt và teo hẹp xơ chai mạn tính, không tạo khối u sùi lớn.",
+        "Đúng — Thương tổn khối u xuất phát từ tâm vị, phình vị dạ dày phát triển ngược lên thực quản theo giáo trình mục 8.3.",
+        "Sai — Co thắt tâm vị có niêm mạc nhẵn bóng, cơ thắt dưới không mở nhưng không có khối u sùi mô học ác tính.",
+        "Sai — Sẹo hẹp do bỏng kiềm có tiền sử uống hóa chất và lòng thực quản chít hẹp do xơ sẹo, không có khối sùi ác tính."
+      ]
+    },
+    {
+      "id": "SURG20B-B22",
+      "type": "vignette",
+      "topic": "Điều trị & Theo dõi",
+      "subtopic": "Đánh giá tính hợp lệ của chỉ định phẫu thuật theo giai đoạn và diện cắt",
+      "bloom": "đánh giá",
+      "difficulty": 3,
+      "source": "SURG-20B §9.2",
+      "text": "Trong phẫu thuật cắt thực quản triệt căn điều trị ung thư thực quản giai đoạn tiến triển tại chỗ (giai đoạn II, III):\nTheo nguyên tắc phẫu thuật trong giáo trình, diện cắt triệt căn phải cách bờ khối u một khoảng cách tối thiểu bao nhiêu để bảo đảm đạt diện cắt âm tính (R0)?",
+      "options": [
+        "Cách bờ khối u tối thiểu > 2 cm",
+        "Cách bờ khối u tối thiểu > 5 cm",
+        "Cách bờ khối u tối thiểu > 3 cm",
+        "Cách bờ khối u tối thiểu > 8 cm"
+      ],
+      "correct": 1,
+      "explanation": "Theo giáo trình mục 9.2: Giai đoạn II, III: Diện cắt triệt căn phải cách u > 5cm, đạt diện cắt âm tính (R0) và nạo vét hạch vùng triệt để.",
+      "option_explanations": [
+        "Sai — Khoảng cách > 2 cm là không đủ an toàn do tế bào ung thư thực quản thường lan tràn vi thể rất xa trong mạng bạch huyết dưới niêm mạc.",
+        "Đúng — Giáo trình ghi rõ tại mục 9.2: diện cắt triệt căn phải cách u > 5cm để bảo đảm đạt diện cắt âm tính (R0).",
+        "Sai — Mốc > 3 cm là khoảng cách diện cắt cho một số tạng tiêu hóa khác (như dạ dày), không đủ chuẩn cho thực quản.",
+        "Sai — Mốc > 8 cm là không khả thi về mặt giải phẫu đối với đa số các đoạn thực quản trong lồng ngực."
+      ]
+    },
+    {
+      "id": "SURG20B-B23",
+      "type": "vignette",
+      "topic": "Điều trị & Theo dõi",
+      "subtopic": "Đánh giá quyết định ưu tiên ở ung thư 1/3 trên thực quản",
+      "bloom": "đánh giá",
+      "difficulty": 3,
+      "source": "SURG-20B §7.4",
+      "text": "Khi đánh giá tổn thương xâm lấn và di căn ở bệnh nhân ung thư thực quản trước phẫu thuật:\nTheo khẳng định trong bài giảng, chụp cộng hưởng từ (MRI) đem lại giá trị chẩn đoán như thế nào khi so sánh với chụp cắt lớp vi tính (CT Scanner)?",
+      "options": [
+        "Kém chính xác hơn nhiều so với CT",
+        "Thay thế được nội soi sinh thiết",
+        "Vượt trội hơn hẳn CT Scanner",
+        "Cho kết quả tương đương CT"
+      ],
+      "correct": 3,
+      "explanation": "Theo giáo trình mục 7.4: Chụp cộng hưởng từ (MRI): Cho kết quả tương đương CT.",
+      "option_explanations": [
+        "Sai — MRI không hề kém chính xác hơn CT trong khảo sát các mô mềm trung thất.",
+        "Sai — Không phương tiện hình ảnh nào thay thế được tiêu chuẩn vàng giải phẫu bệnh của sinh thiết nội soi.",
+        "Sai — MRI không vượt trội hơn hẳn CT trong đánh giá giai đoạn ung thư thực quản ngực bụng.",
+        "Đúng — Giáo trình mục 7.4 khẳng định ngắn gọn và chính xác: Chụp cộng hưởng từ (MRI) cho kết quả tương đương CT."
+      ]
+    },
+    {
+      "id": "SURG20B-B24",
+      "type": "vignette",
+      "topic": "Cận lâm sàng & Chẩn đoán",
+      "subtopic": "Đánh giá vai trò bổ sung của PET-CT khi CT/MRI chưa thấy di căn",
+      "bloom": "đánh giá",
+      "difficulty": 2,
+      "source": "SURG-20B §4.2",
+      "text": "Bệnh nhân nam 55 tuổi có kết quả mô bệnh học niêm mạc thực quản xác định loạn sản nặng (tổn thương tiền ung thư biểu mô vảy).\nTheo khuyến cáo của giáo trình, bệnh nhân này cần được theo dõi định kỳ bằng biện pháp và khoảng thời gian nào?",
+      "options": [
+        "Khám lâm sàng định kỳ 4 tháng một lần",
+        "Chụp CT ngực - bụng định kỳ 6 tháng/lần",
+        "Nội soi thực quản định kỳ 3 tháng/lần",
+        "Chụp X-quang cản quang mỗi năm 1 lần"
+      ],
+      "correct": 2,
+      "explanation": "Theo giáo trình mục 4.2 (yếu tố nguy cơ UT biểu mô vảy): Loạn sản nặng (cần nội soi thực quản định kỳ 3 tháng/lần).",
+      "option_explanations": [
+        "Sai — Khám lâm sàng 4 tháng/lần là lịch theo dõi năm đầu sau mổ cắt thực quản triệt căn (mục 10.3).",
+        "Sai — CT Scanner không phát hiện được biến đổi vi thể lớp niêm mạc ở giai đoạn loạn sản.",
+        "Đúng — Giáo trình mục 4.2 nêu rõ: bệnh nhân có loạn sản nặng cần nội soi thực quản định kỳ 3 tháng/lần để phát hiện sớm ung thư xâm lấn.",
+        "Sai — Chụp Barium swallow độ nhạy rất thấp với tổn thương loạn sản phẳng bề mặt."
+      ]
+    },
+    {
+      "id": "SURG20B-B25",
+      "type": "vignette",
+      "topic": "Điều trị & Theo dõi",
+      "subtopic": "Đánh giá lựa chọn mở thông nuôi dưỡng vs đặt stent giảm nhẹ",
+      "bloom": "đánh giá",
+      "difficulty": 3,
+      "source": "SURG-20B §9.4",
+      "text": "Bệnh nhân nam 74 tuổi mắc ung thư thực quản giai đoạn IVB bị bít tắc hoàn toàn lòng ống, thử đặt stent kim loại tự nở nhưng thất bại do chít hẹp quá khít.\nGiải pháp ngoại khoa can thiệp tối ưu theo giáo trình để duy trì dinh dưỡng cho bệnh nhân lúc này là gì?",
+      "options": [
+        "Cắt toàn bộ thực quản cấp cứu",
+        "Truyền đạm mỡ tĩnh mạch lâu dài",
+        "Mở thông dạ dày hoặc hỗng tràng",
+        "Cắt hớt niêm mạc qua nội soi"
+      ],
+      "correct": 2,
+      "explanation": "Theo giáo trình mục 9.4: Ở giai đoạn muộn, mở thông dạ dày hoặc hỗng tràng nuôi dưỡng khi không còn khả năng ăn qua đường miệng.",
+      "option_explanations": [
+        "Sai — Cắt toàn bộ thực quản là đại phẫu thuật nặng nề, chống chỉ định cho bệnh nhân giai đoạn IVB di căn xa suy kiệt.",
+        "Sai — Nuôi ăn tĩnh mạch kéo dài gây biến chứng nhiễm trùng, teo ruột và tốn kém, không tối ưu bằng nuôi dưỡng đường tiêu hóa qua mở thông.",
+        "Đúng — Giáo trình mục 9.4 nêu rõ chỉ định mở thông dạ dày hoặc hỗng tràng nuôi dưỡng khi bệnh nhân không còn khả năng ăn qua đường miệng.",
+        "Sai — Cắt hớt niêm mạc ESD chỉ dành cho tổn thương rất sớm Tis/T1a, không thể thực hiện trên khối u hoại tử bít tắc hoàn toàn."
+      ]
+    },
+    {
+      "id": "SURG20B-B26",
+      "type": "vignette",
+      "topic": "Điều trị & Theo dõi",
+      "subtopic": "Thiết kế phác đồ đa mô thức cho ung thư 1/3 giữa giai đoạn IIB-III",
+      "bloom": "sáng tạo",
+      "difficulty": 3,
+      "source": "SURG-20B §9.3",
+      "text": "Một bệnh nhân ung thư 1/3 giữa giai đoạn III (T3 N1 M0) chuẩn bị phẫu thuật sau hóa xạ tiền phẫu.\nKỹ thuật mổ triệt căn phù hợp nhất là gì?",
+      "options": [
+        "Cắt đoạn dưới và cực trên dạ dày",
+        "Cắt nguyên khối hạ họng - thanh quản",
+        "Cắt toàn bộ thực quản tạo hình tiêu hóa",
+        "Cắt hớt niêm mạc qua nội soi (ESD)"
+      ],
+      "correct": 2,
+      "explanation": "Theo giáo trình mục 9.3: UT 1/3 giữa thực quản: Cắt thực quản toàn bộ, tái tạo đường tiêu hóa bằng dạ dày hoặc quai đại tràng đưa lên ngực/cổ, kết hợp xạ trị và hóa chất.",
+      "option_explanations": [
+        "Sai — Cắt đoạn dưới thực quản và cực trên dạ dày chỉ áp dụng cho u đoạn 1/3 dưới thực quản.",
+        "Sai — Cắt nguyên khối hạ họng - thanh quản kèm mở khí quản vĩnh viễn áp dụng cho u thực quản đoạn cổ.",
+        "Đúng — Phẫu thuật chuẩn cho u 1/3 giữa thực quản là cắt toàn bộ thực quản và tái tạo đường tiêu hóa bằng dạ dày hoặc đại tràng theo mục 9.3.",
+        "Sai — Cắt hớt niêm mạc ESD chỉ dùng cho giai đoạn rất sớm chưa xâm lấn lớp cơ."
+      ]
+    },
+    {
+      "id": "SURG20B-B27",
+      "type": "vignette",
+      "topic": "Cận lâm sàng & Chẩn đoán",
+      "subtopic": "Xây dựng quy trình chẩn đoán xác định và phân giai đoạn khép kín",
+      "bloom": "sáng tạo",
+      "difficulty": 3,
+      "source": "SURG-20B §7.1",
+      "text": "Bệnh nhân nam 65 tuổi nghi ngờ mắc ung thư thực quản đến khám bệnh viện chuyên khoa.\nPhương tiện cận lâm sàng nào sau đây là tiêu chuẩn vàng chẩn đoán xác định với độ chính xác đạt tới 90% theo bài học?",
+      "options": [
+        "Chụp thực quản Barium swallow",
+        "Chụp cắt lớp vi tính ngực - bụng",
+        "Nội soi kết hợp sinh thiết bờ u",
+        "Siêu âm nội soi thực quản (EUS)"
+      ],
+      "correct": 2,
+      "explanation": "Theo giáo trình mục 7.1: Nội soi sinh thiết chẩn đoán là tiêu chuẩn vàng để chẩn đoán. Kết hợp nội soi và sinh thiết bờ tổn thương cho kết quả chính xác đến 90%.",
+      "option_explanations": [
+        "Sai — Barium swallow chỉ định hướng hình thái và tránh biến chứng thủng khi nội soi, không cho kết quả giải phẫu bệnh mô học.",
+        "Sai — CT ngực - bụng đánh giá xâm lấn lân cận và di căn xa, không thể khẳng định bản chất tế bào ung thư.",
+        "Đúng — Giáo trình mục 7.1 nêu rõ: Nội soi sinh thiết là tiêu chuẩn vàng để chẩn đoán với độ chính xác đạt tới 90%.",
+        "Sai — Siêu âm nội soi EUS đánh giá độ sâu xâm lấn T và hạch N, không thay thế sinh thiết mô bệnh học bờ u."
+      ]
+    },
+    {
+      "id": "SURG20B-B28",
+      "type": "vignette",
+      "topic": "Điều trị & Theo dõi",
+      "subtopic": "Thiết kế lộ trình xử trí ung thư thực quản đoạn cổ khu trú",
+      "bloom": "sáng tạo",
+      "difficulty": 3,
+      "source": "SURG-20B §9.3",
+      "text": "Bệnh nhân nam 54 tuổi mắc ung thư biểu mô vảy thực quản đoạn cổ chưa có di căn xa, đủ điều kiện phẫu thuật triệt căn.\nPhương pháp phẫu thuật đặc thù chuẩn cho vị trí đoạn cổ theo giáo trình là gì?",
+      "options": [
+        "Cắt hớt niêm mạc qua nội soi (ESD)",
+        "Cắt toàn bộ thực quản tạo hình đại tràng",
+        "Cắt đoạn dưới và cực trên dạ dày",
+        "Cắt thực quản với hạ họng - thanh quản"
+      ],
+      "correct": 3,
+      "explanation": "Theo giáo trình mục 9.3: UT thực quản đoạn cổ: Cắt thực quản nguyên khối với hạ họng - thanh quản, mở khí quản vĩnh viễn, tái tạo ống tiêu hóa bằng vạt ruột non vi phẫu hoặc kéo đại tràng lên.",
+      "option_explanations": [
+        "Sai — Cắt hớt niêm mạc ESD chỉ dùng cho giai đoạn rất sớm chưa xâm lấn lớp cơ, không áp dụng cho tổn thương đã xâm lấn sâu đoạn cổ.",
+        "Sai — Cắt toàn bộ thực quản đơn thuần đưa đại tràng lên ngực áp dụng cho ung thư đoạn 1/3 giữa thực quản.",
+        "Sai — Cắt đoạn dưới và cực trên dạ dày chỉ áp dụng cho ung thư đoạn 1/3 dưới thực quản.",
+        "Đúng — Giáo trình mục 9.3 ghi rõ: Ung thư thực quản đoạn cổ được chỉ định cắt thực quản nguyên khối với hạ họng - thanh quản, mở khí quản vĩnh viễn và tái tạo đường ăn."
+      ]
+    }
+  ]
+}

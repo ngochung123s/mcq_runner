@@ -1,0 +1,1068 @@
+{
+  "format": "medmcq-bank",
+  "version": 1,
+  "id": "bank_surgr2_soc_chan_thuong",
+  "lesson": "SURG-R2",
+  "group": "Ngoại khoa",
+  "title": "SURG-R2: Sốc chấn thương (Barem — 44 câu phủ 6 bậc Bloom)",
+  "description": "3 bệnh cảnh sốc chấn thương, 3 giai đoạn sinh lý bệnh, phân độ ATLS I–IV, ABCDE, Permissive Hypotension, MTP 1:1:1, Tam chứng tử thần, Canxi clorid và DCS.",
+  "updated": "2026-11-12T13:28:39Z",
+  "questions": [
+    {
+      "id": "SURGR2-A01",
+      "type": "concept",
+      "topic": "Đại cương & Phân loại sốc chấn thương",
+      "subtopic": "3 bệnh cảnh sốc thường gặp trong chấn thương",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-R2 §II.1",
+      "text": "Trong cấp cứu ban đầu chấn thương cơ học nặng, thể bệnh cảnh sốc nào sau đây chiếm tỷ lệ cao nhất và gặp phổ biến nhất trên lâm sàng?\nBệnh cảnh sốc chiếm tỷ lệ đa số là gì?",
+      "options": [
+        "Sốc mất máu cấp tính",
+        "Sốc tắc nghẽn ngoài tim",
+        "Sốc thần kinh tủy sống",
+        "Sốc tim do dập cơ tim"
+      ],
+      "correct": 0,
+      "explanation": "Theo barem Mục II.1 và Câu hỏi lượng giá 1, trong 3 bệnh cảnh thường gặp nhất (sốc mất máu, sốc tắc nghẽn, sốc thần kinh), sốc mất máu chiếm đa số do chảy máu trong hoặc ngoài.",
+      "option_explanations": [
+        "Đúng — Sốc mất máu cấp tính chiếm đa số tuyệt đối trong cấp cứu chấn thương.",
+        "Sai — Sốc tắc nghẽn (chèn ép tim cấp, tràn khí màng phổi áp lực) là bệnh cảnh thứ hai thường gặp nhưng không chiếm đa số.",
+        "Sai — Sốc thần kinh tủy sống do tổn thương tủy cổ hoặc ngực cao là bệnh cảnh thứ ba thường gặp nhưng tỷ lệ thấp hơn.",
+        "Sai — Sốc tim do dập cơ tim ít gặp hơn nhiều so với sốc mất máu."
+      ]
+    },
+    {
+      "id": "SURGR2-A02",
+      "type": "vignette",
+      "topic": "Đại cương & Phân loại sốc chấn thương",
+      "subtopic": "Phân loại theo cơ chế nguyên nhân",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-R2 §II.1",
+      "text": "Bệnh nhân nam 28 tuổi chấn thương ngực kín, nhập viện khó thở dữ dội, tím tái, huyết áp 70/40 mmHg, tĩnh mạch cổ nổi căng và rì rào phế nang bên phải mất hoàn toàn.\nCơ chế bệnh sinh trực tiếp gây sốc trên bệnh nhân này thuộc nhóm nào?",
+      "options": [
+        "Sốc giảm thể tích do chảy máu trong",
+        "Sốc tắc nghẽn do cản trở hồi lưu máu",
+        "Sốc phân bố do mất trương lực mạch",
+        "Sốc tim do giảm sức co bóp cơ tim"
+      ],
+      "correct": 1,
+      "explanation": "Bệnh nhân có hội chứng tràn khí màng phổi áp lực (khó thở, tím tái, tĩnh mạch cổ nổi, mất phế âm, tụt HA). Áp lực khoang màng phổi tăng cao đè sụp tĩnh mạch chủ gây sốc tắc nghẽn.",
+      "option_explanations": [
+        "Sai — Sốc giảm thể tích (mất máu) tĩnh mạch cổ sẽ xẹp chứ không nổi căng.",
+        "Đúng — Tràn khí màng phổi áp lực gây sốc tắc nghẽn do cản trở máu tĩnh mạch trở về tim.",
+        "Sai — Sốc phân bố gặp trong sốc tủy hoặc sốc nhiễm khuẩn, không gây mất phế âm kèm lệch khí quản.",
+        "Sai — Sốc tim do dập cơ tim không có triệu chứng mất hoàn toàn rì rào phế nang một bên phổi."
+      ]
+    },
+    {
+      "id": "SURGR2-A03",
+      "type": "vignette",
+      "topic": "Đại cương & Phân loại sốc chấn thương",
+      "subtopic": "Sốc thần kinh / sốc tủy",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R2 §II.1",
+      "text": "Chấn thương cơ học kín vỡ tạng đặc gây chảy máu trong ổ phúc mạc lượng lớn dẫn đến hội chứng sốc nào sau đây chiếm đa số trong cấp cứu ngoại khoa?",
+      "options": [
+        "Sốc thần kinh tủy sống",
+        "Sốc mất máu cấp tính",
+        "Sốc tắc nghẽn tim cấp",
+        "Sốc phân bố do phản vệ"
+      ],
+      "correct": 1,
+      "explanation": "Tổn thương tủy cổ hoặc ngực cao làm cắt đứt luồng giao cảm ly tâm, gây giãn tiểu động mạch/tĩnh mạch (da ấm) và mất kích thích giao cảm lên tim (nhịp chậm <60 l/p) đặc trưng cho sốc thần kinh / sốc tủy.",
+      "option_explanations": [
+        "Sai — Sốc chèn ép tim cấp gây nhịp tim nhanh, tĩnh mạch cổ nổi và tiếng tim mờ xa xăm.",
+        "Sai — Sốc mất máu gây nhịp tim nhanh (>100–120 l/p) và da tái lạnh ẩm do co mạch giao cảm.",
+        "Đúng — Sốc thần kinh tủy sống (sốc tủy) biểu hiện hạ huyết áp kèm nhịp chậm và da ấm do mất trương lực giao cảm.",
+        "Sai — Sốc tắc nghẽn do tràn khí áp lực gây suy hô hấp dữ dội, tĩnh mạch cổ nổi và nhịp nhanh."
+      ]
+    },
+    {
+      "id": "SURGR2-A04",
+      "type": "concept",
+      "topic": "Đại cương & Phân loại sốc chấn thương",
+      "subtopic": "Phân loại theo thời gian xuất hiện",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-R2 §II.2",
+      "text": "Theo phân loại sốc chấn thương theo thời gian xuất hiện, tình trạng sốc bộc lộ sau vài giờ đến vài ngày do chảy máu tái phát, nhiễm trùng hoặc tiêu cơ vân được gọi là gì?\nTên gọi chính xác của thể sốc này là gì?",
+      "options": [
+        "Sốc tiên phát",
+        "Sốc không hồi phục",
+        "Sốc thứ phát",
+        "Sốc còn bù"
+      ],
+      "correct": 2,
+      "explanation": "Theo barem Mục II.2: Sốc tiên phát xuất hiện ngay sau tai nạn do đau đớn và mất máu cấp. Sốc thứ phát xuất hiện muộn sau vài giờ đến vài ngày do chảy máu tái phát, nhiễm khuẩn hoặc tiêu cơ vân.",
+      "option_explanations": [
+        "Sai — Sốc tiên phát xuất hiện ngay tức thì sau chấn thương do đau và mất máu cấp tính.",
+        "Sai — Sốc không hồi phục là phân loại theo giai đoạn tiến triển suy đa tạng, không phải theo mốc thời gian.",
+        "Đúng — Sốc thứ phát xuất hiện sau vài giờ đến vài ngày do chảy máu tái phát, nhiễm trùng hoặc tiêu cơ vân.",
+        "Sai — Sốc còn bù là phân loại theo diễn biến lâm sàng, không phải phân loại theo thời gian xuất hiện."
+      ]
+    },
+    {
+      "id": "SURGR2-A05",
+      "type": "concept",
+      "topic": "Sinh lý bệnh sốc mất máu (3 giai đoạn)",
+      "subtopic": "Giai đoạn còn bù — Baroreflexes & Catecholamine",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-R2 §II.3.1",
+      "text": "Tụt huyết áp trong sốc mất máu kích hoạt hệ Renin - Angiotensin - Aldosterone (RAAS) bắt đầu từ việc bài tiết enzym Renin tại cơ quan nào?",
+      "options": [
+        "Tế bào biểu mô phức hợp cận cầu thận",
+        "Xoang cảnh và quai động mạch chủ ngực",
+        "Tuyến tủy thượng thận và hạch giao cảm",
+        "Vùng dưới đồi và thùy sau tuyến yên"
+      ],
+      "correct": 0,
+      "explanation": "Theo barem Mục II.3.1, thụ thể áp lực (Baroreflexes) nằm ở xoang cảnh và quai động mạch chủ nhận cảm sụt giảm tiền gánh/huyết áp để kích hoạt phản xạ giao cảm tức thì.",
+      "option_explanations": [
+        "Đúng — Thụ thể áp lực Baroreflexes định vị tại xoang cảnh và quai động mạch chủ kích hoạt phóng thích Adrenaline và Noradrenaline.",
+        "Sai — Tiểu cầu thận chứa bộ máy cạnh tiểu cầu tiết Renin để kích hoạt hệ RAAS, là cơ chế nội tiết chậm hơn.",
+        "Sai — Tĩnh mạch cửa và lách chứa các hồ chứa máu nhưng không có Baroreflexes điều hòa áp lực động mạch hệ thống.",
+        "Sai — Màng ngoài tim và cơ hoành không chứa các thụ thể áp lực điều hòa huyết áp."
+      ]
+    },
+    {
+      "id": "SURGR2-A06",
+      "type": "concept",
+      "topic": "Sinh lý bệnh sốc mất máu (3 giai đoạn)",
+      "subtopic": "Hiện tượng trung tâm hóa tuần hoàn",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-R2 §II.3.1",
+      "text": "Trong giai đoạn sốc còn bù, hiện tượng trung tâm hóa tuần hoàn co mạch tối đa ở da, cơ vân và tạng ổ bụng nhằm ưu tiên duy trì lưu lượng máu nuôi dưỡng cho hai cơ quan nào?\nHai cơ quan được ưu tiên bảo tồn lưu lượng máu là gì?",
+      "options": [
+        "Phổi và thận",
+        "Tim và não",
+        "Gan và lách",
+        "Não và tụy"
+      ],
+      "correct": 1,
+      "explanation": "Theo barem Mục II.3.1: Hiện tượng trung tâm hóa tuần hoàn co mạch tối đa ở các cơ quan ít quan trọng (da, cơ vân, xương, tạng ổ bụng) nhằm ưu tiên duy trì dòng máu nuôi dưỡng cho tim và não.",
+      "option_explanations": [
+        "Sai — Mạch thận bị co thắt dữ dội bởi giao cảm và RAAS làm giảm bài tiết nước tiểu để dồn máu về trung tâm.",
+        "Đúng — Hiện tượng trung tâm hóa tuần hoàn ưu tiên bảo vệ tối đa dòng máu nuôi tim (mạch vành) và não.",
+        "Sai — Tuần hoàn tạng tiêu hóa gồm gan và lách bị giảm tưới máu rõ rệt trong giai đoạn này.",
+        "Sai — Tuyến tụy bị thiếu máu cục bộ trong sốc chứ không được ưu tiên tưới máu bảo tồn."
+      ]
+    },
+    {
+      "id": "SURGR2-A07",
+      "type": "concept",
+      "topic": "Sinh lý bệnh sốc mất máu (3 giai đoạn)",
+      "subtopic": "Đáp ứng nội tiết RAAS & ADH",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-R2 §II.3.1",
+      "text": "Trong đáp ứng nội tiết bù trừ của sốc mất máu, hệ Renin - Angiotensin - Aldosterone (RAAS) và hormon Vasopressin (ADH) cùng tác động lên cơ quan nào để bảo tồn thể tích dịch lòng mạch?\nCơ quan đích tiếp nhận tác động giữ muối và nước là gì?",
+      "options": [
+        "Hệ vi tuần hoàn cơ vân",
+        "Hệ mao mạch phế nang",
+        "Mạng lưới mao mạch niêm mạc ruột",
+        "Ống thận và tiểu động mạch thận"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Mục II.3.1: Hệ RAAS và Vasopressin (ADH) làm tăng tái hấp thu muối và nước ở ống thận, đồng thời co tiểu động mạch thận để bảo tồn thể tích dịch lòng mạch.",
+      "option_explanations": [
+        "Sai — Cơ vân bị co mạch thiếu máu, không có chức năng tái hấp thu bảo tồn dịch tuần hoàn.",
+        "Sai — Mao mạch phế nang là nơi trao đổi khí, không chịu tác động giữ muối nước của Aldosterone và ADH.",
+        "Sai — Mao mạch ruột bị giảm tưới máu, không trực tiếp tái hấp thu dịch lòng mạch trong đáp ứng nội tiết này.",
+        "Đúng — Aldosterone và ADH tác động trực tiếp tại ống thận tăng tái hấp thu Na+ và nước, kết hợp co tiểu động mạch thận."
+      ]
+    },
+    {
+      "id": "SURGR2-A08",
+      "type": "concept",
+      "topic": "Sinh lý bệnh sốc mất máu (3 giai đoạn)",
+      "subtopic": "Giai đoạn mất bù — Chuyển hóa kỵ khí & Toan Lactic",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-R2 §II.3.2",
+      "text": "Trong sốc mất máu, thiếu oxy tế bào kéo dài kích hoạt con đường chuyển hóa kỵ khí dẫn đến sự tích tụ chất nào sau đây gây toan chuyển hóa?",
+      "options": [
+        "Axit Uric trong thận",
+        "Thể Ceton huyết thanh",
+        "Khí Carbonic nội bào",
+        "Axit Lactic trong máu"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Mục II.3.2: Thiếu oxy tế bào nghiêm trọng kéo dài buộc tế bào chuyển sang chuyển hóa kỵ khí, tích tụ axit lactic gây toan chuyển hóa nặng.",
+      "option_explanations": [
+        "Sai — Mất bicacbonat qua phân gặp trong tiêu chảy cấp, không phải cơ chế toan máu trong sốc mất máu.",
+        "Sai — Nhiễm toan ceton gặp trong đái tháo đường hoặc nhịn đói kéo dài, không phải cơ chế toan máu chủ đạo của sốc chấn thương.",
+        "Sai — Ứ trệ carbonic gây toan hô hấp khi suy thở, không phải biến loạn chuyển hóa tế bào kỵ khí.",
+        "Đúng — Thiếu máu nuôi mô làm thiếu oxy tế bào, kích hoạt con đường đường phân kỵ khí tích tụ axit lactic gây toan chuyển hóa."
+      ]
+    },
+    {
+      "id": "SURGR2-A09",
+      "type": "concept",
+      "topic": "Sinh lý bệnh sốc mất máu (3 giai đoạn)",
+      "subtopic": "Liệt cơ thắt vi tuần hoàn & Thoát dịch",
+      "bloom": "phân tích",
+      "difficulty": 3,
+      "source": "SURG-R2 §II.3.2",
+      "text": "Trong giai đoạn sốc còn bù, hiện tượng co tiểu động mạch và tĩnh mạch ngoại vi nhằm mục đích sinh lý bệnh chủ yếu nào sau đây?",
+      "options": [
+        "Liệt cơ thắt tiền mao mạch gây ứ máu vi tuần hoàn",
+        "Tái phân bố lưu lượng máu dồn về tim và não",
+        "Ứ trệ tuần hoàn ngoại vi gây toan lactic máu",
+        "Làm tăng tính thấm mao mạch thoát dịch ra mô kẽ"
+      ],
+      "correct": 1,
+      "explanation": "Theo barem Mục II.3.2: Toan máu và ứ đọng chất chuyển hóa làm liệt cơ thắt tiền mao mạch trong khi cơ thắt sau mao mạch vẫn co -> máu ứ trệ trong mạng vi tuần hoàn, tăng áp lực thủy tĩnh làm thoát dịch và protein ra mô kẽ.",
+      "option_explanations": [
+        "Sai — Tiền co sau giãn sẽ làm giảm áp lực mao mạch, không gây ứ trệ và thoát protein ra mô kẽ.",
+        "Đúng — Cơ thắt tiền mao mạch bị liệt giãn do toan máu trong khi cơ thắt sau mao mạch vẫn co thắt, gây ứ máu và thoát dịch.",
+        "Sai — Co cả hai cơ thắt là đặc trưng của giai đoạn còn bù nhằm ngăn máu vào mạng mao mạch ngoại vi.",
+        "Sai — Liệt cả hai cơ thắt xảy ra ở giai đoạn trơ vận mạch không hồi phục."
+      ]
+    },
+    {
+      "id": "SURGR2-A10",
+      "type": "concept",
+      "topic": "Sinh lý bệnh sốc mất máu (3 giai đoạn)",
+      "subtopic": "Yếu tố ức chế cơ tim MDF",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "SURG-R2 §II.3.2",
+      "text": "Yếu tố ức chế cơ tim (Myocardial Depressant Factor - MDF) xuất hiện trong giai đoạn sốc mất bù chủ yếu có nguồn gốc giải phóng từ hệ cơ quan nào?\nHệ cơ quan nguồn gốc giải phóng MDF là gì?",
+      "options": [
+        "Nhu mô lách và tủy xương",
+        "Vỏ thượng thận và tủy thận",
+        "Màng tim và nút xoang nhĩ",
+        "Tuyến tụy và niêm mạc ruột"
+      ],
+      "correct": 3,
+      "explanation": "Theo sinh lý bệnh học sốc (Mục II.3.2), khi tưới máu tạng bị suy giảm nặng, tuyến tụy và mô ruột bị thiếu máu giải phóng các peptid ức chế cơ tim (MDF) làm giảm sức co bóp tim.",
+      "option_explanations": [
+        "Sai — Nhu mô lách và tủy xương không phải là nguồn sản sinh chính của peptid MDF.",
+        "Sai — Tuyến thượng thận tiết hormone steroid và catecholamine, không tạo ra yếu tố ức chế cơ tim MDF.",
+        "Sai — Mô tim chịu tác động ức chế của MDF chứ không phải nơi sản sinh giải phóng yếu tố này.",
+        "Đúng — Tuyến tụy và niêm mạc ống tiêu hóa thiếu máu giải phóng yếu tố ức chế cơ tim (MDF) vào đại tuần hoàn."
+      ]
+    },
+    {
+      "id": "SURGR2-A11",
+      "type": "concept",
+      "topic": "Sinh lý bệnh sốc mất máu (3 giai đoạn)",
+      "subtopic": "Giai đoạn không hồi phục & MODS",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-R2 §II.3.3",
+      "text": "Bệnh nhân sốc mất máu tiến triển đến giai đoạn có hiện tượng trơ hoàn toàn với thuốc vận mạch, đông máu nội mạch rải rác (DIC) và suy đa tạng (MODS) được xếp vào giai đoạn nào?\nPhân loại giai đoạn tiến triển này là gì?",
+      "options": [
+        "Giai đoạn sốc tiên phát",
+        "Giai đoạn sốc không hồi phục",
+        "Giai đoạn sốc mất bù",
+        "Giai đoạn sốc còn bù"
+      ],
+      "correct": 1,
+      "explanation": "Theo barem Mục II.3.3: Giai đoạn không hồi phục đặc trưng bởi giãn mạch toàn thân trơ với thuốc vận mạch, đông máu nội mạch rải rác (DIC), cạn kiệt năng lượng ATP tế bào dẫn đến hoại tử tạng và hội chứng suy đa tạng (MODS).",
+      "option_explanations": [
+        "Sai — Sốc tiên phát là sốc xuất hiện ngay sau chấn thương do đau và mất máu cấp tính.",
+        "Đúng — Giãn mạch trơ với vận mạch, DIC và MODS là các dấu mốc xác định giai đoạn sốc không hồi phục.",
+        "Sai — Giai đoạn mất bù huyết áp bắt đầu tụt và toan máu nhưng hệ mạch vẫn còn đáp ứng và chưa bị DIC trơ vận mạch.",
+        "Sai — Giai đoạn còn bù cơ thể còn đáp ứng tốt với kích thích giao cảm và hồi sức thể tích."
+      ]
+    },
+    {
+      "id": "SURGR2-A12",
+      "type": "concept",
+      "topic": "Phân độ mất máu ATLS",
+      "subtopic": "Mất máu Độ I theo ATLS",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-R2 §II.4",
+      "text": "Theo bảng phân loại mất máu ATLS, một bệnh nhân chấn thương mất dưới 15% thể tích tuần hoàn (<750 ml), nhịp tim dưới 100 lần/phút, huyết áp và áp lực mạch bình thường thuộc phân độ nào?\nPhân độ mất máu tương ứng theo ATLS là gì?",
+      "options": [
+        "Mất máu ATLS Độ I",
+        "Mất máu ATLS Độ II",
+        "Mất máu ATLS Độ III",
+        "Mất máu ATLS Độ IV"
+      ],
+      "correct": 0,
+      "explanation": "Theo barem Mục II.4, mất máu Độ I (nhẹ) có lượng máu mất <750 ml (<15%), nhịp tim <100 l/p, HA bình thường, áp lực mạch bình thường/tăng, nước tiểu >30 ml/h.",
+      "option_explanations": [
+        "Đúng — Mất <15% thể tích máu (<750 ml) kèm mạch <100 l/p và huyết áp bình thường là mất máu Độ I.",
+        "Sai — Mất máu Độ II mất 15–30% thể tích (750–1500 ml), mạch >100 l/p và huyết áp kẹp.",
+        "Sai — Mất máu Độ III mất 30–40% thể tích (1500–2000 ml), mạch >120 l/p và huyết áp tụt.",
+        "Sai — Mất máu Độ IV mất >40% thể tích (>2000 ml), mạch >140 l/p và tụt áp sâu."
+      ]
+    },
+    {
+      "id": "SURGR2-A13",
+      "type": "vignette",
+      "topic": "Phân độ mất máu ATLS",
+      "subtopic": "Mất máu Độ II theo ATLS — Huyết áp kẹp",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R2 §II.4",
+      "text": "Bệnh nhân nữ 30 tuổi vào viện sau tai nạn giao thông đập bụng vào tay lái. Khám: lo lắng vừa, mạch 108 lần/phút, huyết áp 110/85 mmHg (hiệu số 25 mmHg), thở 24 lần/phút, nước tiểu 25 ml/giờ.\nBệnh nhân này được phân loại mất máu ở mức độ nào theo tiêu chuẩn ATLS?",
+      "options": [
+        "Mất máu ATLS Độ I",
+        "Mất máu ATLS Độ IV",
+        "Mất máu ATLS Độ III",
+        "Mất máu ATLS Độ II"
+      ],
+      "correct": 3,
+      "explanation": "Theo ATLS Mục II.4: Mất máu Độ II có nhịp tim >100 l/p (108), huyết áp động mạch bình thường nhưng huyết áp kẹp (110/85, áp lực mạch giảm), thở 20–30 l/p, nước tiểu 20–30 ml/h (25 ml/h), lo lắng vừa.",
+      "option_explanations": [
+        "Sai — Độ I có nhịp tim <100 l/p, áp lực mạch bình thường và nước tiểu >30 ml/h.",
+        "Sai — Độ IV có mạch >140 l/p, tụt áp sâu, vô niệu <5 ml/h và lờ đờ hôn mê.",
+        "Sai — Độ III có mạch >120 l/p, huyết áp tụt rõ rệt và nước tiểu giảm còn 5–15 ml/h.",
+        "Đúng — Mạch 108 l/p, huyết áp kẹp 110/85 mmHg, nước tiểu 25 ml/h thuộc mất máu Độ II."
+      ]
+    },
+    {
+      "id": "SURGR2-A14",
+      "type": "vignette",
+      "topic": "Phân độ mất máu ATLS",
+      "subtopic": "Mất máu Độ III theo ATLS",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R2 §II.4",
+      "text": "Bệnh nhân nam 40 tuổi vào viện vì sốc mất máu sau tai nạn giao thông, lượng máu mất ước tính khoảng 900 ml (khoảng 20% thể tích tuần hoàn), mạch 108 lần/phút, huyết áp kẹp nhưng chưa tụt huyết áp động mạch.\nTheo bảng phân độ mất máu ATLS, bệnh nhân này thuộc phân độ nào?",
+      "options": [
+        "Mất máu ATLS Độ I",
+        "Mất máu ATLS Độ IV",
+        "Mất máu ATLS Độ III",
+        "Mất máu ATLS Độ II"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Mục II.4 và Câu hỏi lượng giá 2: Mất máu Độ III (1500–2000 ml, 30–40% thể tích) có mạch >120 l/p (128), tụt huyết áp (85/55), thở 30–40 l/p, thiểu niệu 5–15 ml/h (10), kích thích lú lẫn.",
+      "option_explanations": [
+        "Sai — Độ I mất <15%, huyết áp và mạch hoàn toàn trong giới hạn bình thường.",
+        "Sai — Độ IV mất >40%, mạch >140 l/p, tụt áp sâu, vô niệu <5 ml/h và hôn mê.",
+        "Đúng — Mạch >120 l/p (128), huyết áp tụt (85/55), thiểu niệu 10 ml/h thuộc mất máu Độ III.",
+        "Sai — Độ II mất 15–30%, mạch 100–120 l/p, huyết áp chưa tụt mà chỉ kẹp, nước tiểu 20–30 ml/h."
+      ]
+    },
+    {
+      "id": "SURGR2-A15",
+      "type": "vignette",
+      "topic": "Phân độ mất máu ATLS",
+      "subtopic": "Mất máu Độ IV theo ATLS — Nguy kịch",
+      "bloom": "vận dụng",
+      "difficulty": 3,
+      "source": "SURG-R2 §II.4",
+      "text": "Bệnh nhân nam 22 tuổi vết thương thấu bụng do hỏa khí, nhập viện hôn mê, da trắng bệch, đầu chi tím tái, mạch bẹn 145 lần/phút, huyết áp 50/30 mmHg, bàng quang rút ra 2 ml nước tiểu sẫm màu.\nPhân loại mức độ mất máu theo ATLS trên bệnh nhân này là gì?",
+      "options": [
+        "Mất máu ATLS Độ I",
+        "Mất máu ATLS Độ II",
+        "Mất máu ATLS Độ IV",
+        "Mất máu ATLS Độ III"
+      ],
+      "correct": 2,
+      "explanation": "Theo bảng ATLS Mục II.4: Mất máu Độ IV có lượng máu mất >2000 ml (>40%), mạch >140 l/p (145), huyết áp tụt sâu (50/30), vô niệu <5 ml/h (2 ml), tri giác lờ đờ hôn mê.",
+      "option_explanations": [
+        "Sai — Độ I mất <15% (<750 ml), mạch <100 l/p, huyết áp bình thường.",
+        "Sai — Độ II mất 15–30% (750–1500 ml), huyết áp chưa tụt, nước tiểu 20–30 ml/h.",
+        "Đúng — Mất máu Độ IV mất >40% thể tích (>2000 ml), mạch >140 l/p, tụt áp sâu và vô niệu.",
+        "Sai — Độ III mất 30–40% (1500–2000 ml), mạch 120–140 l/p, nước tiểu 5–15 ml/h."
+      ]
+    },
+    {
+      "id": "SURGR2-A16",
+      "type": "calc",
+      "topic": "Phân độ mất máu ATLS",
+      "subtopic": "Tính toán thể tích máu mất theo cân nặng và phân độ ATLS",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R2 §II.4",
+      "text": "Một người đàn ông nặng 70 kg (ước tính thể tích máu toàn phần là 70 ml/kg = 4900 ml) bị vỡ lách độ IV chấn thương, lượng máu mất ước tính qua mổ là 1600 ml.\nLượng máu mất này tương ứng với phân độ nào theo bảng phân loại ATLS?",
+      "options": [
+        "Phân độ ATLS Độ I",
+        "Phân độ ATLS Độ II",
+        "Phân độ ATLS Độ III",
+        "Phân độ ATLS Độ IV"
+      ],
+      "correct": 2,
+      "explanation": "Thể tích máu người 70 kg: 4900 ml. Mất 1600 ml tương đương (1600 / 4900) * 100% ≈ 32,65% thể tích máu (trong khoảng 1500–2000 ml và 30–40%), tương ứng chính xác mất máu Độ III.",
+      "option_explanations": [
+        "Sai — Độ I mất <750 ml (<15% thể tích tuần hoàn).",
+        "Sai — Độ II mất 750–1500 ml (15–30% thể tích tuần hoàn).",
+        "Đúng — Mất 1600 ml (khoảng 32,65% thể tích) thuộc khoảng 1500–2000 ml (30–40%), là Độ III.",
+        "Sai — Độ IV mất >2000 ml (>40% thể tích tuần hoàn)."
+      ]
+    },
+    {
+      "id": "SURGR2-A17",
+      "type": "concept",
+      "topic": "Phân độ mất máu ATLS",
+      "subtopic": "Nhịp tim và huyết áp kẹp trong chẩn đoán sớm",
+      "bloom": "phân tích",
+      "difficulty": 3,
+      "source": "SURG-R2 §II.4",
+      "text": "Trong theo dõi lâm sàng bệnh nhân chấn thương nghi chảy máu trong, dấu hiệu huyết động nào sau đây có giá trị cảnh báo sớm tình trạng mất máu trước khi huyết áp tâm thu sụt giảm?\nDấu hiệu cảnh báo sớm mất máu là gì?",
+      "options": [
+        "Mạch chậm dưới 60 lần/phút",
+        "Áp lực mạch mở rộng biên độ",
+        "Huyết áp tâm thu tăng vọt",
+        "Nhịp tim nhanh và huyết áp kẹp"
+      ],
+      "correct": 3,
+      "explanation": "Theo ATLS Mục II.4: Ở Độ II (mất 15–30%), đáp ứng co mạch giao cảm làm tăng huyết áp tâm trương, dẫn đến huyết áp kẹp (thu hẹp áp lực mạch) kết hợp nhịp tim nhanh (>100 l/p) xuất hiện trước khi huyết áp tâm thu tụt ở Độ III.",
+      "option_explanations": [
+        "Sai — Mạch chậm gặp trong sốc tủy hoặc phản xạ phế vị, không phải phản xạ sớm của sốc mất máu.",
+        "Sai — Áp lực mạch bị thu hẹp (kẹp) do co mạch tâm trương, không phải mở rộng biên độ.",
+        "Sai — Huyết áp tâm thu không tăng vọt khi mất máu thể tích tuần hoàn đang giảm sút.",
+        "Đúng — Nhịp tim nhanh (>100 l/p) phối hợp huyết áp kẹp (áp lực mạch giảm) là dấu hiệu cảnh báo sớm ở Độ II trước khi tụt áp tâm thu."
+      ]
+    },
+    {
+      "id": "SURGR2-A18",
+      "type": "vignette",
+      "topic": "Tam chứng tử thần, DCS & Chẩn đoán tại giường",
+      "subtopic": "Siêu âm FAST tại giường trong sốc huyết động không ổn định",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R2 §II.4 & Câu hỏi lượng giá 3",
+      "text": "Bệnh nhân nam 32 tuổi chấn thương bụng kín có huyết động hoàn toàn ổn định (HATT 120 mmHg, mạch 76 lần/phút). Chỉ định cận lâm sàng hình ảnh toàn diện có giá trị cao nhất theo barem để đánh giá chính xác thương tổn tạng là gì?",
+      "options": [
+        "Chụp cắt lớp vi tính đa dãy MSCT",
+        "Siêu âm FAST cấp cứu tại giường",
+        "Chụp X-quang bụng không chuẩn bị",
+        "Chọc dò dịch ổ bụng thăm dò"
+      ],
+      "correct": 0,
+      "explanation": "Theo barem Mục II.4 và Câu hỏi lượng giá 3: Siêu âm FAST tại giường thực hiện trong 2 phút là lựa chọn tối ưu xác định dịch tự do ổ bụng/màng tim khi huyết động không ổn định (HA 75/40), tuyệt đối không chuyển đi chụp MSCT.",
+      "option_explanations": [
+        "Sai — X-quang bụng không chuẩn bị không đánh giá được dịch tự do ổ bụng và khó thực hiện khi sốc.",
+        "Đúng — Siêu âm FAST tại giường thực hiện trong vòng 2 phút, không cần di chuyển bệnh nhân đang sốc tụt áp.",
+        "Sai — Chụp cắt lớp vi tính MSCT là chống chỉ định khi huyết động không ổn định.",
+        "Sai — Nội soi ổ bụng không thể áp dụng ở phòng cấp cứu cho bệnh nhân đang tụt huyết áp nặng."
+      ]
+    },
+    {
+      "id": "SURGR2-A19",
+      "type": "concept",
+      "topic": "Tam chứng tử thần, DCS & Chẩn đoán tại giường",
+      "subtopic": "Chống chỉ định MSCT khi huyết động không ổn định",
+      "bloom": "đánh giá",
+      "difficulty": 3,
+      "source": "SURG-R2 §II.4 & Câu hỏi lượng giá 3",
+      "text": "Phương pháp chẩn đoán hình ảnh nào sau đây bị chống chỉ định thực hiện khi bệnh nhân sốc mất máu do chấn thương có tình trạng huyết động không ổn định?\nKỹ thuật hình ảnh bị chống chỉ định là gì?",
+      "options": [
+        "Siêu âm FAST tại phòng cấp cứu",
+        "X-quang ngực thẳng chụp tại giường",
+        "Chụp cắt lớp vi tính đa dãy MSCT",
+        "X-quang khung chậu chụp tại giường"
+      ],
+      "correct": 2,
+      "explanation": "Theo barem Câu hỏi lượng giá 3: Chụp cắt lớp vi tính đa dãy (MSCT) chống chỉ định khi huyết động không ổn định vì bệnh nhân có nguy cơ trụy tuần hoàn ngừng tim trong phòng máy chụp khi di chuyển ra khỏi khu vực hồi sức.",
+      "option_explanations": [
+        "Sai — Siêu âm FAST tại giường là chỉ định ưu tiên hàng đầu khi huyết động không ổn định.",
+        "Sai — X-quang ngực chụp tại giường có thể thực hiện an toàn ngay tại phòng cấp cứu.",
+        "Đúng — Chụp MSCT chống chỉ định khi huyết động không ổn định vì nguy cơ tử vong trên đường vận chuyển.",
+        "Sai — X-quang khung chậu tại giường là phương tiện cơ bản tại phòng cấp cứu để tìm gãy xương chậu."
+      ]
+    },
+    {
+      "id": "SURGR2-A20",
+      "type": "concept",
+      "topic": "Đại cương & Phân loại sốc chấn thương",
+      "subtopic": "Tam chứng Beck trong chèn ép tim cấp",
+      "bloom": "phân tích",
+      "difficulty": 3,
+      "source": "SURG-R2 §II.1",
+      "text": "Bệnh nhân có vết thương ngực cạnh xương ức trái, vào viện huyết áp 80/60 mmHg, tĩnh mạch cổ nổi rõ và tiếng tim nghe mờ xa xăm. Bộ ba dấu hiệu này đặc trưng cho hội chứng gì?\nHội chứng lâm sàng kinh điển này là gì?",
+      "options": [
+        "Tam chứng Virchow",
+        "Tam chứng Beck",
+        "Tam chứng tử thần",
+        "Tam chứng Galliard"
+      ],
+      "correct": 1,
+      "explanation": "Theo barem Mục II.1: Tam chứng Beck gồm Huyết áp hạ kẹp, Tĩnh mạch cổ nổi, Tiếng tim mờ xa xăm; đặc trưng cho chèn ép tim cấp (Tamponade) do tràn máu khoang màng ngoài tim.",
+      "option_explanations": [
+        "Sai — Tam chứng Virchow mô tả cơ chế huyết khối tĩnh mạch (ứ trệ dòng máu, tổn thương nội mạc, tăng đông).",
+        "Đúng — Tam chứng Beck kinh điển (HA tụt kẹp, tĩnh mạch cổ nổi, tiếng tim mờ) đặc trưng cho chèn ép tim cấp.",
+        "Sai — Tam chứng tử thần chấn thương gồm Hạ thân nhiệt, Toan chuyển hóa và Rối loạn đông máu.",
+        "Sai — Tam chứng Galliard mô tả hội chứng tràn khí màng phổi (gõ vang, rung thanh giảm, phế âm mất)."
+      ]
+    },
+    {
+      "id": "SURGR2-A21",
+      "type": "vignette",
+      "topic": "Phân độ mất máu ATLS",
+      "subtopic": "Chỉ định bù dịch và máu theo phân độ ATLS",
+      "bloom": "đánh giá",
+      "difficulty": 3,
+      "source": "SURG-R2 §II.4",
+      "text": "Theo phác đồ hồi sức dịch của ATLS, mức độ mất máu nào sau đây là mốc bắt đầu có chỉ định phối hợp truyền máu cùng dung dịch tinh thể ngay từ đầu?\nPhân độ mất máu bắt đầu có chỉ định truyền máu là gì?",
+      "options": [
+        "Mất máu ATLS Độ I",
+        "Mất máu ATLS Độ III",
+        "Mất máu ATLS Độ II",
+        "Mất máu ATLS Độ IV"
+      ],
+      "correct": 1,
+      "explanation": "Theo bảng ATLS Mục II.4: Độ I và Độ II khuyến cáo bù đơn thuần bằng dịch tinh thể. Độ III (mất 30–40% thể tích máu) là mốc bắt đầu chỉ định phối hợp dịch tinh thể cùng máu.",
+      "option_explanations": [
+        "Sai — Mất máu Độ I chỉ khuyến cáo bù dung dịch tinh thể.",
+        "Đúng — Mất máu Độ III là phân độ bắt đầu có chỉ định phối hợp truyền máu cùng dịch tinh thể.",
+        "Sai — Mất máu Độ II chỉ khuyến cáo bù dung dịch tinh thể.",
+        "Sai — Mất máu Độ IV chỉ định truyền máu tối khẩn (Massive Transfusion) chứ không phải mốc bắt đầu."
+      ]
+    },
+    {
+      "id": "SURGR2-A22",
+      "type": "vignette",
+      "topic": "Tam chứng tử thần, DCS & Chẩn đoán tại giường",
+      "subtopic": "Xử trí chẩn đoán phân biệt tại giường khi bệnh nhân sốc tụt áp sau chấn thương",
+      "bloom": "sáng tạo",
+      "difficulty": 3,
+      "source": "SURG-R2 §II.1, §II.4 & Câu hỏi lượng giá 1-3",
+      "text": "Bệnh nhân nam 45 tuổi đụng dập ngực bụng, vào viện sốc tụt huyết áp 70/40 mmHg, tĩnh mạch cổ nổi, khí quản lệch phải. Siêu âm FAST tại giường không thấy dịch màng tim và không có dịch ổ bụng.\nBiện pháp xử trí cấp cứu tức thì có tính chất quyết định cứu mạng bệnh nhân trong phút đầu tiên là gì?",
+      "options": [
+        "Chọc kim giải áp màng phổi",
+        "Chọc hút màng ngoài tim",
+        "Phẫu thuật mở bụng thăm dò",
+        "Đặt nội khí quản thở máy PEEP"
+      ],
+      "correct": 0,
+      "explanation": "Bệnh nhân có hội chứng tràn khí màng phổi áp lực bên trái gây sốc tắc nghẽn (tụt áp, tĩnh mạch cổ nổi, lệch khí quản sang phải; FAST loại trừ tràn dịch màng tim và ổ bụng). Biện pháp cứu sống ngay lập tức là chọc kim giải áp khoang màng phổi trái cấp cứu.",
+      "option_explanations": [
+        "Đúng — Chọc kim giải áp khoang màng phổi tức thì giải phóng chèn ép tĩnh mạch chủ cứu sống bệnh nhân.",
+        "Sai — Siêu âm FAST đã khẳng định khoang màng ngoài tim không có dịch.",
+        "Sai — Không có dịch tự do ổ bụng trên FAST, mở bụng không giải quyết nguyên nhân suy tuần hoàn.",
+        "Sai — Đặt NKQ thở máy áp lực dương PEEP sẽ làm tăng áp lực lồng ngực gây ngừng tim ngay lập tức."
+      ]
+    },
+    {
+      "id": "SURGR2-B01",
+      "type": "vignette",
+      "topic": "Hồi sức ABCDE, Permissive Hypotension & MTP 1:1:1",
+      "subtopic": "Tiếp cận ban đầu theo ABCDE",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R2 §5.1",
+      "text": "Bệnh nhân đa chấn thương sau tai nạn giao thông được đưa vào cấp cứu. Sau khi đã cố định nẹp cổ cứng và kiểm soát đường thở thông thoáng (bước A), hành động tiếp theo trong chuỗi ABCDE cần thực hiện tại bước B (Breathing) là gì?",
+      "options": [
+        "Cung cấp oxy 10-15 L/phút qua mask có túi dự trữ",
+        "Kiểm soát đường thở và cố định cột sống cổ",
+        "Băng ép cầm máu vết thương và đặt 2 đường truyền",
+        "Bộc lộ toàn thân và ủ ấm tích cực chống hạ thân nhiệt"
+      ],
+      "correct": 0,
+      "explanation": "Theo bước A (Airway with cervical spine control), kiểm soát thông thoáng đường thở luôn đi kèm cố định cột sống cổ bằng nẹp cứng. Các lựa chọn khác là hành động chuẩn của các bước B, C, E trong bài.",
+      "option_explanations": [
+        "Sai — Thiết lập 2 đường truyền tĩnh mạch lớn là can thiệp chuẩn của bước C (Circulation).",
+        "Sai — Cung cấp oxy mask túi dự trữ 10-15 L/phút là can thiệp chuẩn của bước B (Breathing).",
+        "Sai — Bộc lộ toàn thân tìm tổn thương và ủ ấm là can thiệp chuẩn của bước E (Exposure).",
+        "Đúng — Bước A bắt buộc kiểm soát đường thở song song cố định cột sống cổ bằng nẹp cứng."
+      ]
+    },
+    {
+      "id": "SURGR2-B02",
+      "type": "vignette",
+      "topic": "Hồi sức ABCDE, Permissive Hypotension & MTP 1:1:1",
+      "subtopic": "Hô hấp và thông khí (Breathing)",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R2 §5.1",
+      "text": "Bệnh nhân đa chấn thương có tràn khí màng phổi dưới áp lực đe dọa ngừng tuần hoàn. Xử trí cấp cứu giải áp khẩn trương tại chỗ là gì?",
+      "options": [
+        "Đặt ống nội khí quản thở máy",
+        "Đặt dẫn lưu màng phổi hút liên tục",
+        "Mở ngực cấp cứu tại phòng khám",
+        "Chọc kim giải áp màng phổi"
+      ],
+      "correct": 3,
+      "explanation": "Tại bước B (Breathing), chỉ định chuẩn là đảm bảo thông khí và thở oxy lưu lượng cao 10-15 L/phút qua mask có túi dự trữ. Các phương án còn lại là hành động của bước A, C, E.",
+      "option_explanations": [
+        "Sai — Kiểm soát đường thở và nẹp cổ cứng là can thiệp của bước A đã được thực hiện trước đó.",
+        "Sai — Bộc lộ toàn thân và ủ ấm phòng hạ thân nhiệt là can thiệp của bước E.",
+        "Đúng — Bước B quy định đảm bảo thông khí, cho thở oxy lưu lượng cao 10-15 L/phút qua mask có túi dự trữ.",
+        "Sai — Đặt 2 đường truyền tĩnh mạch ngoại vi là can thiệp của bước C."
+      ]
+    },
+    {
+      "id": "SURGR2-B03",
+      "type": "vignette",
+      "topic": "Hồi sức ABCDE, Permissive Hypotension & MTP 1:1:1",
+      "subtopic": "Tuần hoàn và kiểm soát chảy máu ngoài (Circulation)",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R2 §5.1",
+      "text": "Bệnh nhân nam 28 tuổi vào viện có vết thương đùi đang phun máu đỏ tươi liên tục, huyết áp 80/50 mmHg, mạch 125 lần/phút. Hành động kiểm soát chảy máu ngoài ưu tiên hàng đầu tại bước C (Circulation) là gì?",
+      "options": [
+        "Thở oxy mask túi dự trữ 10 L/p",
+        "Đặt ngay 2 đường truyền 14G-16G",
+        "Băng ép có trọng điểm chèn gạc",
+        "Ủ ấm tích cực phòng hạ thân nhiệt"
+      ],
+      "correct": 2,
+      "explanation": "Trong bước C (Circulation with hemorrhage control), việc cầm máu cơ học tại chỗ bằng băng ép có trọng điểm, chèn gạc (hoặc garô khi cần) là ưu tiên số một song song với thiết lập đường truyền bù dịch.",
+      "option_explanations": [
+        "Sai — Đánh giá Glasgow và đồng tử thuộc bước D (Disability).",
+        "Sai — Cung cấp oxy mask túi dự trữ 10-15 L/phút thuộc bước B.",
+        "Đúng — Bước C bắt buộc kiểm soát chảy máu ngoài trước tiên bằng băng ép chèn gạc kết hợp cố định xương lớn.",
+        "Sai — Bộc lộ toàn thân và ủ ấm thuộc bước E (Exposure)."
+      ]
+    },
+    {
+      "id": "SURGR2-B04",
+      "type": "vignette",
+      "topic": "Tam chứng tử thần, DCS & Chẩn đoán tại giường",
+      "subtopic": "Bộc lộ và kiểm soát môi trường (Exposure)",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R2 §5.1 & §5.3",
+      "text": "Sau khi hoàn thành đánh giá thần kinh bước D ở nạn nhân đa chấn thương nghi sốc mất máu, kíp cấp cứu chuyển sang bước E (Exposure / Environmental control). Hành động bắt buộc phải thực hiện tại bước này theo barem là gì?",
+      "options": [
+        "Kiểm soát đường thở đồng thời cố định cột sống cổ bằng nẹp cứng",
+        "Bộc lộ toàn thân tìm kiếm tổn thương và ủ ấm chủ động bằng chăn",
+        "Cung cấp oxy lưu lượng cao 10-15 L/phút qua mask có túi dự trữ",
+        "Thiết lập ngay 2 đường truyền tĩnh mạch ngoại vi khẩu kính lớn"
+      ],
+      "correct": 1,
+      "explanation": "Bước E bao gồm bộc lộ toàn thân tìm tổn thương kết hợp ủ ấm tích cực phòng chống hạ thân nhiệt. Các phương án A, B, C tương ứng là can thiệp chuẩn của bước A, B, C.",
+      "option_explanations": [
+        "Sai — Kiểm soát đường thở và nẹp cổ cứng là nội dung bước A.",
+        "Đúng — Bước E quy định rõ: bộc lộ toàn thân tìm tổn thương kết hợp ủ ấm tích cực phòng chống hạ thân nhiệt.",
+        "Sai — Cung cấp oxy mask túi dự trữ 10-15 L/phút là nội dung bước B.",
+        "Sai — Thiết lập 2 đường truyền tĩnh mạch ngoại vi lớn là nội dung bước C."
+      ]
+    },
+    {
+      "id": "SURGR2-B05",
+      "type": "vignette",
+      "topic": "Hồi sức ABCDE, Permissive Hypotension & MTP 1:1:1",
+      "subtopic": "Thiết lập đường truyền tĩnh mạch",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R2 §5.2",
+      "text": "Bệnh nhân nữ 35 tuổi vào cấp cứu trong tình trạng sốc mất máu do vỡ lách, mạch 126 lần/phút, huyết áp 80/50 mmHg, cần bù dịch khẩn cấp. Thủ thuật thiết lập tiếp cận tĩnh mạch nào được khuyến cáo thực hiện ngay lúc này theo barem?",
+      "options": [
+        "Phẫu thuật bộc lộ tĩnh mạch hiển lớn tại vị trí trước mắt cá trong",
+        "Đặt ngay 2 đường truyền ngoại vi khẩu kính lớn 14G-16G ở chi trên",
+        "Đặt ngay ống thông tĩnh mạch trung tâm ba nòng dưới hướng dẫn siêu âm",
+        "Khoan kim truyền dịch trong xương tại vị trí đầu trên xương chày"
+      ],
+      "correct": 1,
+      "explanation": "Barem mục II.5.2 quy định: Đặt ngay 2 đường truyền ngoại vi khẩu kính lớn (14G-16G) ở hai chi trên; không làm chậm trễ cấp cứu để đặt catheter tĩnh mạch trung tâm.",
+      "option_explanations": [
+        "Sai — Bộc lộ tĩnh mạch hiển lớn chỉ dùng khi các đường truyền ngoại vi không thể tiếp cận được.",
+        "Đúng — Đặt ngay 2 đường truyền ngoại vi 14G-16G là phương thức nhanh nhất và lưu lượng cao nhất trong cấp cứu ban đầu.",
+        "Sai — Catheter tĩnh mạch trung tâm làm chậm trễ hồi sức và lưu lượng truyền chậm hơn do lòng kim dài.",
+        "Sai — Đường truyền trong xương chỉ là lựa chọn thay thế khẩn cấp ở trẻ nhỏ hoặc khi mất hoàn toàn đường tĩnh mạch."
+      ]
+    },
+    {
+      "id": "SURGR2-B06",
+      "type": "vignette",
+      "topic": "Hồi sức ABCDE, Permissive Hypotension & MTP 1:1:1",
+      "subtopic": "Chiến lược Permissive Hypotension",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R2 §5.2",
+      "text": "Trong chiến lược hạ huyết áp cho phép (Permissive Hypotension), trường hợp ngoại lệ bắt buộc phải duy trì HATT ≥ 100-110 mmHg (MAP ≥ 80-90 mmHg) là khi bệnh nhân có bệnh cảnh phối hợp nào?",
+      "options": [
+        "Dập rách động mạch chi dưới có sốc",
+        "Gãy xương chậu mất máu độ III",
+        "Vỡ tạng đặc có chảy máu trong ổ bụng",
+        "Chấn thương sọ não hoặc tổn thương tủy"
+      ],
+      "correct": 3,
+      "explanation": "Ở bệnh nhân sốc mất máu chưa mổ cầm máu không kèm chấn thương thần kinh, chiến lược Permissive Hypotension khuyến cáo HATT 80-90 mmHg (MAP ≥ 65 mmHg). Phương án B dành cho bệnh nhân có CTSN/tủy sống; phương án C và D là đích Hct/Hb.",
+      "option_explanations": [
+        "Sai — Mức HATT ≥ 100-110 mmHg (MAP ≥ 80-90 mmHg) là đích bắt buộc khi có kèm chấn thương sọ não hoặc tổn thương tủy sống.",
+        "Sai — Hct > 30% là đích hồng cầu của bệnh nhân kèm chấn thương sọ não.",
+        "Sai — Hct 25-30% là đích hồng cầu của hồi sức truyền máu thông thường, không phải chỉ số áp lực huyết động.",
+        "Đúng — Duy trì HATT 80-90 mmHg (hoặc MAP ≥ 65 mmHg) để bảo đảm tưới máu tối thiểu và tránh làm bật cục máu đông."
+      ]
+    },
+    {
+      "id": "SURGR2-B07",
+      "type": "concept",
+      "topic": "Hồi sức ABCDE, Permissive Hypotension & MTP 1:1:1",
+      "subtopic": "Cơ chế của Permissive Hypotension",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-R2 §5.2",
+      "text": "Bệnh nhân có chấn thương sọ não phối hợp chấn thương bụng kín sốc mất máu. Mục tiêu huyết áp động mạch trung bình (MAP) bắt buộc phải duy trì theo barem là bao nhiêu?",
+      "options": [
+        "Duy trì MAP từ 50 đến 60 mmHg",
+        "Duy trì MAP từ 65 đến 75 mmHg",
+        "Duy trì MAP từ 110 đến 120 mmHg",
+        "Duy trì MAP từ 80 đến 90 mmHg"
+      ],
+      "correct": 3,
+      "explanation": "Barem mục II.5.2 nêu rõ mục đích của Permissive Hypotension: duy trì tưới máu tạng tối thiểu, tránh làm bật cục máu đông gây chảy máu ồ ạt tái phát và tránh pha loãng các yếu tố đông máu.",
+      "option_explanations": [
+        "Sai — Đảm bảo CPP = MAP - ICP là cơ chế áp dụng cho mức huyết áp cao hơn (MAP ≥ 80-90 mmHg) ở bệnh nhân CTSN.",
+        "Sai — Tái phân bố dồn máu nuôi tim và não là cơ chế thích nghi sinh lý tự nhiên trong giai đoạn sốc còn bù.",
+        "Sai — Quai động mạch chủ chứa thụ thể áp lực giao cảm, không phải phản xạ ức chế trong hạ huyết áp.",
+        "Đúng — Duy trì HATT 80-90 mmHg giúp giữ vững nút cầm máu tạm thời và hạn chế pha loãng máu do truyền dịch quá mức."
+      ]
+    },
+    {
+      "id": "SURGR2-B08",
+      "type": "vignette",
+      "topic": "Hồi sức ABCDE, Permissive Hypotension & MTP 1:1:1",
+      "subtopic": "Ngoại lệ Permissive Hypotension ở CTSN",
+      "bloom": "phân tích",
+      "difficulty": 2,
+      "source": "SURG-R2 §5.2",
+      "text": "Bệnh nhân nam 40 tuổi bị đa chấn thương bụng kín nghi vỡ gan kèm chấn thương sọ não nặng (GCS 7 điểm, CT sọ dập não diện rộng). Khác với bệnh nhân chấn thương bụng đơn thuần, mục tiêu huyết động bắt buộc phải duy trì trên bệnh nhân này là gì?",
+      "options": [
+        "Huyết áp tâm thu ≥ 100-110 mmHg (hoặc MAP ≥ 80-90 mmHg)",
+        "Hematocrit 25-30% (tương đương Hb ≥ 80-90 g/L)",
+        "Huyết áp tâm thu 80-90 mmHg (hoặc MAP ≥ 65 mmHg)",
+        "Hematocrit > 30% (tương đương Hb > 100 g/L)"
+      ],
+      "correct": 0,
+      "explanation": "Ngoại lệ của Permissive Hypotension: bệnh nhân có chấn thương sọ não hoặc tổn thương tủy sống bắt buộc phải duy trì MAP ≥ 80-90 mmHg (HATT ≥ 100-110 mmHg) để bảo đảm áp lực tưới máu não (CPP = MAP - ICP).",
+      "option_explanations": [
+        "Đúng — Bắt buộc duy trì HATT ≥ 100-110 mmHg (MAP ≥ 80-90 mmHg) để bảo đảm CPP khi có chấn thương sọ não hoặc tổn thương tủy.",
+        "Sai — Hct 25-30% là đích hồng cầu của chấn thương thông thường.",
+        "Sai — HATT 80-90 mmHg là đích cho bệnh nhân chấn thương thông thường không kèm tổn thương thần kinh trung ương.",
+        "Sai — Hct > 30% là đích nồng độ hồng cầu của CTSN chứ không phải đích huyết áp động mạch."
+      ]
+    },
+    {
+      "id": "SURGR2-B09",
+      "type": "vignette",
+      "topic": "Hồi sức ABCDE, Permissive Hypotension & MTP 1:1:1",
+      "subtopic": "Lựa chọn dịch truyền ban đầu",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R2 §5.2",
+      "text": "Bệnh nhân nam 26 tuổi bị gãy kín hai xương cẳng chân và xương đùi trái, huyết áp 95/65 mmHg, mạch 112 lần/phút (mất máu Độ II). Trong khi chuẩn bị máu, thể tích dung dịch tinh thể cân bằng ấm khởi đầu được khuyến cáo bù hồi sức là bao nhiêu?",
+      "options": [
+        "1000-1500 ml",
+        "2000-2500 ml",
+        "3000-4000 ml",
+        "5000-6000 ml"
+      ],
+      "correct": 0,
+      "explanation": "Barem mục II.5.2 quy định: Khởi đầu bằng dung dịch tinh thể cân bằng ấm (Ringer Lactat, Ringerfundin hoặc NaCl 0,9%) thể tích giới hạn 1000-1500 ml; hạn chế truyền dịch tinh thể khối lượng lớn.",
+      "option_explanations": [
+        "Sai — 200-500 ml là liều test dịch dùng trong đánh giá đáp ứng dịch ở suy tim hoặc hồi sức nội khoa thông thường.",
+        "Đúng — Thể tích dung dịch tinh thể ấm ban đầu được giới hạn trong khoảng 1000-1500 ml theo khuyến cáo hiện đại.",
+        "Sai — 2000-2500 ml vượt quá giới hạn khuyến cáo ban đầu, làm tăng nguy cơ toan máu và loãng đông máu.",
+        "Sai — 3000-4000 ml là phác đồ bù dịch ồ ạt cũ, gây biến chứng phù phổi, hạ thân nhiệt và rối loạn đông máu."
+      ]
+    },
+    {
+      "id": "SURGR2-B10",
+      "type": "concept",
+      "topic": "Hồi sức ABCDE, Permissive Hypotension & MTP 1:1:1",
+      "subtopic": "Tác hại của truyền dịch tinh thể khối lượng lớn",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-R2 §5.2",
+      "text": "Dung dịch tinh thể cân bằng ấm được khuyến cáo truyền bù khởi đầu với thể tích giới hạn là bao nhiêu để tránh nguy cơ toan máu tăng clo và pha loãng đông máu?",
+      "options": [
+        "500 đến 800 ml",
+        "1000 đến 1500 ml",
+        "2000 đến 2500 ml",
+        "3000 đến 4000 ml"
+      ],
+      "correct": 1,
+      "explanation": "Barem mục II.5.2 ghi rõ: Hạn chế truyền dịch tinh thể khối lượng lớn vì gây toan máu do Clo cao (hyperchloremic metabolic acidosis) và pha loãng các yếu tố đông máu.",
+      "option_explanations": [
+        "Sai — Truyền nhiều NaCl gây toan chuyển hóa tăng clo máu, không gây kiềm chuyển hóa.",
+        "Sai — Dung dịch NaCl 0,9% là đẳng trương với huyết tương, không gây ưu trương làm teo tế bào não.",
+        "Đúng — Dịch tinh thể nhiều clo gây toan máu tăng clo và làm loãng nồng độ tiểu cầu cùng các yếu tố đông máu.",
+        "Sai — Hạ canxi máu do phức hợp chelate là cơ chế của chất chống đông Citrate trong túi máu, không phải của dịch tinh thể."
+      ]
+    },
+    {
+      "id": "SURGR2-B11",
+      "type": "vignette",
+      "topic": "Hồi sức ABCDE, Permissive Hypotension & MTP 1:1:1",
+      "subtopic": "Chỉ định máu khẩn cấp O Rh-",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R2 §5.2",
+      "text": "Quy trình truyền máu khối lượng lớn (MTP) trong cấp cứu sốc mất máu Độ IV khuyến cáo sử dụng nhóm máu khẩn cấp phổ quát nào khi chưa kịp làm xét nghiệm nhóm máu?",
+      "options": [
+        "Khối hồng cầu nhóm O Rh âm tính (O Rh-)",
+        "Khối hồng cầu nhóm B Rh âm tính (B Rh-)",
+        "Khối hồng cầu nhóm A Rh dương tính (A Rh+)",
+        "Khối hồng cầu nhóm AB Rh dương tính (AB Rh+)"
+      ],
+      "correct": 0,
+      "explanation": "Quy trình truyền máu tối khẩn cấp khi chưa xác định nhóm máu chỉ định dùng khối hồng cầu nhóm O Rh- (đặc biệt đối với phụ nữ trẻ tuổi sinh đẻ nhằm ngăn ngừa đồng miễn dịch kháng nguyên RhD).",
+      "option_explanations": [
+        "Sai — O Rh+ có thể tạm dùng cho nam giới khi cạn kiệt O Rh-, nhưng ở nữ trẻ tuổi sinh đẻ tuyệt đối tránh để ngăn ngừa tai biến tán huyết sơ sinh sau này.",
+        "Sai — Huyết tương chưa rã đông không thể truyền ngay và không giải quyết được chức năng vận chuyển oxy cấp bách.",
+        "Sai — AB Rh+ chỉ dùng truyền cho người nhóm AB; nếu truyền cho người nhóm O, A, B sẽ gây ngưng kết tan máu nội mạch cấp tử vong.",
+        "Đúng — Barem chỉ rõ: Sử dụng máu khẩn cấp nhóm O âm tính (O Rh-) khi chưa kịp xác định nhóm máu."
+      ]
+    },
+    {
+      "id": "SURGR2-B12",
+      "type": "concept",
+      "topic": "Hồi sức ABCDE, Permissive Hypotension & MTP 1:1:1",
+      "subtopic": "Tỷ lệ truyền máu khối lượng lớn MTP",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-R2 §5.2",
+      "text": "Trong quy trình truyền máu khối lượng lớn (MTP) tỷ lệ 1:1:1, 3 thành phần chế phẩm máu truyền cân bằng bao gồm những gì?",
+      "options": [
+        "Tỷ lệ 1 Hồng cầu khối : 1 Máu toàn phần : 1 Tinh thể",
+        "Tỷ lệ 1 Hồng cầu lắng : 1 Tủa lạnh Cryo : 1 Gelatin",
+        "Tỷ lệ 1 Máu toàn phần : 1 Albumin : 1 Dung dịch tinh thể",
+        "Tỷ lệ 1 Hồng cầu khối : 1 Huyết tương tươi : 1 Tiểu cầu"
+      ],
+      "correct": 3,
+      "explanation": "Barem mục II.5.2 quy định: Tỷ lệ truyền máu cân bằng hiện đại là 1 Hồng cầu khối : 1 Huyết tương tươi đông lạnh (FFP) : 1 Đơn vị tiểu cầu (Tỷ lệ 1:1:1) nhằm ngăn chặn sớm rối loạn đông máu.",
+      "option_explanations": [
+        "Đúng — Tỷ lệ 1:1:1 tái tạo thành phần tương tự máu toàn phần, phòng ngừa sớm rối loạn đông máu do tiêu thụ và pha loãng.",
+        "Sai — Tỷ lệ 4:2:1 là phác đồ thế hệ trước, thường dẫn đến suy giảm nhanh chóng số lượng và chức năng tiểu cầu.",
+        "Sai — Tỷ lệ 2:1:1 vẫn còn tương đối thiếu hụt yếu tố đông máu so với phác đồ cân bằng chuẩn hiện nay.",
+        "Sai — Tỷ lệ 6:1:1 là quan niệm truyền hồng cầu đơn thuần cổ điển, làm tăng mạnh tỷ lệ tử vong do tam chứng tử thần."
+      ]
+    },
+    {
+      "id": "SURGR2-B13",
+      "type": "vignette",
+      "topic": "Hồi sức ABCDE, Permissive Hypotension & MTP 1:1:1",
+      "subtopic": "Mục tiêu Hct và Hb trong MTP",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-R2 §5.2 & Câu hỏi lượng giá 4",
+      "text": "Bệnh nhân nam 35 tuổi bị vỡ lách độ IV mất máu Độ III, đã được phẫu thuật cắt lách cầm máu thành công, không có tổn thương sọ não. Chỉ tiêu về nồng độ hồng cầu (Hematocrit và Hemoglobin) cần duy trì trong quá trình hồi sức tiếp tục theo barem là gì?",
+      "options": [
+        "Huyết áp tâm thu 80-90 mmHg (hoặc MAP ≥ 65 mmHg)",
+        "Huyết áp tâm thu ≥ 100-110 mmHg (hoặc MAP ≥ 80-90 mmHg)",
+        "Hematocrit 25-30% (tương đương Hb ≥ 80-90 g/L)",
+        "Hematocrit > 30% (tương đương Hb > 100 g/L)"
+      ],
+      "correct": 2,
+      "explanation": "Barem mục II.5.2 và câu hỏi lượng giá 4: Duy trì mục tiêu Hematocrit 25-30% (Hb ≥ 80-90 g/L); nếu có chấn thương sọ não thì mục tiêu là Hct > 30% (Hb > 100 g/L).",
+      "option_explanations": [
+        "Sai — HATT 80-90 mmHg (MAP ≥ 65 mmHg) là đích huyết áp trong chiến lược Permissive Hypotension trước mổ.",
+        "Sai — HATT ≥ 100-110 mmHg (MAP ≥ 80-90 mmHg) là đích huyết áp dành cho bệnh nhân có CTSN hoặc tổn thương tủy.",
+        "Đúng — Đích hồng cầu cho bệnh nhân chấn thương thông thường không kèm CTSN là Hct 25-30% (Hb ≥ 80-90 g/L).",
+        "Sai — Hct > 30% (Hb > 100 g/L) là đích hồng cầu dành riêng cho bệnh nhân có kèm chấn thương sọ não."
+      ]
+    },
+    {
+      "id": "SURGR2-B14",
+      "type": "vignette",
+      "topic": "Hồi sức ABCDE, Permissive Hypotension & MTP 1:1:1",
+      "subtopic": "Mục tiêu Hct ở bệnh nhân CTSN",
+      "bloom": "phân tích",
+      "difficulty": 2,
+      "source": "SURG-R2 §5.2",
+      "text": "Bệnh nhân nam 29 tuổi bị đa chấn thương bụng kín vỡ gan kèm chấn thương sọ não tụ máu dưới màng cứng (GCS 8 điểm). Khác với nạn nhân chấn thương không kèm tổn thương thần kinh, mục tiêu Hematocrit (Hct) và nồng độ Hemoglobin (Hb) cần duy trì tối thiểu là bao nhiêu?",
+      "options": [
+        "Hematocrit 25-30% (tương đương Hb ≥ 80-90 g/L)",
+        "Hematocrit > 30% (tương đương Hb > 100 g/L)",
+        "Huyết áp tâm thu ≥ 100-110 mmHg (hoặc MAP ≥ 80-90 mmHg)",
+        "Huyết áp tâm thu 80-90 mmHg (hoặc MAP ≥ 65 mmHg)"
+      ],
+      "correct": 1,
+      "explanation": "Theo barem mục II.5.2: Ngoại lệ ở bệnh nhân có chấn thương sọ não kèm theo cần duy trì Hct > 30% (Hb > 100 g/L) để đảm bảo tối ưu hóa vận chuyển oxy lên não.",
+      "option_explanations": [
+        "Sai — Mức Hct 25-30% (Hb ≥ 80-90 g/L) là ngưỡng duy trì cho bệnh nhân chấn thương thông thường KHÔNG kèm tổn thương não.",
+        "Đúng — Barem quy định: Nếu có chấn thương sọ não duy trì Hct > 30% (Hb > 100 g/L).",
+        "Sai — HATT ≥ 100-110 mmHg là đích áp lực động mạch, không phải chỉ số nồng độ hồng cầu Hct/Hb.",
+        "Sai — HATT 80-90 mmHg là đích huyết áp của Permissive Hypotension."
+      ]
+    },
+    {
+      "id": "SURGR2-B15",
+      "type": "concept",
+      "topic": "Tam chứng tử thần, DCS & Chẩn đoán tại giường",
+      "subtopic": "Các thành tố của Tam chứng tử thần",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-R2 §5.3",
+      "text": "Tam chứng tử thần trong chấn thương (Lethal Triad of Trauma) bao gồm 3 biến đổi bệnh lý nào sau đây?",
+      "options": [
+        "Hạ thân nhiệt (< 35°C), toan chuyển hóa (pH < 7,2) và rối loạn đông máu",
+        "Hạ huyết áp (HATT < 80 mmHg), nhịp tim nhanh (> 120 l/p) và vô niệu",
+        "Tụt huyết áp kéo dài, tăng áp lực tĩnh mạch trung tâm và tim đập mờ",
+        "Toan hô hấp (PaCO2 > 50 mmHg), suy hô hấp ARDS và hạ thân nhiệt"
+      ],
+      "correct": 0,
+      "explanation": "Barem mục II.5.3 xác định tam chứng tử thần kinh điển gồm: Hạ thân nhiệt (< 35°C) — Toan chuyển hóa (pH < 7,2) — Rối loạn đông máu (Coagulopathy). Các lựa chọn khác là tam chứng Beck trong chèn ép tim cấp hoặc dấu hiệu của sốc mất bù.",
+      "option_explanations": [
+        "Đúng — Tam chứng tử thần chấn thương gồm: Thân nhiệt < 35°C, toan máu pH < 7,2 và rối loạn đông máu.",
+        "Sai — Hạ huyết áp, tim nhanh và vô niệu là các dấu hiệu lâm sàng của sốc mất máu Độ IV.",
+        "Sai — Tụt HA, tăng CVP và tiếng tim mờ là tam chứng Beck của chèn ép tim cấp (Tamponade).",
+        "Sai — Toan hô hấp và ARDS là biến chứng phổi thứ phát, không nằm trong tam chứng tử thần kinh điển."
+      ]
+    },
+    {
+      "id": "SURGR2-B16",
+      "type": "concept",
+      "topic": "Tam chứng tử thần, DCS & Chẩn đoán tại giường",
+      "subtopic": "Cơ chế rối loạn đông máu trong hạ thân nhiệt",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-R2 §5.3",
+      "text": "Theo tam chứng tử thần, biện pháp can thiệp quan trọng nhất nhằm phòng chống và đảo ngược rối loạn đông máu do hạ thân nhiệt (< 35°C) là gì?",
+      "options": [
+        "Tiêm tĩnh mạch acid tranexamic",
+        "Truyền tủa lạnh Cryo liều cao",
+        "Ủ ấm và sưởi ấm dịch truyền máu",
+        "Truyền huyết tương tươi đông lạnh"
+      ],
+      "correct": 2,
+      "explanation": "Nhiệt độ dưới 35°C làm giảm động học của các phản ứng enzym xúc tác đông máu và làm suy giảm sự kết dính, kết tập của tiểu cầu, gây chảy máu lan tỏa khó kiểm soát.",
+      "option_explanations": [
+        "Đúng — Hạ thân nhiệt < 35°C trực tiếp ức chế tốc độ xúc tác enzyme đông máu và làm giảm khả năng kết tập tiểu cầu.",
+        "Sai — Tủy xương không phản ứng tức thì bằng cách phóng thích ồ ạt tiểu cầu non trong vài giờ đầu sau chấn thương.",
+        "Sai — Tiêu fibrin qua trung gian plasminogen là phản ứng tiêu sợi huyết, không phải cơ chế chính của hạ thân nhiệt.",
+        "Sai — Thụ thể thrombin không bị bất hoạt trên tế bào nội mô."
+      ]
+    },
+    {
+      "id": "SURGR2-B17",
+      "type": "vignette",
+      "topic": "Tam chứng tử thần, DCS & Chẩn đoán tại giường",
+      "subtopic": "Sưởi ấm dịch và máu",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R2 §5.3",
+      "text": "Bệnh nhân nam 42 tuổi bị đa chấn thương mất máu nặng, nhiệt độ cơ thể hiện tại là 34,5°C, đang được truyền khối lượng lớn dịch tinh thể và chế phẩm máu. Biện pháp kỹ thuật bắt buộc phải tiến hành song song để ngăn chặn vòng xoắn tam chứng tử thần là gì?",
+      "options": [
+        "Chuyển ngay sang truyền dịch tinh thể lạnh để giảm tiêu thụ oxy tế bào",
+        "Kích hoạt quy trình phẫu thuật kiểm soát tổn thương (Damage Control Surgery)",
+        "Chỉ định bổ sung Canxi clorid 1g tĩnh mạch sau mỗi 4 đơn vị máu truyền",
+        "Ủ ấm chủ động và sử dụng máy sưởi ấm dịch truyền, máu trước khi truyền"
+      ],
+      "correct": 3,
+      "explanation": "Barem mục II.5.3: Để chống hạ thân nhiệt (< 35°C), bắt buộc ủ ấm bệnh nhân và dùng máy sưởi ấm dịch truyền, máu trước khi truyền vào cơ thể. Phương án B là xử trí hạ Canxi; C là chỉ định phẫu thuật tạm thời.",
+      "option_explanations": [
+        "Sai — Truyền dịch lạnh làm nhiệt độ trung tâm tụt sâu hơn, đẩy nhanh bệnh nhân đến tử vong.",
+        "Sai — Damage Control Surgery là chiến lược phẫu thuật cầm máu tạm thời, không phải biện pháp nâng nhiệt độ dịch truyền.",
+        "Sai — Bổ sung Canxi clorid là can thiệp dự phòng hạ canxi do citrate, không giải quyết tình trạng hạ thân nhiệt.",
+        "Đúng — Bắt buộc ủ ấm bệnh nhân kết hợp dùng máy sưởi ấm dịch truyền và máu trước khi truyền vào tĩnh mạch."
+      ]
+    },
+    {
+      "id": "SURGR2-B18",
+      "type": "concept",
+      "topic": "Tam chứng tử thần, DCS & Chẩn đoán tại giường",
+      "subtopic": "Bổ sung Canxi clorid trong truyền máu",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-R2 §5.3",
+      "text": "Trong quy trình truyền máu khối lượng lớn (MTP), cứ sau bao nhiêu đơn vị máu truyền thì bắt buộc phải bổ sung 1g Canxi clorid để phòng chống hạ canxi máu do citrate?",
+      "options": [
+        "Sau mỗi 2 đơn vị máu truyền",
+        "Sau mỗi 6 đơn vị máu truyền",
+        "Sau mỗi 4 đơn vị máu truyền",
+        "Sau mỗi 8 đơn vị máu truyền"
+      ],
+      "correct": 2,
+      "explanation": "Chất chống đông Citrate trong các túi máu lưu trữ liên kết với các ion Canxi tự do trong tuần hoàn tạo phức chelate, gây tụt nồng độ canxi ion hóa cấp tính, dẫn đến giảm co bóp cơ tim và suy giảm đông máu.",
+      "option_explanations": [
+        "Đúng — Barem ghi rõ: Bổ sung Canxi clorid (1g sau mỗi 4 đơn vị máu truyền vì chất chống đông Citrate trong túi máu gây hạ Canxi máu).",
+        "Sai — Hạ thân nhiệt ức chế chức năng tế bào nói chung chứ không bất hoạt thụ thể canxi.",
+        "Sai — Toan máu thực tế làm tăng phân ly canxi ion hóa khỏi albumin, không làm lắng đọng canxi.",
+        "Sai — Pha loãng dịch tinh thể chỉ đóng vai trò thứ yếu so với cơ chế tạo phức chelate mạnh mẽ của Citrate."
+      ]
+    },
+    {
+      "id": "SURGR2-B19",
+      "type": "calc",
+      "topic": "Tam chứng tử thần, DCS & Chẩn đoán tại giường",
+      "subtopic": "Tính toán liều Canxi clorid và chế phẩm máu MTP",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R2 §5.2 & §5.3",
+      "text": "Bệnh nhân nam 45 tuổi bị vỡ xương chậu mất máu Độ IV, được truyền 8 đơn vị hồng cầu khối theo quy trình MTP 1:1:1. Số đơn vị huyết tương tươi đông lạnh (FFP) và liều Canxi clorid 1g cần bổ sung theo barem lần lượt là bao nhiêu?",
+      "options": [
+        "4 đơn vị FFP và 1g Canxi clorid",
+        "8 đơn vị FFP và 2g Canxi clorid",
+        "8 đơn vị FFP và 4g Canxi clorid",
+        "16 đơn vị FFP và 2g Canxi clorid"
+      ],
+      "correct": 1,
+      "explanation": "Theo tỷ lệ cân bằng 1:1:1, khi truyền 8 đơn vị hồng cầu khối thì số đơn vị FFP cần truyền tương ứng là 8 đơn vị. Theo barem mục II.5.3, cần bổ sung 1g Canxi clorid sau mỗi 4 đơn vị máu truyền; với 8 đơn vị máu, tổng liều Canxi clorid là: 8 / 4 × 1g = 2g.",
+      "option_explanations": [
+        "Sai — 4 đơn vị FFP là theo tỷ lệ 2:1 cũ, và 1g Canxi clorid chỉ đủ cho 4 đơn vị máu.",
+        "Đúng — Tỷ lệ 1:1:1 yêu cầu 8 đơn vị FFP đi kèm 8 đơn vị HC khối. Quy tắc 1g Canxi clorid mỗi 4 đơn vị máu cho kết quả: 8 / 4 = 2g Canxi clorid.",
+        "Sai — 4g Canxi clorid là tính quá liều (1g cho mỗi 2 đơn vị máu).",
+        "Sai — 16 đơn vị FFP là tỷ lệ 1:2 quá thừa huyết tương đông lạnh."
+      ]
+    },
+    {
+      "id": "SURGR2-B20",
+      "type": "concept",
+      "topic": "Tam chứng tử thần, DCS & Chẩn đoán tại giường",
+      "subtopic": "Nguyên lý Phẫu thuật kiểm soát tổn thương DCS",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-R2 §5.3",
+      "text": "Trong phẫu thuật kiểm soát tổn thương (Damage Control Surgery - DCS) ở bệnh nhân sốc chấn thương nguy kịch, thì mổ đầu tiên tập trung vào mục tiêu sống còn nào?",
+      "options": [
+        "Chỉ cầm máu tạm thời và đóng bụng nhanh để hồi sức",
+        "Phẫu thuật triệt để phục hồi giải phẫu hoàn chỉnh",
+        "Cắt bỏ toàn bộ các tạng dập nát và nối lưu thông",
+        "Thăm dò tỉ mỉ toàn bộ các khoang và nạo hạch vùng"
+      ],
+      "correct": 0,
+      "explanation": "Barem mục II.5.3: Phẫu thuật kiểm soát tổn thương (Damage Control Surgery - DCS): Chỉ mổ cầm máu tạm thời và đóng bụng nhanh, chuyển về hồi sức tích cực ổn định huyết động trước khi mổ triệt để thì 2.",
+      "option_explanations": [
+        "Sai — Mở bụng chỉ đặt dẫn lưu mà không cầm máu tạm thời (chèn gạc, thắt mạch) sẽ không cứu được tính mạng người bệnh.",
+        "Sai — Mổ triệt để một thì kéo dài trên nền toan máu, hạ thân nhiệt và rối loạn đông máu sẽ làm bệnh nhân tử vong trên bàn mổ.",
+        "Sai — Trì hoãn mổ khi máu đang chảy ồ ạt trong ổ bụng sẽ làm cạn kiệt tuần hoàn dẫn đến ngưng tim.",
+        "Đúng — DCS chia làm nhiều thì: thì 1 phẫu thuật nhanh cầm máu tạm và ngăn ngừa rò rỉ phân, chuyển ICU hồi sức chống tam chứng tử thần, sau đó mới mổ triệt để thì 2."
+      ]
+    },
+    {
+      "id": "SURGR2-B21",
+      "type": "vignette",
+      "topic": "Tam chứng tử thần, DCS & Chẩn đoán tại giường",
+      "subtopic": "Chỉ định Damage Control Surgery trong mổ",
+      "bloom": "đánh giá",
+      "difficulty": 3,
+      "source": "SURG-R2 §5.3",
+      "text": "Bệnh nhân nam 36 tuổi bị vỡ gan phức tạp do tai nạn xe tải đang mở bụng cấp cứu. Trong mổ, nhiệt độ trung tâm đo được 34,2°C, khí máu động mạch có pH 7,15, máu tại mép mổ chảy rỉ loãng không thể đông. Chiến lược xử trí phẫu thuật đúng đắn nhất lúc này là gì?",
+      "options": [
+        "Chỉ mổ cầm máu tạm thời (chèn gạc gan) và đóng bụng nhanh, đưa về ICU hồi sức",
+        "Bơm rửa ổ bụng liên tục bằng 5000 ml nước muối sinh lý ở nhiệt độ phòng",
+        "Tiếp tục kéo dài cuộc mổ để cắt phân thùy gan tổn thương triệt để và khâu phục hồi",
+        "Đóng bụng giải phẫu nhiều lớp chặt chẽ và rút toàn bộ ống thông dẫn lưu dịch"
+      ],
+      "correct": 0,
+      "explanation": "Bệnh nhân đã xuất hiện đầy đủ Tam chứng tử thần (nhiệt độ < 35°C, pH < 7,2 và máu loãng không đông). Bắt buộc phải ngừng ngay ý định mổ triệt để, áp dụng nguyên tắc DCS: chèn gạc cầm máu tạm thời (packing), đóng bụng nhanh và chuyển ngay về ICU hồi sức.",
+      "option_explanations": [
+        "Đúng — Đây là chỉ định bắt buộc của DCS: cầm máu tạm (chèn gạc), đóng bụng tạm nhanh chóng và chuyển ICU để sưởi ấm, cân bằng toan kiềm và truyền chế phẩm máu.",
+        "Sai — Rửa bụng bằng dịch ở nhiệt độ phòng làm hạ thân nhiệt trầm trọng hơn.",
+        "Sai — Tiếp tục cắt gan triệt để kéo dài chắc chắn làm bệnh nhân tử vong ngay trên bàn mổ do suy kiệt dự trữ sinh lý.",
+        "Sai — Đóng bụng chặt chẽ nhiều lớp mất thời gian và dẫn đến hội chứng khoang bụng."
+      ]
+    },
+    {
+      "id": "SURGR2-B22",
+      "type": "concept",
+      "topic": "Hồi sức ABCDE, Permissive Hypotension & MTP 1:1:1",
+      "subtopic": "Đích điều trị sau khi cầm máu ổn định",
+      "bloom": "sáng tạo",
+      "difficulty": 2,
+      "source": "SURG-R2 §5.2 & Câu hỏi lượng giá 4",
+      "text": "Trên bệnh nhân sốc mất máu đã được phẫu thuật cầm máu ổn định, đích lượng nước tiểu cần duy trì là bao nhiêu?",
+      "options": [
+        "Lượng nước tiểu > 0,2 ml/kg/giờ",
+        "Lượng nước tiểu > 1,5 ml/kg/giờ",
+        "Lượng nước tiểu > 0,5 ml/kg/giờ",
+        "Lượng nước tiểu > 2,0 ml/kg/giờ"
+      ],
+      "correct": 2,
+      "explanation": "Barem mục Câu hỏi lượng giá 4 xác định đích điều trị cần đạt sau phẫu thuật cầm máu ổn định: Huyết áp động mạch trung bình (MAP) ≥ 65 mmHg; Hematocrit > 25% (kèm Hb ≥ 80-90 g/L); Lượng nước tiểu > 0,5 ml/kg/giờ.",
+      "option_explanations": [
+        "Đúng — Câu hỏi lượng giá 4 quy định rõ 3 đích: MAP ≥ 65 mmHg, Hct > 25% (Hb ≥ 80-90 g/L), nước tiểu > 0,5 ml/kg/giờ.",
+        "Sai — HATT ≥ 120-130 mmHg và Hct > 40% là chỉ số của người khỏe mạnh, không phải đích hồi sức cần đạt sau sốc mất máu.",
+        "Sai — HATT 80-90 mmHg là đích của hạ huyết áp có kiểm soát trước khi phẫu thuật cầm máu.",
+        "Sai — MAP ≥ 80-90 mmHg và Hct > 30% là đích dành riêng cho bệnh nhân có chấn thương sọ não hoặc tổn thương tủy sống."
+      ]
+    }
+  ]
+}

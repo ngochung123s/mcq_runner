@@ -1,0 +1,972 @@
+{
+  "format": "medmcq-bank",
+  "version": 1,
+  "id": "bank_surgr4_suy_ho_hap_cap",
+  "lesson": "SURG-R4",
+  "group": "Ngoại khoa",
+  "title": "SURG-R4: Suy hô hấp cấp (Barem — 40 câu phủ 6 bậc Bloom)",
+  "description": "3 hệ thống trao đổi khí, Shunt vs V/Q vs giảm thông khí, 3 tuýp suy hô hấp, bảng phân tầng mức độ, khai thông đường thở & chỉ định NKQ, liệu pháp oxy và nguyên nhân ngoại khoa.",
+  "updated": "2026-11-12T13:27:35Z",
+  "questions": [
+    {
+      "id": "SURGR4-A01",
+      "type": "concept",
+      "topic": "Đại cương & Sinh lý bệnh (Shunt, V/Q, Tăng CO₂)",
+      "subtopic": "Định nghĩa suy hô hấp cấp",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-R4 §I",
+      "text": "Theo định nghĩa sinh lý bệnh học, tình trạng suy hô hấp cấp tính được xác định khi phân áp oxy máu động mạch (PaO₂) giảm xuống dưới ngưỡng bao nhiêu?",
+      "options": [
+        "Dưới 50 mmHg",
+        "Dưới 80 mmHg",
+        "Dưới 70 mmHg",
+        "Dưới 60 mmHg"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Mục I: Suy hô hấp cấp được định nghĩa là PaO₂ < 60 mmHg kèm theo hoặc không kèm theo PaCO₂ ≥ 46 mmHg (toan hô hấp).",
+      "option_explanations": [
+        "Đúng — Định nghĩa chuẩn trong barem Mục I: PaO₂ < 60 mmHg kèm theo hoặc không kèm theo PaCO₂ ≥ 46 mmHg.",
+        "Sai — Mốc PaO₂ < 55 mmHg và PaCO₂ > 60 mmHg là tiêu chuẩn khí máu của suy hô hấp mức độ Nguy kịch (Mục III.2).",
+        "Sai — Mốc PaO₂ > 60 mmHg và PaCO₂ 45–55 mmHg là tiêu chuẩn khí máu của suy hô hấp mức độ Trung bình (Mục III.2).",
+        "Sai — Mốc PaO₂ 55–60 mmHg và PaCO₂ 55–60 mmHg là tiêu chuẩn khí máu của suy hô hấp mức độ Nặng (Mục III.2)."
+      ]
+    },
+    {
+      "id": "SURGR4-A02",
+      "type": "concept",
+      "topic": "Đại cương & Sinh lý bệnh (Shunt, V/Q, Tăng CO₂)",
+      "subtopic": "3 hệ thống trao đổi khí",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-R4 §II",
+      "text": "Chu trình trao đổi khí nhằm cung cấp oxy và đào thải carbonic phụ thuộc vào 3 hệ thống cơ quan. Nhiệm vụ thông khí và khuếch tán khí qua màng phế nang mao mạch trực tiếp do hệ thống nào đảm nhiệm?",
+      "options": [
+        "Hệ thống tuần hoàn vận chuyển khí giữa phổi và các mô",
+        "Hệ thống cơ hô hấp và thành ngực tạo động lực lưu thông khí",
+        "Hệ thống mô và tế bào tiêu thụ oxy và đào thải carbonic",
+        "Hệ thống phổi thực hiện chức năng thông khí và khuếch tán"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Mục II: 3 hệ thống trao đổi khí gồm: (1) Phổi: thông khí và khuếch tán khí qua màng phế nang - mao mạch; (2) Tuần hoàn: vận chuyển khí O₂ và CO₂; (3) Mô/Tế bào: tách O₂ từ hồng cầu để tiêu thụ và thải CO₂.",
+      "option_explanations": [
+        "Sai — Hệ thống tuần hoàn đảm nhiệm vận chuyển O₂ và CO₂ giữa phổi và các cơ quan ngoại vi.",
+        "Sai — Cơ hô hấp tạo chênh lệch áp lực để thông khí cơ học, nhưng barem xác định 3 hệ thống trao đổi khí chức năng là Phổi, Tuần hoàn và Mô/Tế bào.",
+        "Sai — Hệ thống mô và tế bào đảm nhiệm tách O₂ từ hồng cầu để chuyển hóa và thải CO₂ vào máu.",
+        "Đúng — Hệ thống phổi trực tiếp đảm nhiệm thông khí và khuếch tán khí qua màng phế nang - mao mạch."
+      ]
+    },
+    {
+      "id": "SURGR4-A03",
+      "type": "vignette",
+      "topic": "Đại cương & Sinh lý bệnh (Shunt, V/Q, Tăng CO₂)",
+      "subtopic": "Shunt phải - trái trong phổi",
+      "bloom": "vận dụng",
+      "difficulty": 3,
+      "source": "SURG-R4 §II.1",
+      "text": "Bệnh nhân nam 45 tuổi, chấn thương ngực dập phổi nặng tiến triển ARDS đông đặc lan tỏa hai bên phế trường, PaO₂ chỉ đạt 45 mmHg dù đang thở oxy nồng độ cao qua mặt nạ túi dự trữ. Cơ chế bệnh sinh chính gây giảm oxy máu trơ ở bệnh nhân này là gì?",
+      "options": [
+        "Shunt phải - trái trong phổi với tỷ lệ thông khí tưới máu V/Q = 0",
+        "Giảm thông khí phế nang do ức chế trung tâm điều hòa hô hấp",
+        "Bất tương xứng tỷ lệ thông khí - tưới máu (V/Q không đều)",
+        "Rối loạn khuếch tán qua màng phế nang - mao mạch đơn thuần"
+      ],
+      "correct": 0,
+      "explanation": "Theo barem Mục II.1: Shunt phải - trái trong phổi (V/Q = 0): Máu tĩnh mạch đi qua phế nang không được thông khí (ARDS, xẹp phổi). Khi shunt > 30% cung lượng tim sẽ không đáp ứng với thở oxy đơn thuần.",
+      "option_explanations": [
+        "Đúng — Phế nang đông đặc trong ARDS tạo shunt phải - trái (V/Q = 0), máu tĩnh mạch không được trao đổi khí gây giảm oxy máu trơ với oxy thông thường.",
+        "Sai — Giảm thông khí phế nang do trung tâm hô hấp làm PaCO₂ tăng tỷ lệ thuận và PaO₂ cải thiện khi tăng oxy thở vào.",
+        "Sai — Bất tương xứng V/Q (như COPD, hen) có đặc điểm đáp ứng tốt khi tăng FiO₂, không gây giảm oxy máu trơ hoàn toàn.",
+        "Sai — Rối loạn khuếch tán đơn thuần hiếm gặp, chỉ thấy ở xơ phổi kẽ tiến triển mạn tính chứ không gây giảm oxy máu cấp tính trơ do ARDS."
+      ]
+    },
+    {
+      "id": "SURGR4-A04",
+      "type": "concept",
+      "topic": "Đại cương & Sinh lý bệnh (Shunt, V/Q, Tăng CO₂)",
+      "subtopic": "Ngưỡng shunt phải - trái không đáp ứng oxy",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "SURG-R4 §II.1",
+      "text": "Trong cơ chế suy hô hấp cấp do shunt phải - trái trong phổi (V/Q = 0), tình trạng thiếu oxy máu sẽ không còn đáp ứng với liệu pháp thở oxy đơn thuần khi lưu lượng dòng shunt vượt qua ngưỡng nào?",
+      "options": [
+        "Vượt quá 10% lưu lượng cung lượng tim",
+        "Vượt quá 20% lưu lượng cung lượng tim",
+        "Vượt quá 30% lưu lượng cung lượng tim",
+        "Vượt quá 50% lưu lượng cung lượng tim"
+      ],
+      "correct": 2,
+      "explanation": "Theo barem Mục II.1: Shunt phải - trái trong phổi (V/Q = 0): Đặc điểm sống còn: Không đáp ứng với thở oxy đơn thuần khi lưu lượng shunt > 30% cung lượng tim.",
+      "option_explanations": [
+        "Sai — Mức 10% là shunt sinh lý bình thường hoặc shunt nhẹ, đáp ứng rất tốt với tăng FiO₂.",
+        "Sai — Mức 20% là shunt trung bình vẫn có thể cải thiện một phần PaO₂ khi tăng nồng độ oxy hít vào.",
+        "Đúng — Barem Mục II.1 xác định ngưỡng sống còn: Không đáp ứng với thở oxy đơn thuần khi lưu lượng shunt > 30% cung lượng tim.",
+        "Sai — Mức 50% là shunt cực kỳ nặng đe dọa ngừng tuần hoàn, nhưng ngưỡng mất đáp ứng oxy đơn thuần đã xảy ra từ mốc > 30%."
+      ]
+    },
+    {
+      "id": "SURGR4-A05",
+      "type": "vignette",
+      "topic": "Đại cương & Sinh lý bệnh (Shunt, V/Q, Tăng CO₂)",
+      "subtopic": "Bất tương xứng V/Q",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-R4 §II.1",
+      "text": "Cơ chế sinh lý bệnh nào sau đây là nguyên nhân thường gặp nhất gây giảm oxy máu trên lâm sàng và có đặc điểm đáp ứng tốt khi tăng FiO₂?",
+      "options": [
+        "Bất tương xứng tỷ lệ thông khí và tưới máu",
+        "Shunt phải - trái trong phổi lớn",
+        "Rối loạn khuếch tán qua màng phế nang",
+        "Giảm nồng độ oxy trong khí thở vào"
+      ],
+      "correct": 0,
+      "explanation": "Theo barem Mục II.1: Bất tương xứng thông khí / tưới máu (V/Q không đều) là cơ chế hay gặp nhất (COPD, hen phế quản) với đặc điểm: Đáp ứng tốt khi tăng FiO₂.",
+      "option_explanations": [
+        "Sai — Shunt phải - trái > 30% có đặc tính trơ và không đáp ứng với thở oxy thông thường liều thấp qua kính mũi.",
+        "Đúng — Bất tương xứng V/Q không đều trong COPD đáp ứng rất tốt khi tăng nồng độ FiO₂.",
+        "Sai — Giảm thông khí phế nang do ức chế hô hấp làm tăng PaCO₂ tỷ lệ thuận, nếu thở oxy đơn thuần không giải quyết được cơ chế thông khí giảm.",
+        "Sai — Rối loạn khuếch tán đơn thuần hiếm gặp, chỉ thấy ở xơ phổi kẽ tiến triển mạn tính."
+      ]
+    },
+    {
+      "id": "SURGR4-A06",
+      "type": "vignette",
+      "topic": "Đại cương & Sinh lý bệnh (Shunt, V/Q, Tăng CO₂)",
+      "subtopic": "Giảm thông khí phế nang",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R4 §II.1",
+      "text": "Bệnh nhân nữ 28 tuổi sau mổ cắt ruột thừa dùng quá liều morphin giảm đau tĩnh mạch, biểu hiện ngủ gà, thở chậm 8 lần/phút, khí máu có PaO₂ 54 mmHg và PaCO₂ 58 mmHg tăng tỷ lệ thuận. Cơ chế sinh lý bệnh chính ở bệnh nhân này là gì?",
+      "options": [
+        "Shunt phải - trái trong phổi với tỷ lệ thông khí tưới máu V/Q = 0",
+        "Rối loạn khuếch tán qua màng phế nang - mao mạch đơn thuần",
+        "Bất tương xứng tỷ lệ thông khí - tưới máu (V/Q không đều)",
+        "Giảm thông khí phế nang do ức chế trung tâm điều hòa hô hấp"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Mục II.1: Giảm thông khí phế nang (do thuốc ức chế hô hấp, ngộ độc, tổn thương tủy): PaO₂ giảm kèm theo PaCO₂ tăng cao tỷ lệ thuận.",
+      "option_explanations": [
+        "Sai — Shunt trong phổi lớn có PaCO₂ bình thường hoặc giảm do tăng thông khí bù trừ ở vùng phổi lành.",
+        "Sai — Rối loạn khuếch tán màng phế nang - mao mạch hiếm gặp đơn thuần, chỉ gặp trong xơ phổi kẽ tiến triển.",
+        "Sai — Bất tương xứng V/Q là cơ chế của COPD/hen hoặc tắc mạch phổi, không phải cơ chế ức chế trung tâm hô hấp do morphin.",
+        "Đúng — Quá liều morphin ức chế trung tâm hô hấp gây thở chậm, giảm thông khí phế nang làm PaO₂ giảm và PaCO₂ tăng tỷ lệ thuận."
+      ]
+    },
+    {
+      "id": "SURGR4-A07",
+      "type": "concept",
+      "topic": "Đại cương & Sinh lý bệnh (Shunt, V/Q, Tăng CO₂)",
+      "subtopic": "Nguy cơ thở oxy liều cao ở giảm thông khí phế nang",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-R4 §II.1",
+      "text": "Ở bệnh nhân suy hô hấp cấp do cơ chế giảm thông khí phế nang bởi ức chế trung tâm hô hấp, tai biến nguy hiểm nhất cần đề phòng khi cho bệnh nhân thở oxy nồng độ cao là gì?",
+      "options": [
+        "Gây co thắt mạch vành cấp tính dẫn đến nhồi máu cơ tim",
+        "Ức chế trung tâm hô hấp làm bệnh nhân ngừng thở đột ngột",
+        "Gây vỡ phế nang dẫn đến tràn khí màng phổi áp lực cấp",
+        "Làm tăng shunt phải - trái trong phổi vượt quá 30% cung lượng"
+      ],
+      "correct": 1,
+      "explanation": "Theo barem Mục II.1: Giảm thông khí phế nang đáp ứng với thở oxy, nhưng thở oxy nồng độ cao có thể làm mất phản xạ kích thích do thiếu oxy, từ đó ức chế trung tâm hô hấp gây ngừng thở.",
+      "option_explanations": [
+        "Sai — Oxy liều cao có thể gây co mạch nhẹ nhưng tai biến trực tiếp đe dọa tính mạng tại trung tâm hô hấp là ngừng thở.",
+        "Đúng — Barem Mục II.1 nêu rõ: 'thở oxy nồng độ cao có thể làm ức chế trung tâm hô hấp gây ngừng thở'.",
+        "Sai — Tràn khí màng phổi do áp lực thường gặp trong thở máy áp lực dương với PEEP/áp lực đỉnh quá cao, không do thở oxy nồng độ cao đơn thuần.",
+        "Sai — Tăng shunt phải - trái xảy ra do đông đặc hoặc xẹp phổi, không phải hệ quả trực tiếp từ ức chế phản xạ thở do oxy."
+      ]
+    },
+    {
+      "id": "SURGR4-A08",
+      "type": "concept",
+      "topic": "Đại cương & Sinh lý bệnh (Shunt, V/Q, Tăng CO₂)",
+      "subtopic": "Rối loạn khuếch tán khí",
+      "bloom": "nhớ",
+      "difficulty": 2,
+      "source": "SURG-R4 §II.1",
+      "text": "Theo sinh lý bệnh học hô hấp, cơ chế rối loạn khuếch tán khí qua màng phế nang - mao mạch hiếm khi xuất hiện đơn thuần, mà chỉ gặp chủ yếu trong nhóm bệnh lý nào sau đây?",
+      "options": [
+        "Viêm phổi nặng đông đặc nhu mô hoặc hội chứng suy hô hấp ARDS",
+        "Bệnh phổi tắc nghẽn mạn tính hoặc cơn hen phế quản co thắt nặng",
+        "Liệt cơ hô hấp do hội chứng Guillain-Barré hoặc tổn thương tủy cổ",
+        "Xơ phổi kẽ tiến triển hoặc tổn thương màng mao mạch nặng"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Mục II.1: Rối loạn khuếch tán qua màng phế nang - mao mạch: Hiếm gặp đơn thuần, chỉ gặp trong xơ phổi kẽ tiến triển, tổn thương màng mao mạch nặng.",
+      "option_explanations": [
+        "Sai — Viêm phổi nặng và ARDS có cơ chế chính là shunt phải - trái trong phổi (V/Q = 0).",
+        "Sai — COPD và hen phế quản có cơ chế chính là bất tương xứng thông khí / tưới máu (V/Q không đều).",
+        "Sai — Liệt cơ do Guillain-Barré hoặc tổn thương tủy cổ có cơ chế chính là giảm thông khí phế nang (Tuýp 2).",
+        "Đúng — Barem Mục II.1 ghi rõ rối loạn khuếch tán hiếm gặp đơn thuần, chỉ gặp trong xơ phổi kẽ tiến triển, tổn thương màng mao mạch nặng."
+      ]
+    },
+    {
+      "id": "SURGR4-A09",
+      "type": "concept",
+      "topic": "Đại cương & Sinh lý bệnh (Shunt, V/Q, Tăng CO₂)",
+      "subtopic": "Giảm áp lực oxy khí thở vào",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-R4 §II.1",
+      "text": "Một nhóm thợ mỏ bị mắc kẹt sâu trong hầm lò thông gió kém, xuất hiện mệt mỏi, khó thở và tím tái dù không có tổn thương nhu mô phổi trước đó. Cơ chế gây thiếu oxy máu nguyên phát trong tình huống này là gì?",
+      "options": [
+        "Giảm phân áp oxy khí thở vào do môi trường kín thiếu dưỡng khí",
+        "Shunt giải phẫu trong phổi vượt quá 30% lưu lượng tuần hoàn",
+        "Liệt cơ hoành hai bên do ngộ độc thần kinh ngoại vi cấp tính",
+        "Tắc nghẽn vi mạch phổi do thuyên tắc khí trong lòng mạch máu"
+      ],
+      "correct": 0,
+      "explanation": "Theo barem Mục II.1: Giảm áp lực oxy khí thở vào gặp ở vùng núi cao hoặc môi trường kín thiếu dưỡng khí.",
+      "option_explanations": [
+        "Đúng — Môi trường hầm kín không thông khí làm giảm phân áp O₂ khí hít vào (PiO₂), dẫn đến giảm PaO₂ máu động mạch.",
+        "Sai — Shunt trong phổi xuất phát từ bệnh lý nhu mô hoặc tim bẩm sinh, không phải cơ chế nguyên phát do môi trường hầm lò.",
+        "Sai — Liệt cơ hoành thuộc cơ chế giảm thông khí thần kinh cơ (như Guillain-Barré, tổn thương tủy), không do thiếu oxy môi trường kín đơn thuần.",
+        "Sai — Thuyên tắc khí vi mạch là tai biến phẫu thuật hoặc lặn sâu thay đổi áp suất, không phải cơ chế thiếu dưỡng khí trong hầm kín thông thường."
+      ]
+    },
+    {
+      "id": "SURGR4-A10",
+      "type": "vignette",
+      "topic": "Đại cương & Sinh lý bệnh (Shunt, V/Q, Tăng CO₂)",
+      "subtopic": "Cơ chế tăng CO₂ máu do tăng sản xuất",
+      "bloom": "phân tích",
+      "difficulty": 3,
+      "source": "SURG-R4 §II.2",
+      "text": "Bệnh nhân nhiễm khuẩn huyết nặng sau mổ viêm phúc mạc ruột thừa, đang sốt cao 39,5°C liên tục, co giật toàn thể và được nuôi dưỡng toàn phần qua đường tĩnh mạch với lượng lớn dung dịch carbohydrate. Khí máu động mạch ghi nhận PaCO₂ tăng vọt lên 52 mmHg dù thể tích thông khí phút vẫn bình thường. Cơ chế bệnh sinh gây tăng CO₂ ở bệnh nhân này là gì?",
+      "options": [
+        "Giảm thông khí phút do thuốc giãn cơ và giảm đau trung ương",
+        "Tăng sản xuất CO₂ quá mức từ sốt, co giật và chuyển hóa carbohydrate",
+        "Tăng thể tích khoảng chết do giãn phế nang bệnh lý lan tỏa",
+        "Shunt phải - trái trong phổi vượt quá ngưỡng dung nạp của cơ thể"
+      ],
+      "correct": 1,
+      "explanation": "Theo barem Mục II.2: Cơ chế gây tăng CO₂ máu gồm: (1) Giảm thông khí phút; (2) Tăng khoảng chết; (3) Tăng sản xuất CO₂ quá mức (sốt cao, co giật liên tục, sốc nhiễm khuẩn, truyền quá nhiều carbohydrate).",
+      "option_explanations": [
+        "Sai — Thể tích thông khí phút của bệnh nhân vẫn bình thường theo dữ kiện lâm sàng, không phải do giảm thông khí phút.",
+        "Đúng — Barem Mục II.2 chỉ rõ tăng sản xuất CO₂ quá mức gặp do sốt cao, co giật liên tục, sốc nhiễm khuẩn, truyền quá nhiều carbohydrate.",
+        "Sai — Tăng khoảng chết (dead space) gặp trong tắc mạch phổi hoặc khí phế thũng, không phản ánh nguồn gốc tăng chuyển hóa sinh CO₂.",
+        "Sai — Shunt phải - trái gây giảm oxy máu trơ chứ không phải cơ chế chính làm tăng nồng độ PaCO₂ khi thông khí phế nang còn nguyên vẹn."
+      ]
+    },
+    {
+      "id": "SURGR4-A11",
+      "type": "concept",
+      "topic": "Đại cương & Sinh lý bệnh (Shunt, V/Q, Tăng CO₂)",
+      "subtopic": "3 cơ chế tăng CO₂ máu",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-R4 §II.2",
+      "text": "Trong 3 cơ chế gây tăng CO₂ máu (suy hô hấp tuýp 2), cơ chế nào sau đây xuất phát từ tình trạng sốt cao co giật hoặc truyền quá nhiều carbohydrate?",
+      "options": [
+        "Giảm thông khí phút",
+        "Tăng sản xuất CO₂ quá mức",
+        "Tăng khoảng chết sinh lý",
+        "Rối loạn khuếch tán màng"
+      ],
+      "correct": 1,
+      "explanation": "Theo barem Mục II.2: 3 cơ chế gây tăng CO₂ máu (PaCO₂ ≥ 46 mmHg) gồm: (1) Giảm thông khí phút; (2) Tăng khoảng chết; (3) Tăng sản xuất CO₂ quá mức.",
+      "option_explanations": [
+        "Sai — Rối loạn khuếch tán và shunt phổi gây giảm oxy máu chứ không phải cơ chế chính làm ứ đọng PaCO₂.",
+        "Đúng — 3 cơ chế tăng CO₂ máu trong barem Mục II.2: Giảm thông khí phút, Tăng khoảng chết, Tăng sản xuất CO₂ quá mức.",
+        "Sai — Shunt phải - trái và giảm FiO₂ là các cơ chế gây giảm oxy máu (PaO₂ < 60 mmHg), không phải cơ chế tăng CO₂.",
+        "Sai — Bất tương xứng V/Q và giảm tưới máu gây rối loạn trao đổi khí O₂ là chủ yếu, CO₂ khuếch tán nhanh gấp 20 lần O₂."
+      ]
+    },
+    {
+      "id": "SURGR4-A12",
+      "type": "vignette",
+      "topic": "Phân loại 3 tuýp suy hô hấp cấp",
+      "subtopic": "Suy hô hấp Tuýp 1 (Hypoxemic)",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R4 §II.3",
+      "text": "Bệnh nhân nam 50 tuổi vào viện vì sốt cao, ho đờm mủ và đông đặc thùy dưới phổi phải do viêm phổi nặng. Khí máu động mạch: PaO₂ 50 mmHg, PaCO₂ 34 mmHg, chênh lệch P(A-a)O₂ tăng cao. Theo phân loại 3 tuýp suy hô hấp cấp theo khí máu, bệnh nhân này thuộc tuýp nào?",
+      "options": [
+        "Tuýp 1: Suy hô hấp giảm trao đổi oxy (Hypoxemic)",
+        "Tuýp 2: Suy hô hấp giảm thông khí (Hypercapnic)",
+        "Tuýp 3: Suy hô hấp hỗn hợp có bệnh phổi mạn tính",
+        "Suy hô hấp do giảm áp lực oxy khí thở vào đơn thuần"
+      ],
+      "correct": 0,
+      "explanation": "Theo barem Mục II.3: Tuýp 1 (Giảm trao đổi Oxy - Hypoxemic): PaO₂ giảm, PaCO₂ giảm hoặc bình thường, P(A-a)O₂ tăng. Cơ chế do rối loạn V/Q hoặc Shunt: ARDS, phù phổi cấp, viêm phổi nặng, xẹp phổi.",
+      "option_explanations": [
+        "Đúng — Viêm phổi nặng đông đặc có PaO₂ giảm, PaCO₂ bình thường/giảm, P(A-a)O₂ tăng, thuộc Tuýp 1 (Giảm trao đổi Oxy).",
+        "Sai — Tuýp 2 đặc trưng bởi PaCO₂ tăng cao và P(A-a)O₂ bình thường, thường do ức chế trung tâm hô hấp hoặc liệt cơ.",
+        "Sai — Tuýp 3 có cả PaO₂ giảm, PaCO₂ tăng và P(A-a)O₂ tăng, gặp trong đợt cấp COPD hoặc hen ác tính.",
+        "Sai — Giảm áp lực oxy khí thở vào gặp ở độ cao, có P(A-a)O₂ bình thường chứ không tăng như viêm phổi."
+      ]
+    },
+    {
+      "id": "SURGR4-A13",
+      "type": "vignette",
+      "topic": "Phân loại 3 tuýp suy hô hấp cấp",
+      "subtopic": "Suy hô hấp Tuýp 2 (Hypercapnic)",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R4 §II.3",
+      "text": "Bệnh nhân nam 24 tuổi chấn thương cột sống cổ gãy C5 gây liệt tứ chi và yếu cơ liên sườn. Khí máu động mạch phòng cấp cứu: pH 7,28; PaO₂ 52 mmHg; PaCO₂ 58 mmHg; chênh lệch phân áp oxy phế nang - mao mạch P(A-a)O₂ ở mức bình thường. Phân loại suy hô hấp phù hợp nhất ở bệnh nhân này là gì?",
+      "options": [
+        "Tuýp 1: Suy hô hấp giảm trao đổi oxy do tổn thương nhu mô",
+        "Tuýp 2: Suy hô hấp giảm thông khí phế nang thuần túy",
+        "Tuýp 3: Suy hô hấp hỗn hợp do tắc nghẽn phế quản mạn tính",
+        "Toan chuyển hóa cấp có tăng bù trừ thông khí phế nang"
+      ],
+      "correct": 1,
+      "explanation": "Theo barem Mục II.3: Tuýp 2 (Giảm thông khí - Hypercapnic): PaO₂ giảm, PaCO₂ tăng, P(A-a)O₂ bình thường. Cơ chế do ức chế trung tâm hô hấp, liệt cơ hô hấp (Guillain-Barré, nhược cơ, tổn thương tủy sống cổ), mảng sườn di động.",
+      "option_explanations": [
+        "Sai — Tuýp 1 có P(A-a)O₂ tăng cao và PaCO₂ thường giảm hoặc bình thường do tổn thương nhu mô phổi (shunt/V-Q).",
+        "Đúng — Liệt cơ hô hấp do tổn thương tủy cổ có PaO₂ giảm, PaCO₂ tăng và P(A-a)O₂ bình thường, là đặc trưng của Tuýp 2 (Giảm thông khí).",
+        "Sai — Tuýp 3 có P(A-a)O₂ tăng cao kèm PaCO₂ tăng, gặp trong đợt cấp COPD hoặc hen ác tính.",
+        "Sai — pH 7,28 kèm PaCO₂ 58 mmHg là toan hô hấp do ứ CO₂, không phải toan chuyển hóa bù trừ thông khí."
+      ]
+    },
+    {
+      "id": "SURGR4-A14",
+      "type": "vignette",
+      "topic": "Phân loại 3 tuýp suy hô hấp cấp",
+      "subtopic": "Suy hô hấp Tuýp 3 (Hỗn hợp)",
+      "bloom": "phân tích",
+      "difficulty": 3,
+      "source": "SURG-R4 §II.3",
+      "text": "Bệnh nhân nam 68 tuổi tiền sử COPD nặng 10 năm nay, vào viện vì đợt cấp bội nhiễm phổi. Khí máu động mạch ghi nhận: pH 7,26; PaO₂ 48 mmHg; PaCO₂ 62 mmHg; độ chênh oxy phế nang - mao mạch P(A-a)O₂ tăng cao rõ rệt. Theo phân loại khí máu, bệnh nhân này thuộc phân loại nào?",
+      "options": [
+        "Tuýp 1: Suy hô hấp giảm trao đổi oxy (Hypoxemic)",
+        "Suy hô hấp do giảm áp lực oxy khí thở vào đơn thuần",
+        "Tuýp 2: Suy hô hấp giảm thông khí (Hypercapnic)",
+        "Tuýp 3: Suy hô hấp hỗn hợp có bệnh phổi mạn tính"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Mục II.3: Tuýp 3 (Suy hô hấp hỗn hợp): PaO₂ giảm, PaCO₂ tăng, P(A-a)O₂ tăng. Gặp điển hình trong đợt cấp COPD mất bù, hen ác tính, suy hô hấp sau mổ ở bệnh nhân có bệnh phổi tắc nghẽn mạn tính.",
+      "option_explanations": [
+        "Sai — Tuýp 1 có PaCO₂ bình thường hoặc giảm do tăng thông khí, không có PaCO₂ tăng cao 62 mmHg.",
+        "Sai — Giảm áp lực oxy thở vào do độ cao có P(A-a)O₂ bình thường và PaCO₂ giảm do thở nhanh bù trừ.",
+        "Sai — Tuýp 2 có PaCO₂ tăng nhưng P(A-a)O₂ bình thường do không có tổn thương nhu mô phối hợp.",
+        "Đúng — Đợt cấp COPD có đồng thời PaO₂ giảm, PaCO₂ tăng và P(A-a)O₂ tăng, được xếp chính xác vào Tuýp 3 (Suy hô hấp hỗn hợp)."
+      ]
+    },
+    {
+      "id": "SURGR4-A15",
+      "type": "concept",
+      "topic": "Phân loại 3 tuýp suy hô hấp cấp",
+      "subtopic": "So sánh chênh lệch P(A-a)O₂ giữa các tuýp",
+      "bloom": "phân tích",
+      "difficulty": 2,
+      "source": "SURG-R4 §II.3",
+      "text": "Chỉ số chênh lệch phân áp oxy phế nang - mao mạch P(A-a)O₂ là một tiêu chuẩn quyết định trong phân loại suy hô hấp. Trong trường hợp nào sau đây, chỉ số P(A-a)O₂ vẫn duy trì ở mức bình thường?",
+      "options": [
+        "Suy hô hấp Tuýp 1 do phù phổi cấp huyết động và viêm phổi nặng",
+        "Suy hô hấp Tuýp 2 do quá liều thuốc an thần hoặc tổn thương tủy sống",
+        "Suy hô hấp Tuýp 1 do hội chứng suy hô hấp tiến triển người lớn (ARDS)",
+        "Suy hô hấp Tuýp 3 trong đợt cấp bệnh phổi tắc nghẽn mạn tính (COPD)"
+      ],
+      "correct": 1,
+      "explanation": "Theo barem Mục II.3: Tuýp 2 (Giảm thông khí): PaO₂ giảm, PaCO₂ tăng, nhưng P(A-a)O₂ bình thường. Ngược lại, Tuýp 1 và Tuýp 3 đều có P(A-a)O₂ tăng do có tổn thương nhu mô phổi (bất tương xứng V/Q hoặc shunt).",
+      "option_explanations": [
+        "Sai — Phù phổi cấp và viêm phổi nặng thuộc Tuýp 1, dịch phế nang gây cản trở trao đổi khí làm P(A-a)O₂ tăng cao.",
+        "Đúng — Trong Tuýp 2 do ức chế trung tâm hô hấp hoặc liệt cơ, màng trao đổi khí và nhu mô hoàn toàn nguyên vẹn nên P(A-a)O₂ bình thường.",
+        "Sai — ARDS thuộc Tuýp 1, gây tổn thương màng phế nang mao mạch và shunt lớn làm P(A-a)O₂ tăng rất cao.",
+        "Sai — Đợt cấp COPD thuộc Tuýp 3, có bất tương xứng V/Q nặng nề tại nhu mô làm P(A-a)O₂ tăng cao."
+      ]
+    },
+    {
+      "id": "SURGR4-A16",
+      "type": "concept",
+      "topic": "Lâm sàng & Phân tầng mức độ (TB / Nặng / Nguy kịch)",
+      "subtopic": "Triệu chứng khó thở",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-R4 §III.1",
+      "text": "Dấu hiệu lâm sàng nhạy nhất và xuất hiện sớm nhất cảnh báo suy hô hấp cấp tính là gì?",
+      "options": [
+        "Tím tái môi và đầu chi",
+        "Tụt huyết áp và mạch chậm rời rạc",
+        "Khó thở và biến đổi tần số thở",
+        "Hôn mê và co giật toàn thân"
+      ],
+      "correct": 2,
+      "explanation": "Theo barem Mục III.1: Khó thở: Là triệu chứng nhạy nhất và xuất hiện sớm nhất. Tần số thở nhanh > 25 lần/phút hoặc chậm < 12 lần/phút, thở nghịch thường cơ hoành, co kéo cơ hô hấp phụ.",
+      "option_explanations": [
+        "Sai — Rối loạn ý thức kích thích, vã mồ hôi là dấu hiệu cảnh báo nặng do thiếu oxy não và ứ CO₂.",
+        "Sai — Mạch nhanh và tăng huyết áp phản xạ là biểu hiện tim mạch thứ phát do tăng catecholamine.",
+        "Sai — Tím tái là triệu chứng xuất hiện khi thiếu oxy đã nặng (nồng độ Hb khử > 5 g/dL), không phải dấu hiệu sớm nhất.",
+        "Đúng — Barem Mục III.1 nêu rõ: Khó thở là triệu chứng nhạy nhất và xuất hiện sớm nhất với thở nhanh > 25 lần/phút hoặc chậm < 12 lần/phút."
+      ]
+    },
+    {
+      "id": "SURGR4-A17",
+      "type": "concept",
+      "topic": "Lâm sàng & Phân tầng mức độ (TB / Nặng / Nguy kịch)",
+      "subtopic": "Ngưỡng Hemoglobin khử gây tím tái",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-R4 §III.1",
+      "text": "Biểu hiện tím tái trên lâm sàng xuất hiện khi nồng độ Hemoglobin khử trong máu mao mạch vượt quá ngưỡng nồng độ nào?",
+      "options": [
+        "Vượt quá 2 g/dL",
+        "Vượt quá 3 g/dL",
+        "Vượt quá 5 g/dL",
+        "Vượt quá 8 g/dL"
+      ],
+      "correct": 2,
+      "explanation": "Theo barem Mục III.1: Tím tái: Xuất hiện khi nồng độ Hemoglobin khử trong máu mao mạch > 5 g/dL. Tím môi và đầu chi (sớm), tím toàn thân (muộn).",
+      "option_explanations": [
+        "Đúng — Barem Mục III.1 chỉ rõ: Tím tái xuất hiện khi nồng độ Hemoglobin khử trong máu mao mạch > 5 g/dL.",
+        "Sai — Mức 2 g/dL chưa đủ nồng độ để biểu hiện màu xanh tím trên lâm sàng.",
+        "Sai — Mức 8 g/dL là tím tái rất nặng trong suy hô hấp nguy kịch hoặc tim bẩm sinh tím, nhưng ngưỡng xuất hiện ban đầu là > 5 g/dL.",
+        "Sai — Mức 10 g/dL chiếm phần lớn lượng hemoglobin của cơ thể, không phải ngưỡng phát hiện tím ban đầu."
+      ]
+    },
+    {
+      "id": "SURGR4-A18",
+      "type": "vignette",
+      "topic": "Lâm sàng & Phân tầng mức độ (TB / Nặng / Nguy kịch)",
+      "subtopic": "Ngoại lệ của triệu chứng tím tái",
+      "bloom": "phân tích",
+      "difficulty": 2,
+      "source": "SURG-R4 §III.1",
+      "text": "Bệnh nhân nữ 35 tuổi bị sốc mất máu cấp do vỡ chửa ngoài tử cung, xét nghiệm huyết sắc tố tụt xuống mức 40 g/L. Bệnh nhân lơ mơ, thở ngáp 35 lần/phút, SpO₂ đo được 75% nhưng môi và đầu chi chỉ nhợt nhạt, không hề thấy tím tái. Hiện tượng này xuất hiện do nguyên nhân nào sau đây?",
+      "options": [
+        "Ngộ độc khí CO tạo phức hợp Carboxyhemoglobin có màu đỏ tươi",
+        "Co mạch ngoại vi dữ dội làm mất dòng tưới máu tại mao mạch",
+        "Toan chuyển hóa làm tăng giải phóng oxy đến các mô ngoại vi",
+        "Thiếu máu nặng khiến lượng Hb khử không đủ đạt ngưỡng 5 g/dL"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Mục III.1: Tím tái chỉ xuất hiện khi Hb khử > 5 g/dL. Không thấy tím ở bệnh nhân thiếu máu nặng (do tổng lượng Hb quá thấp, không thể tạo đủ 5 g/dL Hb khử) hoặc ngộ độc CO.",
+      "option_explanations": [
+        "Sai — Ngộ độc CO cũng không gây tím tái mà gây đỏ anh đào, nhưng bệnh nhân này có bệnh cảnh sốc mất máu cấp rõ rệt.",
+        "Sai — Co mạch ngoại vi làm đầu chi lạnh nhợt nhưng nếu đủ nồng độ Hb khử vẫn có thể tím sẫm (tím ngoại vi do ứ trệ).",
+        "Sai — Toan chuyển hóa làm tăng nhả oxy theo hiệu ứng Bohr nhưng không giải thích việc thiếu hụt số lượng phân tử Hb để gây tím.",
+        "Đúng — Tổng lượng Hb chỉ có 4 g/dL nên dù khử toàn bộ cũng không thể vượt ngưỡng 5 g/dL để biểu hiện tím tái trên lâm sàng."
+      ]
+    },
+    {
+      "id": "SURGR4-A19",
+      "type": "vignette",
+      "topic": "Lâm sàng & Phân tầng mức độ (TB / Nặng / Nguy kịch)",
+      "subtopic": "Rối loạn tim mạch trong suy hô hấp",
+      "bloom": "đánh giá",
+      "difficulty": 3,
+      "source": "SURG-R4 §III.1",
+      "text": "Bệnh nhân nam 55 tuổi vào viện vì suy hô hấp cấp do phù phổi cấp. Khám ban đầu thấy bệnh nhân vật vã, vã mồ hôi, mạch nhanh 135 lần/phút và huyết áp tăng vọt lên 185/105 mmHg. Biểu hiện rối loạn tim mạch sớm này xuất hiện do cơ chế nào sau đây?",
+      "options": [
+        "Ứ trệ CO₂ kéo dài gây liệt trương lực cơ trơn thành mạch",
+        "Tụt huyết áp và suy sụp tuần hoàn do toan máu mất bù nặng",
+        "Tăng áp lực nội sọ cấp tính kích hoạt phản xạ nhịp chậm Cushing",
+        "Phản xạ tăng tiết Catecholamine của hệ thần kinh giao cảm"
+      ],
+      "correct": 3,
+      "explanation": "Theo barem Mục III.1: Rối loạn tim mạch: Mạch nhanh > 100 – 140 lần/phút, huyết áp tăng do tăng tiết Catecholamine phản xạ; giai đoạn nguy kịch huyết áp tụt, loạn nhịp tim hoặc ngừng tuần hoàn.",
+      "option_explanations": [
+        "Sai — Ứ CO₂ nặng làm giãn mạch và tụt huyết áp ở giai đoạn muộn, không giải thích tăng huyết áp phản xạ ban đầu.",
+        "Sai — Tụt huyết áp và suy tuần hoàn là biểu hiện của giai đoạn nguy kịch muộn, không phải biểu hiện tăng huyết áp mạch nhanh ban đầu.",
+        "Sai — Phản xạ Cushing gây tăng huyết áp kèm nhịp tim chậm, trong khi bệnh nhân có mạch nhanh 135 lần/phút do kích thích giao cảm.",
+        "Đúng — Barem Mục III.1 ghi rõ: Mạch nhanh 100 - 140 lần/phút, huyết áp tăng do tăng tiết Catecholamine phản xạ."
+      ]
+    },
+    {
+      "id": "SURGR4-A20",
+      "type": "vignette",
+      "topic": "Lâm sàng & Phân tầng mức độ (TB / Nặng / Nguy kịch)",
+      "subtopic": "Rối loạn thần kinh - ý thức và phù não",
+      "bloom": "sáng tạo",
+      "difficulty": 3,
+      "source": "SURG-R4 §III.1",
+      "text": "Bệnh nhân suy hô hấp cấp diễn tiến nặng dần: từ trạng thái ban đầu lo lắng, hốt hoảng, vã mồ hôi chuyển sang lờ đờ, lú lẫn, ngủ gà rồi bùng phát các cơn co giật toàn thân và đi vào hôn mê. Biến chứng thần kinh nặng nề này là hậu quả trực tiếp của hiện tượng nào sau đây?",
+      "options": [
+        "Phù não cấp do tình trạng tăng CO₂ máu nặng kết hợp toan máu",
+        "Xuất huyết dưới nhện diện rộng do vỡ dị dạng phình mạch não",
+        "Thiếu máu cục bộ vỏ não do co thắt mạch não phản xạ lan tỏa",
+        "Tắc nghẽn xoang tĩnh mạch màng cứng do tăng đông máu phản ứng"
+      ],
+      "correct": 0,
+      "explanation": "Theo barem Mục III.1: Rối loạn thần kinh - ý thức (Dấu hiệu nặng): Ban đầu lo lắng hốt hoảng, vã mồ hôi, sau đó lờ đờ, lú lẫn, ngủ gà, hôn mê và co giật do phù não vì tăng CO₂ và toan máu nặng.",
+      "option_explanations": [
+        "Đúng — Barem Mục III.1 nêu rõ: Hôn mê và co giật do phù não vì tăng CO₂ và toan máu nặng.",
+        "Sai — Xuất huyết dưới nhện do vỡ phình mạch là bệnh lý mạch máu ngoại thần kinh đột ngột, không phải diễn tiến phù não của suy hô hấp.",
+        "Sai — CO₂ là chất gây giãn mạch não mạnh làm tăng thể tích não và phù não, không gây co thắt mạch não lan tỏa.",
+        "Sai — Tắc xoang tĩnh mạch màng cứng là bệnh lý huyết khối tĩnh mạch nội sọ riêng biệt, không phải cơ chế phù não phổ biến trong suy hô hấp cấp."
+      ]
+    },
+    {
+      "id": "SURGR4-B01",
+      "type": "concept",
+      "topic": "Lâm sàng & Phân tầng mức độ (TB / Nặng / Nguy kịch)",
+      "subtopic": "Phân tầng mức độ theo tri giác và huyết động",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-R4 §III.2",
+      "text": "Theo bảng phân tầng mức độ suy hô hấp cấp, dấu hiệu lâm sàng nào sau đây xếp bệnh nhân vào mức độ trung bình?\nA. Điểm Glasgow 15 điểm, tần số tim 100 - 120 nhịp/phút\nB. Điểm Glasgow 13 - 15 điểm (kích thích), tần số tim 120 - 140 nhịp/phút\nC. Điểm Glasgow < 13 điểm, tần số tim > 140 nhịp/phút\nD. Điểm Glasgow < 13 điểm, nhịp tim chậm rời rạc\nĐặc điểm tri giác và tần số tim nào trên đây thuộc mức độ trung bình?",
+      "options": [
+        "Điểm Glasgow 13 - 15 điểm (kích thích), tần số tim 120 - 140 nhịp/phút",
+        "Điểm Glasgow 15 điểm, tần số tim 100 - 120 nhịp/phút",
+        "Điểm Glasgow < 13 điểm, tần số tim > 140 nhịp/phút",
+        "Điểm Glasgow < 13 điểm, nhịp tim chậm rời rạc"
+      ],
+      "correct": 1,
+      "explanation": "Theo bảng phân tầng mức độ suy hô hấp cấp (Mục III.2): Mức độ trung bình có ý thức Glasgow 15 điểm, tần số tim 100 - 120 nhịp/phút, huyết áp bình thường.",
+      "option_explanations": [
+        "Sai — Đây là tiêu chuẩn tri giác và tần số tim của suy hô hấp cấp mức độ nặng.",
+        "Đúng — Mức độ trung bình: Glasgow 15 điểm, nhịp tim 100 - 120 nhịp/phút, HA bình thường.",
+        "Sai — Đây là tiêu chuẩn tri giác và tần số tim của suy hô hấp cấp mức độ nguy kịch (nhịp nhanh cực độ).",
+        "Sai — Đây là tiêu chuẩn tri giác và tần số tim của suy hô hấp cấp mức độ nguy kịch giai đoạn kiệt sức/trụy mạch."
+      ]
+    },
+    {
+      "id": "SURGR4-B02",
+      "type": "vignette",
+      "topic": "Lâm sàng & Phân tầng mức độ (TB / Nặng / Nguy kịch)",
+      "subtopic": "Phân tầng mức độ theo khí máu động mạch",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R4 §III.2",
+      "text": "Bệnh nhân nam 58 tuổi viêm phổi thùy biến chứng suy hô hấp cấp. Kết quả khí máu động mạch ghi nhận: pH 7,18; PaO2 49 mmHg; PaCO2 65 mmHg.\nTheo bảng phân tầng lâm sàng và khí máu trong barem, tình trạng của bệnh nhân xếp vào nhóm nào?\nA. Suy hô hấp cấp mức độ trung bình\nB. Suy hô hấp cấp mức độ nặng\nC. Suy hô hấp cấp mức độ nguy kịch\nD. Suy hô hấp mạn tính còn bù\nPhân tầng mức độ chính xác nhất cho bệnh nhân này là gì?",
+      "options": [
+        "Suy hô hấp cấp mức độ trung bình",
+        "Suy hô hấp cấp mức độ nguy kịch",
+        "Suy hô hấp cấp mức độ nặng",
+        "Suy hô hấp mạn tính còn bù"
+      ],
+      "correct": 1,
+      "explanation": "Theo Mục III.2 barem: Mức độ nguy kịch có pH < 7,25 (ở đây là 7,18), PaO2 < 55 mmHg (ở đây là 49 mmHg), PaCO2 > 60 mmHg (ở đây là 65 mmHg). Mức độ nặng có pH 7,25-7,35, PaO2 55-60, PaCO2 55-60. Mức độ trung bình có pH 7,35-7,45, PaO2 > 60, PaCO2 45-55.",
+      "option_explanations": [
+        "Sai — Mức độ trung bình tương ứng pH 7,35 - 7,45; PaO2 > 60 mmHg; PaCO2 45 - 55 mmHg.",
+        "Đúng — Mức độ nguy kịch tương ứng pH < 7,25; PaO2 < 55 mmHg; PaCO2 > 60 mmHg.",
+        "Sai — Mức độ nặng tương ứng pH 7,25 - 7,35; PaO2 55 - 60 mmHg; PaCO2 55 - 60 mmHg.",
+        "Sai — Suy hô hấp mạn tính còn bù thường có pH máu bình thường hoặc toan nhẹ nhờ tăng giữ bicabonate, không toan cấp pH 7,18."
+      ]
+    },
+    {
+      "id": "SURGR4-B03",
+      "type": "vignette",
+      "topic": "Lâm sàng & Phân tầng mức độ (TB / Nặng / Nguy kịch)",
+      "subtopic": "Phân tầng mức độ theo hô hấp và khả năng nói",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R4 §III.2",
+      "text": "Bệnh nhân nữ 52 tuổi nhập viện vì cơn hen phế quản. Khám thấy bệnh nhân lo lắng, thở 28 lần/phút, nói được trọn vẹn câu dài, tím nhẹ ở môi, mạch 112 lần/phút, huyết áp 125/80 mmHg. Khí máu: pH 7,38; PaO2 65 mmHg; PaCO2 48 mmHg.\nTheo bảng phân tầng mức độ suy hô hấp cấp trong barem, bệnh nhân thuộc phân nhóm nào?\nA. Suy hô hấp cấp mức độ trung bình\nB. Suy hô hấp cấp mức độ nặng\nC. Suy hô hấp cấp mức độ nguy kịch\nD. Suy hô hấp mạn tính còn bù\nPhân tầng mức độ phù hợp nhất cho bệnh nhân này là gì?",
+      "options": [
+        "Suy hô hấp cấp mức độ nặng",
+        "Suy hô hấp cấp mức độ trung bình",
+        "Suy hô hấp cấp mức độ nguy kịch",
+        "Suy hô hấp mạn tính còn bù"
+      ],
+      "correct": 1,
+      "explanation": "Theo Mục III.2 barem: Mức độ trung bình có tần số thở 25-30 lần/phút (ở đây 28), nói được câu dài, tím môi (+), mạch 100-120 (ở đây 112), HA bình thường, pH 7,35-7,45 (ở đây 7,38), PaO2 > 60 mmHg (ở đây 65), PaCO2 45-55 mmHg (ở đây 48).",
+      "option_explanations": [
+        "Sai — Mức độ nặng có thở 30 - 40 lần/phút, nói từng câu ngắn ngắt quãng, tím môi và đầu chi (++), huyết áp tăng cao.",
+        "Đúng — Bệnh nhân thỏa mãn đầy đủ các tiêu chuẩn lâm sàng và khí máu của mức độ trung bình.",
+        "Sai — Mức độ nguy kịch có thở > 40 hoặc < 10 lần/phút, không nói được, tím toàn thân (+++), tụt huyết áp.",
+        "Sai — Bệnh nhân lên cơn hen cấp tính với PaCO2 48 mmHg và toan hô hấp nhẹ, không phải suy hô hấp mạn ổn định."
+      ]
+    },
+    {
+      "id": "SURGR4-B04",
+      "type": "vignette",
+      "topic": "Lâm sàng & Phân tầng mức độ (TB / Nặng / Nguy kịch)",
+      "subtopic": "Đánh giá mức độ nguy kịch tụt huyết áp và thở ngáp",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R4 §III.2",
+      "text": "Bệnh nhân nam 62 tuổi vào viện vì khó thở dữ dội sau chấn thương ngực kín. Khám thấy bệnh nhân lờ đờ, Glasgow 11 điểm, thở ngáp 8 lần/phút, không thể nói chuyện, tím tái toàn thân, mạch 148 nhịp/phút, huyết áp đo được 75/40 mmHg. Khí máu động mạch: pH 7,18; PaO2 48 mmHg; PaCO2 68 mmHg.\nBệnh nhân này đang ở mức độ suy hô hấp cấp nào?\nA. Mức độ nhẹ\nB. Mức độ trung bình\nC. Mức độ nặng\nD. Mức độ nguy kịch\nPhân tầng mức độ chính xác của bệnh nhân là gì?",
+      "options": [
+        "Mức độ nguy kịch",
+        "Mức độ trung bình",
+        "Mức độ nặng",
+        "Mức độ nhẹ"
+      ],
+      "correct": 0,
+      "explanation": "Bệnh nhân có Glasgow < 13 điểm (11 điểm), nhịp thở < 10 lần/phút (thở ngáp), không nói được, tím toàn thân, tụt huyết áp (75/40 mmHg), pH < 7,25 (7,18), PaO2 < 55 mmHg (48 mmHg), PaCO2 > 60 mmHg (68 mmHg). Đây là tất cả các tiêu chí của mức độ nguy kịch.",
+      "option_explanations": [
+        "Đúng — Mức độ nguy kịch với tụt huyết áp, thở ngáp < 10 lần/phút, toan máu nặng pH < 7,25 và PaO2 < 55 mmHg.",
+        "Sai — Mức độ trung bình có Glasgow 15, nhịp thở 25-30, huyết áp bình thường, pH 7,35-7,45.",
+        "Sai — Mức độ nặng có Glasgow 13-15, nhịp thở 30-40, huyết áp tăng cao, pH 7,25-7,35, PaO2 55-60 mmHg.",
+        "Sai — Không có phân loại mức độ nhẹ trong bảng phân tầng ARF."
+      ]
+    },
+    {
+      "id": "SURGR4-B05",
+      "type": "vignette",
+      "topic": "Khai thông đường thở & Chỉ định nội khí quản",
+      "subtopic": "Khai thông đường thở ban đầu và tư thế bệnh nhân",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R4 §IV.1",
+      "text": "Bệnh nhân hôn mê sau chấn thương ngực kín, lưỡi tụt ra sau gây ngáy rít đường thở trên. Thủ thuật khai thông đường dẫn khí ban đầu chuẩn mực theo barem là gì?",
+      "options": [
+        "Ngửa ưỡn cổ tối đa và hút đờm",
+        "Mở khí quản cấp cứu qua sụn nhẫn",
+        "Đặt canun Guedel hoặc Mayo miệng họng",
+        "Chọc kim giải áp khoang màng phổi"
+      ],
+      "correct": 2,
+      "explanation": "Theo Mục IV.1 barem: Nằm ngửa ưỡn cổ chỉ áp dụng khi KHÔNG có chấn thương cột sống cổ. Khi nghi ngờ chấn thương cột sống cổ, phải cố định cổ thẳng trục, không được ngửa ưỡn cổ tối đa, sử dụng canun Guedel/Mayo miệng - họng để nâng gốc lưỡi chống tụt lưỡi và hút sạch đờm dãi.",
+      "option_explanations": [
+        "Sai — Ưỡn cổ tối đa chống chỉ định tuyệt đối khi chưa loại trừ chấn thương cột sống cổ vì nguy cơ làm tổn thương hoặc đứt tủy cổ.",
+        "Sai — Nằm Trendelenburg làm dồn dịch dạ dày gây sặc vào phổi và làm tăng áp lực nội sọ ở bệnh nhân chấn thương đầu.",
+        "Đúng — Cố định cổ trục thẳng kết hợp canun Guedel miệng - họng giải quyết tụt lưỡi an toàn tuyệt đối cho tủy cổ.",
+        "Sai — Gập cổ ra trước làm gập góc đường thở trên, làm bít tắc đường thở nặng nề hơn và di lệch cột sống cổ."
+      ]
+    },
+    {
+      "id": "SURGR4-B06",
+      "type": "vignette",
+      "topic": "Khai thông đường thở & Chỉ định nội khí quản",
+      "subtopic": "Xử trí cấp cứu tắc nghẽn đường thở do dị vật",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R4 §IV.1",
+      "text": "Một người đàn ông 50 tuổi đang ăn tiệc thì đột ngột ôm cổ, trợn mắt, tím tái, không nói được và không thở được (dấu hiệu nghẹt thở kinh điển). Nạn nhân còn tỉnh táo và hoảng loạn.\nThủ thuật cấp cứu cơ học ban đầu nào được nêu trong barem chỉ định ngay cho tình huống này?\nA. Đặt canun Guedel miệng - họng\nB. Thủ thuật Heimlich\nC. Thở máy không xâm nhập CPAP\nD. Đặt ống nội khí quản khẩn cấp\nThủ thuật cơ học giải phóng đường thở tức thì cho tình huống nghẹt dị vật là gì?",
+      "options": [
+        "Đặt canun Guedel miệng - họng",
+        "Thở máy không xâm nhập CPAP",
+        "Thủ thuật Heimlich",
+        "Đặt ống nội khí quản khẩn cấp"
+      ],
+      "correct": 2,
+      "explanation": "Theo Mục IV.1 barem: 'Thủ thuật Heimlich nếu nghi ngờ dị vật đường thở'. Đặt canun Guedel chỉ áp dụng cho tụt lưỡi ở người hôn mê; CPAP hoặc đặt NKQ không phải là can thiệp tức thì khi nạn nhân đang nghẹt dị vật cấp tính ngoài cộng đồng / phòng cấp cứu còn tỉnh.",
+      "option_explanations": [
+        "Sai — Canun Guedel chỉ định chống tụt lưỡi ở bệnh nhân hôn mê, không tống được dị vật bít thanh quản.",
+        "Sai — Thở CPAP áp lực dương không thể tống dị vật mà còn có thể đẩy dị vật bít sâu hơn vào phế quản.",
+        "Đúng — Thủ thuật Heimlich tạo áp lực đột ngột đẩy dị vật đường thở trên ra ngoài theo đúng barem Mục IV.1.",
+        "Sai — Đặt NKQ chỉ đặt ra khi Heimlich thất bại và cần gắp dị vật dưới soi thanh quản trực tiếp."
+      ]
+    },
+    {
+      "id": "SURGR4-B07",
+      "type": "vignette",
+      "topic": "Khai thông đường thở & Chỉ định nội khí quản",
+      "subtopic": "5 chỉ định đặt nội khí quản khẩn cấp",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R4 §IV.1",
+      "text": "Bác sĩ trực cấp cứu tiếp nhận 4 bệnh nhân suy hô hấp cấp do các nguyên nhân khác nhau:\n- Bệnh nhân 1: Viêm phế quản co thắt, thở 26 l/p, SpO2 93% với oxy kính mũi 2 l/p\n- Bệnh nhân 2: Đợt cấp COPD tỉnh táo, pH máu 7,36, PaCO2 52 mmHg\n- Bệnh nhân 3: Chấn thương sọ não kín, Glasgow 6 điểm, mất phản xạ nuốt và ho khạc\n- Bệnh nhân 4: Hen phế quản đáp ứng tốt khí dung giãn phế quản, nói câu dài\nBệnh nhân nào có chỉ định đặt ống nội khí quản (Intubation) khẩn cấp theo barem?\nA. Bệnh nhân 1\nB. Bệnh nhân 2\nC. Bệnh nhân 3\nD. Bệnh nhân 4\nBệnh nhân nào có chỉ định đặt nội khí quản khẩn cấp theo tiêu chuẩn chuẩn mực?",
+      "options": [
+        "Bệnh nhân 1",
+        "Bệnh nhân 2",
+        "Bệnh nhân 3",
+        "Bệnh nhân 4"
+      ],
+      "correct": 2,
+      "explanation": "Theo Mục IV.1 barem: 5 chỉ định đặt NKQ khẩn cấp gồm: 1. Tắc nghẽn hô hấp trên không xử trí được bằng canun; 2. Mất phản xạ bảo vệ đường thở (Glasgow < 8 điểm); 3. Mất tự tống đờm; 4. Thiếu oxy nặng trơ mask cao; 5. Toan hô hấp cấp pH < 7,25. Bệnh nhân 3 có Glasgow 6 điểm (< 8) và mất phản xạ bảo vệ đường thở nên bắt buộc đặt NKQ ngay.",
+      "option_explanations": [
+        "Sai — Bệnh nhân 1 đáp ứng tốt với oxy kính mũi liều thấp, không có chỉ định đặt NKQ.",
+        "Sai — Bệnh nhân 2 tỉnh táo, toan máu còn bù pH 7,36, chưa có chỉ định đặt NKQ.",
+        "Đúng — Bệnh nhân 3 có Glasgow 6 điểm (< 8 điểm) và mất khả năng bảo vệ đường thở/tự tống xuất đờm dãi, là chỉ định đặt NKQ khẩn cấp.",
+        "Sai — Bệnh nhân 4 hen phế quản đáp ứng tốt với thuốc giãn phế quản, nói được câu dài không cần can thiệp NKQ."
+      ]
+    },
+    {
+      "id": "SURGR4-B08",
+      "type": "vignette",
+      "topic": "Khai thông đường thở & Chỉ định nội khí quản",
+      "subtopic": "Lựa chọn can thiệp đường thở theo mức độ nặng",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R4 §IV.1",
+      "text": "Tình huống lâm sàng nào sau đây là chỉ định bắt buộc phải đặt ống nội khí quản thở máy cấp cứu theo barem?",
+      "options": [
+        "Thở nhanh 26 lần/phút đáp ứng oxy",
+        "Mất phản xạ bảo vệ đường thở (Glasgow < 8)",
+        "Ứ CO₂ mạn tính còn tỉnh táo",
+        "Tràn khí màng phổi đã dẫn lưu ổn định"
+      ],
+      "correct": 1,
+      "explanation": "Theo Mục IV.1: Bệnh nhân có Glasgow 6 điểm (< 8 điểm), mất phản xạ bảo vệ đường thở, mất khả năng tự tống xuất đờm dãi và toan hô hấp nặng pH 7,18 (< 7,25). Đây là các chỉ định tuyệt đối đặt ống nội khí quản khẩn cấp để kiểm soát thông khí nhân tạo.",
+      "option_explanations": [
+        "Sai — Canun Guedel không bảo vệ được đường thở dưới khỏi sặc đờm dãi ở bệnh nhân Glasgow 6 điểm mất phản xạ hầu họng.",
+        "Sai — Mặt nạ thông thường không giải quyết được giảm thông khí phế nang do ức chế trung tâm hô hấp và toan máu pH 7,18.",
+        "Đúng — Đặt NKQ thở máy là biện pháp bắt buộc để bảo vệ đường thở khỏi trào ngược và thông khí đào thải CO2.",
+        "Sai — Nằm nghiêng theo dõi đơn thuần sẽ dẫn đến ngừng thở và ngừng tuần hoàn do toan máu mất bù cực nặng."
+      ]
+    },
+    {
+      "id": "SURGR4-B09",
+      "type": "concept",
+      "topic": "Liệu pháp Oxy & Điều trị nguyên nhân ngoại khoa",
+      "subtopic": "Mục tiêu đích oxy máu SpO2 và PaO2",
+      "bloom": "nhớ",
+      "difficulty": 1,
+      "source": "SURG-R4 §IV.2",
+      "text": "Theo barem hồi sức cấp cứu suy hô hấp cấp, mục tiêu đích chung của liệu pháp oxy ở bệnh nhân không có bệnh lý ứ CO2 mạn tính là duy trì các chỉ số ở mức nào?\nA. SpO2 từ 85 - 88% và PaO2 từ 45 - 55 mmHg\nB. SpO2 từ 88 - 92% và PaO2 từ 55 - 60 mmHg\nC. SpO2 từ 92 - 95% và PaO2 từ 60 - 80 mmHg\nD. SpO2 từ 96 - 99% và PaO2 từ 100 - 120 mmHg\nMục tiêu SpO2 và PaO2 chuẩn của liệu pháp oxy là bao nhiêu?",
+      "options": [
+        "SpO2 từ 85 - 88% và PaO2 từ 45 - 55 mmHg",
+        "SpO2 từ 88 - 92% và PaO2 từ 55 - 60 mmHg",
+        "SpO2 từ 92 - 95% và PaO2 từ 60 - 80 mmHg",
+        "SpO2 từ 96 - 99% và PaO2 từ 100 - 120 mmHg"
+      ],
+      "correct": 2,
+      "explanation": "Theo Mục IV.2: Mục tiêu đích của liệu pháp oxy là đảm bảo SpO2 từ 92 – 95% (tương ứng PaO2 từ 60 – 80 mmHg). Không cần thiết nâng SpO2 lên 100% để tránh nguy cơ ngộ độc oxy và xẹp phổi hấp thu.",
+      "option_explanations": [
+        "Sai — Mức SpO2 85 - 88% vẫn là tình trạng thiếu oxy mô nghiêm trọng cần can thiệp nâng mức oxy.",
+        "Sai — Đích SpO2 88 - 92% là mục tiêu dành riêng cho bệnh nhân COPD có nguy cơ ứ trệ CO2 mạn tính.",
+        "Đúng — Barem quy định mục tiêu đích chung là SpO2 từ 92 - 95% (PaO2 từ 60 - 80 mmHg).",
+        "Sai — Mức PaO2 > 100 mmHg là mức tăng oxy máu quá mức, làm tăng gốc tự do và nguy cơ độc tính oxy."
+      ]
+    },
+    {
+      "id": "SURGR4-B10",
+      "type": "concept",
+      "topic": "Liệu pháp Oxy & Điều trị nguyên nhân ngoại khoa",
+      "subtopic": "Liệu pháp oxy trong bất tương xứng V/Q thông thường",
+      "bloom": "hiểu",
+      "difficulty": 1,
+      "source": "SURG-R4 §IV.2",
+      "text": "Ở bệnh nhân suy hô hấp cấp do cơ chế bất tương xứng thông khí/tưới máu (V/Q không đều) thông thường như viêm phổi hoặc hen phế quản nhẹ, chiến lược oxy ban đầu được khuyến cáo là gì?\nA. Thở oxy kính mũi liều thấp 1 - 4 lít/phút (FiO2 khoảng 0,24 - 0,4)\nB. Thở mặt nạ có túi dự trữ không thở lại lưu lượng 15 lít/phút (FiO2 60 - 95%)\nC. Đặt ống nội khí quản thở máy PEEP cao 15 cmH2O ngay từ đầu\nD. Thở oxy ngắt quãng phối hợp thở khí trời mỗi 15 phút\nPhương thức oxy ban đầu thích hợp nhất cho cơ chế bất tương xứng V/Q là gì?",
+      "options": [
+        "Thở oxy kính mũi liều thấp 1 - 4 lít/phút (FiO2 khoảng 0,24 - 0,4)",
+        "Thở mặt nạ có túi dự trữ không thở lại lưu lượng 15 lít/phút (FiO2 60 - 95%)",
+        "Đặt ống nội khí quản thở máy PEEP cao 15 cmH2O ngay từ đầu",
+        "Thở oxy ngắt quãng phối hợp thở khí trời mỗi 15 phút"
+      ],
+      "correct": 0,
+      "explanation": "Theo Mục IV.2: Bất tương xứng V/Q (Hen, viêm phổi, suy hô hấp thông thường): Bắt đầu bằng oxy kính mũi 1 – 4 lít/phút (FiO2 ≈ 0,24 - 0,4), vì cơ chế này đáp ứng rất tốt khi tăng nhẹ FiO2.",
+      "option_explanations": [
+        "Đúng — Bắt đầu bằng kính mũi 1 - 4 L/phút cung cấp FiO2 24 - 40% là phương pháp hiệu quả và dễ dung nạp nhất cho bất tương xứng V/Q.",
+        "Sai — Mặt nạ túi dự trữ FiO2 60 - 100% chỉ định cho shunt lớn trong phổi (ARDS, phù phổi cấp nặng) hoặc thiếu oxy máu nặng trơ.",
+        "Sai — Đặt NKQ với PEEP cao xâm lấn quá mức không cần thiết cho suy hô hấp do bất tương xứng V/Q còn bù.",
+        "Sai — Thở ngắt quãng không duy trì được nồng độ oxy ổn định trong phế nang và gây dao động SpO2 bất lợi."
+      ]
+    },
+    {
+      "id": "SURGR4-B11",
+      "type": "vignette",
+      "topic": "Liệu pháp Oxy & Điều trị nguyên nhân ngoại khoa",
+      "subtopic": "Chiến lược oxy liệu pháp theo bệnh nguyên",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R4 §IV.2",
+      "text": "Bệnh nhân đợt cấp COPD có ứ trệ CO₂ mạn tính. Phương thức oxy liệu pháp ban đầu chuẩn mực nhằm tránh làm mất kích thích hô hấp theo barem là gì?",
+      "options": [
+        "Thở mặt nạ có túi dự trữ FiO₂ cao",
+        "Thở oxy kính mũi 6-8 L/phút liên tục",
+        "Thở oxy kính mũi 1-2 L/phút hoặc Venturi ≤ 28-32%",
+        "Thở máy không xâm nhập CPAP áp lực cao"
+      ],
+      "correct": 2,
+      "explanation": "Theo Mục IV.2 barem: Bệnh nhân COPD đợt cấp có ứ CO2 mạn tính: Bắt buộc thở oxy liều thấp có kiểm soát (kính mũi 1 - 2 lít/phút hoặc mặt nạ Venturi FiO2 <= 28 - 32%, đích SpO2 chỉ cần 88 - 92%) để tránh làm mất kích thích hô hấp do thiếu oxy.",
+      "option_explanations": [
+        "Sai — Đây là chiến lược dành cho suy hô hấp do bất tương xứng V/Q thông thường (hen, viêm phổi không ứ CO2 mạn).",
+        "Sai — Đây là chiến lược dành cho shunt trong phổi lớn (ARDS, phù phổi cấp) thiếu oxy trơ.",
+        "Đúng — Đây là chiến lược chuẩn cho COPD ứ CO2 mạn nhằm duy trì SpO2 88-92% an toàn.",
+        "Sai — Bệnh nhân còn tỉnh táo, chưa toan hô hấp nặng mất bù pH < 7,25 nên chưa có chỉ định đặt NKQ ngay."
+      ]
+    },
+    {
+      "id": "SURGR4-B12",
+      "type": "concept",
+      "topic": "Liệu pháp Oxy & Điều trị nguyên nhân ngoại khoa",
+      "subtopic": "Cơ chế ngừng thở khi thở oxy nồng độ cao ở COPD",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "SURG-R4 §IV.2",
+      "text": "Ở bệnh nhân COPD có tăng CO₂ máu mạn tính, lý do sinh lý bệnh nào giải thích việc thở oxy nồng độ cao có thể làm ngừng thở đột ngột?",
+      "options": [
+        "Do tăng nhạy cảm quá mức với toan máu",
+        "Do kích thích thụ thể áp lực xoang cảnh co thắt",
+        "Do liệt cơ hoành và cơ liên sườn đột ngột",
+        "Do trung tâm hô hấp đã trơ với CO₂ và phụ thuộc thiếu O₂"
+      ],
+      "correct": 3,
+      "explanation": "Ở người bình thường, PaCO2 tăng kích thích trung tâm hô hấp duy trì thông khí. Ở bệnh nhân COPD ứ CO2 mạn, trung tâm hô hấp bị trơ với PaCO2 cao; động lực duy trì hô hấp chủ yếu dựa vào kích thích của tình trạng thiếu oxy máu (hypoxic drive) qua các hóa thụ thể ở xoang cảnh và quai động mạch chủ. Thở oxy nồng độ cao làm PaO2 tăng vọt sẽ triệt tiêu kích thích này gây ức chế hô hấp và ngừng thở.",
+      "option_explanations": [
+        "Sai — Trung tâm hô hấp giảm nhạy cảm / trơ với CO2 cao chứ không hề tăng nhạy cảm.",
+        "Sai — Đây là cơ chế điều hòa chức năng, không phải do tổn thương đứt tủy cổ thực thể.",
+        "Sai — Kích thích hô hấp xuất phát từ trung tâm hô hấp ở hành não và thụ thể hóa học, không phải từ cơ hoành.",
+        "Đúng — Trơ với PaCO2 cao và phụ thuộc vào kích thích do thiếu oxy máu qua thụ thể xoang cảnh/quai ĐMC là cơ chế bệnh sinh cốt lõi."
+      ]
+    },
+    {
+      "id": "SURGR4-B13",
+      "type": "vignette",
+      "topic": "Liệu pháp Oxy & Điều trị nguyên nhân ngoại khoa",
+      "subtopic": "Chiến lược thông khí trong Shunt lớn trong phổi (ARDS)",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R4 §IV.2",
+      "text": "Bệnh nhân phù phổi cấp nặng có shunt trong phổi lớn trơ với oxy thông thường. Phương thức hỗ trợ thông khí nào sau đây được ưu tiên chỉ định theo barem?",
+      "options": [
+        "Mặt nạ có túi dự trữ không thở lại hoặc CPAP/BiPAP",
+        "Oxy kính mũi liều thấp 1-2 L/phút",
+        "Mặt nạ Venturi kiểm soát FiO₂ 24%",
+        "Cho thở khí trời tự nhiên phòng ngộ độc O₂"
+      ],
+      "correct": 0,
+      "explanation": "Theo Mục IV.2: Shunt trong phổi lớn (ARDS, phù phổi cấp nặng): Cần thở oxy nồng độ cao qua mặt nạ có túi dự trữ không thở lại, thông khí áp lực dương không xâm nhập (CPAP/BiPAP) hoặc đặt nội khí quản thở máy xâm nhập với thông khí bảo vệ phổi và PEEP cao.",
+      "option_explanations": [
+        "Sai — Đây là liệu pháp dành cho đợt cấp COPD có ứ CO2 mạn tính.",
+        "Sai — Đây là liệu pháp dành cho suy hô hấp do bất tương xứng V/Q thông thường.",
+        "Đúng — Shunt lớn phế nang xẹp bắt buộc phải dùng áp lực dương (CPAP/BiPAP hoặc NKQ với PEEP cao) để huy động lại phế nang kèm oxy nồng độ cao.",
+        "Sai — Đây là biện pháp dành cho mảng sườn di động, không giải quyết được tổn thương màng phế nang mao mạch trong ARDS."
+      ]
+    },
+    {
+      "id": "SURGR4-B14",
+      "type": "vignette",
+      "topic": "Liệu pháp Oxy & Điều trị nguyên nhân ngoại khoa",
+      "subtopic": "Cấp cứu tràn khí màng phổi áp lực",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R4 §IV.3",
+      "text": "Bệnh nhân nam 24 tuổi bị tai nạn giao thông chấn thương ngực kín, vào viện trong tình trạng khó thở dữ dội, tím tái, thở 38 lần/phút, mạch 140 lần/phút, huyết áp tụt 75/45 mmHg. Khám thấy lồng ngực bên phải căng phồng bất động, gõ vang trống toàn bộ, rì rào phế nang mất hoàn toàn, khí quản và tim bị đẩy lệch sang bên trái, tĩnh mạch cổ nổi to.\nBiện pháp xử trí cấp cứu tối khẩn cấp tức thì nào là sống còn theo barem?\nA. Chọc kim giải áp khoang liên sườn 2 đường giữa đòn ngay lập tức\nB. Đặt ống dẫn lưu khoang liên sườn 4 - 5 đường nách giữa hút liên tục ngay từ đầu\nC. Đặt ống dẫn lưu ngực lớn 28 - 32 Fr phối hợp truyền máu khẩn cấp\nD. Tiêm tĩnh mạch Furosemid và truyền tĩnh mạch Nitroglycerin\nCan thiệp tối khẩn cấp ngay lập tức tại giường bệnh là gì?",
+      "options": [
+        "Đặt ống dẫn lưu ngực lớn 28 - 32 Fr phối hợp truyền máu khẩn cấp",
+        "Đặt ống dẫn lưu khoang liên sườn 4 - 5 đường nách giữa hút liên tục ngay từ đầu",
+        "Chọc kim giải áp khoang liên sườn 2 đường giữa đòn ngay lập tức",
+        "Tiêm tĩnh mạch Furosemid và truyền tĩnh mạch Nitroglycerin"
+      ],
+      "correct": 2,
+      "explanation": "Bệnh nhân bị Tràn khí màng phổi áp lực gây sốc tắc nghẽn nguy kịch. Theo Mục IV.3: Chọc kim giải áp khoang liên sườn 2 đường giữa đòn ngay lập tức để giải phóng áp lực dương chèn ép tim phổi, sau đó mới đặt ống dẫn lưu KLS 4-5 nách giữa hút liên tục.",
+      "option_explanations": [
+        "Sai — Đây là biện pháp dành cho tràn máu màng phổi nặng tiến triển.",
+        "Sai — Đặt dẫn lưu màng phổi KLS 4-5 nách giữa là bước tiếp theo sau khi đã chọc kim giải áp cấp cứu; chuẩn bị đặt dẫn lưu mất 5-10 phút sẽ làm bệnh nhân tử vong trước khi xong.",
+        "Đúng — Chọc kim lớn KLS 2 đường giữa đòn mất vài giây thực hiện, giải phóng khí áp lực cao cứu bệnh nhân khỏi ngừng tim do chèn ép tim cấp.",
+        "Sai — Đây là phác đồ dành cho phù phổi cấp huyết động (OAP), chống chỉ định ở bệnh nhân đang tụt huyết áp do tràn khí áp lực."
+      ]
+    },
+    {
+      "id": "SURGR4-B15",
+      "type": "vignette",
+      "topic": "Liệu pháp Oxy & Điều trị nguyên nhân ngoại khoa",
+      "subtopic": "Quy trình xử trí tràn khí màng phổi áp lực",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R4 §IV.3",
+      "text": "Một bệnh nhân bị tràn khí màng phổi áp lực bên phải vừa được bác sĩ cấp cứu chọc kim lớn tại khoang liên sườn 2 đường giữa đòn. Ngay sau khi chọc kim, có luồng khí phụt mạnh ra ngoài, huyết áp bệnh nhân cải thiện từ 70/40 mmHg lên 105/65 mmHg.\nBước can thiệp ngoại khoa triệt để tiếp theo bắt buộc phải thực hiện theo barem là gì?\nA. Rút kim giải áp ra ngay và cho bệnh nhân thở oxy kính mũi 2 L/phút\nB. Đặt ống dẫn lưu khoang liên sườn 4 - 5 đường nách giữa hút liên tục\nC. Mở ngực khẩn cấp qua đường liên sườn 5 để khâu bóng khí rách\nD. Chọc thêm kim thứ hai tại khoang liên sườn 8 - 9 đường nách sau\nCan thiệp ngoại khoa tiếp theo bắt buộc thực hiện là gì?",
+      "options": [
+        "Rút kim giải áp ra ngay và cho bệnh nhân thở oxy kính mũi 2 L/phút",
+        "Mở ngực khẩn cấp qua đường liên sườn 5 để khâu bóng khí rách",
+        "Đặt ống dẫn lưu khoang liên sườn 4 - 5 đường nách giữa hút liên tục",
+        "Chọc thêm kim thứ hai tại khoang liên sườn 8 - 9 đường nách sau"
+      ],
+      "correct": 2,
+      "explanation": "Theo Mục IV.3: Tràn khí màng phổi áp lực: Chọc kim giải áp khoang liên sườn 2 đường giữa đòn ngay lập tức, sau đó đặt ống dẫn lưu màng phổi khoang liên sườn 4 - 5 đường nách giữa hút liên tục.",
+      "option_explanations": [
+        "Sai — Rút kim mà không đặt ống dẫn lưu ngực sẽ làm tái lập tràn khí áp lực và tái phát trụy mạch ngừng tim.",
+        "Sai — Mở ngực chỉ đặt ra khi dẫn lưu khí thất bại phổi không nở sau thời gian theo dõi hoặc có rách phế quản lớn.",
+        "Đúng — Đặt ống dẫn lưu khoang liên sườn 4 - 5 đường nách giữa hút liên tục là quy trình chuẩn triệt để theo barem.",
+        "Sai — KLS 8 - 9 nách sau là vị trí dẫn lưu dịch thấp, dễ chọc thủng cơ hoành và gan lách, không dùng để dẫn lưu khí tiếp nối."
+      ]
+    },
+    {
+      "id": "SURGR4-B16",
+      "type": "vignette",
+      "topic": "Liệu pháp Oxy & Điều trị nguyên nhân ngoại khoa",
+      "subtopic": "Chỉ định mổ cấp cứu trong tràn máu màng phổi",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R4 §IV.3",
+      "text": "Bệnh nhân tràn máu màng phổi được đặt ống dẫn lưu 32 Fr. Tiêu chuẩn theo dõi lượng máu chảy qua dẫn lưu để chỉ định phẫu thuật mở ngực cầm máu khẩn cấp là gì?",
+      "options": [
+        "Máu chảy > 50 ml/giờ trong 5 giờ",
+        "Máu chảy > 200 ml/giờ trong 3 giờ liên tiếp",
+        "Máu chảy > 100 ml/giờ trong 4 giờ",
+        "Máu chảy > 500 ml/giờ trong 1 giờ đầu"
+      ],
+      "correct": 1,
+      "explanation": "Theo Mục IV.3: Tràn máu màng phổi: Mổ nội soi hoặc mở ngực khẩn cấp nếu máu chảy > 200 ml/giờ trong 3 giờ liên tiếp. Ở bệnh nhân này máu chảy 240, 220, 210 ml/h qua 3 giờ liên tiếp chứng tỏ tổn thương mạch máu lớn đang chảy tiến triển, bắt buộc mổ cầm máu khẩn cấp.",
+      "option_explanations": [
+        "Sai — Kẹp ống dẫn lưu làm máu tích tụ chèn ép trung thất và gây tràn máu màng phổi đông nguy hiểm.",
+        "Đúng — Mổ nội soi hoặc mở ngực khẩn cấp là chỉ định tuyệt đối khi dẫn lưu máu > 200 ml/giờ trong 3 giờ liên tiếp.",
+        "Sai — Đổi sang ống nhỏ 16 Fr sẽ gây tắc ống do cục máu đông và không xử lý được mạch máu đang rách.",
+        "Sai — Tiếp tục theo dõi bảo tồn khi đang chảy máu thể hoạt động liên tục sẽ khiến bệnh nhân rơi vào sốc mất máu không hồi phục."
+      ]
+    },
+    {
+      "id": "SURGR4-B17",
+      "type": "vignette",
+      "topic": "Liệu pháp Oxy & Điều trị nguyên nhân ngoại khoa",
+      "subtopic": "Lựa chọn cỡ ống dẫn lưu trong tràn máu màng phổi",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R4 §IV.3",
+      "text": "Bệnh nhân nam 40 tuổi bị gãy 3 xương sườn kèm tràn máu màng phổi lượng trung bình sau va chạm giao thông. Bác sĩ chuẩn bị dụng cụ để đặt ống dẫn lưu màng phổi kín hút liên tục.\nKích thước ống dẫn lưu màng phổi nào sau đây là chuẩn mực theo barem để dẫn lưu máu tránh tắc đông?\nA. Ống dẫn lưu kích thước nhỏ 12 - 16 Fr\nB. Ống dẫn lưu kích thước trung bình 18 - 24 Fr\nC. Ống dẫn lưu kích thước lớn 28 - 32 Fr\nD. Ống dẫn lưu cực lớn kích thước 36 - 40 Fr\nCỡ ống dẫn lưu chuẩn mực được quy định trong tràn máu màng phổi là bao nhiêu?",
+      "options": [
+        "Ống dẫn lưu kích thước lớn 28 - 32 Fr",
+        "Ống dẫn lưu kích thước trung bình 18 - 24 Fr",
+        "Ống dẫn lưu kích thước nhỏ 12 - 16 Fr",
+        "Ống dẫn lưu cực lớn kích thước 36 - 40 Fr"
+      ],
+      "correct": 0,
+      "explanation": "Theo Mục IV.3: Tràn máu màng phổi: Đặt ống dẫn lưu màng phổi kích thước lớn (28 - 32 Fr) để đảm bảo dẫn lưu sạch máu và không bị tắc bởi các cục máu đông hình thành trong khoang màng phổi.",
+      "option_explanations": [
+        "Đúng — Kích thước lớn 28 - 32 Fr là chuẩn ngoại khoa được quy định nguyên văn trong barem cho tràn máu màng phổi.",
+        "Sai — Cỡ ống 18 - 24 Fr thường dùng cho dịch màng phổi, không phải kích thước chuẩn quy định cho tràn máu màng phổi.",
+        "Sai — Cỡ ống 12 - 16 Fr quá nhỏ, chỉ dùng cho tràn khí màng phổi hoặc tràn dịch thanh dịch, sẽ bị tắc ngay bởi máu đông.",
+        "Sai — Cỡ ống 36 - 40 Fr quá lớn gây chấn thương dập bó mạch thần kinh liên sườn nặng nề và đau đớn không cần thiết."
+      ]
+    },
+    {
+      "id": "SURGR4-B18",
+      "type": "vignette",
+      "topic": "Liệu pháp Oxy & Điều trị nguyên nhân ngoại khoa",
+      "subtopic": "Chiến lược điều trị mảng sườn di động",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R4 §IV.3",
+      "text": "Bệnh nhân nam 42 tuổi bị gãy liên tiếp từ xương sườn 4 đến 7 trên hai đường ở thành ngực trước bên trái, tạo mảng sườn di động với hiện tượng hô hấp đảo chiều rõ rệt, đau chói dữ dội khi thở, SpO2 86%, PaO2 54 mmHg.\nChiến lược điều trị chuẩn mực toàn diện nào sau đây được quy định trong barem?\nA. Băng thun ép chặt toàn bộ lồng ngực và cho nằm nghiêng sang bên lành\nB. Giảm đau vùng ngực (gây tê NMC/liên sườn), cố định thành ngực hoặc thở máy cố định trong\nC. Đặt ống dẫn lưu ngực hai bên cỡ 16 Fr kết hợp mở khí quản chủ động\nD. Phẫu thuật kết xương sườn khẩn cấp tại phòng mổ mà không cần giảm đau vùng\nChiến lược điều trị toàn diện chuẩn xác cho mảng sườn di động là gì?",
+      "options": [
+        "Băng thun ép chặt toàn bộ lồng ngực và cho nằm nghiêng sang bên lành",
+        "Phẫu thuật kết xương sườn khẩn cấp tại phòng mổ mà không cần giảm đau vùng",
+        "Đặt ống dẫn lưu ngực hai bên cỡ 16 Fr kết hợp mở khí quản chủ động",
+        "Giảm đau vùng ngực (gây tê NMC/liên sườn), cố định thành ngực hoặc thở máy cố định trong"
+      ],
+      "correct": 3,
+      "explanation": "Theo Mục IV.3: Mảng sườn di động: Giảm đau vùng ngực (gây tê ngoài màng cứng / tê thần kinh liên sườn), cố định thành ngực hoặc thở máy áp lực dương nội khí quản (cố định trong) nhằm triệt tiêu hô hấp đảo chiều và giảm công thở.",
+      "option_explanations": [
+        "Sai — Băng thun ép chặt lồng ngực làm hạn chế nở phổi bên lành, giảm thông khí phế nang trầm trọng và gây xẹp phổi ứ đọng đờm dãi.",
+        "Sai — Không bao giờ phẫu thuật kết xương khi chưa giảm đau và ổn định thông khí huyết động ban đầu.",
+        "Sai — Bệnh nhân chưa có tràn dịch/khí màng phổi thì không có chỉ định đặt dẫn lưu ngực hai bên hay mở khí quản ngay.",
+        "Đúng — Giảm đau vùng ngực (gây tê ngoài màng cứng/thần kinh liên sườn) kết hợp cố định thành ngực hoặc thở máy cố định trong là chuẩn mực barem."
+      ]
+    },
+    {
+      "id": "SURGR4-B19",
+      "type": "vignette",
+      "topic": "Liệu pháp Oxy & Điều trị nguyên nhân ngoại khoa",
+      "subtopic": "Phác đồ điều trị phù phổi cấp huyết động",
+      "bloom": "vận dụng",
+      "difficulty": 2,
+      "source": "SURG-R4 §IV.3",
+      "text": "Bệnh nhân nữ 70 tuổi tiền sử bệnh tim thiếu máu cục bộ và tăng huyết áp, đột ngột lên cơn khó thở dữ dội, ngồi thở dốc, ho khạc bọt hồng, mạch 125 lần/phút, HA 185/105 mmHg, phổi rải rác đầy ran ẩm to nhỏ hạt hai bên dâng nhanh (phù phổi cấp huyết động OAP).\nNhóm thuốc và can thiệp hồi sức ban đầu chuẩn xác nào sau đây được nêu trong barem?\nA. Thở oxy, Furosemid tiêm TM, Nitroglycerin truyền TM, Morphin, giảm hậu gánh\nB. Thở oxy kính mũi liều thấp, truyền nhanh dịch tinh thể Ringer Lactat, tiêm Dopamin\nC. Tiêm bắp Adrenalin, tiêm tĩnh mạch Hydrocortison và khí dung Salbutamol\nD. Kháng sinh phổ rộng liều cao, Heparin tiêm dưới da và thuốc co mạch Noradrenalin\nPhác đồ can thiệp nội khoa chuẩn mực cho phù phổi cấp huyết động trong barem là gì?",
+      "options": [
+        "Thở oxy, Furosemid tiêm TM, Nitroglycerin truyền TM, Morphin, giảm hậu gánh",
+        "Thở oxy kính mũi liều thấp, truyền nhanh dịch tinh thể Ringer Lactat, tiêm Dopamin",
+        "Tiêm bắp Adrenalin, tiêm tĩnh mạch Hydrocortison và khí dung Salbutamol",
+        "Kháng sinh phổ rộng liều cao, Heparin tiêm dưới da và thuốc co mạch Noradrenalin"
+      ],
+      "correct": 0,
+      "explanation": "Theo Mục IV.3: Phù phổi cấp huyết động (OAP): Thở oxy, Furosemide tiêm TM, Nitroglycerin truyền tĩnh mạch, Morphine, giảm hậu gánh tim nhằm làm giảm tiền gánh và hậu gánh, giảm áp lực mao mạch phổi bít và đưa nước trở lại mao mạch.",
+      "option_explanations": [
+        "Đúng — Phác đồ chuẩn quy định nguyên văn trong barem gồm: Thở oxy, Furosemide tiêm TM, Nitroglycerin truyền TM, Morphine, giảm hậu gánh tim.",
+        "Sai — Truyền nhanh dịch tinh thể làm tăng thể tích tuần hoàn và áp lực nhĩ trái, làm phù phổi cấp huyết động nặng hơn.",
+        "Sai — Adrenalin và Corticoid là phác đồ của sốc phản vệ, không phải điều trị OAP huyết động tim mạch.",
+        "Sai — Heparin và kháng sinh điều trị thuyên tắc phổi hoặc viêm phổi; thuốc co mạch làm tăng hậu gánh tim gây phù phổi nặng thêm."
+      ]
+    },
+    {
+      "id": "SURGR4-B20",
+      "type": "vignette",
+      "topic": "Liệu pháp Oxy & Điều trị nguyên nhân ngoại khoa",
+      "subtopic": "Lựa chọn can thiệp cấp cứu theo nguyên nhân ngoại khoa",
+      "bloom": "đánh giá",
+      "difficulty": 3,
+      "source": "SURG-R4 §IV.3",
+      "text": "Một bệnh nhân nam 65 tuổi sau phẫu thuật thay khớp háng ngày thứ 3, đột ngột khó thở dữ dội, SpO2 78%, HA 195/110 mmHg, ho khạc bọt màu hồng, nghe phổi đầy ran ẩm hai phế trường dâng từ đáy lên đỉnh phổi. Bác sĩ xác định bệnh nhân bị phù phổi cấp huyết động (OAP).\nBiện pháp can thiệp nào sau đây là chỉ định đúng đắn nhất theo barem ngoại khoa?\nA. Chọc kim giải áp khoang liên sườn 2 đường giữa đòn ngay lập tức\nB. Đặt ống dẫn lưu khoang màng phổi kích thước lớn 28 - 32 Fr\nC. Thở oxy, tiêm Furosemid, truyền Nitroglycerin và tiêm Morphine\nD. Gây tê ngoài màng cứng ngực và cố định thành ngực\nCan thiệp hồi sức cấp cứu đúng đắn nhất cho bệnh nhân OAP huyết động là gì?",
+      "options": [
+        "Chọc kim giải áp khoang liên sườn 2 đường giữa đòn ngay lập tức",
+        "Đặt ống dẫn lưu khoang màng phổi kích thước lớn 28 - 32 Fr",
+        "Gây tê ngoài màng cứng ngực và cố định thành ngực",
+        "Thở oxy, tiêm Furosemid, truyền Nitroglycerin và tiêm Morphine"
+      ],
+      "correct": 3,
+      "explanation": "Theo Mục IV.3: Bệnh cảnh khạc đờm bọt hồng, huyết áp tăng cao (195/110 mmHg), ran ẩm dâng nhanh là phù phổi cấp huyết động (OAP). Xử trí đúng gồm: Thở oxy, Furosemide tiêm TM, Nitroglycerin truyền tĩnh mạch, Morphine, giảm hậu gánh tim.",
+      "option_explanations": [
+        "Sai — Đây là xử trí cấp cứu tràn khí màng phổi áp lực.",
+        "Sai — Đây là xử trí cấp cứu tràn máu màng phổi.",
+        "Sai — Đây là xử trí mảng sườn di động.",
+        "Đúng — Đây là can thiệp chuẩn mực cho phù phổi cấp huyết động OAP theo đúng barem Mục IV.3."
+      ]
+    }
+  ]
+}
