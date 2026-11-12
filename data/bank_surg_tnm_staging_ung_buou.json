@@ -1,0 +1,876 @@
+{
+  "format": "medmcq-bank",
+  "version": 1,
+  "id": "bank_surg_tnm_staging_ung_buou",
+  "lesson": "SURG-TNM",
+  "group": "Ngoại khoa",
+  "title": "SURG-TNM: Phân loại Giai đoạn TNM Ngoại khoa Ung bướu (AJCC / UICC)",
+  "description": "36 câu hỏi trắc nghiệm chuyên sâu ca lâm sàng & khái niệm về hệ thống phân loại giai đoạn TNM trong 7 chuyên đề Ung bướu Ngoại khoa trọng tâm (Thực quản, Dạ dày, Gan HCC & Nhi khoa, Đại tràng, Trực tràng, Thận RCC, Tuyến tiền liệt)",
+  "updated": "2026-11-13T01:30:00Z",
+  "questions": [
+    {
+      "id": "TNM-01",
+      "type": "concept",
+      "topic": "Ung thư Thực quản",
+      "subtopic": "Mốc giải phẫu T3",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "Barem Ung thư thực quản (photo_001-009)",
+      "text": "Điểm khác biệt giải phẫu quan trọng nhất của thực quản so với dạ dày và ruột non ảnh hưởng trực tiếp đến định nghĩa khối u giai đoạn T3 là gì?",
+      "options": [
+        "Thực quản phần lớn không có thanh mạc phúc mạc, T3 là xâm lấn lớp áo ngoài (adventitia)",
+        "Thực quản không có lớp cơ niêm nên u dễ lan nhanh",
+        "Thực quản có hai lớp cơ vân và cơ trơn đan xen phức tạp",
+        "Thực quản chỉ có biểu mô trụ đơn chứ không có biểu mô vảy"
+      ],
+      "correct": 0,
+      "explanation": "Khác với dạ dày và ruột non có lớp thanh mạc (phúc mạc tạng) che phủ ngoài cùng, thực quản (ngoại trừ đoạn rất ngắn dưới cơ hoành) không có lớp thanh mạc phúc mạc mà chỉ được bao bọc bởi lớp mô liên kết lỏng lẻo gọi là lớp áo ngoài (adventitia). Do đó, giai đoạn T3 trong ung thư thực quản được định nghĩa là u xâm lấn qua lớp cơ tới lớp màng bao quanh này (adventitia).",
+      "option_explanations": [
+        "Đúng: Phần lớn thực quản không có thanh mạc, T3 được định nghĩa là u xâm lấn lớp áo ngoài (adventitia).",
+        "Sai: Thực quản vẫn có đầy đủ lớp cơ niêm ngăn cách niêm mạc với dưới niêm mạc.",
+        "Sai: Sự phân bố cơ vân (1/3 trên) và cơ trơn (1/3 dưới) không quyết định định nghĩa T3.",
+        "Sai: Niêm mạc thực quản chủ yếu là biểu mô lát tầng không sừng hóa (biểu mô vảy), chỉ đoạn chuyển tiếp tâm vị hoặc chuyển sản Barrett mới có biểu mô trụ."
+      ]
+    },
+    {
+      "id": "TNM-02",
+      "type": "vignette",
+      "topic": "Ung thư Thực quản",
+      "subtopic": "Phân chia giai đoạn & chỉ định",
+      "bloom": "áp dụng",
+      "difficulty": 2,
+      "source": "Barem Ung thư thực quản (photo_001-009)",
+      "text": "Bệnh nhân nam 58 tuổi, nuốt nghẹn nhẹ với thức ăn đặc. Nội soi thực quản phát hiện khối u nhỏ ở đoạn 1/3 dưới. Siêu âm nội soi (EUS) cho thấy u xâm lấn tới lớp dưới niêm mạc nhưng chưa vào lớp cơ. CT ngực - bụng không thấy hạch to bất thường và không có tổn thương tạng xa. Giai đoạn TNM và chiến lược phẫu thuật thích hợp nhất là gì?",
+      "options": [
+        "Giai đoạn 0 (Tis N0 M0) — Chỉ định cắt hớt niêm mạc qua nội soi (EMR)",
+        "Giai đoạn I (T1b N0 M0) — Phẫu thuật cắt đoạn thực quản triệt căn kèm cực trên dạ dày",
+        "Giai đoạn IIA (T2 N0 M0) — Hóa xạ trị đồng thời tiền phẫu rồi mổ",
+        "Giai đoạn III (T3 N1 M0) — Đặt Stent kim loại nở tự động giải phóng tắc nghẽn"
+      ],
+      "correct": 1,
+      "explanation": "Khối u xâm lấn lớp dưới niêm mạc là T1b, chưa có di căn hạch (N0) và không di căn xa (M0) $\\rightarrow$ Giai đoạn I (T1b N0 M0). Ở giai đoạn I, bệnh nhân có chỉ định phẫu thuật cắt thực quản triệt căn và nạo vét hạch vùng (với u 1/3 dưới thực quản: cắt thực quản dưới kèm cực trên dạ dày, lập lại lưu thông trong ngực). Giai đoạn 0 (Tis) mới cắt hớt EMR/ESD.",
+      "option_explanations": [
+        "Sai: Giai đoạn 0 chỉ áp dụng cho Tis (ung thư tại chỗ trong lớp niêm mạc). Khối u đã vào dưới niêm mạc (T1b) có nguy cơ di căn hạch vi thể cao nên không thể chỉ hớt EMR đơn thuần.",
+        "Đúng: T1b N0 M0 là Giai đoạn I, u ở 1/3 dưới chỉ định cắt thực quản dưới + cực trên dạ dày.",
+        "Sai: Khối u chưa xâm lấn lớp cơ nên không phải T2/GĐ IIA.",
+        "Sai: Đặt stent là điều trị giảm nhẹ cho giai đoạn muộn (GĐ IV) hoặc tắc nghẽn không còn khả năng mổ triệt căn."
+      ]
+    },
+    {
+      "id": "TNM-03",
+      "type": "concept",
+      "topic": "Ung thư Thực quản",
+      "subtopic": "Phân loại T4a vs T4b",
+      "bloom": "phân tích",
+      "difficulty": 2,
+      "source": "Barem Ung thư thực quản (photo_001-009)",
+      "text": "Trong phân loại TNM của ung thư thực quản (AJCC), điểm khác biệt cốt lõi về khả năng phẫu thuật giữa giai đoạn T4a và T4b là gì?",
+      "options": [
+        "T4a u có kèm di căn hạch rốn phổi; T4b u có kèm di căn hạch trên đòn",
+        "T4a u xâm lấn vào khí phế quản; T4b u xâm lấn vào màng phổi trung thất",
+        "T4a u xâm lấn màng phổi/màng tim/cơ hoành (còn khả năng cắt bỏ); T4b xâm lấn ĐMC/khí quản/thân đốt sống (không thể cắt bỏ)",
+        "T4a u dài dưới 5 cm; T4b u dài trên 5 cm"
+      ],
+      "correct": 2,
+      "explanation": "Phân loại AJCC chia T4 thành: T4a (u xâm lấn các cấu trúc có thể cắt bỏ được như màng phổi, màng ngoài tim, cơ hoành, phúc mạc); T4b (u xâm lấn các cấu trúc quan trọng không thể cắt bỏ được như động mạch chủ, cây khí phế quản chính, thân đốt sống).",
+      "option_explanations": [
+        "Sai: Tình trạng hạch thuộc nhóm N chứ không quyết định phân loại T4.",
+        "Sai: Khí phế quản thuộc nhóm T4b (không thể cắt bỏ).",
+        "Đúng: T4a xâm lấn màng phổi, màng ngoài tim, cơ hoành (cắt được); T4b xâm lấn ĐMC, khí phế quản, cột sống (không cắt được).",
+        "Sai: Phân loại T không dựa trên chiều dài khối u mà dựa trên chiều sâu xâm lấn các lớp và cấu trúc lân cận."
+      ]
+    },
+    {
+      "id": "TNM-04",
+      "type": "vignette",
+      "topic": "Ung thư Thực quản",
+      "subtopic": "Giai đoạn lâm sàng & đa mô thức",
+      "bloom": "áp dụng",
+      "difficulty": 3,
+      "source": "Barem Ung thư thực quản (photo_001-009)",
+      "text": "Bệnh nhân nam 62 tuổi được chẩn đoán ung thư biểu mô vảy 1/3 giữa thực quản. Kết quả CT scanner và EUS xác định: u xâm lấn lớp cơ (T2), có 2 hạch trung thất cạnh thực quản kích thước 15 mm nghi ngờ di căn (N1), không có di căn xa (M0). Phân loại giai đoạn và hướng điều trị chuẩn theo Barem là:",
+      "options": [
+        "Giai đoạn IIA — Phẫu thuật cắt thực quản ngay thì đầu",
+        "Giai đoạn IV — Hóa trị toàn thân đơn thuần",
+        "Giai đoạn III — Chỉ định chăm sóc giảm nhẹ và mở thông dạ dày",
+        "Giai đoạn IIB — Hóa xạ trị đồng thời tiền phẫu sau đó phẫu thuật triệt căn"
+      ],
+      "correct": 3,
+      "explanation": "Theo Barem AJCC ung thư thực quản: T1-T2 N1 M0 được xếp vào Giai đoạn IIB (trong khi T2/T3 N0 M0 là Giai đoạn IIA). Ở giai đoạn tiến triển tại chỗ (GĐ IIB, III), phác đồ chuẩn là điều trị đa mô thức: Hóa - xạ trị tiền phẫu nhằm thu nhỏ khối u (downstaging) rồi phẫu thuật cắt thực quản triệt căn đảm bảo diện cắt R0 > 5cm.",
+      "option_explanations": [
+        "Sai: Giai đoạn IIA là T2/T3 N0 M0 (chưa có hạch). Khi có N1 thì thành Giai đoạn IIB.",
+        "Sai: Giai đoạn IV mới là khi có di căn xa (M1).",
+        "Sai: Giai đoạn IIB bệnh nhân hoàn toàn còn cơ hội điều trị triệt căn, không chuyển sang chăm sóc giảm nhẹ.",
+        "Đúng: T2 N1 M0 là Giai đoạn IIB; chỉ định hóa xạ tiền phẫu rồi mổ triệt căn R0."
+      ]
+    },
+    {
+      "id": "TNM-05",
+      "type": "concept",
+      "topic": "Ung thư Thực quản",
+      "subtopic": "Phân loại di căn xa M1a vs M1b",
+      "bloom": "ghi nhớ",
+      "difficulty": 1,
+      "source": "Barem Ung thư thực quản (photo_001-009)",
+      "text": "Trong phân loại ung thư thực quản theo Barem, giai đoạn IV được chia thành IVA và IVB dựa vào tiêu chuẩn nào?",
+      "options": [
+        "Giai đoạn IVA là di căn hạch xa (M1a); Giai đoạn IVB là di căn các tạng xa như gan, phổi, xương (M1b)",
+        "Giai đoạn IVA có di căn 1 cơ quan; Giai đoạn IVB có di căn từ 2 cơ quan trở lên",
+        "Giai đoạn IVA u xâm lấn khí quản; Giai đoạn IVB u xâm lấn động mạch chủ",
+        "Giai đoạn IVA có tràn dịch màng phổi; Giai đoạn IVB có tràn dịch màng ngoài tim"
+      ],
+      "correct": 0,
+      "explanation": "Barem ghi rõ: Giai đoạn IVA: T0-4 N0/1 M1a (di căn các nhóm hạch xa ngoài khu vực); Giai đoạn IVB: T0-4 N0/1 M1b (di căn đến các tạng xa như gan, phổi, xương...).",
+      "option_explanations": [
+        "Đúng: GĐ IVA là M1a (di căn hạch xa), GĐ IVB là M1b (di căn tạng xa như gan, phổi, xương).",
+        "Sai: Đây là cách phân loại M1a/M1b của ung thư đại tràng, không phải thực quản trong barem.",
+        "Sai: Xâm lấn khí quản/ĐMC thuộc nhóm T4b tại chỗ.",
+        "Sai: Tràn dịch màng phổi/tim không phải tiêu chuẩn phân chia IVA/IVB trong barem."
+      ]
+    },
+    {
+      "id": "TNM-06",
+      "type": "concept",
+      "topic": "Ung thư Dạ dày",
+      "subtopic": "Phân loại hạch N theo giải phẫu",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "Barem Ung thư dạ dày (photo_010-021)",
+      "text": "Theo Barem Ngoại khoa Y6, tiêu chuẩn phân loại hạch vùng N1 và N2 trong ung thư dạ dày dựa vào mốc ranh giới giải phẫu nào?",
+      "options": [
+        "N1: Di căn 1-2 hạch; N2: Di căn 3-6 hạch bất kể vị trí",
+        "N1: Hạch cạnh dạ dày cách u $\\le$ 3 cm dọc bờ cong; N2: Hạch vùng vượt quá u > 3 cm dọc các động mạch lớn",
+        "N1: Hạch chặng bờ cong nhỏ; N2: Hạch chặng bờ cong lớn",
+        "N1: Hạch dưới hoành; N2: Hạch sau phúc mạc"
+      ],
+      "correct": 1,
+      "explanation": "Trong giáo trình và Barem Ngoại khoa Y6 (dựa trên giải phẫu mạch máu và chặng hạch D1, D2): N1 là di căn các hạch cạnh dạ dày cách bờ khối u không quá 3 cm dọc theo bờ cong nhỏ và bờ cong lớn; N2 là di căn hạch vùng đã vượt quá u > 3 cm, gồm các hạch dọc theo ĐM vành vị, ĐM thân tạng, ĐM lách, ĐM gan chung.",
+      "option_explanations": [
+        "Sai: Phân loại theo số lượng hạch (1-2 vs 3-6) là AJCC hiện đại thế hệ sau, còn Barem giáo trình giảng dạy Ngoại khoa Y6 tại trường dùng mốc khoảng cách giải phẫu 3 cm và chặng mạch máu.",
+        "Đúng: N1 cách u <= 3 cm dọc bờ cong; N2 vượt quá u > 3 cm dọc các động mạch chính.",
+        "Sai: Hạch bờ cong nhỏ hay lớn nếu <= 3cm đều thuộc N1.",
+        "Sai: Hạch sau phúc mạc thuộc N3/M1."
+      ]
+    },
+    {
+      "id": "TNM-07",
+      "type": "vignette",
+      "topic": "Ung thư Dạ dày",
+      "subtopic": "Ghép giai đoạn TNM",
+      "bloom": "áp dụng",
+      "difficulty": 2,
+      "source": "Barem Ung thư dạ dày (photo_010-021)",
+      "text": "Bệnh nhân nam 54 tuổi mổ cắt dạ dày do ung thư hang vị. Giải phẫu bệnh sau mổ: u thâm nhiễm lan tới lớp thanh mạc (T3), xét nghiệm 18 hạch nạo vét thấy 2 hạch bờ cong nhỏ cách u 1.5 cm có tế bào ung thư (N1), không có di căn xa (M0). Theo bảng kết hợp giai đoạn TNM của Barem, bệnh nhân ở giai đoạn nào?",
+      "options": [
+        "Giai đoạn Ib",
+        "Giai đoạn II",
+        "Giai đoạn IIIa",
+        "Giai đoạn IIIb"
+      ],
+      "correct": 2,
+      "explanation": "Theo Barem Ung thư dạ dày: Giai đoạn IIIa gồm các tổ hợp: T2 N2 M0 HOẶC T3 N1 M0 HOẶC T4 N0 M0. Ở bệnh nhân này, khối u là T3 N1 M0, do đó xếp chính xác vào Giai đoạn IIIa.",
+      "option_explanations": [
+        "Sai: Giai đoạn Ib là T1 N1 M0 hoặc T2 N0 M0.",
+        "Sai: Giai đoạn II là T1 N2 M0 hoặc T2 N1 M0 hoặc T3 N0 M0.",
+        "Đúng: T3 N1 M0 xếp vào Giai đoạn IIIa.",
+        "Sai: Giai đoạn IIIb là T3 N2 M0 hoặc T4 N1 M0."
+      ]
+    },
+    {
+      "id": "TNM-08",
+      "type": "concept",
+      "topic": "Ung thư Dạ dày",
+      "subtopic": "Xâm lấn T4",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "Barem Ung thư dạ dày (photo_010-021)",
+      "text": "Đặc điểm tổn thương nào sau đây định nghĩa chính xác giai đoạn T4 trong ung thư dạ dày?",
+      "options": [
+        "Khối u phát triển thể sùi lồi vào lòng dạ dày chiếm > 50% chu vi",
+        "Khối u gây hẹp môn vị hoàn toàn làm giãn to dạ dày",
+        "Khối u xâm lấn vượt quá lớp dưới niêm mạc nhưng chưa vào lớp cơ",
+        "Khối u xâm lấn xuyên qua lớp thanh mạc vào các cấu trúc, cơ quan lân cận"
+      ],
+      "correct": 3,
+      "explanation": "Theo Barem: T1 là u ở niêm mạc và dưới niêm mạc; T2 xâm lấn lớp cơ; T3 xâm lấn lan tới lớp thanh mạc; T4 là khối u xâm lấn xuyên qua lớp thanh mạc vào các cấu trúc, tổ chức lân cận (tụy, gan, lách, mạc nối, đại tràng ngang).",
+      "option_explanations": [
+        "Sai: Thể sùi chiếm chu vi là hình thái đại thể, không định nghĩa phân loại T.",
+        "Sai: Hẹp môn vị là biến chứng cơ học, u T2 hoặc T3 ở môn vị vẫn có thể gây hẹp môn vị.",
+        "Sai: U vượt qua dưới niêm mạc vào lớp cơ là T2.",
+        "Đúng: T4 là u xâm lấn xuyên qua thanh mạc vào các cấu trúc, cơ quan lân cận."
+      ]
+    },
+    {
+      "id": "TNM-09",
+      "type": "vignette",
+      "topic": "Ung thư Dạ dày",
+      "subtopic": "Di căn xa Krukenberg",
+      "bloom": "áp dụng",
+      "difficulty": 2,
+      "source": "Barem Ung thư dạ dày (photo_010-021)",
+      "text": "Bệnh nhân nữ 42 tuổi, đi khám vì bụng to nhanh và gầy sút cân. Siêu âm ổ bụng thấy khối u đặc hai bên buồng trứng kèm dịch cổ trướng lượng vừa. Nội soi dạ dày phát hiện tổn thương loét bờ nham nhở vùng thân vị, sinh thiết là ung thư biểu mô tuyến tế bào nhẫn. Di căn buồng trứng trong bệnh cảnh này có tên gọi là gì và xếp vào giai đoạn M nào?",
+      "options": [
+        "U Krukenberg — Xếp giai đoạn M1 (Giai đoạn IV)",
+        "Hạch Troisier — Xếp giai đoạn N3",
+        "Hội chứng Zollinger-Ellison — Xếp giai đoạn T4",
+        "Khối u Brenner — Xếp giai đoạn M0"
+      ],
+      "correct": 0,
+      "explanation": "U Krukenberg là thuật ngữ chỉ khối u di căn đến buồng trứng (thường cả 2 bên) có nguồn gốc nguyên phát từ đường tiêu hóa, hay gặp nhất là từ ung thư dạ dày (đặc biệt thể tế bào nhẫn rơi vào khoang phúc mạc và định vị tại buồng trứng). Đây là di căn xa $\\rightarrow$ Xếp giai đoạn M1 (Giai đoạn IV). Hạch Troisier/Virchow là hạch di căn trên đòn trái.",
+      "option_explanations": [
+        "Đúng: U Krukenberg là di căn buồng trứng từ ung thư tiêu hóa, thuộc M1 (Giai đoạn IV).",
+        "Sai: Hạch Troisier là hạch di căn ở hố thượng đòn trái.",
+        "Sai: Hội chứng Zollinger-Ellison là u tiết gastrin ở tụy/tá tràng gây loét đường tiêu hóa.",
+        "Sai: U Brenner là u buồng trứng nguyên phát, không phải di căn từ dạ dày."
+      ]
+    },
+    {
+      "id": "TNM-10",
+      "type": "concept",
+      "topic": "Ung thư Dạ dày",
+      "subtopic": "Phân loại hạch N3 trong barem",
+      "bloom": "ghi nhớ",
+      "difficulty": 2,
+      "source": "Barem Ung thư dạ dày (photo_010-021)",
+      "text": "Theo Barem ung thư dạ dày, nhóm hạch nào sau đây khi bị di căn được xếp vào N3?",
+      "options": [
+        "Hạch dọc bờ cong nhỏ cách u dưới 3 cm",
+        "Hạch dọc động mạch chủ bụng, hạch mạc treo ruột, hạch cuống gan và sau tá tụy",
+        "Hạch dọc động mạch vành vị và động mạch lách",
+        "Hạch dọc động mạch gan chung"
+      ],
+      "correct": 1,
+      "explanation": "Trong Barem Y6: N1 là hạch cạnh u $\\le$ 3 cm dọc bờ cong; N2 là hạch vùng > 3 cm dọc ĐM vành vị, ĐM thân tạng, ĐM lách, ĐM gan chung; N3 là di căn các nhóm hạch xa: hạch dọc động mạch chủ bụng, hạch mạc treo ruột, hạch sau tá tràng - đầu tụy, hạch cuống gan, dây chằng gan - tá tràng.",
+      "option_explanations": [
+        "Sai: Hạch cạnh u <= 3 cm là N1.",
+        "Đúng: Hạch dọc ĐMC bụng, mạc treo, sau tá tụy, cuống gan là N3.",
+        "Sai: Hạch dọc ĐM vành vị và ĐM lách là N2.",
+        "Sai: Hạch dọc ĐM gan chung là N2."
+      ]
+    },
+    {
+      "id": "TNM-11",
+      "type": "concept",
+      "topic": "Ung thư Gan",
+      "subtopic": "Tiêu chuẩn T2 của HCC",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "Barem Ung thư gan (photo_022-036)",
+      "text": "Theo phân loại TNM (AJCC 2010) cho ung thư biểu mô tế bào gan (HCC), trường hợp nào sau đây được xếp vào giai đoạn T2?",
+      "options": [
+        "Khối u đơn độc kích thước bất kỳ chưa xâm lấn mạch máu",
+        "Nhiều khối u kích thước > 5 cm",
+        "Khối u đơn độc có xâm lấn mạch máu HOẶC nhiều khối u kích thước $\\le$ 5 cm",
+        "Khối u xâm lấn trực tiếp vào nhánh chính tĩnh mạch cửa"
+      ],
+      "correct": 2,
+      "explanation": "Theo AJCC 2010 trong Barem: T1 là u đơn độc chưa xâm lấn mạch máu; T2 là u đơn độc CÓ xâm lấn mạch máu HOẶC nhiều u mà kích thước u lớn nhất $\\le$ 5 cm; T3a là nhiều u kích thước > 5 cm; T3b là u liên quan nhánh chính TM cửa hoặc TM gan.",
+      "option_explanations": [
+        "Sai: U đơn độc chưa xâm lấn mạch là T1.",
+        "Sai: Nhiều u kích thước > 5 cm là T3a.",
+        "Đúng: U đơn độc có xâm lấn mạch HOẶC nhiều u kích thước <= 5 cm là T2.",
+        "Sai: Xâm lấn nhánh chính TM cửa là T3b."
+      ]
+    },
+    {
+      "id": "TNM-12",
+      "type": "vignette",
+      "topic": "Ung thư Gan",
+      "subtopic": "Giai đoạn HCC & Child-Pugh",
+      "bloom": "áp dụng",
+      "difficulty": 2,
+      "source": "Barem Ung thư gan (photo_022-036)",
+      "text": "Bệnh nhân nam 52 tuổi có tiền sử viêm gan B mạn. Siêu âm và CT phát hiện 2 khối u ở hạ phân thùy VI và VII gan phải, kích thước lần lượt là 3 cm và 4 cm, chưa xâm lấn cuống mạch chính, không thấy hạch vùng. Đánh giá chức năng gan: Bilirubin 25 $\\mu$mol/L, Albumin 38 g/L, không cổ trướng, không hôn mê gan, Prothrombin 85% (Child-Pugh 5 điểm). Giai đoạn TNM và thái độ xử trí ngoại khoa là:",
+      "options": [
+        "Giai đoạn I (T1 N0 M0) — Điều trị hóa chất toàn thân",
+        "Giai đoạn IVB (M1), Child-Pugh C — Chống chỉ định can thiệp ngoại khoa",
+        "Giai đoạn IIIA (T3a N0 M0), Child-Pugh B — Chỉ định ghép gan cấp cứu",
+        "Giai đoạn II (T2 N0 M0), Child-Pugh A — Có chỉ định phẫu thuật cắt gan"
+      ],
+      "correct": 3,
+      "explanation": "Có 2 khối u đều $\\le$ 5 cm $\\rightarrow$ Xếp T2, N0, M0 $\\rightarrow$ Giai đoạn II (AJCC 2010). Điểm Child-Pugh là 5 điểm (Child-Pugh A: 5-6 điểm, chức năng gan còn bù tốt). Theo nguyên tắc ngoại khoa ung thư gan, bệnh nhân giai đoạn sớm đến trung gian kèm Child-Pugh A có chỉ định phẫu thuật cắt gan phân thùy triệt căn.",
+      "option_explanations": [
+        "Sai: Có 2 u thì không thể là T1 (T1 bắt buộc u đơn độc).",
+        "Sai: Bệnh nhân chưa có di căn xa và chức năng gan hoàn toàn bình thường.",
+        "Sai: Kích thước các u đều <= 5cm nên không phải T3a; Child-Pugh 5 điểm là Child A chứ không phải B.",
+        "Đúng: Đa u <= 5cm là T2 N0 M0 (Giai đoạn II); Child-Pugh A (5 điểm) mổ cắt gan an toàn."
+      ]
+    },
+    {
+      "id": "TNM-13",
+      "type": "concept",
+      "topic": "Ung thư Gan",
+      "subtopic": "Tiêu chuẩn T3b của HCC",
+      "bloom": "hiểu",
+      "difficulty": 3,
+      "source": "Barem Ung thư gan (photo_022-036)",
+      "text": "Đặc điểm tổn thương mạch máu nào sau đây khiến khối u gan được xếp vào giai đoạn T3b (Giai đoạn IIIB theo AJCC 2010)?",
+      "options": [
+        "Khối u xâm lấn trực tiếp vào nhánh chính của tĩnh mạch cửa hoặc tĩnh mạch gan",
+        "Khối u gây đè đẩy nhưng chưa làm tắc tĩnh mạch chủ dưới",
+        "Khối u tăng sinh mạch ngấm thuốc mạnh thì động mạch trên CT",
+        "Khối u xâm lấn vào mao mạch xoang quanh u trên vi thể"
+      ],
+      "correct": 0,
+      "explanation": "Theo Barem AJCC 2010: T3b được định nghĩa là một hay nhiều khối u có kích thước bất kỳ nhưng có tổn thương liên quan trực tiếp / xâm lấn vào nhánh chính của tĩnh mạch cửa (nhánh phải, nhánh trái hoặc thân chung TM cửa) hoặc các tĩnh mạch gan chính.",
+      "option_explanations": [
+        "Đúng: U xâm lấn nhánh chính tĩnh mạch cửa hoặc tĩnh mạch gan được xếp vào T3b.",
+        "Sai: Đè đẩy đơn thuần không phải xâm lấn nhánh chính.",
+        "Sai: Ngấm thuốc thì động mạch (thải thuốc thì tĩnh mạch) là đặc tính chẩn đoán hình ảnh điển hình của HCC, không quyết định T3b.",
+        "Sai: Xâm lấn vi mạch vi thể nếu u đơn độc thì xếp T2."
+      ]
+    },
+    {
+      "id": "TNM-14",
+      "type": "concept",
+      "topic": "Ung thư Gan",
+      "subtopic": "Hepatoblastoma trẻ em",
+      "bloom": "phân tích",
+      "difficulty": 2,
+      "source": "Barem Ung thư gan (photo_022-036)",
+      "text": "Theo Bảng xếp loại của Nhóm ung thư nhi khoa (1995) trong Barem, một bệnh nhi mắc Ung thư nguyên bào gan (Hepatoblastoma) ban đầu u có thể cắt được (giai đoạn I hoặc II) nhưng chẳng may bị vỡ u trước mổ thì bắt buộc phải chuyển sang xếp loại ở giai đoạn nào?",
+      "options": [
+        "Vẫn giữ nguyên Giai đoạn I hoặc II tùy thuộc độ mô học",
+        "Chuyển lên Giai đoạn III",
+        "Chuyển thẳng lên Giai đoạn IV",
+        "Không còn xếp giai đoạn mà chuyển sang chăm sóc giảm nhẹ"
+      ],
+      "correct": 1,
+      "explanation": "Barem Bảng 13 ghi rõ tiêu chuẩn xếp loại Hepatoblastoma: Giai đoạn III là ung thư lấy bỏ hết về đại thể nhưng còn sót u về vi thể HOẶC ung thư giai đoạn I, II nhưng đã bị vỡ u trước mổ (do tế bào u đã tràn vào ổ bụng làm tăng nguy cơ tái phát tại chỗ). Giai đoạn IV là khi u không thể cắt được hoặc đã có di căn hạch / di căn xa.",
+      "option_explanations": [
+        "Sai: Vỡ u làm phát tán tế bào ác tính vào phúc mạc nên không thể giữ nguyên giai đoạn I/II.",
+        "Đúng: U giai đoạn I, II bị vỡ trước mổ được nâng lên Giai đoạn III.",
+        "Sai: Giai đoạn IV chỉ áp dụng khi u hoàn toàn không cắt được hoặc đã di căn xa (phổi/hạch xa).",
+        "Sai: Giai đoạn III vẫn được điều trị tích cực bằng hóa trị PLADO và phẫu thuật lại."
+      ]
+    },
+    {
+      "id": "TNM-15",
+      "type": "concept",
+      "topic": "Ung thư Gan",
+      "subtopic": "Giai đoạn IVA vs IVB trong HCC",
+      "bloom": "ghi nhớ",
+      "difficulty": 1,
+      "source": "Barem Ung thư gan (photo_022-036)",
+      "text": "Sự khác biệt giữa Giai đoạn IVA và Giai đoạn IVB trong ung thư biểu mô tế bào gan (HCC) theo AJCC 2010 là gì?",
+      "options": [
+        "Giai đoạn IVA có xâm lấn túi mật; Giai đoạn IVB xâm lấn cơ hoành",
+        "Giai đoạn IVA có 2 khối u; Giai đoạn IVB có từ 3 khối u trở lên",
+        "Giai đoạn IVA có di căn hạch vùng (T bất kỳ, N1, M0); Giai đoạn IVB đã có di căn xa ngoài gan (T bất kỳ, N bất kỳ, M1)",
+        "Giai đoạn IVA xơ gan Child A; Giai đoạn IVB xơ gan Child C"
+      ],
+      "correct": 2,
+      "explanation": "Theo Barem: Giai đoạn IVA là T bất kỳ, N1, M0 (đã có di căn hạch khu vực quanh cuống gan nhưng chưa di căn tạng xa); Giai đoạn IVB là T bất kỳ, N bất kỳ, M1 (đã có di căn xa ngoài gan như di căn phổi, xương...).",
+      "option_explanations": [
+        "Sai: Xâm lấn túi mật không tính là T4 (trừ túi mật), xâm lấn hoành là T4 (Giai đoạn IIIC).",
+        "Sai: Số lượng u quyết định phân loại T chứ không phân chia giai đoạn IV.",
+        "Đúng: Giai đoạn IVA là N1 M0 (hạch vùng); Giai đoạn IVB là M1 (di căn xa ngoài gan).",
+        "Sai: Child-Pugh là thang điểm đánh giá chức năng gan độc lập với hệ thống TNM."
+      ]
+    },
+    {
+      "id": "TNM-16",
+      "type": "concept",
+      "topic": "Ung thư Đại tràng",
+      "subtopic": "Phân loại hạch N1c (AJCC 8th)",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "Barem Ung thư đại tràng (photo_037-051)",
+      "text": "Trong bảng phân loại TNM của AJCC 8th (2017) cho ung thư đại trực tràng, tiêu chuẩn N1c được định nghĩa như thế nào?",
+      "options": [
+        "Di căn từ 4 đến 6 hạch bạch huyết vùng",
+        "Khối u vỡ gây viêm phúc mạc toàn thể",
+        "Di căn hạch dọc theo gốc động mạch mạc treo tràng dưới",
+        "Có từ 1 đến 3 nốt lắng đọng tế bào u ở mô dưới thanh mạc hoặc mạc treo nhưng không có cấu trúc mô hạch"
+      ],
+      "correct": 3,
+      "explanation": "Theo AJCC 8th: N1a là di căn 1 hạch vùng; N1b là di căn 2-3 hạch vùng; N1c là sự lắng đọng của các ổ tế bào ung thư (tumor deposits) ở mô mỡ dưới thanh mạc, mạc treo ruột hoặc mô quanh đại trực tràng mà không tìm thấy cấu trúc mô bạch huyết của hạch.",
+      "option_explanations": [
+        "Sai: Di căn 4-6 hạch vùng là tiêu chuẩn của N2a.",
+        "Sai: Vỡ u gây viêm phúc mạc không nằm trong phân loại N.",
+        "Sai: Hạch gốc ĐM mạc treo tràng dưới là hạch trung tâm/nhóm 3 (D3).",
+        "Đúng: N1c là nốt lắng đọng u ở mô dưới thanh mạc/mạc treo không có cấu trúc hạch."
+      ]
+    },
+    {
+      "id": "TNM-17",
+      "type": "concept",
+      "topic": "Ung thư Đại tràng",
+      "subtopic": "Đối chiếu TNM với Dukes",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "Barem Ung thư đại tràng (photo_037-051)",
+      "text": "Sự đối chiếu giai đoạn nào sau đây giữa phân loại TNM (AJCC) và phân loại kinh điển của Dukes (1932) là chính xác nhất?",
+      "options": [
+        "Giai đoạn III (Mọi T, N1-N2, M0) tương đương Dukes C",
+        "Giai đoạn II (T3-T4 N0 M0) tương đương Dukes A",
+        "Giai đoạn I (T1-T2 N0 M0) tương đương Dukes B",
+        "Giai đoạn IV (Mọi T, Mọi N, M1) tương đương Dukes B"
+      ],
+      "correct": 0,
+      "explanation": "Đối chiếu chuẩn mực trong Barem: Giai đoạn I (u chưa ra ngoài thành ruột, chưa có hạch: T1-T2 N0 M0) $\\Leftrightarrow$ Dukes A; Giai đoạn II (u vượt ra ngoài thành ruột nhưng chưa có hạch: T3-T4 N0 M0) $\\Leftrightarrow$ Dukes B; Giai đoạn III (bất kể mức xâm lấn thành nhưng đã có di căn hạch vùng: Mọi T, N+, M0) $\\Leftrightarrow$ Dukes C; Giai đoạn IV (đã có di căn xa) $\\Leftrightarrow$ Dukes D.",
+      "option_explanations": [
+        "Đúng: Giai đoạn III (có di căn hạch N+) tương đương Dukes C.",
+        "Sai: Giai đoạn II tương đương Dukes B.",
+        "Sai: Giai đoạn I tương đương Dukes A.",
+        "Sai: Giai đoạn IV tương đương Dukes D."
+      ]
+    },
+    {
+      "id": "TNM-18",
+      "type": "concept",
+      "topic": "Ung thư Đại tràng",
+      "subtopic": "Số lượng hạch tối thiểu N0",
+      "bloom": "ghi nhớ",
+      "difficulty": 1,
+      "source": "Barem Ung thư đại tràng (photo_037-051)",
+      "text": "Trong phẫu thuật triệt căn ung thư đại tràng, để khẳng định chắc chắn bệnh nhân ở giai đoạn N0 (không có di căn hạch), tiêu chuẩn quốc tế và Barem yêu cầu phẫu thuật viên và nhà giải phẫu bệnh phải nạo vét và khảo sát tối thiểu bao nhiêu hạch bạch huyết?",
+      "options": [
+        "Tối thiểu 6 hạch",
+        "Tối thiểu 12 hạch",
+        "Tối thiểu 20 hạch",
+        "Tối thiểu 30 hạch"
+      ],
+      "correct": 1,
+      "explanation": "Để đánh giá chính xác giai đoạn hạch vùng N0 trong ung thư đại tràng, khuyến cáo của AJCC, CAP và giáo trình ngoại khoa yêu cầu phải nạo vét và khảo sát mô bệnh học tối thiểu 12 hạch bạch huyết vùng. Nếu dưới 12 hạch, nguy cơ bỏ sót hạch dương tính vi thể là rất cao (dẫn đến phân giai đoạn non - understaging).",
+      "option_explanations": [
+        "Sai: 6 hạch là không đủ độ tin cậy để loại trừ di căn hạch.",
+        "Đúng: Tối thiểu 12 hạch bạch huyết vùng là tiêu chuẩn bắt buộc.",
+        "Sai: 20 hạch là con số lý tưởng trong nạo hạch mở rộng nhưng không phải mốc tối thiểu quy ước.",
+        "Sai: 30 hạch không phải tiêu chuẩn tối thiểu quy ước."
+      ]
+    },
+    {
+      "id": "TNM-19",
+      "type": "vignette",
+      "topic": "Ung thư Đại tràng",
+      "subtopic": "Phân loại giai đoạn lâm sàng",
+      "bloom": "áp dụng",
+      "difficulty": 3,
+      "source": "Barem Ung thư đại tràng (photo_037-051)",
+      "text": "Bệnh nhân nữ 60 tuổi mổ cắt nửa đại tràng phải do ung thư manh tràng. Kết quả mô bệnh học: Khối u xâm lấn xuyên qua lớp cơ tới lớp mỡ dưới thanh mạc nhưng chưa làm thủng phúc mạc tạng. Có 5 trong số 16 hạch nạo vét phát hiện di căn tế bào ung thư. Không có di căn tạng xa. Phân loại TNM chính xác là:",
+      "options": [
+        "T2 N1a M0 (Giai đoạn I)",
+        "T4a N1b M0 (Giai đoạn IIC)",
+        "T3 N2a M0 (Giai đoạn IIIB)",
+        "T3 N0 M0 (Giai đoạn IIA)"
+      ],
+      "correct": 2,
+      "explanation": "Khối u xâm lấn xuyên qua lớp cơ tới lớp dưới thanh mạc (chưa thủng phúc mạc tạng) $\\rightarrow$ T3. Di căn 5 hạch vùng (trong khoảng 4 - 6 hạch) $\\rightarrow$ N2a. Chưa có di căn xa $\\rightarrow$ M0. Do đó tổ hợp là T3 N2a M0, thuộc Giai đoạn IIIB theo AJCC 8th.",
+      "option_explanations": [
+        "Sai: T2 chỉ mới ở lớp cơ; N1a là 1 hạch.",
+        "Sai: T4a là u đã xâm lấn thủng phúc mạc tạng.",
+        "Đúng: U vào dưới thanh mạc là T3; 5 hạch di căn là N2a; không di căn xa là M0 -> T3 N2a M0 (Giai đoạn IIIB).",
+        "Sai: Bệnh nhân có 5 hạch di căn nên không thể là N0."
+      ]
+    },
+    {
+      "id": "TNM-20",
+      "type": "concept",
+      "topic": "Ung thư Đại tràng",
+      "subtopic": "Phân loại di căn xa M1c",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "Barem Ung thư đại tràng (photo_037-051)",
+      "text": "Theo AJCC 8th (2017), tình trạng nào sau đây được phân loại là M1c trong ung thư đại tràng?",
+      "options": [
+        "Di căn khu trú ở một cơ quan duy nhất (như 1 nốt ở gan)",
+        "Di căn đến nhiều hơn một cơ quan (như cả gan và phổi)",
+        "Di căn đến hạch thượng đòn trái (hạch Troisier)",
+        "Di căn lan tràn bề mặt phúc mạc (có hoặc không kèm di căn tạng xa)"
+      ],
+      "correct": 3,
+      "explanation": "AJCC 8th phân định rõ: M1a là di căn khu trú ở 1 cơ quan đơn độc không có di căn phúc mạc; M1b là di căn > 1 cơ quan không kèm di căn phúc mạc; M1c là di căn lan tràn phúc mạc (kèm hoặc không kèm di căn các tạng khác). Di căn phúc mạc có tiên lượng nặng nhất.",
+      "option_explanations": [
+        "Sai: Di căn 1 cơ quan là M1a.",
+        "Sai: Di căn > 1 cơ quan là M1b.",
+        "Sai: Di căn hạch thượng đòn được xếp chung vào di căn tạng/hạch xa M1a/M1b.",
+        "Đúng: Di căn lan tràn phúc mạc là M1c."
+      ]
+    },
+    {
+      "id": "TNM-21",
+      "type": "concept",
+      "topic": "Ung thư Trực tràng",
+      "subtopic": "Diện cắt vòng quanh (CRM)",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "Barem Ung thư trực tràng (photo_052-066)",
+      "text": "Trong phẫu thuật cắt toàn bộ mạc treo trực tràng (TME) điều trị ung thư trực tràng, tiêu chuẩn để diện cắt vòng quanh (CRM - Circumferential Resection Margin) được coi là ÂM TÍNH (R0) là gì?",
+      "options": [
+        "Khoảng cách từ bờ khối u hoặc hạch di căn đến diện cắt mạc treo trực tràng > 1 mm",
+        "Bờ dưới của khối u cách diện cắt dưới của trực tràng ít nhất 5 cm",
+        "Không còn tế bào u nhìn thấy bằng mắt thường trong mổ",
+        "Khoảng cách từ khối u đến cơ thắt hậu môn ngoài ít nhất 2 cm"
+      ],
+      "correct": 0,
+      "explanation": "Diện cắt vòng quanh (CRM) được định nghĩa là âm tính khi khoảng cách từ tế bào u xa nhất (hoặc ổ hạch di căn, nốt lắng đọng u) tới diện phẫu tích cắt mạc treo trực tràng lớn hơn 1 mm (> 1 mm). Nếu $\\le$ 1 mm, diện cắt bị coi là dương tính và nguy cơ tái phát tại chỗ sau mổ tăng vọt.",
+      "option_explanations": [
+        "Đúng: CRM âm tính khi khoảng cách từ u/hạch đến diện cắt mạc treo trực tràng > 1 mm.",
+        "Sai: Khoảng cách bờ dưới u là diện cắt dọc (distal margin, thường yêu cầu 1-2 cm), không phải CRM.",
+        "Sai: Mắt thường không thể khẳng định CRM âm tính (R0 là âm tính về mặt vi thể).",
+        "Sai: Khoảng cách đến cơ thắt thuộc phân loại Rullier cho trực tràng thấp."
+      ]
+    },
+    {
+      "id": "TNM-22",
+      "type": "concept",
+      "topic": "Ung thư Trực tràng",
+      "subtopic": "Phân loại Rullier Type IV",
+      "bloom": "phân tích",
+      "difficulty": 2,
+      "source": "Barem Ung thư trực tràng (photo_052-066)",
+      "text": "Theo phân loại Rullier (2013) đối với ung thư trực tràng thấp, khối u Type IV có đặc điểm giải phẫu nào khiến bắt buộc phải chỉ định phẫu thuật Miles (APR) cắt cụt trực tràng?",
+      "options": [
+        "Khối u cách bờ trên ống hậu môn > 1 cm",
+        "Khối u đã xâm lấn vào cơ thắt ngoài hoặc cơ nâng hậu môn, không còn khả năng bảo tồn cơ thắt",
+        "Khối u đã xâm lấn vào cơ thắt trong nhưng còn cách xa cơ thắt ngoài",
+        "Khối u cách bờ trên ống hậu môn < 1 cm nhưng chưa xâm lấn cơ thắt trong"
+      ],
+      "correct": 1,
+      "explanation": "Theo Barem phân loại Rullier: Type I: cách ống hậu môn > 1cm (mổ ultra-LAR); Type II: cách < 1cm chưa vào cơ thắt trong (mổ partial ISR); Type III: xâm lấn cơ thắt trong (mổ total ISR); Type IV: khối u đã xâm lấn vào cơ thắt ngoài hoặc cơ nâng hậu môn $\\rightarrow$ Bộ máy tự chủ hậu môn bị phá hủy, bắt buộc phải mổ cắt cụt trực tràng đường bụng - tầng sinh môn (phẫu thuật Miles) và làm hậu môn nhân tạo vĩnh viễn.",
+      "option_explanations": [
+        "Sai: Cách > 1 cm là Type I (bảo tồn cơ thắt tốt).",
+        "Đúng: Type IV là u xâm lấn cơ thắt ngoài hoặc cơ nâng hậu môn -> Bắt buộc mổ Miles.",
+        "Sai: Xâm lấn cơ thắt trong là Type III (cắt toàn bộ cơ thắt trong).",
+        "Sai: Cách < 1 cm chưa vào cơ thắt trong là Type II (cắt 1 phần cơ thắt trong)."
+      ]
+    },
+    {
+      "id": "TNM-23",
+      "type": "vignette",
+      "topic": "Ung thư Trực tràng",
+      "subtopic": "Phân loại T trực tràng thấp",
+      "bloom": "áp dụng",
+      "difficulty": 2,
+      "source": "Barem Ung thư trực tràng (photo_052-066)",
+      "text": "Bệnh nhân nam 65 tuổi được chụp MRI tiểu khung đánh giá ung thư trực tràng 1/3 giữa: Khối u xâm lấn xuyên qua toàn bộ chiều dày lớp cơ và lan ra lớp mỡ mạc treo trực tràng xung quanh 3 mm, diện cắt CRM dự kiến 6 mm (an toàn), thấy 1 hạch mạc treo 8 mm ngấm thuốc không đều nghi ngờ di căn, chưa có di căn xa. Giai đoạn TNM trước mổ (cTNM) là:",
+      "options": [
+        "cT1 cN0 cM0",
+        "cT2 cN1 cM0",
+        "cT3 cN1 cM0",
+        "cT4b cN2 cM1"
+      ],
+      "correct": 2,
+      "explanation": "Ở trực tràng đoạn dưới phúc mạc, u xâm lấn vượt qua lớp cơ vào lớp mô mỡ mạc treo trực tràng (mesorectum) được định nghĩa chính xác là T3. Có 1 hạch vùng nghi ngờ $\\rightarrow$ N1. Chưa có di căn xa $\\rightarrow$ M0. Do đó giai đoạn là cT3 cN1 cM0 (Giai đoạn tiến triển tại chỗ, có chỉ định hóa xạ tiền phẫu trước khi mổ).",
+      "option_explanations": [
+        "Sai: cT1 là u mới chỉ ở lớp dưới niêm mạc.",
+        "Sai: cT2 là u còn khu trú trong lớp cơ, chưa lan ra mỡ mạc treo trực tràng.",
+        "Đúng: Lan vào mỡ mạc treo trực tràng là T3; có 1 hạch nghi ngờ là N1; không di căn xa là M0 -> cT3 cN1 cM0.",
+        "Sai: cT4b là u xâm lấn trực tiếp vào cơ quan lân cận (tuyến tiền liệt, âm đạo, bàng quang...)."
+      ]
+    },
+    {
+      "id": "TNM-24",
+      "type": "concept",
+      "topic": "Ung thư Trực tràng",
+      "subtopic": "Đặc điểm T4 trực tràng",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "Barem Ung thư trực tràng (photo_052-066)",
+      "text": "Khối u trực tràng 1/3 dưới phát triển xâm lấn trực tiếp vào tuyến tiền liệt ở nam giới hoặc thành sau âm đạo ở nữ giới được xếp vào giai đoạn T nào?",
+      "options": [
+        "T2",
+        "T3",
+        "T4a",
+        "T4b"
+      ],
+      "correct": 3,
+      "explanation": "Theo AJCC 8th: T4a là u xâm lấn làm thủng phúc mạc tạng (chỉ gặp ở phần trực tràng cao 1/3 trên có phúc mạc che phủ); T4b là u trực tiếp xâm lấn hoặc dính vào các cơ quan, cấu trúc kế cận trong vùng chậu (như tuyến tiền liệt, túi tinh, bàng quang, âm đạo, tử cung, xương cùng).",
+      "option_explanations": [
+        "Sai: T2 là u còn trong lớp cơ.",
+        "Sai: T3 là u vào lớp mỡ mạc treo trực tràng.",
+        "Sai: T4a là thủng phúc mạc tạng.",
+        "Đúng: Xâm lấn trực tiếp vào cơ quan kế cận (tuyến tiền liệt, âm đạo, bàng quang) là T4b."
+      ]
+    },
+    {
+      "id": "TNM-25",
+      "type": "concept",
+      "topic": "Ung thư Trực tràng",
+      "subtopic": "Nguyên lý phẫu thuật TME (Heald)",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "Barem Ung thư trực tràng (photo_052-066)",
+      "text": "Mục tiêu cốt lõi của nguyên lý phẫu thuật Heald (Cắt toàn bộ mạc treo trực tràng - TME) áp dụng cho ung thư trực tràng giai đoạn T1-T3 là gì?",
+      "options": [
+        "Phẫu tích sắc bén trong mặt phẳng vô mạch (holy plane) giữ nguyên vẹn bao mạc treo trực tràng, lấy trọn khối u và hệ thống hạch bạch huyết",
+        "Cắt bỏ toàn bộ cơ thắt ngoài để tránh nguy cơ sót tế bào u",
+        "Mở thông đại tràng ra da vĩnh viễn cho 100% bệnh nhân",
+        "Cắt bỏ toàn bộ bàng quang và tuyến tiền liệt đi kèm"
+      ],
+      "correct": 0,
+      "explanation": "Phẫu thuật TME (Heald 1982) là tiêu chuẩn vàng trong điều trị ngoại khoa ung thư trực tràng. Phẫu tích sắc bén trong 'mặt phẳng thần thánh' (holy plane) giữa lá tạng và lá thành của mạc chậu, lấy nguyên khối trực tràng cùng toàn bộ mạc treo trực tràng được bao bọc nguyên vẹn trong lớp mạc riêng (fascia recti), tránh làm rách bao mạc treo, giảm tỷ lệ tái phát tại chỗ từ 30-50% xuống dưới 5-8%.",
+      "option_explanations": [
+        "Đúng: Phẫu tích sắc bén trong holy plane giữ nguyên vẹn bao mạc treo trực tràng, lấy trọn u và hạch.",
+        "Sai: TME nhằm bảo tồn tối đa cơ thắt và chức năng tự chủ khi u ở vị trí cho phép.",
+        "Sai: TME trong phẫu thuật LAR cho phép lập lại lưu thông tiêu hóa (nối máy stapler), không cần làm HMNT vĩnh viễn.",
+        "Sai: TME không cắt bàng quang/TTL trừ khi u T4b xâm lấn trực tiếp."
+      ]
+    },
+    {
+      "id": "TNM-26",
+      "type": "concept",
+      "topic": "Ung thư Thận",
+      "subtopic": "Mốc kích thước T1a vs T1b",
+      "bloom": "ghi nhớ",
+      "difficulty": 1,
+      "source": "Barem Ung thư thận (photo_067-074)",
+      "text": "Trong phân loại ung thư biểu mô tế bào thận (RCC) theo AJCC, mốc kích thước khối u lớn nhất để phân định giữa giai đoạn T1a và T1b là bao nhiêu?",
+      "options": [
+        "2 cm",
+        "4 cm",
+        "7 cm",
+        "10 cm"
+      ],
+      "correct": 1,
+      "explanation": "Trong phân loại ung thư thận (RCC): T1 là khối u có kích thước lớn nhất $\\le$ 7 cm và còn giới hạn trong thận. Trong đó: T1a là u có kích thước $\\le$ 4 cm (đây cũng là mốc chỉ định vàng cho phẫu thuật cắt thận bán phần bảo tồn nhu mô - NSS); T1b là u có kích thước > 4 cm nhưng $\\le$ 7 cm. Mốc 7 cm là ranh giới giữa T1 và T2; mốc 10 cm phân định giữa T2a và T2b.",
+      "option_explanations": [
+        "Sai: 2 cm không phải mốc phân loại chuẩn của AJCC trong RCC.",
+        "Đúng: Mốc 4 cm phân định T1a (<= 4 cm) và T1b (> 4 cm đến <= 7 cm).",
+        "Sai: 7 cm là ranh giới giữa T1 và T2.",
+        "Sai: 10 cm là ranh giới giữa T2a và T2b."
+      ]
+    },
+    {
+      "id": "TNM-27",
+      "type": "vignette",
+      "topic": "Ung thư Thận",
+      "subtopic": "Chỉ định cắt thận bán phần (NSS)",
+      "bloom": "áp dụng",
+      "difficulty": 2,
+      "source": "Barem Ung thư thận (photo_067-074)",
+      "text": "Bệnh nhân nam 48 tuổi, tình cờ phát hiện khối u đặc kích thước 3.2 cm ở cực dưới thận trái qua siêu âm khám sức khỏe định kỳ. Chụp CT cản quang xác định u ngấm thuốc mạnh thì động mạch, nằm gọn trong nhu mô thận, chưa xâm lấn đài bể thận, bao thận nguyên vẹn, cuống mạch thận và hạch rốn thận bình thường. Phương pháp phẫu thuật được ưu tiên hàng đầu là:",
+      "options": [
+        "Cắt toàn bộ thận triệt căn mở rộng kèm tuyến thượng thận theo Robson",
+        "Nút mạch thận chọn lọc sau đó xạ trị bổ trợ",
+        "Phẫu thuật cắt thận bán phần / bảo tồn nhu mô (Nephron-sparing surgery - NSS)",
+        "Theo dõi định kỳ bằng CT mỗi 3 tháng không can thiệp"
+      ],
+      "correct": 2,
+      "explanation": "Bệnh nhân có khối u thận kích thước 3.2 cm ($\\le$ 4 cm) còn giới hạn trong thận $\\rightarrow$ Giai đoạn T1a N0 M0. Đối với u thận T1a nằm ở vị trí ngoại vi hoặc cực thận, phẫu thuật cắt thận bán phần (NSS) là tiêu chuẩn vàng, vừa đảm bảo triệt căn ung thư tương đương cắt thận toàn bộ vừa bảo tồn tối đa chức năng thận lâu dài cho người bệnh.",
+      "option_explanations": [
+        "Sai: Mổ Robson cắt toàn bộ thận thường chỉ định cho khối u lớn hơn (T1b, T2, T3) hoặc u T1a nằm quá sâu sát rốn thận không thể cắt bán phần.",
+        "Sai: Ung thư tế bào thận rất kháng xạ trị; nút mạch chỉ dùng chuẩn bị trước mổ u to.",
+        "Đúng: U T1a (<= 4cm) ở cực thận ưu tiên hàng đầu cắt thận bán phần NSS.",
+        "Sai: U ngấm thuốc ác tính rõ ở người trẻ 48 tuổi cần phẫu thuật triệt căn, không trì hoãn theo dõi."
+      ]
+    },
+    {
+      "id": "TNM-28",
+      "type": "concept",
+      "topic": "Ung thư Thận",
+      "subtopic": "Ranh giới cân Gerota T3 vs T4",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "Barem Ung thư thận (photo_067-074)",
+      "text": "Ranh giới giải phẫu quyết định sự khác biệt giữa giai đoạn T3 và giai đoạn T4 trong ung thư thận là cấu trúc nào?",
+      "options": [
+        "Vỏ bao xơ của thận (Renal capsule)",
+        "Lớp mỡ rốn thận",
+        "Cơ thắt lưng chậu (Psoas muscle)",
+        "Cân mạc quanh thận Gerota (Gerota's fascia)"
+      ],
+      "correct": 3,
+      "explanation": "Theo phân loại TNM ung thư thận: Giai đoạn T3 là u có thể xâm lấn vào tĩnh mạch lớn (tĩnh mạch thận, tĩnh mạch chủ dưới) hoặc xâm lấn vào lớp mỡ quanh thận / mỡ rốn thận nhưng TUYỆT ĐỐI CHƯA VƯỢT QUÁ CÂN GEROTA. Một khi khối u đã phá vỡ và vượt qua cân Gerota (hoặc xâm lấn trực tiếp tuyến thượng thận cùng bên) thì được xếp vào giai đoạn T4.",
+      "option_explanations": [
+        "Sai: Vượt qua vỏ bao xơ vào lớp mỡ quanh thận nhưng trong cân Gerota là T3a.",
+        "Sai: Lớp mỡ rốn thận nếu bị xâm lấn vẫn thuộc nhóm T3a.",
+        "Sai: Cơ thắt lưng chậu là cấu trúc thành sau, u ăn vào cơ này là đã qua cân Gerota (T4).",
+        "Đúng: Cân Gerota là ranh giới phân định: trong cân là T3, vượt qua cân là T4."
+      ]
+    },
+    {
+      "id": "TNM-29",
+      "type": "concept",
+      "topic": "Ung thư Thận",
+      "subtopic": "Huyết khối IVC T3b vs T3c",
+      "bloom": "phân tích",
+      "difficulty": 3,
+      "source": "Barem Ung thư thận (photo_067-074)",
+      "text": "Tiêu chuẩn nào sau đây phân biệt giữa huyết khối chồi u tĩnh mạch chủ dưới (IVC) giai đoạn T3b và T3c trong ung thư thận?",
+      "options": [
+        "T3b là huyết khối tĩnh mạch chủ dưới đoạn dưới cơ hoành; T3c là huyết khối tĩnh mạch chủ dưới đoạn trên cơ hoành hoặc xâm lấn thành tĩnh mạch chủ",
+        "T3b là huyết khối trong tĩnh mạch thận; T3c là huyết khối trong tĩnh mạch chủ dưới",
+        "T3b là huyết khối u di động; T3c là huyết khối u đã bị canxi hóa",
+        "T3b huyết khối chưa gây tắc hoàn toàn; T3c huyết khối gây tắc hoàn toàn lòng mạch"
+      ],
+      "correct": 0,
+      "explanation": "Theo Barem: T3a là xâm lấn TM thận hoặc nhánh TM trong thận; T3b là chồi huyết khối lan vào tĩnh mạch chủ dưới (IVC) nhưng giới hạn ở ĐOẠN DƯỚI CƠ HOÀNH; T3c là chồi huyết khối lan vào tĩnh mạch chủ dưới ĐOẠN TRÊN CƠ HOÀNH (có thể lên tới tâm nhĩ phải) HOẶC xâm lấn trực tiếp vào thành tĩnh mạch chủ.",
+      "option_explanations": [
+        "Đúng: T3b là IVC đoạn dưới cơ hoành; T3c là IVC đoạn trên cơ hoành hoặc xâm lấn thành IVC.",
+        "Sai: Huyết khối TM thận đơn thuần là T3a.",
+        "Sai: Sự di động hay canxi hóa không dùng làm tiêu chuẩn phân chia T.",
+        "Sai: Mức độ tắc lòng mạch không phải tiêu chuẩn phân loại T3b/T3c."
+      ]
+    },
+    {
+      "id": "TNM-30",
+      "type": "concept",
+      "topic": "Ung thư Thận",
+      "subtopic": "Nguyên tắc thắt mạch phẫu thuật Robson",
+      "bloom": "áp dụng",
+      "difficulty": 2,
+      "source": "Barem Ung thư thận (photo_067-074)",
+      "text": "Trong phẫu thuật cắt thận triệt căn điều trị ung thư thận (Phẫu thuật Robson), nguyên tắc kỹ thuật bắt buộc phải thực hiện ĐẦU TIÊN trước khi giải phóng khối u là gì?",
+      "options": [
+        "Giải phóng toàn bộ cực dưới và niệu quản trước",
+        "Phẫu tích bộc lộ và thắt động mạch, tĩnh mạch thận trước",
+        "Bóc tách giải phóng hoàn toàn khối u ra khỏi hố thắt lưng",
+        "Cắt bỏ tuyến thượng thận cùng bên trước"
+      ],
+      "correct": 1,
+      "explanation": "Nguyên tắc ngoại khoa kinh điển của Robson trong mổ ung thư thận: Phải bộc lộ cuống thận và thắt động mạch thận, tĩnh mạch thận TRƯỚC TIÊN trước khi đụng chạm giải phóng khối u thận. Mục đích là chặn đứng đường tuần hoàn máu nuôi u và đặc biệt là ngăn ngừa việc đẩy các mảnh huyết khối u hoặc tế bào ung thư phát tán vào hệ tĩnh mạch chủ gây di căn phổi.",
+      "option_explanations": [
+        "Sai: Giải phóng cực dưới và niệu quản trước làm rung lắc u khi mạch máu chưa thắt.",
+        "Đúng: Bắt buộc thắt động mạch và tĩnh mạch thận trước khi giải phóng khối u.",
+        "Sai: Bóc tách u trước khi thắt mạch là sai lầm nghiêm trọng làm phát tán tế bào ung thư vào tuần hoàn.",
+        "Sai: Thượng thận được lấy nguyên khối cùng với bao Gerota, không bóc tách trước."
+      ]
+    },
+    {
+      "id": "TNM-31",
+      "type": "concept",
+      "topic": "Ung thư Tuyến tiền liệt",
+      "subtopic": "Phân loại giai đoạn T1",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "Barem Ung thư tuyến tiền liệt (photo_075-083)",
+      "text": "Đặc điểm nhận diện chung của tất cả các khối u tuyến tiền liệt giai đoạn T1 (T1a, T1b, T1c) là gì?",
+      "options": [
+        "Khối u sờ thấy rõ một nhân cứng chắc qua thăm trực tràng (DRE +)",
+        "Khối u đã xâm lấn làm tắc hoàn toàn niệu đạo gây bí đái cấp",
+        "Khối u tiềm tàng, không phát hiện được qua thăm trực tràng (DRE -) và không thấy trên siêu âm",
+        "Khối u đã xâm lấn vào hai túi tinh"
+      ],
+      "correct": 2,
+      "explanation": "Định nghĩa cốt lõi của T1 trong ung thư tuyến tiền liệt: Là khối u tiềm tàng trên lâm sàng, không sờ thấy qua thăm khám trực tràng bằng tay (DRE âm tính) và không nhìn thấy trên chẩn đoán hình ảnh siêu âm thông thường. T1a/T1b phát hiện tình cờ qua giải phẫu bệnh mảnh cắt nội soi TURP; T1c phát hiện nhờ sinh thiết kim do xét nghiệm thấy nồng độ PSA trong máu tăng cao.",
+      "option_explanations": [
+        "Sai: Sờ thấy nhân cứng qua DRE thì đã chuyển sang giai đoạn T2 trở lên.",
+        "Sai: Tắc niệu đạo bí đái có thể do u to T3/T4 hoặc phì đại lành tính phối hợp.",
+        "Đúng: T1 là u tiềm tàng, không sờ thấy qua DRE và không thấy trên siêu âm.",
+        "Sai: Xâm lấn túi tinh là giai đoạn T3b."
+      ]
+    },
+    {
+      "id": "TNM-32",
+      "type": "concept",
+      "topic": "Ung thư Tuyến tiền liệt",
+      "subtopic": "Ranh giới vỏ bao T2 vs T3",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "Barem Ung thư tuyến tiền liệt (photo_075-083)",
+      "text": "Ranh giới giải phẫu nào là tiêu chuẩn cốt tử để phân định giai đoạn T2 và T3 trong ung thư tuyến tiền liệt?",
+      "options": [
+        "Rãnh giữa của tuyến tiền liệt",
+        "Cân mạc Denonvilliers",
+        "Cổ bàng quang",
+        "Vỏ bao tuyến tiền liệt (Prostatic capsule)"
+      ],
+      "correct": 3,
+      "explanation": "Vỏ bao tuyến tiền liệt là ranh giới quyết định: Giai đoạn T2 là khối u có thể sờ thấy qua DRE nhưng u HOÀN TOÀN CHƯA VƯỢT QUA VỎ BAO tuyến tiền liệt (còn khu trú trong bao); Giai đoạn T3 là khối u ĐÃ XÂM LẤN PHÁ VỠ VỎ BAO tuyến tiền liệt (T3a là ra ngoài vỏ bao, T3b là xâm lấn vào túi tinh). Xâm lấn cổ bàng quang được xếp lên T4.",
+      "option_explanations": [
+        "Sai: Mất rãnh giữa chỉ phản ánh tuyến to ra trên thăm khám lâm sàng.",
+        "Sai: Cân Denonvilliers ngăn cách với trực tràng ở phía sau, không phải mốc chuẩn định nghĩa T2.",
+        "Sai: Xâm lấn cổ bàng quang là giai đoạn T4.",
+        "Đúng: Vỏ bao tuyến tiền liệt là ranh giới: trong vỏ bao là T2, phá vỡ vỏ bao là T3."
+      ]
+    },
+    {
+      "id": "TNM-33",
+      "type": "vignette",
+      "topic": "Ung thư Tuyến tiền liệt",
+      "subtopic": "Phân chia T2a, T2b, T2c",
+      "bloom": "áp dụng",
+      "difficulty": 2,
+      "source": "Barem Ung thư tuyến tiền liệt (photo_075-083)",
+      "text": "Bệnh nhân nam 64 tuổi đi khám vì tiểu đêm nhiều lần. Thăm trực tràng (DRE) sờ thấy một nhân rắn chắc ở thùy bên phải chiếm hơn một nửa thể tích thùy phải, bờ rõ, chưa lan sang thùy trái và rãnh giữa còn rõ. MRI xác định u nằm trọn trong vỏ bao thùy phải, chưa xâm lấn túi tinh, không có hạch to. Khối u được phân loại giai đoạn T nào?",
+      "options": [
+        "T2b",
+        "T2a",
+        "T1c",
+        "T2c"
+      ],
+      "correct": 0,
+      "explanation": "Trong phân loại T2 (u khu trú trong vỏ bao): T2a là u khu trú $\\le$ 1/2 của một thùy; T2b là u lan rộng > 1/2 của một thùy nhưng chưa xâm lấn sang thùy bên kia; T2c là u xâm lấn cả hai thùy tuyến tiền liệt. Bệnh nhân có nhân cứng chiếm hơn một nửa thùy phải và chưa sang thùy trái $\\rightarrow$ Xếp chính xác vào T2b.",
+      "option_explanations": [
+        "Đúng: U chiếm > 1/2 một thùy nhưng chưa sang thùy bên kia là T2b.",
+        "Sai: T2a chỉ khu trú <= 1/2 một thùy.",
+        "Sai: T1c là u không sờ thấy qua DRE.",
+        "Sai: T2c yêu cầu u xâm lấn cả hai thùy tuyến tiền liệt."
+      ]
+    },
+    {
+      "id": "TNM-34",
+      "type": "concept",
+      "topic": "Ung thư Tuyến tiền liệt",
+      "subtopic": "Di căn xương đám rối Batson",
+      "bloom": "hiểu",
+      "difficulty": 2,
+      "source": "Barem Ung thư tuyến tiền liệt (photo_075-083)",
+      "text": "Con đường giải phẫu đặc thù nào giải thích tại sao ung thư tuyến tiền liệt giai đoạn M1b rất hay di căn sớm vào cột sống thắt lưng và xương chậu mà không qua vòng tuần hoàn phổi?",
+      "options": [
+        "Qua hệ thống ống ngực dẫn lưu bạch huyết về tim",
+        "Qua đám rối tĩnh mạch Batson quanh cột sống không có van áp lực",
+        "Qua động mạch chậu trong đi trực tiếp vào xương",
+        "Qua đường rò trực tiếp từ bao tuyến tiền liệt vào xương cùng"
+      ],
+      "correct": 1,
+      "explanation": "Đám rối tĩnh mạch Batson (đám rối tĩnh mạch đốt sống) là một mạng lưới tĩnh mạch phong phú nối giữa các tĩnh mạch vùng chậu và các tĩnh mạch của thân đốt sống. Điểm đặc thù là hệ tĩnh mạch này KHÔNG CÓ VAN. Khi áp lực trong ổ bụng tăng lên (như khi ho, rặn tiểu), dòng máu tĩnh mạch từ đám rối quanh tuyến tiền liệt có thể chảy ngược trực tiếp vào các tĩnh mạch đốt sống thắt lưng và xương chậu, đưa tế bào ung thư di căn thẳng vào xương (thể tạo xương - osteoblastic) mà không cần đi qua phổi.",
+      "option_explanations": [
+        "Sai: Qua ống ngực sẽ đổ vào tĩnh mạch dưới đòn và về phổi trước.",
+        "Đúng: Qua đám rối tĩnh mạch Batson không có van nối thông trực tiếp vào xương cột sống và chậu.",
+        "Sai: Tế bào ung thư di căn theo đường tĩnh mạch và bạch huyết, không di chuyển ngược dòng động mạch.",
+        "Sai: U không rò trực tiếp vào xương cùng mà di căn theo tuần hoàn tĩnh mạch."
+      ]
+    },
+    {
+      "id": "TNM-35",
+      "type": "vignette",
+      "topic": "Ung thư Tuyến tiền liệt",
+      "subtopic": "Phân tầng nguy cơ D'Amico",
+      "bloom": "áp dụng",
+      "difficulty": 3,
+      "source": "Barem Ung thư tuyến tiền liệt (photo_075-083)",
+      "text": "Bệnh nhân nam 68 tuổi khám sức khỏe định kỳ: PSA toàn phần máu là 6.5 ng/mL, tỷ lệ f/tPSA là 12%. Thăm trực tràng DRE bình thường. Sinh thiết 12 mảnh dưới hướng dẫn TRUS phát hiện ung thư biểu mô tuyến ở 2 mảnh thùy trái, điểm Gleason là 3 + 3 = 6 điểm. Xạ hình xương và MRI không thấy di căn. Phân tầng nguy cơ lâm sàng (D'Amico) và chiến lược quản lý bệnh nhân này là:",
+      "options": [
+        "Nguy cơ cao — Xạ trị chiếu ngoài kết hợp điều trị nội tiết ADT dài hạn 3 năm",
+        "Nguy cơ trung bình — Bắt buộc cắt hai tinh hoàn phối hợp hóa trị Docetaxel",
+        "Nguy cơ thấp (T1c, Gleason 6, PSA < 10) — Lựa chọn Theo dõi tích cực (Active Surveillance) hoặc Phẫu thuật triệt căn",
+        "Giai đoạn kháng thiến — Dùng ngay thuốc Abiraterone hoặc Enzalutamide"
+      ],
+      "correct": 2,
+      "explanation": "Bệnh nhân có khối u T1c (DRE bình thường, phát hiện do PSA), điểm Gleason $\\le$ 6 và PSA < 10 ng/mL $\\rightarrow$ Thuộc nhóm NGUY CƠ THẤP (Low Risk) theo phân tầng D'Amico. Với nhóm nguy cơ thấp, khối u tiến triển rất chậm; chỉ định hàng đầu ở bệnh nhân cao tuổi là Theo dõi tích cực (Active Surveillance) để tránh biến chứng tiểu không tự chủ và rối loạn cương, hoặc Phẫu thuật cắt tuyến tiền liệt triệt căn nếu bệnh nhân mong muốn chữa khỏi dứt điểm.",
+      "option_explanations": [
+        "Sai: Nguy cơ cao là khi PSA > 20, Gleason 8-10 hoặc T >= T2c.",
+        "Sai: Cắt tinh hoàn và Docetaxel chỉ dùng cho giai đoạn muộn di căn xa hoặc kháng cắt tinh hoàn.",
+        "Đúng: T1c, Gleason 6, PSA < 10 ng/mL thuộc nhóm nguy cơ thấp -> Theo dõi tích cực hoặc mổ triệt căn.",
+        "Sai: Bệnh nhân mới chẩn đoán ban đầu, chưa qua điều trị nội tiết nên không phải kháng thiến."
+      ]
+    },
+    {
+      "id": "TNM-36",
+      "type": "concept",
+      "topic": "Tổng quan TNM Ung bướu",
+      "subtopic": "Ma trận đối chiếu hạch M1",
+      "bloom": "phân tích",
+      "difficulty": 2,
+      "source": "Barem Ngoại khoa Y6 Tổng hợp",
+      "text": "Xét về vị trí di căn hạch bạch huyết xa (xếp vào giai đoạn M1), đặc điểm nào sau đây là ĐÚNG khi so sánh giữa các bệnh lý ung thư tiêu hóa trong Barem?",
+      "options": [
+        "Di căn hạch vùng chậu hố bịt được xếp vào M1a trong ung thư tuyến tiền liệt",
+        "Di căn hạch góc hàm luôn là hạch vùng N1 của ung thư đại tràng",
+        "Di căn hạch rốn thận được xếp vào M1 trong ung thư thận",
+        "Di căn hạch trên đòn trái (hạch Troisier/Virchow) là giai đoạn M1 trong ung thư dạ dày"
+      ],
+      "correct": 3,
+      "explanation": "Trong ung thư dạ dày (và ung thư ống tiêu hóa nói chung), hạch Troisier (hạch Virchow) ở hố thượng đòn trái là trạm bạch huyết cuối cùng đổ vào ống ngực; khi tế bào u xuất hiện tại đây đồng nghĩa với việc bệnh đã di căn xa toàn thân và được xếp chắc chắn vào giai đoạn M1. Ngược lại, hạch rốn thận là hạch vùng N1 của ung thư thận; hạch hố bịt là hạch vùng N1 của ung thư tuyến tiền liệt (chỉ khi di căn hạch ngoài vùng chậu như sau phúc mạc/trung thất mới là M1a).",
+      "option_explanations": [
+        "Sai: Hạch hố bịt là hạch vùng N1 của tuyến tiền liệt, không phải M1a.",
+        "Sai: Hạch góc hàm không phải hạch vùng của đại tràng.",
+        "Sai: Hạch rốn thận là hạch khu vực (Regional lymph node - N1) của ung thư thận.",
+        "Đúng: Hạch Troisier (hố thượng đòn trái) là di căn xa M1 trong ung thư dạ dày."
+      ]
+    }
+  ]
+}
